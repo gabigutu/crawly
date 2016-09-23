@@ -1,0 +1,128 @@
+<review>
+	<title>Xiaomi Redmi 3S Prime preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/xiaomi_redmi_3s_prime-review-1481.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.0-inch 720p IPS LCD</paragraph>
+			<paragraph>Qualcomm Snapdragon 430 with 1.4GHz octa-core CPU and Adreno 505 GPU</paragraph>
+			<paragraph>2GB RAM, 16GB storage (3S) / 3GB RAM, 32GB storage (3S Prime)</paragraph>
+			<paragraph>13 megapixel rear camera with f2.0 aperture and PDAF, 1080p video</paragraph>
+			<paragraph>5 megapixel front camera with f2.2 aperture, 1080p video</paragraph>
+			<paragraph>Hybrid dual SIM (micro SIM + nano SIM or micro SIM + microSD)</paragraph>
+			<paragraph>4G LTE, VoLTE, Bluetooth 4.1, Wi-Fi 802.11n, IR</paragraph>
+			<paragraph>4100mAh battery</paragraph>
+			<paragraph>Android 6.0.1 with MIUI 7</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Redmi 3S is the latest Xiaomi smartphone to be launched in India, the biggest market for the Chinese manufacturer outside of its home country. The 3S comes in as a replacement for the now ageing Redmi 2, which has been quite popular and has been one of the best phones in its price range for quite some time now.</paragraph>
+			<paragraph>Actually, the Redmi 3S has two variants, named 3S and 3S Prime. The key differences between the two are the greater RAM, storage, and a fingerprint sensor on the Prime model. Both phones run on the Snapdragon 430 - among the first in the market with this particular chipset.</paragraph>
+			<paragraph>Apart from that you also get some other bells and whistles, such as a 13 megapixel camera with PDAF, VoLTE, IR blaster, and a massive 4,100mAh battery.</paragraph>
+			<paragraph>We had the more expensive Prime model with us and that's what this preview is based on but most things mentioned here apply to the cheaper variant as well. With that said, let's get on with it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design<subsectionTitle>
+			<paragraph>Visually, the Redmi 3S Prime looks nearly identical to the Redmi Note 3, especially from the front, where the glass is stretching edge to edge with a chrome finished border matching the color of the phone. Our gold sample had the bezels painted in gold, just like on the Redmi Note 3. The maker of the glass hasn't been confirmed but it is scratch-resistant and survived being scratched with a steel knife. You also get an oleophobic coating.</paragraph>
+			<paragraph>Above the display sits the earpiece with the front camera, proximity sensor, and ambient light sensor. Below it are three capacitive buttons for navigation, which aren't backlit. Below the home key is a tiny RGB notification LED.</paragraph>
+			<paragraph>On the right side of the phone are the volume and power buttons. The buttons on the 3S are made out of plastic unlike the metal buttons on the Note 3, even though they look similar. On the other side is the hybrid SIM tray that holds one micro SIM in slot 1 and one nano SIM or microSD in slot 2.</paragraph>
+			<paragraph>On top of the phone are the headphone jack, IR blaster, and a microphone. On the bottom you get a microUSB connector and another microphone.</paragraph>
+			<paragraph>The back of the Redmi 3S Prime is largely made out of plastic with a thin aluminum coating in the mid-portion and exposed plastic bits at the top and the bottom. The camera and single LED flash are placed on the upper left corner. Below them in the center is the fingerprint sensor. Right at the bottom is the single loudspeaker with a little nib that raises the phone slightly so the speaker doesn't get blocked. The Indian unit also comes with a ton of markings on the bottom (in addition to those on the removable stickers) that cover nearly one third of the phone's relatively small backside and look unsightly.</paragraph>
+			<paragraph>The Redmi 3S Prime feels well built. The metal back gives it a sense of rigidity and it feels slightly sturdier than the Note 3. While it was easy to get the Note 3's display to pop up with a slight flex of the back side, the 3S requires a lot more force due to its smaller dimensions and would thus be more reliable. We did have some issue with the plastic creaking when pressed at the top and bottom but apart from that there wasn't a lot to complain about.</paragraph>
+			<paragraph>One thing that separates the Xiaomi Redmi 3S Prime from the Note 3 is the size. Not everyone wants a big phone and the compact size of the 3S definitely makes it more suitable for those people. At 144g it's also fairly light and quite thin considering the 4,100mAh battery inside.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Redmi 3S has a 5.0-inch 1280 x 720 IPS LCD of average quality. The 720p resolution is starting to show its age but at this price you can't really complain. The display calibration is a bit off and there is a distinct green color cast to it that is especially noticeable when you switch to this phone after using something else.</paragraph>
+			<paragraph>Another thing that's extremely bothersome is that Xiaomi decided to leave its Sunlight Display mode permanently enabled here, unlike on other MIUI devices where it is optional. What Sunlight Display does is adjust the display contrast based on the amount of ambient light and the image on screen. If the image is dark and you are in bright light, it boosts the shadows to make the screen more visible.</paragraph>
+			<paragraph>This is great if you're outdoors under the sun but having it permanently on means the display constantly adapts and changes colors even when you're indoors, which can be very distracting. Watching a video becomes annoying as the display changes color every time the shot changes. Even just going through the menus causes the display to constantly adjust itself. Doing any kind of image editing is also difficult as the screen adjusts to the image so you have no idea what you are looking at anymore. Only a serious oversight could have caused someone at Xiaomi to think a feature as severe as this needed to be permanently enabled and we hope it gets fixed promptly with a firmware update.</paragraph>
+			<paragraph>Xiaomi has also used a lower DPI setting for the 3S, possibly to compensate for the smaller display. This makes things look a bit too large at times, which means you see less content on the screen at once compared to something like the Redmi Note 3.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The Xiaomi Redmi 3S Prime runs on MIUI 7 on top of Android 6.0.1. There isn't a lot new to say about MIUI 7 at this point that we haven't extensively written about before since it debuted last year. Moreover, with MIUI 8 being released and the rollout being just around the corner, everything you read about MIUI 7 here will become outdated very soon.</paragraph>
+			<paragraph>But just to go over it quickly, MIUI on the Redmi 3S Prime is pretty much identical to that on other recent Xiaomi devices. It is still subjectively one of the more feature-rick Android skins out there and MIUI 8 will build further upon it by introducing additional features such as dual apps, second space, enhanced caller ID, improved Gallery and scrolling screenshots. It also irons out some of the MIUI 7 idiosyncrasies such as the weird two pane notification, and brings a more standard UI design.</paragraph>
+			<paragraph>As far as Android Nougat is concerned, when the Redmi 3S Prime will get that (and if at all) is anyone's guess. Xiaomi does a lot of work on MIUI and updates it frequently but doesn't have the greatest track record of updating the underlying version of Android (the recently launched Redmi Note 3 is still on Android 5.1.1).</paragraph>
+			<paragraph>Choosing MIUI basically means forgoing having the latest version of Android. On the positive side Xiaomi tries and incorporate as many features of newly released versions of Android within MIUI itself so you don't feel like you're missing out on a lot. However, this often leaves out features intrinsic to the OS, such as the new emoji support or the Vulkan API.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery Life<subsectionTitle>
+			<paragraph>The Redmi 3S Prime has a massive 4100mAh battery inside its compact body. With that and a chipset tuned for efficiency, we expected exception battery life and we got it. Xiaomi promises two day battery life with this phone, and that's mostly what you can expect to get.</paragraph>
+			<paragraph>We got screen-on time upwards of ten hours at times, with standby times reaching around two days max, or a day and a half with heavy use. Those who will buy this phone primarily for calling, checking emails, and sending messages might even see three days of battery life. It really is the highlight of the phone and by itself a good enough reason to consider it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Xiaomi Redmi 3S duo runs on Qualcomm Snapdragon 430 with octa-core Cortex-A53 CPU clocked at 1.4GHz and Adreno 505. It's a significant improvement over the Snapdragon 410 on the Redmi 2 and snapping at the heels of the Snapdragon 616. The Redmi 3S comes with 2GB RAM and 16GB storage whereas the more expensive Redmi 3S Prime gets 3GB RAM and 32GB storage.</paragraph>
+			<paragraph>The performance on the 3S was a bit underwhelming. The UI doesn't feel anywhere near as fluid as that on the Redmi Note 3. There is noticeable stuttering while scrolling in apps, which gets particularly bad in Chrome especially when you hit an ad on the page while scrolling, in which case the framerate tanks pretty hard. Despite having a much more powerful processor, the 3S often feels less fluid than the outgoing Redmi 2. It seems the performance is set to either conserve battery or to prevent overheating of the phone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The phone does manage its memory quite well. On the 3GB Prime model, we could keep a bunch of apps, 7-8 tabs in Chrome, and a game comfortably open in the background without the phone running out of breath.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Gaming is a definite improvement over the Redmi 2. The phone can play most games relatively well, with only the most demanding games stuttering at their max settings. The phone does have a tendency to heat up, however. Games that tend to hit the CPU particularly hard (_PRISM is a good example) tend to cause the upper back of the phone to warm up considerably.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Multimedia performance is decent. You get the usual robust codec support from Xiaomi, extending all the way to AC3 and DTS audio codecs meaning you can play most audio video formats without needing to install a separate video player for them. There is no video player as such so you will have to play them through the Gallery app. You do get a dedicated video player, however, along with Google Play Music and oddly the former can be uninstalled but not the latter. There is also an FM radio app. The audio quality through headphones is good and it also gets plenty loud. The loudspeaker is neither of those things.</paragraph>
+			<paragraph>The fingerprint sensors on Xiaomi phones have never been particularly great and the 3S is no different. It's pretty inconsistent and can take a while to unlock at times or completely ignore your finger the other times. It's also placed quite far up to make space for the battery underneath and even on this relatively small phone is a bit of a stretch. The one on the Redmi Note 3 is actually easier to reach than this one even though that phone is much larger.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Xiaomi Redmi 3S Prime has a 13 megapixel camera at the back with f2.0 aperture and phase detection autofocus. The camera can also do 1080p video.</paragraph>
+			<paragraph>Daylight images show a fair bit of detail and good color accuracy. There is also not a lot of over-sharpening going on here. Where the image lacks is dynamic range. There is also noticeable noise in the shadows, even at the lowest ISO level.</paragraph>
+			<paragraph>Low light performance isn't great with the images turning out excessively soft and look almost out of focus. Thankfully there is a night mode that increases the detail in the image at the cost of some chromatic noise, which makes them look a lot better.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>  Xiaomi Redmi 3S Prime low-light samples</paragraph>
+			<paragraph>The standard camera mode doesn't allow a lot of adjustments other than exposure. There is a manual mode that only adds white balance and ISO. The white balance points aren't well calibrated - the daylight mode, for example, turns the image excessively blue. The ISO adjustment isn't particularly useful either, meaning it's best to use the camera in auto mode.</paragraph>
+			<paragraph>The camera app does include an HDR mode that somewhat compensate for the otherwise low dynamic range. However, it produces images that have a heavily overprocessed look due to the heightened shadows and saturation, and dark objects on bright backgrounds have noticeable halos around them.</paragraph>
+			<paragraph>The HDR mode also takes a while to process the images, five seconds to be exact, which considerably raises shot to shot time. There is also no auto HDR so it has to be invoked manually every time.</paragraph>
+			<paragraph>The 1080p video looks surprisingly good for a budget phone, as most phones in this price range just tend to extrapolate low resolution video to 1080p resolution. There is no slow motion mode on this phone but you can shoot timelapses.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Verdict<subsectionTitle>
+			<paragraph>The Redmi 3S is now Xiaomi's entry-level smartphone, selling for INR 6,999 in India, which is just about $104. Even the more expensive Prime model is a very reasonable INR 8,999 ($134), and more than makes up for it by offering more RAM, storage, and a fingerprint sensor.</paragraph>
+			<paragraph>The Redmi 3S does, however, live in the shadow of the Redmi Note 3. Unlike its superstar elder sibling that just can't stop itself from breaking sales records and is the phone to buy in that price range, the case for the 3S isn't quite as clear cut. We have now gotten used to Xiaomi phones offering hardware well above their price range but that's not quite the case with the 3S.</paragraph>
+			<paragraph>Using the 3S, there was nothing about it that stood out to us, other than the battery life. It's not a phone that's out to impress you and go above and beyond what you expect at its price range. Everything it does seems just about what you would expect from a phone that costs as much.</paragraph>
+			<paragraph>There are definite areas where Xiaomi could improve. The display calibration could improve and the annoying Sunlight Display mode needs to be made optional. The performance needs to be boosted even at the cost of battery life, seeing as how the phone definitely has enough juice. The camera could also use some tweaking.</paragraph>
+			<paragraph>The pricing is also a bit tricky. The Prime model is definitely the one to go for between the two, but then you could just spend about $15 more and get the 16GB Redmi Note 3 instead, which is a vastly superior phone in almost every way. The only reason to consider this phone over the Note 3 is if you absolutely must have a smaller phone. Or if you have a tight budget, in which case it makes sense to go for the cheaper 16GB model.</paragraph>
+			<paragraph>All said and done, we couldn't help but be slightly underwhelmed by the Redmi 3S. It's not that it's a bad phone, but more a case of us getting used to Xiaomi phones being good regardless of their price, whereas the Redmi 3S is merely good for the price and nothing more.</paragraph>
+		</subsection>
+	</page>
+</review>

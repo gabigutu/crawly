@@ -1,0 +1,276 @@
+<review>
+	<title>Meizu m3 note review</title>
+	<description>To the metal</description>
+	<link>http://www.gsmarena.com/meizu_m3_note-review-1444.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.5" 1080p LTPS IPS LCD display of 403ppi</paragraph>
+			<paragraph>Flyme OS 5 UI on top of Android Lollipop</paragraph>
+			<paragraph>MediaTek Helio P10: octa-core Cortex-A53 processor (4x 1.8GHz + 4x 1.0GHz), Mali-T860MP2 GPU, 2GB or 3GB of RAM</paragraph>
+			<paragraph>13MP camera with two-tone LED flash, 1080p video recording @30fps</paragraph>
+			<paragraph>5MP front-facing camera with 1080p@30fps video recording</paragraph>
+			<paragraph>16GB or 32GB of built-in storage; expandable via a microSD slot</paragraph>
+			<paragraph>Cat. 4 LTE (150/50Mbps); Dual SIM; Wi-Fi a/b/g/n; Bluetooth 4.1; GPS/GLONASS/Beidou; USB On-The-Go</paragraph>
+			<paragraph>mTouch Home button with a fingerprint scanner</paragraph>
+			<paragraph>Active noise cancellation via a dedicated mic</paragraph>
+			<paragraph>4,100mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Launches on Lollipop</paragraph>
+			<paragraph>No FM radio or NFC</paragraph>
+			<paragraph>No fast charging</paragraph>
+			<paragraph>Weaker GPU than the one used in the m1 metal</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>We guess many users have always looked forward to the Meizu Note lineup. The m1 note (also known as Blue Charm Note in China) started it all - it boasted a big screen and an overall great package for the price. The m2 note simply widened the LTE network coverage and enabled memory expansion. The latest Meizu m3 note builds upon that with a faster processor, a bigger battery and a more premium, all-metal design.</paragraph>
+			<paragraph>The Meizu m3 note keeps the 5.5" 1080p display for a third generation in a row, but does well to move on to a more potent Helio P10 chipset backed up by a 4,100mAh battery. The rest of the more prominent features are inherited from the m2 note: a 13MP main camera, 16 or 32GB of expandable storage, LTE connectivity, dual-SIM telephony, and a clever and useful Home button.</paragraph>
+			<paragraph>Just like its Pro 5 and Pro 6 siblings, the m3 note incorporates a fingerprint scanner within its single hardware key at the front. But the biggest and most welcome change is surely the premium all-metal design, which improves the looks, hand-feel and build quality over the plastic shells of the first two generations.</paragraph>
+			<paragraph>Interestingly, the Meizu m1 metal already demoed most of the features the m3 note is now introducing, but its patchy availability was a problem. Hopefully, that's not an issue for the m3 note so let's move on to what we're really getting.</paragraph>
+			<paragraph>There are very few notable omissions in the Meizu m3 note and fast battery charging is probably the one that stands out. The Android version is fairly recent but, frankly, the lack of Marshmallow might actually become an issue down the road. Considering Meizu's OS update record, the m3 note isn't too likely to get upgraded. What comes across as a less capable GPU than the m1 metal's is something we'll pay due attention to in the relevant chapter.</paragraph>
+			<paragraph>Of course, we are going to try and address all of the key features and potential deal-breakers as we go. So, let's get to it. Our habitual hardware overview follows right after the break.</paragraph>
+			<paragraph>Special thanks to HonorBuy.com and Meizu for providing review units.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Meizu m3 note<subsectionTitle>
+			<paragraph>Just like most of the midrange smartphones we've tested lately, the retail box of the Meizu m3 note delivers just about the basics. Inside the paper box we find a fast 2A charger and a microUSB cable. There is also a SIM extraction pin, but no headphones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Meizu m3 note 360-degree spin<subsectionTitle>
+			<paragraph>At 153.6 x 75.5 x 8.2mm, the Meizu m3 note weighs in at about 163g. Sized up to the m2 note, the successor is a tad taller and 14g heavier. The weight is identical to the m1 metal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design<subsectionTitle>
+			<paragraph>The Meizu m3 note is done with the plastic finish of its predecessors, but still keeps the overall shape and feel familiar. In fact, the m3 note is very similar to the Meizu MX5 from last summer, with just a few minor refinements on the front.</paragraph>
+			<paragraph>The m3 note features an all metal subtly curved rear cover, save for - of course - the antenna cutouts covered with plastic. We've seen the same pattern on the MX5, among other flagships in the past. The m3 note manages to paint the two plastic pieces right, so they don't stand out unpleasantly from the uniform metal piece that is the rear cover.</paragraph>
+			<paragraph>The Dinorex T2X-1 scratch/shock resistant glass protecting the 5.5" display is following the latest trend, being manufactured with the popular 2.5D effect. It somewhat makes the phone look a bit thinner and improves the handling by removing the sharp edge where the glass meets the metal.</paragraph>
+			<paragraph>We've heard nothing but praise about the Dinorex T2X-1, and while no stress testing was intended, we were unfortunate enough to drop the phone twice from about 1m. The first time it landed face down on a paved street and the glass took deep scratches.</paragraph>
+			<paragraph>We were stunned how easily it was ruined. An hour later we dropped it face down again on a wooden floor and the glass cracked in the top right corner. Those two accidents did put the Dinorex T2X-1 qualities in question.</paragraph>
+			<paragraph>Other than that though, we have nothing but positive impressions with the Meizu m3 note construction. Its solid build and thoughtful design makes for premium looks, unspoiled by the subtle design of the antenna cutouts.</paragraph>
+			<paragraph>A 5.5" display isn't perfectly suited for one-handed operation, but the phone still feels great in hand and you can easily do the important stuff with one hand. It isn't as lightweight as the MX5, but still slips nicely into pockets. The grip is secure enough, but because of the big footprint and the suspicious screen glass we'd recommend handling it extra carefully.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above that big 5.5" display we find the earpiece surrounded by the 5MP selfie snapper and a bunch of sensors. Below the screen is the mTouch fingerprint scanner / Home button combo. This key is both capable of hardware press (Home) and capacitive touch (Back).</paragraph>
+			<paragraph>The dual-SIM tray is lonely on the left side of the m3 note, while the volume rocker and the power/lock key are on the right. All of these are made of metal.</paragraph>
+			<paragraph>The Meizu m3 note has its audio jack on top, disturbed only by the secondary mic. The bottom is pretty crowded - the regular microUSB port sits in between two grilles - one for the primary mic and one for the single speaker.</paragraph>
+			<paragraph>The back is where we find a 13MP camera lens accompanied by a dual-tone LED flash.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The display of the Meizu m3 note employs a 5.5" LTPS IPS LCD panel of 1080p resolution. The colors are nicely saturated and the viewing angles are quite good.</paragraph>
+			<paragraph>The high resolution is definitely a treat for the price and more than sufficient at 1080p. 403ppi is sharp enough and you wouldn't really tell the difference to any QHD screen on the market unless you're looking at some really small fonts. The m3 Note's display matrix is a standard RGB arrangement.</paragraph>
+			<paragraph>In terms of maximum brightness (425nits), the Meizu m3 note's screen does about average but lower than its predecessor. Its black levels are not as good as those on the m2 note and m1 metal either, and so in the end, the m3 note posted an underwhelming contrast ratio of 816:1.</paragraph>
+			<paragraph>In terms of color rendering, the Chinese model of the Meizu m3 note scored below average with a DeltaE of 7.9 and a maximum deviation of 14.2 in the whites. The color saturation wasn't anything close to uniform - the whites are always bluish, most of the colors circle around DeltaE of 10, while there are some which are on the spot.</paragraph>
+			<paragraph>The display on the international unit turned out better calibrated with an average DeltaE of 5.1. Its white and gray colors are way off, with a purple tint, and maximum deviation of 11.2. The cyan colors is off, too, circling around a deviation of 10. Moving the screen calibration slider away from the middle made things worse, so you should not be doing that.</paragraph>
+			<paragraph>The minimum display brightness of the Meizu m3 note is 5.7nits (3.6nits for the international unit), which is about what we would consider as comfortable to operate in dark environment without straining your eyes, though even lower would have been better.</paragraph>
+			<paragraph>Outdoors, the Meizu m3 note is a below average performer in terms of sunlight legibility. The glass on top of the display is quite reflective, so most of the time you'll be able to barely see what's happening on the screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Powered by an impressive 4,100mAh battery, the Meizu m3 note promises solid uptime on a single charge. It's a 30% upgrade over its predecessor, which already managed above average score of 69 hours.</paragraph>
+			<paragraph>Naturally, we tested the phone in Performance Power Mode. You can save a few more hours on the Balanced Plan, if you like.</paragraph>
+			<paragraph>Having seen the Helio X25 flop at the battery test for the Pro 6, we had lower expectations for the Helio P10 - the MediaTek hardware rarely goes above the average.</paragraph>
+			<paragraph>And yet, the m3 note and its Helio P10 managed to surprise us. The phone aced the 3G talk battery test, as it did the web browsing and video playback routines. Its standby endurance, in both single and dual SIM mode, turned out way above average.</paragraph>
+			<paragraph>With such great scores on the individual tests, the Meizu m3 note's overall endurance rating chimed in at 93 hours. That means you can use the m3 note for just shy of 4 full days if you are to make an hour each of 3G talks, web browsing and video playback a day. Putting a second SIM card drops the rating down to 92 hours. Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Meizu m3 note comes with quad-band 2G/GPRS/EDGE support, quad-band 3G with HSDPA and HSUPA, as well as Cat.4 LTE support. It's compatible with the same bands as the m1 metal.</paragraph>
+			<paragraph>The m3 note has dual-SIM, dual-standby functionality - 3G and LTE are supported only on SIM1, while SIM2 can tap into 2G GSM networks only. You can put a microSD memory card inside the second SIM slot.</paragraph>
+			<paragraph>The m3 metal has dual-band Wi-Fi a/b/g/n with DLNA, so you can play media (photos, videos, music) from DLNA-enabled devices or push content from your phone to a DLNA-compatible TV or music player.</paragraph>
+			<paragraph>Bluetooth 4.0 is also enabled, complete with A2DP.</paragraph>
+			<paragraph>The microUSB 2.0 port supports USB host so you can attach USB flash drives or connect peripherals.</paragraph>
+			<paragraph>You can also stream your display via the Wireless Display feature (Miracast).</paragraph>
+			<paragraph>GPS, GLONASS, BDS support is available. There is however no FM Radio, IR port or NFC on the Meizu m3 note, there is no wired TV-out option either.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Flyme OS 5.1 on top of Android Lollipop<subsectionTitle>
+			<paragraph>The international Meizu m3 note runs on Flyme 5.1 OS, which was built on top of an already outdated Android 5.1 Lollipop core. The Chinese models comes with the so-called Yun OS, which is a forked version of Android with Chinese-exclusive services to replace everything Google's.</paragraph>
+			<paragraph>The international models come with all must-have Google APIs and apps. Unfortunately, those models lack Flyme account integration and thus there is no theme support because the Theme Store is part of the Chinese ROM.</paragraph>
+			<paragraph>The Flyme OS 5 lockscreen is a pretty simple affair - you drag upwards to unlock and have the option of securing it with a passcode, an unlock pattern, or use the fingerprint reader (it's not always-on, sorry). There are no shortcuts on the lockscreen, but you get a quick access to the camera.</paragraph>
+			<paragraph>Gesture wake up is available - you can use pre-defined gestures to launch different apps while your phone is asleep - double tap to wake and swipe to unlock work by default, but you can also use swipe down, or other gestures such as Z, M, U, W, among others to launch apps of your choosing.</paragraph>
+			<paragraph>Holding down the home button will launch Meizu's Voice Search, but you can change this quick action if you want.</paragraph>
+			<paragraph>The homescreen is simple - you get two panes by default but you can add more later on. The homescreen gathers all of your app icons and you can add widgets into the mix.</paragraph>
+			<paragraph>The notification area features a set of four circular toggles for various settings and you can expand them with a swipe down or with the dedicated virtual button in the top right. The rest of the notification area is a basic list or expandable, actionable notifications.</paragraph>
+			<paragraph>Switching between tasks is done with a pull up menu from the bottom of the screen. The task switcher is a 3D scrollable carousel and there is an option to close all active/suspended apps. The option to pin an app (tap and hold) is here to stay - the pinned app will always stay in recent apps at the state you closed it.</paragraph>
+			<paragraph>Flyme 5 supports multi-view, which is also managed via the task switching interface. The supported apps have a 'Multi' button and you can activate a split-screen app right away. Unfortunately, the apps to support multi-view are only five - News, Video, Settings, Documents and Smart Voice. Hopefully, this list will grow bigger with the upcoming firmware updates.</paragraph>
+			<paragraph>You can customize the UI with various themes, but only if you get the Chinese version. The international m3 note lacks theme support and store. If you have the Chinese one, you can browse the App Center or the Theme Store for themes - some of them are paid but there are many free and a lot to choose from. There's also a variety of built in wallpapers.</paragraph>
+			<paragraph>There's a Do Not Disturb mode that will block notifications and calls and you can choose a white list of numbers that can get through. It can be scheduled to run at specific time intervals or be set manually.</paragraph>
+			<paragraph>There is one more option - Scheduled Power On and Off - you can setup your Meizu m3 note to shut down and boot up at a specific time on specific week days - just like alarms.</paragraph>
+			<paragraph>The m3 note is a rather big smartphone with its 5.5" display, so Meizu provides a way for single-handed operations with the so-called Smart Touch. It's a movable virtual 4-way key, like a D-Pad, and you can assign different functionality to each of the directions, tap and hold, tap, and double tap. For example, moving the key downwards brings down the notification area, moving it towards right acts as Back. If configured properly, it can very much allow you to control the m3 note with just one hand when you are on the move.</paragraph>
+			<paragraph>Flyme OS can be tough to get around at first but once you've gotten your bearings it becomes a treat to work with. Meizu is keeping things as simple as possible and everything works seamlessly without any hiccups.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Meizu m3 note runs on the MediaTek Helio P10, which isn't widespread as the X10. The P10 packs an octa-core processor with 4x Cortex-A53 at 1.8GHz and 4x Cortex-A53 at 1.0GHz. While the core count is on par with the m1 metal the clock speed is lower and the GPU is quite uninspiring - the Mali-T860 MP2 (read dual-core) and it may throttle the overall performance.</paragraph>
+			<paragraph>First things first, lets see how this monstrous CPU setup stacks against the competition.</paragraph>
+			<paragraph>The single-core performance of a 1.8GHz Cortex-A53 core is bound to hit the bottom of the charts nowadays - the m1 metal's 2.0GHz Cortex-A53 does slightly better, of course. Snapdragon's Cortex-A72 inside the Redmi Note 3 is way ahead though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>But the Cortex mantra is pretty much the more the merrier, so we'd expect 8 cores to perform on par. And they did - at least on par with the last year's m2 note, which has a similar processor. The Helio X10 inside the m1 metal and MX5 is no match for the P10, even the two-years old m1 note does better than its m3 note successor. Ouch!</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Meizu m1 metal, with similar screen, design, and pricing, offered a powerful PowerVR G6200 GPU. The m2 note predecessor had a Mali-T720 MP3 (tri-core) GPU and the first-gen m1 note came with a more powerful Mali-T760 MP2. The new m3 note comes with a questionable Mali-T860 MP2 (dual-core) graphic unit, which we are yet to see how it stacks against the competition coming from its own siblings. Even though the newer generation graphics, we expect a drop in the performance because of the less GPU cores.</paragraph>
+			<paragraph>Now about those raw benchmarks. Indeed, the Meizu m3 note's GPU managed to beat the m2 note, but that's its highest achievement. It came a hair lesser than the m1 note's but the more disturbing news is the big gap between the m3 note and m1 metal GPU performance. Weren't those two supposed to be besties? Apparently not.</paragraph>
+			<paragraph>The Adreno 510 inside the Snapdragon 650-powered Redmi Note 3 beats all Mali GPUs in our chart.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The BaseMark X results just put more concrete on the statements above.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The compound test BaseMark OS II 2.0 puts the Meizu m3 note on par with the m1 note (yay?) but behind its m1 metal sibling. The benchmark gauges not only CPU, GPU and UX, but also memory and browser performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Meizu m3 note does OK for a mid-ranger and its processor has enough punch to handle most tasks, even though it's a notch behind the curve. The GPU performance is what really slows the P10 and fails to make the m3 note a worthy performer over the preceding m1 note and m1 metal.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>At its core, the phonebook on the Meizu m3 note is a list of all contacts but you can view only a specific group or filter where contracts come from - phone contacts, email account or a Meizu account.</paragraph>
+			<paragraph>The dialer features smart dialing, which is nice. Otherwise it doesn't differ from any other in functionality.</paragraph>
+			<paragraph>The Meizu m3 note has all reception bars full and held onto signal great even in tighter spots. Call quality is very good. A dedicated mic for active noise cancellation makes sure the other party hears you loud and clear.</paragraph>
+			<paragraph>The phone supports dual-SIM with dual-standby. The second SIM supports GSM networks only, while the primary works on 3G and LTE. Managing the SIM cards is very easy as is initiating calls and sending texts.</paragraph>
+			<paragraph>The Meizu m3 note scored an Average mark at our loudspeaker test and outed similar results to its m1 metal and m2 note siblings. The speaker sound quality is also about average for a single-speaker setup with not that deep sound.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>The messaging department is quite straightforward: there are no folders here, just New message, Search and Settings buttons. Above is a list of all your messages organized into threads.</paragraph>
+			<paragraph>Meizu has tweaked the generic email client. It supports multiple Exchange, POP or IMAP inboxes and you have access to the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The gallery<subsectionTitle>
+			<paragraph>The Flyme gallery has two viewing modes - photo and gallery. The photo stacks images into months while the gallery puts them into folders. You can add or remove folders from the gallery and also search through it.</paragraph>
+			<paragraph>There's also a built-in editor that offers filters and all the basic controls for contrast, brightness and you can even add blur or vignette. You cannot use different editors from the stock gallery and would need to install a third-party gallery (like Google's Photos) to have different editors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The music player can only find tracks located in the Music folder. You can browse your collection the traditional way or you can select to have it filtered by folders.</paragraph>
+			<paragraph>In the first case tracks are sorted into several playlists like All songs, Recently added, Folders and you have the option to create custom playlists. When viewing All songs you can choose between three types of sorting in a tabbed layout: song name, artist and album.</paragraph>
+			<paragraph>You can access the equalizer from the advanced menu. It features several presets, which you can edit manually - but you need to insert the headphones first.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great video player<subsectionTitle>
+			<paragraph>The Meizu m3 note comes with a dedicated Video app, but it expects videos to be placed in the video folder. You can use the file browser or gallery to get videos to play from elsewhere - it offers thumbnails and everything so we ended up using it more often than the Video app itself.</paragraph>
+			<paragraph>There's a pop-out option that allows you to view the video as an overlay to the OS.</paragraph>
+			<paragraph>The Meizu m3 note played everything we threw at it - Xvid, DivX, MP4, MOV, WMV and it supports the AC3 audio codec, too. Subtitles are supported, but it recognizes only Latin and Chinese characters.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is clear but quiet<subsectionTitle>
+			<paragraph>The Meizu m3 note delivered flawlessly clean output with an active external amplifier. Its volume levels were rather disappointing though, so we can?t give it full marks here.</paragraph>
+			<paragraph>Plugging in our standard headphones didn?t cause too much damage - the stereo crosstalk rose signifacantly but that was about it. However with the volume starting point already low the m3 note remained below average even if it didn?t lose any extra ground.</paragraph>
+			<paragraph>Here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A 13MP camera with a dual-tone LED flash<subsectionTitle>
+			<paragraph>The Meizu m3 note has a 13MP camera sensor that's capable of capturing 4208x3120px snaps in 4:3 aspect. There's also a dual-tone LED flash that should allow for more pleasing colors in low light flash photos.</paragraph>
+			<paragraph>The camera interface by default launches into Auto mode where the camera determines the shooting parameters. You have the option to turn on HDR (but no automatic HDR), gridlines for the viewfinder and a level gauge so that your horizon isn't off tilt. There's also an option to enable a timer of either 3, 5 or 10 seconds.</paragraph>
+			<paragraph>Available shooting modes include Auto, Macro, Manual (where you can set the shutter speed up to 10s, ISO, exposure compensation and even the focus - from macro to infinity), Beauty (which can make eyes bigger, face slimmer, skin smoother and lighter), Panorama, Light field (which is Meizu's refocus app allowing you to defocus any part of the scene), Scan (for QR and barcodes), and Slowmotion.</paragraph>
+			<paragraph>The Meizu m3 note snaps rather disappointing 13MP pictures. The resolved detail is compromised by a blurry spot near the very center and there are high levels of noise. Sometimes we needed to select the focus point manually because the autofocus failed rather miserably.</paragraph>
+			<paragraph>On a positive note, the dynamic range is OK and the colors, contrast and white balance were quite accurate.</paragraph>
+			<paragraph>The HDR mode is meant to bringing back detail in the highlights and the shadows. On the Meizu m3 note it does a very good job, and sometimes it even produces more accurate colors than the Auto mode.</paragraph>
+			<paragraph>Panoramas are far from impressive on the Meizu m3 note, too. There is plenty of resolution and good overall exposure but the resolved detail is far too low and smudged.</paragraph>
+			<paragraph>Finally, you can check out a 5MP image taken with the front-facing camera of the device. It offers more than enough detail for a selfie camera, the colors are great as is the contrast.</paragraph>
+			<paragraph>We've uploaded full resolution (13MP) photos to our photo quality comparison database to compare against other high-resolution smartphones. You can clearly see the superiority of the Lenovo K5 Plus (bottom left) and Xiaomi Redmi Note 3 (bottom right) - both phones resolve more detail and process the images better.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video recording at 30 fps<subsectionTitle>
+			<paragraph>The Meizu m3 note shoots videos up to 1080p resolution at 30fps. There's no 60fps smooth motion option.</paragraph>
+			<paragraph>All videos from m3 note camera are stored in MP4 containers, the video bitrate is about 17Mpbs and the framerate is stable. This time around the audio is stereo - it uses an AAC codec with 128 Kbps bitrate and 48 KHz sampling.</paragraph>
+			<paragraph>Framerate stays firmly at 30fps and we got almost no dropped frames.</paragraph>
+			<paragraph>The resolved detail is quite poor though, the additive noise is once again getting in the way and makes the samples unpleasantly grainy. The contrast and colors are very good, though. Here is sample we've uploaded on YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also directly download the 1080p@30fps video sample.</paragraph>
+			<paragraph>Head to our Video quality comparison tool for a comparative look at the m1 metal video recording capabilities. Once again the Redmi Note 3 wins here (bottom left), while the m3 note and m1 metal (bottom right) are on par and rather uninspiring.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The MX browser<subsectionTitle>
+			<paragraph>The latest version of the MX web browser utilizes almost the entire screen real estate to the web page, save for the status bar on top and a tiny bar on the bottom for Refresh, Tabs and Bookmarks. Choosing Tabs opens a quick pop up preview of your open tabs instead of bringing up an entirely new screen, which is great as it still leaves the website you're on in plain view.</paragraph>
+			<paragraph>The browser comes with an integrated ad-blocker. Oddly, it advertised Flash support, too, but we weren't able to run Adobe Flash content after all.</paragraph>
+			<paragraph>There's even a Reading mode and our favorite Night mode, which inverts the background and text colors and makes it really easy to read at night.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>The Meizu m3 note features a calendar that supports multiple online accounts. It offers monthly, weekly, daily and agenda views and is pretty straightforward to work with. Creating a new event lets you set which calendar to store it in, along with a reminder.</paragraph>
+			<paragraph>The Calendar has a very minimal, clean look but retains all the functionality you'd expect. You can also go for the Google Calendar - it's available for download as a separate app from the Play Store.</paragraph>
+			<paragraph>Moving on, we have the Clock app that will handle multiple alarms with custom repeat times, ringtones, snooze time and labels. There are also a stopwatch and timer integrated within the Clock app.</paragraph>
+			<paragraph>A calculator app is also on board. Interestingly you can use it as a pop-up app over the homescreen and other apps, such as MX browser. It offers a currency, length, weight, and volume converter, too.</paragraph>
+			<paragraph>There is a very helpful Toolbox app, which provides a flashlight, a mirror, compass, level, ruler and magnifying functions.</paragraph>
+			<paragraph>The Memos app is clean and simple. You can add notes, images and even check lists into it.</paragraph>
+			<paragraph>The preinstalled file manager lets you browse through the memory of the Meizu m3 note or through Recent, or through different media types - music, videos, pictures, etc. It allows copy, cut and paste and also sharing of files on your device.</paragraph>
+			<paragraph>Perhaps the highlight of Meizu's homebrewed apps is the Security app. It lets you scan for viruses, clean junk files, keep an eye on your large files, manage your data traffic, and most importantly - control the permissions for each app you install.</paragraph>
+			<paragraph>Finally, there is a News app, which aggregates stories from sources by your choosing. It's highly customizable and is able to give you push notifications of stories as they are coming.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Meizu m3 note key test findings<subsectionTitle>
+			<paragraph>The Meizu m3 note offers great build quality and hand feel. The solid construction is balanced by subtle plastic antenna strips and the curved 2.5D front glass is a nice touch.</paragraph>
+			<paragraph>The mTouch home button is the most practical home button we've seen - accepting fingerprint scans, presses and taps though it needs some time getting used to;</paragraph>
+			<paragraph>The screen is a mixed bag: below average brightness levels produce uninspiring contrast ratio. The color rendition fails to impress too. Viewing angles are OK, but the sunlight legibility is poor;</paragraph>
+			<paragraph>The battery rating is an impressive 93h, the scores across all tests are consistent, including the standby endurance (both single and dual-SIM);</paragraph>
+			<paragraph>The Flyme OS is fluid and responsive, unlocking gestures are just as good, the mTouch button has some great added functionality (closing apps, navigating a step back). Great customization options via themes;</paragraph>
+			<paragraph>The Helio P10 chipset is behind the Helio X10 and while it packs a decent CPU punch, its GPU capabilities are rather limited.</paragraph>
+			<paragraph>The speaker loudness is average, the sound output is rather shallow;</paragraph>
+			<paragraph>Video player has rich video and audio codec support;</paragraph>
+			<paragraph>Clear audio output, but quiet;</paragraph>
+			<paragraph>Subpar still camera performance - good dynamic range and colors, but poor level of resolved detail, lots of noise, soft spots plague the photos.</paragraph>
+			<paragraph>Disappointing panoramic images, OK selfies;</paragraph>
+			<paragraph>The 1080p videos came out with bellow average detail, over-sharpened.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Meizu m3 note is an upgrade that doesn't go above and beyond - quite typical of the Chinese maker's phablet lineup actually. The m2 note didn't make a splash but offered meaningful add-ons such as the wider LTE coverage and a microSD slot.</paragraph>
+			<paragraph>The m3 note in turn refines the design with a metal unibody and 2.5D glass, while trying to take performance one step further with the Helio P10 chipset. The clever mTouch button with a fingerprint scanner is a welcome feature as well.</paragraph>
+			<paragraph>To be fair, the Meizu notes are targeting the budget-conscious crowd and that restrained upgrade routine is more than justified. Yet, somehow none of the more recent Meizu phablets have been able to match the positive impression of the original m1 note that sticks long after its debut. It was a powerful yet affordable smartphone, with a great display, capable camera and solid battery life.</paragraph>
+			<paragraph>There's yet another sibling though that's hardly doing the m3 note any favors. The Meizu m1 metal was launched a few months back and instantly made a statement with its premium design and better performance thanks to a Helio X10 engine.</paragraph>
+			<paragraph>Just like the m1 metal, the new Meizu m3 note goes for a higher-tier bodywork but, in contrast, fails to deliver a matching performance. The m1 metal is superior in both processing power and graphics. The only thing the m1 metal cannot possibly match is the impressive battery life of the m3 note.</paragraph>
+			<paragraph>Considering the overall cautious approach to upgrades in the Meizu note lineup, the m3 note is hardly a surprise. It has the impressive battery backup to set it apart and is definitely on the more attractive side of its midrange price bracket with a metal build.</paragraph>
+			<paragraph>Overall, a pretty credible package until you take a closer look at the alternatives. The thing is, you don't even have to look further than Meizu's very own lineup.</paragraph>
+			<paragraph>We mentioned the Meizu m1 metal more than a couple of times and for a reason. It does deliver better in terms of both CPU and GPU. If you are OK with sacrificing some battery life for superior performance, the m1 metal is a must-see. Oh, and it's some $30 cheaper.</paragraph>
+			<paragraph>Add an extra $25 or so and you can get the Meizu MX5. The m3 note's design was inspired by the MX5, but in addition to the more powerful Helio X10 chipset, the MX5 brings an AMOLED screen and a vastly superior camera. Meizu better adjust that price gap one way or another.</paragraph>
+			<paragraph>Xiaomi's Redmi Note 3, in either the Helio X10 or the Snapdragon 650 powered version, is beyond doubt a strong contender too. The Redmi Note 3 is all metal, with a better screen, superior performance and better imaging. Both variants cost less than the Meizu m3 note, which should put them firmly on your shortlist.</paragraph>
+			<paragraph>The Lenovo K5 Note is built on a similar base as the m3 note. And yet, it still manages to improve its chances by offering a high-res selfie camera and better audio. It can't deliver the same battery life though and supports even fewer LTE bands.</paragraph>
+			<paragraph>The recently announced Moto G4, which may fail to impress with a Snapdragon 617 chip, is a solid choice for the on-time Android updates. It's made of plastic but makes up for that with much better network support, an FM radio, and always the latest OS version.</paragraph>
+			<paragraph>Finally, either LeEco's Le 2 or the Le 1s are appealing enough and priced closely to the m3 note. The 5" Le 2 runs on the Helio X20 chipset and offers a better camera setup, while the 5.5" 1s has the Helio X10 under the hood, supports 2160p video recording, and has a USB Type-C port. Both handsets run Android Marshmallow, which is a definite advantage.</paragraph>
+			<paragraph>Overall, the m3 note is the usual solid package by Meizu. At a first glance, it's quite capable of getting the attention of budget-conscious users but we couldn't help the feeling that Meizu isn't doing itself a favor timing its latest releases. A tight, focused lineup used to work in their favor. Have they grown in number but fallen out of step?</paragraph>
+			<paragraph>Now, the plan for the m3 note and the m1 metal may have been to never get in each other's way. But they will inevitably - be it just for the fact that the latest generation of a highly rated phablet lineup is just a repackaged last season's release.</paragraph>
+			<paragraph>Special thanks to HonorBuy.com and Meizu for providing the review units.</paragraph>
+		</subsection>
+	</page>
+</review>

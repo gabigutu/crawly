@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>BioShock : The Collection</nameFr>
+	<typeEn>Game</typeEn>
+	<typeFr>Jeuxvideo</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/jeuvideo/Bio_Shock_The_Collection/21810059</link>
+	<generalScore>null</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>Alfred Hitchcock Presents</nameEn>
+	<nameFr>Alfred Hitchcock Présente</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>1955</year>
+	<link>http://www.senscritique.com/serie/Alfred_Hitchcock_Presente/197057</link>
+	<generalScore>8.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>44</numberOfVoters>
+		<numberOfVoters>157</numberOfVoters>
+		<numberOfVoters>306</numberOfVoters>
+		<numberOfVoters>148</numberOfVoters>
+		<numberOfVoters>58</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Un véritable petit miracle</title>
+		<author>Eric Pokespagne</author>
+		<date>2015-03-30</date>
+		<score>0.8</score>
+		<content>L'un des événements de l'année pour les cinéphiles aura été sans conteste la publication en coffret des 20 épisodes de la célébrissime série TV "Alfred Hitchcock Présente..." tournés par le maître lui-même. Mais la grande surprise aura été d'en découvrir la qualité, la plupart d'entre eux présentant une mise en scène au niveau de ses chefs d’œuvre les plus réputés. Bien sûr, les scénarios malins et infernaux caractéristiques de la série (en gros 20 minutes de suspense et une fin surprenante ou drôle) - qui font naître un plaisir régressif assez fort - n'aident pas à voir ces petits films comme autre chose que des exercices de style, et on déplorera l'absence de cette profondeur psychanalytique qui fait le prix des grandes œuvres. Néanmoins, le "génie" absolu de la mise en mise en scène Hitchcockienne, d'une efficacité et d'une intelligence de tous les instants, font de ce coffret un véritable petit miracle. [Critique écrite en 2006]</content>
+	</review>
+	<review>
+		<title>Le maître!</title>
+		<author>Madeleine Guyot-mazet</author>
+		<date>2015-01-19</date>
+		<score>0.9</score>
+		<content>seul réal à se mettre en scène et présenter son œuvre de cette manière. Du grand art.</content>
+	</review>
+</sensCritiqueEntity>

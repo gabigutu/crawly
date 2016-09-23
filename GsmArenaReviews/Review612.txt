@@ -1,0 +1,334 @@
+<review>
+	<title>Samsung Galaxy S6 Active review</title>
+	<description>The triathlete</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_s6_active-review-1268.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>MIL-STD-810G certification for salt, dust, humidity, rain, vibration, solar radiation, transport and thermal shock resistance</paragraph>
+			<paragraph>IP68 certification for dust and water resistance (submersible up to 1.5 m of water for up to 30 minutes)</paragraph>
+			<paragraph>5.1" Super AMOLED of QHD (1440 x 2560) resolution, class-leading ~577ppi, Corning Gorilla Glass 4</paragraph>
+			<paragraph>Exynos 7420 64-bit chipset, octa-core processor with four 2.1GHz Cortex-A57's and four 1.5GHz Cortex-A53 cores, Mali-T760 MP8 GPU, 3GB of RAM</paragraph>
+			<paragraph>Android 5.0.2 Lollipop with TouchWiz UX</paragraph>
+			<paragraph>16MP camera, f/1.9 aperture, 4K video recording, LED flash, optical image stabilization</paragraph>
+			<paragraph>5MP front-facing camera, f/1.9 aperture, QHD video, HDR</paragraph>
+			<paragraph>32GB of built-in UFS 2.0 storage</paragraph>
+			<paragraph>Active noise cancellation via dedicated mic</paragraph>
+			<paragraph>Customizable shortcut button</paragraph>
+			<paragraph>LTE Cat.6, Wi-Fi a/b/g/n/ac, GPS/GLONASS/Beidou, NFC, IR port, Bluetooth 4.1, ANT+</paragraph>
+			<paragraph>Heart-rate sensor, barometer, SpO2</paragraph>
+			<paragraph>3,500mAh battery; wireless charging (Qi/PMA)</paragraph>
+			<paragraph>No price premium over the regular model (on AT&amp;T)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Available with only 32GB of onboard memory</paragraph>
+			<paragraph>No microSD card slot</paragraph>
+			<paragraph>Battery is not user-replaceable</paragraph>
+			<paragraph>No stereo speakers</paragraph>
+			<paragraph>No fingerprint sensor</paragraph>
+			<paragraph>Available only for AT&amp;T (at least for now)</paragraph>
+			<paragraph>Gobs of carrier bloatware preinstalled</paragraph>
+			<paragraph>Not exactly a looker</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Once again its June and time for Samsung to present us with a rugged version of its latest range-topping smartphone. This year, once more exclusively for AT&amp;T, it is Samsung Galaxy S6 Active that enters the spotlight with camouflage livery, gobs of tech, and tough build.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>For a second year in a row, Samsung has made sure that the Galaxy S6 Active is not simply a rugged version of the incumbent flagship by adding unique features to it. Last year, the Korean giant added a customizable shortcut button for quick access to an Activity app.</paragraph>
+			<paragraph>This year, in addition to the above feature, Samsung Galaxy S6 Active also packs a massive 3,500mAh battery. The latter is roughly 40% larger than the 2,550mAh unit found in the regular model and promises to be a boon for the device's target audience.</paragraph>
+			<paragraph>As you can see above, Samsung Galaxy S6 Active is the same technological powerhouse as its regular sibling, but with with added water, shock and dust resistance. After a quick glance, some might even argue that the newcomer is the pick in the Galaxy S6 range thanks to its aforementioned quality and the massive 3,500mAh battery.</paragraph>
+			<paragraph>Limited availability and memory capacity are the handset's biggest drawbacks at a quick glance, though Samsung might remedy both should it decide to launch an global variant of the device. The lack of fingerprint sensor is arguably another downer, though the target audience for the Samsung Galaxy S6 Active will likely appreciate the sturdier navigation buttons better.</paragraph>
+			<paragraph>As always, we are going to kick the review off with unboxing, followed by our take on the design and build. Head over to the next page for a closer look at the Samsung S6 Active and its camouflage outfit.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>Like its predecessor, Samsung Galaxy S6 Active ships in a white/orange retail box with AT&amp;T branding. Inside it, you will find the handset, a charger, a microUSB cable, and quick start guide.</paragraph>
+			<paragraph>This year, Samsung and AT&amp;T have opted not to include a stereo headset with the smartphone. Users will have to pick one up on their own dime.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design, build quality, handling<subsectionTitle>
+			<paragraph>You will be hard-pressed to tell Samsung Galaxy S6 Active apart from its predecessor. Save for the different placement of the heart rate sensor, the newcomer is practically identical to the SM-G870A.</paragraph>
+			<paragraph>Just like a year ago, Samsung Galaxy S6 Active look unmistakably like a member of the Korean giant's flagship family, but with added layers of armor. Some might argue that the device is not the best looking one around, but, after all, Samsung has not designed it to win beauty contests. That's what the regular Galaxy S6 and the Galaxy S6 edge are for.</paragraph>
+			<paragraph>Samsung has once again opted to offer its rugged flagship smartphones in bold color schemes. This time around, they include Camo White and Camo Blue in addition to just plain gray. We reckon that the camo patterns suit the Galaxy S6 Active much better than any conventional color.</paragraph>
+			<paragraph>Build quality of the Samsung Galaxy S6 Active is once again impressive. The device's polycarbonate body is just a tough as you'd expect, thus allowing you to be truly careless with its handling and not use a protective case. Furthermore, its water and dust resistance ensure that it will make it out of just about every life event unscathed.</paragraph>
+			<paragraph>Physical measures of the smartphone are 146.8 x 73.4 x 8.6 mm, while its weight tips the scale at 150 grams. Samsung Galaxy S6 Active has almost the same footprint as the outgoing model and (unsurprisingly), it is considerably bulkier than the regular model (6.8 mm thick and with 138 grams of weight).</paragraph>
+			<paragraph>The device is easy to handle, thanks to its grippy back and textured polycarbonate frame. Of course, the Galaxy S6 Active doesn't quite match the superb tactility of the regular model, but it more than makes up for it with its ruggedness.</paragraph>
+			<paragraph>Like last year's Samsung Galaxy S5 Active, the successor has one major handling advantage over its regular sibling. Its hardware back and recent apps buttons cannot be pressed accidentally like the capacitive ones of the SM-G920.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above the display we find the earpiece, a couple of sensors and the 5MP F/1.9 selfie camera. A trio of keys for navigating your way through Samsung's TouchWiz UX.</paragraph>
+			<paragraph>The volume rocker and the custom shortcut key are located on the left side of the device. The power/lock key and the nano-SIM card slot sit on the right.</paragraph>
+			<paragraph>The top of the Galaxy S5 Active features the 3.5mm audio jack, a secondary microphone and the IR port that lets the smartphone remotely control various home appliances. On the bottom, you will find the microUSB port and the mouthpiece. This time around, the microUSB port doesn't need a flap cover like in past Galaxy Active iterations.</paragraph>
+			<paragraph>The back of the handset is home to the 16MP camera lens with LED flash, the heart-rate monitor, as well as the single loudspeaker. A Samsung and an AT&amp;T logo keep them company.</paragraph>
+			<paragraph>Samsung Galaxy S6 Active does not feature a removable back cover like past iterations. This feature is probably the reason why the device offers higher IP rating than its predecessors.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>Samsung Galaxy S6 Active features the same 5.1" QHD Super AMOLED display as the regular Galaxy S6. With 577ppi, the screen is among the sharpest in the business.</paragraph>
+			<paragraph>Samsung has again went for the diamond-shaped PenTile matrix, although given the sheer number of pixels the sub-pixel arrangement will hardly affect the perceivable sharpness of the screen.</paragraph>
+			<paragraph>Here's how the layout looks under a microscope. The diamond-shaped PenTile uses OLED sub-pixels of different sizes as each color has different levels of power efficiency and longevity. Sub-pixel rendering is employed to properly distribute each of the primary colors.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The default screen mode comes to underline the Super AMOLED panel's key strength, high contrast, by producing overly saturated colors that make every image look like it's about to pop out of the frame. Yet if you are a professional that requires the color accuracy or simply dislike the unrealistic images, the professional photo mode gets colors as true to life as possible.</paragraph>
+			<paragraph>The Samsung AMOLED panels have been improving with each new generation and this latest effort is further proof of that. Giving you a choice between saturation and accuracy, and comfortably beating its rivals at either end is an impressive achievement, but with the inherent AMOLED strengths in the equation, you get arguably the most impressive screen in the market.</paragraph>
+			<paragraph>Yep, the practically infinite native contrast and the low reflectivity that makes sure you enjoy most of it in brighter environments are still here, alongside the impeccable viewing angles. There isn't much else one can wish for.</paragraph>
+			<paragraph>Samsung Galaxy S6 Active has a practically unlimited contrast ratio, as it's capable of displaying black by simply turning off individual pixels. AMOLEDs light up only the parts of the screen that display a color different than black.</paragraph>
+			<paragraph>The Super AMOLED panel on the Galaxy S6 isn't particularly bright, especially compared to some LCDs, but it can go higher than the Galaxy Note 4.</paragraph>
+			<paragraph>Auto Brightness mode can push the brightness higher than manually adjusting the brightness slider allows. The feature is customary for Galaxy smartphones with AMOLED screens.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Samsung Galaxy S6 Active features a non-removable 3,500mAh battery. The unit is almost 40% larger than the 2,550mAh solution found in the regular Samsung Galaxy S6, so we had hefty expectations for the device before putting it through our battery test.</paragraph>
+			<paragraph>With endurance rating of 109 hours, Samsung Galaxy S6 Active more than exceeded our expectations. The Korean giant?s rugged flagship edged out the current battery test champion Nokia Lumia 1520 for the top position in our chart!</paragraph>
+			<paragraph></paragraph>
+			<paragraph>This means that Samsung Galaxy S6 Active can easily make it through four days of usage if you opt for an hour each of telephony, web browsing, and video playback every day. None of the current flagship smartphones can match what the Galaxy S6 Active has to offer in terms of battery performance - Motorola Droid Turbo is the closest rival with endurance rating of 90 hours.</paragraph>
+			<paragraph>By combining an energy-sipping 14nm Exynos chipset and Super AMOLED display with massive battery, the manufacturer has truly hit the jackpot in terms of battery endurance. Even more impressively, the waistline of Samsung Galaxy Active has remained at a manageable 8.6mm.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Samsung Galaxy S6 Active is armed to the teeth in connectivity terms. The mandatory 2G/3G/4G LTE is present with Cat. 6 downlinks thanks to Samsung's latest Exynos 7420 chipset. This gives you download speeds of up to 300Mbps, with 50Mbps worth of uploads. If you missed it in the specs section, the Galaxy S6 Active uses nano-SIM cards.</paragraph>
+			<paragraph>In terms of local connectivity, there's dual-band Wi-Fi a/b/g/n/ac, so you can make the best of your home's Internet connection. DLNA is supported in multimedia apps for sharing content across compatible devices.</paragraph>
+			<paragraph>Speaking of, the Galaxy S6 Active makes it easy to share the Wi-Fi hotspot info with nearby devices (detected via Bluetooth) using the Quick Connect feature. This saves you the trouble of typing in the Wi-Fi password.</paragraph>
+			<paragraph>Bluetooth has been bumped up to version 4.1. There aren't any easily noticeable changes since 4.0 but, among the more important ones, Low Energy mode is now supported for connecting to smart watches and some sport sensors. ANT+ is available for such sensors too, so the Galaxy S6 Active will happily talk to whatever sports sensor you have.</paragraph>
+			<paragraph>NFC is on board for quick pairing and sharing and there's an IR blaster for controlling home appliances. Samsung's default app mostly handles your AV setup, but third party apps can be used for a wider range of devices.</paragraph>
+			<paragraph>The Samsung Galaxy S6 Active features a microUSB 2.0 port. It's slower at transferring data than the USB 3.0 port used in a few Samsung devices, but it has a standard size plug and it offers Quick Charge 2.0 and MHL 3.0. With the right adapter, you get 2160p@30fps output so you can watch videos you shot with the phone in their full resolution. There's 7.1 surround sound output, if the video player supports it (the pre-installed one does not).</paragraph>
+			<paragraph>Finally, there's a GPS/GLONASS SatNav receiver on board. GPS alone is enough on its own but GLONASS provides extra precision, especially in dense urban settings as it also uses Russian satellites.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>Samsung Galaxy S6 Active comes with Android 5.0.2 Lollipop and the latest TouchWiz UX. Samsung has been on a mission to simplify its software recently, but there are brand new features too. Most of the new stuff is now available to the Galaxy S5 as well via the recent update to Android Lollipop, but there are still features available only on the Galaxy S6 family.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is quite busy. It shows two notifications, any more get collapsed and you only see their icons. You can tap the down arrow to see the full list. If an app gets too pushy, you can hide its notifications from the lockscreen. There is also a weather information for your location and pedometer stats.</paragraph>
+			<paragraph>Both a dialer and camera shortcuts are available, but we prefer the other camera shortcut - double-tap the Home key from anywhere in the UI and the camera launches within a second.</paragraph>
+			<paragraph>Samsung Galaxy S6 Active features an exclusive wallpaper of a landscape. The latter is similar to the one found in the device's predecessor.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>A nice feature allows you to hide the content of the lockscreen notifications or disable them altogether so people can't snoop on your received messages and emails.</paragraph>
+			<paragraph>Smart Lock disables the secure locking options when a trusted device is connected (Bluetooth smartwatch or car stereo or an NFC sticker) or when the phone is in a trusted location. Unfortunately, that's determined by geo-positioning only, you can' add a trusted Wi-Fi network.</paragraph>
+			<paragraph>We're finally past the lockscreen and we arrive to see much improved theming support, which the Galaxy S5 lacks altogether. We only got three preinstalled on the Galaxy S6 Active, but for the first time, you can download more in the Galaxy Apps store. Themes can change the wallpaper and icons, but also some Samsung apps (dialer, contacts, messages) and the notification area.</paragraph>
+			<paragraph>Themes are not just graphical either, a theme can add new ringtones, notification tones, alarm sounds and more.</paragraph>
+			<paragraph>The homescreen itself is quite normal. You get the optional Briefing pane on the left, which pulls info from a selection of news sources on topics you find interesting. There's an option to change the screen grid between 4x4, 4x5 and 5x5, the smallest one is the default.</paragraph>
+			<paragraph>The wallpaper now has a subtle parallax effect that we didn't notice at first. Then we did and it just felt too similar to the iPhone wallpaper. Android 5.1.1 will allow users to disable the effect if they desire.</paragraph>
+			<paragraph>The notification area hasn't changed much, but it has lost the view that shows all quick toggles - neither a second pull nor a two-finger pull works. You just get one scrollable row of quick toggles, but now some have text underneath, like the name of the Wi-Fi network you are connected to.</paragraph>
+			<paragraph>The brightness slider is below that and then the S Finder and Quick connect buttons. One cool feature is that while adjusting the slider, the notification area fades away so you can see the app you were using before.</paragraph>
+			<paragraph>None of these elements can be disabled, but you can rearrange the quick toggles by tapping the Edit button. This screen shows all quick toggles and you can tap them to enable/disable, but the old way felt more intuitive.</paragraph>
+			<paragraph>Samsung Galaxy S6 Active comes with a page and a half of icons in its app drawer, but several folders conceal the actual number of pre-installed apps. There's a Social folder with Instagram, Facebook Messenger and WhatsApp and more interestingly the Microsoft folder.</paragraph>
+			<paragraph>Sadly, AT&amp;T has gone overboard with the bloatware on the device - there are no less than 18 carrier applications that you are not likely to need. Considering that the device has limited storage, we find such a move by the carrier a tad excessive.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Thankfully, you can disable most of the preinstalled AT&amp;T apps. Just be prepared to waste several minutes of your life doing so.</paragraph>
+			<paragraph>Multi Window is now part of the app switcher. TouchWiz uses the Lollipop-style 3D rolodex of apps, but next to the X button is a button that opens the app across half the screen. The other half is filled in with a similar rolodex with only apps that support Multi Window.</paragraph>
+			<paragraph>Not all work with it, but the three social networking apps, the two browsers and several other key apps work just fine.</paragraph>
+			<paragraph>Another way to launch Multi Window is to long press the App switcher key. If the current app supports Multi Window it will shrink to half the screen, the other half will be taken up by the icons of supported apps. If not, you just get the list of apps.</paragraph>
+			<paragraph>The Setting menu features Quick settings - a selection of the most used options you can use. Below that is the full list, though we prefer using the search function as the extensive features that Samsung has provided can be hard to track down among menus and submenus.</paragraph>
+			<paragraph>Pressing the shortcut key on the side of the device takes you to the Activity Zone. The latter contains shortcuts for weather, the barometer, the compass, S Health, flashlight, the stopwatch, and Samsung's Milk music player.</paragraph>
+			<paragraph>You can customize the button functionality too. Both the long and the short press can be tweaked.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The TouchWiz software on the new Samsung Galaxy S6 Active runs smooth and with no slowdowns. TouchWiz gets a lot of hate over perceived lag, but there is none on the Galaxy S6 Active and it features smooth Lollipop-like animated transitions, which makes the experience even better.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Like the regular Samsung Galaxy S6, the Active variant packs the highly capable Exynos 7420 chipset. It's the first SoC to be built on a 14nm fabrication process (Snapdragon 810 is on 20nm), which should reduce power usage. That in turn reduces the dreaded thermal throttling that was a major issue in the Exynos vs. Snapdragon debate recently.</paragraph>
+			<paragraph>Exynos 7420 and Snapdragon 810 are not that different in terms of processor, both use a big.LITTLE setup with four Cortex-A57 cores at 2.1GHz and four Cortex-A53 cores at 1.5GHz. The GPU is a Mali-T760 from ARM and it shares 3GB of RAM with the processor.</paragraph>
+			<paragraph>The Galaxy S6 Active runs a 64-bit version of Android 5.0.2 and all eight of its cores are 64-bit capable. This is good for the future, but for now 32-bit apps run just fine - in fact, AnTuTu 5 offered both options. It returned equal scores in both 32-bit and 64-bit modes, matching the rest of the Galaxy S6 family, and crushing the Snapdragon opposition.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS 2.0 paints a similar picture. Once again, Samsung Galaxy S6 Active keeps pace with its siblings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Looking at just the CPU performance at GeekBench 3, we see a massive advantage in multicore performance. The Snapdragon 810 runs its CPU cores a little slower (0.1GHz), but that's far too little to account for the difference. Basemark OS 2.0 confirms both the single-core and multi-core difference.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Samsung Galaxy S6 Active has a QHD screen - 1,440 x 2,560px. That's around 80% more pixels than a 1080p screen. Offscreen tests normalize resolution at 1080p so you can compare raw performance, while on-screen tests predict real-world gaming performance.</paragraph>
+			<paragraph>Basemark X considers only off-screen results and predictably gives the win to the Galaxy S6 Active.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>For web browsing performance we used the Internet app (stock web browser), as Samsung sprinkles proprietary optimization magic that's not available in Chrome or the vanilla Android browser. Once again, Samsung Galaxy S6 Active proved worthy of its flagship pedigree.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>There is no other way to cut it - Samsung Galaxy S6 Active is one of the most powerful smartphones you can buy at the moment. Like the regular Galaxy S6, the newcomer laughs at just about every benchmark test out there.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook and telephony<subsectionTitle>
+			<paragraph>Samsung Galaxy S6 Active has a strong reception and good in-call audio. If you run the Adapt sound feature you it can tune the call sound when you use a headset. The in-call equalizer for the phone's earpiece is gone though.</paragraph>
+			<paragraph>The dialer has a Material Design paintjob. Smart dialing (searching through contacts by using the keypad) and speed dialing (assigning a contact to a number on the keypad) are on board. Video calling is also natively supported, not that many people use it.</paragraph>
+			<paragraph>Additional tabs in the app show the call log, favorite contacts and a list of all contacts. You can use the separate Phonebook app for that.</paragraph>
+			<paragraph>The Phonebook is a list of contacts with a search field and an alphabet index. The contact info card has been cleaned up and shows the contact image (you can swipe down to view it fully), below that are the phones and emails with quick buttons to call/send message.</paragraph>
+			<paragraph>Here you'll also find the latest messages and calls with that contact. The View more toggle displays all the additional info. You can swipe left to call a contact straight from the list, right to send them a message.</paragraph>
+			<paragraph>The built-in call rejection feature lets you block calls from certain numbers or all numbers not in your phonebook. Do not disturb mode can be scheduled on select days and during certain periods of the day. You can set it to make an exception for certain notifications, including allowing only calls from your favorite contacts.</paragraph>
+			<paragraph>Samsung is sticking to a single loudspeaker setup with the Galaxy S6 Active. This time, the component is placed on the back of the device, not on the bottom like in the regular model.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>By default the Messages app has a clean looking UI, but you can customize font size, backgrounds and speech bubble style. The app shows a row of priority contacts, below that is the list of all conversation threads. You can use pinch zoom to change the font size in a conversation thread.</paragraph>
+			<paragraph>A built-in spam filter weeds out messages from select numbers or containing certain phrases. You can also schedule messages to be automatically sent later (so you don't forget).</paragraph>
+			<paragraph>The Samsung-modified Email app looks almost identical. The top row is a shortcut to show emails only from just priority contacts or you can view a combined inbox if you have multiple accounts added.</paragraph>
+			<paragraph>The Gmail app also handles multiple accounts - even ones not on Gmail - and adheres more strictly to Material design principles. Add push notifications and we end up using it more often than the Email app.</paragraph>
+			<paragraph>The Samsung keyboard features a dedicated numbers row. You can tweak the size of the keyboard slightly, making it taller or shorter and if you are okay with a tiny keyboard, you can use the small floating one. You can add text shortcuts (so 'brb' gets replaced with 'be right back') and there's predictive text.</paragraph>
+			<paragraph>It can update its database with popular words weekly and learn from your messages and contacts. Swiping can be set to move the text cursor or as an input method.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The latest TouchWiz gallery app draws inspiration from Apple's iOS and HTC's Sense. The default view shows photos grouped based on time. Thumbnails are shown on a clean white background and you can change their size with a pinch zoom.</paragraph>
+			<paragraph>Speaking of, the Gallery app can view your Picasa online folders but not Facebook.</paragraph>
+			<paragraph>The Categories view groups multimedia by type - pictures, videos, slow-mo videos, Virtual shots and so on. The People category groups photos based on the faces in them. There's also a Documents category. You can use the Search shortcut to look for photos based on category, people, time, event, location and so on.</paragraph>
+			<paragraph>Batch operations are gone, but you can easily move photos to Private mode (this requires activating the mode). Editing tools include simple things like Auto adjust, crop and rotate, but you can also do collages and go into the Photo editor, which is the usual Android editor with more advanced crop and rotate tools, color adjustment, effects and dedicated portrait enhancements (slim face, large eyes, you get the idea).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>Samsung's TouchWiz music player was one of the most feature-rich apps, but the company has done some work to trim the fat. The app looks very clean now, essentially it has just two screens.</paragraph>
+			<paragraph>One lets you browse tracks and playlists, with a dropdown menu to switch between views including Folder view. The Music square is gone. The other screen is the Now playing with album art and a few playback controls. You can transfer playback to a Bluetooth or a DLNA device.</paragraph>
+			<paragraph>SoundAlive has gotten rid of the square view too, now it has two dials - one changes the balance between bass and treble, the other between instrumental and vocals. You can tap the Details button for a manual 7-band equalizer. Audiophiles should know 16-bit and 24-bit FLAC audio works out of the box.</paragraph>
+			<paragraph>Adapt Sound is available to automatically tune the equalizer based on your headphones and your hearing. Additional options include SoundAlive+ (creates a surround sound effect) and Tube Amp. There's also Smart volume to balance the volume between tracks and playback speed if you want to slow down or speed up the playback (useful for audio books we guess).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The video player has been simplified too and the DLNA view is gone. You can still send video files to DLNA players or use screen mirroring. Alternative you can beam just the audio over Bluetooth, the Play audio only option is useful for music videos - playback continues, while you use the phone as normal.</paragraph>
+			<paragraph>The video player supports all kinds of video file types and codecs, up to 4K 2160p encoded with the new H.265/HEVC codec. As usual multi-channel audio (AC-3, DTS) is not supported. Pop up mode puts the video in a small floating window so you can keep watching while using the phone.</paragraph>
+			<paragraph>There are extensive subtitle settings with adjustable font and text size, text color, edge and background. Multiple presets are available and you can make your own.</paragraph>
+			<paragraph>There are built-in video editing options including trimming, video color effects and adding background music (with sliders to control the audio volume from both the video and the background music). A more advanced video editor can be downloaded. It can assemble multiple videos and audio tracks together.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent audio quality<subsectionTitle>
+			<paragraph>Unsurprisingly, given the performance of its two siblings, the Samsung Galaxy S6 Active did great in our audio quality test. When connected to an active external amplifier the smartphone posted excellent scores top to bottom and garnished them with nicely loud output.</paragraph>
+			<paragraph>Plugging in our standard headphones caused only a small hike in stereo crosstalk with the rest of the readings remaining just as impressive. The volume stays very loud too for a great allround performance.</paragraph>
+			<paragraph>Anyway, here go the results so you can do your comparisons.</paragraph>
+			<paragraph> Samsung Galaxy S6 active frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters a nd the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera<subsectionTitle>
+			<paragraph>The camera on the Samsung Galaxy S6 Active borrows the 16MP Sony IMX240 sensor that the Galaxy Note 4 uses, but puts it behind a lens with a wider, f/1.9 aperture. This lets more light in and makes for much improved bokeh effects. The camera software is highly sophisticated too.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>One of our favorite features is the quick launch - double press the Home key from anywhere in the UI and the camera pops up in less than a second.</paragraph>
+			<paragraph>The UI is pretty simple, most settings are available on the viewfinder. The selection changes as you go between the different shooting modes. You can download new shooting modes, but currently only Sports shot is available.</paragraph>
+			<paragraph>In Auto mode casual users can skip tapping the HDR icon altogether. There's an auto HDR option so you don't have to turn it on and off each time.</paragraph>
+			<paragraph>There's also an automatic night mode that fights handshake in the dark. Several color effects are available with a few more in the download section.</paragraph>
+			<paragraph>Tracking autofocus automatically follows moving subjects, making sure they stay in focus. This can't be used in for 2160p video though.</paragraph>
+			<paragraph>Selective focus makes a comeback - it snaps two photos and then lets you chose near focus, far focus or everything in focus. The Galaxy S6 camera is quite good at macro shots and creates a great soft focus on its own, so with some experience you don't need this software trickery.</paragraph>
+			<paragraph>Virtual shot has been revamped. It now lets you pick an object and rotate the phone around it. After, the phone can use its motion sensors to replay the object, rotating it along with the phone as if it's still in front of the camera.</paragraph>
+			<paragraph>Image quality</paragraph>
+			<paragraph>Samsung not only has changed the lens compared to the Galaxy Note 4, but has also fine tuned the image processing. As a result the Samsung Galaxy S6 Active photos look even better when observed at 1:1 magnification.</paragraph>
+			<paragraph>Detail is impressively sharp. Noise is kept in check, while processing artifacts from noise reduction are hard to spot, foliage in particular looks great. Software sharpening is moderate too, Samsung has been known to dial it up in the past. White balance is spot on even in tricky conditions and the color saturation has been brought even further down from the already toned down setting in the 2014 generation.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The dynamic range is quite wide and you can improve it further with HDR mode. It's very fast so you can just leave it on auto without slowing down the shot to shot time. The HDR mode has a light touch, brightening shadows and recovering highlights, but the changes might be too small for some.</paragraph>
+			<paragraph>The device shoots panoramas with very high resolution - 3,200px tall if you hold the phone upright, 1,800px if you hold it on its side. The software and fast chipset make shooting very simple, you just start panning in one direction.</paragraph>
+			<paragraph>The resulting images are rich in detail and aside from the moving cars and the ledge that was too close, there are no major stitching artifacts.</paragraph>
+			<paragraph>The selfie camera can also take HDR photos (good when the sun is at your back) and can do Virtual shot. The wide selfie mode works kind of like a panorama - it stitches three photos for a wider field of view. You get instructions (e.g. tilt phone forward) to keep you on track.</paragraph>
+			<paragraph>The 5MP selfie camera is of pretty good quality and captures photos with plenty of detail and little noise. Color rendering is comparable to the main camera, slightly less saturated. It's a 4:3 camera though, unlike the 16:9 main camera.</paragraph>
+			<paragraph>You can enable Wide selfie to make a photo more suitable for widescreens. The stitching is as good as panoramas shot with the main camera.</paragraph>
+			<paragraph>Finally, Interval shot is a like a photo booth, snapping four shots with a few seconds between each.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>There's no dedicated video mode because most settings work for videos too. Even Pro mode, though you can't adjust the settings during recording and the autofocus will override your setting as soon as the video starts.</paragraph>
+			<paragraph>Samsung Galaxy S6 Active tops out at 2160p resolution, but it can also do 1080p at both 30fps and 60fps and 720p video at up to 120fps (that's handled by the Slow Motion mode). The front camera shoots only at 30fps, but goes over 1080p - it maxes out at QHD video to match the phone's screen.</paragraph>
+			<paragraph>HDR and color effects are available for video, though 2160p disables them, taking pictures while shooting video, the tracking autofocus and the additional software stabilization.</paragraph>
+			<paragraph>The 2160p videos are shot at the usual 48Mpbs total bitrate, all videos from the Galaxy S6 have 256Kbps/48kHz audio. The videos nail 30fps and a still frame has a good enough quality to pass for an 8MP photo. The videos are sharp, have practically no noise and accurate colors, good dynamic range too.</paragraph>
+			<paragraph>The 2160p videos can't make use of the digital image stabilization but the optical one is quite good on its own.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download a 2160p@30fps untouched video (10s ~ 61MB).</paragraph>
+			<paragraph>Moving on to 1080p at 30fps, we drop to 17Mbps bitrate. The quality remains high and there's as much detail as possible at this resolution. There's HDR mode at this resolution, which brings in more detail in the shadows and improves the highlights. The HDR effect is barely noticeable though. In this mode both the OIS and the digital image stabilization are available.</paragraph>
+			<paragraph>We're not done with 1080p, the Galaxy S6 can go up to 60fps. This takes up more storage (28Mbps bitrate) and causes a slight drop in sharpness, but it's worth it for the smoother motion. 30fps has inherent limitations when shooting fast-moving objects and while 4K UHD TVs are still fairly rare (but quickly growing in popularity), practically all TVs can handle 60fps. Digital image stabilization is not available in this mode.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>In Slow motion mode the camera goes back up to 48Mbps but is now shooting 720p @ 120fps. Videos are actually recorded at 120fps, but you can edit them on the phone - trim beginning and end and choose between half, quarter and eighth playback speed.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung web browser and Chrome<subsectionTitle>
+			<paragraph>The Internet app is the Android browser modified by Samsung. It supports multiple tabs (including incognito ones) and if you sign into your Samsung account, it will sync open tabs and bookmarks with other devices on that account.</paragraph>
+			<paragraph>Chrome comes on all Androids as part of the Play Services package. It can sync tabs too (based on your Google account) and has the data-saving option of compressing pages before they are sent to the device. It will even automatically detect foreign language sites and offer to translate them.</paragraph>
+			<paragraph>Both the Internet app and Chrome support Multi Window.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other preinstalled apps<subsectionTitle>
+			<paragraph>Samsung has partnered with Microsoft and offers three preinstalled apps (that you can't uninstall either). There's OneDrive to handle cloud-syncing needs (including photo backup). You get a free 100GB with your phone. There's also OneNote for a more advanced note taking and syncing experience than the Memo app offers and finally Skype.</paragraph>
+			<paragraph>Smart Manager shows even more collaboration and is a one-stop shop for maintenance of your device. It's divided into four parts. Battery shows estimated battery life remaining/time until charged and will warn you of abnormal battery usage. The Power saving and Ultra power saving modes can be activated from here.</paragraph>
+			<paragraph>The Storage section leans on Clean Master to free up some storage by deleting unnecessary files. RAM closes running apps to free up RAM. Other than misbehaving apps, we can't think of a reason to manually close apps on a 3GB device.</paragraph>
+			<paragraph>S Health has been polished. It can sync your health data with your Samsung Account (optionally via Wi-Fi only). The new UI uses simple cards that count your steps, offer to measure your heart rate, track what you eat and drink, your sleep and various exercises.</paragraph>
+			<paragraph>The phone has the hardware to do spot measurements of your heart rate and blood oxygen saturation and estimate stress. You can add external sensors for continuous tracking. The app comes with three built-in programs that will train you, building up to a 10K run. It's not all about exercise, S Health can help you eat healthier or make sure you get proper rest.</paragraph>
+			<paragraph>The Voice recorder app has Interview mode, which uses the mic array to suppress sounds from the sides. You can also mute one side of the conversation so only the answers of your interviewee are audible. The other mode is Voice memo, which automatically transcribes the note into text.</paragraph>
+			<paragraph>The Peel Smart Remote app uses the IR blaster on the top of the Samsung Galaxy S6 Active to control your TV and media setup. It also doubles as a TV Guide so you can see what's on, flip directly to that channel or set a reminder if it airs later. The app can handle TVs, disc players, AV receivers, streaming boxes (Apple TV and Roku) as well as air conditioners.</paragraph>
+			<paragraph>S Planner is the familiar Samsung replacement for the Google calendar. It defaults to a Month and agenda view, and has a clean Material Design interface. You can add a 7-day weather forecast and multiple calendars.</paragraph>
+			<paragraph>The My Files app is the built-in file browser. It's beginner friendly with its Category view (e.g. view all photos), but you can browse the whole internal storage). The app also integrates Google Drive so you can seamlessly handle files in the Google cloud.</paragraph>
+			<paragraph>S Voice is still on board, even though it had to relinquish its traditional shortcut. It can handle a wide variety of voice commands - call or text someone, take down memos and calendar notes, check the weather or read the news, answer spoken questions and so on.</paragraph>
+			<paragraph>The app has no UI, it just needs an initial training (you say an activation phrase four times). Then from anywhere in the UI you speak the phrase and your command, all you'll see is a small graphical equalizer at the bottom of the screen as you speak. Google Now can do plenty of these things (even if it's not as conversational).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Samsung Galaxy S6 Active delivers high-end specs and a good measure of ruggedness in one single blow that if not anything else, would leave the completion gasping.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The generous 3,500mAh battery is undeniably the device's trump card over its predecessor, as well as the regular Samsung Galaxy S6. It elevates it above its competitors and makes it one of the longest lasting smartphones out there. The built-in wireless charging on the other hand, makes keeping the battery full as easy as it can be.</paragraph>
+			<paragraph>Hardware-wise, just like the regular Galaxy S6, the Active leaves practically nothing to be desired. Its 14nm Exynos 7420 chipset is arguably the best in the business, as are the 16MP main camera and the built-in UFS 2.0 memory. Once again, Samsung has made sure that owners of the Active model won't get less for their money than those that rock the regular Galaxy S6.</paragraph>
+			<paragraph>In our opinion, the shortcut button found in the Galaxy S6 Active should make its way to all of the manufacturer's flagship devices going forward. Its customizable functionality is nothing short of superb.</paragraph>
+			<paragraph>Ergonomics of the SM-G890 have also been improved over past members of the Active range. This time around, you don't need to worry about closing the microUSB flap properly after you've been charging the device.</paragraph>
+			<paragraph>Our two major gripes with the Samsung Galaxy S6 Active have to do with the lack of built-in memory options and the limited availability of the device. We don't believe that a device with a 4K camera this good should come with roughly 23GB of available storage out of the box. Hopefully, Samsung will soon release a global version of the smartphone with at least 64GB of memory on board.</paragraph>
+			<paragraph>Samsung and AT&amp;T are asking $695 for the Galaxy S6 Active without a commitment. The wireless carrier also gives you the several options to pick up the device with monthly installments.</paragraph>
+			<paragraph>Here are some of the noteworthy alternatives to the rugged handset available at the moment.</paragraph>
+			<paragraph>Samsung's own Galaxy S6 and Galaxy S6 edge are great alternatives to the Galaxy S6 Active if you are not accident prone. The duo of smartphones have been around for a while, meaning that for $700 you will easily be able to snag a 64GB variant of either one.</paragraph>
+			<paragraph>  Samsung Galaxy S6 ? Samsung Galaxy S6 edge</paragraph>
+			<paragraph>The freshly announced Sony Xperia Z4v for Verizon is a water resistant high-ender that will match most of the talents that Samsung Galaxy S6 Active possesses. However, we don't believe that it will handle drops with the same care-free attitude.</paragraph>
+			<paragraph> Sony Xperia Z4v</paragraph>
+			<paragraph>Motorola Droid Turbo has been around since last year, but it is still one of the most complete Android flagship smartphones available at the moment. It has a mammoth 3,900mAh battery and can handle the occasional splash of water.</paragraph>
+			<paragraph> Motorola DROID Turbo</paragraph>
+			<paragraph>Last year's Samsung Galaxy S5 Active is a nice option for budget-minded buyers. The device is not as powerful as its successor, but costs less and offers memory card slot.</paragraph>
+			<paragraph> Samsung Galaxy S5 Active</paragraph>
+			<paragraph>Samsung Galaxy S6 Active is the most capable rugged smartphone we've tested to date. If you are an AT&amp;T subscriber looking for this type of device and can live with limited onboard memory, by all means go ahead and grab one. You are not likely to regret your choice.</paragraph>
+			<paragraph>The rest of us can only hope that Samsung will release the Galaxy S6 Active to more markets soon. The smartphone surely deserves a wider audience.</paragraph>
+		</subsection>
+	</page>
+</review>

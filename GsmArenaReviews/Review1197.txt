@@ -1,0 +1,317 @@
+<review>
+	<title>Apple iPad 3 review</title>
+	<description>Hotter than ever</description>
+	<link>http://www.gsmarena.com/apple_ipad_3-review-739.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>9.7" LED-backlit IPS LCD touchscreen, 2048 x 1536 pixels; scratch-resistant, oleophobic coating</paragraph>
+			<paragraph>Wi-Fi 802.11 a/b/g/n connectivity, carrier-dependent hotspot support</paragraph>
+			<paragraph>Optional LTE connectivity (data only)</paragraph>
+			<paragraph>Optional GPS with A-GPS support (for the 3G model only)</paragraph>
+			<paragraph>Apple A5X SoC with 1 GHz dual-core ARM Cortex A9 processor</paragraph>
+			<paragraph>PowerVR SGX543MP4 quad-core GPU</paragraph>
+			<paragraph>1GB RAM</paragraph>
+			<paragraph>iOS 5.1 with iCloud support and activation</paragraph>
+			<paragraph>16/32/64GB of inbuilt storage</paragraph>
+			<paragraph>Weight of 652 grams (662 grams for the LTE version)</paragraph>
+			<paragraph>Bluetooth 4.0</paragraph>
+			<paragraph>11,560 mAh battery</paragraph>
+			<paragraph>Accelerometer, compass and three-axis gyro-sensor</paragraph>
+			<paragraph>The cheapest version costs less than a SIM-free iPhone</paragraph>
+			<paragraph>5MP auto-focus camera</paragraph>
+			<paragraph>1080p video recording at 30fps</paragraph>
+			<paragraph>VGA secondary camera capable of FaceTime calls</paragraph>
+			<paragraph>Four and five-finger gestures</paragraph>
+			<paragraph>1080p TV-output with the Apple Digital AV Adapter (purchased separately for $39), 720p video streaming</paragraph>
+			<paragraph>Supports magnetic cases</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>iTunes still required for uploading most of the content</paragraph>
+			<paragraph>Reflective screen struggles outdoors</paragraph>
+			<paragraph>Same CPU as the iPad 2</paragraph>
+			<paragraph>Heavier and thicker than the iPad 2</paragraph>
+			<paragraph>No Flash support in the web browser</paragraph>
+			<paragraph>No standard USB port</paragraph>
+			<paragraph>Non replaceable battery</paragraph>
+			<paragraph>No stereo loudspeakers</paragraph>
+			<paragraph>No GPS receiver in the Wi-Fi version</paragraph>
+			<paragraph>No memory card slot</paragraph>
+			<paragraph>No Siri</paragraph>
+			<paragraph>Can get uncomfortably hot at times</paragraph>
+			<paragraph>No charging while in use</paragraph>
+			<paragraph>Lack of basic iOS apps - weather, stocks, clock, calculator, voice memos</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>So, the iPad is dead, long live the iPad. That's also part of the deal. The retirement of the first-generation of the Apple tablet is nothing out of the ordinary. There used to be the iPad and the iPad 2. Now, we have the iPad and the iPad 2 is the backup, the second choice.</paragraph>
+			<paragraph>The new iPad. Here's one for you. You're Apple and you're about to launch your latest product. You want to dispel even the remotest suspicion of recycling old stuff. You want the slightest hint smothered of sequels and their questionable worth. What do you do?</paragraph>
+			<paragraph>Make it nothing like the old one? No, no - you're not paying attention. Pretend you're Apple. The market leader in tablets, the standard-setter in touchscreen, the king of design, the god of marketing.</paragraph>
+			<paragraph>Yes, it's as simple as a single stroke of divine wisdom. You get rid of the numbers. Next is wrong - new is what everyone cares about. If you're telling people they're getting the ultimate, the last thing you want them to think about is what comes later. Numbers are about the order of appearance, the new iPad is about the order of succession. In the royal sense.</paragraph>
+			<paragraph>The three iPads look almost exactly the same but, to be fair to the new iPad, it brings a massive upgrade. The 2048 x 1536 pixel Retina display has four times the resolution of the previous model. The bar is yet again set too high for the competition. And it's a leap worth several generations. Apple did well to make sure the monstrous screen is well covered in terms of graphic processing with some extra GPU cores too and the performance is flawless.</paragraph>
+			<paragraph>The 5MP camera is an improved version of the one on the iPhone 4 and the video recording is duly upgraded to 1080p. There's Wi-Fi hotspot support too but that's carrier-dependent and our Wi-Fi-only iPad naturally doesn't have it.</paragraph>
+			<paragraph>The long list of cons shouldn't come as a surprise. Some of them are down to Apple's way of doing things but we'll look closer at the screen outdoor performance and the reported overheating in gaming or video playback.</paragraph>
+			<paragraph>Siri didn't make the cut this time around and you won't find some basic iOS apps either such as Weather, Stocks, Clock, Calculator and Voice Memos. Let's hope though there won't be blank spaces in our review of the new iPad. Follow us on the next page where we look at what's new in the hardware department.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the iPad<subsectionTitle>
+			<paragraph>The iPad's retail box covers just the essentials. Only a tad wider than the iPad itself, the box holds your brand new tablet, a short manual, a very compact charger and a USB cable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The new iPad is completely identical to its predecessor - the iPad 2. Everything is the same - aluminium unibody, the tapered edges, the flat back, the controls and camera placement, even the Apple logo and model inscriptions.</paragraph>
+			<paragraph>There are two minor differences between the new and the old iPad - the weight and the thickness. The new iPad weighs 50g more than its predecessor (51g for the Wi-Fi-only version and 55g for the Wi-Fi + 4G unit to be exact). We guess the new bigger battery is the one to blame here. Also the iPad thickness is a bit ampler - 9.4mm compared to the 8.8mm of the iPad 2's, but this is practically undetectable by the user.</paragraph>
+			<paragraph>So, everything we loved about the iPad 2 is here, but we will do a quick hardware tour anyway.</paragraph>
+			<paragraph>The controls on the new iPad are identical to the iPad 2 ones - the Home key on the front, the power/screen lock key on top, plus a volume rocker and the screen rotation lock on the right. The rotation lock can be configured to double as a mute button as well.</paragraph>
+			<paragraph>The only other thing beside the screen and the home key at the front is the FaceTime camera above the Retina display. There's also a hidden ambient light sensor just above the camera for the automatic adjustment of screen brightness levels.</paragraph>
+			<paragraph>The top of the new iPad has the 3.5mm audio jack, the Power/Lock key we already mentioned and the microphone.</paragraph>
+			<paragraph>The bottom of the new iPad brings no surprises - there are the proprietary Dock connector and the single loudspeaker. When you hook it to the charger, however, the iPad won't start charging until you stop using apps. This will probably be fixed with an update, but it's an annoying little bug for now.</paragraph>
+			<paragraph>Finally, the only thing to note on the back is the 5 megapixel camera lens, which appears to be the same as the one on the iPhone 4. Unlike the iPhone 4 though, the iPad is perfectly capable of 1080p@30fps video recording.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>To smart cover or not<subsectionTitle>
+			<paragraph>The smart cover for the new iPad is completely identical as the one for the iPad 2. And it does the same thing, of course - magnetically attaching to your iPad and protecting its screen/back. It is also easily converted to a stand to use when you need to type or watch movies.</paragraph>
+			<paragraph>The Smart Cover is quite useful to rest the iPad in your lap or on a desk when you need to type or browser for hours.</paragraph>
+			<paragraph>Be aware that older Smart Covers (including third-party ones) may not work nicely with the new iPad due to different orientation of the magnets polarity.</paragraph>
+			<paragraph> The Smart Cover</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A Retina display at last<subsectionTitle>
+			<paragraph>The pivotal feature of the new iPad is the Retina display. Just like with the iPhone, Apple went ahead and doubled the pixel count in both directions. The 1024 x 768 screen of the first two generations made way to the astounding 2048 x 1536 Retina display. The pixel density of 264 ppi is not even close to the iPhone's 330, but still better than any tablet currently on the market.</paragraph>
+			<paragraph>As you would expect the images now appear a lot sharper, the pixels are barely visible even really up close and the tiniest text is still perfectly readable.</paragraph>
+			<paragraph>Note that our (new) iPad uses a warmer (yellowish) color scheme than the colder (bluish) iPad 2. This is an issue present to all iGadgets - depending on the screen manufacturer, each iPhone/iPad has a warm or cold color scheme.</paragraph>
+			<paragraph>Lots of the pros of the iPhone's Retina display carry over here as well - the vibrant colors and the great viewing angles.</paragraph>
+			<paragraph>Interestingly enough, Apple managed to keep almost the same brightness levels as on the previous generation iPad. As a result, the contrast ratio on all three iPad generations is pretty much equal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Is it hot or not?<subsectionTitle>
+			<paragraph>The new iPad heating issues have been one of the hottest topics in the tablet realm over the past couple of days - opinions range from the heat being intolerable to it's not a big deal. That's why we decided to conduct a few tests ourselves and found out more about it.</paragraph>
+			<paragraph>So here's what we did - we placed the new Apple slate alongside its iPad 2 predecessor and started checking out how the two would react to various challenges.</paragraph>
+			<paragraph>The ambient temperature was just north of 22°C (72°F) and unsurprisingly the two slates weren't any hotter when we woke them up from their sleep. We started the test by turning on the screen and leaving them just sit there idle.</paragraph>
+			<paragraph>Next, we put the CPU under stress - both the A5 inside the iPad 2 and the A5X inside the new iPad have dual-core Cortex-A9 processors, so we expected to see a similar peak in the temperature of the two.</paragraph>
+			<paragraph>Then came the main suspect's turn - the new quad-core GPU was most often quoted as the source of the problematic bit and our tests confirmed that it contributes quite a lot to the high temperature. The EpicCitadel demo was our first testing ground - it doesn't support rendering in the new Retina resolution so the two slates were on even ground.</paragraph>
+			<paragraph>Finally, we let the quad-core GPU unleash its full potential by running Infinity Blade II on the new iPad. About an hour later the new iPad reached 44.4°C(111.9°F) at its hottest point - it's really better if you avoid holding it at the bottom left corner, where the chipset is located. It won't burn you or anything, but it gets really uncomfortable.</paragraph>
+			<paragraph>So, in conclusion the issue does exist and the new iPad really goes a bit hotter than comfortable for holding. The peak temperature of the new slate is, according to our measures 12.7°C (26.1°F) higher than that of its predecessor and that's a pretty major difference that you can easily feel with your hands. It might turn out to be an even bigger deal if you use it in warmer environment than ours or in direct sunlight.</paragraph>
+			<paragraph>For the complete test results head over to our dedicated blog post.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>iOS beyond FullHD<subsectionTitle>
+			<paragraph>iOS on the iPad looks and feels akin to the one on the iPhone - the whole UI is upsized to match the 9.7 diagonal of the big screen and in addition you get one more app on the dock.</paragraph>
+			<paragraph>We were hoping that by the time we saw the third generation iPad, iOS would be more like OS X but it seems Apple is keen on making it the other way around - introducing iOS features to OS X. But we digress.</paragraph>
+			<paragraph>Here's video demo of iOS on the new iPad.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>iOS 5.1 on iPad is still different than on the iPhone, mainly due to the larger screen real estate than the humongous resolution. And while there are not too many UI tweaks to make better use of the extra space, most of the system apps have been reworked and use split screen allowing you to see more content and saving you a few taps. Naturally all Apple-made apps are optimized to fully-utilize the new 1536 x 2048 resolution.</paragraph>
+			<paragraph>The lockscreen is the first place you'll end up on the iPad - it has the familiar "slide-to-unlock" slider. Double-pressing the home button reveals music controls and a virtual volume rocker. There's no shortcut to open the camera, which is a shame but we guess Apple never intended their tablet as a camera-slate.</paragraph>
+			<paragraph>Once you unlock the device you dive right in to the simplicity of iOS. Unlike Android, it isn't comprised of layers of advanced menus but instead gives you all your apps placed in a grid. You can reorder the apps however you like or place them into folders.</paragraph>
+			<paragraph>The settings menu is the one place where things get a little deeper. Most of the apps' settings are placed here instead inside the apps themselves. You can view settings for iCloud, Safari, Messages, Photos and so on.</paragraph>
+			<paragraph>Users receive notifications both on the lockscreen and on the homescreen - and there's a pull-down Notification center a la Android. You can set the behavior for the notification from each individual app. The system is pretty flexible and configurable now.</paragraph>
+			<paragraph>The Notification Center displays all your pending alerts. You can enable/disable and rearrange the alerts in the Notification settings.</paragraph>
+			<paragraph>The Notification Center supports widgets too. So far there are only two to choose from - Weather and Stocks.</paragraph>
+			<paragraph>The pull-down Notification Center works much like the Android notifications. You can access the Notification Center from anywhere in the interface and even in games or apps. It does pause the app beneath, so there's no way you accidentally stray off the road while playing Real Racing 2 HD.</paragraph>
+			<paragraph>Notifications display on the lockscreen too and they're active. When you respond to a notification by sliding it across the screen, it will take relevant action (return a missed call) or launch the appropriate app.</paragraph>
+			<paragraph>It's a pleasure to use iOS on the iPad, especially if you're a regular on the iPhone but we dislike the fact that Apple hasn't tweaked the UI to utilize the added space and increased resolution.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmarks<subsectionTitle>
+			<paragraph>Users coming from the iPad 2 won't feel a performance increase. The new iPad feels exactly the same as the old one and that's pretty fast and fluid. We never had a problem with the performance of the iPad in the first place and it still goes without glitches.</paragraph>
+			<paragraph>The new iPad (3) has a dual-core processor with each core clocked at 1 GHz and 988 MB of RAM but where it gets really interesting is the GPU - it's a PowerVR SGX543MP4 unit with four cores. It's the same as the one in the PlayStation Vita and it really is powerful, handling both the intense graphics of games like Infinity Blade II and the quadrupled screen resolution.</paragraph>
+			<paragraph>We ran a couple of benchmarks on the iPad, comparing it to the iPhone 4S.</paragraph>
+			<paragraph>SunSpider is a javascript benchmark.</paragraph>
+			<paragraph>BrowserMark also tests javascript performance and does HTML 5 too.</paragraph>
+			<paragraph>In both tests the new iPad beats the iPhone 4S, which could be due to the new GPU because both devices are using the same iOS version 5.1.</paragraph>
+			<paragraph>Many users were disappointed by the dual-core processor and wanted a quad-core one but the truth is that the iPad is zippier than ever and is hard to imagine it being faster. Gaming performance is duly covered with the new GPU but we guess battery endurance and app launch times could've been improved by a new CPU.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>iMessaging, email, notes<subsectionTitle>
+			<paragraph>As expected, the iPad comes with iMessage - it lets you exchange instant messages between iOS 5-running iGadgets via Wi-Fi or 3G. You can send plain text as well as multimedia (pictures, sounds, videos) messages. The app stores all your messages within threads and offers options for mass delete and forwarding. There is a search field, MMS support (if you choose to attach a multimedia file) and character counter. iMessage gives you delivery reports too.</paragraph>
+			<paragraph>Email supports multiple accounts (configurable in the Settings app) and offers Universal Inbox (showing all your mail at once). The Mail app also supports threads, email archiving and quick lookup of documents thanks to the integrated document viewer. There is also an Open With? option, offerings depending on what you have installed (PDF reader, mobile office, iBooks, etc).</paragraph>
+			<paragraph>In portrait mode the left bar with all your emails remains hidden until prompted while in landscape you get both the inbox/emails bar visible and the email you've opened is on the right.</paragraph>
+			<paragraph>If you open your Inbox and hit the Edit button, you now have a Mark key alongside Move and Delete. You can now mass mark emails as read/unread or flag them as important. Unfortunately, a "Select All" option is still missing.</paragraph>
+			<paragraph>Bold, Italic and Underline font styles are added to the text editing options as well as quote font size levels. Text selection works the usual way (tap&amp;hold&amp;select) and the available options will appear as soon you've made the selection.</paragraph>
+			<paragraph>Siri didn't make it on the new iPad but Apple did make dictation a feature available throughout iOS. It's available in Notes, Email, iMessage and any app that integrates it. It works just like on the 4S - hit the corresponding button your keyboard and start dictating.</paragraph>
+			<paragraph>The Notes app is exactly the same as before. You get the familiar dual-layout with the notes you've saved on the left and the note input screen on the right.</paragraph>
+			<paragraph>Your notes are also synced with iCloud so you won't have to worry about losing any of them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contacts<subsectionTitle>
+			<paragraph>The phonebook on the iPad is the same as the one on the iPhone - Contacts. It lists all of your acquaintances complete with multiple email, number, address and other fields. You can set different tones for each contact, work details and you have convenient send message and share contact shortcuts available.</paragraph>
+			<paragraph>Your contacts are automatically sync'd so that you instantly get them from your phone, be it an iPhone, Android, etc.</paragraph>
+			<paragraph>We performed our traditional loudspeaker test on the new iPad and it got a Good grade. It's definitely loud and louder than the iPad 2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Calendar<subsectionTitle>
+			<paragraph>Calendar on the iPad uses the screen estate very well giving you dual-screen viewing - the date on one side and the agenda view on the other.</paragraph>
+			<paragraph>You can view your events and tasks by day, week, month, year or as a list. You can also opt to view appointments from your iCloud, Exchange, Google, Yahoo, etc. or all of them at the same time. There's a handy option to view Birthdays too.</paragraph>
+			<paragraph>The separate Reminders app has a simple interface but it does a nice job. You can set to be reminded on a day or at a location (you'll need a GSP-enabled iPad).</paragraph>
+			<paragraph>When a reminder sets off, you see it as a standard notification - on your lockscreen, the Notification Center and the homescreen (as a banner or a pop-up).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Image gallery benefits from the resolution<subsectionTitle>
+			<paragraph>Viewing images on the new iPad is a real joy. Pictures come out in full resolution (no downsizing) and at 1536 x 2048 it's a real treat.The detail on screen is much higher than on the iPad 2 as a direct comparison showed.</paragraph>
+			<paragraph>The photos app on the iPad differs from the one in the iPhone in two key aspects. First, there's the extra eye-candy - you can pinch-zoom your way back to gallery view here and into single photo view. There is also a small thumbnail bar at the bottom for quick picture scrolling.</paragraph>
+			<paragraph>You also get the usual options available in the iPhone Photos app - you can select multiple pictures, delete them, copy them in other albums or share them. You can also preset a slideshow with adjustable transitions and music arrangement.</paragraph>
+			<paragraph>In case you are seriously considering using the iPad as a picture browsing tool you should get the iPad's camera connection kit that allows photos to be downloaded straight from a memory card. It is annoying to have to pay for such functionality, but it's the Apple way.</paragraph>
+			<paragraph>If you've got yourself a desk stand, you can easily use the iPad as a digital picture frame when you're not using it. Unlike the iPhone, it has that functionality straight from the lockscreen. Just press a button and your photos start scrolling on the big screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video playback<subsectionTitle>
+			<paragraph>Generally the iPad situation is almost the same as before - you need iTunes to upload content, the screen is the awkward 4:3 aspect ratio, the device cannot stand on its own and it's too heavy to hand-hold for an entire movie and the supported video formats are quite limited. There is no DivX or XviD support (out of the box) either.</paragraph>
+			<paragraph>iPad supports playback of MOV files all the way up to 1080p resolution out-of-the-box, but has some specific requirements for bitrate. We threw a few 1080p trailers in iTunes and only half of them made it through the sync into the iPad. Fortunately, by using a third-party player you can upload clips via the iTunes File Sharing service and upload any video file. It turned out this way we hardly had any limitations imposed by apple, we could play all MOV/MP4 files up to 1080p (incl.) resolution, even the 1080p videos shot with Canon 5D Mark II. Nice!</paragraph>
+			<paragraph>By the way if you are checking out the videos you captured with the iPad camera through the Photos app the slate lets you zoom in on them. You can do that during playback or when the video is paused. It's not that useful, but it looks cool.</paragraph>
+			<paragraph>There are a few video players into the AppStore that can save the day for DivX/XviD movies. The CineXPlayer handled more than 80% of the DivX/XviD videos we threw at it up to and including 720p resolution. The OPlayer is even more capable of playing almost anything up to 720p including MKV files. It also has better subtitle support with numerous encoding settings. Other less popular options such as the paid Azul media player and the free MoliPlayer will even present you the videos as big thumbnails with more style. Those have some extra features as well. But of course, you are free to choose whatever player fits your bill.</paragraph>
+			<paragraph>Another possible way around the video limitations is the paid AirVideo app that lets you watch videos straight from your desktop computer streamed over your personal Wi-Fi network. Streaming over internet is in its early experimental phase as well, so the prospects are quite good. Since it uses your computer to do the transcoding heavy lifting, it also takes care of the limited number of supported codecs too.</paragraph>
+			<paragraph>Generally, 4:3 displays such as the iPad's aren't much good for watching videos and there's a good reason widescreen displays are dominating the market currently. The iPad unfortunately is off trend in that respect. On the other hand, the gorgeous Retina display is worth it and the slate's really good at reading, web browsing and gaming.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great music player<subsectionTitle>
+			<paragraph>The Music player on the iPad resembles the desktop iTunes using the split-screen interface to make best use of the large resolution screen.</paragraph>
+			<paragraph>Organizing your music library is easy and there is the option to apply equalizers. Combined with the excellent audio quality (more on that to come), that makes the iPad a promising music tool.</paragraph>
+			<paragraph>The Music application also has its own search in addition to the general Spotlight search.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>As usual you are stuck with iTunes for uploading and downloading music content on your iPad. We hate to be forced to use a specific kind of software for uploading music tracks, but we already knew what we were signing for. It's unlikely that Apple would revise its policy so if you hate the iTunes dependency, then you already know to stay away from iGadgets.</paragraph>
+			<paragraph>Apple users used to this way of doing things will find no problems here - if you're not opposed to using iTunes exclusively the experience is actually really handy and you can fill up on music in no time with the only required thing would be a stellar internet connection.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is as good as it gets<subsectionTitle>
+			<paragraph>We guess we won't see many raised eyebrows when we say that the audio output of the new Apple iPad is perfect. Apple has never disappointed when it comes to the audio quality of their products and its latest slate makes no exception..</paragraph>
+			<paragraph>The new Apple iPad is as good as iPad 2 and equally loud, and that's about as big a compliment as you can make to a device. Perfect readings are achieved all over the field when the new iPad is connected to an active external amplifier and the volume levels are almost as high as we have ever seen.</paragraph>
+			<paragraph>And then, there's the equally impressive scores when you connect a pair of headphones. There's hardly any degradation, the stereo crosstalk being the only affected reading. Plus, volume levels remain at the same levels as when there were no headphones connected, which scores another point for the new iPad. A flawless overall performance!</paragraph>
+			<paragraph> Apple iPad 3 frequency response</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>iSight camera with 4S optics<subsectionTitle>
+			<paragraph>The new iSight camera on the iPad is a big deal because it finally crosses over the 1 MP mark. It's a 5 MP unit capable of 2592 x 1944 resolution photos, offers touch focus, face detection and geo-tagging. It also supposedly uses a 5 element lens, much like the iPhone 4S does.</paragraph>
+			<paragraph>There's no HDR setting on it which was kind of odd. Other than that, the camera app UI is all too familiar - you get a bottom bar with options, switch to front facing camera and camera/camcorder toggle. On the left there's a preview box where you'll see the last taken photo. You can also view photos via a swipe to the right ala Windows Phone.</paragraph>
+			<paragraph>The camera was fast to take photos and took very little time in shot to shot scenarios. The resulting photo quality is pretty good. It produces good images with nice colors, plenty of detail, even beating the iPhone 4 at times.</paragraph>
+			<paragraph>Overall, despite the somewhat high luminance noise levels and the blowout of some specific color channels under bright sun such as red or yellow, the new iPad has a spectacular camera.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We did test the new iPad versus the iPhone 4. It looks like the new optics is really worth its salt. While there might not be that much difference in the macro shot directly below, the crop from landscape shots further down show the new iPad's camera is even better than that of the iPhone 4.</paragraph>
+			<paragraph>The new lens is supposed to ensure better low light performance but even outside in the bright sun it produces excellent photos. And judging from the various samples we took, it seems the iPad's iSight camera offers a slightly better dynamic range than the iPhone 4 too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>   Apple iPad in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording goes 1080p<subsectionTitle>
+			<paragraph>Quite expectedly, the new iPad is capable of 1080p video recording at 30 fps. The camcorder interface offers nothing but a virtual capture key and front/rear camera switch. You can't lower the resolution, use effects or even enable viewfinder grid. Nada.</paragraph>
+			<paragraph>Fortunately, touch focus is enabled and works during capturing as well. The AE/AF (auto exposure/auto focus) lock works fine too - you just tap and hold for 2 seconds while recording.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The video quality is quite similar with the iPhone 4S - plenty of resolved detail lively and accurate colors, good contrast and steady frame rate. The video stabilization works well too.</paragraph>
+			<paragraph>Here is a YouTube video we've uploaded, just don't forget to switch to 1080p mode and turn on fullscreen mode.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And here is an untouched 1080p@30fps video taken with the new iPad.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The new iPad is in our Video Compare Tool database. Check it out - the tool's page includes a quick walkthrough on how to use it and what to look for.</paragraph>
+			<paragraph>The comparison tool proves the new iPad videos are the same as the iPhone 4S samples and will easily make other tablets and smartphones jealous.</paragraph>
+			<paragraph>   Apple iPad in the Video Compare Tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The iPad has never been a well-connected device. You get internet connection through Wi-Fi or 3G and you have Bluetooth for a hands-free. That's pretty much everything the iPad and iPad 2 had to offer.</paragraph>
+			<paragraph>Luckily, Apple has upgraded the third-generation iPad with some new goodies.</paragraph>
+			<paragraph>The first and most important one is the LTE connectivity. If you decide to opt-in for the Wi-Fi + 4G model of the new iPad, you will get a tablet that supports almost every mobile connection out there - all popular GSM, UMTS, CDMA, EV-DO, LTE bands.</paragraph>
+			<paragraph>To use LTE or CDMA, you'd need a contract with a carrier and in some cases you'd have to buy the device only from the supported network providers.</paragraph>
+			<paragraph>On a positive note, Apple has finally brought the personal hotspot (available only when the carrier of choice supports it) on the iPad. This is the only iPad where you can tether your data connection through Wi-Fi, Bluetooth or via USB cable. It works just like on the iPhone, so no iOS user should have problems configuring it.</paragraph>
+			<paragraph>The Bluetooth is now 4.0 version, but whatever version Apple put in an iOS gadget, it's most used functionality will remain the Bluetooth hands-free/headphones support. File transfers are not supported as usual.</paragraph>
+			<paragraph>The Wi-Fi connectivity is the same as before with a,b,g and n support. We found no problem with the Wi-Fi connections and the signal strength is pretty much the same as on the iPad 2 despite some incidental user reports.</paragraph>
+			<paragraph>The proprietary connectivity port is the last connectivity option on the list. You can use it for USB connection with a computer or you can attach an SD reader, USB or HDMI adapter on it. The SD reader and HDMI adapter are pretty much self-explanatory, while the USB one gives you a standard female USB port. There you can attach other devices supporting mass storage mode - cameras, iPhones, other tablets, etc. and download pictures and videos from them to the iPad.</paragraph>
+			<paragraph>There is one odd thing while charging the iPad - it won't charge while you are using it. In most of the cases, the battery level won't drop either - it seems the iPad is eating up all the charge coming from the wall charger and nothing is going into the battery. But if you start playing, let's say Infinity Blade 2, the iPad will start draining the battery too. So, you shouldn't use the iPad while charging. Sounds like a bummer, right? It's almost hard to believe but we confirmed it in several tests.</paragraph>
+			<paragraph>There is one more thing - the iPad doesn't show it is charging when connected to a computer, but in fact it is charging. Though the charge is so insignificant, that it is probably the right thing to say that USB charging is not really supported.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Safari in FullHD<subsectionTitle>
+			<paragraph>Web browsing has always been a key point in the iPad's repertoire. It's fast and fluid and now, with the enhanced resolution, fans will get a real kick out of browsing on the touch-enabled 9.7" screen.</paragraph>
+			<paragraph>Loading speeds exceed those on the previous iPad and many times those of the iPhone 4S, there's fluid touch control and gesture support (pinch zooming also works like a charm).</paragraph>
+			<paragraph>The multiple tabs support and the auto fill and password managers also improve the usability of the Safari browser greatly. The pop-up menus appear as small windows on the screen itself rather than occupying the display things are even more desktop-like.</paragraph>
+			<paragraph>The Reader mode is a great way of reading articles in Safari. It strips the web content of fancy fonts and ads and presents you the bare minimum that's really easy on the eye. It works alright on most pages but you won't find it available as an option on all pages. For those cases Still there are always other options - like Evernote Clearly and the likes.</paragraph>
+			<paragraph>We've heard complaints about the Wi-Fi antenna on the iPad but we found ours to be on par with the previous version and the one on the iPhone 4S. We didn't experience any problems with it at all.</paragraph>
+			<paragraph>We would prefer the Wi-Fi+3G/4G (LTE) version of the iPad as it would prove a lot more versatile than the Wi-Fi only. The 3G/4G variant not only has a true GPS receiver but the active data connection allows for Assisted-GPS functionality and cellular base station triangulation for instantaneous location services.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Multi-touch gestures - everything you need to know about them<subsectionTitle>
+			<paragraph>Multi-touch gestures are present on the new iPad just as they were on the iPad 2. You can switch between the active apps using four (or five)-finger swipes. A similar swipe to the top will bring you the task switcher.</paragraph>
+			<paragraph>The last gesture is four (or five as it feels more natural) finger pinch zoom out. It will bring you the homescreen, while the app will go in background.</paragraph>
+			<paragraph>The pinch zoon out and left/right swipes works everywhere but on the homescreen, while the swipe up gesture is available everywhere.</paragraph>
+			<paragraph>We have to admit those gestures are quite useful. Here's a video demo of the gestures in action as shot on the iPad 2.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The stores<subsectionTitle>
+			<paragraph>The Apple App Store for the iPad gives you a lot of choice with more than 80 thousand apps specifically tailored for the iPad's 9.7" screen and many more for the iPhone that the iPad can emulate.</paragraph>
+			<paragraph>Developers are quick to catch up to the iPad's enormous resolution but we're already seeing titles being update to support the new Retina display - Infinity Blade II, Real Racing 2 HD, Evernote to name a few.</paragraph>
+			<paragraph>The App Store hasn't changed compared to previous versions and it's easy to navigate.</paragraph>
+			<paragraph>The separate iTunes store offers music, movies, podcasts, while the iTunes U app delivers university lectures, keynotes, verbal courses and a lot of other interesting stuff.</paragraph>
+			<paragraph>The great thing about the iTunes Store is that it offers a huge collection of content and you can preview pretty much anything - be it a short preview of a song or a movie trailer. You can also decide on buying movies or just renting them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo Booth and Facetime<subsectionTitle>
+			<paragraph>iPad comes with two camera-related apps - Photo Booth and FaceTime.</paragraph>
+			<paragraph>The Photo Booth is almost the same as the Mac OS X Photo Booth - you can use the front or the rear camera to take funny pictures of yourself or a friend. There are only 8 different filters here, but the results are pretty funny nonetheless. The only downside is that using the front camera (which is more natural) gives you VGA-only (0.3MP) results.</paragraph>
+			<paragraph>The app has very simple interface - you have nine squares where you can see the actual filter applied in real time. You choose a filter and tap on it. Now you can take a picture, change the camera or review/delete your previous Photo Booth photos.</paragraph>
+			<paragraph>The FaceTime video-calls became quite popular among Apple fans, so it is no surprise you can facetime on the new iPad. Luckily, Apple won't charge you for the FaceTime app (like it does on the Mac OS X).</paragraph>
+			<paragraph>As usual the FaceTime calls work fine, you just need enough friends with FaceTime-capable iGadget and a good Wi-Fi connection.</paragraph>
+			<paragraph>What we didn't like particularly is that currently the bandwidth allows for HD calls only, which frankly look really low res l on the Retina display. The iPad's front-facing camera cannot go beyond 720p anyway so we doubt FullHD video calls will be possible any time soon.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Retina-ready apps<subsectionTitle>
+			<paragraph>We were able to test out a couple of apps that we're already updated to bring you full Retina support on the new iPad.</paragraph>
+			<paragraph>Flipboard is one of them - it's a great way of viewing your personally-relevant internet content without ever opening the browser. It gives you a book-like layout with swipeable control and you can share what you're reading or view it with the in-built browser.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Infinity Blade II was featured in the iPad announcement keynote and for good reason - it brings incredible graphics and in full Retina-ready splendor. Visual effects are rich, shadows are deep, textures are very detailed and the game is a joy more for the sight of it than the gameplay itself (which is pretty good too, by the way).</paragraph>
+			<paragraph>Comics is a great app filled to the rafters with titles you can buy and enjoy on your iPad. It features over 20 thousand comics, graphics novels, etc. from publishers like Marvel, DC and others. It's a real joy to use on the iPad's Retina display, especially if you're viewing color-dense pages.</paragraph>
+			<paragraph>More and more apps will implement Retina support and we hope it happens fast because due to the amped up resolution apps that aren't optimized look really poor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Apps<subsectionTitle>
+			<paragraph>YouTube is available as a standalone app on the iPad.</paragraph>
+			<paragraph>iBooks is Apple's dedicated Ebook slash PDF reader. It also comes complete with Apple's online iBookstore with thousands of titles available.</paragraph>
+			<paragraph>The interface of iBooks remains unchanged and is pretty great - all your books or PDFs are organized on a virtual scrollable bookshelf. You can set the font size you want, choose to have a sepia, white or black background, define a brightness for the screen, search for books, etc.</paragraph>
+			<paragraph>While in a book you can highlight text, leave a note, bookmark, check a word with the built-in dictionary and finally, browse through all of your notes and highlights in any book at any given time which is really neat for book junkies or students.</paragraph>
+			<paragraph>Still not every book you're interested in is available in the iBookstore - Harry Potter and The Lord of the Rings sagas are just the tip of the iceberg - this could be a major deal-breaker for users that want the iPad as an e-reader above all.</paragraph>
+			<paragraph>The Retina display on the iPad ensures you'll get picture-perfect text at your fingertips but keep in mind that reading on a backlit display is nothing like reading on an e-ink display - your eyes will tire quickly.</paragraph>
+			<paragraph>Finally, we come to Newsstand - it's a folder-like application on the homescreen, which acts as a virtual magazine shelf. You can download magazines and papers, and subscribe to have the latest issues seamlessly downloaded to your iPad. It's a pretty nifty app and all of the major magazines are available as paid downloads.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>New iPad - same question - is it worth the upgrade? Well, depends who's asking. It seems the customers who gave Apple another record-breaking debut weekend had the answer already. For anyone coming from the original iPad, the latest Apple tablet is a great step forward. The situation with the iPad 2 isn't as straightforward but the screen alone is massive point in favor of upgrading. Of course, there's always room for nitpicking.</paragraph>
+			<paragraph>The new Retina display does make a difference. The high resolution makes everything on the screen look smoother and more? natural. It's nothing short of impressive but we think they should've done something about outdoor performance too. A screen of such quality certainly deserved better.</paragraph>
+			<paragraph>The camera has never been an important feature on a tablet, but Apple still decided to give the iPad users one of the best tablet cameras out there - a 5MP snapper with 1080p video recording with excellent quality both in stills and video. It's a huge upgrade over the iPad 2 and its 0.7MP still camera.</paragraph>
+			<paragraph>The new iPad is even louder than the previous one and it boasts the same no-compromise audio quality.</paragraph>
+			<paragraph>Of course, none of these upgrades will be possible without the new A5X chipset - the old dual-core ARM Cortex-A9 processor has a new GPU companion - a quad-core PowerVR SXG543MP4 graphics. The extra two GPU cores were a must to handle the resolution bump and the camera upgrade.</paragraph>
+			<paragraph>But the A5X chipset comes with a nasty side effect - the new iPad can get really hot. And it would only get worse in the hot summer months. It's a thing to consider but not as big a deal-breaker as the death grip of the iPhone 4. For the heat to be really uncomfortable, the new iPad will have to be pushed to the limit. It's the price to pay for getting that gorgeous screen without sacrificing performance.</paragraph>
+			<paragraph>So it's new graphics, new screen, new camera along with the same great user experience, the same top-notch audio quality and all that without a toll on battery life.</paragraph>
+			<paragraph>There's of course, the LTE connectivity too, limited to the States only. In fact Apple claims this is the gadget to support the most GSM/CDMA/UMTS/LTE bands simultaneously. But there is a catch of course - to use the LTE connectivity you have to sign with a LTE-capable operator. The CDMA connectivity on the other hand, will only be unlocked if you activate the iPad with a CDMA carrier. So in good old Europe, you are left with a regular HSPA version only.</paragraph>
+			<paragraph>The iOS running inside the new iPad is the latest 5.1 version. Unfortunately, it lacks the Siri assistant and some basic iOS functionality the iPhones have - Calculator, Clock app, etc. Surely, it brings a few free and paid native apps, but we still miss those basics.</paragraph>
+			<paragraph>The iPad may have revived the tablet as a useful gadget, but it's far from lonely on the market as things stand right now. Samsung is making a push with its Galaxy Tab lineup. Even brands like Huawei and ZTE are teasing with quad-core tablets already.</paragraph>
+			<paragraph>The 10-inch competitions is as tough as it gets - Samsung has three 10.1 tablets - the Galaxy Tab 10.1, the Galaxy Tab 2 10.1 and the Galaxy Note 10.1. All of them are running Android Ice Cream Sandwich and are based on dual-core chipsets. The most capable of them is the Galaxy Note 10.1 with a dual-core 1.4GHz processor and S-Pen support. It is so full of goodies that we couldn't possibly list them all here. It is yet to be released but is one of the tablets to look forward to this year.</paragraph>
+			<paragraph>   Samsung Galaxy Tab 10.1 &#x2022; Samsung Galaxy Tab 2 10.1 &#x2022; Samsung Galaxy Note 10.1</paragraph>
+			<paragraph>On the quad-core scene there are lots of gadgets coming in the next couple of months - the Acer Iconia Tabs A511 (with 1280 x 800 pixels 10-inch display) and A700 (with 1920 x 1200 pixels 10-inch display), the ZTE T98 and the Huawei Media Pad 10FHD. The last one is the most interesting of all with its 10" 1080p display and its quad-core 1.5GHz processor. It also packs 2GB of RAM and 8MP camera with 1080p video recording. It surely sounds like a tablet worth waiting for, at least on paper.</paragraph>
+			<paragraph>    Acer Iconia Tab A511 &#x2022; Acer Iconia Tab A700 &#x2022; ZTE T98 &#x2022; Huawei MediaPad 10 FHD</paragraph>
+			<paragraph>The real threat today for the new iPad is, of course, the ASUS Transformer Prime. It is also a 10-incher and is based on the quad-core Tegra3 chipset. Other worthy features are the 8MP stills and 1080p videos, 32/64GB of storage, the HDMI port and the Android ICS ticking inside. The best part of the Transformers is you can get an additional keyboard dock - it includes a full laptop-like QWERTY keyboard, which comes complete with an extra battery, USB ports and an SD card reader. It's still something the iPad cannot quite match.</paragraph>
+			<paragraph> Asus Transformer Prime</paragraph>
+			<paragraph>To sum everything up - the third-gen iPad has a standard-setting screen, and is a solid upgrade in terms of connectivity and imaging. That's enough to justify an upgrade even from the iPad 2, but we are yet to see what the quad-core droids have to say in the next few months. Windows 8 tablets will be next. One thing we know we shouldn't expect from Apple is a next iPad. Yes, you guessed it right - it will be a new iPad. Something smaller and slimmer perhaps? Oh, well.</paragraph>
+		</subsection>
+	</page>
+</review>

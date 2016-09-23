@@ -1,0 +1,323 @@
+<review>
+	<title>Samsung Galaxy E7 review</title>
+	<description>Easy touch</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_e7-review-1243.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Quad-band 2G, quad-band 3G and multi-band 4G, LTE Cat.4 support for download speeds of up to 150Mbps</paragraph>
+			<paragraph>5.5-inch 720 x 1,280 pixel Super AMOLED capacitive touchscreen</paragraph>
+			<paragraph>Android 4.4.4 KitKat with Samsung's TouchWiz on top</paragraph>
+			<paragraph>64-bit Qualcomm Snapdragon 410 chipset with quad-core 1.2GHz Cortex-A53; Adreno 306 GPU</paragraph>
+			<paragraph>2GB of RAM; 16GB of storage, expandable via microSD up to 64GB</paragraph>
+			<paragraph>13MP main camera with autofocus and LED flash; video recording up to 1080p@30fps</paragraph>
+			<paragraph>5MP front camera, video recording up to 1080p@30fps</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n, Wi-Fi Direct and hotspot; Bluetooth v4.0 with A2DP; NFC (model-dependent)</paragraph>
+			<paragraph>GPS with A-GPS and GLONASS</paragraph>
+			<paragraph>FM radio with RDS and recording</paragraph>
+			<paragraph>2,950mAh battery capacity</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>720p stretches pretty thin on 5.5 inches by today's standards</paragraph>
+			<paragraph>Battery is not user-replaceable</paragraph>
+			<paragraph>Android 4.4.4 is not the most recent Android version; Lollipop is in the pipeline though</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>In a bid to bring the A series' new-found premium design language to the masses, Samsung's E-lineup has managed to maintain the same looks. Lower-grade hardware and entirely plastic build have helped keep the price down, but if you don't look too hard it's still an upmarket smartphone.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The design aesthetic of the E7 is unmistakably Samsung - a mix of the Galaxy A7 and the Galaxy S flagships before the Galaxy S6 came along.</paragraph>
+			<paragraph>The metal frame of the A7 has been replaced by plastic, emulating the looks, but not exactly the feel. On the other hand, the rounded corners are more of a throwback to the S5 than the sharper A7 styling.</paragraph>
+			<paragraph>A downgrade in the specs was also to be expected and the Galaxy E7 is powered by the lower-midrange Snapdragon 410 as opposed to the snappier Snapdragon 615 inside the A7. The 2GB of RAM is intact though, so not all corners have been cut.</paragraph>
+			<paragraph>Samsung's Super AMOLED display is also on the keep list, albeit in a more affordable 720p resolution. And if you thought that the E7 will skimp on battery capacity you're wrong, as it comes with a 2,950mAh battery, actually an upgrade over the more expensive Galaxy A7.</paragraph>
+			<paragraph>The OS update is a shortcoming that's fixable and, with Lollipop reportedly on the way, we'll not hold it against the E7. The screen resolution isn't that big of an issue either and offers decent pixel density for the price segment. The non-removable battery may not be a deal-breaker, but the versatility and future proofing of a user-replaceable battery is an undeniable advantage.</paragraph>
+			<paragraph>Update Aug 31: At the time of writing neither Samsung nor Corning had readily available information whether the Galaxy E7 had Gorilla Glass protection. As it turns out, the smartphone comes with the latest iteration Gorilla Glass 4. Original text follows.</paragraph>
+			<paragraph>What's difficult to come to terms with is Samsung's decision to omit the Gorilla Glass protection, and aftermarket measures should be taken to protect your device, which is hardly the best option.</paragraph>
+			<paragraph>Join us on the next page where we kick off the usual routine with unboxing and a hardware overview.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard retail package<subsectionTitle>
+			<paragraph>The Galaxy E7 comes in your typical Samsung retail box, only for the E-series a green color has been chosen. Inside you'll find the phone itself on top, and a standard set of accessories underneath.</paragraph>
+			<paragraph>There's an AC adapter, which outputs 1.55A of current at 5V and a separate USB-to-microUSB cable. You also get an in-ear headset with a three-button remote, but no flat cords.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy E7 360-degree spin<subsectionTitle>
+			<paragraph>The 5.5-inch Samsung Galaxy E7 measures 151.3 x 77.2 x 7.3mm, which is pretty standard. It feels thin, despite being a whole millimeter thicker than the more upmarket Galaxy A7. At 141g, it weighs the same as the premium offering, meaning it's quite light, while packing a 2,950mAh battery. A similarly powered Asus Zenfone 2 tips the scales at 170g.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Body and design<subsectionTitle>
+			<paragraph>Take the Galaxy A7, replace its finely machined metal frame with plastic, add a few millimeters to the corner radius and you get the Galaxy E7. You can't mistake the E7 for a smartphone originating from any different brand, it has Samsung written all over it, quite literally.</paragraph>
+			<paragraph>The frame does try to pose for brushed aluminum and may fool the unsuspecting observer from a distance, but from up-close it's clear that it's an impostor. It looks the part while new, but judging by our experience with previous similar designs from Samsung (Note 3 comes to mind), the coating will hardly keep its best shape over time.</paragraph>
+			<paragraph>The frame also sticks up a fraction of a millimeter above the display, which may not offer the most pleasant feeling, but provides a minor degree of extra protection for the front glass. Speaking of, you may want to pick up a screen protector, glass or otherwise, as there's no Gorilla Glass treatment on the Galaxy E7 to keep it safe.</paragraph>
+			<paragraph>The front is dominated by the 5.5-inch Super AMOLED panel, surrounded by decently sized bezels. The bezels sport a striped pattern as opposed to the dotted one on the A-series, Samsung apparently likes to use different patterns for the different ranges.</paragraph>
+			<paragraph>The back cover is non-removable although the miniscule gap between it and the frame may lead you to believe it is. It has a pearl-like effect, it's soft to the touch and it will happily keep fingerprints away.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Galaxy E7 has exactly the same control layout as its more upmarket sibling. You don't get a Samsung smartphone without a hardware home button and this one is no different. It's flanked by two capacitive buttons, a Task switcher on the left and a Back button on the right.</paragraph>
+			<paragraph>Above the display there's the earpiece, joined by the proximity sensor and the front facing camera. There's no ambient light sensor, but more on that in the display chapter.</paragraph>
+			<paragraph>Around the back, there's the familiar arrangement introduced with the Galaxy S3 back in the day. The main camera is in the center and it is flanked by a single LED flash on the left and a speaker on the right. The camera lens bulges a millimeter, though not as pronounced as on the Galaxy A7, which itself is thinner.</paragraph>
+			<paragraph>The right side is home to the power button towards the top third. Midway is the combined SIM/microSD slot and the main SIM slot is further down. Both slots accept nano-SIM cards and you get either a second SIM or a microSD card but not both at the same time. On the left you'll find nothing but the volume rocker.</paragraph>
+			<paragraph>The microUSB 2.0 port is dead center on the bottom, joined by the standard 3.5mm audio jack and the primary mic further to the right. On top there's a lone pinhole for the secondary mic.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>The Galaxy E7 is no small device, that's for sure. But anything with a 5.5-inch display was going to be big. So if you're on the lookout for a phablet, you have already accepted that you won't be able to reach the entire area of the screen, when working single-handedly.</paragraph>
+			<paragraph>With that out the way, the Galaxy E7 is actually quite pleasant to handle. The slim profile suggests you're holding a higher-end device and together with the low weight means that the smartphone won't be a burden on your pocket or purse.</paragraph>
+			<paragraph>We'll proceed with a detailed look on the smartphone's display and battery autonomy.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Super AMOLED 5.5-inch display of 720p resolution<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 comes with a 5.5-inch display, the largest in the E-series lineup. Its resolution is 720 x 1,280 pixels and that amounts to about 267ppi - not particularly impressive but still acceptable. After all, a FullHD Super AMOLED panel would have meant a higher price tag and also might have eaten into the Galaxy A7's sales.</paragraph>
+			<paragraph>The screen delivers vivid colors, as expected from Super AMOLED, but there aren't different color modes as in higher-end Samsung devices. Most target users will be happy with the default punchy output, though.</paragraph>
+			<paragraph>The Galaxy E7 lacks an ambient light sensor, and the brightness of the display can only be adjusted manually with a slider. You do get an Outdoor mode, which you have to enable also by hand. The setting overrides the slider and takes the brightness up a notch from its regular maximum illumination. The Outdoor mode remains on for 15 minutes, and if you happen to still be using the phone after that period has elapsed, it'll remain on, until you send the phone back to sleep. It's not an exact replacement of a proper ambient light sensor, but it's something.</paragraph>
+			<paragraph>Another setting claims to adjust the screen brightness according to the displayed content in an attempt to conserve power. There's also the Smart stay feature which utilizes the front camera to keep the display on while you're looking at it. A glove mode is also enabled to increase touch sensitivity for those cold winter days.</paragraph>
+			<paragraph>The SuperAMOLED screen on the Galaxy E7 makes use of an RGB pixel arrangement, which features a green and red subpixel plus a taller, but thinner blue subpixel. It's the same pixel arrangement that we've seen on the Galaxy Note II N7100 back in 2012 and on the Galaxy A3 earlier this year. The reason for the different Blue pixel size is that the blue subpixels on AMOLEDs typically have a shorter life and making them bigger balances things out. Being bigger, the blue pixel doesn't need to emit as much light to match the other two, which helps it last longer without affecting color balance.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Galaxy E7 proved very bright indeed. With Outdoor mode enabled brightness reaches upwards of 500nits, on par with the Galaxy S5 and therefore very bright for an AMOLED panel. The 50% setting is more like 40% of the maximum brightness, pretty good in a world where linear adjustment sliders are getting increasingly rare to come by. Contrast is inherently infinite, as AMOLEDs keep black pixels off.</paragraph>
+			<paragraph>The Galaxy E7 aced the sunlight legibility test with a record score in the post Nokia 808 PureView era - truly impressive.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 is quite heavily equipped in the battery department. Its cell packs 2,950mAh worth of juice, as opposed to the Galaxy A7's 2,600mAh. That one managed rather good numbers in the battery autonomy tests, and with less than half the pixels, we should expect the Galaxy E7 to perform even better.</paragraph>
+			<paragraph>It didn't quite turn out like that. While the 15 hours of video playback are remarkable, the 8 or so hours of web browsing are only average. At around 20 hours, 3G voice calls are also on the positive side.</paragraph>
+			<paragraph>We do measure standby times as part of our battery test routine, and while they're not explicitly stated on the scorecards, they are taken into account in the overall score. With a single SIM inside, the Galaxy E7 managed about 12 full days, and that dropped by a day when we popped in a second SIM card.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Dual-SIM support and LTE<subsectionTitle>
+			<paragraph>Dual-SIM capability is a key feature of the device. A second phone line is a must-have for some, but everyone else isn't losing anything - they can just put a microSD in the extra slot and go about their business as usual. Even they may find themselves using the second SIM slot though, say a local card while traveling abroad with the main phone number remaining active for emergencies.</paragraph>
+			<paragraph>Anyway, you get LTE-Advanced Cat. 4 for mobile data, in other words 150Mbps worth of downlink and 50Mbps of uplink. You can select a preferred card for calls and which card is used for data, but only SIM1 has 4G and 3G connectivity, SIM2 is limited to 2G only. Mind you, the differentiation is made in software, and it doesn't really matter which card is in which slot.</paragraph>
+			<paragraph>The Galaxy E7 is a dual-SIM, dual-standby device so you can receive calls on one card even while talking on the other. It's not exactly dual-call, as it works by forwarding the call from the inactive to active card, but it has its use cases. This feature can be disabled to help with battery life.</paragraph>
+			<paragraph>Moving on, the phone supports single-band Wi-Fi b/g/n (but no 802.11a/ac) with Wi-Fi Direct and hotspot and Bluetooth 4.0. There's also ANT+ for use with sports sensors, if they don't support Bluetooth. Easy pairing is enabled with NFC support. The Samsung Galaxy A7 supports GPS and GLONASS for positioning.</paragraph>
+			<paragraph>The microUSB 2.0 port on the bottom of the phone does not support MHL so there's no TV out. You do get DLNA support for wireless connectivity with nearby compatible devices, and you also get screen mirroring. USB On-the-Go is supported, for connecting peripherals. A standard 3.5mm audio jack can accommodate the headphones of your choice.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Themed-up TouchWiz on top of KitKat 4.4.4<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 runs on Android 4.4.4 KitKat enhanced with the TouchWiz UI. It offers graphical themes, a feature introduced with the A-series. However, this version of the software doesn't stray too far from the TouchWiz-y looks that have defined Samsung software throughout the years.</paragraph>
+			<paragraph>You can catch a quick glimpse of the interface in the video below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Themes have made their way to TouchWiz but currently only four are available aside from the standard one. They change the wallpaper and icon pack, along with the animated transitions, but leave even Samsung apps unchanged.</paragraph>
+			<paragraph>The lockscreen shows the time and date and offers a camera shortcut. You can also enable weather information and a second clock. A feature borrowed from Lollipop is that the more important notifications, like missed calls, now show up on the lockscreen. You can tap them then swipe at the bottom to unlock the phone and go to the relevant app.</paragraph>
+			<paragraph>There's a private mode, and you can protect it with a Pattern, PIN or a Password. Private mode creates a secure section in the phone's storage, which can be used to store photos and other files. They are not accessible to users or apps unless Private mode is unlocked so you don't have to worry about somebody snooping on your files.</paragraph>
+			<paragraph>The homescreen is typical TouchWiz, with a 4-icon dock on the bottom. You can have up to 7 homescreens, panes can be reordered and one is set as default, and can be cycled, unless you have Briefing enabled.</paragraph>
+			<paragraph>Briefing is the leftmost homescreen aggregating your social news. You pick topics of interest and use "Read Later" services (Instapaper, Pocket or Readability) to pick articles on a computer and later read them on the phone when you have the time.</paragraph>
+			<paragraph>The notification area is the familiar affair with a wide assortment of quick toggles. You can rearrange and hide them as desired, but the brightness slider (with Outdoors toggle, and no Auto mode as there's no ambient light sensor) is always visible. There are no S Finder and Quick Connect buttons to add extra clutter. If you have both SIM slots occupied, the SIM selector is always visible too.</paragraph>
+			<paragraph>The settings menu has a selection of most used options that you can customize and search. That's invaluable since TouchWiz packs many features and digging around can be time consuming, while search allows you to jump straight to the relevant settings. Up to 9 big icon shortcuts on top can be user-selected, or you can remove them altogether.</paragraph>
+			<paragraph>In the app drawer, the icons are presented as a customizable or alphabetized grid. You start with only two pages of apps, a modest number by Samsung standards, and you can disable or hide the ones you don't need.</paragraph>
+			<paragraph>The app switcher interface uses the Lollipop design of a virtual rolodex. It only shows four apps at a time and has a task manager button and a kill all apps shortcut.</paragraph>
+			<paragraph>On a 5.5-inch screen, Multi Window comes in handy. It allows you to use two supported apps at once in split screen mode (you can even use two instances of the same app). To go into split screen mode you need to tap on a button in the upper right corner of the app card in the app switcher.</paragraph>
+			<paragraph>Additionally, you can swipe down diagonally from one of the top corners to shrink supported apps to pop-up windows, of which you can have more than two open at the same time. Pressing and holding the back button pulls a strip of apps you can you can open straight to pop-up windows.</paragraph>
+			<paragraph>The Samsung Galaxy E7 features One handed operation which comes with three separate features. One handed input scaled down the keyboard and moves it to the side so you can reach all keys with the thumb of one hand. You can place a panel of on-screen alternatives to the hardware keys if you find reaching those hard.</paragraph>
+			<paragraph>The all-in option shrinks the whole screen and puts on-screen buttons underneath so you can effectively use a smaller screen. The rest of the display remains black, so perhaps there may be even battery advantages. It's activated with a quick swipe-in-swipe-out motion from the respective edge of the screen your thumb is closer to.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Snapdragon 410 is fine for a daily driver<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 is powered by the 64-bit Snapdragon 410 chipset. Inside it ticks a quad-core Cortex-A53 processor, clocked at 1.2GHz. The chip is manufactured using a 28nm process, so it's not exactly state-of-the-art. It occupies the lower midrange in Qualcomm's current lineup.</paragraph>
+			<paragraph>More importantly, 2GB of RAM are on board, which should provide enough headroom for split-screen multitasking on that large display.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>As usual, we kick off our benchmark battery with the CPU-centric GeekBench 3.0 test. The Galaxy E7 posted similar results as the HTC Desire 816 with the older Snapdragon 400 inside. Another S400 device, the Sony Xperia C3 lags behind. Explanation can be found in the higher-clocked processor within the Desire 816, 1.6GHz quad-core Cortex-A7 as opposed to the more modest 1.2GHz clock rate in the Xperia C3. Understandably, the Meizu m1 note aces this one with its true octa-core silicon, ticking at 1.7GHz.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Antutu 5 benchmark measures compound system performance, including RAM and storage. The Galaxy E7 doesn't fare too well here either and posts a modest score in the lower twenty-thousands. It's still ahead of what's shaping up to be its archrival, the Xperia C3.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>This brings us to another compound benchmark, BaseMark OS II. The Galaxy E7 manages to beat the Xperia C3 yet again, but also bests the HTC Desire 816. Still, it's no match for its more capable sibling the Galaxy A7.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The CPU centric parts of the benchmark also are no place to shine for the Galaxy E7. The Xperia C3 is behind again, as is the Asus Zenfone 2 ZE551ML, but that one uses an Intel chipset which doesn't do particularly well in CPU benchmarks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The GPU inside the Snapdragon 410 is the Adreno 306, a minor upgrade over the Adreno 305 found in Snapdragon 400 chips. It's not adequate for demanding 3D use, as the scores in the GFXBench test routines clearly indicate.</paragraph>
+			<paragraph>The off-screen 1080p tests yield rather poor results, but in the E7's case they're mostly irrelevant, as the GPU only needs to output 720p resolution as opposed to the standardized 1080p in the off-screen tests. Still, the numbers aren't overly inspiring with less than 10fps in the T-Rex test and just shy of 4fps in the more intense Manhattan benchmark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark X further confirms that the Galaxy E7 isn't meant for demanding graphics applications. A similarly priced Asus Zenfone 2 posts a six times higher score. That said the Galaxy E7 still manages to leave the Desire 816 behind by a margin.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Browser performance turns out a bit more encouraging. The JavaScript intense Kraken 1.1 benchmark puts the E7 in the middle of the crop, only about 10% behind the Galaxy A7. Desire 816 is left behind again as is the Xperia C3.</paragraph>
+			<paragraph>Even better performance is shown in the BrowserMark 2.1 test, where even the S801-powered OnePlus One is no match for the Galaxy E7. The Chinese competition remains miles behind.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>So all in all, the Samsung Galaxy E7 is no powerhouse by any stretch of the imagination. You're better off looking elsewhere for raw performance or 3D gaming. That said, in real-life use the Galaxy E7 doesn't lag or stutter and handles multi-window browsing and video playing with ease. If your smartphone use is dominated by such lighter tasks, the Galaxy E7 will deliver.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Dual SIM telephony<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 has strong reception and the in-call sound is loud. The dialer is the familiar TouchWiz app and features all the basics - smart dial, quick dial and even a video call button. When calling someone (or they are calling you), the phone will remind you when you last spoke.</paragraph>
+			<paragraph>If you're using both SIM cards, you can enable and disable individual cards and toggle the Always On feature. Say you're talking on one card and someone calls you on the other, normally they would get a message that you're out of reach or your phone is switched off. With the feature enabled, the second card will forward the call to the already active one and you'll receive a notification of the incoming call, while the other party will be informed you're busy, instead of out of reach. If you actually pick up the call, forwarding charges between the two cards will be incurred on your bill.</paragraph>
+			<paragraph>You can pick which card is used for voice and video calls and which SIM provides the data. SIM2 is limited to 2G only (slow data and no video calls), but that's irrespective of the cards' actual placement in the slots, and is a software setting instead.</paragraph>
+			<paragraph>The dialer is part of a tabbed app that also houses the Logs. Those are very detailed and show not only calls, but messages too and you can filter by various types of events (missed call, received message, etc.). There's even a search feature if you need to look up calls from just one number or contact.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test on the Samsung Galaxy E7 and it performed much like the Galaxy A7. It managed an Average score, but has potential to be quite loud with the right ringtone. It shouldn't be a cause for missed calls in all but the loudest environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging, email and text input<subsectionTitle>
+			<paragraph>The Messages app gives you a row to fill with the most important contacts, up to 25 of them. It displays messages grouped into threads and handles both regular texts and MMS messages. On a dual-SIM phone there are two Send buttons so it's easy to use either card.</paragraph>
+			<paragraph>The Galaxy A7 comes with two email apps - the ubiquitous Gmail and the Android Email app. It supports multiple accounts and has a reasonably modern UI, but since the Gmail app gained support for third-party servers we prefer it overall.</paragraph>
+			<paragraph>The Samsung keyboard offers an extra number row, which can be used to insert pre-written phrases by longpressing a particular number. You can use swipes on the keyboard to move the cursor or as an alternative to tap typing. There's no secondary symbols upon longpressing the letter keys, a longstanding shortcoming of Samsung's keyboard design, which may or may not bother you in particular.</paragraph>
+			<paragraph>A small floating keyboard is available in addition to the squished one-handed keyboards. There's intelligent predictive text feature that can learn from your messages (even your contacts' messages), your email and your social networking accounts. These are disabled by default and need your permission to activate.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery with DLNA and facial recognition<subsectionTitle>
+			<paragraph>The gallery on the Samsung Galaxy E7 sorts photos either by time or by album. Based on time and location, it can also group photos by event. Yet another option uses facial recognition, which helps you find all photos featuring a specific person.</paragraph>
+			<paragraph>Viewing images on the Samsung Galaxy E7 is a joy as its screen is big enough and the Super AMOLED panel is lovely with its deep blacks, vivid colors and immense contrast.</paragraph>
+			<paragraph>There's also a comprehensive editor which is part of the Studio app. It offers tone adjustments, post-shot color effects, beautification and decoration features. Part of the Studio package, a collage feature provides a choice of aspect ratios, templates and backgrounds. The resulting images come out at 2,000 x 2,000 pixels when in 1:1 mode, and even larger at 2,000 x 3,555 pixels if you opt for the 16:9 ratio.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 comes with the full-blown TouchWiz music player, which is among the most feature-rich apps we've seen. It supports lossless music (FLAC) and can play music to and from DLNA devices. Folder view is also available.</paragraph>
+			<paragraph>Aside from the traditional song sorting methods, the Music square can create playlists based on mood and tempo. Alternatively you can use years instead of mood to easily create a rocking '80s playlist.</paragraph>
+			<paragraph>A similar square is used make picking an equalizer preset simple. A more advanced feature is Adapt sound, which automatically selects the best settings based on your headphones and hearing. You can also use the 7-band equalizer to manually tune the player.</paragraph>
+			<paragraph>Google Play Music is also on board - it's a good offline music player, but online play is its forte. It can play Instant Mixes, and doubles as a music store or a cloud storage for your audio.</paragraph>
+			<paragraph>Finally, there's a stereo FM Radio app, which Samsung has been neglecting in recent flagships. The app supports RDS and can record radio broadcast (which may be disabled in some regions for legal reasons). There's an option to stream radio over the Internet if the FM reception is poor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great video player<subsectionTitle>
+			<paragraph>The Samsung video player also supports DLNA, but there's only wireless screen mirroring, no MHL TV out. Subtitles are supported and you can adjust font size and color, add an optional background and a few other tweaks. You mileage may vary when using subtitles over DLNA.</paragraph>
+			<paragraph>Videos normally start playing in Multi Window mode so you can keep browsing, you'll need to simply stretch the video window to full-screen. Alternatively, you can view videos in a pop-up window.</paragraph>
+			<paragraph>Codec support on the Galaxy E7 is quite extensive and the smartphone plays MP4 and MKV videos up to 4K, however multichannel audio is not an option. Both H.264 and the next-gen H.265 video decoders are supported.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality starts great, loses some brilliance with headphones<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 put in a stellar performance in the first part of our audio quality test, even surpassing the Galaxy S6 here. When attached to an active external amplifier, the smartphone produced nicely loud output with perfect clarity.</paragraph>
+			<paragraph>Sadly, degradation when you plug in a pair of headphones is above average so the overall result, while good, is no longer impressive. Volume levels drop, some intermodulation distortion appears and we measured a fair amount of stereo crosstalk. It's still a very good overall performance, though, particularly for the price range.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Samsung Galaxy E7 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP camera delivers<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 comes well equipped in the camera department. The main shooter on the back employs a 13MP sensor and produces images up to 4,128 x 3,096 pixels, that's a 4:3 native ratio. It comes with a single-LED flash. On the front you get a 5MP snapper.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The interface is simple enough and combines still and video shooting.</paragraph>
+			<paragraph>Shooting modes are the usual affair, but you can set up which ones appear in the selector and hide the ones you don't use, a nice move to reduce the clutter. You can also download additional modes off the Galaxy app store.</paragraph>
+			<paragraph>The Samsung Galaxy E7 produces images with plenty of detail in high-contrast areas and little noise. Patches of similar color do suffer from aggressive processing though, and detail is lost - the stucco on the orange building has seen better renderings.</paragraph>
+			<paragraph>Dynamic range is not overly exciting and if you have a brightly light daytime scene you can expect some blownout highlights and pretty dark shadows. Colors were accurate though, and the tendency of the Galaxy A7 to output markedly warm images is not observed with the E7.</paragraph>
+			<paragraph>There's an HDR mode (Samsung calls it Richtone), which works conservatively and brings out more detail from the shadows. There's a noticeable color shift towards yellow, but nothing to be too concerned about. HDR photos are snapped quite fast and there's no increase in noise.</paragraph>
+			<paragraph>The Galaxy E7 packs plenty of selfie prowess and aside the obvious front 5MP unit, you can also use the more capable rear camera for the purpose. To aid in taking the shot, you place a rectangle where you plan your face to be, and the camera takes the shot when you align it properly.</paragraph>
+			<paragraph>The front camera packs a nifty feature of its own, dubbed Wide Selfie. It works similarly to a panorama and stitches three photos and makes the photo wide enough for you and a group of friends. You start with shooting the central frame, and then rotate the phone to the left and then to the right. Unfortunately, almost always these wide selfies come out with noticeable stitching issues. They also come out with less resolution than the normal ones - 2576 x 1932 pixels for normal selfies (5MP) and around 2000 x 1600 for wide selfies (3MP).</paragraph>
+			<paragraph>We also snapped a few close up images. The camera is capable of acquiring focus from fairly short distances and you can fill the frame with very small objects.</paragraph>
+			<paragraph>There's a panorama mode, but surprisingly, the implementation on the Galaxy E7 is not among the best out there. When shot in portrait, panoramas come out around 1,200 pixels tall and the whole image is about 1.2MB for a 150-degree shot. Stitching is excellent and the exposure is even, but detail isn't abundant.</paragraph>
+			<paragraph>You can refer to our photo compare tool to see how the Galaxy E7 stacks up against the competition.</paragraph>
+			<paragraph>   Samsung Galaxy E7 in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Adequate 1080p videos<subsectionTitle>
+			<paragraph>The video recorder on Samsung Galaxy E7 is capped at 1,920 x 1,080 pixels at 30fps. There are no fancy smooth or slow motion modes at 60fps or 120fps even at lower resolutions. There's obviously no 4K recording either.</paragraph>
+			<paragraph>The front camera can record 1080p video too in both landscape and portrait orientation, though you should obviously refrain from the latter.</paragraph>
+			<paragraph>FullHD videos are recorded at 17Mbps with a stable 30fps framerate. Sound is captured in stereo at 256Kbps bitrate and 48kHz sampling rate.</paragraph>
+			<paragraph>The resulting images contain a good amount of detail. White balance is accurate, but the limited dynamic range is even more evident. More annoyingly, the continuous autofocus is overeager in constantly adjusting while shooting.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download an untouched 1080p sample (00:17min, 35MB) straight off the device or watch the sample we uploaded to YouTube.</paragraph>
+			<paragraph>Finally, you can have a look at our dedicated video comparison tool below.</paragraph>
+			<paragraph>   Samsung Galaxy E7 in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Browser and Google Chrome, and then Opera Mini<subsectionTitle>
+			<paragraph>The Samsung Galaxy E7 comes with both the stock Android browser (heavily customized by Samsung) and Google's Chrome. Both support multiple tabs (including incognito ones) and an option to go straight to the desktop version of a page.</paragraph>
+			<paragraph>Both apps can work with Multi Window and feature tab syncing. The good news here is that Firefox users can sync tabs with the Internet app (which can also sync with your Samsung account). Chrome users can sync between all versions of the Google browser.</paragraph>
+			<paragraph>Chrome has another trick up its sleeve - it can reduce traffic by compressing web pages on Google's servers before they are sent to the device, similar to how Opera's Turbo mode (and Opera Mini) work.</paragraph>
+			<paragraph>As if that wasn't enough browsers, you also get the option of using Opera Mini. Why you would do that is unclear though, as the app is painfully slow and has its own take on rendering the web pages. If you're used to it from a previous device though, it will provide seamless transition to the Galaxy E7.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other preinstalled apps<subsectionTitle>
+			<paragraph>S Planner is the default calendar. It features five different views: daily, weekly, monthly, yearly and agenda. The Month and Agenda views use a split-screen interface to conveniently show all events on a given day, for any day of the month. Multiple online calendars are supported, complete with color coding.</paragraph>
+			<paragraph>The Memo app is fairly powerful, you can add images and voice notes in each memo and sort those in multiple categories. Notes are synced with a server, which is handy if you have several Samsung devices.</paragraph>
+			<paragraph>The clock app has an alarm clock, World clock, stopwatch and timer modes. Smart alarm can wake you gently by starting a quiet sound that builds over a few minutes before the raw ringer kicks in.</paragraph>
+			<paragraph>My Files sorts files by their type (video, document, downloaded files etc.), but can also be used to freely browse the folder structure on the internal and microSD storage.</paragraph>
+			<paragraph>The Voice recorder app is pretty advanced. It can tag recordings with your location and features several modes that make the most use of the two mics. The Conversation mode, for example, records sound equally from the bottom (your voice) and the top (the other person's voice). There's a voice transcription option too. Noise-reduction is built-in.</paragraph>
+			<paragraph>Aside from the Google Play store you get Samsung Galaxy apps - the store for exclusive content for Galaxy smartphones.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key findings:<subsectionTitle>
+			<paragraph>Attractive design poses for a more premium offering, while keeping the Samsung aesthetic</paragraph>
+			<paragraph>Super AMOLED screen doesn't disappoint and produces punchy colors, with great viewing angles and sufficient brightness</paragraph>
+			<paragraph>Battery life is very good, although web browsing takes a more serious toll on endurance than we would have liked</paragraph>
+			<paragraph>Dual-SIM capability is a welcome feature, but you have to choose between a second SIM card or microSD storage expansion</paragraph>
+			<paragraph>A simpler version of TouchWiz on top of KitKat works fluidly, Lollipop is said to be on the way; Multi-window and pop-up windows add extra productivity on the large screen</paragraph>
+			<paragraph>Performance is modest at best, demanding games are out of the question</paragraph>
+			<paragraph>Loudspeaker volume came out Average</paragraph>
+			<paragraph>Video player has wide video codec support, but no support for multi-channel audio</paragraph>
+			<paragraph>Impressive audio output with external amp, good with headphones</paragraph>
+			<paragraph>13MP camera produces detailed images, with accurate colors and exposure but also limited dynamic range</paragraph>
+			<paragraph>5MP front snapper is fine for selfies</paragraph>
+			<paragraph>The 1080p@30fps videos look good, higher frame-rate modes would have been welcome</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We rather enjoyed our time with the Samsung Galaxy E7. The modest midranger has just the right amount of smartphone features without going overboard with bloatware. It does so without costing an arm and a leg too, at least by Samsung's standards.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Key to the experience is the 5.5-inch SuperAMOLED panel, which in true Samsung fashion delivers vivid output with practically infinite contrast and quite high brightness. True, it's not FullHD so the pixel density isn't exactly impressive, but it was a compromise to make the budget and it's not all that difficult to live with.</paragraph>
+			<paragraph>Build quality is nice as well, and the phone is pleasant to handle. It's not exactly compact, obviously, being firmly in phablet territory, but you can't have a cake and eat it too.</paragraph>
+			<paragraph>Battery life should suit you well unless you do a lot of web browsing, which proved to be the battery's weak spot. But then, that's what you'd want to be doing on the Galaxy E7, because its hardware is not exactly top-of-the-line and performance isn't its strong suit.</paragraph>
+			<paragraph>We get to the user interface, which is TouchWiz through and through. That may be enough to sway potential buyers elsewhere, but on the Galaxy E7 it's been stripped of unnecessary features and preinstalled apps have been kept to a minimum.</paragraph>
+			<paragraph>Arguably the strongest competition comes from Samsung's own camp, and that would be the Galaxy Note 3 Neo. The display may well be the exact same 5.5-inch HD unit. You get a stylus, which may be enough of a deciding factor if you think you can put it to good use. The Note 3 Neo comes in a dual-SIM version too, with a dedicated microSD slot, although that variant may be hard to find. We got a similar battery life rating on the Note 3 Neo, but it comes with user-replaceable battery - invaluable to some, while others couldn't care less.</paragraph>
+			<paragraph>  Samsung Galaxy Note 3 Neo ? Samsung Galaxy Note 3 Neo Duos</paragraph>
+			<paragraph>The Asus Zenfone 2 in one of its multiple iterations may be another viable option. It also has a dedicated microSD slot on top of a pair of SIM slots, so the Galaxy E7 loses on the versatility front once again. The Zenfone 2 has a FullHD screen, though that may cost you a bit more than the Galaxy E7. It's a lot heavier and bulkier though.</paragraph>
+			<paragraph>  Asus Zenfone 2 ZE551ML ? Asus Zenfone 2 ZE550ML</paragraph>
+			<paragraph>The Meizu m1 note is a valid proposition, and even comes at a lower price. It packs a FullHD 5.5-inch display, but has no microSD slot. The Mediatek MT6752 chipset is substantially more powerful and its GPU is in a whole different league. What it lacks is the Galaxy E7's slim profile and overall more upmarket looks.</paragraph>
+			<paragraph> Meizu m1 note</paragraph>
+			<paragraph>Another slightly cheaper alternative comes in the face of the Sony Xperia C3. Dual-SIM with a microSD slot are in its favor, as well as excellent battery life. And the headline feature the 5MP front camera comes with an LED flash. Otherwise the Xperia C3 packs inferior hardware with a dated Snapdragon 400 chipset, a single gig of RAM and rather limiting 8GB of internal storage.</paragraph>
+			<paragraph>  Sony Xperia C3 ? Sony Xperia C3 Dual</paragraph>
+			<paragraph>In certain parts of the world, the same amount of cash can net you a 16GB version of the OnePlus One, and that is a proper flagship, although a year old now. FullHD resolution on a 5.5-inch screen, high-end Snapdragon 801 chipset and 3GB of RAM round up a very proficient package. It's not all in the One's favor though, as it comes in single-SIM fashion only, and offers no storage expansion.</paragraph>
+			<paragraph> OnePlus One</paragraph>
+			<paragraph>HTC has a smartphone or two to offer in the face of the Desire 820 and the older Desire 816, or the updated Desire816G, for that matter. The 820 is substantially more expensive than the Galaxy E7, but has better hardware to show for it. It also has an 8MP front camera over the E7's 5MP unit. Meanwhile, the Desire 816 is slightly cheaper than the Samsung phablet, but lags behind the Galaxy E7 in the benchmarks. The octa-core powered 816G resolves that issue, but both 816s come with only 1GB of RAM.</paragraph>
+			<paragraph>   HTC Desire 820 dual sim ? HTC Desire 816G dual sim ? HTC Desire 816</paragraph>
+			<paragraph>Thin waistline, but a good battery life and a toned-down multi-window TouchWiz on a colorful SuperAMOLED screen make the Samsung Galaxy E7 a strong proposition in the jam-packed midrange. It's not without its flaws and raw performance is on top of that list, so as always you should get your priorities straight before heading to the store.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,351 @@
+<review>
+	<title>LG G Flex2 review</title>
+	<description>A new angle</description>
+	<link>http://www.gsmarena.com/lg_g_flex2-review-1209.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Curved design build around a curved display, self-healing coating on the back panel</paragraph>
+			<paragraph>5.5" 16M-color 1080p curved P-OLED capacitive touchscreen with Dura Guard Glass (Gorilla Glass 3 enhanced in-house by LG)</paragraph>
+			<paragraph>Android OS v5.0.1 Lollipop with Optimus UI</paragraph>
+			<paragraph>Qualcomm Snapdragon 810 chipset with a 64-bit octa-core processor - 2.0GHz quad-core Cortex-A57GHz and 1.5GHz quad-core Cortex-A53; Adreno 430 GPU;</paragraph>
+			<paragraph>2 or 3 GB of RAM depending on storage configuration</paragraph>
+			<paragraph>13MP rear camera, laser-assisted auto-focus, optical image stabilization, two-tone LED flash</paragraph>
+			<paragraph>2160p/1080p video recording @ 30fps, 720p@120fps</paragraph>
+			<paragraph>2.1MP front-facing camera, 1080p video recording</paragraph>
+			<paragraph>LTE Cat. 6; Wi-Fi a/b/g/n/ac; GPS/GLONASS receiver; Bluetooth v4.1; NFC; IR port; FM Radio; SlimPort</paragraph>
+			<paragraph>16 or 32GB of built-in storage; microSD card slot up to 128GB</paragraph>
+			<paragraph>Dual-window split-screen view</paragraph>
+			<paragraph>microUSB 2.0 port with USB host and MHL 2.0, Fast Charging</paragraph>
+			<paragraph>Standard 3.5mm audio jack</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>3,000 mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Rather pricey (sans carrier subsidies) that misses features such as stereo speakers, wireless charging, or an enhanced resistance to liquids or dust</paragraph>
+			<paragraph>The 16GB model comes with 2GB of RAM</paragraph>
+			<paragraph>Non-removable battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It's been more than a year since we saw the introduction of the original LG G Flex. When LG announced the second generation this January we had already assumed that LG had decided to ditch the entire concept. Was it reports of iPhone 6 Plus bending in people's pockets that re-kindled the LG Flex affair over at LG HQ? Bad joke? Well, unlike us, LG are in no mood for joking. Their phone has stellar specs.</paragraph>
+			<paragraph>The LG G Flex2 is one of the best sequels we've seen. Most people must recall the original - after all it was the first of its kind - but it was seen by few and owned by fewer still.</paragraph>
+			<paragraph>Instantly recognizable, but tough sell nonetheless, the original LG G Flex didn't do that well in the market in spite of - or exactly because, it did have two features from the future. A curved, flexible screen and the self-healing coating at the rear.</paragraph>
+			<paragraph>Were they just gimmicks to trick you into buying another flagship-wannabe? The immersive P-OLED display was great for watching movies and games, but LG missed an opportunity to make it an inherent part of how you interact with the device. The self-healing finish of the battery cover had a point but still a long way to go to living up to the marketing promises. Both added to a pretty steep price tag and we still wouldn't call them gimmicks.</paragraph>
+			<paragraph>Anyway, LG is giving the Flex another try and doing it properly this time. The new LG G Flex2 brings a better display, allegedly better self-healing rear coating, the best chipset there is, an improved camera, an impressive connectivity package, the latest Android and a rich software bundle. The display was trimmed down to 5.5", but promoted to Full HD resolution for a clearly superior pixel density of 403ppi.</paragraph>
+			<paragraph>The G Flex2 is the first device we're about to test with a Snapdragon 810 chipset inside. The 13MP camera was treated to optical image stabilization and laser autofocus. That shouldn't have been too hard, pretty much what the LG G3 had a while back. But these are still welcome.</paragraph>
+			<paragraph>Again, just like the last generation, the curved phone profile doesn't mean the phone is flexible in any way. Just on the contrary, it's quite sturdy and well built. The self-healing layer on the back of the phone is still unmatched and it has been improved in this version with even faster healing times.</paragraph>
+			<paragraph>We really disapprove how LG is treating its base 16GB models with less RAM and presumably with lesser user experience. Perhaps not everybody will feel the difference, but it's surely there. Our main concern though is the Snapdragon 810 chip itself.</paragraph>
+			<paragraph>Latest reports point to serious overheating issues. The latest we heard is Samsung will be ditching Snapdragon 810 in favor of its own Exynos platform for the upcoming Galaxy S6 even though Qualcomm promised an improved Snapdragon 810 chip is on the way. But if indeed an updated hardware is coming, what about the early adopters who opt for the LG G Flex? Watch out for the benchmark chapter in this review and hope for the best is all we can do at this point.</paragraph>
+			<paragraph>We also have our doubts about battery life too. The original G Flex was a battery champ, but this one has twice the number of pixels to light up, yet it has 85% of the capacity.</paragraph>
+			<paragraph>Well, that's a lot of questions looking to get answers. Before you know it, the LG G Flex2 will be out of the box and we'll start answering them one after the other.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG G Flex2 retail package<subsectionTitle>
+			<paragraph>LG G Flex2 retail box is pretty standard in size and contents. Inside you'll find a wall charger, a microUSB cable and the LG QuadBeats 2 in-ear tangle-free headset. The charger plug supports Fast Charging and is capable of recharging up to 60% of the LG G Flex2's battery capacity in just 30 minutes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG G Flex2 360-degree spin<subsectionTitle>
+			<paragraph>LG has opted for a smaller screen for the G Flex2 and this decision not only made the new Flex more compact, it significantly reduced its footprint and weight.</paragraph>
+			<paragraph>The LG G Flex2 spreads at 149.1 x 75.3 x 7.1 mm, which is a centimeter shorter, 5mm narrower and a hair thinner than the original. The second generation Flex is also 25g lighter at 152g.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>First, let's get something straight - the LG G Flex2 isn't a flexible smartphone - it won't bend under pressure or else. Unlike the previous generation Flex, which was barely bendable, we don't recommend trying and forcing the G Flex2 bend back to a straight profile in case all the creaking isn't alarming enough for you already.</paragraph>
+			<paragraph>The LG G Flex2 follows the basics established by its predecessor, building upon its major principles and developing further the features that made the G Flex so attractive and popular - a curved display, self-healing coating on the back, top-notch hardware and above average camera department.</paragraph>
+			<paragraph>The new Flex2 features a smaller 5.5" P-OLED curved display, but with higher 1080p display resolution. This means you'll be getting a nice and lively P-OLED display of 403ppi density, which is more than enough for most practical reasons. And the curved screen indeed looks gorgeous, especially when you are enjoying high-res multimedia content in landscape orientation.</paragraph>
+			<paragraph>The beautiful LG G Flex2's display is protected by a curved piece of Corning Gorilla Glass 3, but LG has enhanced it further making it 20% tougher than usual. LG says Corning had no part in creating the improvements in what they call their proprietary Dura Guard Glass.</paragraph>
+			<paragraph>Speaking of toughness, LG F Flex2 might be quite durable on the front, but it also comes with an even better self-healing coating that "regenerates" up to 18 times faster. LG claims everyday scratches and dents disappear for about 10 seconds at room temperature.</paragraph>
+			<paragraph>We did a test of our own and indeed scratches accumulated from dragging the phone on a desk or fingernail scratches disappear very quickly at room temperature and not so quickly in the cold weather outside.</paragraph>
+			<paragraph>Unfortunately, deeper scratches made by keys, nails or knives either won't heal completely or won't heal at all. The deeper the "wound", the worse the healing.</paragraph>
+			<paragraph>Another point to make is that the self-healing coating is not that much of a coating, as it is a layer. Upon closer inspection it still looks like see-through plastic nylon-like layer. You can spot where it ends around the edges of the device and it even looks like you can peel it off the back, if feel like it.</paragraph>
+			<paragraph>The back cover is removable, though that won't get you further than accessing the microSIM and microSD slot. The battery is not user-accessible.</paragraph>
+			<paragraph>You bet the rear control deck LG is so proud of is here to stay. The keys and placement are very similar to LG G3's, and there is no hump at the back as it was the case with the original G Flex. The volume rocker has its surface made of a nice dotted pattern.</paragraph>
+			<paragraph>LG used two tiny silver accent frames on the G Flex2, which improve the looks and nicely separate the screen and the chassis from the battery cover. All elements of the G Flex2 are glossy, but the rear self-healing coating isn't prone to fingerprints, nor are the sides of the phone.</paragraph>
+			<paragraph>Handling the LG G Flex2 is a real pleasure and while the grip isn't great because of the all-glossy design, the curve just grew on us and we miss it while handling other devices. The G Flex2 is best handled in landscape mode, where the curve feels amazingly natural and really improves the overall user experience.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The LG G Flex features no controls at the front. Above the P-OLED display we find the LED notification light, the 2.1MP front snapper, a bunch of hidden sensors and the centered earpiece.</paragraph>
+			<paragraph>There is nothing on the left and right sides of the LG G Flex2.</paragraph>
+			<paragraph>The bottom of the smartphone houses the 3.5mm audio jack, the primary microphone and the microUSB 2.0 SlimPort.</paragraph>
+			<paragraph>The top of the G Flex2 has the IR blaster and the secondary mic for active noise-cancellation and stereo video recording.</paragraph>
+			<paragraph>The back of the LG G Flex2 is where things get interesting. Above the rear controls is the 13MP camera sensor, the same as on the LG G3. It features OIS+ optical stabilization, and it works side-by-side with the laser autofocus LG has been offering on the G3 for a while now. A dual-LED two-tone flash is also around, helping you achieve more natural looking light for flash photos.</paragraph>
+			<paragraph>Below the camera is LG's iconic control deck with the Power/Lock key and the volume rocker. As we already mentioned there is no hump there and the keys have nice dotted pattern.</paragraph>
+			<paragraph>The loudspeaker grille at the bottom left corner is the last notable feature on the back.</paragraph>
+			<paragraph>The rear cover is removable, but the 3,000 mAh battery is not user accessible. You can just hot-swap the microSIM and the microSD cards.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The LG G Flex2 has a new brand screen - Plastic OLED - manufactured by LG. Traditional OLEDs have their light diodes on a sheet of glass, but by using a plastic substrate LG has managed to make the display curved.</paragraph>
+			<paragraph>LG G Flex used a 6" OLED screen, while the new G Flex2 bets on a 5.5" unit but with higher 1080p resolution. This means that despite its ample surface, the P-OLED panel offers a great 403ppi - well above the 300ppi or so Retina-grade threshold.</paragraph>
+			<paragraph>Unlike the original Flex, which used a RGB matrix for its screen, LG went back to the Pentile matrix for the Flex2 but it of the diamond-shaped PenTile variety, meaning every pixel has four sub-pixels and essentially a RGBG arrangement. Here's how the layout looks under a microscope.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The default screen mode underlines the P-OLED panel's key strength, high contrast, by producing overly saturated colors that make every image look like it's going to pop out of the frame. Yet, if you aren't a fan of the slightly unrealistic images, you can change the screen more in Settings to Natural, which should display colors as true as possible.</paragraph>
+			<paragraph>Whatever mode you've chosen to use, the infinite native contrast and the low reflectivity guarantee you will enjoy great picture in brighter environments, plus the viewing angles are simply impeccable. The screen is brighter than the predecessor in both the 50% and 100% scenarios.</paragraph>
+			<paragraph>Under direct sunlight, the LG G Flex2 is able to retain excellent contrast and stay legible even in the most brightly lit environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The LG G Flex2 has a 3,000mAh battery, a 500 mAh less than its predecessor due to the smaller body size. A large OLED screen isn't ideal for long battery life, but in the end things seem to balance out.</paragraph>
+			<paragraph>Web browsing is once again the Achilles heel - the G Flex2 lasted six hours, which not even close to the average in the class. Talk time and video playback are OK though.</paragraph>
+			<paragraph>The endurance rating is above average at 62 hours - you can expect to go two and a half days without charging, depending on how much web browsing you do.</paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating.</paragraph>
+			<paragraph>Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The LG G Flex2 has quad-band 2G/EDGE support, quad-band 3G with HSPA+ (up to 42Mbps downlink) for the international version and LTE Cat.6 support too.</paragraph>
+			<paragraph>Local connectivity includes dual-band Wi-Fi a/b/g/n/ac (that's both 2.4GHz and 5GHz), Wi-Fi Direct and DLNA. There is also stereo Bluetooth 4.1 and GPS with A-GPS and GLONASS.</paragraph>
+			<paragraph>The handset has a standard 3.5mm audio jack and a Slimport-enabled microUSB port, meaning you can use it to output content to an external screen with an appropriate adapter. The microUSB port can also be used in a USB host mode letting you connect various USB peripherals, but again you'll need a separately-sold adapter.</paragraph>
+			<paragraph>NFC connectivity lets you transfer files between other NFC-enabled Android devices via Android Beam, and you can also read NFC tags. Oddly, an NFC Tag manager is not included as part of the standard app package, so you'll have to download one from the Play Store if you want that functionality.</paragraph>
+			<paragraph>Otherwise, there's also support for Miracast streaming for compatible televisions, while SmartShare Beam lets you send and receive files to other LG devices over Wi-Fi.</paragraph>
+			<paragraph>Finally, the IR-port on the top of the device lets you control a wide variety of electronics and appliances via the QRemote app. QRemote features a large database of TV sets, set-top boxes, and audio receivers. It also gives you the ability to create a universal remote, complete with button mapping.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android 5.0.1 Lollipop with latest Optimus launcher<subsectionTitle>
+			<paragraph>LG G Flex2 runs on the latest Android 5.0.1 Lollipop and includes the latest proprietary Optimus launcher. The latest Android build features brand new Material design, as well as a new ART runtime, while the new Optimus software package improves on well-known apps and integrates well with the Lollipop's Material design.</paragraph>
+			<paragraph>Here's a quick video of the user interface in action:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen hasn't seen much change since the Jelly Bean came around - by default, it features a clock with five shortcuts across the bottom. You also have the ability to add widgets by swiping to the right, and you can also double tap to wake the device at any time. You can enable more secure locking routines, including pattern, pin, password, or LG's own Knock Code that uses a series of taps to wake the device and unlock the screen.</paragraph>
+			<paragraph>There is one new feature, which allows you to peek at the lockscreen and reveals the clock and missed notifications. Just swipe down from anywhere on the turned off display and you'll get a glimpse on those.</paragraph>
+			<paragraph>Past the lockscreen, you're greeted by the familiar Android homescreen. As on most droids, you can have multiple homescreens populated by a wide selection of apps shortcuts and widgets, and even folders. Like on the G3, the navigation buttons are virtual, though now they are using the Material looks.</paragraph>
+			<paragraph>Having the buttons on-screen ensures better response time and less chance of mechanical wear but also means you're effectively giving up part of your screen estate.</paragraph>
+			<paragraph>The background behind the buttons is transparent and they obediently move out the way when you're watching a video or image so it's not that bad. Plus, the G Flex2 lets you customize either white or black color schemes, and even add quick shortcuts for Dual window, QSlide and QMemo+, and even the notification bar.</paragraph>
+			<paragraph>The leftmost homescreen pane of the LG G Flex2 is reserved for a Smart Bulletin, which is a special space similar to HTC's BlinkFeed and Samsung's My Magazine (except not as robust). Smart Bulletin posts at-a-glance info from LG's Health app (more on that later) and Smart tips that highlight aspects of the phone's technology and usage.</paragraph>
+			<paragraph>A pinch zoom on any homescreen lets you see them all at a glance, where you can also remove any or set default. To populate any of them, simply hold a finger on to a blank area, and drag an app or widget from the resulting screen.</paragraph>
+			<paragraph>Homescreen effects are available and you can change themes, too. A theme will change your homescreen wallpaper, lockscreen style, system icons, and system fonts. There is only one theme pre-installed, but you can download more from LG Smart World.</paragraph>
+			<paragraph>One finger swipe from the top of the homescreen will open the notification area, which features a cleaner look in Android 5.0 Lollipop. The top bar displays a scrollable row of quick toggles, some sliders, and any notifications you may have.</paragraph>
+			<paragraph>Holding a finger down on a toggle in the upper row will take you to the relevant option in the settings, where you can also edit which toggles and sliders are shown.</paragraph>
+			<paragraph>The app drawer also looks and acts the same. Aside from the usual alphabetical and chronological sorting of apps you can also rearrange the grid any way you see fit. Apps can be uninstalled directly in the app drawer, which is great for getting rid of carrier bloatware.</paragraph>
+			<paragraph>The app switcher has a neat card interface that allows you to select the app you need by swiping up or down. You can close apps by swiping left or right, by hitting the dedicated button on the top right corner of each card, or use the close all option. There's also a shortcut to the special Dual window feature.</paragraph>
+			<paragraph>Dual window is available on the LG G Flex2 - which is great, considering the ample screen diagonal. Compared to Samsung's identical Multi window feature, LG's offering has its upsides and downsides.</paragraph>
+			<paragraph>Just like Multi window, you can quickly drag apps to the top and bottom half of the screen, while some of the compatible ones are running, or start from you homescreen and pick the two apps together.</paragraph>
+			<paragraph>On the upside, the G Flex2 remembers recent selections for quicker access, and lets you split the screen anywhere you want rather than the middle, top 3rd, or bottom 3rd.</paragraph>
+			<paragraph>Besides Dual window, many apps have the ability to run in small resizable floating windows which LG has dubbed QSlide. QSlide applications can either be accessed from the notification area, or from within supported apps themselves by clicking the special shortcut icon. QSlide is more practical on tablet-sized displays than it is here, but it's still a neat trick to have.</paragraph>
+			<paragraph>There's a somewhat hidden alternate homescreen mode called EasyHome, which provides a vastly simplified version of the homescreen interface. The dialer and contact/app shortcuts are all part of the main homescreen, while another secondary homescreen can contain more shortcuts. This is great for the elderly, children, or the not-so tech savvy, but it greatly reduces the number of available features.</paragraph>
+			<paragraph>Finally, LG offers single-handed mode to aid in the daily interactions with the phone - it allows you move the keyboard, the dialer and the navigation bar to the left or right side of the phone.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The LG G Flex2 is the first smartphone we meet that utilizes the latest available Snapdragon 810 chipset. Its processor comprises of four Cortex-A57 cores clocked at 2.0GHz and another four Cortex-A53 cores running at 1.5GHz. All eight cores have 64-bit support and the new ART runtime compiler within Android Lollipop is able to fully utilize their potential.</paragraph>
+			<paragraph>The Snapdragon 810 chip also introduces a new Adreno 430 GPU, which should provide better performance compared to the Adreno 420 accelerator in the Galaxy Note 4's Snapdragon 805. Combined with the 1080p display, it should provide blazing-fast experience compared to any QHD-screen touting flagship.</paragraph>
+			<paragraph>Finally, LG G Flex2 comes with 2GB RAM for the 16GB model and 3GB RAM within the 32GB flavor. LG has been doing this separation since the LG G3 and while we don't approve it, there is nothing we can do. Our review unit is the 16GB variety.</paragraph>
+			<paragraph>Even before we got our LG G Flex2, the news broke that the Snapdragon 810 chip was having issues with overheating and Qualcomm is working on a newer version of the chip. This may have even led Samsung to drop Qualcomm as chip supplier for the upcoming Galaxy S6.</paragraph>
+			<paragraph>Unfortunately, the LG G Flex2 being the first adopter of the S810 hardware, would be a prime example of the new chipset pros and cons.</paragraph>
+			<paragraph>Our impression is that the LG G Flex2 got really warm while running a game, or even a benchmark app, for that matter. We also noticed, that when running benchmarks, its performance dropped after the first run, suggesting there is some sort of CPU performance throttling taking place when the temperature rises. The performance penalty amounted to about 20% and it restored back to normal only after the phone had the chance to cool off.</paragraph>
+			<paragraph>We contacted LG on the matter and here's their official statement:</paragraph>
+			<paragraph>"The devices sampled are representative of final industrial design and user experience but are continuing to undergo additional optimizations to enhance benchmark performance. We expect our upcoming software releases to provide further improvements in this area. We remain confident that the G Flex2 will deliver great experiences to our customers with a tremendous blend of multimedia, performance and industry-leading design."</paragraph>
+			<paragraph>In their response, LG further specified this update should be released in time for the worldwide launch of the phone, so the users won't have to worry about waiting for it. What this means is that they expect to release a software update to change the automatic CPU throttling trigger levels - at least in benchmark scenarios, hopefully making the benchmark results from different runs more consistent.</paragraph>
+			<paragraph>Having all that in mind we proceed with our benchmarks. To speed up the cooling off period we resorted to placing the G Flex2 inside our office in-between the individual runs. All benchmark results listed below were obtained after such cool off period in order to assess the maximum performance of the new chipset and avoid reaching the overeager automatic CPU throttling trigger levels.</paragraph>
+			<paragraph>So, the first test we use is GeekBench 3, which estimates the multi-core performance of the octa-core processor. Apparently, the LG G Flex2 aced our chart, doing a hair better than Meizu MX4's MediaTek MT6595 chip. Back at the G Flex2 unveiling event we also had the chance to do a GeekBench 3 run back then it did even better at about 3,950.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Next, we put the LG G Flex2 through the compound AnTuTu test, which gauges not only processor, but graphics and memory performance as well. The new Flex2 did excellent, but not enough to beat the Meizu MX4 Pro and the Lollipop-running Galaxy Note 4. Both of this competitors feature higher resolution displays and slightly lesser chipsets, so this is our first clue LG has to work more to improve the performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The new BaseMark OS II 2.0 is another compound test, which in addition to CPU, GPU and RAM, calculates web performance and storage speeds. The LG G Flex2 topped our chart doing much better than all other smartphones we've tested so far.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Unfortunately, the single and multi-core performance of the new processor isn't the one contributing for the great overall score. The CPU is performing less than expected, probably because LG has trimmed down its performance for a while. The scores are still great, but not as great as all of us expected them to be.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>LG G Flex2 is the first smartphone to feature the new Adreno 430 GPU. It also comes with a 1080p display instead of a QHD one, which should give it a computing advantage over devices like the LG G3 and Samsung Galaxy Note 4. We ran both offscreen and onscreen tests of the GFX Benchmark, here is how the LG G Flex2 did.</paragraph>
+			<paragraph>Quite expectedly, the Adreno 430 turned out the best GPU we've tested so far and aced both offscreen tests. It is 20% more powerful than the Adreno 420 in the Snapdragon 805 chip and the PowerVR G6450 in the iPhone 6 Plus.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>You bet the onscreen results turned as impressive as we'd expected them to be. The Adreno 430 is an impressive leader, but part of this lead is due to the fact that competing devices utilize higher QHD resolutions.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Oddly, the BaseMark X GPU benchmark put the G Flex2 on the second place, a whisker lesser than the Lollipop-running Galaxy Note 4.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Next, we've put the LG G Flex2's default web browser through the Kraken JavaScript test and it beat all devices we've tested so far.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The LG G Flex2 browser might be great on JavaScript, but its overall experience turned out only the second-best, outdone by the iPhone 6 Plus and the Lollipop-running Galaxy Note 4.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Is the Snapdragon 810 chip better than the previous generation? It definitely is, especially its Adreno 430 GPU. Sure, the S810 chip has issues but we expect those to be overcome very soon. Even with throttled down performance, it still does an amazing job and we can't wait to see the S810 in its full glory. The LG G Flex2 is a true flagship, with blazing-fast performance. Under stress, we often found it to heat up in top left corner, but we've never seen it overheat.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook and dialer combined<subsectionTitle>
+			<paragraph>Like most other launchers these days, the LG has integrated the phonebook and dialer in one interface. Tapping the dedicated Phone and Dialer shortcuts merely take you to different tabs of the Phone app.</paragraph>
+			<paragraph>Selecting a contact displays the basic details: name and photo, numbers, emails and such. The dialer has smart dial, which searches for both digits and letters.</paragraph>
+			<paragraph>You have the option of removing the Favorites and Groups tabs, leaving you just the Dial, Call logs, and Contacts interface. This is great for simplifying what is oftentimes a crowded interface.</paragraph>
+			<paragraph>The smartphone packs a neat set of call-related tricks such as automatically silencing the ring of an incoming call just by putting the phone face down or automatically answering an incoming call by raising it to your ear.</paragraph>
+			<paragraph>The quality of the loudspeaker is good, but it is being directed outward from the rear panel, rather than towards you from the front panel like on the HTC One, for example. The speaker's loudness is average and failed to beat its predecessor and the LG G3.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging, email and text input<subsectionTitle>
+			<paragraph>In addition to the usual SMS, MMS, email capabilities, the LG G Flex2 can also connect to Google contacts via either texts or video calls by use of the Hangouts app.</paragraph>
+			<paragraph>SMS and MMS messages are displayed in threads - you see a list of all conversations, each listed with the contact's photo, name and the subject of the last message, as well as a part of the actual message. Tapping a conversation brings up the entire message history with that contact.</paragraph>
+			<paragraph>LG lets you customize the look of the messaging app by assigning custom backgrounds and message bubbles.</paragraph>
+			<paragraph>The G Flex2 comes with two email apps - the traditional Gmail app and the LG E-mail app. The latter has the added benefit of merging all your email accounts into a single interface with a unified inbox.</paragraph>
+			<paragraph>LG offers a wide array of typing methods, including split keyboard, voice recognition, handwriting recognition, and Path input, LG's take on Swype.</paragraph>
+			<paragraph>Even in portrait mode, the keys are amply-spaced on the 5.5-inch screen, and you have the added ability to raise and lower the keyboard to get more or less gaps between the keys. There's also a boatload of customization options, including a dark-toned keyboard, vibration when pressing a key, character bubbles on key press, to name a few. LG can even update its word suggestion library, if you have the option enabled.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The usual gallery app<subsectionTitle>
+			<paragraph>The Gallery stacks photos and videos together in albums, which can be organized by albums, favorites, videos, or just display all files in a single grid. This is the only way to access your videos - from the Videos tab as the G Flex2 doesn't come with a dedicated Video player app.</paragraph>
+			<paragraph>The gallery supports cloud services and you can connect your Dropbox, Box, LG Cloud or T Cloud accounts.</paragraph>
+			<paragraph>As usual, there is an array of available options at your disposal. You can share, highlight, and delete images, as well as set them as backgrounds, assign them to contacts, add them to a specific album, or print them.</paragraph>
+			<paragraph>Editing images takes you to Google's Photos app, used in lieu of a picture editor from LG.</paragraph>
+			<paragraph>The gallery supports viewing your images in their full resolution. You can easily pinch-zoom to 1:1 magnification.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent video codec support, subtitles available too<subsectionTitle>
+			<paragraph>The video player on the LG G Flex2 has a rather simple yet powerful interface. There isn't a dedicated app - you just pick a video from the gallery or the file manager.</paragraph>
+			<paragraph>You get Play/Pause, fast-forward, and rewind buttons, in addition to a slider to scrub through the video. The slider gives you a nifty animated preview thumbnail while at it. All of these hide automatically after a few seconds of playback.</paragraph>
+			<paragraph>The LG G Flex2 played almost every file we threw at it, regardless of file format, resolution, or audio/video codec. The only files that didn't play were our MOV samples, but those are usually a no-go for droids out-of-box.</paragraph>
+			<paragraph>Subtitles are supported too, including non-western fonts. You can configure their size and background, you can even choose the subtitles file manually.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great music player<subsectionTitle>
+			<paragraph>LG's music player features a similar layout as the one in the previous Android versions. Your music library is organized by various categories, with the Album view being the most interesting thanks to its large album thumbnails.</paragraph>
+			<paragraph>The Now playing screen will display the Album art and playback controls, which you can swipe to the sides for the next/previous track.</paragraph>
+			<paragraph>There's a robust equalizer on board, complete with a wide variety of presets. You can also adjust the playback pitch and speed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio<subsectionTitle>
+			<paragraph>Our Korean unit (model name LG F510S) came without FM radio integration as it offers a built-in South Korean DigitalTV tuner instead - something customary for smartphones on the Korean market. We are more than sure though that the worldwide edition of the smartphone will have FM radio support.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Very good audio quality<subsectionTitle>
+			<paragraph>The LG G Flex2's curved body hasn't put a strain on the audio hardware design. The phablet did excellently in the first part of our audio quality test, where it had to show how it works with an active external amplifier. Each and every one of its scores was excellent and although the volume levels could be improved, they were still adequate.</paragraph>
+			<paragraph>Plug in a pair of headphones and a moderate amount stereo crosstalk creeps in, but the G Flex2 still has it better than most of its rivals. Some intermodulation distortion appears too, and while it's nothing to worry about, it prevents us from giving the G Flex2 full points here. Still, a very good overall performance by the curved flagship.</paragraph>
+			<paragraph>And here go the results.</paragraph>
+			<paragraph> LG G Flex2 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP optically-stabilized camera<subsectionTitle>
+			<paragraph>The LG G Flex2 has borrowed the sensor and setup from the G3 which we reviewed last summer. The G Flex2 uses a 13MP camera with optical image stabilization for stills along with phase-detection focus on the sensor aided by an infrared sensor to help with distance information. There's also a dual-LED flash to cover lower light shooting. The latest G Flex2 is clearly a superior imaging package compared to its predecessor.</paragraph>
+			<paragraph>LG has intentionally stripped down the interface to house a bare minimum of on-screen controls. It's not as extreme as what Google did with the Nexus camera interface, but it is somewhat uncharacteristic from a maker that typically throws in camera features by the boatload. Still, all the shooting modes are easily organized in their own section.</paragraph>
+			<paragraph>You can touch the screen to focus on a specific element, and can even set it to automatically shoot once it does so.</paragraph>
+			<paragraph>The LG G Flex2 produces great results from its camera with good overall detail and pleasant colors. The smartphone is also quick to snap photos and we can see the OIS working to steady the viewfinder while shooting.</paragraph>
+			<paragraph>The only issues we found with the LG G Flex2 's camera is the blotchy noise visible in areas of solid colors - like the sky - where there shouldn't be any at such good conditions. Perhaps LG processing is exaggerating the noise in these areas due to oversaturating the respective color channel. Still the noise would only be visible for pixel-peepers.</paragraph>
+			<paragraph>The LG G Flex2 was spot on with its white balance but has the colors slightly cooler compared to the LG G3. The terrific dynamic range we've come to expect from LG smartphones is evident here too - the G Flex2 captures plenty of detail in both the shadows and highlights without needing its Auto HDR mode.</paragraph>
+			<paragraph>When turned on, the HDR mode produces some of the best images you could take with this phone. HDR brings back a lot of the detail in the shadows and mostly leaves the highlights as they are. Have a look see for yourselves but we'd say that LG rivals Samsung for the best built-in HDR mode on smartphones these days.</paragraph>
+			<paragraph>The LG G Flex2 also captured great macro images. We rarely had a miss with focusing and we're likely to thank both phase detection and the IR system for that. Even at about 8-9cm the G Flex2 can snap quick, sharp photos.</paragraph>
+			<paragraph>While the sensor technology may be the same it's clear that the LG G Flex2 and G3 have different software optimizations. Below you'll find a quick comparison of two images taken with both phones at the same time. The G Flex2 clearly outputs more saturated colors, especially in the red and blue channels.</paragraph>
+			<paragraph>The LG G3 is also the sharper device with the mature processing - its images exhibit clearer, finer detail, while the ones from the G Flex2 appearing oversharpened and not as attractive.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>There isn't much in it, though - both cameras take excellent 13MP pictures, the older LG G3 is just superior. You can find the full-resolution samples below.</paragraph>
+			<paragraph>Overall, the LG G Flex2 is a great imaging performer that can capture good photos, fast and display them in their full glory on the 5.5" curved OLED screen. But the G Flex2 also is a step back from the LG G3, which simply offers better photos.</paragraph>
+			<paragraph>Finally, you can check out our photo quality comparison tool. In it you can clearly see the LG G Flex2 is an improvement over its predecessor, the LG G Flex.</paragraph>
+			<paragraph>   LG G Flex2 in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>4K video<subsectionTitle>
+			<paragraph>Utilizing its beefy Snapdragon 810 chipset, the LG G Flex2 doesn't break a sweat recording UHD (3840 x 2160px) video at 30fps, FullHD at 30fps (1920 x 1080px) and slow-motion HD video at 120fps (1280 x 720px). Smooth-motion 1080p videos at 60fps are weirdly omitted here but with UHD at hand, we really don't mind.</paragraph>
+			<paragraph>Straight to the point - UHD videos are superb with great detail, both more importantly, super smoothness. Colors are saturated and things are sharp - but this really isn't a surprise - we haven't yet seen bad UHD videos.</paragraph>
+			<paragraph>1080p videos are also good but nowhere near as detailed. We've seen better FullHD clips from midrange devices - such as the Samsung Galaxy A5.</paragraph>
+			<paragraph>Finally, the LG G Flex2 can autofocus on its own while recording but when you choose a focus point, the phone will alter exposure depending on what passes through the point. This isn't a problem when shooting a single object (person, pet or object) but isn't ideal when shooting many different objects passing through the focal point like in our test videos.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Finally, the LG G Flex2 captures 720p slow-motion video at 120fps but they look as if taken in even lower resolution and don't even look good on the small phone screen let alone on a bigger display.</paragraph>
+			<paragraph>As usual here is an untouched 2160p@30fps video sample and a 1080p@30fps video sample  straight off the device.</paragraph>
+			<paragraph>And finally, you can pixel peep all you like in our video comparison tool. You can see that the LG G3 still captures better videos with a clearer, more defined processing and better level of resolved detail.</paragraph>
+			<paragraph>   LG G Flex2 in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Web browser<subsectionTitle>
+			<paragraph>The LG G Flex2 comes with its own version of the stock Android browser, as well as Google's Chrome browser.</paragraph>
+			<paragraph>The stock browser packs the usual features: Incognito tabs, Bookmarks, Find in page and Desktop view. There is no Flash support. Pages can be saved locally to read offline, but videos cannot.</paragraph>
+			<paragraph>Google Chrome is becoming the most popular mobile browser and should be fairly familiar. It has some advantages over its vanilla-flavored buddy, including switching between tabs from the Lollipop's Task Switcher interface.</paragraph>
+			<paragraph>Thanks to your Google account, Chrome can sync what you have open on other devices (desktops, tablets) with the phone. This feature also syncs your bookmarks and favorite sites and can remember passwords and login data.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>LG's QMemo app, which was created as a response to Samsung's Notes application, is present on the G Flex2 in the form of QMemo+. QMemo+ features a plethora of features, including the ability to add location and weather info to your notes, draw and add text to nearly any type of screenshot or picture, as well as share and save your notes via a wide range of media.</paragraph>
+			<paragraph>LG has re-skinned the Android Calendar app to match the Optimus UI design scheme. Adding an event lets you specify time (with a warning if there's a conflict with another event), attendees and location. Multiple online calendars are supported besides Google's.</paragraph>
+			<paragraph>The Tasks app is another way to organize time. It can handle multiple task lists and syncs with your Google account. Each task can have a due date and reminder associated with it.</paragraph>
+			<paragraph>The LG G Flex2 also comes with a capable File manager application. You can either list all of the files of a certain type on your device, or browse the contents of your internal/expandable storage like on any other file manager. You can also integrate Dropbox cloud storage.</paragraph>
+			<paragraph>There is no pre-installed office package, but you can open office files, including PDFs, thanks to the integrated ThinkViewer app. If you need an edit option, you'll have to find another solution from the Play Store.</paragraph>
+			<paragraph>The Alarm clock application can handle multiple alarms, each with its own start and repeat time. The stopwatch and timer are self-explanatory. There's also a Calculator that displays advanced functions in landscape mode, and a Voice recorder.</paragraph>
+			<paragraph>It provides traffic information to your work or home, knows the scores of sports teams you follow and gives you the weather forecast for your location. It's great for at-a-glance info, but can handle voice Google searches as well. It also has a dedicated homescreen/lockscreen widget.</paragraph>
+			<paragraph>On the positive side, it can plan driving, public transport, cycling and walking routes. It can also display pretty accurate traffic alerts as well (though it doesn't always take them into account when routing you).</paragraph>
+			<paragraph>Another great support tool is the Android Device Manager. It's available for all Android devices linked to your Google account. It can help you find your misplaced phone by ringing it or placing it on a map if it's not where you are. If it's stolen, you also have the option to lock the device and delete all data. You have to have enabled remote lock via the preinstalled Google Settings app on your smartphone.</paragraph>
+			<paragraph>And finally, Google's Play Store hardly needs any description. It the biggest catalog of apps and also features movies, TV, music and even devices but availability is region-dependent. Opening the store brings you highlighted apps based on recommendations and your usage. There are categories, ranked apps and more.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>LG kicked off 2015 with a bang... or rather with a new flex. The LG G Flex2 is the first smartphone to unleash the latest Snapdragon 810 beast-of-a-chipset on the market.</paragraph>
+			<paragraph>The curved OLED display is still one of its key unique selling points. This time around it's also got a special edition strengthened Gorilla Glass 3 at front and an updated self-healing coating on the plastic back. It has borrowed the great camera of the LG G3 along with the optical image stabilization and laser-assisted autofocus.</paragraph>
+			<paragraph>The rear control deck is at its most comfortable edition ever and the curved shell provides for an amazingly comfortable handling - especially since the new phone has a smaller footprint thanks to the reduced screen size.</paragraph>
+			<paragraph>We could go even further lamenting its qualities but we think everybody should have gotten the idea by now. LG G Flex2 is a flagship that stands out. A smartphone that's not afraid to innovate.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>It's not all sunshine and roses, of course. The Snapdragon 810 chip didn't turn out to be the chart topper we were expecting. Most often than not it ran under its full potential due to aggressive CPU throttling setting that supposedly will be re-adjusted before the device hits western markets. But it makes you wonder why it's there in the first place even after the device has launched on its home turf in South Korea (we have one of these babies for review).</paragraph>
+			<paragraph>We also found the camera image quality is not on par with the LG G3 even though both look identical on paper. It's nevertheless a serious upgrade over the original LG G Flex.</paragraph>
+			<paragraph>And finally, the battery performance is a surefire downgrade compared to the record-breaking LG G Flex scores.</paragraph>
+			<paragraph>Here, check out our LG G Flex2 key test findings: </paragraph>
+			<paragraph>If you are after the latest and greatest chipset in the business, then there's hardly any alternative to the LG G Flex2 and its Snapdragon 810. At least not until MWC comes along this March and delivers a truckload of new flagships.</paragraph>
+			<paragraph>The MWC is where the Galaxy S6 will be unveiled, as well as the HTC One (M9) and the Sony Xperia Z4. And who knows - LG G4 might be just around the corner. All of these will be utilizing the Snapdragon 810 chipset or similar and will create the usual diversity on the market.</paragraph>
+			<paragraph>Of course, the LG G Flex2 is destined to remain a niche device unlike those mass market flagships. It's a proof of concept meant to fortify the brand recognition above anything else. And just like the original G Flex, it will serve the purpose of showcasing LG tech in stores quite successfully.</paragraph>
+			<paragraph>It's much like the Samsung Galaxy Note Edge. If you are after a limited edition smartphone, the Galaxy Note Edge seems like a proper alternative for the lack of a more recent comparison (we're looking at you Galaxy Round). It is slightly bigger, though not as elegant, with a QHD display plus some extra screen estate on the right edge. The 5.6" Galaxy Note Edge runs on the Snapdragon 805 chip, offers additional S-Pen stylus support, as well as a gimmicky heart-rate sensor and finger-print scanner. At around ?700, the Samsung Galaxy Note Edge price is much more reasonable than back in the beginning and you may find it suits you better than the LG G Flex2.</paragraph>
+			<paragraph> Samsung Galaxy Note Edge</paragraph>
+			<paragraph>The original Samsung Galaxy Note 4 costs about ?100 less than the G Flex2. It runs on a lesser Snapdragon 805 hardware, but offers better a 4K display, a better 16MP camera, a bigger battery and even richer software package. All the extra stuff as the fingerprint reader, heart-rate monitor, S-Pen stylus and features are welcomed, too.</paragraph>
+			<paragraph> Samsung Galaxy Note 4</paragraph>
+			<paragraph>Apple's iPhone 6 Plus is into the premium market as well. This time around Apple went big - it's got a 5.5" 1080p screen, while its Apple A8 chip turned out just as monstrous when it comes to performance. The 6 Plus model had its 8MP cam upgraded with optical image stabilization and its battery life is remarkable. If you like iOS, then the iPhone 6 Plus will run you around ?799 or more.</paragraph>
+			<paragraph> Apple iPhone 6 Plus</paragraph>
+			<paragraph>Recently Xiaomi announced not one, but two flagships, which deserve your attention. The Xiaomi Mi Note and Mi Note Pro turned out to be quite the beasts and the Mi Note is already available for purchase. The Xiaomi Mi Note packs a 5.7" 1080p display and runs on the Snapdragon 801 chipset with 3GB of RAM, while the Pro version has a 5.7" QHD screen and is powered by the Snapdragon 810 beast with 4 gigs of RAM but it's yet to show up in person. The rest of the specs are pretty much the same for both devices - 13MP OIS camera, 4G LTE with dual-SIM, 3000 mAh battery, Android KitKat with MIUI v.6. You can order the Xiaomi Mi Note for about ?500, while the Mi Note Pro will go on sale in a month or two and its pricing will be higher.</paragraph>
+			<paragraph>  Xiaomi Mi Note ? Xiaomi Mi Note Pro</paragraph>
+			<paragraph>Finally, we shouldn't forget the LG G3, which today costs half of the LG G Flex2 but shares lots of its specs save for the curved screen. For half the price you are getting a 5.5" QHD display, a still relevant Snapdragon 801 chip, a 13MP camera with the same features but slightly better image quality, as well as the same battery and software package (now running on Lollipop).</paragraph>
+			<paragraph> LG G3</paragraph>
+			<paragraph>LG G Flex2 offers premium build, design and features, but needless to say, all these come with a price premium. It's a smartphone, which offers a set of features that you'd be hard-pressed to find elsewhere. As things look right now, LG's new curved smartphone should be good for a lot more than just being seen around flagship stores flexing muscle next to its less impressive, but better selling siblings.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,274 @@
+<review>
+	<title>Samsung Galaxy 3 and Galaxy Apollo review</title>
+	<description>Galactic twins</description>
+	<link>http://www.gsmarena.com/samsung_i5800_galaxy_3-review-502.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM and dual-band 3G support</paragraph>
+			<paragraph>3.6 Mbps HSDPA support</paragraph>
+			<paragraph>Smart dialing</paragraph>
+			<paragraph>3.2" 16M-color TFT capacitive touchscreen of WQVGA (240 x 400 pixel) resolution; multitouch input</paragraph>
+			<paragraph>Android OS v2.1 Eclair</paragraph>
+			<paragraph>TouchWiz 3.0 UI customization (on both, I5801 has Orange UI too)</paragraph>
+			<paragraph>667MHz CPU; 256MB RAM</paragraph>
+			<paragraph>3.2MP autofocus camera with face, smile detection and geo-tagging;</paragraph>
+			<paragraph>QVGA@15fps video recording</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n support</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v3.0</paragraph>
+			<paragraph>GPS with A-GPS connectivity; Digital compass</paragraph>
+			<paragraph>microSD slot (32GB supported, 1GB in the box)</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>DNSe audio enhancement; Stereo FM radio with RDS</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>1500 mAh Li-Ion battery</paragraph>
+			<paragraph>Superb audio quality</paragraph>
+			<paragraph>Document editor</paragraph>
+			<paragraph>DivX/XviD support</paragraph>
+			<paragraph>File manager comes preinstalled</paragraph>
+			<paragraph>Swype predictive text input</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Display resolution is too low; poor sunlight legibility</paragraph>
+			<paragraph>Editing complex documents is very slow</paragraph>
+			<paragraph>No free GPS navigation solution</paragraph>
+			<paragraph>No Flash support for the web browser</paragraph>
+			<paragraph>Video recording is poor</paragraph>
+			<paragraph>The all-plastic body is a real fingerprint magnet</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Congratulations, it?s twins! The Samsung I5800 Galaxy 3 and I5801 Galaxy Apollo are both in our office and they?re keen to show everybody that Android is great for lower mid-range phones too as well as high-end phones.</paragraph>
+			<paragraph>The two phones, the I5800 Galaxy 3 and the I5801 Galaxy Apollo, are pretty much identical except for some minor differences in the hardware and the software. We?ll cover those later, but the one big difference is that the I5800 is the global version of phone while the I5801 is exclusive to Orange.</paragraph>
+			<paragraph>The Galaxy 3/Apollo is at the low end of Samsung?s Android offerings and it inevitably makes some compromises. But they do at least provide the full smartphone experience with Android 2.1 Eclair and TouchWiz 3.0 running on top of a 667MHz CPU with 256MB RAM.</paragraph>
+			<paragraph>Wi-Fi b/g/n support and Bluetooth 3.0 actually exceed your expectations and there?s GPS too. Naturally though some things had to be cut for the sake of price ? here?s a summary of what the Samsung I5800 Galaxy 3/I5801 Galaxy Apollo have to offer.</paragraph>
+			<paragraph>The screen is a bit of a stretch ? WQVGA resolution is low for a 3.2? screen, though the HTC Wildfire had a 3.2? screen with even lower resolution (QVGA). A 3.2MP camera doesn?t sound like much, heck these days even a 5MP camera fails to impress unless it does 720p video recording.</paragraph>
+			<paragraph>Other than that the Samsung I5800 Galaxy 3/I5801 Galaxy Apollo has a decent set of features that will give it an edge over other lower-end Androids.</paragraph>
+			<paragraph>On the next page we try to tell the Galaxy twins apart and see if there are any major hardware differences.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung I5800 360-degree spin<subsectionTitle>
+			<paragraph>The I5800/I5801 duo looks like identical twins and unless you see them side by side they may be hard to tell apart. Here are the differences.</paragraph>
+			<paragraph>The I5800 Galaxy 3 goes for physical keys on the front, piano black plastic on the back and an angled home key. The I5801 Galaxy Apollo on the other hand has two touch sensitive keys on the front, matte plastic on the back and a more rounded home key.</paragraph>
+			<paragraph>That?s it, even the dimensions are so similar that differences are only detectable by scales and a caliper gauge. The I5800 measures 113.5 x 55 x 12.9 mm and weighs 109 grams, while the I5801 is 113.5 x 55 x 12.6 mm and weighs 113 grams.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>To avoid confusion, we?ll cover the hardware of the Samsung I5800 Galaxy 3 and only mention the differences between it and the I5801 Galaxy Apollo (in the few places there are differences).</paragraph>
+			<paragraph>The display is a 3.2? touchscreen of WQVGA resolution, which is rather unpopular among Androids. Still, it has some advantages over QVGA ? 25% more pixels and a 15:9 aspect ratio which is preferable to the almost obsolete 4:3 ratio of QVGA.</paragraph>
+			<paragraph>Still, as far as resolution and pixels density goes it?s low for a 3.2? screen. We?re not saying it?s not usable ? it is. But pixelisation is especially visible in text and that doesn?t do the software justice ? it looks like text in a compressed, downscaled image rather than the sharp look of natively rendered text.</paragraph>
+			<paragraph>The screen uses capacitive technology to register even the lightest taps. This is a big advantage over the resistive screens that are sometimes used in lower-end Androids.</paragraph>
+			<paragraph>The sunlight legibility is pretty poor ? on a bright sunny day the display washes out and it becomes very hard to make anything out.</paragraph>
+			<paragraph>If you?ve read our preview, we should warn you that this was an early pre-production version and the keys below the display have changed significantly since then.</paragraph>
+			<paragraph>Now the situation is typical Samsung ? a home key in the center (not a D-pad like in the early version) and a menu and back keys. On the I5800 Galaxy 3 they are physical keys, while on the I5801 Galaxy Apollo they are touch-sensitive.</paragraph>
+			<paragraph>Both are big and easy to hit ? the physical keys have a satisfying click, while the touch sensitive ones rely on haptic feedback. The fourth Android key (search) is missing, but you can long press the menu key to pull that up.</paragraph>
+			<paragraph>Above the display there?s the earpiece in the middle and the proximity sensor to the left.</paragraph>
+			<paragraph>On the left side of the phone you get the volume rocker and a lanyard eyelet while the right is completely bare. Nope there isn?t even a shutter key.</paragraph>
+			<paragraph>The top handles the wired connectivity ? the 3.5mm audio jack and the microUSB port. The microUSB port is charging and is covered by a plastic flap. There?s hardly much to see at bottom - the mouthpiece is the only functional element there.</paragraph>
+			<paragraph>As usual, the 3.2-megapixel camera lens is on the back and there?s either a ?with Google? or Orange label below it depending on which phone you got. The camera is inset, which provides some protection against scratches.</paragraph>
+			<paragraph>The handset?s back is curved in - the top and bottom slightly raised - which is another way of making sure the camera lens won?t touch the surface the phone rests on. The speaker is very close to the edge of the ?bump? at the bottom but luckily it doesn?t get muffled easily.</paragraph>
+			<paragraph>Under the back cover you'll find a 1500 mAh battery and the SIM and microSD card slots. The memory slot is under the back cover and even though it's hot-swappable, you still need to open the cover first. The slot is on the left side of the device and the SIM card compartment is on the right.</paragraph>
+			<paragraph>The back of the Samsung I5800 Galaxy 3 is piano black (that?s for the black version obviously) and it?s a real fingerprint magnet. The I5801 Galaxy Apollo goes for the smudge-resistant matte plastic with ribbed lines (though they don?t contribute much to grip) and it seems like that is the better option.</paragraph>
+			<paragraph>The Samsung I5800 sits well in the hand thanks to the rounded corners and curves, but it isn?t a small phone. The I5800 is generally pocketable, but not the most compact of handsets. The controls are easy to reach and comfy to use.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface: TouchWiz takes Android to a new level<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 uses the TouchWiz 3.0 UI, which is one of our favorite Android UI mods. It adds handy new functionality without taking away anything or moving things around too much.</paragraph>
+			<paragraph>The Samsung I5801 Galaxy Apollo on the other hand uses an Orange-customized UI by default but you have the option to switch to TouchWiz as well. So, for now we?re sticking with TouchWiz , we?ll cover the Orange UI later.</paragraph>
+			<paragraph>The customizations start on the homescreen where you have up to seven panes to populate with widgets. You can remove ones you?re not using and rearrange the rest easily. Since both the I5800 and I5801 miss the option to pick a default home screen, the home key just brings you back to the first (leftmost) screen.</paragraph>
+			<paragraph>Samsung have also added 7 widgets of their own, available under ?Samsung widgets? when adding content to your homescreen. Those include four different clocks (Calendar, Weather, Dual and Yahoo Finance).</paragraph>
+			<paragraph>There?s also the Feeds &amp; Update widget (shows social network status updates), and Buddies now, which is similar to Photo contacts. The final Samsung widget is Daily Briefing, giving you an aggregated view of weather forecasts from AccuWeather, stock rates from Yahoo Finance, news feeds from Associated press and your upcoming appointments.</paragraph>
+			<paragraph>Next, the Galaxy 3 has four buttons docked at the bottom of its homescreen, which stay there even when you open the menu. The rightmost button is the Applications/home button, which alternates the main menu and the home screen, and the other three you can swap with whatever icon you like.</paragraph>
+			<paragraph>The main menu consists of side-scrollable panes - much like the homescreen - instead of the vertical scrollable grid you get in vanilla Android. You can add new pages manually by dragging an app to a new screen in edit mode. A list view is also available, just as on the HTC alternative, Sense UI.</paragraph>
+			<paragraph>When the launcher is in edit mode, you can uninstall applications (only the user-installed ones though) just by tapping them. Unfortunately, the I5800 Galaxy 3 comes without live wallpapers.</paragraph>
+			<paragraph>The task switcher has been untouched by the TouchWiz changes, but the notification area has Wi-Fi, Bluetooth, GPS and sound toggles on top.</paragraph>
+			<paragraph>The lock screen has been TouchWizified as well ? you now need to swipe sideways to remove the virtual lock screen covering your phone.</paragraph>
+			<paragraph>Now a few words about the Samsung I5801 Galaxy Apollo and its interface. It isn?t too different from the TouchWiz of its twin, but it lacks some goodies. You get 5 homescreens, which you cannot remove or rearrange. The Samsung Widgets have been replaced by Orange ones.</paragraph>
+			<paragraph>There are four docked buttons on the homescreen (menu, messaging, dial pad and phonebook), but you can?t change those and they?re not visible in the main menu. The main menu is a single vertically scrollable page and you can?t rearrange icons.</paragraph>
+			<paragraph>Other than that, things are the same ? including the toggles in the notification area and even the homescreen. As we already mentioned, you can switch the Orange UI for TouchWiz if you prefer it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface (continued)<subsectionTitle>
+			<paragraph>The performance of the Samsung I5800 Galaxy 3 is very good ? we experienced no lags, even with UI animations turned on. The CPU is powerful enough to take on even more expensive handsets (and with the lower-res screen the Galaxy 3 is flying).</paragraph>
+			<paragraph>Here?s the traditional run of benchmarks and how it stacks up against the HTC Legend and the Samsung I5700 Galaxy Spica, which has a faster 800MHz CPU.</paragraph>
+			<paragraph>The software on the I5800 Galaxy 3 and I5801 Galaxy Apollo is almost identical, so we?ll review the general version and mention any changes in the Galaxy Apollo (mainly Orange stuff).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent phonebook<subsectionTitle>
+			<paragraph>A typical Android smartphone, Samsung I5800 Galaxy 3 has a phonebook with massive functionality and practically unlimited capacity. The I5801 Galaxy Apollo has an identical phonebook.</paragraph>
+			<paragraph>The handset displays the phone memory, SIM-stored and all Google contacts in the phonebook. There is a dedicated setting for that, so you really can have all of your contacts gathered in one place. You can search the entries by either flick-scrolling the list or using the alphabet scroll at the side of the screen (courtesy of Samsung and the TouchWiz UI).</paragraph>
+			<paragraph>With Android 2.1, the Galaxy 3 packs the new Quick contacts feature. It lets you use the contact photo in the phonebook and call, text, or email the person with a single click.</paragraph>
+			<paragraph>Thanks to Android 2.1, there is also multiple accounts support for email and contact synchronization, including Exchange accounts.</paragraph>
+			<paragraph>There are many info fields that you can assign to each contact, but it still remains perfectly organized. You have all the types listed (numbers, email addresses, etc) and there's a plus sign on the right - clicking it adds another item of that type. Pressing the minus sign under it deletes the unneeded field.</paragraph>
+			<paragraph>Samsung have added another cool feature to the phonebook, which is also available in the Bada OS. In the main contact list, a swipe to the right on a name will dial the contact?s default number, while a swipe to the left will start the New message interface. The side-sweep thing works in other lists too where you have names or numbers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great telephony<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 caused us no trouble during calls. The reception was good and we didn?t experience dropped calls, though the in-call sound wasn?t as loud as we would have liked.</paragraph>
+			<paragraph>Smart Dial is available and works like a charm ? the implementation on the Galaxy 3 searches both contact numbers and names.</paragraph>
+			<paragraph>Thanks to the proximity sensor, your screen will automatically turn off, once you place you next during a call. The available options during a call include taking a note, using the keypad, muting, holding the call or adding another call to this conversation.</paragraph>
+			<paragraph>The call log is the tab next to the dial pad. It shows all the dialed, received and missed calls in one list sorting your call history by contacts.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the I5800 Galaxy 3 and I5801 Galaxy Apollo. They both scored a good mark with (unsurprisingly) very close results. More info on our loudspeaker test as well as other results can be found here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Full-featured messaging<subsectionTitle>
+			<paragraph>The SMS and MMS messaging section is quite straightforward and simple - there are no folders here, just a new message button. Under that button is a list of all your messages organized into threads.</paragraph>
+			<paragraph>Swiping on a message header will do exactly the same as in the phonebook ? a left swipe starts a new message, while swiping to the right will start a call.</paragraph>
+			<paragraph>There?s application-specific search that lets you quickly find a given message among all your stored SMS and MMS.</paragraph>
+			<paragraph>To add message recipients, just start typing the corresponding name or number and choose from the contacts offered.</paragraph>
+			<paragraph>If you wish to manage a specific message in the history, you can press and hold a message to bring up options such as edit, forward, delete and lock as well as view details and copy message text.</paragraph>
+			<paragraph>A press-and-hold in the tap-to-compose area gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc. and vice versa.</paragraph>
+			<paragraph>Converting an SMS to MMS is logical and easy. When you add multimedia content to the message, it is automatically turned into an MMS. You can just quickly add a photo or an audio file to go with the text or ?depending on your needs - you can choose to go into a full-blown MMS editor.</paragraph>
+			<paragraph>Moving onto email, the Gmail app supports batch operations, which allows multiple emails to be archived, labeled or deleted. Multiple Gmail accounts are also supported.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can support multiple POP or IMAP inboxes. You have access to the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>The Galaxy 3 also sports a combined inbox, which brings together all your mail in a single folder so you don?t need to check each one for new mail. This can be quite handy if you have lots of accounts and you just want to check if there is a new message needing your attention.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The G-Talk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>Text input is enhanced by Swype. It?s a new way to enter text that relies on you sweeping over the desired keys rather than tapping them one by one. This noticeably improves the typing speed thanks to the Swype algorithm which makes very accurate guesses. For more details, you can read the Swype section in the Samsung I9000 Galaxy S review.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>3D gallery is cool<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 uses the standard Android 2.1 gallery. The gallery automatically locates the images and videos no matter where they are stored. The gallery boasts cool 3D effects and transitions, which we find rather attractive.</paragraph>
+			<paragraph>Images and videos placed in different folders appear in different sub-galleries that automatically get the name of the folder, which is very convenient - just like a file manager.</paragraph>
+			<paragraph>The different albums appear as piles of photos which fall in neat grids once selected.</paragraph>
+			<paragraph>Alternatively, you photos can be organized by date with the help of a button in the top right corner which switches between grid and timeline view. In grid view, there?s a date slider which can also be used to find photos taken on a certain date.</paragraph>
+			<paragraph>The pinch zooming is also available here thanks to the Samsung I5800 Galaxy 3 multi-touch support but you can also use double tap or even the +/- virtual buttons.</paragraph>
+			<paragraph>There are tons of options for a picture ? you can crop or rotate it directly in the gallery. The Send feature offers quick sharing via Picasa, Email apps, Bluetooth or MMS.</paragraph>
+			<paragraph>We suspect the gallery downsizes the images here too, but on a WQVGA screen it isn?t too big of a deal anyway.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Capable video player ? DivX/XviD clips but no 720p<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 packs a dedicated video player which supports both DivX and XviD. It handles DVD resolution just fine and that?s the resolution most DivX videos are in.</paragraph>
+			<paragraph>The 720p video samples proved too much for it though and it can?t play .MKV files (the format of choice for HD videos, even Google?s WebM uses an MKV-based container). That?s OK though, the screen doesn?t have enough resolution anyway and there?s no TV-out either.</paragraph>
+			<paragraph>Thanks to DLNA you can still display photos and videos on DLNA compliant hardware ? like TVs or computers with the right software (the latest version of Windows Media player for example).</paragraph>
+			<paragraph>The interface of the video player itself is as simple and as it could possibly be. You get a list of all videos available on the phone and the on-screen controls boil down to play/pause and skip buttons as well as a draggable progress bar.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player is really nice<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 makes use of the TouchWiz music player. The interface consists of several tabs for the sorting options: current playlist, all tracks, playlists and albums, artists and composers. You are free to remove those you don?t need to make the interface easier to navigate.</paragraph>
+			<paragraph>In addition, Samsung have enabled equalizer presets on the Galaxy 3 along with Samsung?s DNSe technology. You can use the album art for the song (if present) or you can switch on the visualizations.</paragraph>
+			<paragraph>The great feature that allows you to quickly look up a song on YouTube or via Google search is also here. The handset also prompts you to select whether to look up the artist, the song title or the album. What?s even better, the YouTube search results are loaded straight into the YouTube client.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio on board<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 is equipped with an FM radio with RDS too. The interface is simple ? there?s a tuning dial and you can save as many as 6 stations as favorites. You can also listen on the loudspeaker, but the headset is still needed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great audio output<subsectionTitle>
+			<paragraph>To be honest we were a little surprised by the performance of the duo here. Not that we aren't used to seeing decent performance by the Samsung devices, but those two did a bit better than the I9000 Galaxy S in our test. With pretty high volume levels and nicely clean audio output, the Galaxy 3 and Galaxy Apollo can easily replace your dedicated MP3 player.</paragraph>
+			<paragraph>There is really nothing to whine about with those two as they did excellent in each and every part of the test. As you can see from the table below all the readings are great and place the mid-range Galaxy handsets among the best performers out there.</paragraph>
+			<paragraph>And here come the results.</paragraph>
+			<paragraph> Samsung I5800 Galaxy 3 vs Samsung I5801 Galaxy Apollo frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera is good for a 3MP snapper<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 (and the I5801 Galaxy Apollo of course) don?t bet big on the camera. It?s a 3MP snapper that captures photos with a maximum resolution of 2048x1536 pixels. It offers auto focus, face, smile detection and geo-tagging but those are all the perks you?re getting.</paragraph>
+			<paragraph>The user interface is standard Samsung for the most part ? and that?s not a bad thing. It?s easily thumbable and offers readily accessible scene and shooting modes.</paragraph>
+			<paragraph>The Galaxy 3 lacks a dedicated shutter key so you?ll have to use the virtual key. It can be half pressed to auto-focus. To activate face detection, you should switch to Smile shot mode - tapping the virtual shutter key will snap a photo even if your subject doesn?t want to smile.</paragraph>
+			<paragraph>The image quality is as good as you can expect from a 3MP camera. The contrast is good as is the color rendering. The amount of captured detail is satisfactory and the noise levels are kept low. 3 megapixels may not sound much to boot but the duo packs one of the most impressive 3 megapixel snappers we've seen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic resolution<subsectionTitle>
+			<paragraph>We also snapped our resolution chart with the Samsung I5800 Galaxy 3. You can check out what that test is all about here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 can record videos in QVGA resolution at 15fps. This falls into the barely usable category ? OK for MMS, but not much else.</paragraph>
+			<paragraph>Here are the video samples.</paragraph>
+			<paragraph>Samsung I5800 Galaxy 3, QVGA@15fps</paragraph>
+			<paragraph>Samsung I5801 Galaxy Apollo, QVGA@15fps</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>High-end connectivity<subsectionTitle>
+			<paragraph>Moving on to local connectivity ? the Samsung I5800 Galaxy 3 offers Wi-Fi (b/g/n), the new Bluetooth v3.0 with A2DP support and USB v2.0. The USB interface is standard microUSB, which makes finding a suitable cable a lot easier.</paragraph>
+			<paragraph>Android 2.1 supports file transfers via Bluetooth, so there?s little else left to ask for.</paragraph>
+			<paragraph>The 3.5 mm standard audio port completes the connectivity tally. You can keep your favorite headphones and use them with the Galaxy 3 hassle-free.</paragraph>
+			<paragraph>The Samsung I5800 Galaxy 3 doesn?t pack much internal memory, but it comes with a 1GB microSD card and supports cards up to 32GB. On 2.1 Eclair you can?t install apps on the memory card so you?re still limited to what you can fit on the internal memory (about 160MB are available).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Very good web browser needs more resolution<subsectionTitle>
+			<paragraph>The Android browser is one of the best available on a mobile device. It?s fast, problem-free and easy to use.</paragraph>
+			<paragraph>The user interface is completely minimalistic (it?s the Google way). All you get on the screen is an address bar and +/- zoom buttons. The address bar is placed on top of the page, so scrolling down moves it out of view and the zoom controls auto-hide ? that?s essential for web apps because they need to have the whole screen estate to work with.</paragraph>
+			<paragraph>The minimalist UI is quite powerful ? hit the menu key and six keys pop up. You can open a new tab, switch tabs, refresh the page, go forward, and open bookmarks. The final button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>The Galaxy 3 browser supports three zoom methods ? dedicated buttons, double tap and multitouch pinch-zooming. The browser also supports text reflow ? a moment after adjusting the zoom level, columns of text adjust to fit the screen width.</paragraph>
+			<paragraph>The bookmark list shows a thumbnail of the bookmarked page and you also get a ?most visited? list in addition to the history.</paragraph>
+			<paragraph>The screen is big enough to fit complex pages well, though the text isn?t as sharp at low zoom levels as it is on phones with higher resolution. Regardless, it?s still readable and panning and zooming are fast so the Galaxy 3/Galaxy Apollo duo scores a good mark in web browsing.</paragraph>
+			<paragraph>The last fortress of the Web that the Android Browser has yet to storm is Flash. Eclair can?t do it, but with a Froyo update, the Samsung I5800 Galaxy 3 will be able to handle that too.</paragraph>
+			<paragraph>The Samsung I5800 Galaxy 3 relies on the YouTube app to partially compensate for the lack of Flash support. Of course, there are plenty of other video sharing sites and sites that use Flash for completely different purposes, but alas those are out of the Galaxy 3?s reach for now.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer has everything you need<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 comes with the ThinkFree Office pre-installed ? it?s both a document viewer and an editor. It is capable of pinch zooming, and while both panning and zooming are not very fast, they work ok.</paragraph>
+			<paragraph>When you try to edit a complex document, though, things start to slow down considerably. The time between tapping a key and the letter actually being typed can take nearly a second, which is ruining the whole experience. Things worked better on the Galaxy S, but it had a more powerful CPU.</paragraph>
+			<paragraph>The calendar has four different types of view - agenda, daily, weekly and monthly. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The agenda view shows a list of all the calendar entries from the recent past to the near future. It?s a very handy tool when you need to check your appointments for the next few days.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized - the buttons are big enough and easy to hit.</paragraph>
+			<paragraph>The Samsung I5800 Galaxy 3 features a decent alarm clock application which allows a huge number of alarms to be set, each with its own start time and repeat pattern.</paragraph>
+			<paragraph>Samsung have included the My Files app ? a simple to use but functional file manager, which can also be used as an image gallery (though not as cool as the Android one). It can move, copy, lock and rename files in bulk, even send multiple files over Bluetooth. It will only browse the memory card and the large internal storage (it can?t access the inbuilt memory).</paragraph>
+			<paragraph>Finally, comes the YouTube app which, as we said, partially compensates for the web browser's lack of Flash support. Its interface is simple enough to let you find whatever you're looking for as quickly as possible.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Some good apps<subsectionTitle>
+			<paragraph>Samsung made sure to upload a few of their home-brewed apps to the I5800 Galaxy 3 and we really appreciate their work. They are quite useful and can be updated via Samsung Apps. Whenever Samsung updates some of the current apps or widgets, or releases new ones, you?ll find them here.</paragraph>
+			<paragraph>The AllShare app allows you to stream content to and from different kind of devices (TV or computer). We didn?t give it a proper run for its money, but we guess it works over DLNA.</paragraph>
+			<paragraph>Daily Briefing is the same as the dedicated widget ? it shows the weather, stocks and your current schedule. The app works only in portrait mode.</paragraph>
+			<paragraph>The Memo app is self-explanatory. Write and Go can send SMS and email and also update the status on Facebook, MySpace or Twitter. It can also save the text as a memo (which can be color coded for better organization) or as an event in the calendar instead.</paragraph>
+			<paragraph>The Voice Dialer was a huge disappointment. It failed to recognize any of our commands.Luckily Google Voice Search is onboard and it works great. The speech recognition is close to perfect and you won?t be disappointed.</paragraph>
+			<paragraph>A new addition to the application package of Samsung handsets is the popular Layar Reality browser. It?s a search app enhanced by augmented reality. Your search results for various POIs ? gas stations, hotels, parking, restaurants, shops, etc ? are returned and displayed in an augmented reality environment using the handset?s GPS and camera.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>GPS with Google Navigation<subsectionTitle>
+			<paragraph>The Samsung I5800 Galaxy 3 comes with a GPS receiver that got a satellite lock in about two minutes with A-GPS turned off. A-GPS can speed this up quite a bit, but requires Internet access. Or you could use the wireless network location feature (based on nearby Wi-Fi networks and Cell-ID), which isn?t very accurate but is the fastest option by some distance.</paragraph>
+			<paragraph>It comes as no surprise that Google Maps including Navigation come preinstalled. Unfortunately, voice-guided turn-by-turn navigation by Google Maps still has limited availability.</paragraph>
+			<paragraph>Still, even without Navigation, there is some kind of guidance: your route and current location appear on the screen so you'll reach your destination eventually, but you?ll need a co-pilot to read you the instructions for that one.</paragraph>
+			<paragraph>Quite naturally, the app also supports Street View mode. In fact, this mode is probably the best part of Google Maps. If the Street View is available in the area you're interested in, you can enjoy a 360-degree view of the surroundings. When the digital compass is turned on it feels like making a virtual tour of the location!</paragraph>
+			<paragraph>The Samsung I5801 Galaxy Apollo also adds Orange Maps. However, it wouldn?t install on our unit so we couldn?t test it.</paragraph>
+			<paragraph>Anyway, the Android Market has some paid and free alternatives to Google Maps, along with apps for recording your hike and so on that most SatNav apps can?t do.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Market meets Samsung Apps, Orange App Shop<subsectionTitle>
+			<paragraph>Yep, the Android Market is a valuable source for apps (though not the only one, you can install any app if you have the APK file). The number of apps in the market is ever growing and a recent survey showed that it has the highest free-to-paid apps ratio out of all the app stores. It?s just too bad they are low on 3D games.</paragraph>
+			<paragraph>The first screen of the Market shows several featured apps. The Market organizes apps and games into two separate tabs and each tab lists sub-categories (e.g. Finance applications, Arcade &amp; Action games). In each category you can select to view the Top free apps or ones that are ?Just in?.</paragraph>
+			<paragraph>There's a third tab ? Downloads ? that keeps track of what you?ve already downloaded. Do keep an eye on this tab ? when updates become available for an app you?ve installed, a label shows up next to the app name to notify you.</paragraph>
+			<paragraph>Applications range from pretty silly (including one that simulates a doorbell), through fun (e.g. a virtual guitar) to real must-have's (including task killers, navigation software and more), but that?s true for every other app store.</paragraph>
+			<paragraph>Samsung have thrown in their own app store into the ring ? Samsung Apps. It currently doesn?t have much of an interface or apps in it. The only app available for the Samsung I5800 Galaxy 3 seems to be some TV remote app.</paragraph>
+			<paragraph>The Samsung I5801 Galaxy Apollo on the other hand includes the Orange App Shop. It has more apps to offer, though it can hardly compete with the central Android Market.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>And we?re across the finish line. The two Galaxies performed very well for their relatively low standing in the Android world. The only feature that was consistently a problem is the screen ? WQVGA is just not enough for a 3.2? screen.</paragraph>
+			<paragraph>Other than that we have very little to complain about. The CPU ticks faster than the majority of non high-end Androids. It lagged when it came to editing complex Office documents, but to do that properly you really need the power of a 1GHz processor.</paragraph>
+			<paragraph>Still, having a document editor is much more than we expected ? even some of the top dogs don?t have one on board. Bluetooth 3.0 is also a pleasant surprise, as is the 802.11n support.</paragraph>
+			<paragraph>You might want to point to the camera as another downside, but you really can?t expect more in this price range. And videos aside, the camera on the Samsung I5800 Galaxy 3/I5801 Galaxy Apollo is good enough to update your profile on Facebook.</paragraph>
+			<paragraph>We said that the Galaxy duo is lower-mid range but let?s see who its main competition might be.</paragraph>
+			<paragraph>The Samsung I5700 Galaxy Spica is the major obstacle between the Galaxy 3/Galaxy Apollo and your pocket. It has a 3.2? capacitive touchscreen but has HVGA resolution, which makes for a much sharper image. Also the CPU is clocked at 800MHz, not too far off the current maximum for a mobile phone.</paragraph>
+			<paragraph> Samsung I5700 Galaxy Spica</paragraph>
+			<paragraph>The Spica?s age is showing, but that?s not necessarily a bad thing. Just check out the price and see ? it?s noticeably cheaper than the Galaxy 3 (though if you find an Orange plan that suits you, the Galaxy Apollo may turn out cheaper). On the other hand it has Bluetooth 2.1 (and not 3.0) and no Wi-Fi n, but that?s it basically.</paragraph>
+			<paragraph>The HTC Wildfire is in the same segment as the Samsung I5800 Galaxy 3. It beats it with a 5MP camera, though the lower-res screen (3.2? QVGA) and slower CPU (528MHz) are points against it. It does feature HTC Sense though, which some might prefer over TouchWiz.</paragraph>
+			<paragraph> 3337 HTC Wildfire</paragraph>
+			<paragraph>The petite Sony Ericsson XPERIA X10 mini is impressive with its small size. The camera is better at 5MP and VGA@30fps and features good social networking integration in the software. The software is holding it behind though ? Sony Ericsson is working on an Eclair update, but for now it?s v1.6 Donut.</paragraph>
+			<paragraph> Sony Ericsson XPERIA X10 mini</paragraph>
+			<paragraph>Cheaper entries into the Android world are the LG GT540 Optimus and the HTC Tattoo. They cut down on the features somewhat (smaller resistive screens, slower CPUs with older software, etc). Still the Optimus offers more resolution and just like the Galaxy 3 packs DivX/XviD support, so it?s a viable alternative for movie buffs.</paragraph>
+			<paragraph>  LG GT540 Optimus ? HTC Tattoo</paragraph>
+			<paragraph>As you can see it?s hardly a clear choice ? you?ll have to weigh the features and the price difference. But as a single smartphone package, the Samsung I5800 Galaxy 3/I5801 Galaxy Apollo offers a very competitive solution.</paragraph>
+		</subsection>
+	</page>
+</review>

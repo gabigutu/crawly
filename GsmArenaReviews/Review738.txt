@@ -1,0 +1,337 @@
+<review>
+	<title>Motorola Nexus 6 review</title>
+	<description>Setting the tone</description>
+	<link>http://www.gsmarena.com/motorola_nexus_6-review-1164.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.96" QHD (2560 x 1440 pixels) AMOLED display with 493ppi; Corning Gorilla Glass 3</paragraph>
+			<paragraph>2.7GHz quad-core Krait 450 CPU; Adreno 420GPU; Qualcomm Snapdragon 805 chipset; 3GB of RAM</paragraph>
+			<paragraph>13MP f/2.0 camera with dual-LED flash; optical image stabilization; HDR+; 4K video capture; 2MP front-facing unit with 1.4 um pixels</paragraph>
+			<paragraph>3,220mAh battery; bundled Motorola Turbo Charger; Qi wireless charging support</paragraph>
+			<paragraph>Android 5.0 Lollipop with material design; brand new ART runtime for improved performance and responsiveness</paragraph>
+			<paragraph>32/64GB of built-in memory</paragraph>
+			<paragraph>Cat. 6 LTE (300Mbps); Wi-Fi a/b/g/n/ac; Bluetooth 4.1; GPS/GLONASS; microUSB</paragraph>
+			<paragraph>Front-facing stereo speakers</paragraph>
+			<paragraph>Splash-resistant curved body with aluminum chassis</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Lack of memory expansion slot</paragraph>
+			<paragraph>Video sound is recorded in mono</paragraph>
+			<paragraph>Battery is not user-replaceable</paragraph>
+			<paragraph>The back cover of the blue version is prone to smudges</paragraph>
+			<paragraph>Some might find the device a tad too thick</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Nexus 6 by Motorola marks a shift in market positioning for Google's smartphone lineup. Whereas the duo of LG-made devices that precede it cut back on certain features to stay attractively priced, the Nexus 6 is ready to rub shoulders with the best in the Android realm. It is no longer simply an Android reference phone, but a true Google flagship, both on paper and in person.</paragraph>
+			<paragraph>Motorola Nexus 6 has a special place in the history of Google's smartphone family. The 6" phablet development took place during Google's ownership of Motorola (the storied manufacturer became a Lenovo company several days ago), so it is as pure in philosophy as it is in terms of OS.</paragraph>
+			<paragraph>Rumors about a Nexus smartphone by Motorola began to circulate as soon as Google finalized its acquisition of the manufacturer back in 2012. It has been over two years since the deal took place, but, we must admit, it looks like the wait for the handset was well worth it. Motorola Nexus 6 is brimming with the best hardware available for Android today, coupled with a brand new Android version that packs a host of new features.</paragraph>
+			<paragraph>Motorola Nexus 6 offers some of the best hardware available for mobile devices at the moment. The combination of a Qualcomm Snapdragon 805 SoC, 3GB or RAM, and a 6" QHD display should please even the pickiest Android user, as will the front-facing stereo speakers.</paragraph>
+			<paragraph>The device's 13MP camera with optical image stabilization and UHD video capture is a big deal too. It is a welcome sight in an area that has traditionally been overlooked in the Nexus family of devices for a long time.</paragraph>
+			<paragraph>Android 5.0 Lollipop is undeniably the cherry on top of the hardware cake the device has to offer. The latest OS release, in addition to the brand new material design, packs groundbreaking runtime called ART. The latter makes everything about Android feel smoother and more responsive.</paragraph>
+			<paragraph>Top-end hardware, a brand new software revision, and flagship-worthy price tag carry heavy expectations. Read on to find out if Nexus 6 meets them. As always, we will kick the review off with unboxing, followed by design and build quality inspection.</paragraph>
+			<paragraph>Editorial: You may notice that this review is shorter than usual and doesn't include some of our proprietary tests. The reason is it has been prepared and written away from our test labs. Still, we think we've captured the essence of the device in the same precise, informative and detailed way that's become our trademark. Enjoy the good read!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>Motorola Nexus 6 ships in an all-white retail box with a large number 6 on its cover. Inside it, you will find the device, a USB cable, and Motorola's Turbo Charger. A tool to remove the nano-SIM card and a few booklets complete the picture.</paragraph>
+			<paragraph>A bundled headset would have been appreciated too - especially considering the device's newly found price category.</paragraph>
+			<paragraph>We are happy to see the Motorola Turbo Charger inside the box of the Nexus 6. Motorola claims that a 15 minute charge should be able to deliver enough juice for up to 8 hours of mixed usage.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Have you ever wondered what will happen if you stretch the Moto X (2014) a bit and slap a large Nexus logo on its back? Look no further than the Nexus 6. Save for the larger footprint and the Nexus branding on the back, it is visually identical to the Moto X.</paragraph>
+			<paragraph>Just like its smaller Moto sibling, Nexus 6 is a great piece of hardware to look at. Its exposed aluminum frame elevates its appearance drastically over the Nexus 5. Overall, the smartphone looks in line with the expectations its price tag carries.</paragraph>
+			<paragraph>The phablet is available in two color schemes - Cloud White and Midnight Blue like the model we tested. The white version features aluminum frame with natural metal finish, while the blue model has a frame in a color-coordinated hue, a slightly lighter blue than the finish of the back cover.</paragraph>
+			<paragraph>The build quality of the Nexus 6 is stellar. With a sturdy metal frame, a back cover made of quality plastic with matte finish, and a face that's entirely covered in Corning Gorilla Glass 3, the phablet looks and feels ready for plenty of use and abuse.</paragraph>
+			<paragraph>Water resistance is also listed as a Nexus 6 quality. The handset does not carry an official IP certification, but is made to handle accidental splashes.</paragraph>
+			<paragraph>Physical measures of the Motorola Nexus 6 are 159.3 x 83 x 3.8-10.1 mm, while its weight tips the scale at 184 grams. As its 6" display suggests, the latest Nexus is a big fella - right in line with today's trends.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Motorola Nexus 6 has a larger footprint than the Samsung Galaxy Note 4 - hardly a surprise considering the larger display and the stereo speakers it packs. Apple iPhone 6 on the other hand, is only slightly shorter despite its considerably smaller 5.5" screen.</paragraph>
+			<paragraph>Handling the phablet is surprisingly easy thanks to its curved body. The latter is designed to follow the natural shape of the human palm, so it is thicker in its middle, but thin around the edges.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>Motorola Nexus 6 packs a 5.96" AMOLED display with a resolution of 2560 x 1440 pixels. The aforementioned resolution results in the rather impressive pixel density of 493ppi.</paragraph>
+			<paragraph>The display's brightness is impressive too, as is its contrast. Viewing angles are great you will be able to easily share your content with other people.</paragraph>
+			<paragraph>The 6-inch AMOLED screen makes use a standard Diamond Pentile matrix. Every pixel has four sub-pixels and essentially a RGBG arrangement. Here's how the layout looks under a microscope.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>One thing to keep in mind is that when viewed from a small angle, the display of Nexus 6 tends to showcase a slightly greenish hue. We don't consider this to be a deal breaker, as the screen is not developed with such usage in mind.</paragraph>
+			<paragraph>Like most AMOLED units out there, the one found in the Nexus 6 boasts slightly over saturated colors. The latter are not as accurate as those produced by IPS displays, but are nevertheless enjoyable.</paragraph>
+			<paragraph>Sunlight legibility is excellent. Users will be able to view their content even in places with bright light.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The earpiece and one of the front-facing stereo speakers reside above the display, tucked under a small grille. The front-facing camera, the ambient light, and the proximity sensor are also in the area.</paragraph>
+			<paragraph>The mouthpiece and the other stereo speaker can be found below the screen. There is nothing else there.</paragraph>
+			<paragraph>There is nothing but two tiny antenna strips on the left side of the smartphone. The power/lock key and the volume rocker are positioned on the right.</paragraph>
+			<paragraph>The 3.5mm audio jack and the slot for the nano-SIM sit on top of the Nexus 6. The microUSB port is on the bottom.</paragraph>
+			<paragraph>On the back of the device, you will find the 13MP camera and its dual-LED flash. The flash setup is the same as the one found in the Moto X (2014).</paragraph>
+			<paragraph>Motorola's signature circular dimple and a large Nexus logo are also found on the back. Two tiny microphone pinholes also reside there.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery performance<subsectionTitle>
+			<paragraph>Motorola Nexus 6 is powered by a 3,220mAh non-removable battery. Curiously, one of the phablet's main rivals, Samsung Galaxy Note 4 totes the exact same battery capacity.</paragraph>
+			<paragraph>Nexus 6 is quoted as being capable of offering up to 24 hours of mixed usage, up to 10 hours of video playback, and the same amount of web browsing over an LTE network.</paragraph>
+			<paragraph>We put the Nexus 6 through our battery test routine and it achieved a combined endurance rating of 70h. This means that you will easily make it through two full days of usage if you opt for an hour each of telephony, web browsing, and video playback.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating. Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+			<paragraph>There's more to the Nexus 6 battery performance than the mere battery life numbers. It also comes bundled with the superb Motorola Turbo Charger.</paragraph>
+			<paragraph>Thanks to Qualcomm Quick Charge 2.0 tech, only in 15 minutes worth of charging, the charger can deliver enough juice for up to 8 hours of mixed usage. The trickery works only when the battery is significantly drained - the charging process slows down as you top it up.</paragraph>
+			<paragraph>We tested the Motorola Turbo Charger with the Nexus 6. We plugged the device with 9% battery left and checked back in 15 minutes to find it with 30% of juice - an increase of 21%. Depending on your usage pattern, you will probably be able to make it through several extra hours of use on that backup power.</paragraph>
+			<paragraph>To top things off, Nexus supports Qi wireless charging. It is considerably slower than the Turbo Charger, but much less intrusive.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>Motorola Nexus 6 is available in two models that are region specific - XT1103 for the Americas, and XT1100 for the global model. In either case, the phablet covers all bases when it comes to cellular data standards - quad-band GSM/HSDPA, tri-band CDMA (only the Americas model), WCDMA (bands slightly differ in the two models), and LTE connectivity (once again with slightly differing bands).</paragraph>
+			<paragraph>On the local connectivity front, the device offers Bluetooth 4.1 alongside Wi-Fi with a/b/g/n/ac standard compatibility. MicroUSB 2.0 port with USB host is also at hand. Positioning is covered by A-GPS and GLONASS support.</paragraph>
+			<paragraph>The device allows you to share all sorts of media via NFC by simply touching the device and other compatible devices back-to-back.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android 5.0 Lollipop at your service<subsectionTitle>
+			<paragraph>Motorola Nexus 6 is the first smartphone to boot the latest Android 5.0 Lollipop. The latest Android build features brand new material design, as well as a new ART runtime. Check it out in action in the video below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen can display all your notifications. It contains a camera shortcut that activates the snapper by simply swiping from the right side. Gone are the widgets from Android versions of old.</paragraph>
+			<paragraph>You can unlock your device via a swipe, a pattern, a pin, or a password. There's an option to have no screen lock at all if you would like quicker access and don't need the extra security.</paragraph>
+			<paragraph>The homescreen of Android 5.0 Lollipop features a brand new app arrangement. There are three folders with apps alongside the Play store app - Google, Create, and Play. Each folder contains contextually grouped Google apps.</paragraph>
+			<paragraph>The homescreen dock contains four app shortcuts. Out of the box, you will find Phone, Messages, Chrome, and Camera lined up from left to right.</paragraph>
+			<paragraph>The trio of on-screen navigation buttons has changed too. Home button is now circular, app switcher a square, while the back button is a triangular arrow.</paragraph>
+			<paragraph>You can have as many homescreen panes as you like (we gave up trying to add more at 11). Adding a new homescreen pane is as easy as long pressing an app and dragging it to the left of the homescreen.</paragraph>
+			<paragraph>Like before, the homescreen customization options can be accessed via a long press. The latter gives you access to the available widgets, the Google Now settings, as well as the option to change the wallpaper.</paragraph>
+			<paragraph>Creating a folder is a familiar affair. You simply drag an app over another you want to group it with.</paragraph>
+			<paragraph>One finger swipe from the top of the homescreen will open the notification area, which features a cleaner look in Android 5.0 Lollipop. Additional swipe reveals quick toggles that include Wi-Fi, Bluetooth, Airplane mode, screen auto-rotate, flashlight, location on/off, and the option to cast the screen.</paragraph>
+			<paragraph>Of course, you can also adjust the brightness of the screen and go into the phablet's settings menu too. You can access the user profiles available on the phablet as well.</paragraph>
+			<paragraph>The app drawer has a new look too. It appears in a window with white background, though its functionality hasn't changed.</paragraph>
+			<paragraph>The app switcher has a neat card interface that allows you to select the app you need by swiping up or down. You can close apps by swiping left or right, or by hitting the dedicated button on the top right corner of each card.</paragraph>
+			<paragraph>Swiping to the left of the homescreen reveals Google Now. You can access via swiping from the bottom of the screen too.</paragraph>
+			<paragraph>Google Now has brand new material design, but its functionality hasn't changed much. You can manage your daily routine and all your interests by using the service.</paragraph>
+			<paragraph>Overall, the best part about the user interface of Android 5.0 Lollipop is that it truly feels new, well polished, and superbly executed. The new ART runtime is a huge deal too - it eliminates any form of lag and makes interaction with the device feel a lot more immediate.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Built upon a Snapdragon 805 chipset with a quad-core 2.7GHz Krait 450, 3GB of RAM and the Adreno 420 graphics-processing unit the Motorola Nexus 6 should be a true benchmarks champ. We've found that the new Android version helps too.</paragraph>
+			<paragraph>In the CPU benchmark section, the Nexus 6 posted the high scores on a consistent basis. It is one of the most capable devices out there in terms of sheer oomph.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Basemark OS II (multi-core) section is where the chipset fell slightly short from some of its competitors. The single-core performance produced similar results too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Adreno 420 GPU is a highly capable unit, so it does a good job of handling the millions of pixels on tap. See its scores below.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The device did a solid job in the Kraken 1.1 JavaScript benchmark. The same goes for the BrowserMark 2.1 test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Motorola Nexus 6 packs highly capable hardware, coupled with OS, which has been greatly optimized in comparison to past versions. You will not be lacking in processing power regardless of the circumstances.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>The contacts manager has received a thorough refresh in Android 5.0 Lollipop. The app features tabbed interface, which displays all contacts and the favorites.</paragraph>
+			<paragraph>You can sync with multiple accounts including Google and Exchange. A button to add a new contact is constantly present in the bottom right corner - you can choose which account to sync the new addition with.</paragraph>
+			<paragraph>Viewing a contact is a straightforward affair. Missing profile pictures are replaced by solid color.</paragraph>
+			<paragraph>Overall, the new contact manager boasts the usual high functionality. The new interface is pleasant to work with as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The phone app in Android 5.0, like everything else, has been thoroughly redesigned. Its functionality however, is still a familiar affair.</paragraph>
+			<paragraph>Launching the app brings you to the recent calls section. You can open the dialer at any time - it is readily available via a button at the bottom right corner of the screen.</paragraph>
+			<paragraph>You have three tabs to choose from - speed dial, recent calls, and you phonebook.</paragraph>
+			<paragraph>The in-call screen features solid color and sleek animation. Its layout is easy to read and operate.</paragraph>
+			<paragraph>The in-call quality of the Nexus 6 is superb. We tested the handset on AT&amp;T in the United States and found nothing to frown at. Thanks to its metal frame that doubles as an antenna, there were no hiccups to report.</paragraph>
+			<paragraph>The Motorola Nexus 6 has stereo speakers on its front, which produce good quality audio. It's not very loud though, it's quieter than the the HTC One (M8) and Sony Xperia Z3. Those two also have stereo speakers, but scored an Average mark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and text input<subsectionTitle>
+			<paragraph>You have two options to handle you texts out of the box - Google Hangouts and the stock messenger app. The latter has been thoroughly redesigned.</paragraph>
+			<paragraph>Hangouts has two pages - the first one shows all of your conversations, while the second lists the people you exchanged Hangouts with, plus suggested contacts and other contacts (a.k.a. from your phonebook).</paragraph>
+			<paragraph>The stock messaging section is business as usual despite the new look. All SMS/MMS communication is organized into threads - each thread consists of all messages between you and one of your contacts.</paragraph>
+			<paragraph>The button to begin composing a message is located at the bottom right of the screen. It is bright in color, so you can't miss it.</paragraph>
+			<paragraph>Gmail for Android has been thoroughly refreshed with the released of 5.0 Lollipop. The latest version of the app is now the only email client you will need on your Android device - it can handle any account you throw at it, including non-Google ones.</paragraph>
+			<paragraph>Overall functionality of the app has remained similar to the one it replaces. Swiping from the left reveals the inbox and the various email folders. You can also switch email accounts from the top left corner.</paragraph>
+			<paragraph>A button to start a new message sits at the top right bottom of the app. The composition screen holds no surprises.</paragraph>
+			<paragraph>Google has found a cool way to tell you about the new Gmail functionality. There's still an icon for the generic email client. However, once pressed, it prompts you to go to Gmail.</paragraph>
+			<paragraph>As expected, the default Android keyboard has been refreshed too. It offers two sleek-looking, brand new skins - Material Dark and Material Light. The duo matches the new look of Android 5.0 Lollipop.</paragraph>
+			<paragraph>Users who don't like change can choose the old Holo theme. Overall, the stock Android keyboard is one of the best in the business and a great option to have out of the box.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photos<subsectionTitle>
+			<paragraph>Google Photos is the default gallery app in Android 5.0 Lollipop. Upon opening the app you'll see two tabs - one for all photos and another one for highlights. Above those two tabs you will find shortcuts for settings and bulk selection.</paragraph>
+			<paragraph>You can view photos synced to your Google cloud, or images stored only on your device. Local photos are separated depending on their source (e.g. camera or screenshots).</paragraph>
+			<paragraph>The movie shortcuts allows you to easily select pictures and videos from which you want to create a movie and they will be automatically added to the brand new Video Creator. After that you can add music, stitching theme and your video is ready with just a few taps.</paragraph>
+			<paragraph>Viewing a single photo gives you a number of options. You can share it, set it as wallpaper or contact photo, or edit it. The built-in Photos editor is incredibly powerful - it gives you limitless options and filters to tweak your images.</paragraph>
+			<paragraph>Overall, Photos is an incredibly capable app to handle all your images. It is well laid-out and easy to use.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player remains basic<subsectionTitle>
+			<paragraph>The video player in the Android 5.0 Lollipop is somewhat of an afterthought - there is no dedicated app, so you will have to seek out you videos via the Photos app.</paragraph>
+			<paragraph>Supported codecs include H.263, H.264 AVC, MPEG-4 SP, and VP8. The app will play most major file formats, though serious video fans should certainly seek out a more capable solution from the Google Play store.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play Music<subsectionTitle>
+			<paragraph>Google Play Music is the default player for your tunes out of the box. The app has been treated to the new material design, though it functionality remains unchanged - it can play your local files, as well as stream music from the cloud.</paragraph>
+			<paragraph>You can tweak the sound via the built-in equalizer. There are dedicated toggles for surround sound and bass.</paragraph>
+			<paragraph>The Now Playing screen uses the song album art and gives you a quick shortcut to the rest of the artist's songs along with the play controls. While the player is working, the entire lockscreen features the album art and track info for the current song along with dedicated playback controls. The notification area also lets you control the playback via an expandable notification.</paragraph>
+			<paragraph>Google will give you six months of free subscription to its music streaming service. The latter is one of the most capable around and certainly worth a try.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality has its ups and downs<subsectionTitle>
+			<paragraph>The Motorola Nexus 6 was perfect in all but one reading in the active external amplifier part of our test. The exception is its very high intermodulation distortion, which however is enough to bring the overall mark down significantly. Leave that aside and you have the loudest output and some of the best scores in the class - it's just too large a deviation to ignore though.</paragraph>
+			<paragraph>Plugging in a pair of headphones causes the volume levels to plummet to below average levels, although the intermodulation distortion is completely eliminated in the process. The stereo crosstalk rises an average amount, but with the low loudness the performance is again hardly worth writing home about.</paragraph>
+			<paragraph>Overall the Nexus 6 audio quality is a story of wasted chances - a couple of defects ruin what could have been class leading output. As things stand now, we are looking at a device a cut below its key competitors.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Motorola Nexus 6 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP OIS camera<subsectionTitle>
+			<paragraph>Motorola Nexus 6 packs 13MP f/2.0 camera with Sony IMX 214 Image Sensor and optical image stabilization. There's dual-LED flash, which is set in a ring around the sensor. You can activate the snapper via a swiping gesture from the lockscreen or from the homescreen shortcut.</paragraph>
+			<paragraph>The camera UI is intuitive and requires practically no time to get used to. The image capture button is on the right side. Timer, flash settings, grid view, and the ability to switch to the front-facing camera are available via a menu in the top right corner.</paragraph>
+			<paragraph>The shooting options are located on the left side. They include regular shots, Panorama, Lens Blur, Photo Sphere, and Video.</paragraph>
+			<paragraph>HDR+ requires manual activation. We wish that there was an auto option available, though its lack is hardly a deal breaker.</paragraph>
+			<paragraph>The camera locks up focus rapidly. You can change the focus point via a tap on the screen.</paragraph>
+			<paragraph>Users can opt to set their image exposure manually via a toggle in the settings menu. Resolution of the photos, as well as the quality of the panoramas can also be tweaked.</paragraph>
+			<paragraph>The image quality of the Nexus 6 is quite good. There's a great deal of detail in good lighting, though slightly overly aggressive noise reduction in the shadows eradicates much of it. Colors are pleasingly rendered, and contrast is good. Dynamic range is about average.</paragraph>
+			<paragraph>We've seen more mature image processing, but, overall, Nexus 6 is among the better cameraphones out there. It will deliver consistently good images, that's without a doubt.</paragraph>
+			<paragraph>The built-in dual LED flash does a decent job at short and moderate distances. It's not quite able to emulate a complete ring flash with just two LEDs, but it still does a better job than most of the competitors out there.</paragraph>
+			<paragraph>The panoramas produced with the Nexus 6 have just over 10MP resolution which is far from the highest around, but they have decent per-pixel detail and nice stitching with minimum artifacts.</paragraph>
+			<paragraph>Update: We included the Nexus 6 to our Photo comparison database. Here's how it stacks up against the Samsung Galaxy Note 4 and the LG G3.</paragraph>
+			<paragraph>   Motorola Nexus 6 versus the Galaxy Note 4 and LG G3</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>UHD video capture<subsectionTitle>
+			<paragraph>The video recorder and its settings have the same layout as the still camera. You can downsize your videos to 720p if you wish, but those after the highest quality should go for the available UHD 2160p option.</paragraph>
+			<paragraph>The videos captures with the Nexus 6 boast superb quality regardless of the resolution with excellent colors and plenty of detail. The framerate is nicely smooth and the built-in OIS helps get rid of the shake.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>Our biggest gripe with the camcorder of the Nexus 6 is the fact that it captures videos with mono sound. Considering Motorola's expertise in the field, we find this occurrence downright disappointing.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download untouched samples straight from the device - a 2160p@30fps (36.4MB, 0:07s) and 1080p@30fps (14.8MB, 0:07s).</paragraph>
+			<paragraph>Update: You can use our Video quality comparison tool to check how the Motorola Nexus 6 measures up against other 2160p competition.</paragraph>
+			<paragraph>   Motorola Nexus 6 2160p video comparison</paragraph>
+			<paragraph>We also shot the charts in 1080p mode, which is a good opportunity to put the Nexus 6 up against the Apple iPhone 6 Plus.</paragraph>
+			<paragraph>   Motorola Nexus 6 1080p video comparison</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Chrome<subsectionTitle>
+			<paragraph>Google Chrome is unsurprisingly the default browser in the Nexus 6. Its design was updated recently, so it matches to overall look and feel of Android 5.0 Lollipop.</paragraph>
+			<paragraph>One of Chrome's strengths is its ability to seamlessly sync with the desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+			<paragraph>Google Chrome is generous with the available settings as well. You can control almost every aspect of your web browsing from choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups. Reduce data usage does what it says - Google servers compress the webpage (using Google-developed tech like SPDY and WebP) and send it to the device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Calendar<subsectionTitle>
+			<paragraph>Google Calendar received a major overhaul with Android 5.0 Lollipop. The app features sleek new look that features different graphic for each month. It can automatically add events straight from your Gmail account, so you don't need to worry about flights, dinner reservations and the likes.</paragraph>
+			<paragraph>You can now add photos and maps to your calendar events. A button to add events can be seen at the bottom right of the app.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Docs, Sheets, Slides<subsectionTitle>
+			<paragraph>Google Docs, Sheets, and Slides handle creating and editing office documents. The apps sync with Google Drive and can work while offline as well - files will sync with the cloud when your device goes online again.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>Google Fit is the search giant's freshly launched fitness platform. It syncs with Android Wear devices and other compatible accessories such as smart scales. You can record activities, set goals, and keep track of you progress.</paragraph>
+			<paragraph>Google Fit can also send you notifications and reminders to keep you on track. The functionality of the platform will certainly grow further going forward.</paragraph>
+			<paragraph>The stock Android clock has a new look, but has retained its familiar functionality.</paragraph>
+			<paragraph>The calculator has new design as well. It is as easy to use as ever though.</paragraph>
+			<paragraph>Google Play store has a new look, but the same functionality. There are no surprises here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key review findings<subsectionTitle>
+			<paragraph>Because of its curved body, the phablet feels surprisingly good in hand</paragraph>
+			<paragraph>Android 5.0 is a major step forward for the ecosystem both in terms of looks and performance</paragraph>
+			<paragraph>Qualcomm's hardware on tap is powerful and up to any task</paragraph>
+			<paragraph>The device's 13MP camera is a quality piece, but mono recording disappoints</paragraph>
+			<paragraph>Battery life is good considering the size of the display</paragraph>
+			<paragraph>Motorola's Turbo Charger should really be mandatory for all smartphones</paragraph>
+			<paragraph>Audio quality is a mixed bag, quality depends on your usage scenario</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Motorola Nexus 6 is the right candidate to carry the Android 5.0 Lollipop flagship banner. It looks good, it's brimming with the latest hardware, and it's solidly put together. Thanks to its massive 6" display and that large Nexus logo on its back, the phablet is not lacking in presence either - just like a flagship should.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Motorola and Google took their time with the Nexus 6 and many will find that the end result is well worth it. The phablet fits well into its new, upmarket habitat - it can rub shoulders and successfully compete with the best devices in the segment, regardless of the ecosystem.</paragraph>
+			<paragraph>We've said enough about the stellar performance of the Qualcomm Snapdragon 805 chipset. It is one of the most capable pieces of silicon available for smartphones at the moment, and will handle anything you can throw at it with ease.</paragraph>
+			<paragraph>The 6" QHD AMOLED display, while not perfect, is pleasant to look at and quite useful thanks to its ample size. Coupled with the front-facing stereo speakers, it truly makes the Nexus 6 a mobile multimedia powerhouse.</paragraph>
+			<paragraph>Thanks to the OIS and the brand new Android 5.0 user interface, the 13MP camera is a massive step forward for the Nexus family. It captures quality images and videos. We really wish the latter were recorded with stereo sound, not mono like the iPhone family - Motorola has plenty of expertise in this department.</paragraph>
+			<paragraph>Android 5.0 Lollipop is arguably the most important feature of the Nexus 6. Thanks to the new ART runtime, the new OS build looks and feels blazing fast. The brand new material design tops things off with clean and easy to use UI.</paragraph>
+			<paragraph>Motorola's cleverly designed curved body allows the Nexus 6 to handle surprisingly well for its size. The build quality and the overall tactility are also top notch.</paragraph>
+			<paragraph>The battery performance of the Nexus 6 is good but could have been better with a battery of this capacity. Thankfully, the bundled Motorola Turbo Charger and the Qi wireless charging capability partially make up for the shortcoming.</paragraph>
+			<paragraph>A microSD card slot is another notable omission, especially considering the newly found love for the feature by Android 5.0 Lollipop. Thankfully, there's a 64GB model available to somewhat address the issue.</paragraph>
+			<paragraph>Motorola Nexus 6 costs $649 for a version with 32GB of built-in memory, while the 64GB model is priced at $699. US carriers will also offer the handset on monthly installments that sit in the $25-35 range depending on which one you will choose.</paragraph>
+			<paragraph>The market for large-screen devices has been quite busy this year, so there are plenty of alternatives available to the Nexus 9. Here are some that are worth your attention.</paragraph>
+			<paragraph>Samsung Galaxy Note 4 is the closest rival to the Nexus 6 in the Android world. It packs even more hardware features than Motorola's creation and similar price tag. However, TouchWiz-ed Android is the exact opposite of the stock version. You will have to be patient about updates, too.</paragraph>
+			<paragraph> Samsung Galaxy Note 4</paragraph>
+			<paragraph>LG G3 is for those who are looking to get the most value for their money. The Korean offering offers slightly inferior chipset, but matches or even outdoes on the rest of the hardware features.</paragraph>
+			<paragraph> LG G3</paragraph>
+			<paragraph>LG G3 will begin receiving Android 5.0 this week. However, the manufacturer's deep customizations, like Samsung's TouchWiz, might not fit all tastes.</paragraph>
+			<paragraph>Nokia Lumia 1520 is getting long in the tooth, but it is still the best device Microsoft has to offer. It won't match the hardware of the Nexus 6, but it is cheaper. If you like taking photos and looking at tiled interface, check it out.</paragraph>
+			<paragraph> Nokia Lumia 1520</paragraph>
+			<paragraph>Apple iPhone 6 Plus is Cupertino's take on a large-screen smartphone. Opting for it is a matter of OS preference above all else.</paragraph>
+			<paragraph> Apple iPhone 6 Plus</paragraph>
+			<paragraph>Motorola Nexus 6 is Google's direct take on a high-end phablet, so it should be on your short list if you are on the market for one. This year, the device has a lot more going for it than stock Android, so it is easier to recommend than any of its predecessors despite the bigger price tag.</paragraph>
+		</subsection>
+	</page>
+</review>

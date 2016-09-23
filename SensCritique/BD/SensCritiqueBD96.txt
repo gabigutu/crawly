@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Sociorama - La Banlieue du 20 heures</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Sociorama_La_Banlieue_du_20_heures/22306342</link>
+	<generalScore>7.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

@@ -1,0 +1,58 @@
+<review>
+	<title>Asus Zenfone 2, Zenfone Zoom hands-on</title>
+	<description>Asus at CES 2015</description>
+	<link>http://www.gsmarena.com/ces_2015_asus-review-1189.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Asus kicked off with Windows tablets, but it saved the best for last - two new Zenfones, one of which is a $200 LG G3 alternative, while the other is a slender camera hybrid. The Zenfone 2 and Zenfone Zoom are based on the same hardware platform and a more zen Android 5.0 Lollipop.</paragraph>
+			<paragraph>The Asus Zenfone 2 - just 2, no 4/5/6 this time around - is the follow-up to the popular line. With narrow bezels this one is more compact than the Zenfone 6, but Zenfone 4 owners will be disappointed.</paragraph>
+			<paragraph>If they can bear the 5.5" phablet though, they may be the first among their friends to have 4GB of RAM in their pocket. The Asus Zenfone 2 uses a quad-core Intel Atom Z3580 processor (Z3560 in some regions) and runs Android 5.0 Lollipop with the latest ZenUI from Asus. Note that in some regions the RAM is cut in half, 2GB (and that's the $200 version, of course).</paragraph>
+			<paragraph>The Asus Zenfone Zoom bumps the thickness just a touch - from 10.9mm for the Zenfone 2 to 12mm. It packs on extra weight because it's carrying a 3x optical zoom lens with stabilization. It's a 13MP/1080p camera, same as on the non-Zoom, but the lens adds a lot of versatility to the camera.</paragraph>
+			<paragraph>Both phones feature manual controls for photography buffs and the Zenfone Zoom can pack as much as 128GB of built-in storage.</paragraph>
+			<paragraph>Alongside the Zenfones, Asus unveiled three convertibles - half tablet, half laptop, the Transformer Book Chi trio is based on Intel's Broadwell chips and run Windows 8.1.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Zenfone 2<subsectionTitle>
+			<paragraph>Asus has selected the 5.5" form factor as the sweet spot - big enough to offer great web browsing and app usage, but compact enough to not bust out of your pocket. It surely helps that the bezels around the screen are kept fairly thin.</paragraph>
+			<paragraph>Asus has kept the capacitive keys below the display on board, while most phones looking to remain compact with a huge screen drop them in favor of on-screen buttons.</paragraph>
+			<paragraph>The screen has 1080p resolution and is impressively sharp at a whisker over 400ppi. You have to keep in mind this is a device that starts at $200, yet you get a sharp, IPS screen protected with Gorilla Glass 3. Asus deserves a pat on the back for this.</paragraph>
+			<paragraph>The company has borrowed some inspiration from the LG G3 here. The Asus Zenfone 2 features a button on the back, positioned in the middle, right below the camera and its dual-LED flash. Interestingly, the company decided to keep the Power button on top (it's very hard to reach the top of the tall device).</paragraph>
+			<paragraph>The basic model will come with a brushed metal finish, which is available in a wide range of colors.</paragraph>
+			<paragraph>More interesting are the Transfusion and Illusion series. The first breaks up the monotony with a color gradient instead of a solid color, while the latter goes even further with unique 3D patterns.</paragraph>
+			<paragraph>Asus made a big deal of the new ZenUI, but the good news start from Android 5.0 Lollipop. The custom UI itself respects the Material design guidelines and adds important features like increased security with per-app and per-file permissions. ZenUI apps will be updated separately from the main ROM to keep them up to date, even if the major update is running late.</paragraph>
+			<paragraph>Asus has strong ties with Intel and the Zenfone 2 is powered by an Atom Z3580 quad-core processor. The SoC also includes a PowerVR G6430 GPU (like the one in the iPhone 5s). Most impressively, this is the first smartphone to crack the 4GB RAM barrier.</paragraph>
+			<paragraph>Of course, the $200 base model starts off with the slower chipset - Z3560 clocked at 1.8GHz instead of 2.3GHz - and you only get 2GB of RAM. Still, it sounds like a great deal, considering you're also getting 150Mbps LTE and Wi-Fi 802.11ac.</paragraph>
+			<paragraph>For the camera, Asus picked a 13MP shooter with a fast f/2.0 aperture and software enhancements to improve low-light and HDR shots. This camera records 1080p video. On the front is a selfie-friendly 5MP camera with an 85° lens, which can be expanded to a virtual 140° with the Selfie Panorama mode.</paragraph>
+			<paragraph>The main camera has a dual-LED true tone flash and it has manual controls.</paragraph>
+			<paragraph>The Asus Zenfone 2 is powered by a 3,000mAh battery. It supports a fast charging tech that will bring the battery from 0-60% in 39 minutes.</paragraph>
+			<paragraph>Asus also showed off the Zenfone 2 View Flip Cover, but the uncanny resemblance to the LG G3 and its flip cover is a bit too much.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Zenfone 2 hands-on video<subsectionTitle>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Zenfone Zoom<subsectionTitle>
+			<paragraph>Unfortunately the Asus Zenfone Zoom was locked away and we didn't get a proper hands-on with it.</paragraph>
+			<paragraph>It has the same hardware base as the Zenfone 2, but by adding just 1mm to the overall thickness of the phone Asus found room for a 3x optical zoom lens. It has optical stabilization too.</paragraph>
+			<paragraph>The rest of the camera specs are essentially the same as on the Zenfone Zoom's sibling - a 13MP sensor with 1080p video capture and a dual-LED flash. Asus did add an LG G3-style laser autofocus to speed up shooting.</paragraph>
+			<paragraph>The Asus Zenfone Zoom will come with as much as 128GB of storage, though Asus is mum on the lower bound - the Zenfone 2 drops to as low as 16GB.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Transformer Book Chi T300<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Transformer Book Chi T100<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Transformer Book Chi T90<subsectionTitle>
+		</subsection>
+	</page>
+</review>

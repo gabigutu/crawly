@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>Preacher: Book Four</nameEn>
+	<nameFr>Preacher : Livre 4</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Preacher_Livre_4/20070621</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>11</numberOfVoters>
+		<numberOfVoters>18</numberOfVoters>
+		<numberOfVoters>14</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

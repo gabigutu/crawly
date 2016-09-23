@@ -1,0 +1,120 @@
+<review>
+	<title>Nokia N80 vs. Sony Ericsson K800</title>
+	<description>3 megapixel shootout</description>
+	<link>http://www.gsmarena.com/3mp_test_nokia_n80_se_k800-review-79.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>The first Nokia 3 megapixel camera phone, N80, just hit the market. The Sony Ericsson K790/K800 might follow soon and it comes with the famous Cyber-shot logo. We decided that it will be interesting to test the photo capabilities of the two phones head to head.</paragraph>
+			<paragraph>For the sake of the comparison we also included Sony Ericsson K750 in this photo review. It is undoubtedly one of the best 2 megapixel camera phones on the market, alongside with its brothers W800 and D750, of course. This way you will be able to decide which of the 3 megapixel phones takes better photos and also if the new phones are worth the upgrade.</paragraph>
+			<paragraph>   Nokia N80</paragraph>
+			<paragraph>   Sony Ericsson K800</paragraph>
+			<paragraph>Please note that the firmware of the Sony Ericsson K800 is not the final one, while we are using the final retail version of Nokia N80. The quality of the pictures of K800 may or may not be better when the phone is officially released. Also note that we are comparing only the imaging part of the phone here. This article is not a general phone comparison and will not tell you which phone is better and even less which brand is better.</paragraph>
+			<paragraph>  The competitors ? camera lens</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>3 megapixels give or take<subsectionTitle>
+			<paragraph>If you look at the pictures you will notice that it says "3 megapixels" on the Nokia lens and "3.2 MP" on Sony Ericsson - it's just a matter of marketing, the two cameras have exactly the same resolution - 2048 x 1536 pixels, or 3.15 megapixels. It is quite funny to read on the forums about 0.2 MP difference. BTW, the new Nokia N93 has the same resolution and the camera is presented as "3.2 megapixel".</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Autofocus or not<subsectionTitle>
+			<paragraph>The big difference between the competitors is not the resolution - it is the lens. Sony Ericsson K800 has autofocus lens, while Nokia N80 uses fixed focus with macro mode. Of course, the autofocus system is more advanced, but you pay for the perfectly focused photos with shutter delays. You may miss the action if you are not used to the autofocus delay. For example trying to capture running children can be a challenge because of the focusing lag. You can solve this problem in K800 by setting the focus to infinity. After doing this the camera in K800 behaves like fixed focus camera and you can capture the action better.</paragraph>
+			<paragraph>   Nokia N80 - just press the shutter ? With autofocus camera you need to half press the shutter to get focus confirmation and then fully press to take the picture</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera settings<subsectionTitle>
+			<paragraph>Both cameras have rich sets of controls. You can set the pictures size, compression, white balance, flash mode. The exposure compensation is a lot more usable on K800 (by moving the joystick left or right) than on N80, where it is buried in a menu. Instead of implementing real manual controls the manufactures have chosen to use "scenes", called "shooting mode" in Nokia N80. You can select scenes like Portrait, Landscape, Sport or Night Portrait and the camera will hopefully adjust to the situation.</paragraph>
+			<paragraph>    Nokia N80 camera interface</paragraph>
+			<paragraph>   Sony Ericsson K800 camera interface</paragraph>
+			<paragraph>The digital cameras use the EXIF headers of JPG files for storing information about the capture. Apart for the time of photo, Nokia N80 stores only the flash mode and the white balance setting. The two Sony Ericsson models store more complete EXIF information, including the really useful ISO and shutter speed values. This data can tell you for example if your pictures are blurred because of wrong focus or low shutter speed.</paragraph>
+			<paragraph>Sony Ericsson added one unique feature of the Cyber-shot cameras to K800 - BestPic mode. It is very useful for capturing some kind of action or the right expression of your subject. Here is how it works - you press the shutter button only once and the camera takes 9 photos in a really fast sequence. Than you have the option to review the photos and select which ones you would like to save.</paragraph>
+			<paragraph> BestPic mode of Sony Ericsson K800 - selecting which pictures to save</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>In perfect conditions<subsectionTitle>
+			<paragraph>Not much difference in the resolved detail between the 3 megapixel competitors here. On some of the photos N80 looks slightly better, on others K800. Anyway, we prefer the silk look of the Sony Ericsson pictures. The resolution advantage of the 3 megapixel cameras over the K750 is obvious.</paragraph>
+			<paragraph>Full resolution</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>On these pictures you can see that Sony Ericsson K800 has wider dynamic range than Nokia N80 - the two pictures are equally exposed, but K800 shows more details both in the highlights (look at the white cloud) and in the shadows.</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>Downsampled to 1024 x 768</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>When the light is not that strong<subsectionTitle>
+			<paragraph>This is where we can see more clearly the difference between the cameras. It seems that Nokia N80 uses slower shutter speeds in these conditions and we had some unusable photos because of motion blur. Unfortunately the shutter speed is not recorded in the EXIF headers and we can't check to be sure.</paragraph>
+			<paragraph>Full resolution</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>Downsampled to 1024 x 768</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Low light<subsectionTitle>
+			<paragraph>The images from Sony Ericsson K800 show a lot less noise in these conditions than its competitors. Such conditions are hit and miss for all the cameras in the test. Even if you have a steady hand it's good to take several pictures under low light to be sure that at least one is not blurred. All three cameras have night mode, which might help getting better pictures in low light situation if your subject is absolutely still.</paragraph>
+			<paragraph>Full resolution</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>Downsampled to 1024 x 768</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Macro<subsectionTitle>
+			<paragraph>Both Nokia N80 and Sony Ericsson K800 can take pictures at a close distance. However, the macro modes of the two devices are not the same. In K800 the macro setting is just telling the autofocus system to hunt for closer objects, while in N80 the macro setting is mechanic - it changes the fixed focus from far range to close range, but the focus still remains fixed. What does it mean, you wonder? It means that N80 has a "sweet spot" (about 20 cm from the lens) where it takes best macro pictures, while Sony Ericsson K800 can take sharply focused close up pictures from 5 to 50 cm.</paragraph>
+			<paragraph>Full resolution</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>Take a look at this set of pictures - the two autofocus cameras are doing fine, while N80 is back focused. Nokia N80 can take good close ups (they can't be called macro) if you are make sure to take the pictures from around 20 cm distance.</paragraph>
+			<paragraph>Downsampled to 1024 x 768</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+			<paragraph>   Nokia N80 ? Sony Ericsson K800 ? Sony Ericsson K750</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Flash<subsectionTitle>
+			<paragraph>Sony Ericsson widely advertises the flash in their K800/K790 model. K800 is using the same type of flash most of the compact digital cameras are using - xenon flash. It is a lot stronger than the LED flashes most of the phone cameras have. Indeed, we can confirm that K800 can take decent pictures in the dark from as far as 3 meters.</paragraph>
+			<paragraph>  Nokia N80 ? Sony Ericsson K800</paragraph>
+			<paragraph>You can see the difference even when the pictures are taken in close range. To compensate for the weak LED flash Nokia N80 had to boost the ISO sensitivity of the sensor and this way it ends up with a noisier photo.</paragraph>
+			<paragraph>In K800 the flash also serves as a focus assist light. When it's dark, it first emits red light to help the autofocus system lock the subject, then when the shutter is fully pressed it fires the strong white light.</paragraph>
+			<paragraph>The flash in K800 is powerful enough to be used for fill flash when shooting backlit portraits. The problem though, is that there is no such setting for the flash. The only available options are "Off", "Auto" and "Red eye reduction". So in the backlit portrait scenario most probably the flash won't fire off. , the options available are "Off", "Auto" and "Red eye reduction". Most of the digital cameras have the "Always On" option available which forces the flash to fire no matter what the lighting conditions are.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>More samples from Nokia N80<subsectionTitle>
+			<paragraph>   </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>More samples from Sony Ericsson K800<subsectionTitle>
+			<paragraph>       </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video<subsectionTitle>
+			<paragraph>Even by only looking at the specs, you can already tell who is the winner here - Nokia N80. At its highest setting it can record at 352 x 288 pixels (CIF) resolution, while Sony Ericsson can only shoot video in the ancient QCIF format - 176 x 144 pixels. So, N80 captures 4 times more pixels and its video is definitely better. Take a look at the samples.</paragraph>
+			<paragraph>   Nokia N80 ? Nokia N80 ? Sony Ericsson K800</paragraph>
+			<paragraph>Both phones can zoom while capturing video and both can record audio and the video recording time is limited by the free memory only. Sony Ericsson features digital video stabilization, but it's pretty redundant at such a small resolution. Anyway, both cameras will miserably fail when compared to the newly announced Nokia N93, which will feature recording DVD like quality video (640x480 at 30 fps).</paragraph>
+			<paragraph>   Shooting video with Nokia N80</paragraph>
+			<paragraph>  Shooting video with Sony Ericsson K800</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Viewing pictures<subsectionTitle>
+			<paragraph>Nokia N80 and Sony Ericsson K800 score about the same here. Both phones have good equipment for viewing the taken pictures - fast processors and high-resolution displays. Of course Nokia N80 has a resolution advantage. Both phones can show the pictures taken in a landscape mode, utilizing this way the displays at full extent. Nokia wins a point here with its picture browser Gallery. It reads ahead the picture information and you can go through the pictures really fast.</paragraph>
+			<paragraph>When it comes to zooming a selected picture however, Sony Ericsson K800 is a lot faster. It seems that the Cyber-shot technology helps in this task. It is annoying that both phones have a lot of zoom steps. When you want to check the focus of a given picture you don't really need, say 1.25x zoom, you just want to see the details as quickly as possible.</paragraph>
+			<paragraph>   Gallery - viewing pictures with Nokia N80</paragraph>
+			<paragraph>   Viewing pictures with Sony Ericsson K800</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>And the winner is<subsectionTitle>
+			<paragraph>So, which camera is better? In our opinion Sony Ericsson K800 takes overall better pictures even with the beta firmware. The pictures taken with K800 look more natural and the camera gives reliable results under various lighting conditions. Not exactly a big surprise taking into account the years of experience and know-how Sony has with its Cyber-shot line of digital cameras.</paragraph>
+			<paragraph>Nokia N80 shows that it can be an adequate competitor and far exceeded our initial expectations even without the Carl Zeiss logo and the autofocus lens. Overall it is a better imaging device than Nokia N90 and Sony Ericsson K750. Nokia N80 also wins in the video capturing department. It's up to you to decide whether this is important for you and depends on what you are going to use your camera phone mainly for. Not that it takes perfect video records, but K800 doesn't offer more than the current absolute minimum.</paragraph>
+			<paragraph>And about the upgrade from Sony Ericsson K750, is it worth it? If you are going to print your images - definitely. The additional resolution will be visible even in prints 10 x 15 cm (4" x 6"). Even if you only publish your images on the web or look at them on your PC, the down-sampled images from the 3 megapixel cameras generally look better than the ones from K750.</paragraph>
+			<paragraph>Any comments? Please post them here.</paragraph>
+		</subsection>
+	</page>
+</review>

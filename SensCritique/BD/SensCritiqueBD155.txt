@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>La Forêt des renards pendus</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/La_Foret_des_renards_pendus/22531233</link>
+	<generalScore>7.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Une histoire ironique toute en folie</title>
+		<author>Graffiti</author>
+		<date>2016-09-07</date>
+		<score>0.7</score>
+		<content>Pour en savoir plus, écoutez ma critique dans l'émission Le casque et l'enclume de RCF Loiret https://rcf.fr/culture/nbbs-cerqueux-croze</content>
+	</review>
+</sensCritiqueEntity>

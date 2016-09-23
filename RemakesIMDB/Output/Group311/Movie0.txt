@@ -1,0 +1,13 @@
+<movie>
+	<title>Neuf mois</title>
+	<link>http://www.imdb.com/title/tt0110646/?ref_=fn_al_tt_1</link>
+	<year>1994</year>
+	<generalScore>0.58</generalScore>
+	<review>
+		<date>2003-05-20</date>
+		<username>cmcochran2</username>
+		<score>1.0</score>
+		<shortDescription>Great movie, would see over and over!</shortDescription>
+		<fullReview>Saw this movie in college at a French Film Festival and enjoyed it throughly. Would love to see again. Extremely humorous. Actors,Actresses at their peak, Patrick Braoude is a genius in comedy. Now desire to see Braoude's other films.</fullReview>
+	</review>
+</movie>

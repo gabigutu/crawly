@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Oderunt Poetas</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Oderunt_Poetas/21447415</link>
+	<generalScore>7.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>14</numberOfVoters>
+		<numberOfVoters>40</numberOfVoters>
+		<numberOfVoters>94</numberOfVoters>
+		<numberOfVoters>57</numberOfVoters>
+		<numberOfVoters>25</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Poésie liquide pour potentiel alcoolique de grand rap français</title>
+		<author>Ghostt</author>
+		<date>2016-06-11</date>
+		<score>0.9</score>
+		<content>Quand on parle d'un rappeur français très productif, on cite trop souvent à mon grand désarroi cet étron musical qu'est Jul (c'est moche de taper sur les handicapés, je sais, j'ai presque honte). Seulement il y en a un autre qui est très souvent oublié, et qui est aussi, voire plus productif, sauf que lui sort de vrais projets, avec de vrais textes, un vrai flow et de vraies instrus, je parle de Lucio Bukowski. Et il y a peu Lucio Bukowski a sorti son dernier projet. A peine sept mois après l'excellent Kiai sous la pluie noire, il revient avec un nouvel album : Oderunt Poetas. Et déjà on peut y voir une des caractéristiques des albums de Lucio : des titres et des pochettes d'album à la fois jolies et inspirés. Durant les 13 morceaux qui constituent Oderunt Poetas, Lucio Bukowski revient avec les sujets classiques qui le caractérisent. On trouve notamment dans cet album une ouverture tel sa renaissance artistique avec Ogni giorno è la scuola (le titre prends tout son sens quand on sait qu'en italien il veut dire, chaque jour est une école). Mais aussi des morceaux comme Eau en poudre, Décalage vers le rouge et Kejserens nye Klaeder, (ce dernier faisant directement référence au conte Danois du même nom) où il critique le système actuel et ses dérives, montre son âpreté et son amertume face à la parodie de démocratie se déroulant actuellement dans notre pays, ressemblant plus à une oligarchie économique qu'à autre chose, et s'attaque au formatage des esprits de la masse. Il verse également dans l'égotrip avec le morceau Sur la carte. Aborde les critiques, le regard des autres et son refus de plier à la tendance avec le morceau Frank Michael. Il n'oublie pas cependant de nous parler de sa plume et de sa passion pour l'écriture avec le morceau Oderunt poetas, mais aussi de sa passion pour la lecture et la poésie avec Musique liquide pour oreille interne et le très poétique Rubaïyat, ce dernier étant probablement le plus beau morceau de l'album. Album qui se termine par une sortie en trombe avec le très expressif Le pas tranquille de l'homme qui ne va nulle part. "Les mots viennent, et j'leur ai rien demandé, ils me facilitent la tâche Je n'fais qu'être attentif aux signes, les ordonne, et ils remplissent la page Déprécient la cage, le prix de l'encre est moindre qu'celui d'l'acier Te laissent dans un désert tel le condamné semi-gracié" Quand Lucio Bukowski écrit, il s'enfonce dans les sujets qu'il aborde jusqu'à s'y perdre pour mieux traduire les pensées défilant dans son esprit et ressortant à l'aide de la richesse de son style d'écriture et de la beauté de sa plume, nous offrant ainsi des textes aussi bons que passionnants. Lucio travaille également son flow en variant sa force au sein de ses morceaux, et tantôt en l’accélérant pour donner des morceaux plus denses, tantôt en le ralentissant pour donner des morceaux plus doux. "Comme Antonin Artaud, je poétise mes cris Voué à disparaître, tel les peuples qui méprisent l'écrit" Après cet album ne serait pas ce qu'il est sans son producteur Oster Lapwass. Ses productions instrumentales, loin d'être négligeable, méritent en effet d'être mises sur un pied d'égalité avec la plume de Lucio. Non seulement elles forment des accompagnements aussi variés qu'appréciables, mais également on peut voir et ressentir avec l'outro de Rubaïyat et les deux pistes instrumentales de l'album, La pesanteur de la grâce et In memoriam Orpheus, toute la beauté et la richesse des productions Lapwass nous transportant au loin. Le tout formant un album respirant la poésie, l'amour de la belle plume et du grand rap dont on boit les paroles au goulot. Certainement l'album de l'année, en tout cas dans le rap je vois très mal quel album pourrait le détrôner. A écouter absolument donc, que vous soyez un amateur féru de grand cru de rap français, un alcoolique de la bonne musique ou un novice ouvert à la découverte de différentes liqueurs musicales. "Du coup l'orage, sur la vitre, joue son tempo rituel La rue est pleine, la nuit vide, disons le truc habituel Le café fume formant quelque chose dans la veine de Monet J'ai l'impression que le silence est un refrain que je connais"</content>
+	</review>
+	<review>
+		<title>Mauvais.</title>
+		<author>Darling</author>
+		<date>2016-06-21</date>
+		<score>0.3</score>
+		<content>J'allais écrire une critique pleine de vitriol, mais je n'ai pas de temps a perdre. Pas de la musique, pas de la poésie. Plein de mensonges et d'ennui. C'est faux, c'est creux, ça sent mauvais. C'est de la prostitution. Le mot est seyant. Lisez plutôt des livres, je vous en conseille si vous voulez; on discute. Le rap français n'a plus rien a nous offrir.</content>
+	</review>
+</sensCritiqueEntity>

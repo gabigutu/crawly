@@ -1,0 +1,245 @@
+<review>
+	<title>Flagship camera shootout 2014</title>
+	<description>Six enter, only one leaves</description>
+	<link>http://www.gsmarena.com/camera_shootout-review-1104.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>If you have been following us throughout the years, you probably know that cameraphone shootouts are somewhat of our specialty from back when there were no iPhones or Androids. Now, it's been almost a year since we had our last one shootout and today we've rounded up a full set of flagships and we've warmed up our trigger fingers. We are ready to do another of our customary GSMArena cameraphone shootouts. We can't wait to find out whether Android has finally caught up to Nokia and how well the iPhone has kept over the last year.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Let's meet our contestants. Returning from the last shootout are the Nokia Lumia 1020 (which took home the still photography prize) and the Apple iPhone 5s.</paragraph>
+			<paragraph>The Nokia Lumia 1020's virtues hardly need recounting - a whopping big sensor with enough pixels to fill the Grand Canyon. Add in optical image stabilization and the xenon flash and we have an early favorite.</paragraph>
+			<paragraph>Samsung followed in Nokia's footsteps and created a homebrewed sensor of its own for the Galaxy S5. It's based on ISOCELL and it's bigger than most. Phase Detection Autofocus has been borrowed from DSLRs for even faster focus locks.</paragraph>
+			<paragraph>Its arch nemesis, the LG G3, opens with an improvement of the LG G Pro 2 camera with OIS+ and one-ups it with a new brand of low-light autofocus mode called Laser focus.</paragraph>
+			<paragraph>The Sony Xperia Z2 loves swimming as much as its predecessor and it brings a large, high-resolution 20MP sensor of a special Sony recipe. Sony has boosted its attempts of software differentiation with its own bespoke camera modes.</paragraph>
+			<paragraph>Then there's a new-comer, the Oppo Find 7. Built around a Sony sensor, the Find 7 camera has special interpolating shooting mode of its own, which can produce 50MP images.</paragraph>
+			<paragraph>Then there's the Apple iPhone 5s. It's by far the simplest camera but easily among the most popular digital cameras in the world. Apple's demure camera UI shouldn't fool you though, some of the highest quality components went into that 8MP shooter.</paragraph>
+			<paragraph>You may have noticed the absence of a popular 2014 flagship, the HTC One (M8). We didn't feel it can adequately compete with the other six given its 4MP camera and would have made direct comparison even harder. True, the dual-camera setup is unique but it's for still image effects only and the focus of this article is rather image quality above fancy tricks.</paragraph>
+			<paragraph>Unfortunately, the Nokia Lumia 930 came out too late to be a part of this shootout - but there's always next time! Same goes for the upcoming iPhone sequel.</paragraph>
+			<paragraph>Anyway, our six picks are lining up on the start line ready for the 100ft camera feature dash.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera specs and features<subsectionTitle>
+			<paragraph>Camera makers mostly promote their new software features as they are flashier, but a good hardware lays the foundation of a solid camera. Here's a quick overview of the hardware features behind each of our six contenders.</paragraph>
+			<paragraph> Nokia Lumia 1020</paragraph>
+			<paragraph>The Nokia Lumia 1020 is the most photography-oriented phone of the six. It has by far the largest sensor and it's covered by the most pixels. This allows it to offer lossless digital zoom when shooting photos at 5MP or videos.</paragraph>
+			<paragraph> Nokia Lumia 1020</paragraph>
+			<paragraph>The PureView camera also boasts optical image stabilization and a xenon flash (in addition to an LED used as AF and video light). The software has a full set of manual controls and an option to shoot in RAW to please photography buffs. Also, the hybrid sensor of the 1020 is just as comfortable shooting 4:3 photos as 16:9.</paragraph>
+			<paragraph>The Lumia 1020 can also capture RAW files for the photo enthusiasts.</paragraph>
+			<paragraph>The problem with the Lumia 1020 is that it takes forever - that's 5-6 seconds in tech terms - to save a photo after you hit the shutter key.</paragraph>
+			<paragraph>Sony Xperia Z2</paragraph>
+			<paragraph>The Sony Xperia Z2 has the second-biggest sensor here and about half as many pixels as the Lumia (working the numbers reveals those pixels are slightly smaller). There are no advanced features like xenon or OIS but the Sony flagship is water-resistant so you can take it shooting in the pool or at the beach.</paragraph>
+			<paragraph> Sony Xperia Z2</paragraph>
+			<paragraph>Clear Image Zoom promises quality digital zoom right in the camera, but testing showed it's not as good as the Nokia's zoom.</paragraph>
+			<paragraph>Samsung Galaxy S5</paragraph>
+			<paragraph>Samsung created its own sensor for the Galaxy S5 based on a technology called ISOCELL. It promises better low-light performance and wider dynamic range. It has a 16:9 aspect ratio and measures 1/2.5". As usual, Samsung has piled a lot of features, but the actual camera UI has been simplified since the Galaxy S4.</paragraph>
+			<paragraph> Samsung Galaxy S5</paragraph>
+			<paragraph>The Galaxy S5 boasts Phase Detection Autofocus to acquire very fast focus locks.</paragraph>
+			<paragraph>LG G3</paragraph>
+			<paragraph>The LG G3 uses an old-school 4:3 13MP sensor but it one-ups the Galaxy S5 by adding a special invisible autofocus assist light - they call it Laser focus. It uses a dedicated IR light emitter so that it can get accurate distance reading more quickly in the dark. The other two methods - Phase detection and Contrast detection - are still here.</paragraph>
+			<paragraph> LG G3</paragraph>
+			<paragraph>The LG G3 camera features optical image stabilization, the only Android of the 2014 generation that does. It has a dual-tone, dual-LED flash to help it in the dark. The front-camera can use the screen as a sort of flash to take selfies in the dark.</paragraph>
+			<paragraph>Oppo Find 7</paragraph>
+			<paragraph>The Oppo Find 7 has a 13MP shooter too but with a wider aperture than the LG (though no OIS). A special software mode allows it to interpolate 50MP shots by stacking several identical shots and picking up the best rendered areas from each. It can even be used as a sort of digital zoom. The front-facing camera is a 5MP snapper promising the best selfies of the six contenders.</paragraph>
+			<paragraph> Oppo Find 7</paragraph>
+			<paragraph>The Oppo also allows the capture of RAW files. A mode that works much better is the Slow shutter that can stretch shutter time to 32s to create cool light streak effects in the dark.</paragraph>
+			<paragraph>Apple iPhone 5s</paragraph>
+			<paragraph>The Apple iPhone 5s has the lowest resolution camera of the six but with relatively big pixels. It also pioneered the dual-tone, dual-LED flash, which allows for more natural looking flash shots.</paragraph>
+			<paragraph> Apple iPhone 5s</paragraph>
+			<paragraph>A particular strength of the iPhone is the Panorama mode, which uses HDR to balance the very bright and very dark areas a wide panorama usually covers.</paragraph>
+			<paragraph>The Androids have panorama modes of their own, typically a custom implementation by their maker. The Samsung Galaxy S5 also shoots spherical panoramas and Virtual tours - like a spherical panorama but you're not limited to one location. The Lumia has a Panorama mode too but it's particularly difficult to use, more on that later.</paragraph>
+			<paragraph>A feature that has recently become trendy is the ability to adjust the focus of an image after it has been taken. Nokia put out such a feature first, but now Samsung and Sony have their own implementations and Google released it for all Androids.</paragraph>
+			<paragraph>The Nokia and Samsung implementations have an "all in focus" option, while Sony's just does background defocus.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photo quality, daylight<subsectionTitle>
+			<paragraph>The phones take photos at vastly different resolutions ranging from 8MP to 38MP, which makes the comparison difficult. Using Nokia's super sampling camera mode the minimum photo resolution is actually 5MP, putting the Lumia 1020 at both ends of the scale.</paragraph>
+			<paragraph>To be able to compare them on even ground, we will resize them all to fit the same resolution several times and then make crops to compare the image quality at 1:1 pixel level.</paragraph>
+			<paragraph>First off, we'll resize all the photos to 8MP to match the lowest native resolution of the bunch. Then we'll compare them at their native resolution and finally, we will upsize them all to 38MP to match the highest available resolution. This will give us three different perspectives on how these different cameras compare.</paragraph>
+			<paragraph>8MP comparison</paragraph>
+			<paragraph>So starting off with the 8MP comparison, it's obvious that the Nokia Lumia 1020 has the most pixels to boot. Despite having the widest Field of View (FoV) the Lumia 1020 pack the highest amount of fine detail. The photos don't have the heavily processed look of some of the competitors either, plus the dynamic range is very wide (look at the bush in the shade and the one in the sun).</paragraph>
+			<paragraph>On a side note, the Lumia 1020 also has a 5MP mode, but that throws out too much of the detail. Those photos are great to post on Facebook or email, but for your photo archive at home you'll want to save those 38MP shots. The phone can save both resolutions at once but that takes time and the 1020 is the slowest among shooters in this shootout.</paragraph>
+			<paragraph>Back to the comparison at hand, the Oppo Find 7 photos also look pretty clean though there is some noticeable post-processing and the dynamic range isn't up to par. The letters and numbers aren't as sharp but overall the photos look great.</paragraph>
+			<paragraph>The Samsung Galaxy S5 is heavy handed with the processing - the sharpen stage is very strong (you can notice halos around edges) and the contrast has been artificially boosted, which makes the image look a bit fake.</paragraph>
+			<paragraph>The LG G3 is guilty of the same things but to a lesser extent. The pumped up contrast makes the shadows look exaggerated and the sharpening filter leaves clear halos. The LG G3 underexposes shadows but again to a lesser extent than the Galaxy S5.</paragraph>
+			<paragraph>Then there's the Sony Xperia Z2. We used Superior Auto so the phone had the opportunity to produce its own 8MP shot. Which turned out to be of no advantage despite the obvious advantage of starting off a considerably higher resolution (20.7MP).</paragraph>
+			<paragraph>The photos are on the overexposed side and the detail just isn't there, even the large "VIVA" sign doesn't look particularly sharp. The foliage of the bush looks more like digital artifacts than foliage.</paragraph>
+			<paragraph>The 8MP camera on the Apple iPhone 5s is practically Apple's pinnacle of engineering but it's already a resolution mark that's become tough to sell. The dynamic range is pretty good but colors are off (the "VIVA" sign appears more orange than red), but the biggest downfall is how soft the image appears compared to the others, even the Xperia Z2.</paragraph>
+			<paragraph>Native resolution comparison</paragraph>
+			<paragraph>In this comparison we cropped out parts of photos without any image manipulation on our part whatsoever. We've used the source material just as it comes out from the camera. For the Sony Xperia Z2 and Nokia Lumia 1020 we used both their downsamplnig modes (to 8MP and 5MP respectively) and a crop from a full resolution image.</paragraph>
+			<paragraph>The 5MP mode of the Lumia 1020 puts it at a disadvantage - the numbers for gas prices become almost unreadable even though we know the camera resolved them perfectly well. With UHD TVs becoming more popular, Nokia should consider moving to 8MP shots (3,840 x 2,160 = 8MP). Still, the photos are sharp, with no noise and good colors. The contrast is a bit low for our taste, but that's a side effect of the wide dynamic range. Plus, you can use camera settings to adjust it to your liking as the Lumia 1020 is the only phone in this shootout with proper manual controls.</paragraph>
+			<paragraph>Photos taken at the Lumia 1020's native resolution seem to have undergone less processing, the colors aren't as saturated (a good thing if you ask us). Some noise starts to creep in and the image isn't as sharp but keep in mind no display can show 38MP photos at 100%. This though is representative of how 5MP photos will look at maximum zoom - as you can see it still compares well against the competition.</paragraph>
+			<paragraph>The Samsung Galaxy S5 pulls ahead in this comparison - the previous downscaling to 8MP lumped it with the 13MP shooters, but here at 16MP we start to spot the differences. Of course, a good part of the extra sharpness you see comes from the heavy post processing.</paragraph>
+			<paragraph>The LG G3 elbows out the Find 7 again in part due to heavier processing. The extra sharpness and contrast help the look of the photos though the shadows are slightly underdeveloped (we bet it's due to the boosted contrast).</paragraph>
+			<paragraph>The Oppo Find 7 photos look softer and we can still spot a halo under the shadow of the VIVA sign (from over sharpening), but it's a great showing from the new comer of the group.</paragraph>
+			<paragraph>The 8MP samples from the Sony Xperia Z2 and Apple iPhone 5s look even further behind now that we've done away with the downsampling.</paragraph>
+			<paragraph>The Xperia Z2 disappoints when you look at a native resolution photo. It's soft and full of digital artifacts, worse still it doesn't actually bring any additional fine detail. This means 20.7MP mostly waste storage.</paragraph>
+			<paragraph>38MP comparison</paragraph>
+			<paragraph>So we move to the next comparison where we upsized all photos to 38MP, which is the native resolution of the Lumia 1020 shots. Here the Oppo Find 7 shot is actually downscaled a bit (to 85%) since we used its 50MP interpolation mode.</paragraph>
+			<paragraph>Quite expectedly, the Nokia Lumia 1020 comes out as the unrivaled champ. You can see the thin black lines of the right-of-way sign (yellow rhombus inside a white rhombus) and the STOP sign looks pretty good. There's some visible noise but nothing major. Also keep an eye on the white picket fence in the background, it's composed of separate planks.</paragraph>
+			<paragraph>The Samsung Galaxy S5 manages to capture that thin black line but it's not as clearly defined. Also the STOP sign is the most readable, but look at the shadows under the tables and chairs - they look very dark and surrounded with white halos.</paragraph>
+			<paragraph>The LG G3 dose a passable job of rendering the signs but the STOP letters and even white arrows look smudgy. At least the shadows aren't exaggerated like in the Galaxy photos.</paragraph>
+			<paragraph>The Oppo Find 7 once again provides relatively untouched shots. The so-called 50MP mode doesn't come anywhere close to the 38MP photo of the Lumia 1020 and things look blurrier than even in LG G3's photos. Again, a lot of that is due to Oppo using a low level of sharpening in post-processing.</paragraph>
+			<paragraph>Despite having a resolution advantage on all but the Nokia, the Sony Xperia Z2 fails pretty bad here. The signs are a mess and the white picket fence is almost a solid object (the separation between planks is barely visible).</paragraph>
+			<paragraph>The Apple iPhone 5s does the worst here but that was to be expected, 8MP isn't enough to render faraway objects with much detail. The planks are completely gone and the signs are very soft. Still, if you look at it and the Xperia Z2, the difference certainly isn't 12.7MP.</paragraph>
+			<paragraph>Daylight photography leaderboard</paragraph>
+			<paragraph>Camera samples</paragraph>
+			<paragraph>Here are the full resolution shots if you want to look at other parts of the scene or do your own upscale/downscale.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HDR mode<subsectionTitle>
+			<paragraph>We saw the impressive dynamic range of the Nokia Lumia 1020 but it also lacks a built-in HDR mode (out of the box). It does have automatic exposure bracketing but you'll have to merge the HDRs yourself. Still, let's see how each phone performed.</paragraph>
+			<paragraph>The Apple iPhone 5s has an automatic HDR mode that can save you the hassle of selecting the mode manually but it doesn't do that too much to begin with. It slightly recovers the highlights but doesn't touch the shadows.</paragraph>
+			<paragraph>The Oppo Find 7 meanwhile seems to offer noticeable improvements but if you look at the thumbnails below you'll notice that the effect turned up the saturation to cartoonish levels. This is the kind of over-the-top HDR many (us included) do not like.</paragraph>
+			<paragraph>The LG G3 has an auto-HDR mode like the iPhone but it did even less. It slightly lightened up the shadows but left the bright sky practically unchanged.</paragraph>
+			<paragraph>The Samsung Galaxy S5 developed more detail in the bright clouds with HDR on and it brightened up the shadows as well. The effect is stronger than on the LG G3 but is more balanced and doesn't go over the top like on the Find 7.</paragraph>
+			<paragraph>For the Sony Xperia Z2 we used the 8MP Superior Auto and 8MP Normal modes (it can't do HDR at full resolution). Its tendency to overexpose shots comes back to haunt the Xperia when it's shooting bright clouds. The effect of HDR in the shadows is minimal but it does help the render the clouds a bit better. A bit.</paragraph>
+			<paragraph>Finally, the Nokia Lumia 1020 handles the sunlit clouds with ease and even the shadows look great. Since this is a non-HDR shot colors look natural too.</paragraph>
+			<paragraph>HDR leaderboard</paragraph>
+			<paragraph>Camera samples</paragraph>
+			<paragraph>We encourage you to view the full size samples as the effect of HDR is best felt when viewing the whole photo. Still, even the thumbnails should give you an inkling of what to expect.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Panorama<subsectionTitle>
+			<paragraph>All six phones have sweep panorama modes and they use them with varying degrees of success. Note that we didn't do the full sweep, some phones offer to do the full 360° but we shot the same arc with all phones (around 180°).</paragraph>
+			<paragraph>The LG G3 produced a whopping 50MP photo and the stitching is spot on. Even the differences between brighter and darker areas didn't faze the G3.</paragraph>
+			<paragraph>Despite having only half the raw pixels, the Apple iPhone 5s produced a panorama close to the Galaxy S5 in size (19MP). The stitching is spotless and the transitions between bright and dark areas are handled well.</paragraph>
+			<paragraph>The Samsung Galaxy S5 produced a smaller image, around 25MP. The difference in resolution is noticeable but the stitching looks good and there are no unevenness in exposure.</paragraph>
+			<paragraph>The Oppo Find 7 produced a 19MP image and there were some issues with stitching but nothing major.</paragraph>
+			<paragraph>Despite having the highest count of raw pixels to play with, the Nokia Lumia 1020 shot the second smallest panorama at 12MP. It was also one of the hardest to snap a photo with - instead of a smooth sweep, you have to aim for white "targets" and hold the phone still for as much as 7-8 seconds at a time. Also, the vertical FoV is pretty limited.</paragraph>
+			<paragraph>Finally, the Sony Xperia Z2 did the worst in this department - the vertical resolution of 1,080 clearly shows the panorama was created from recorded video (for a final shot of less than 4MP shot) and the stitching is pretty bad. Also, if you don't complete the sweep the phone leaves the remaining area a solid grey color (we've cropped it out).</paragraph>
+			<paragraph>Panorama leaderboard</paragraph>
+			<paragraph>Camera samples</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photo quality, low light<subsectionTitle>
+			<paragraph>Daylight photography is the easiest for cameras but shooting in poor lighting conditions is where some of the advanced features become handy. The xenon flash of the Nokia Lumia 1020 will obviously be a great boon for it, but the LG G3 is the only phone with optical image stabilization. It has the so-called "laser focus" too, which should prove quite valuable.</paragraph>
+			<paragraph>As usual, we've included the best and worst shots - there's so much that can ruin a photo taken in poor lighting conditions (camera shake, missed focus, wrong white balance) and this way we can show the dependability of a phone. Some take good shots most of the time, some are 50/50.</paragraph>
+			<paragraph>No flash</paragraph>
+			<paragraph>First up, photos taken in Normal mode with the flash disabled.</paragraph>
+			<paragraph>We used the 5MP shots from the Nokia Lumia 1020 and they show rich detail and no noise, even though they were shot at ISO 800 (there is noise visible in the 38MP shot though). However, the Lumia dropped the shutter speed to a slow 1/10s, which perhaps could have been handled by the OIS but as you see on the crops, it missed focusing correctly one or few times. There's also issues with the white balance - the wall in the background should be white, yet it's greenish.</paragraph>
+			<paragraph>The LG G3 used a leisurely shutter speed, 1/13s, but thanks to its optical image stabilization there's no blur. Keep in mind we used a static scene for the test - moving objects will still come out blurry at this slow shutter speed. Still, at ISO 450 there's little noise and the fine detail is on the level though noise reduction takes away some of it.</paragraph>
+			<paragraph>The Apple iPhone 5s has one of the oldest cameras here but performed surprisingly well. The shutter speed was rather slow (1/15s) but we somehow avoided camera shake. At ISO 400 there isn't much noise though photos are still a little soft. Also the white balance is too warm.</paragraph>
+			<paragraph>We used the 8MP Superior Auto shots from the Sony Xperia Z2. It picked a brisk 1/32s shutter speed so it had no issues with handshake. There's a good deal of noise (ISO 800) but the amount of detail is comparable to the iPhone.</paragraph>
+			<paragraph>Despite touting the advantages of its ISOCELL sensor, Samsung photo quality still suffers in low-light situations. With 1/17s shutter speed it succumbed to camera shake and at ISO 640 there's noticeable noise. That and noise reduction keep the fine detail low.</paragraph>
+			<paragraph>The Oppo Find 7 "worst case scenario" produced the blurriest shot of the bunch. The 1/15s shutter speed can't be entirely to blame, most likely missed focus played its part too. The photo that turned out okay actually looks pretty good compared to the rest, with most of the noise removed (and some of the fine detail with it). The Find 7 used the highest ISO of the bunch, 900.</paragraph>
+			<paragraph>Low-light leaderboard</paragraph>
+			<paragraph>Flash on</paragraph>
+			<paragraph>Next we enabled the camera flashes and repeated the same test.</paragraph>
+			<paragraph>When it comes to flash photography, the Nokia Lumia 1020 has the massive advantage of its xenon flash - it helped the shutter speed go up to 1/50s meaning you can photograph moving objects without worrying about blur. Not only that but the ISO went down too, and at ISO320 the best case scenario image looks great, there's tons of detail and no noise. The Lumia software managed to mangle the white balance again, though this time to the polar opposite - it's too yellowish.</paragraph>
+			<paragraph>The "worst" photo of the Lumia 1020 has strong blur, but that's a definite case of missed focus - the photo was taken with the same 1/50s, ISO 320 settings as the good shot. The phone has an LED light that can act as an auto-focus assist but it's much weaker than the xenon and its range is limited.</paragraph>
+			<paragraph>The Apple iPhone 5s surprisingly leaps ahead here. Its dual-LED flash is not among the strongest and its true tone LED setup didn't help with the white balance (it's a tad too warm). Shutter speed was practically unchanged but the ISO dropped to 125 leading to low noise levels. There is some camera shake-induced blur though.</paragraph>
+			<paragraph>The Sony Xperia Z2 flash helped it drop the ISO a bit and with the already fast shutter speed it proved a reliable shooter. There's a good deal of noise though, which swamps the fine detail even at the reduced 8MP resolution of Superior Auto.</paragraph>
+			<paragraph>The relatively strong LED flash of the Samsung Galaxy S5 managed to improve reliability and shutter speed went up to 1/30s (matching the Xperia's), which reduced issues with camera shake blur. The lower ISO also helped reign in the noise but the flash threw the white balance off.</paragraph>
+			<paragraph>The LG G3 once again leaned on its OIS and kept shutter speed slow. That's okay for this static scene but for moving objects or people it's going to be a problem. The noise reduction came on way too strong though and our plush subject looks unnaturally smooth. The white balance turned to the bluer side of things.</paragraph>
+			<paragraph>That said, the laser autofocus (which uses a dedicated IR emitter to help the camera focus in low light) and all photos were in focus, even ones in the dark with the flash turned off.</paragraph>
+			<paragraph>The Oppo Find 7 fumbled badly here. Its flash was of little help increasing shutter speed or lowering ISO and the final results are a noisy mess. The Find 7 also couldn't settle on exposure and some photos turned out too bright, others too dark.</paragraph>
+			<paragraph>Camera samples</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video camera specs and features<subsectionTitle>
+			<paragraph>Most flagships of 2014 have moved to 2160p video capture. The Nokia Lumia 1020 and Apple iPhone 5s hail from last year and are limited to 1080p.</paragraph>
+			<paragraph>The Nokia Lumia 1020 doesn't have the hardware required to record 2160p videos but the whopping big sensor enables lossless digital zoom - up to 4x for 1080p footage and 6x for 720p. Additional options let it record 24fps and 25fps video for more cinematic feel. There are two mics with proprietary Rich Audio Recoding with an optional Audio Bass Filter, which will improve sound quality if you record live concerts.</paragraph>
+			<paragraph>The optical image stabilization makes videos look better subjectively - without it, handheld videos often become shaky, like the kind we associate with cheap camcorders.</paragraph>
+			<paragraph>Sony has also added two exclusive video streaming features to the Xperia Z2 - it can stream live video to Facebook and YouTube. With more and more people becoming video content creators this can be a must-have feature. Vine (the social network based on 6-second videos) is built right into the camera.</paragraph>
+			<paragraph>The Samsung Galaxy S5 also manages up to 4x digital zoom at 1080p video and the results look very good. A neat trick is dual shot, which records videos with both cameras simultaneously. This mode is available in the still camera as well.</paragraph>
+			<paragraph>The LG G3 has relatively few extras - the slow-motion detailed in the table above and dual-capture similar to the Samsung.</paragraph>
+			<paragraph>The Apple iPhone 5s has the fewest video camera features - a slow-motion mode and digital video stabilization but nothing special.</paragraph>
+			<paragraph>The Oppo Find 7 is right there with it - the Oppo team spend much more time developing the still camera than the video camera.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality, daylight<subsectionTitle>
+			<paragraph>We test the video quality in two consecutive test. First, in good light, and second, in low light. We shoot both 2160p and 1080p videos. Two of our contestants can't do 2160p (the iPhone and the Lumia), but 1080p videos are still important in their own right - many don't have UHD TVs or other screens capable of displaying 2160p footage, plus it's often an unnecessary strain on storage and bandwidth.</paragraph>
+			<paragraph>Before we start, here's a table showing the total video bitrate for each phone plus details on the audio.</paragraph>
+			<paragraph>2160p video comparison</paragraph>
+			<paragraph>We'll begin with 2160p videos as that's a premium feature on the newfangled flagships. For comparison purposes we upscaled 1080p video from the iPhone 5s and Lumia 1020 to 2160p.</paragraph>
+			<paragraph>The Samsung Galaxy S5 shoots at the second-highest bitrate at 2160p and it's well-worth it - the image is very sharp with tons of detail and no noise. Keep in mind that the Galaxy S5 has one of the narrowest fields of view of the bunch, which makes a difference in fine detail. As usual the processing is visible in the boosted colors, increased colors and sharpening halos. The continuous autofocus triggers a bit too often (at least it's fast).</paragraph>
+			<paragraph>The Oppo Find 7 has the third highest bitrate and it has the level of detail to show for it. The image is not quite as sharp as on the Galaxy S5 (even though the FoV is nearly the same). There are some processing artifacts noticeable at 100% but it's a lot more restrained than the Galaxy S5.</paragraph>
+			<paragraph>The Sony Xperia Z2 has a relatively wide FoV but it managed to capture a good level of detail. Not enough to justify recording at 55Mbps (the highest bitrate of the six). The post-processing looks similar to that of still images, softer than a large 1/2.3" sensor should produce. The colors are bit muted too. Sony needs to seriously work on the continuous autofocus though, it's way too eager.</paragraph>
+			<paragraph>The LG G3 video is softer than that of the Xperia (quite noticeable in the foliage, still this is at half the bitrate). Jaggies on the diagonal white line reveal the 2160p resolution isn't used to its full potential. Post-processing is not as heavy as on its Korean neighbor.</paragraph>
+			<paragraph>The Nokia Lumia 1020 has the widest FoV here and 1080p resolution isn't enough to cover the whole frame with acceptable detail (compared to the 2160p shooters). Colors and contrast are as boosted as on the Galaxy S5.</paragraph>
+			<paragraph>The narrower FoV of the Apple iPhone 5s helped it capture more detail but the camera made a mess of colors. That said, the dynamic range of the videos is the best of the bunch, beating even the Lumia.</paragraph>
+			<paragraph>Daylight 2160p leaderboard</paragraph>
+			<paragraph>2160p video samples</paragraph>
+			<paragraph>1080p video comparison</paragraph>
+			<paragraph>Now that the resolution has been put on equal footing, the Samsung Galaxy S5 maintains its advantage in sharpness. Part of that is the heavier sharpening applied, but the advantage in resolving power that we saw at 2160p also plays a role.</paragraph>
+			<paragraph>The Oppo Find 7 used a very low bitrate - less than half what the others use but it worked out quite well. The level of detail is lower than what the Galaxy manages but the image is nearly as sharp as that of the LG G3 without looking too processed. Find 7 videos also take 60% less storage than LG G3 videos.</paragraph>
+			<paragraph>The LG G3 video appears a tad sharper but the oversharpening halos reveal how that was done. We docked a few points of the G3 due to its narrow dynamic range - the narrowest of these six samples. This lead to a lot of underexposed shadows.</paragraph>
+			<paragraph>The Nokia Lumia 1020 videos seem to have less detail due to the wider FoV, but they are actually on the level in terms of sharpness. Our beef with the 1020 is again the over-the-top image saturation (a conscious choice by Nokia).</paragraph>
+			<paragraph>1080p videos from the Sony Xperia Z2 use less than a third of the bandwidth of 2160p videos. The image isn't the sharpest but the dynamic range is good and the colors look good if a bit under-saturated.</paragraph>
+			<paragraph>The Apple iPhone 5s videos look quite good in the 1080p comparison but the colors (red most of all) are off. The dynamic range looks pretty good and the level of detail is quite good (a relatively narrow FoV helps a lot here).</paragraph>
+			<paragraph>Daylight 1080p leaderboard</paragraph>
+			<paragraph>1080p video samples</paragraph>
+			<paragraph>Audio track quality</paragraph>
+			<paragraph>In terms of audio quality the Nokia Lumia 1020 is beyond reproach. No wonder Nokia spends so much time beating the "our audio recording rocks!" drum. The phone has high-quality mics and records at twice the bitrate of other phones. It produced the most realistic sound and managed to cut the noise of the wind down quite well.</paragraph>
+			<paragraph>The LG G3, Sony Xperia Z2 and Samsung Galaxy S5 all record at a lower, similar bitrates (the S5 bitrate is a bit lower). In terms of actual audio quality, however, they sound the same.</paragraph>
+			<paragraph>The Apple iPhone 5s is the lone holdout for stereo audio - it has three mics on its body but it only captures a single audio channel. The low bitrate doesn't help either.</paragraph>
+			<paragraph>The Oppo Find 7 records stereo audio at just 96Kbps (in both 1080p and 2160p videos). That kind of bitrate would be enough for stereo sound. It actually sounds worse than the iPhone (there's constant audible digital noise).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video quality, low light<subsectionTitle>
+			<paragraph>Next up is our low light video test. For the low-light videos we will follow the exact same test procedure as in the previous chapter - we start with 2160p footage and upscale 1080p video for those that can't shoot 2160p.</paragraph>
+			<paragraph>2160p video comparison</paragraph>
+			<paragraph>The Oppo Find 7 improves on its good performance in the daylight stage of this race and managed to preserve a lot of detail. There is some noise but not too much and the noise reduction didn't smear out the detail.</paragraph>
+			<paragraph>The Samsung Galaxy S5 low light image quality wasn't spectacular but but its 2160p video is noticeably better. There isn't quite as much detail as in the Find 7 (the low contrast doesn't help here) but noise levels are low.</paragraph>
+			<paragraph>The LG G3 post-processing brightened up the image but that lead to some blown out colors and more visible artifacts. Stronger noise obscures some of the detail.</paragraph>
+			<paragraph>The Nokia Lumia 1020 may only shoot at 1080p but its large sensor produced great quality video. Even after the upscale videos have more detail than what the Sony Xperia Z2 managed to resolve.</paragraph>
+			<paragraph>The Apple iPhone 5s did a bang up job in still photography and videos in the dark look very good. Again, the raw resolution goes in favor of the Sony but judging the actual capture detail pushes things in favor of the iPhone.</paragraph>
+			<paragraph>This leaves the Sony Xperia Z2 as the disappointment of the bunch. It has the second biggest sensor here (second in resolution too), but in the dark the phone just isn't capable of making full use of 2160p resolution.</paragraph>
+			<paragraph>Low-light 2160p leaderboard</paragraph>
+			<paragraph>Video compare tool</paragraph>
+			<paragraph>  The six contestants in our video compare tool</paragraph>
+			<paragraph>1080p video comparison</paragraph>
+			<paragraph>Moving on to the 1080p comparison, with the resolution disadvantage out of the way, the Nokia Lumia 1020 shows what it's truly capable of. The noise reduction leaves plenty of detailed unharmed and there are few visible artifacts.</paragraph>
+			<paragraph>Surprisingly, the other 1080p shooter, the Apple iPhone 5s, also leaps ahead and produces video that's only a hair softer than the Nokia's but remains class leading nonetheless.</paragraph>
+			<paragraph>The Samsung Galaxy S5 videos have murky colors but it keeps bright areas in check and there's a tiny bit more detail in the videos than its neighbor manages.</paragraph>
+			<paragraph>The LG G3 still has a tendency to blow out some the brighter areas, though the colors (while oversaturated) make the video look just a bit better.</paragraph>
+			<paragraph>Sony Xperia Z2 videos are close in terms of detail but there are some digital artifacts visible, which degrade the image quality.</paragraph>
+			<paragraph>The low bitrate of Oppo Find 7 videos worked out for it very well in broad daylight but in a dark room the compression takes away too much detail.</paragraph>
+			<paragraph>Low-light 1080p leaderboard</paragraph>
+			<paragraph>Video compare tool</paragraph>
+			<paragraph>  The six contestants in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Still photography and video recording are different enough to warrant separate awards so that's how we've approached the final positioning of the phones. If you feel we've judged some too harshly, keep in mind those negatives stand out only against the very best smartphone cameras on the market.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Nokia Lumia 1020 still has it - it performs amazing when it comes to still photography, regardless of the lighting conditions. Even shooting against the sun works out well with the sensor's high dynamic range. Xenon flash, OIS and lossless digital zoom is a combo no other phone offers (unless we're talking the Galaxy K zoom hybrid). Just make sure it has a good focus lock before fully pressing that shutter key - we did find it struggle in the dark.</paragraph>
+			<paragraph>The Lumia 1020 doesn't do too hot for videos, largely limited by its hardware, which can't handle 60fps videos or 2160p. The large sensor gave it a push in low-light video capture, where it scored on top of the scoreboard, not to mention OIS, which always comes in handy in video recording.</paragraph>
+			<paragraph> Nokia Lumia 1020</paragraph>
+			<paragraph>The Samsung Galaxy S5 has to settle for second place in still photography - it consistently performed great, but not quite enough to topple the Lumia, especially with the lights out. Having a much sleeker body is a win in its own right though. The phone proved solid performer in the HDR and panorama tests.</paragraph>
+			<paragraph>The Galaxy S5 is our video recording champ - it produced the best 2160p video outside and surprisingly did very well when shooting videos in the dark (unlike when shooting stills). A solid still camera and great video camera make the Samsung the top all-rounder of the group.</paragraph>
+			<paragraph> Samsung Galaxy S5</paragraph>
+			<paragraph>The LG G3 was a consistent with its still photography but its performance was average compared to the rest of the pack. It produced the best-in-show panorama and had reliable focus in poor lighting conditions thanks to the laser focus feature. The dual-tone flash didn't turn out so hot as flash photos didn't have the best color balance.</paragraph>
+			<paragraph>The G3 videos were similarly good but not great. Having OIS is a boon but it doesn't make up for image quality.</paragraph>
+			<paragraph> LG G3</paragraph>
+			<paragraph>The Oppo Find 7 still camera is so similar to the LG G3 that it's a matter of personal preference which of the two is better. Its photos undergo less processing, which will appeal to some, while the LG G3 photos are processed to appear punchier with pumped up contrast and sharpening. The Find 7 bombed in the HDR test but did poorly in the dark.</paragraph>
+			<paragraph>It certainly saved face in the video department, placing ahead of the LG G3 in both good and low lighting. The Find 7 is a bit light on extra video features, but it came close to the Galaxy S5. We can't excuse the poor audio though.</paragraph>
+			<paragraph> Oppo Find 7</paragraph>
+			<paragraph>The Sony Xperia Z2 didn't live up to its 20.7MP promise and Sony's experience in making quality digital cameras. It took some good stills in the dark, but outside in the sun it's nothing to write home about. The HDR and panorama features were okay, but nothing special.</paragraph>
+			<paragraph>The Sony Xperia Z2 felt better when recording video (when there's enough light) and the unique live-streaming features will earn it some brownie points with a specific crowd. Still, there's a lot of work ahead of Sony.</paragraph>
+			<paragraph> Sony Xperia Z2</paragraph>
+			<paragraph>The Apple iPhone 5s places last but it has nothing to be ashamed of - it performed surprisingly well in the dark and produced some seriously high quality panoramas. HDR photos came out quite natural but an 8MP sensor doesn't cut it among the 2014 flagship gang.</paragraph>
+			<paragraph>In the video tests its 1080p resolution held it back and it doesn't have any tricks to lean on like the Xperia or OIS like the Lumia. The audio capture needs work too.</paragraph>
+			<paragraph> Apple iPhone 5s</paragraph>
+			<paragraph>In the Nokia camp looks have overcome camera specs and the newly released flagship, the Lumia 930, omits the camera hump of the 808 PureView and Lumia 1020 and the overwhelming camera specs that go with it.</paragraph>
+			<paragraph>There's a very good chance that by the next camera shootout it will be an Android on top of still photography, they already won the video race as a side effect of beefy chipsets and love of big numbers.</paragraph>
+			<paragraph>This means all eyes are on Apple - the iPhone needs a big jump forward in the camera department (both still and video) or it will fall even further behind Android and Nokia. Apple certainly has the cash and engineering talent to pull it off though.</paragraph>
+			<paragraph>As for Androids, it's no surprise that their makers are putting unique features to stand out of the crowd. The love of big numbers was bound to lead to excellent cameras eventually and some have pulled it off - Samsung has the best rounded camera, while the rest ran into some stumbling blocks.</paragraph>
+		</subsection>
+	</page>
+</review>

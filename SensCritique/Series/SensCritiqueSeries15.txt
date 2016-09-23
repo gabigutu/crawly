@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Horace and Pete</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/serie/Horace_and_Pete/19305258</link>
+	<generalScore>7.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>44</numberOfVoters>
+		<numberOfVoters>87</numberOfVoters>
+		<numberOfVoters>51</numberOfVoters>
+		<numberOfVoters>16</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Buscemi au royaume des solitaires hors du temps</title>
+		<author>Clode</author>
+		<date>2016-02-05</date>
+		<score>0.8</score>
+		<content>C'est bien simple, Buscemi, et bien il suffit que je le vois, et puis je suis content. Même quand il ressemble à ce vieil homme étrange et un peu effrayant qui vivait à côté de chez ton grand-père quand tu avais 8 ans. Ce vieil homme étrange et un peu effrayant qui ressemblait à un vieux meuble qu'on aurait laissé tout seul trop longtemps contre le mur, qui aurait perdu de son bel éclat de vif bois fort et fier et qui serait maintenant tout pale, tout triste et tout recouvert de poussière, là-bas, tout seul contre son mur. Ce vieil homme étrange et un peu effrayant qui sentait un peu comme la pièce dans laquelle on aurait laisser tout seul trop longtemps ce vieux meuble contre son mur. Une pièce autrefois belle et vaste et lumineuse et qui sentait bon le feu de cheminé l'hiver et le parfum des fleurs du jardin qui s'infiltrait par la fenêtre le printemps venu, et qui débordait de vie et qui serait maintenant morne et vide et triste et qui dégoulinerait de cette odeur de ce trop-plein d'absence de vie qui aurait foutu le camp depuis déjà longtemps, pour la laisser là, toute seul, avec son meuble tout seul contre le mur et sa peinture qui s'écaille et son plafond avec ses grosses traces d'humidité et ses petites gouttes d'eau qui s'écouleraient pour tomber sur le carrelage, amorties par un épais duvet de poussière et puis même ses araignées qui pendouilleraient au bout de leur toiles. Ce vieil homme étrange et un peu effrayant qui était vouté comme le tronc rachitique qui semblait sur le point de se casser en deux à chaque petite bourrasque de vent mais qui rester planter là, toujours, au beau milieu de ce vieux jardins devant cette triste maison avec sa pièce qui aurait perdu sa vie en route et son meuble, là, tout seul contre son mur. Même que quand tu y aller, chez ton grand père, et que vous le croisiez, le vieil homme étrange et un peu effrayant, tu te méfiais et il te faisait un peu peur, alors, tu marchais dans les jambes de ta mère et tu le voyais apparaître et disparaître dans l'entrebâillement de ses pas irréguliers. Et bien, Buscemi, même quand il ressemble à ce vieil homme étrange et un peu effrayant, il suffit que je le vois, et puis je suis content. Parce que Buscemi, il le joue tellement bien, ce vieil homme étrange et un peu effrayant, que tu vois le petit enfant plein de doutes et l'adolescent sensible et l'homme fragile qu'il a été et la vie qu'il a pu avoir et qu'il a laissé quelque part derrière lui il y a quelques années déjà, pour être là, dans ce bar perdu en dehors du temps, regardant droit devant lui, un peu embarrassé et un peu triste aussi quand Horace embrasse sa copine ou quand il parle à sa fille, même si c'est lui qui est venu s'installer à côté d'eux. Parce que Buscemi, tu le vois arriver pour se déhancher en passant le balais avec sa mèche sur son front maintenant dégarni et ses épaules fragiles et son dos voûté et ses vêtements couleurs de pierre tombale et son teint maussade et ses grands yeux bleus perdu dans le vide entre les cernes et les rides et tu entends sa voix haut perchée et son débit de sprinteur à l’arrivée d’une étape à Montauban et alors tu comprends ce vieil homme étrange et un peu effrayant qui a pas eu une vie facile et qui a juste était seul un peu trop longtemps, comme la table contre son mur. Alors ce vieil homme étrange et un peu effrayant qui vivait à côté de chez ton grand-père quand tu avais 8 ans, et bien tu aimerais avoir 8 ans à nouveau pour pouvoir quitter les jambes de ta mère et aller le prendre dans tes bras, par ce que tous ce qu'il voulait, s'était un peu de compagnie, s’était ne plus être seul, s’était sentir un peu de vie à côté de lui. Un peu comme tous ceux qui entre s'asseoir au bar du double centenaire Horace and Pete, pour rencontrer les mêmes personnes que tous les jours, installés à côté d'eux un verre à la main, pour avoir un peu de compagnie, pour ne pas être seul, pour sentir un peu de vie à côté d'eux, parce que personne ne les attends ailleurs.</content>
+	</review>
+	<review>
+		<title>Horace and Pete</title>
+		<author>vincentB</author>
+		<date>2016-05-09</date>
+		<score>0.8</score>
+		<content>Ca commençait très bien mais bon le mélo à la fin de la saison est bien relou à force et fait un peu perdre de la force simple et humaine de cette série.</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,363 @@
+<review>
+	<title>Microsoft Surface review</title>
+	<description>Ripples of change</description>
+	<link>http://www.gsmarena.com/microsoft_surface-review-852.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>10.6" ClearType HD LCD touchscreen, 1366 x 768 pixels</paragraph>
+			<paragraph>Dual-band Wi-Fi 802.11 a/b/g/n connectivity with Wi-Fi Direct</paragraph>
+			<paragraph>Quad-core 1.3 GHz Cortex-A9 chipset</paragraph>
+			<paragraph>2 GB of RAM</paragraph>
+			<paragraph>ULP GeForce GPU</paragraph>
+			<paragraph>Windows 8 RT with SkyDrive support and activation</paragraph>
+			<paragraph>Standard USB port, USB host</paragraph>
+			<paragraph>32/64GB of inbuilt storage</paragraph>
+			<paragraph>Micro SDSX port, up to 64GB supported</paragraph>
+			<paragraph>Bluetooth 4.0</paragraph>
+			<paragraph>31.5 Wh battery</paragraph>
+			<paragraph>Accelerometer, compass and three-axis gyro-sensor</paragraph>
+			<paragraph>Front and rear-facing 1.2MP auto-focus cameras</paragraph>
+			<paragraph>720p@30fps video for both cameras</paragraph>
+			<paragraph>HD video out</paragraph>
+			<paragraph>Weight of 680 grams (1.5 lb)</paragraph>
+			<paragraph>VaporMg casing feels extra solid and pleasing to the touch</paragraph>
+			<paragraph>Built-in kickstand</paragraph>
+			<paragraph>Two kinds of keyboard dock/screen cover: Touch Cover is optional equipment in 32GB models, standard in 64GB; Type Cover sold separately</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>Windows RT works with Windows Store apps only</paragraph>
+			<paragraph>Heavier than most 10-inch tablets</paragraph>
+			<paragraph>Quite awkward to use in portrait</paragraph>
+			<paragraph>Proprietary connector for charging</paragraph>
+			<paragraph>Touch Cover build materials are extremely poor and the keyboard does not make for a good typing experience</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Having powered anything from personal media players to enterprise servers, Redmond once again has a little something to call its own. It must wish it's bigger than the Xbox and sure hopes no one remembers the Kin phone.</paragraph>
+			<paragraph>The Microsoft Surface will have to be something special to be able to compete with both droids and iPads, as well as tablets made by Redmond's partner-OEMs. It's crunch time for Microsoft and nothing is off-limits in terms of tactics. Do as Apple does in tablets, and do as Google does in phones. Objective: put pressure on both, in both games.</paragraph>
+			<paragraph>A smart keyboard dock lets the Surface double as a laptop - that will cost an extra ? 100, unless you get the 64GB version, which has it in the bundle.</paragraph>
+			<paragraph>Anyway, is it a glorified tablet, or a dumbed-down laptop? Join as we explore the Surface from its magnesium metal alloy (called VaporMg), to the quad-core Tegra 3 processor powering its Modern UI. But first, let's take a look at the Surface's main features and potential disadvantages:</paragraph>
+			<paragraph>What pushes the Surface further into the realm of tablets-and out of the realm of laptops-is its ARM-based Tegra 3 chipset. The same type of processor is ticking inside millions of smartphones and other handheld devices. Microsoft was forced to create an edition of Windows specifically designed to handle this type of architecture. Enter Windows RT.</paragraph>
+			<paragraph>Windows RT comes with some of the benefits of a full-featured Windows environment - a Desktop mode, which should look instantly familiar to Windows users, as well a version of Microsoft Office which matches its Windows 8 counterpart. If you're familiar with Windows 8, the redesigned Start interface shouldn't be groundbreaking either.</paragraph>
+			<paragraph>However, this can be misleading, as Windows RT is designed to run applications from the Windows Store only, and as such cannot run legacy x86 applications designed for full-featured versions of Windows. So, you won't be able to install any of the programs you typically use on a Windows desktop or laptop. Nevertheless, while its uses as a traditional Windows PC may be limited, that doesn't necessarily mean there's no room for it in the world of tablets.</paragraph>
+			<paragraph>The Surface has its share of advantages over most other tablets, the Office package and seamless compatibility with your home or office PC being among the highlights. It has expandable storage (which not all tablets guarantee), and there's the keyboard dock/cover, too.</paragraph>
+			<paragraph>We'll cover all of that and more on the next page, where we'll take a look at the retail package, build quality, and design of the Microsoft Surface.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Retail package has no surprises<subsectionTitle>
+			<paragraph>If your retail package of the Microsoft Surface includes a Touch Cover, it will come in its own box alongside the Surface itself, both of which are held in a large, box-like sleeve.</paragraph>
+			<paragraph>All you really get as far as extras go is some documentation and an A/C adapter with a proprietary connector for charging.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Microsoft went to great lengths to hype up their proprietary magnesium metal alloy, VaporMg, back in June when its upcoming Windows 8 tablets were unveiled. VaporMg was supposed to be a game-changer by being significantly lighter and at the same times stronger than aluminum.</paragraph>
+			<paragraph>Microsoft has since dropped the VaporMg chassis in favor of a VaporMg surface coating. Whether it's due to poor manufacturer supply, weight issues, or cost, we won't be seeing a full VaporMg chassis on this version Surface.</paragraph>
+			<paragraph>However, we find the coating to be very pleasing to the touch, and resistant (but not immune) to fingerprints, too. It's a major lift for the overall build quality, which is extra solid.</paragraph>
+			<paragraph>The display of the Surface comes in at 10.6 inches and has a resolution of 1366 x 768 pixels. There's no special display tech to talk about like AMOLED or IPS, but the screen looks good and the resolution is sufficient to display everything with good sharpness.</paragraph>
+			<paragraph>The Surface display can't match the density of the iPad Retina, but it turned out to have better contrast than the Apple-made slate in our test.</paragraph>
+			<paragraph>We also took a snapshot of the display matrix:</paragraph>
+			<paragraph> The Microsoft Surface display matrix</paragraph>
+			<paragraph>Above the display there's the front-facing 1.2MP shooter capable of 720p video next to an LED indicator light and a brightness sensor.</paragraph>
+			<paragraph>The included kickstand is also a welcome addition, and despite not being adjustable, always seems to be the right angle for what you're doing. The tab which pops out is thin but doesn't bend when pressure is applied, and the opening mechanism looks like it will last quite a while without issue. When closed, the kickstand sits flush against the back of the device.</paragraph>
+			<paragraph>The bottom of the Surface features the dock area which is connected by some pogo pins.</paragraph>
+			<paragraph>On the top you'll find the power button towards the left side, as well as a pair of miniature grilles that may be speakers.</paragraph>
+			<paragraph>The right side of the device houses most of the connectivity features, with the proprietary power connector, the USB and microHDMI ports, and a speaker grille. The microSD card slot is also located on this side, under the kickstand cover (not pictured).</paragraph>
+			<paragraph>The left side has a volume rocker and a 3.5mm audio port, alongside another speaker grille near the top.</paragraph>
+			<paragraph>The back of the device is bare save for the 1.2MP camera and the kickstand. A nifty little feature of the camera is that it's angled slightly upwards, so that it shoots level with the ground when resting on the kickstand.</paragraph>
+			<paragraph>In-hand, the 680g weight of the Surface feels hefty but not overly so. When used as a tablet, the bezel on either side of the screen gives ample room for holding the device, and if you've flipped the Touch Cover backwards, it provides good grip to prevent slippage.</paragraph>
+			<paragraph>And by the way, under tablet use we mostly mean landscape - the tall device feels a bit awkward in portrait. Plenty of blank space above and below the tiles on the homescreen doesn't look too good either.</paragraph>
+			<paragraph>Overall the VaporMg surface coating, coupled with the design aesthetic, makes the Surface feel like a device worth its price tag. The Touch Cover is perhaps the most poorly-made aspect of the entire package, and the non-physical keys are a drag to work with. But ultimately it's only a huge detriment if you plan on doing extensive typing, in which case the Type Cover will probably provide an acceptable alternative.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Touch Cover could've been better<subsectionTitle>
+			<paragraph>We have mixed feelings regarding the Touch Cover. It features a full keyboard layout for typing when the kickstand is out, and acts as a screen protector when closed. The typing surface itself is made out of felt-like material, with a subtle rubbery feel to it. It's superbly slip-free, and is lightweight and pleasing enough to the touch.</paragraph>
+			<paragraph>The cover docks with the bottom of the device using a row of magnets, which let you easily snap it to the bottom of the Surface. The magnets are quite powerful and make hitting the dock area a simple task, and secure the cover to the Surface in such a way as to be hard to remove.</paragraph>
+			<paragraph>The bottom side of the cover looks like it's made out of carpet recycled from Microsoft HQ. It may've made nice flooring but we're less than impressed with how it looks on the tablet. The material also appears porous enough (especially the bottom) so it might get stains over time.</paragraph>
+			<paragraph>Typing on the Touch Cover takes a lot of getting used to, especially if you're used to typing on physical keys. The keys themselves provide no resistive feedback, so it's hard to know when you've pressed them.</paragraph>
+			<paragraph>The capacitive touchpad supports two-finger scrolling, but we couldn't detect any others that were recognized by the OS. Keep in mind that scrolling on it works like on a touchscreen rather than a regular touchpad. This means that when you scroll up the screen moves down, rather than in the same direction. We found this to be a little counter-intuitive at first, but we got used to it eventually.</paragraph>
+			<paragraph>You could say that having an integrated keyboard on what is essentially a cover is a bonus, but considering this bonus could run you an extra $100 depending on the variant of Surface you get, it could have been done better. As an alternative, Microsoft offers a Type Cover with physical keys which may address at least some of the issues we had with the Touch Cover.</paragraph>
+			<paragraph>Yet, the Touch Cover has its strong points in the slip-free surface of the keyboard and the fact that typing involves zero noise.</paragraph>
+			<paragraph>Up next, we'll take a look at the software behind the Microsoft Surface.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows RT is where tablet and laptop meet<subsectionTitle>
+			<paragraph>Windows RT is Microsoft's ARM-based version of the platform and is designed to run on the much less capable mobile chipsets, instead of the x86 Intel and AMD processors.</paragraph>
+			<paragraph>Windows RT relies only on the Windows Store for apps and you can't install legacy software. None of your Windows Vista/7/8 apps will be available on Windows RT, unless their developers release a compatible version.</paragraph>
+			<paragraph>The user interface has been completely revamped to become more touch-friendly and you can easily feel the heavy Windows Phone influence. Once you've unlocked the Surface you're greeted by the Modern UI (or Start), previously called Metro.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Microsoft has put a lot of effort into optimizing Windows for touch navigation and the results are quite impressive. There is a wealth of gestures developed so that the UI can be browsed easily and intuitively. Once you get used to them you will appreciate the kind of difference they make.</paragraph>
+			<paragraph>The Start menu is comprised of live tiles just like on Windows Phone. The difference is that the live tile grid is scrollable horizontally rather than vertically, which makes sense given the default orientation of the screen.</paragraph>
+			<paragraph>A pinch gesture on the screen shrinks the grid of tiles, which is particularly handy if you've got a lot of tiles and you are starting to get lost.</paragraph>
+			<paragraph>A swipe from the top or bottom of the main screen reveals the context menu. This gesture is enabled in every app, as well as in Start.</paragraph>
+			<paragraph>To select a tile you need to do a vertical swipe on it - mass selection for unpinning and uninstalling is also available. This works on all sorts of files in Start - pictures, documents, etc. Live tiles can be resized just like in Windows Phone. Some tiles are nothing more than static icons even after you make them bigger but others (like Calendar) help bring more information right on your homescreen.</paragraph>
+			<paragraph>The context menu holds the All apps option, which works just as expected - it takes you to a list of all the apps you have installed on you Surface.</paragraph>
+			<paragraph>While in All apps mode, a pinch gesture reveals an alphabetical grid which lets you quickly search the list of apps.</paragraph>
+			<paragraph>Switching between apps is done by swiping from the left edge of the screen towards the center. There's an alternate way of doing this - a short swipe from the left edge of the screen and then quickly back displays a vertical thumbnail grid of the recent apps. If you're using a conventional keyboard with your Windows RT, a simple Alt+Tab gets the job done just like it has for ages now.</paragraph>
+			<paragraph>Windows RT offers a split screen mode too. If you drag another app into view from the left of the screen and hold it over your active app the two will enter split screen mode. The screen isn't divided equally though - one of the apps always gets three-quarters of the screen, leaving a only small portion for the second app. You are free to change which of the two apps gets the lion share.</paragraph>
+			<paragraph>You can also change apps in split screen view, in what's called Snap. Only the app in the bigger view can be changed, however, which is a bit odd. If you want to change the secondary app you have to upsize it first and then launch another app in its place.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Charms menu<subsectionTitle>
+			<paragraph>The Charms menu is available across the OS. It's accessible via a swipe from the right edge of the screen and gives access to search, share, Start, devices and settings.</paragraph>
+			<paragraph>Devices detects every device in a Homegroup - if you're using one that is. You can send content to these devices through this menu. Share does the same, but using different apps to share depending on the type of content.</paragraph>
+			<paragraph>The settings menu gives you quick options for Wireless, sound, screen, notifications, power and keyboard.</paragraph>
+			<paragraph>There are sliders to adjust the brightness and volume of the device.</paragraph>
+			<paragraph>You can also select which keyboard to use and choose to restart, shut down or sleep using the quick toggles.</paragraph>
+			<paragraph>There's also a shortcut to the detailed settings menu here. From there you can personalize the look of Windows RT. You can choose a lockscreen wallpaper, select apps that can run in the background and show notifications or detailed statuses on the lockscreen - for instance the Calendar will display your upcoming events.</paragraph>
+			<paragraph>The next option is the Start screen. You can choose a color scheme and background. There are many options in every color you can think of but you can't use your own picture as a wallpaper - you have to select one of the preinstalled ones.</paragraph>
+			<paragraph>The last option available lets you change your account photo.</paragraph>
+			<paragraph>You can add multiple users on Windows RT, just like you can in Windows 8. Each user can have their own tile grid, apps, preferences, etc. If you have more than one Windows 8 or RT device you can enable settings sync between them.</paragraph>
+			<paragraph>Notifications can be disabled on the lockscreen altogether and you can switch off the sounds. You can also configure which apps can push notifications to your lockscreen. However you cannot control the way notifications are presented, only switch them on and off.</paragraph>
+			<paragraph>Users can choose which apps to use while searching. There's the handy option to delete the search history too. Sharing settings are very limited. Currently you can only share via Mail, People and SkyDrive.</paragraph>
+			<paragraph>The general settings handle time, spelling, screen automatic brightness, language options, reinstall Windows, etc. Devices handles the PCs and devices in a Wi-Fi homegroup. You can add new and connect with existing ones.</paragraph>
+			<paragraph>Windows RT lets you choose which settings you wish to sync with SkyDrive or disable the feature. Your personalizations, passwords, app, browser settings and more can be synced between your PCs.</paragraph>
+			<paragraph>Search is universal and displays results from the entire UI, including apps. For instance if you search for "Maps" you can see results in the Windows Store, Bing Search, Internet Explorer and find the local Bing Maps app. We like the way Microsoft has integrated search into the OS - it's easily accessible throughout the OS thanks to the Charms menu.</paragraph>
+			<paragraph>If you're using a keyboard, you can initiate a search by simply typing on either the Tile screen or in Desktop mode.</paragraph>
+			<paragraph>Modern UI is really fluid and responsive. All UI transitions and animations are buttery-smooth and we didn't notice any lags even though the quad-core Tegra 3 SoC isn't the fastest around anymore.</paragraph>
+			<paragraph>The only part of the user experience that gets the old-gen chipset exposed is app loading times. Some apps take incredibly long to start and you have to spend quite some time watching that dreaded loading animation.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Classic desktop is still here<subsectionTitle>
+			<paragraph>Windows RT might be a brand new OS, but it still lets you access the classical Desktop. At first glance the desktop view looks identical to what you get on Windows 7 - there's a taskbar with a notification area and lots of space to populate with icons and folders.</paragraph>
+			<paragraph>The start menu button is missing though - there's a shortcut to the modern UI in its place that appears when you hover the mouse cursor over the bottom left corner of the screen.</paragraph>
+			<paragraph>The most important feature of the classical desktop is that it allows you to access the file system on your Surface tablet. The internal storage and every additional drive connected to the Surface are displayed here.</paragraph>
+			<paragraph>Folders are organized just like on any computer running Windows 7 or 8. You can search folders, jump straight to the Desktop, Libraries, Homegroup, Computer and Network.</paragraph>
+			<paragraph>The Surface comes with a USB 2.0 port and a microSD card slot. Whenever a USB flash drive is plugged into the Surface you get prompted to choose what to do. Autoplay includes the option to import content and open the folder to view files.</paragraph>
+			<paragraph>The Surface had no trouble with any file we threw at it. DivX, XviD, avi, mp4, mov and MKV movies played without a hassle, all the way up to 1080p. Photos weren't a problem either and the same goes for PDFs and docs - none of those actually required us to install any kind of third party software.</paragraph>
+			<paragraph>While in Desktop mode, you are free to copy, cut and paste files all across the OS.</paragraph>
+			<paragraph>Although you cannot install legacy apps on Windows RT, like you would on any x86 or x64 version of Windows, there are a couple of familiar faces present that will make you feel at home.</paragraph>
+			<paragraph>Notepad, Calculator, Command prompt and Paint are all there.</paragraph>
+			<paragraph>And the same goes for the Control panel. You can uninstall apps, manage accounts, time and language options, view hardware information, etc.</paragraph>
+			<paragraph>Windows RT uses the new, slightly revamped, Task Manager. When launched, it shows you the currently running apps with the option to stop them or you could request to see more details. The latter displays a color-coded grid of your running apps with a per-app breakdown of CPU, RAM, Disk and Network usage.</paragraph>
+			<paragraph>There's a performance tab that lets you examine the CPU load over time as well as the load on RAM, storage, Bluetooth and Wi-Fi.</paragraph>
+			<paragraph>App History shows how much system resources your apps have used since the tablet has been active.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>People handles your contacts<subsectionTitle>
+			<paragraph>The phonebook on Windows RT is an oversized version of the one found in Windows Phone. It stores all of your contact information, rounded up from all of the accounts you sync with.</paragraph>
+			<paragraph>You can view contacts from your Microsoft account, Facebook, Hotmail, Outlook, LinkedIn, Twitter and Google.</paragraph>
+			<paragraph>The What's new tab also made the cross from Windows Phone - it shows new events from all contacts in social networks</paragraph>
+			<paragraph>The People app will even let you call contacts' phones from the Surface but it uses Skype to make the call, which requires a subscription or Skype credits.</paragraph>
+			<paragraph>When editing a contact, you can add multiple phone numbers and email addresses of different types (home, work, etc), a custom ringtone, a note or a variety of different fields (like birthday, website, office location and so on).</paragraph>
+			<paragraph>The Me card is your own profile. From here you can post status updates, set chat status, check into locations. You can also change your profile picture (only for Facebook and Live though, still not Twitter) and view your online albums.</paragraph>
+			<paragraph>The Microsoft Surface RT really failed to impress in our traditional loudspeaker test. Its volume levels were below average, suggesting you might need to stick to headphones in noisier environments.</paragraph>
+			<paragraph>You can find more details on the testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>instant Messaging<subsectionTitle>
+			<paragraph>The messenger app has a straightforward dual-screen interface. Conversations are organized into threads, which are shown on the right. The major portion of the screen is reserved for the actual conversations.</paragraph>
+			<paragraph>Instant messeging is fairly limited at this point. You can use Windows Live Messenger and Facebook chat. Skype integration is strangely still missing, but we guess it's on the way.</paragraph>
+			<paragraph>There's a large selection of emoticons you can use in the messenger app.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can change your status to either available or invisible, and invite friends straight from the app.</paragraph>
+			<paragraph>The virtual QWERTY keyboard is very comfortable to use and offers sound feedback. There's no haptic feedback and there's no way of enabling it.</paragraph>
+			<paragraph>The layout is tailored for the 16:9 aspect of the Surface screen. The keyboard comes in two modes - standard and split screen, which divides the QWERTY in two halves, docked on either side of the screen with a numpad in the middle.</paragraph>
+			<paragraph>There's handwriting recognition on Windows RT. It works really well and, given the ample screen size, is very comfortable to use even with fingers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Email isn't Outlook<subsectionTitle>
+			<paragraph>The email app on Windows RT is divided into three screen panes. On the left you get the folder view, in the middle is the conversation view, while the currently selected email is displayed on the right. Despite some similarities, this isn't Outlook.</paragraph>
+			<paragraph>You can set up any account, including Hotmail, Outlook, Google, Yahoo or your own. The app supports exchange activesync, IMAP and POP accounts.</paragraph>
+			<paragraph>You can mark individual messages and move them, mark as read or unread and even pin them to the start menu.</paragraph>
+			<paragraph>You can send emails from whichever account you choose.</paragraph>
+			<paragraph>The only other option here is to disable grouping messages by conversation.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photos is RT for gallery<subsectionTitle>
+			<paragraph>The Photos app handles, well, photos on Windows RT. It's very similar to what you'll find on Windows Phone. You can set a single photo as a background for the hub (it used to be the last photo viewed) or you can set it to shuffle different photos.</paragraph>
+			<paragraph>Photos is divided into the Pictures library, SkyDrive, Flickr and Devices where you'll see the public photos shared by the people in your Homegroup.</paragraph>
+			<paragraph>Pictures in an album will be displayed in a side-scrollable horizontal grid. By default, pictures are displayed in large thumbnails but you can opt for a more compressed grid by pinching to zoom out.</paragraph>
+			<paragraph>You can view photos in a slideshow or set the picture you're browsing as a lockscreen wallpaper, app tile or app background.</paragraph>
+			<paragraph>You can mark multiple photos in an album, which only lets you start a slideshow with them. You can't move or copy pictures from the Photos app.</paragraph>
+			<paragraph>The Microsoft Surface is a decent device for browsing photos - the 10.6" screen is big enough and offers good colors. However, the 16:9 aspect ratio of the screen doesn't get along too well with 4:3 photos, so you are getting lots of letterboxing or cropping.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Xbox handles music and videos<subsectionTitle>
+			<paragraph>The music and video players are now incorporated into the Xbox Live app.</paragraph>
+			<paragraph>The music library is part of the music store. My music is where all of the songs you've imported are. Note that you'll need to place your music in the Music folder in your Libraries in order for Xbox Music to list them in the app.</paragraph>
+			<paragraph>The store is divided into featured artists, all music and top music. The latter two are broken down into categories.</paragraph>
+			<paragraph>Xbox offers unlimited streaming via Music Pass. The service is free to try for 30 days, but you'll have to subscribe for 1 or 12 months, costing you either $9.99 or $99.90 after that.</paragraph>
+			<paragraph>Now playing shows the artist and name of the song along with an overview with Album name, Genre, etc. The interface offers animated album art, pause/play and skip controls. A swipe from the top or bottom edge of the screen reveals the music controls.</paragraph>
+			<paragraph>The Xbox Video store shows all your videos on the left, a spotlight section with featured movies and TV shows on the right.</paragraph>
+			<paragraph>The movie and television stores are a swipe to the left away. They are divided into new releases, featured, top selling, genres, studios and network.</paragraph>
+			<paragraph>Some movies and TV shows can be rented, all can be bought.</paragraph>
+			<paragraph>Watching videos on the Surface is a real pleasure, thanks to the kickstand and 10.6"screen. The interface is rather limited though, offering only a time scroll, play/pause and a back button.</paragraph>
+			<paragraph>The context menu offers repeat, previous, play/pause, next and play to, which lets you wirelessly stream the video to any DLNA-enabled device.</paragraph>
+			<paragraph>The Microsoft Surface managed to deliver a full 9 hours of video playback - an impressive feat.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video playback<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Xbox Games<subsectionTitle>
+			<paragraph>Xbox Games is the place to go for downloading games on the Surface. It carries over many features from the Xbox - from your avatar to your scores and achievements. The Spotlight feature is available too (it shows info on new stuff) and also Requests - which shows you game invites from your friends.</paragraph>
+			<paragraph>The store shows Windows games,divided into new releases and genres and an Xbox 360 store. It features games for Microsoft's gaming console and is separated into new releases, top selling, top rated and genres. Microsoft's idea is integrating Xbox into Music, Videos and Games making all of your devices - Windows 8, Windows RT and Xbox 360 - connected and offering the same content.</paragraph>
+			<paragraph>Each game has its own page complete with an overview and the option to buy.</paragraph>
+			<paragraph>Many games in the Windows game store can be tried for free before purchase. Not many major titles have made their way to the Windows Store yet but Angry Birds, Cut the Rope and a number of other popular games are there already.</paragraph>
+			<paragraph>Playing a game on the Surface is okay but far from the best in class. The Tegra 3 processor is far behind Apple's fourth-generation iPad or the Nexus 10 in terms of graphics performance. We did experience occasional lags, but that is partially due to the lack of optimizations too, we guess.</paragraph>
+			<paragraph>The kickstand proved very useful, though, as it gives you a place to hold the device comfortably without losing grip.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good audio quality<subsectionTitle>
+			<paragraph>It's the first time we are reviewing Microsoft-made hardware and we were curious how it will fare in our audio quality test. Luckily, the Surface did impressively well in the first part (when connected to an active external amplifier).</paragraph>
+			<paragraph>The tablet posted some excellent scores and garnished them with high volume levels for an excellent performance.</paragraph>
+			<paragraph>Things weren't quite as impressive when we plugged in a pair of headphones as the stereo crosstalk spiked and a significant amount of intermodulation distortion crept in. The volume remained pretty high, though and the other readings weren't significantly affected, so it's a decent result.</paragraph>
+			<paragraph>Check out the table and see for yourself.</paragraph>
+			<paragraph> Microsoft Surface frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>1.2 MP stills and 720p video<subsectionTitle>
+			<paragraph>The Microsoft Surface has two 1.2 MP cameras on board capable of 720p video capture. There's also an 800p option, which produces 1280 x 800 pixel videos.</paragraph>
+			<paragraph>The interface is basic to the point of being almost nonexistent. A tap anywhere on the screen is how you snap a photo or start recording video. You can switch between the front and back cameras, adjust picture size, enable a 3 second timer and toggle picture and video mode.</paragraph>
+			<paragraph>As you might expect, the Microsoft Surface wasn't made with photography in mind. The two cameras on board are merely there to serve as web cams for those Skype calls.</paragraph>
+			<paragraph>Images have a resolution of 1280 x 800 pixels and their quality is poor. The camera also appeared to have some lens issues, which we gather from the overly smudgy left side of the images.</paragraph>
+			<paragraph>The videos produced by the Microsoft Surface's back camera are atrocious. There's almost no resolved detail and colors are way off. The Surface at least records stereo sound during playback with a bitrate of 169 Kbps and 44 kHz sampling rate. The video bitrate is around 8 Kbps and the framerate nails down 30 fps.</paragraph>
+			<paragraph>We've uploaded a sample to YouTube, here it is.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here's an untouched 720p@30fps sample for direct download.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Two Internet Explorers take care of browsing<subsectionTitle>
+			<paragraph>Windows RT comes with two browsers preinstalled and offers no other options for now. Internet Explorer 10 handles the web and comes in two forms - one in the Modern UI with a touch-centric interface and the more conventional Desktop version, which is basically a port from Windows 8.</paragraph>
+			<paragraph>In Modern view, IE 10 runs in full screen by default. A swipe from the bottom or top edge of the screen reveals the opened tabs on top with a New Tab option, a new private tab and close all tabs. At the bottom is a back button, the unified search/URL bar and options to refresh, pin the current page to start, forward and an extra menu with find on page, view on desktop and "get app for this site" options.</paragraph>
+			<paragraph>Sharing pages can be done via the Charms menu. Pages can be shared over Mail or the People app, meaning Facebook or Twitter.</paragraph>
+			<paragraph>Interestingly, if you want to change preferences or settings you can only do so in desktop IE 10.</paragraph>
+			<paragraph>IE 10 in desktop mode features a unified URL and search bar, the opened tabs and three virtual buttons for home, bookmark and settings. Opening up a new tab prompts a thumbnail collection of recently opened tabs.</paragraph>
+			<paragraph>IE 10 is fully Flash-enabled. Watching videos inline is done exactly as you would on any desktop PC. We didn't experience any problems with videos at 720p and even 1080p.</paragraph>
+			<paragraph>Internet Options is a direct port from IE 10 on Windows 8. You can set a home page, choose the level of security, privacy, control the intern content connections, etc. There's an option to open links directly from Internet Explorer in Modern or Desktop mode.</paragraph>
+			<paragraph>Internet Explorer has come a long way and isn't the once clustered, slow browser many people used only for downloading Firefox and Chrome.</paragraph>
+			<paragraph>In our web browsing test the Microsoft Surface achieved almost 8 hours of constant browsing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browsing<subsectionTitle>
+			<paragraph>The Surface did a good job in the JavaScript benchmark SunSpider, finishing fourth in our rankings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Bing Maps will even navigate you<subsectionTitle>
+			<paragraph>The basic mapping solution in Windows RT is Bing Maps. They have driving (and pedestrian) navigation for free, but they're not a match for Nokia's bespoke applications for Windows Phone.</paragraph>
+			<paragraph>Maps come in two styles - aerial view and map view. In aerial, you get satellite imagery, which is pretty clear but there's no Bird's eye or Streetside options in the app, which we find particularly strange given their presence in the web version.</paragraph>
+			<paragraph>Local Scout didn't make its way to Windows RT - on Windows Phone it's the app that provides detailed information on places of interest around you - restaurants, shops, landmarks, etc.</paragraph>
+			<paragraph>While there is navigation on the Microsoft Surface, it lacks voice guidance and we can't see many people using the Surface as a navigation tool. Traffic information is available in selected areas too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Windows Store is the only place to go<subsectionTitle>
+			<paragraph>The Windows Store is the only place you can find apps for Windows RT. Currently, the number of available apps is over 13 thousand, which is really impressive considering that Windows RT has been out for just a few weeks now.</paragraph>
+			<paragraph>The Windows Store starts off with the Spotlight section, which shows featured apps with the addition of top free and new releases. Games are available through the Windows Store too. You can choose categories, sort by free, trial or both, or choose to sort apps by newest, noteworthy, rating and price (either lowest or highest).</paragraph>
+			<paragraph>Many of the popular apps are here but there are still important titles missing. Dropbox, Flipboard and even official Twitter and Facebook apps aren't available yet. The same goes for Chrome, Google Maps, Mozilla Firefox and others. There isn't a single torrent client available, either.</paragraph>
+			<paragraph>You can view all of your purchased apps under Your apps. However, the pane shows apps you've purchased, which aren't installed on your tablet - you won't get a list of the apps you've installed on it.</paragraph>
+			<paragraph>The update menu shows a grid of all your apps, which have received an update. You can see more information about the update and, naturally, apply it.</paragraph>
+			<paragraph>Installing an app is easy - just go to the app and hit Install. You can check the download progress and a new live tile is created in the start menu automatically. After an app has been installed you get a notification in the top right corner of the screen.</paragraph>
+			<paragraph>The Windows Store is still in its infancy and will hopefully gain traction over time. The start is good and it's up to Microsoft to keep developers interested. Of course, selling lots of hardware and creating a larger market is the main driving force.</paragraph>
+			<paragraph>We'd say that the most important apps that are missing are alternate browsers. Twitter and Facebook are usable through the OS itself (People, Messaging) and there are many third-party apps that cover the same functionality (MetroTwit, etc.).</paragraph>
+			<paragraph>But if not having Chrome, Firefox, etc. on your tablet is a deal-breaker for you we suggest waiting for things to pick up.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SkyDrive is RT's cloud of choice<subsectionTitle>
+			<paragraph>SkyDrive handles your personalization, app settings, passwords, language preferences, Office documents and much much more. You can upload just about anything to SkyDrive and thus have it available across all of your Windows-powered handheld devices or PCs.</paragraph>
+			<paragraph>The app displays different categories for the uploaded content - Documents, Mobile uploads, camera roll, etc.</paragraph>
+			<paragraph>Every newcomer to SkyDrive gets 7 GB of free cloud storage, which is more than you normally get with either Google Drive, Dropbox and iCloud.</paragraph>
+			<paragraph>You can refresh, upload new, create a folder or select multiple folders.</paragraph>
+			<paragraph>You can upload multiple items at once. The upload menu gives you quick access to the most common apps from which users will upload - Photos, Desktop, Computer, etc.</paragraph>
+			<paragraph>The Photos app shows photos from your SkyDrive account and Office has the feature to automatically save documents to the cloud.</paragraph>
+			<paragraph>Although Android has plenty of services to cover its cloud storing needs only iOS used to feature full restore from the cloud, including app settings, homescreen arrangement, etc. Windows RT is doing very well to provide users with this easy back up option in case things go south and you need to reset your device.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Office 2013 Home and Student Edition<subsectionTitle>
+			<paragraph>Office 2013 Home and Student ships with every Windows RT tablet and the Surface naturally has it on tap. This is a huge deal for a tablet and a major selling point as neither iOS or even Android can compare their offers to the full-fledged Office 2013 inside Windows RT.</paragraph>
+			<paragraph>Office 2013 Home and Student gives you Word, Excel, PowerPoint and OneNote. Microsoft decided not to optimize the interface of either app to suit the Modern UI and instead just ported the x86 versions to the ARM-ready platform.</paragraph>
+			<paragraph>We can't really blame them for doing so, as the office applications are bound to be used with a keyboard and a mouse/trackpad anyway. Plus, Office isn't the easiest software to understand, which means that a general design overhaul might've put off frequent users.</paragraph>
+			<paragraph>All the functionality is there and, if you mainly use your PC for document editing, Windows RT can easily pass as your daily driver. Whether your game is creating or editing documents, Windows RT has got you covered. There's an easy to follow step by step tutorial for each Office application in case you're new to it.</paragraph>
+			<paragraph>Word 2013 features the entire package - text formatting, headings, track changes, page layout, you name it. Windows RT has an impressively ample selection of fonts, too.</paragraph>
+			<paragraph>Word is a demanding app - CPU usage was well over 30%. Banging on the keyboard as quickly as we could made the Surface stutter a little bit and delay the input of some of the characters.</paragraph>
+			<paragraph>Excel 2013 is there for your spreadsheet needs. Formulas and calculation are all supported, and so are cell formatting options. You'd be hard-pressed to find a difference between Excel on your PC and the one on Windows RT. Still Macros aren't supported so power users aren't really covered here.</paragraph>
+			<paragraph>Creating PowerPoint presentations on the Microsoft Surface is as easy as on PC. You can choose between countless transition effects,animations and sounds. A presentation can be previewed and imported, and an existing file can be edited.</paragraph>
+			<paragraph>OneNote 2013 is your one-stop app for taking and organizing notes on Windows RT. The app has an interface similar to Word but is cleaner, with less options.</paragraph>
+			<paragraph>Creating a note is very simple and the time and date are preset automatically.</paragraph>
+			<paragraph>You can have multiple Notebooks in OneNote and creating one is done through a drop-down menu. You can choose the name of the Notebook and the color it shows up in, as well as whether to save it locally or in SkyDrive.</paragraph>
+			<paragraph>SkyDrive can sync all of your Office 2013 documents between devices. All you need is your Microsoft ID. It's very convenient and sync is instantaneous. Your documents are safe in the cloud in case your PC needs a reset or is broken or lost.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizing skills<subsectionTitle>
+			<paragraph>The Calendar app on Windows RT is well familiar - it looks identical to the one on Windows Phone. You can set it to show events in Day, Week or Month view. There is no Agenda view so you cannot see a list of your upcoming events.</paragraph>
+			<paragraph>Day and Week view are sorted by hours so you would need to scroll up or down, depending on the specific time of the event.</paragraph>
+			<paragraph>Events are color coded depending on the type of calendar (your own, Birthdays, Holidays, etc.) and you can change colors to your liking.</paragraph>
+			<paragraph>Setting an event is simple and straightforward. Thanks to the large screen you see all of the information without the need for endless scrolling.</paragraph>
+			<paragraph>The Calendar syncs with Hotmail, Google and Outlook. Facebook is strangely missing here so all of your Facebook buddies birthdays will need to be manually entered.</paragraph>
+			<paragraph>Perhaps support for more services could come with future updates.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Bing and apps<subsectionTitle>
+			<paragraph>Bing has branched out and offers several apps to fill the gap on other platforms. Apart from Search there's also Daily, Finance, Sports, Travel and Weather.</paragraph>
+			<paragraph>Bing Search is self-explanatory - you enter a query and the app searches Microsoft's engine for results. The interface is as simple as a search bar and wallpaper, which changes each day.</paragraph>
+			<paragraph>Search also gives you the trending queries of the day. Search results appear as a horizontal grid, a la Modern UI and selecting a result opens up Internet Explorer.</paragraph>
+			<paragraph>Bing Daily is a news app that shows you trending topics of the day from featured news sites. It rounds up the best of Finance, Sports and Travel in one place. The day's headlines are shown next, then come local and world news. The list goes to include Entertainment, Business and Sport.</paragraph>
+			<paragraph>You can select to view content from a number of news sources.</paragraph>
+			<paragraph>Articles appear in magazine-like style. You can choose between two different font styles, adjust the font size and toggle articles.</paragraph>
+			<paragraph>The My News section is your own personal place where you can add sources to read from. Microsoft is the only source selected by default, go figure.</paragraph>
+			<paragraph>Bing Sport works the same way only it's focused on sporting news only. There's a spotlight with the story of the day, a top stories grid, the local sports schedule and, finally, the option to choose favorite teams you'd like to follow closely.</paragraph>
+			<paragraph>There's an All Sports section which lets you choose a sport or league to check out but the choice is rather limited.</paragraph>
+			<paragraph>Bing Finance is a mixture of financial news, stocks, currencies and commodities. You can create your own watch list of companies whose stock prices you like to keep track of.</paragraph>
+			<paragraph>Bing Travel is a great application filled with interesting facts, 360 degree panoramas of popular places around the world and a rich database covering many destinations around the globe.</paragraph>
+			<paragraph>The app shows a featured destination on the main page each day, followed by a grid of the most popular destinations in the app. There's a nifty option to search for flights or hotels.</paragraph>
+			<paragraph>Bing Travel also serves travel-related news for each day.</paragraph>
+			<paragraph>Each destination has its own page. It features an overview of the city, a selection of photos straight off Bing, beautiful panoramas of popular locations in the city, a list of attractions borrowed from various sites, like Frommer's, as well as prominent hotels and restaurants worth visiting.</paragraph>
+			<paragraph>Bing Weather is the go-to app for daily forecasts. Opening up the app reveals the weather conditions in your current location (or a preset one) along with an hourly forecast, map view of temperature, precipitation, cloud cover, etc. in your region and nation-wide.</paragraph>
+			<paragraph>You can choose to be informed for as many locations as you like. Finally there's a World Weather view, which offers information about major cities in the world.</paragraph>
+			<paragraph>We have to say these apps made us miss Flipboard somewhat less.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Skype<subsectionTitle>
+			<paragraph>Skype for Windows RT can be downloaded off the Windows Store, as it surprisingly doesn't come preinstalled on Windows RT. Since Microsoft's acquisition of Skype everyone was expecting a new app, integrated into Windows somehow, built from the ground up to work on Modern UI and entirely touch-enabled.</paragraph>
+			<paragraph>Microsoft has answered on most of the expectations - Skype is completely revamped on Windows RT but we wouldn't say it can even come close to the app on Windows 8. As soon as you sign into Skype your ID is fused into your Microsoft account.</paragraph>
+			<paragraph>Options are fairly limited though. You can only change your profile picture. Just about everything else opens up Internet Explorer so you can edit your details on Skype's website.</paragraph>
+			<paragraph>You can call users on Skype for free and calling land lines requires Skype credit.</paragraph>
+			<paragraph>Your chat windows feature a tab with your friend's Skype information (status, local time and location), video and voice call toggles and the option to add other people to the conversation. All Skype emoticons are supported.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Microsoft like being pushed, it seems. No other explanation of how well it did with the Surface considering the pressure pot of high stakes and overwhelming expectations. It didn't take its eyes off the target either, knowing (though hardly enjoying the fact) that the iPad is the tablet to beat.</paragraph>
+			<paragraph>Yet, despite generations of hardware and software advancements, iOS hasn't become the hallmark of handheld productivity, and thus give PCs a real challenge. It's a multimedia consumption device and that's what gives the Surface a chance to get a slight edge.</paragraph>
+			<paragraph>Microsoft offers plenty of content under the Xbox umbrella, ranging from music to movies and TV shows, from handheld to full-blown console-quality games. But the numbers behind the iPad can't be matched, not yet anyway. Windows RT has a long way to go - the app count is still low and the fact that you can't run legacy Windows software on RT doesn't sound particularly enticing.</paragraph>
+			<paragraph>The Microsoft Surface RT is a bold statement nonetheless. It's got good enough internals into one of the hottest bodies in the business. The VaporMG casing feels cooler than anything we've held recently and the kickstand and magnetic detachable keyboards go a long way to make the Surface unique and desirable.</paragraph>
+			<paragraph>And once you get past the probability of confusion of using Windows on a tablet and discover all the gestures you can dig a little deeper into the OS you realize Microsoft invested quite a lot of time and effort. The learning curve might be a bit steeper than you are used to, but the reward is worth it.</paragraph>
+			<paragraph>The Surface RT starts at $499 for a 32 gig model and you could get the keyboard option for another $120 bucks, which propels Redmond's tablet right into iPad territory. The iPad 4 offers 16 GB of storage for the same $499, which isn't all that different given that the Windows RT takes up between 6 GB and 8 GB to boot.</paragraph>
+			<paragraph>The iPad has the superior A6X chipset with an impressively potent graphics chip. It also has the upper hand in screen resolution and quality - and then goes on to humiliate all likely competition in terms of apps and quality content. Not that it's make or break, but the iPad 4 also boasts a better camera. The Surface RT, however, responds with expandable storage, a standard USB port with host support, and proper file management. Heck, you could even hook up an iPad and get access to at least the photos on it. Full-fledged Office support on the Surface, right out of the box, is also a value-adding feature.</paragraph>
+			<paragraph> Apple iPad 4 Wi-Fi</paragraph>
+			<paragraph>iGadgets are not the only ones the Surface needs to keep an eye though. There're Google tablets and even Microsoft-powered slates by makers that are partnering with Redmond.</paragraph>
+			<paragraph>The Nexus 10 is an option you just can't ignore. The Google tablet runs Android 4.2 Jelly Bean, has the best screen specs around and all that costs $400, which is a bargain.</paragraph>
+			<paragraph> Samsung Google Nexus 10</paragraph>
+			<paragraph>Asus will want to have a say too when it comes to tablets with a keyboard option. The Android-powered Transformer Pad Infinity TF700T and Transformer Pad TF300 run on Tegra 3, have better cameras than the Surface and offer Android Jelly Bean already. The Transformer Pad Infinity packs a 1080p display and costs slightly more than the Surface, while the TF300 matches the Surface RT's price.</paragraph>
+			<paragraph>  Asus Transformer Pad Infinity 700 ? Asus Transformer Pad TF300T</paragraph>
+			<paragraph>Then there're the likes of the Samsung Ativ tab and the Asus VivoTab. Both are running Windows RT, and the Asus tablet even comes in transformer flavor with a dedicated physical keyboard. After the price-cut, the VivoTab costs as much as the Surface and adds an extra battery thanks to its keyboard dock.</paragraph>
+			<paragraph>  Asus VivoTab RT TF600T ? Samsung Ativ Tab</paragraph>
+			<paragraph>The Surface RT sure has its hands full. But it's got some definite advantages compared to its otherwise more seasoned rivals. You won't find better multitasking on a tablet - in terms of app switching and available options. It also beats the iPad on UI gestures, an area where Android fails to bring anything relevant to the table. There isn't a tablet on the market that can match the office support on the Surface either.</paragraph>
+			<paragraph>Microsoft has done a solid job with its first tablet in terms of build and having it properly powered. Windows RT is good-looking and full of potential, especially if it manages to get developers on board.</paragraph>
+			<paragraph>That's the thing really - the Microsoft Surface RT is seriously lacking in terms of apps and content. In its favor, it's not as heavily regulated as the iPads in terms of what kind of content you can load and how. In short, we like the direction Microsoft is heading towards with the Surface and we wouldn't mind hitching a ride. Not at all actually, provided all due stops are made en route to pick up some essential companions. Dropbox and an FTP client would be a nice start.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,320 @@
+<review>
+	<title>Nokia 701 review</title>
+	<description>Belles and whistles</description>
+	<link>http://www.gsmarena.com/nokia_701-review-660.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>Penta-band 3G with 14.4 Mbps HSDPA and 5.76 Mbps HSUPA support</paragraph>
+			<paragraph>Slim alloy body</paragraph>
+			<paragraph>3.5" 16M-color nHD ClearBlack TFT LCD capacitive touchscreen; 1,000 nits of brightness</paragraph>
+			<paragraph>8 megapixel fixed-focus camera with dual-LED flash and video-call camera; geotagging, face detection, smart zoom in video</paragraph>
+			<paragraph>720p video @ 30fps recording, stereo sound</paragraph>
+			<paragraph>Symbian Belle OS</paragraph>
+			<paragraph>1GHz CPU and 512 MB RAM</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n</paragraph>
+			<paragraph>8GB of inbuilt storage, microSD expandable</paragraph>
+			<paragraph>Active noise cancellation via a dedicated mic</paragraph>
+			<paragraph>DivX, XviD, H.264 video support</paragraph>
+			<paragraph>Good audio quality</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Stereo FM Radio with RDS, FM transmitter</paragraph>
+			<paragraph>microUSB port with USB On-the-go support</paragraph>
+			<paragraph>Stereo Bluetooth 3.0</paragraph>
+			<paragraph>GPS receiver with A-GPS support and free lifetime voice-guided navigation; Digital compass</paragraph>
+			<paragraph>Flash Lite support in the web browser</paragraph>
+			<paragraph>Smart dialing and voice commands</paragraph>
+			<paragraph>NFC support</paragraph>
+			<paragraph>Built-in accelerometer and proximity sensor</paragraph>
+			<paragraph>TV-out functionality (SD)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Display is very bright but has low contrast</paragraph>
+			<paragraph>Browser lacks full Flash support</paragraph>
+			<paragraph>Camera lacks auto focus</paragraph>
+			<paragraph>Relatively limited 3rd party software availability</paragraph>
+			<paragraph>No office document editing (unless you buy an upgrade)</paragraph>
+			<paragraph>Non-hot-swappable microSD card</paragraph>
+			<paragraph>No HD TV-Out</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Symbian Belle is on the march and the leader of the pack is the Nokia 701. It busts out the big guns - a 1,000 nit floodlight of a screen, a fast, modern processor and an up-to-the-minute connectivity package, complete with NFC.</paragraph>
+			<paragraph>If you're experiencing a deja vu, rest assured it's nothing out of the ordinary. What we have here is a Nokia C7 reincarnate (the gilded Oro too). It may not be a new design, but it's fairly attractive and with a good deal of metal used around the shell. Plus, recycling a design seems to have become commonplace in the mobile world (*cough* iPhone4S *cough*).</paragraph>
+			<paragraph>We already talked about the screen in the preview and we'll go over it again - it's hands-down the brightest mobile screen we've tested. Nokia promise 1,000 nits of brightness when a typical LCD usually runs in the 300-600 range. The Nokia 701 actually goes a little beyond the promised value - don't miss our test in the hardware chapter.</paragraph>
+			<paragraph>As for the phone's innards, it ticks at 1GHz and packs 512MB of RAM, a quantum leap over what Symbian phones have used thus far.</paragraph>
+			<paragraph>Here are the ups and downs in the Nokia 701 spec sheet:</paragraph>
+			<paragraph>The buzzwords are Symbian Belle and NFC. Belle was impressive in our dedicated review, making a convincing case that Symbian has finally caught up to Android and iOS.</paragraph>
+			<paragraph>As for NFC, Nokia and other phone makers along with carriers and credit card companies are lauding it as the next big thing. Not just in mobile phones, but our lifestyle in general. Pay with your phone, open doors with your phone, buy tickets with it - if Nokia have their way, mobile phones will be more important than your wallet and set of keys.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Nokia 701<subsectionTitle>
+			<paragraph>The Nokia 701 comes with a charger, which ends on a 2mm plug. The 701 can be charged off microUSB, so we don't know why Nokia used an old-school charger - microUSB chargers have the advantage of being compatible with other gadgets too.</paragraph>
+			<paragraph>The box also includes a microUSB cable and a one piece headset. There's no microSD card, but the Nokia 701 comes with 8GB of built-in storage.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia 701 360-degree spin<subsectionTitle>
+			<paragraph>The exact measurements of the Nokia 701 are 117.2 x 56.8 x 11 mm (64cc) and 131 grams.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>Okay, so the Nokia 701 won't win any awards for original design, but the iPhone went three generations without fear of becoming boring. The rounded corners give the Nokia 701 a pleasant look and the sturdy shell made mostly of metal oozes quality.</paragraph>
+			<paragraph>The screen merits a chapter of its own, so let's get the rest of the hardware out of the way.</paragraph>
+			<paragraph>Above the display is the earpiece with proximity and ambient light sensors and a VGA video-call camera keeping it company. Below the display are the main controls: a Menu key set between the two call keys. The flat-panel call keys are the right size and have solid press. The Menu button is set between the screen and the call keys, flush with the surrounding surface, which makes it a bit uncomfortable to hit.</paragraph>
+			<paragraph>Another design flaw we found here is that it's too close to the screen and sometimes you'd press both the key and the screen. The Menu key on the C7 was placed slightly lower and the problem was avoided. Nokia's decision to move it doesn?t seem a good idea.</paragraph>
+			<paragraph>The mic pinhole is located right below the menu key.</paragraph>
+			<paragraph>The top side of the Nokia 701 features the power key, which also handles screen lock, power-saving mode and the ringing profiles. The two wired connectivity ports are here too. The microUSB has a plastic flap and a tiny status LED, and can be used for charging. The 3.5mm audio jack doubles as a TV-Out port.</paragraph>
+			<paragraph>The left side of the 701 would have been completely bare if it wasn?t for the 2mm charger plug. The right side is much busier ? the volume keys flank the voice command key, and further down we find the screen-lock slider and the shutter key. It cannot be half-pressed as the camera on the Nokia 701 lacks auto-focus.</paragraph>
+			<paragraph>The shutter key is small and almost flush against the side of the phone, making it rather uncomfortable to press. This might result in some extra camera shake ? you might want to use the on-screen shutter to prevent that.</paragraph>
+			<paragraph>The Nokia 701?s bottom side features just the lanyard eyelet.</paragraph>
+			<paragraph>On the back we find the camera lens, dual LED flash and loudspeaker banded together on a silver strip. The phone rests down on the camera, perhaps making the lens prone to scratches.</paragraph>
+			<paragraph>By the way, if you want to use the dual LED as a flashlight, you can pull and hold the lock slider to activate it and again to turn it off. This works even if the phone is locked (it will remain locked after flashlight mode is enabled).</paragraph>
+			<paragraph>Even though there are two symmetrical grills, only one of them (the one next to the lens) is an actual loudspeaker ? the other one is there just for the sake of symmetry we guess.</paragraph>
+			<paragraph>The back cover is made of metal and it?s pleasant to the touch. It?s held in place by a latch found at the bottom. Adjacent to the latch is the second microphone, which is used for noise cancellation and stereo sound for videos - you should be careful not to cover it with your palm.</paragraph>
+			<paragraph>Popping the cover open reveals the 1300mAh Li-Ion battery (BL-5K). The 701 boasts some impressive battery life on paper - 17 hours of talk time in 2G (only about 7 hours in 3G), 21 or 23 days of standby in 2G and 3G respectively.</paragraph>
+			<paragraph>It doesn?t end there - Nokia's official specs promise nearly 9 hours of video watching, 6 hours 25 minutes of video recording (if you have the storage for it), almost 3 hours of video calling, 11 hours of navigation (free navigation courtesy of Nokia Maps) and the really impressive 3 days of music playback.</paragraph>
+			<paragraph>The Nokia 701 has the same problem as the C7 - the SIM card compartment is easily accessible once you pop open the back cover but you can?t say the same thing about the microSD card slot, which is hidden under the battery itself.</paragraph>
+			<paragraph>With the 701 you get typically good Nokia build quality and the mostly metal shell really gives it a sense of solidity. The scratch-resistant glass and metal finish offer good durability.</paragraph>
+			<paragraph>We played with the Silver Light color version and it's quite a looker. It's not the most compact phone around, but the elongated shape of the Nokia 701 makes it fit just right in the hand and it should slip into pretty much any pocket with ease.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Ultra-bright IPS-LCD ClearBlack display<subsectionTitle>
+			<paragraph>Most of the front of the Nokia 701 is taken by the next-generation ClearBlack display, a 3.5? IPS-LCD display of nHD resolution.</paragraph>
+			<paragraph>It's the brightest display we've seen, not counting the Nokia E6 (which was much smaller), and by quite a margin too.</paragraph>
+			<paragraph>Something must've happened between our preview of a pre-production unit and this here review. Today we've got a retail-ready unit now and the blacks aren't as deep as they used to be, which in turn spoils the contrast. It?s still pretty good, neighboring to what a typical high-end phone is showing, but not as awesome as the screen on the first unit we tested. So here are the numbers themselves. You can learn more about the test here.</paragraph>
+			<paragraph>On the upside, the screen brightness helps achieve excellent sunlight legibility, beating the likes of the SuperAMOLED Plus and the first-gen ClearBlack displays.</paragraph>
+			<paragraph>The IPS technology promises 160-degree viewing angles and for the most part delivers. There's a slight but noticeable loss of contrast when you tilt the phone, but there's no color shift.</paragraph>
+			<paragraph>The pixel count of Nokia 701's screen is just 60% of WVGA screens (common in high-end phones), but as this is a smaller screen the pixel density is virtually identical to that of the Galaxy S II, for example (210 ppi for the 701 vs. 217 ppi for the S II).</paragraph>
+			<paragraph>The sharpness is okay but you can notice jaggies on circles (or just rounded corners like the menu icons) and diagonal lines.</paragraph>
+			<paragraph>The Nokia 701 screen sensitivity is as good as we?ve come to expect from capacitive units. The excellent haptic feedback is a boost to usability.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Belle-issimo<subsectionTitle>
+			<paragraph>It?s been a regular one on our list of Cons that Symbian is lagging behind Android and iOS in user experience, but that?s about to change. The key elements in Belle are the new homescreen and menu, the updated native apps and overall polish of the interface.</paragraph>
+			<paragraph>Here?s an extensive video demo of the interface (starring the Nokia 701), so you can get a good feel of Belle before we start.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The widget system introduced by Symbian^3 was incomplete to say the least. Now however, you get up to six homescreens (up from three) and you can delete unneeded ones. Each homescreen has its own individual wallpaper, rather than one for all to share. A notable contrast with Android, the scrolling of homescreen panes is looped so you never need to go back from the last one. Auto-rotation of the homescreen is enabled too.</paragraph>
+			<paragraph>Widgets themselves have dropped the one-size-fits-all philosophy and now come in up to five sizes. In addition to widgets, you can also put shortcuts on the homescreen ? the end of the silly shortcut widgets.</paragraph>
+			<paragraph>A tap and hold on a widget or shortcut activates edit mode, but only for that widget/shortcut. You can?t touch the others ? there?s no mode where you can edit everything at once (which seems a bit inconvenient to us). You can move, delete or (where available) access the settings of the selected one.</paragraph>
+			<paragraph>Besides widgets and app shortcuts, you can also add contact shortcuts to the homescreen. To do that you need to go into the Options menu of the contact?s details, but the extra taps are worth it. You end up with one-touch access to the contacts you call most often.</paragraph>
+			<paragraph>The bottom of the homescreen has three virtual buttons ? menu, dialer and homescreen settings. With these buttons, Nokia can go button-free at the front if they want to, just like they did with MeeGo.</paragraph>
+			<paragraph>The other big addition to the homescreen is the pull-down status bar at the top of the screen ? think Android?s notification area or the similar menu available in iOS 5. This area is where notifications and status info await in line for your attention, but you also get toggles for mobile data, Wi-Fi, Bluetooth and Silent mode.</paragraph>
+			<paragraph>This pull-down status bar is available on any screen so you can also quickly change a setting and look up new events.</paragraph>
+			<paragraph>Moving on, the main menu has changed as well ? it?s now completely flat, no level upon level of subfolders nonsense any more. Or at least not by default ? you could still manually create folders, if you like. You can?t put folders in folders though (not that you?d want to do that anyway).</paragraph>
+			<paragraph>You sort icons alphabetically or manually, by choosing the Arrange option and moving menu items around. You can?t drop a shortcut in a folder while arranging them though. To do that, you have to press and hold on a shortcut, choose Move to folder and then select the desired folder. There are also Add to homescreen and delete options here.</paragraph>
+			<paragraph>This arrangement isn?t as convenient as in other OSes and it contrasts with how the homescreen works. On the homescreen you press and hold to move an item, while a tap and hold on a menu item pulls out a menu. To move items around you have to hit the Options key and choose Arrange.</paragraph>
+			<paragraph>It?s a bit odd how folders on the homescreen work ? you can only add a folder to the homescreen by first creating it in the menu. After you've added it to the homescreen, it remains visible in the menu.</paragraph>
+			<paragraph>Because the main menu is busier than usual - and will only get more crowded as you install extra apps - the search option is a handy addition.</paragraph>
+			<paragraph>The task manager in Symbian Belle is virtually unchanged ? press and hold the Menu key and it pops up. It fits a bunch of side-scrollable thumbnails, one for each of the currently open apps. It?s worth noting that hitting the End key will terminate an app, while pressing the Menu key just goes to the homescreen with the app active in the background.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook is pretty good<subsectionTitle>
+			<paragraph>The Nokia 701 comes with a very capable phonebook, which can easily be synced with your Exchange account. Symbian has been offering users virtually unlimited phonebook capacity and excellent contact management for quite some time and now the Belle update continues the tradition.</paragraph>
+			<paragraph>Contacts can be freely ordered by first or last name. You can also set whether the contacts from the SIM card, the phone memory and the service numbers will get displayed.</paragraph>
+			<paragraph>Selecting some of your contacts as favorites moves them to the top of the displayed list.</paragraph>
+			<paragraph>Editing a contact offers a great variety of preset fields and you can replicate each of them as many times as you like. You can assign personal ringtones and videos to individual contacts. If you prefer, you may group your contacts and give each group a specific ringtone.</paragraph>
+			<paragraph>A really nice touch when editing a contact is the option to enter their address by locating it on a map.</paragraph>
+			<paragraph>The social network integration includes Facebook and Twitter, which should be fine for the vast majority of users. You can see the latest status update right from the contact info - or at least the first three lines of it. A tap on it brings you to a new screen where you can read the whole message and you get options to view the sender's profile and more updates . That takes a few seconds though as the Social app needs to load first.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent telephony<subsectionTitle>
+			<paragraph>Reception on the Nokia 701 is solid and we didn?t experience dropped calls. There?s an extra microphone for active noise-cancellation. We've had better in-call quality though - sound wasn?t very loud and the other side sounded a little muffled.</paragraph>
+			<paragraph>Voice dialing is available on the 701 and gets activated by pressing and holding the call key. It is fully speaker-independent and as far as we can tell performs greatly, recognizing all the names we threw at it.</paragraph>
+			<paragraph>In noisier environments though, its effectiveness might suffer. Bear in mind too, that if you have multiple numbers assigned to a contact, the system will either dial the default number or the first in the list.</paragraph>
+			<paragraph>Smart dialing is also here - you just punch in a few letters from the desired contact?s name and select it from the list that comes up to initiate a call. There's speed dial too on the virtual dial pad. The final option for starting a call is via the shortcuts you can place on your homescreen.</paragraph>
+			<paragraph>The 701 has the neat accelerometer-based feature that lets you mute the ringer by turning the phone face down. That same turn-to-mute trick also works for snoozing your alarm.</paragraph>
+			<paragraph>Thanks to the proximity sensor the screen is automatically disabled during a call.</paragraph>
+			<paragraph>The Nokia 701 took our traditional loudspeaker test scored a Below Average mark - worse than the C7 before it and it might mean some missed calls. More info on the test, as well as other results can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging wiz<subsectionTitle>
+			<paragraph>The Nokia 701 can easily meet your messaging needs. All your incoming messages arrive in a shared inbox and by default are displayed in conversation view (a.k.a. threaded messaging). You can use the old inbox too if you like.</paragraph>
+			<paragraph>The Nokia 701 relies on a shared editor for all the types of messages. Stuff like a character counter in SMS goes without saying. Insert some multimedia content the message is automatically transformed into an MMS. In that case, the character counter turns into a data counter showing kilobytes.</paragraph>
+			<paragraph>The Nokia 701 automatically set up our Gmail account in no time, complete with Exchange Active Syncconfiguration. Usually, all you need is to enter a username and a password and you will be good to go. A few settings had to be entered manually for the Active Sync setup.</paragraph>
+			<paragraph>Multiple email accounts and various security protocols are supported, so you can bet almost any mail service will run trouble-free on your Nokia 701.</paragraph>
+			<paragraph>Messages can be sorted by various filters such as date, sender, subject, priority or even by attachments, search is enabled as well.</paragraph>
+			<paragraph>The email client can download headers only or entire messages, and can be set to automatically check mail at a given interval. For that you get two separate settings - during a user-defined "peak" interval and outside that interval.</paragraph>
+			<paragraph>There is also support for attachments, signatures and basically everything you would normally need.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Proper portrait QWERTY<subsectionTitle>
+			<paragraph>Since Anna, the Symbian portrait QWERTY keyboard has split screen support, meaning the top half of the screen is left for the app, while the bottom part is for the keyboard.</paragraph>
+			<paragraph>The keys on the portrait QWERTY are a bit small - smaller than you would expect of a 3.5" screen, but then again, the 16:9 aspect makes the screen narrower than most.</paragraph>
+			<paragraph>Still, you can activate word prediction, which will guess the word you're trying to type and show a small popup with the word you actually typed, in case you're trying to enter something like a user name or an URL.</paragraph>
+			<paragraph>This eliminates the annoying situation of taking you out of the app and into a text edit screen and then back to the app (entering URLs in the browser and using the URL autocomplete was the most painful example). Also, you no longer have to change orientation just to use the QWERTY keyboard, which was a major nuisance.</paragraph>
+			<paragraph>Still, it's not perfect - several apps continue to use the old text edit screen, obscuring the app even though we were using the portrait QWERTY. The Ovi store app is an example of where that happens, which was a little disappointing.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Solid file management<subsectionTitle>
+			<paragraph>Unlike some competing platforms, Symbian handsets have always enjoyed a proper file manager. The File manager aboard the Nokia 701 is a capable app that can basically do anything you want with your files - moving, copying renaming, sorting or sending - you name it. You can also password-protect your memory card if you see fit.</paragraph>
+			<paragraph>You can also search for a specific file or directory. Type in a part of the desired file name and specify location (phone memory or memory card), the File Manager will find it in no time.</paragraph>
+			<paragraph>The ZIP manager also comes in handy when you get an archive in the mail or need to send several files easily.</paragraph>
+			<paragraph>With USB On-The-Go (OTG) enabled on the Nokia 701, you can also use the file manger to access USB flash drives, card readers and even other phones connected over a USB OTG cable (sold separately).</paragraph>
+			<paragraph>Symbian phones would connect easily in mass storage mode, but other OSes weren't as forthcoming. Still, if you need to grab some files off a thumb drive and you have the cable at hand, USB OTG can be quite useful.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Redesigned image gallery<subsectionTitle>
+			<paragraph>The image gallery app in Nokia 701 is quite the looker. It's been around since Symbian^3, so it's not exactly new but we're glad to be rid of the old one. Photos are displayed in a grid (3 columns) and you can scroll up and down (with kinetic scrolling no less).</paragraph>
+			<paragraph>You can zoom in by double-tapping or the now standard pinch zoom. Once zoomed in, kinetic scrolling is available and animates smoothly. Switching between portrait and landscape mode is automatic, thanks to the built-in accelerometer.</paragraph>
+			<paragraph>Selection of multiple photos for deleting or sharing is available right inside the gallery. You can send an image via MMS, email or over Bluetooth and you can share it on your social network (Twitter or Facebook).</paragraph>
+			<paragraph>The other features of the gallery include the image tagging system for easier image sorting, the slide show and the albums system (again helping you sort your image database).</paragraph>
+			<paragraph>Picture browsing is fast, even for 8MP images. There's only the occasional lag and the rest of the time it runs buttery smooth. Noticeably better than the 680MHz Nokias.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player hasn?t changed since Symbian^3<subsectionTitle>
+			<paragraph>Symbian never had trouble with the music player features but looks were far from impressive. With Symbian^3 however Nokia introduced a new Cover Flow-like interface, which adds the much needed eye-candy. For better or worse, Nokia hasn't changed anything since.</paragraph>
+			<paragraph>There?s automatic sorting by artist, album, genre and the option to create custom playlists straight on the phone. Selecting an artist lists all of their tracks with the album cover art on top along with the covers of other albums in your library.</paragraph>
+			<paragraph>Left and right swipes on the album art let you skip to the next/previous song.</paragraph>
+			<paragraph>Quite naturally, the player can also be minimized to play in background. In this case you can control it via the music player widget on the homescreen, which also displays the currently running track.</paragraph>
+			<paragraph>You have an equalizer (with presets but no manual settings) along with a Loudness setting and Stereo widening.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good audio quality<subsectionTitle>
+			<paragraph>The Nokia 701 did well in our traditional audio output test. It's loudness levels are average, but the sound is pretty clear.</paragraph>
+			<paragraph>When attached to an active external amplifier (i.e. your car stereo or your home audio system) the Nokia 701 does marvelously with no weak points whatsoever.</paragraph>
+			<paragraph>There is some degradation when we plugged in headphones, but that's to be expected. As usual stereo crosstalk surged and the intermodulation distortion increased as well, but none of them got worse than average. It's no iPhone, but the Nokia 701 is certainly a solid performer and it delivers more than the huge portion of its users will ever need.</paragraph>
+			<paragraph>And here come the full results so you can see for yourselves:</paragraph>
+			<paragraph> Nokia 701 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player is impressive, but lacks AC3/DTS support<subsectionTitle>
+			<paragraph>The Nokia 701 comes with a capable video player. It managed all formats we threw at it (MP4, AVI, WMV, even MKV) and videos were silky smooth up to and including 720p resolution.</paragraph>
+			<paragraph>The media player works in fullscreen landscape mode. The exceptionally bright screen with native 16:9 aspect is also more than welcome for truly enjoying your videos - even in broad daylight.</paragraph>
+			<paragraph>In fullscreen mode, a tap on the screen shows the controls, which are otherwise hidden.</paragraph>
+			<paragraph>The Nokia 701 played large files almost trouble free - a 3GB file crashed only once but ran fine afterwards. There's subtitle support too, but the file has to have the same name as the video file (you can't manually load subtitles) and we ran into problems with subtitle encoding, getting gibberish most of the time.</paragraph>
+			<paragraph>Yet that's not the biggest problem we had with the video player - while it had no problem with 720p h.264-encoded videos, it chocked on the sound. A quick investigation revealed that the AC3 and DTS codecs aren't supported - a problem since they are the most common codecs save for stereo MP3.</paragraph>
+			<paragraph>The Video section also includes a few auxiliary apps. One is an editor that lets you create videos and video slideshows. The other apps here include YouTube, CNN Video, E!, National Geographic, and Paramount Pictures Movie Teasers. Of course, each of them requires internet connection (over 3G/3.5G or Wi-Fi) and note that not all content is free.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio comes with RDS<subsectionTitle>
+			<paragraph>The FM radio on Nokia 701 comes with neat and simple interface. You can skip preset and new stations alike with sweep gestures or you can use the virtual buttons.</paragraph>
+			<paragraph>The 701 has RDS support and automatic scanning for an alternative frequency.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Better 8MP fixed-focus camera<subsectionTitle>
+			<paragraph>The Nokia 701 comes with an 8MP fixed-focus camera for a maximum image resolution of 3264 x 2448 pixels. In dark scenes, a dual-LED flash lends a hand.</paragraph>
+			<paragraph>The user interface has changed since Anna (it's even different from the Nokia N8 camera update), but the changes are mostly cosmetic.</paragraph>
+			<paragraph>At the bottom of the screen, you get a row of shortcuts: Back, Flash mode, Scenes, Extended options and Menu. The latter lets you toggle between the front and rear camera, launch the user guide or exit the camera app.</paragraph>
+			<paragraph>On the right, there's a virtual shutter key (often preferable over the physical one, which is hard to press) and a toggle for the still/video modes. On the left, there's a digital zoom lever that auto-hides.</paragraph>
+			<paragraph>In the extended options you get more goodies like face detection, a self-timer, image settings (ISO, white balance, sharpness, etc.) and a shortcut to one last group of settings where you have geotagging and capture tone options.</paragraph>
+			<paragraph>The layout of the ISO setting was a massive disappointment. It's a list (Auto, Low, Med, High) and you tap once to select and once again to activate. The Sharpness setting works the same way. Really, Nokia? It's just sad to insist on this ham-fisted approach to menus with each new version of the OS.</paragraph>
+			<paragraph>Anyway, as far as image quality goes it's actually improved since the Nokia C7. The default settings no longer over-sharpen the image, though you can see halos around high-contrast areas and the images turn up a little grainy because of the sharpened noise from the sensor.</paragraph>
+			<paragraph>Still, the Nokia 701 captures good amounts of fine detail. One thing that could be improved is the dynamic range - contrast is good but at the cost of overblown areas in the image. Color balance tended towards yellow, which is typical of consumer cameras, but overdid it sometimes.</paragraph>
+			<paragraph>Close-ups are the 701's weak spot - it just can't get close to a subject and take a photo. Even from some distance, text comes out pretty badly.</paragraph>
+			<paragraph>We tried reducing the sharpness setting in the camera and that helped out by taking a lot of the graininess out of the photos. That, of course, made the image noticeably softer - ideally, you'd shoot with sharpness set to "soft" and sharpen images manually later.</paragraph>
+			<paragraph>If that seems like too much hassle, go with the default settings - they're good enough.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>We've added the Nokia 701 to our Photo Compare Tool, where it joins the other non-autofocus 8MP Nokias.</paragraph>
+			<paragraph>The black on white lines of the first chart show the oversharpening halos but other than that, the camera performs fairly well in these high-contrast areas. The second chart shows curious looking (but unwelcome) artifacts from the post-processing - look at the center of the circle and at what is supposed to be a photo of gravel to the right of it (above grass).</paragraph>
+			<paragraph>The third chart shows good color rendering but it's easy to notice the yellowish color balance in the black and white photo.</paragraph>
+			<paragraph>   Nokia 701 in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>720p video recording is good<subsectionTitle>
+			<paragraph>The video camera captures 720p videos @ 30fps and with stereo sound courtesy of the dedicated second microphone.</paragraph>
+			<paragraph>The user interface is virtually identical to the still camera interface. Among the options are scenes, video light, video stabilization, you can toggle audio recording and geotagging.</paragraph>
+			<paragraph>There's an advanced option, which not only shows the rule of thirds grid, but also marks the viewfinder in a cinema-like 21:9 frame.</paragraph>
+			<paragraph>Video capture was one area where Nokia's 8MP fixed-focus cameras perform surprisingly well and the Nokia 701 is no exception. Videos are shot in MP4 files with about 10Mbps bitrate and 127Kbps stereo sound at 48 kHz, which earns points for the 701.</paragraph>
+			<paragraph>Videos run at a smooth 30 frames per second, with no duplicated frames. The amount of captured detail is good, but again the low dynamic range leads to overblown areas (the shadow in the trees and the clouds, for example).</paragraph>
+			<paragraph>Check out the quality for yourselves, here's a sample we uploaded to YouTube:.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And here's a 720p@30fps (14.7MB, 0:10s) video sample straight from the Nokia 701 for direct download.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video Quality Comparison<subsectionTitle>
+			<paragraph>Time for the Nokia 701 to enroll in our Video Quality Tool. Our test setup shows that the 30fps framerate is pretty smooth and the captured detail in each frame is quite high. Low-light performance suffers from a big deal of noise however.</paragraph>
+			<paragraph>In the resolution chart you'll notice that the video recorder sharpens frames quite a bit, just like the still camera.</paragraph>
+			<paragraph>   Nokia 701 in the Video Compare Tool </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity covers all bases<subsectionTitle>
+			<paragraph>The Nokia 701 has an impressive list of connectivity options. First off, the basics. You get a true worldwide-ready phone: quad-band GSM/GPRS/EDGE and five-band 3G with HSDPA (14.4Mbps) and HSUPA (5.76Mbps). Wherever there's a GSM network you'd get voice calls and data, blazing fast data actually if the networks supports it.</paragraph>
+			<paragraph>Then for local connectivity, you get Wi-Fi b/g/n and Bluetooth 3.0 (no HS profile though). There's USB with On-The-Go support for wired connectivity. The 3.5mm audio jack doubles as a composite TV-out.</paragraph>
+			<paragraph>There's even an FM transmitter, so that you can easily play your music on your car stereo.</paragraph>
+			<paragraph>The star of the show however is the NFC support - it makes pairing as simple as you could possibly imagine, just put two NFC-enabled gadgets (e.g. the 701 and headset) together and the two will pair. Hooray, no more PIN codes!</paragraph>
+			<paragraph>Sending stuff works the same way - select the files you want to send (one or many) and tap the two phones together. They'll handle the rest, including switching on the Bluetooth receiver.</paragraph>
+			<paragraph>It would have been nice to have Wi-Fi Direct or Bluetooth 3.0+HS to speed up file transfers, but unless you're sending long HD videos, things go fast enough.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Browser improved, a bit<subsectionTitle>
+			<paragraph>The browser interface has been shuffled a bit, resulting in improved usability but nothing major.</paragraph>
+			<paragraph>On top you have the URL bar, which auto-hides ones you start navigating the page. Once you start typing a "Search for..." pop-up lets you choose one of several search engines (Google and Bing are offered in most locations).</paragraph>
+			<paragraph>At the bottom you have a fixed row with five shortcuts - Back, Forward, Bookmarks, Tabs and Menu. The addition of the Tabs shortcut makes managing multiple pages easier - in earlier versions you had to go through the popup menu, adding a few extra clicks.</paragraph>
+			<paragraph>The popup menu itself is pretty much the same - you get RSS feeds, find on page, Most visited and other options, along with a "More" option, which brings the final set of options for the browser (but you'd rarely need to use those).</paragraph>
+			<paragraph>Text reflow is supported, which makes reading sites meant for desktop that much easier on the mobile screen. Kinetic scrolling is also available.</paragraph>
+			<paragraph>The browser supports FlashLight 4. It felt fluid and fast when we panned around a page and zoomed in and out. We didn?t really see any pages break in the browser either. Nokia has spruced up the Symbian browser in Belle and claim it's now three times faster.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer is great<subsectionTitle>
+			<paragraph>Symbian has a solid track record in the PIM department and the Nokia 701 with Symbian Belle is no exception. Nokia has just tweaked a thing or two.</paragraph>
+			<paragraph>The calendar has four different view modes - monthly, weekly, daily and a to-do list, which allows you to check all your To-Do entries regardless of their date. There are three types of events available for setting up - Meeting, Anniversary and To-do. Each event has some specific fields of its own, and some of them allow an alarm to act as a reminder.</paragraph>
+			<paragraph>You can sync the phone's calendar with multiple online accounts and each gets its own color so that they're easy to tell apart.</paragraph>
+			<paragraph>The Nokia 701 also allows you to browse office documents thanks to the preinstalled Quickoffice application. The Adobe PDF reader is also here to take care of those .PDF files.</paragraph>
+			<paragraph>Unfortunately, the preinstalled Quickoffice version doesn?t support editing, but we doubt much of the 701 target audience will need it anyway. If you insist, you can get the paid upgrade and enable editing.</paragraph>
+			<paragraph>The calculator application is very familiar but it lacks the functionality of some of its competitors. The square root is the most advanced function it handles and this is hardly an achievement. If all you do with it is split the bill at the bar though, you're more than good to go.</paragraph>
+			<paragraph>The organizer package also includes a dictionary, voice recorder, as well as the Notes application. The good unit converter we?ve come to know from Symbian^1 is strangely gone but you can grab one yourselves from the Ovi store for free.</paragraph>
+			<paragraph>The alarm application allows you to set up as many alarms as you want, each with its own name, set-off day and repeat pattern. As we already mentioned, thanks to the built-in accelerometer you can also snooze the alarm by simply flipping your phone over.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Social networking integration<subsectionTitle>
+			<paragraph>The Nokia 701 comes with social networking integration, part of which we saw in the phone book. The Social app however is the nexus for all things social - it supports the two most popular networks, Facebook and Twitter. You can have multiple accounts on each network but only one of each can be active at a time.</paragraph>
+			<paragraph>The Facebook section offers extensive options with an easy to use, touch-optimized user interface. Posting a status update is simple as is attaching a photo or video (or shooting new ones on the spot) as well as adding geotagging data.</paragraph>
+			<paragraph>Twitter is accessed through a similarly easy interface. There's a handy button to shorten links and you can attach photos and videos to your tweets as well.</paragraph>
+			<paragraph>The text input field for status updates for both Facebook and Twitter covers only the top half of the screen and the portrait QWERTY fits snugly on the bottom half of the screen, which is pretty clever positioning.</paragraph>
+			<paragraph>A cool feature is the All Activity section that becomes available when you add both Facebook and Twitter accounts. It pulls status updates from both networks into a single list. You can also post a status update on both networks simultaneously from here. Unfortunately, there's no option to post only to one of the networks - you have to go to the network's specific section to do that.</paragraph>
+			<paragraph>Friend search also becomes available on both networks - it searches both accounts for a given name.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Same old Ovi Store<subsectionTitle>
+			<paragraph>Symbian is still one of the most popular smartphone OSes in the world but its application store is pretty barren compared to the iOS App Store and Android's Market.</paragraph>
+			<paragraph>The company has refreshed their Ovi store interface to make it more user-friendly for Symbian^3 and it's what you get on Belle too. And while the UI is indeed very handy to use, the number of apps is somewhat of a problem.</paragraph>
+			<paragraph>The default screen shows a list of featured apps or you can browse the apps available in the Ovi Store by categories ? Applications, Games, Audio and Video content, Personalization; or by collections.</paragraph>
+			<paragraph>Your account profile keeps track of all the apps you have installed under My stuff. You can now also select where games and apps should be installed and where audio and video should go. That?s nice ? we wish Android had that right from the start.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Ovi Maps comes with free lifetime navigation<subsectionTitle>
+			<paragraph>The Nokia 701 comes with a built-in GPS receiver, which acquired satellite lock upon a cold start (A-GPS turned off) in just over a minute. Keeping the lock from then on was not an issue for the 701 even in a dense urban environment.</paragraph>
+			<paragraph>One of the best perks of buying a Symbian from Nokia is that you get free voice-guided navigation for life. The voice guidance is currently available in over 70 countries and over 40 different languages, with even traffic information for more than 10 of those.</paragraph>
+			<paragraph>In addition, Nokia did a pretty decent job of the Ovi Maps application itself, giving it a cool, touch-friendly interface, as well as nice features such as location info from Lonely Planet or Qype (you get a different source for the different locations).</paragraph>
+			<paragraph>With Ovi Maps 3.06 you get three different view modes including satellite and terrain maps. Those however do need an internet connection. The more regular 2D and 3D view modes are also at hand and can be used with preloaded maps. Starting with v3.06 can download maps directly on the phone, no computer needed anymore.</paragraph>
+			<paragraph>The route planning algorithm is also rather easy to customize to best suit your preferences. Toll roads and motorways can be avoided and so can tunnels and ferries. Routes can be set to either fastest or shortest.</paragraph>
+			<paragraph>Ovi Maps is also usable for pedestrian navigation or you can switch the GPS receiver off and use the phone as a hand-held map. Ovi Maps 3.06 also joins in on the location check-in craze and supports a long list of networks (but not Foursquare, understandably).</paragraph>
+			<paragraph>What's missing is the "More" option we've seen on other installations of Ovi Maps 3.06 - it allowed you to enable extra features like a 5-day weather forecast and Map Reported, which can be used to report map inaccuracies.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>There's plenty to like about the Nokia 701 and its downsides don't seem so bad when you remember that this is a upper mid-range device and it's priced accordingly.</paragraph>
+			<paragraph>The rounded metal shell gives the 701 the solid feel that's much missed in other handsets on the market now. And the screen is certainly impressive - whether it's movies or maps, the sunlight legibility is great.</paragraph>
+			<paragraph>The Nokia 701's specs seem like a perfect fit for people who love to travel with quad-band 2G and penta-band 3G, heaps of battery life, offline satellite navigation for the entire world with travel guides and enough social networking to keep the folks at home up to date.</paragraph>
+			<paragraph>The beefier chipset and the much improved Symbian Belle scratch a big chunk of the cons of the previous gen Nokia smartphones. The camera isn't perfect and it's high time we got Flash in the browser, but overall the 701 is a solid package.</paragraph>
+			<paragraph>The LG Optimus Black P970 is a plausible alternative, with comparable overall specs but a bigger, 4.0" WVGA screen with 700nits of brightness. If an impressive display is a must, the Nokia X7 has less power under the hood, but the 4" display was the brightest AMOLED we've seen, brighter than even some LCDs, at 630 nits.</paragraph>
+			<paragraph>  LG Optimus Black P970 ? Nokia X7-00</paragraph>
+			<paragraph>The price of the former Samsung top dog, the Galaxy S, keeps falling, making it a smart buy with specs similar to those of the 701 and a screen that impresses too, though not with brightness. Or perhaps the HTC Desire S if the Galaxy S is too plasticky for you.</paragraph>
+			<paragraph>  Samsung I9000 Galaxy S ? HTC Desire S</paragraph>
+			<paragraph>People, who're not caught up in the iOS and Android hype, should have a look at the Samsung Omnia W too. The Metro UI is like no other and boasts the best Office integration and top-notch social networking. That and the eye-catching SuperAMOLED screen and a metal chassis say all you need to know about the phone.</paragraph>
+			<paragraph> Samsung Omnia W I8350</paragraph>
+			<paragraph>There's a group of people who'll find just what they were looking for in the Nokia 701 and there's a group that will completely ignore it because of preconceived notions about Symbian phones. But take our word for it, the 701 is well worth a look even if you end up buying something else.</paragraph>
+		</subsection>
+	</page>
+</review>

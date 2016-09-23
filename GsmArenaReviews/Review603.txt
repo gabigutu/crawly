@@ -1,0 +1,75 @@
+<review>
+	<title>OnePlus 2 hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/one_plus_2_hands_on-review-1277.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>OnePlus 2 at a glance:<subsectionTitle>
+			<paragraph>5.5" 16M-color 1080 x 1920px IPS LCD capacitive touchscreen of 401ppi</paragraph>
+			<paragraph>Android OS, v5.1 (Lollipop) with Oxygen OS 2.0</paragraph>
+			<paragraph>Quad-core Cortex-A53 &amp; Quad-core 1.8 GHz Cortex-A57 CPU, 3/4GB of RAM, Adreno 430 GPU; Qualcomm Snapdragon 810 chipset</paragraph>
+			<paragraph>13MP camera, F/2.0 aperture, OIS, laser auto focus, dual-LED flash</paragraph>
+			<paragraph>2160p@30fps video, 1080@30fps</paragraph>
+			<paragraph>16GB and 64GB storage options</paragraph>
+			<paragraph>Dual SIM support</paragraph>
+			<paragraph>Fingerprint sensor</paragraph>
+			<paragraph>Reversible USB Type-C connector</paragraph>
+			<paragraph>Active noise cancellation</paragraph>
+			<paragraph>Swappable back panels</paragraph>
+			<paragraph>3,300mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Today OnePlus has announced the highly anticipated successor to its popular OnePlus One - the OnePlus 2. Called the '2016 Flagship Killer', the new phone once again comes packed with high end features at a relatively low price. We managed to spend some time with the new device and these are our first impressions.</paragraph>
+			<paragraph>Perhaps the specs above will make more sense if put into perspective by comparing to the previous model.</paragraph>
+			<paragraph>The OnePlus 2 uses Qualcomm's latest Snapdragon 810 chipset, though it has a slightly lower max working frequency (1.8GHz vs. 2.0GHz) to help with the notorious heating issues this chipset generation has been suffering.</paragraph>
+			<paragraph>The camera has the same 13MP resolution, but it now boasts an Optical Image Stabilization system and laser auto focus to help with low light focusing.</paragraph>
+			<paragraph>On paper, the OnePlus 2 seems to have the same screen specs as its predecessor, but size-wise the new phone is a millimeter shorter in both height and width. What has been lost in height, has been gained in thickness, and the OnePlus 2 profile is now a millimeter thicker, not to mention is more than 10g heavier.</paragraph>
+			<paragraph>The new OnePlus 2 now also has Dual SIM support and the battery is some 200mAh bigger. The newly added stuff also includes a reversible USB Type-C connector instead of microUSB, fingerprint sensor for unlocking the phone with a quick touch, and a slider to toggle the sound modes. The body is also now made out of magnesium alloy.</paragraph>
+			<paragraph>It's not all sunshine and roses though. The base 16GB model gets 3GB RAM as opposed to the 4GB RAM on the 64GB model. NFC has been removed as apparently no one was using it on the previous model. The super nice 2160p(DCI)@24fps video recording mode is also gone. The phone also lacks Qualcomm QuickCharge support.</paragraph>
+			<paragraph>The OnePlus 2 will also be more expensive than the OnePlus One and you can check out how pricing will differ across various regions in our dedicated OnePlus 2 pricing post.</paragraph>
+			<paragraph>With specs out of the way, you can join us on the next pages to see how the OnePlus 2 handles in real-life.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>While most people did seem to like the OnePlus One design, the OnePlus 2 seems to have opinions divided. We find the design quite decent although it surely won't be winning any beauty contests soon.</paragraph>
+			<paragraph>The OnePlus 2 features a 5.5-inch, 1920x1080 resolution IPS LCD. The display is great, with good amount of sharpness and natural colors.</paragraph>
+			<paragraph>The color calibration seems good enough but some might find it a bit bland compared to the AMOLED displays. The brightness, however, wasn't great. The display doesn't get very bright even at the highest setting. That wasn't a problem indoors where we used the phone but it might be hard to see outdoors. We'll have to see about that once we get a proper review unit.</paragraph>
+			<paragraph>The display also has an affinity for fingerprints and within seconds of using it the front gets covered in smudges that are hard to clean. It seems OnePlus has skimped on oleophobic coating for the display.</paragraph>
+			<paragraph>The front of the phone now features the fingerprint sensor prominently below the display. Like the one on the HTC One M9+, the sensor on the OnePlus 2 is not a physical button but can be used as a capacitive Home button.</paragraph>
+			<paragraph>On either side of the sensor are back and multitasking buttons that are hidden quite well until you touch them. The buttons and the Home functionality of the sensor stop working when you switch to on-screen navigation buttons through the settings.</paragraph>
+			<paragraph>The sides of the phone are made out of magnesium alloy. On the right side are the power and volume control buttons that are easy enough to use. On the left, however, is a new three-step sound profile slider that toggles between the silent/priority notifications/all notifications modes, and is very convenient if you quickly want to silence the phone.</paragraph>
+			<paragraph>On the bottom you can see the grilles for the speaker and microphone, and the new USB Type-C connector. It's worth noting that the OnePlus 2 does not include support for the Qualcomm QuickCharge feature, even though the chipset inside supports it. There is also no wireless charging on this phone.</paragraph>
+			<paragraph>The back of the phone has the same sandstone black finish, with identical texture to the OnePlus One. The OnePlus 2 will also support additional back panels in wood finish, which can be removed and applied easily.</paragraph>
+			<paragraph>The back panels are easily removable now because underneath you will also find the new dual SIM card tray. The battery is still non-removable though.</paragraph>
+			<paragraph>The general build quality, fit and finish of the phone is good and the OnePlus 2 feels like a high-end device without actually costing as much. It is still a big phone, though, so if that's something that bothered you about the previous phone, then you should bear in mind that this is something that has not changed with the new one.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>UI and Performance<subsectionTitle>
+			<paragraph>The OnePlus 2 runs on the new Oxygen 2 OS, compared to Cyanogen OS on the previous phone. Oxygen looks pretty much identical to stock Android for the most part. It also borrows some elements from Cyanogen, such as the ability to use on-screen buttons - those upgrading from the previous phone won't have to deal with too many changes.</paragraph>
+			<paragraph>The performance from the Snapdragon 810 and 4GB RAM seems excellent and the phone seemed perfectly fine in casual use. We couldn't quite test the gaming performance but it's likely to be great as well. We also couldn't check the heating characteristics of the device, which might be important in this case as the chipset has a history of overheating and consequently throttling performance. Only a full review down the line will answer those questions.</paragraph>
+			<paragraph>The phone comes in two configurations - 16GB with 3GB RAM and 64GB with 4GB RAM. We didn't test the former but it's unlikely there would be a big performance difference, although it's worth getting the 64GB model just for the storage space if not for the RAM, as there is still no microSD support on the phone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Fingerprint sensor<subsectionTitle>
+			<paragraph>The fingerprint sensor is a major addition to the OnePlus 2 arsenal. The sensor works pretty much the way we have come to expect now since the iPhone 5s introduced it, using it to unlock the device and in future, use it to unlock apps once Android M brings that feature.</paragraph>
+			<paragraph>The sensor was quick to unlock the phone, however, we noticed that it took much longer than the iPhone, Galaxy S6, or the HTC One M9+ to actually save the print, and you would have to place your finger dozens of times on the sensor before it recorded it completely. Perhaps they would improve upon this in future updates of the Oxygen OS.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The OnePlus 2 has a 13 megapixel camera on the back with optical image stabilization, laser autofocus, and 4K video recording. Camera was quick with fast shot to shot times and startup.</paragraph>
+			<paragraph>We don't have any sample images from the camera but from what we saw on the display, the images looked quite good. The camera application is new and better than the one in Cyanogen OS.</paragraph>
+			<paragraph>The OnePlus 2 lacks the DCI 4K video option, though, and maxes out at 4K UHD. There is a 120fps slow motion mode, however.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>The OnePlus 2 is once again being priced aggressively. For that kind of money, it is hard to judge it too harshly considering the feature set. But it's not really all about the features and specs, and the phone does seem genuinely good to use, as we noticed in our quick hands-on.</paragraph>
+			<paragraph>Basically, if you buy this on a short budget, you won't feel like you have compromised on quality and it is likely to make those who spent on more expensive phones feel shortchanged.</paragraph>
+			<paragraph>Still, OnePlus needs to improve upon its after sales service experience, which matter just as much as the actual user experience, and is a major weakness for the company right now. Once they manage that it would be much easier to recommend this phone. And we would gladly recommend it given the excellent build quality and modern feature set.</paragraph>
+		</subsection>
+	</page>
+</review>

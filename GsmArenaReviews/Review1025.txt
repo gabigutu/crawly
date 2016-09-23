@@ -1,0 +1,131 @@
+<review>
+	<title>Asus overview</title>
+	<description>MWC 2013</description>
+	<link>http://www.gsmarena.com/asus_mwc_2013-review-899.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Other companies want to sell you multiple devices ? at least a phone and a tablet. Asus wants to sell you just one device to do both jobs. This is the idea behind both the Padfone Infinity and the Fonepad.</paragraph>
+			<paragraph>The Asus Padfone Infinity builds on the Padfone 2's specs and addresses the biggest issue of its predecessor ? the resolution of the tablet dock screen is now 1920 x 1200, for notably sharper imagery. 1280x800 stretched across 10.1? just doesn?t cut it anymore.</paragraph>
+			<paragraph>The Padfone Infinity is going after HTC phones with an aircraft-grade aluminum unibody and double-anodized finish (which will hopefully mean no more chipped surfaces like the iPhone and HTC One S experienced).</paragraph>
+			<paragraph>Asus also beefed up the computing power and battery capacity ? there?s a Snapdragon 600 chipset inside the Padfone and the battery inside the tablet dock triples the battery life (the Padfone 2 tablet dock ?only? doubled it).</paragraph>
+			<paragraph>The Asus Fonepad does things slightly differently ? it combines the aspects of a phone and a tablet, but there are no detachable parts, it?s just a 7? tablet. It?s made of aluminum too and hovers around the same price point as the Nexus 7 tablet - ?220 in Europe and $250 in APAC. The Fonepad, however, uses an Intel Atom Z2420 CPU, rather than ARM design.</paragraph>
+			<paragraph>Update, February 26: Asus showcased the Padfone Infinity and Fonepad at their booth today, so we could spend more time with them. We've added more impressions and hands-on videos for the two. Also at the booth were the Memo Pad Smart ME301T (an affordable 10.1" Android tablet) and the Transformer AiO (a Windows 8/Android 4.1 tablet/all-in-one computer, it's easier to show that it is to explain).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Padfone Infinity hands-on<subsectionTitle>
+			<paragraph>The Asus Padfone Infinity comes with an improved screen, a handsome unibody, and a duly upgraded processor. The screen resolution is up from 720p to Full HD, for the much more impressive 441ppi. More importantly, the tablet half of the Padfone Infinity package has also seen a major bump in resolution to WUXGA (1920 x 1200).</paragraph>
+			<paragraph>The Asus Padfone Infinity feels great overall. The phone itself has a unibody design and is made of aero-space grade aluminum alloy, with a brushed finish. The aluminum edge has been anodized twice. We have to say the feel is top notch and the whole thing appears quite durable. The premium looks and the feel of cold metal in the hand are much appreciated.</paragraph>
+			<paragraph>The 1080p screen on the Padfone Infinity is superb. We didn't have that many gripes with the Padfone 2 but this one is so far ahead in terms of quality. Viewing angles are great on the Padfone Infinity, brightness levels look like a match for HTC's Super LCD 3 on the Butterfly and DROID DNA.</paragraph>
+			<paragraph>In terms of saturation the Padfone Infinity's screen is great but things aren't as overdone as on the latest HTC flagships. The screen easily puts the 5" 1080p Reality display of the Xperia Z to shame.</paragraph>
+			<paragraph>The back has a brushed texture. It allows a good grip and gives the device a high quality feel.</paragraph>
+			<paragraph>The tablet dock has been improved too. The materials look and feel unchanged - unlike the Padfone Infinity itself the slate is made out of plastic. We suppose Asus had to very much put weight into the equation too.</paragraph>
+			<paragraph>The biggest improvement is the screen. It's a huge step up from 1280 x 800 to 1920 x 1200. Pixel density doesn't come all that close to retina territory but is more than reasonable in tablet terms.</paragraph>
+			<paragraph>Viewing angles are superb on the slate too, which is a rare thing to have in a tablet.</paragraph>
+			<paragraph>When docked the Padfone Infinity locks firmly into place. The Padfone 2 felt perhaps a tiny bit more secure - but it's by no means a deal breaker for the Infinity.</paragraph>
+			<paragraph>The Asus Padfone Infinity boasts a Snapdragon 600 chipset with four Krait 300 cores clocked at 1.7GHz. We ran some benchmarks to compare it against the HTC One and LG Optimus G Pro, which have the same chipset. The performance of the three as it turns out is not identical, instead each scores some victories. We guess it's a matter of what each company chose to optimize.</paragraph>
+			<paragraph>Anyway, the Padfone Infinity tops the Benchmark Pi and Linpack tests, which are meant to judge single and multi-core performance respectively. It lags behind in AnTuTu and Quadrant, however. These two test the overall performance of the phone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We also ran a quick SunSpider test - and we do mean quick. The Infinity completes the test in 875ms, just edging out the iPhone and Windows Phone competition.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The Asus Padfone Infinity topped three of the benchmarks and we have to say it's not just synthetic performance either. The phone feels blazing fast in real life too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Padfone Infinity hands-on, day 2<subsectionTitle>
+			<paragraph>We didn't get to spend a lot of time with the Padfone Infinity after the event yesterday, but Asus has dedicated today to showing off their products so we went back for a second hands-on.</paragraph>
+			<paragraph>The Infinity had a positive first impression to build on and it didn't disappoint. The phone has a premium feel - metal unibody phones have become a rarity, but it's hard to beat the classic brushed metal look.</paragraph>
+			<paragraph>The sides of the phone are conservatively styled - other than the side-mounted loudspeaker, there's nothing out of the ordinary there.</paragraph>
+			<paragraph>Asus has added some significant tweaks to Android 4.2 Jelly Bean. One of them allows you to switch between different homescreen "modes". Here's how these modes work - you pinch zoom to get to the familiar overview mode, where you can add, remove and rearrange homescreen pnes.</paragraph>
+			<paragraph>Or you can move to a different group of homescreens. Each group has its own set of panes, each with its own widgets (it's similar to the Firefox Panorama feature). The default modes are Asus, Work and Entertainment and you can add more.</paragraph>
+			<paragraph>Another cool thing is the circular menu you get by long pressing the Home key. It's similar to the standard menu you get from the on-screen Home key (for phones that have them, the Infinity uses capacitive keys).</paragraph>
+			<paragraph>You can see the customized Android 4.2 running on the Padfone Infinity in this video:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The screen of the Padfone Infinity is a 5" 1080p Super IPS+ unit. Physically the phone isn't much bigger than the Padfone 2, but there's notably more screen real estate. It's sharper too, though the 312ppi of the older version wasn't bad either.</paragraph>
+			<paragraph>The screen on the Infinity has great overall image quality and viewing angles. The Asus Splendid app allows you to tweak the screen settings to your liking. You can adjust the color temperature and image contrast. There's also a vivid mode toggle.</paragraph>
+			<paragraph>The bump in resolution for the tablet dock, the Padfone Station, is much more appreciated though. The previous two Stations had 10.1" WXGA (1280 x 800) displays with 150ppi pixel density, which doesn't cut it even for tablets.</paragraph>
+			<paragraph>The new Padfone Station ups the resolution to WUXGA (1920 x 1200) and 224ppi. It is not quite on the same level as the iPad with Retina display or the Nexus 10, but the image quality is very good nonetheless. The Splendid app can tweak the tablet screen as well.</paragraph>
+			<paragraph>Anyway, once you plug the Padfone Infinity into the Station, phone apps are upscaled, you can still use the Modes feature on the homescreen and you get access to mini apps. There are more mini apps to choose from compared to the Padfone 2.</paragraph>
+			<paragraph>The video player on the Padfone can be controlled by gestures - you can scrub forward and back through the video by swipes. It's not a novel feature, we've seen apps from the Play Store do the same, but it's still nice to have out of the box.</paragraph>
+			<paragraph>The video watching experience has improved - not just because of the sharper screen on the Padfone Station, but also because of its powerful speaker. We didn't have time to test the video codec support - the Padfone 2 was missing things like MKV and subtitle support - but whether or not Asus had them enabled this time around, the Snapdragon 600 chipset should handle everything you throw at it.</paragraph>
+			<paragraph>Here's the Padfone Infinity in its tablet dock:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Speaking of performance, the Asus Padfone Infinity is impressively fast. It feels fast, but it also benchmarks very well. It topped several benchmarks against the likes of HTC One and LG Optimus G Pro, both of which use the same chipset. The benchmarks can be seen on the previous page.</paragraph>
+			<paragraph>We should note that the powerful chipset produces a good deal of heat. Because the back of the Infinity is made of metal, the head spreads out evenly and is not too hot to hold, but it is slightly uncomfortable. You won't have issues when using the tablet dock though, it's made of plastic and your hands don't touch the Padfone itself.</paragraph>
+			<paragraph>The back of the phone remains exposed so you can still use the NFC connectivity (the antenna is in the Padfone logo) and shoot photos with the 13MP main camera. The Station has its own 1MP front camera as the one on the phone gets covered.</paragraph>
+			<paragraph>Because of the way the Padfone is docked into the Station, the max resolution is reduced if you want to take photos while holding the tablet horizontally (which means the phone is vertical). There's a toggle to switch to the phone's original orientation, but that just leaves huge black bars in the tablet viewfinder.</paragraph>
+			<paragraph>Asus bragged about the 8fps burst shot mode that can snap up to 100 photos, but the camera has a few other interesting features too, including zero shutter lag and GIF mode, which creates cinemagraphs.</paragraph>
+			<paragraph>You can check out camera samples and read about the camera image quality over here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Fonepad hands-on<subsectionTitle>
+			<paragraph>The padfone getting well into its third generation clearly doesn't mean that Asus have given up tablets. The Fonepad is a proper tablet that's going after the likes of the Google Nexus 7 (incidentally also made by Asus).</paragraph>
+			<paragraph>It?s powered by an Intel Atom Z2420 chipset with a single-core CPU at 1.2GHz, 1GB of RAM and PowerVR SGX540 GPU. It will run Android 4.1 Jelly Bean at launch.</paragraph>
+			<paragraph>It feels much like the Nexus 7 apart from the metallic back. It literally sits in your hand the same way as a Nexus 7 tablet. Although similar in size and weight it feels slimmer than the Nexus 7.</paragraph>
+			<paragraph>The screen of the Fonepad is a 7" 1280 x 800 IPS unit. We're pleased with its contrast and viewing angles - it easily bests what Asus achieved with the 7" Nexus tablet.</paragraph>
+			<paragraph>The Asus Fonepad is a pretty straightforward 7" tablet - with the added bonus of telephony. The concept is by no means new - Samsung have quite a few slates with support for voice calls.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Fonepad hands-on, day 2<subsectionTitle>
+			<paragraph>With phone screens hitting 5" and above in size, the term "phablet" pretty much ceased to exist. Asus claims that there's no need to pay for a smartphone and a tablet, when a tablet can do both. So, is the Fonepad the new phablet?</paragraph>
+			<paragraph>Well, the Fonepad certainly has a lot going for it. It's going to sell at nearly the same price as the Nexus 7, but it has a number of advantages. Not the least of which is the screen - it's a 7" WXGA screen again, but of better quality than that of the Nexus in terms of contrast and viewing angles (two things we complained about when reviewing the Nexus 7).</paragraph>
+			<paragraph>The Fonepad also has a microSD card slot to expand the built-in memory, which is either 8GB or 16GB in the different regions. Europe will get the 16GB version, while the APAC region gets only 8GB but a 3.2MP back camera too.</paragraph>
+			<paragraph>And the tablet is almost exactly the same size and weight as a Nexus 7, but with a metal back. Not that the plastic on the Nexus was bad, but metal always feels better.</paragraph>
+			<paragraph>The biggest difference between the Asus Fonepad and the Nexus 7 is the telephony. The Google tablet has a 3G version, but no support for voice calls. You get a standard Phonebook and you can place calls with the tablet though we wouldn't recommend doing it without a headset.</paragraph>
+			<paragraph>Both the microSIM and microSD card slots are hidden under a plastic panel on the back. The antennas are also here (metal blocks wireless signals, so such plastic "windows" have to be made for the antennas).</paragraph>
+			<paragraph>The Asus Fonepad does have its disadvantages though. It features some of the same customizations as the Padfone Infinity, including the mini apps, but not all of the customizations. It runs Android 4.1, instead of 4.2 as well.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The older version of Android might have something to do with the chipset - the Fonepad is Intel-powered with an Atom Z2420 chipset. This means single-core 1.2GHz processor, 1GB of RAM and PowerVR SGX540 GPU. Android 4.2 has been ported to the x86 architecture that the Atom uses, but that branch usually sees slower adoption compared to the much more popular ARM branch.</paragraph>
+			<paragraph>Reading the chipset specs you might have imagined that the Fonepad isn't the fastest device around. And you'd be right - it feels quite slow. We ran a Quadrant benchmark to make sure it's not just our imagination and the results were less than stellar.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Asus Fonepad priced low-enough to be attractive, especially when you consider the better screen, metal body and expandable storage. There's the voice call functionality too, though we're still not sold on the idea. Maybe for a second phone line, maybe, but certainly not as a primary device. And we really wish Asus used one of the beefier Intel Atom chipsets, the Z2420 is out of breath way too often.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Memo Pad Smart ME301T hands-on<subsectionTitle>
+			<paragraph>Asus had a third Android tablet at their booth - the Memo Pad Smart ME301T. It's a 10.1" tablet with Tegra 3 that aims at a lower price point than most other 10.1" tablets out there. Asus unveiled it in Thailand with a $360 price tag, international pricing wasn't announced.</paragraph>
+			<paragraph>The IPS LCD screen has WXGA resolution for 150ppi pixel density. That's only half the pixels per inch that the Google Nexus 10 tablet offers and that is $400 (if you live in the US). It's not as good as the Padfone Infinity Station screen either, but that's a much more expensive device. The Nexus 10 is the exception, most affordable 10.1" tablets have WXGA screens.</paragraph>
+			<paragraph>While the plastic on the back of the tablet isn't the best, the Memo Pad Smart is 9.9mm thick and weighs 580g so it still feels pretty good in the hand. There is a 5MP main camera and stereo speakers on the back with the proprietary SonicMaster tech to improve the sound.</paragraph>
+			<paragraph>The Tegra 3 chipset has four CPU cores clocked at 1.2GHz and there's 16GB of built-in storage, expandable via microSD cards. You also get 5GB life-time Asus CloudStorage.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Transformer AiO hands-on<subsectionTitle>
+			<paragraph>The Asus Transformer AiO is one of the oddest devices we've seen to date. It's an all-in-one Windows 8 computer with an Intel Core i5 or i7 processor and an NVIDIA GT 730M powering it. The screen is an 18.4" IPS LCD with 1080p resolution and 10-point multi-touch.</paragraph>
+			<paragraph>The display itself is detachable from its stand and can be used as a huge tablet. The Intel CPU and Windows 8 OS live in the base, however, so in tablet mode you get Android 4.1 Jelly Bean running on Tegra 3 that's packed inside the tablet. It is possible to use Windows 8 with the tablet detached, but it will run on the base station and stream the display image to the tablet wirelessly over Wi-Fi. You can also use Android when the tablet is docked if you prefer.</paragraph>
+			<paragraph>The screen has good image quality and is a very good computer monitor. For a tablet screen it's not all that great though.</paragraph>
+			<paragraph>The side of the AiO feature a button to switch between Android and Windows, a miniUSB port, a microSD card slot, a 3.5mm audio jack and a laptop-like charger port. The desktop base station has more connections, including full-size USB 3.0 ports and an SD card slot, plus an optical drive.</paragraph>
+			<paragraph>On the other side of the tablet there's a Kensington Security slot.</paragraph>
+			<paragraph>There are stereo speakers on the back of the tablet, along with the flaps used to attach the tablet to the base station.</paragraph>
+			<paragraph>The Transformer AiO is not a tablet you can use on the go - it's big and rather heavy (for a tablet) too. It weighs 2.5kg, which is 15" laptop territory. For a 18.4" screen it's not so bad though. The battery life clocks in at 5 hours. Again, not what you want for use on the go, but for use at home it's perfectly adequate.</paragraph>
+			<paragraph>The Asus Transformer AiO is similar to the Sony Vaio Tap 20 and that 20" Panasonic tablet, but with the added bonus of Android support.</paragraph>
+			<paragraph>It's certainly an unusual device but we found the hardware quite pleasant and we can see using an 18.4" tablet (running Windows 8 or Android) on the sofa at home, then putting it on its base next to the keyboard and mouse when serious work needs to be done.</paragraph>
+		</subsection>
+	</page>
+</review>

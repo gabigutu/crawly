@@ -1,0 +1,154 @@
+<review>
+	<title>Galaxy Note7 vs. S7 edge vs. Note5</title>
+	<description>Camera shootout</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_note5_vs_s7_edge_vs_note7-review-1479.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>There can be no rivalry amidst Galaxies, but this has never stopped us from putting them against each other in all sorts of comparisons. It's what we call a shootout and this time, we'll be focusing on camera performance.</paragraph>
+			<paragraph>In this edition of our intergalactic shootout (it's certainly not our first), we'll be leaving three top Galaxy smartphones to battle it out - we've got the Galaxy Note7, the Galaxy S7 edge, and last year's Galaxy Note5. The trio was released within less than a year and is eyed by millions of fans. But this is a friendly battle, creatures from a single team fighting for the sake of increasing their reputation, if you would forgive us the Pokemon pun.</paragraph>
+			<paragraph>The three curved Galaxies here are all considered top of the line, even though the older Note5 features a slightly less powerful chipset. They are all beautiful though and capable in their own right and putting them against each other in a VS article would hardly produce a winner.</paragraph>
+			<paragraph>That's why we are taking those three into a friendly neighborhood shootout. We want to explore Samsung's achievements in the camera development over the course of the last 12 months and see where it leads us.</paragraph>
+			<paragraph>The Galaxy Note5 relies on a 16MP 16:9 camera with f/1.9 aperture and optical image stabilization. The Galaxy S7 edge and Galaxy Note7 switch the sensor back to a regular 4:3 one with 12MP resolution, but upgrade the setup with blazing-fast autofocus and an even wider f/1.7 aperture. The delay between the S7 edge and Note7 release gave Samsung an opportunity to refine the camera interface and possibly the processing.</paragraph>
+			<paragraph>So, if you are among those users who like to have the best possible camera in their pocket, and you are wondering between one of these three either for budget, or feature reasons, this article is for you.</paragraph>
+			<paragraph>On the other hand, if you'd love to see how those three beasts cross the finish line almost simultaneously when it comes to benchmarks, designs, interface, and screen quality, you should maybe refer to our reviews and specs pages instead.</paragraph>
+			<paragraph>Now, let's fire up those camera apps, and let this intergalactic camera shootout begin!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Daylight<subsectionTitle>
+			<paragraph>Snapping photos in broad daylight is the easiest scenario for any digital camera, and it presents the most common use of the smartphone camera. That's why we'll be doing the most analysis on this scenario.</paragraph>
+			<paragraph>The Samsung Galaxy Note7 and Galaxy S7 edge rely on the same 12MP camera sensor (4:3 aspect ratio) with the impressive Dual Pixel autofocus tech. It's faster and more accurate than any other system that came before it. It also packs Optical Image Stabilization for better low-light performance (helped by the bright f/1.7 aperture) and reducing handshake in videos.</paragraph>
+			<paragraph>The Galaxy Note5, on the other hand, offers a higher-res 16MP camera with 16:9 aspect ratio, OIS-enabled, too. Its aperture is f/1.9 and instead of the new Dual Pixel tech the Note5 relies on a regular phase-detection autofocus, so the 7-series has and advantage here.</paragraph>
+			<paragraph>Before we start putting samples against each other, we should check out the Field of View (FoV) for each camera - that determines how much of the scene fits into the frame. While the Galaxy Note5's camera is wider and with higher resolution, the Galaxy Note7 and S7 edge are the clear winners here. The 7-series may lose a tiny portion on the sides, but there is a significant gain in field of view around the top and bottom.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #1: Daylight photo<subsectionTitle>
+			<paragraph>All three Galaxies resolve great amount of detail in board daylight and are pretty much equal in this scene. The foliage isn't perfect, but it's above average as we've seen much worse on other flagships.</paragraph>
+			<paragraph>The most noticeable difference is with the sharpening - the Galaxy Note5 does the least sharpening, while the Note7 applies the most. The Galaxy S7 edge is in between the Notes.</paragraph>
+			<paragraph>The noise levels are kept amazingly low on all three phones.</paragraph>
+			<paragraph>The white balance seems fine, too, but looking more closely reveals the Galaxy Note5 produces the warmest photos while the Note7 has the coolest-looking ones. The S7 edge is once again in between. The difference isn't that obvious even at the full-resolution crops, but it's worth mentioning.</paragraph>
+			<paragraph>And these are the untouched photos we've used for the crops.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #2: Fine texture detail<subsectionTitle>
+			<paragraph>Moving on to our next scene, the Samsung Galaxy Note5 is again a little softer than the Galaxy S7 edge and Note7 images. The Note5 managed to capture more of the concrete and stucco texture on the wall than the Galaxy S7 edge, and a whisker less than the Note7. On the other hand, the Note5 image looks better as it isn't as over-sharpened as the Note7's.</paragraph>
+			<paragraph>There is also an obvious difference in the processing, but we'll talk about that in a moment.</paragraph>
+			<paragraph>No matter which Galaxy we choose, the fine texture detail will be always on top-notch levels and that's what really matters. The most prominent texture might be visible on the Note7 due to the sharpening, but we still like the more natural looking image by the Note5 better.</paragraph>
+			<paragraph>These are the samples we've used for this scene.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #3: Oversharpening halos<subsectionTitle>
+			<paragraph>Here's a close-up of thin, black wires against bright sky. That's the worst case scenario for software sharpening as it creates the most visible halos. We upscaled each image 5 times using the 'nearest neighbor' interpolation method to make the differences clearer.</paragraph>
+			<paragraph>Doing this allows us to compare the amount of visible sharpening applied by each camera - in the Note7 sharpening is dialed high up, while it's moderate on the Note5 and S7 edge. The Note5 is the most gentle when applying sharpening among the three.</paragraph>
+			<paragraph>You can also check these full-res crops - look at the fuse boxes at the bottom right corner. The Note7 oversharpening is quite prominent, the S7 edge does it as well but not that aggressively, followed by the Note5 at just moderate sharpening levels.</paragraph>
+			<paragraph>These are the samples we've used.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #4: Color rendering<subsectionTitle>
+			<paragraph>Don't get fooled by the punchy AMOLED screens on those Galaxies. The color rendition of the photos turned out rather neutral, strengthened by the great contrast, high-dynamic range, and low noise levels. The Samsung's flagships have been among the few smartphones to be able to resolve the red color accurately and we've always appreciated that.</paragraph>
+			<paragraph>You can refer to the previous crop once again for the red color in the billboard.</paragraph>
+			<paragraph>Removing all other factors from the equation, the color rendering by the three cameras is the same and even better - it's very accurate. We chose two scenes full of color and the three crops perfectly demonstrate the color rendition parity.</paragraph>
+			<paragraph>And here are the full-res samples.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #5: Dynamic Range<subsectionTitle>
+			<paragraph>In our Galaxy Note7 review we found out that the dynamic range was improved compared to the previous gen phones as the shadows of its photos were noticeably brighter than what we've used to see with the S7 series. It seems the improvement is most noticeable in the shadows, and there is none in the highlights. Our best guess is that the improved effective dynamic range is courtesy of a new processing, a dynamic range optimizer, which detects the high contrasty light conditions and brightness up the shadows by applying a special tonal curve.</paragraph>
+			<paragraph>Dynamic range optimization algorithms are like an AutoHDR mode, which is always on, but kicking in only when needed. Disregarding any discussion about whether that may be considered cheating or not in a way, we'll only say we're quite happy with the results. The photos look natural, and nothing is overexaggerated. We're only left wondering, why not update the S7 and the S7 edge with the same mode since they use the same image sensor.</paragraph>
+			<paragraph>In this sunset scene we used for testing this you can notice the gradual improvement in the shadows detail as you go from the Note 5 to the Note 7. The latest processing developed by Samsung for the Note7 made the whole scene a lot brighter than its predecessors and you can clearly see what's in the shadows.</paragraph>
+			<paragraph>So, when it comes to dynamic range - the Note7 clearly has the widest one - it's as if it has AutoHDR always on (and it doesn't - we checked). Turning any of the HDR modes yields even bett&#x435;r results.</paragraph>
+			<paragraph>These are the untouched samples.</paragraph>
+			<paragraph>Winner: Galaxy Note7. All three phones are equally good in taking daylight photos. The Galaxy Note7, however, offers the widest effective dynamic range in tough light conditions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera: low-light<subsectionTitle>
+			<paragraph>To test the low-light performance of the phones we took several photos after sundown, and it got progressively darker as we were working. We'll start off in chronological order, with the first photos taken at dusk.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #6: Photo at dusk<subsectionTitle>
+			<paragraph>Relying on the built-in OIS to combat camera shake, all three Galaxies were comfortable dropping the shutter speed to as low as necessary, but the wide apertures surely helped, too. A wide aperture lets more light into the sensor, which in turn allows the camera to drop the ISO as low as possible while achieving the same exposure of the scene. Shooting at the lowest possible ISO is always beneficial as the higher the ISO, the more noise there is.</paragraph>
+			<paragraph>The Galaxy Note5 was the one to retain the finest detail in the center of the dusk photo - you can see the fine lines below the Life sign and in front of the windows. On the other hand, the Note7 and S7 edge did better around the corners, but their processing algorithm and its tendency to over sharpen the image took its toll on the thin lines as there are square shapes were there shouldn't be.</paragraph>
+			<paragraph>Still, all three phones did an excellent job of shooting at low ISO200, and low shutter speed at 1/25 (1/20 for the Note5), but noise ate into some of the detail on the Note5.</paragraph>
+			<paragraph>And here are the samples we've used in this test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #7: Night time photo<subsectionTitle>
+			<paragraph>We took the final test shot after it was already completely dark. Thanks to the wide aperture and optical image stabilization in all three phones the night photos turned out quite pleasant. The Galaxy Note5 was at a bit of a disadvantage with its f/1.9 vs. f/1.7 in the S7 and Note7 shot at ISO 1000 with 1/8s shutter speed, while the latest generation Galaxies settled at ISO 800 and shutter speed of 1/10s for the same scene.</paragraph>
+			<paragraph>Nevertheless, the Note5 did great at the center of the image resolving lots of detail. Its noise reduction is low and left visible noise, but it also left lots of fine detail because of that. Its sample is also the brightest one among the three.</paragraph>
+			<paragraph>On the other hand, the S7 edge and Note7 did great around the whole image, not only in the center. There is fine detail everywhere, and their samples don't have any corner softness. The Note7 due to its improved processing outed a brighter image with more detail in the shadows and more accurate (less warm) colors.</paragraph>
+			<paragraph>While the Note5 does great around the center of the image, better than the Note7, the latest phablet ticks more right boxes and is thus the better shooter for night scenes. Just don't forget all three Galaxies feature capable manual modes, which can always help you adjust the camera settings instead of settling for the audo tweaks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #8: Flash<subsectionTitle>
+			<paragraph>We also snapped a few pictures with the flash turned on. All three Galaxies feature a single-LED yet powerful flash, while the processing algorithm compensates for lack of a dual or triple-tone LEDs.</paragraph>
+			<paragraph>We snapped a photo at 2 feet distance and another one at 4 feet and the wider aperture of the S7 edge and Note7 gave their samples an edge over the Note5.</paragraph>
+			<paragraph>The two Notes resolve a similar amount of detail, while the S7 edge does better in both scenes. The color rendition of the Galaxy S7 edge is also the best as is the contrast and the white balance.</paragraph>
+			<paragraph>Winner: Galaxy Note7. The Note 5 low-light photos are great at the center, but very soft around the corners. The S7 edge and the Note7 are sharp from edge to edge, which gives them, an advantage over the Note5. The Note7 has brighter and sharper images than the S7 edge and takes the top spot, though the S7 edge is better when it comes to close range flash photography.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Test #9: Macro<subsectionTitle>
+			<paragraph>Macro photography is another area where you could apply your cameraphone's skills. The macro photos by the three devices came out nice, but the Note5 had the advantage of the higher resolution and captured more detail than the 7-series.</paragraph>
+			<paragraph>The Note7 sample was the brightest, but even its sharpening couldn't help it beat the Note5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #10: HDR<subsectionTitle>
+			<paragraph>Thanks to the wide dynamic range of all three cameras, even if you leave the Auto HDR mode on - it rarely gets triggered (you can force it 'On' if you like). It does a great job at restoring detail to highlights, but it slightly affects image quality - thin lines develop jaggies and moire effects appear.</paragraph>
+			<paragraph>No matter which phone of the three you are using, the Auto mode does a great job of recovering detail in the shadows, while forcing it to 'On' brightens the whole image without ruining the quality if we don't count the minor moire effect visible on some photos.</paragraph>
+			<paragraph>There is no need of crops to demonstrate the HDR effects, just take a look at the thumbnails below.</paragraph>
+			<paragraph>And here is a classic HDR scene - a dark corridor and a well-lit space after. Even when the HDR effect is turned off, all three phones did great. Thanks to the improved processing, the Galaxy Note7 outed the most balanced exposure.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Test #12: Panorama<subsectionTitle>
+			<paragraph>Samsung is known for its great panoramic shots in its flagship cameras and all three Galaxies here are great in shooting panoramas. The Galaxy S7 edge and Note7 samples are huge - close to 4,000px vertically and rich with detail. The dynamic range handles the shadows and highlights well, and stitching is excellent.</paragraph>
+			<paragraph>The Note5 is equally impressive, though the vertical resolution maxes out at 3,200px.</paragraph>
+			<paragraph>If you are after resolution - the 7-series does better, but if you are after quality - all three Galaxies are equally great at shooting panoramic images.</paragraph>
+			<paragraph>Winners: The Note5 has the sharpest macro, even though the Note7 has the brightest. The HDR shots are best on the Note7. The Note7 and S7 edge has higher-res pano shots, but the quality is on par with the Note5.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video camera: daylight<subsectionTitle>
+			<paragraph>All three Galaxies can record 2160p video and the battle here is for prestige.</paragraph>
+			<paragraph>The first thing to explore is the Field of View and after we compared the three camcorders, the Note5 emerged as a slightly wider than the S7 edge and Note7.</paragraph>
+			<paragraph>As it turned out, the Note5, S7 edge, and Note7 shoot identical daylight 4K videos. There is plenty of resolved detail, the white balance is spot on, the contrast and the dynamic range is great. The three phones sharpen the image almost the same, though the Note7 sometimes overdoes it.</paragraph>
+			<paragraph>The video bitrate is identical at 48Mbps as is the audio one at 256Kbps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera: low-light<subsectionTitle>
+			<paragraph>Naturally, we captured a few videos shortly after sunset and the results were as expected - the S7 edge and Note7 both benefit from their wider f/1.7 aperture (vs f/1.9 in Note5) and thus produce brighter videos with less noise and more fine detail.</paragraph>
+			<paragraph>The Note5 went for cooler videos, while the S7 edge got those a bit warmer than they are. The latest Note7 got them perfectly, though.</paragraph>
+			<paragraph>We got the same picture with the night videos - the wider aperture helped the 7th series to capture more light, and the Note7 got the colors just right.</paragraph>
+			<paragraph>You can explore all 4K samples we used in our tests in these YouTube Playlists.</paragraph>
+			<paragraph>Winner: Galaxy Note7. The Note 7 outs the brightest videos in low-light conditions, S7 edge is the runner-up, and the Note5 is the darkest. In daylight - all three phones are pretty much equals in terms of quality.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Selfies<subsectionTitle>
+			<paragraph>Samsung has certainly been conservative with the maximum resolution of the selfie camera - the Note5, the S7 edge, and the Note7 - they all pack 5MP selfie snappers with fixed-focus. Just like their main cameras, the three phones differ in the aperture of their selfie cameras as well - f/1.9 in the Note5, and f/1.7 for the S7 edge and Note7.</paragraph>
+			<paragraph>The selfie cams support Wide selfies and real-time Beautify effects, among other must-have selfie features, but we will be focusing on the picture quality only, and we won't be evaluating the effects or other cheap tricks.</paragraph>
+			<paragraph>The Note5 produces the least detail in the two daylight locations we chose, while the S7 edge and Note7 do equally well. The new processing for the Note7 applies to the selfies as well - its pictures had the brightest shadows among the three snappers.</paragraph>
+			<paragraph>The 7-series selfies are detailed, with accurate colors and good contrast. We shot with the HDR turned off, but you'll want to leave Auto HDR on as the dynamic range of the three selfie cameras isn't as good as on the primary setups.</paragraph>
+			<paragraph>We wanted to test the selfie shooters inside, so what's a better place than our elevator, right? All three selfies came out very soft, with smeared fine detail and pretty noisy. Note that no beautification effects were applied despite the fact that the lack of detail might have you believe otherwise.</paragraph>
+			<paragraph>The wider aperture didn't matter here for the S7 edge and Note7 - they performed the same as the Note 5.</paragraph>
+			<paragraph>We doubt anyone will choose any of these Galaxies for their selfie capabilities, but no matter which one you own - you'll be happy with its selfies.</paragraph>
+			<paragraph>Winners: Tie for the Galaxy Note7 and S7 edge. The Note7 and S7 edge produce equally good selfies, while the Note5's lacks fine detail.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final thoughts<subsectionTitle>
+			<paragraph>We doubt any of these tests will make a Note fan get the S7 edge, because if you love the S-Pen, nothing can replace it. We wanted to explore Samsung's flagship camera evolution over the past few devices and see what got better and what not.</paragraph>
+			<paragraph>As it turned out Samsung just made a great camera even greater. The image quality is often on par across all three devices, but the processing algorithm is more sophisticated for brighter and sharper images. While there is an Auto HDR option on all devices, we're pleased to say that the Note7 hardly needs this mode. The dynamic range optimization Samsung has implemented does a great job of brightening up the shadows just when it's needed.</paragraph>
+			<paragraph>Even though it's not advertised in any way, it's there, and it works great when you need it. That's why it got our nod in this shootout - because it's a class-leading feature - not just among Samsung devices - but also most of its competitors as well.</paragraph>
+			<paragraph>The S7 edge has the same camera sensor and outs identical images when shadows are not involved. But even then - those are still brighter than the Note5's. The flash samples turned out a tad better with the S7 edge, too. Its colors come out warmer, but the difference is marginal at best.</paragraph>
+			<paragraph>Then there is the Note5, which may have a lesser field of view and the old processing algorithm, but you can't just write it off. The 16MP resolution spreading on a narrower FoV occasionally captures a lot more detail than the 7-series phones and thus can prove invaluable when you want to see even the tiniest details (such as in macro setups). And if the not-so-bright shadows are a concern for you, there is always the nice Auto HDR option for you.</paragraph>
+			<paragraph>Yes, the Galaxy Note7 won this shootout even if by a small margin. There were hardly any surprises along the way. If you want the best Samsung camera right now, it's the one on the back of the Note7. But this shouldn't stop you from considering the S7 edge or the Note5 - both flagships still offer best in class screens, designs, and performance. And some of the best images and videos, too.</paragraph>
+		</subsection>
+	</page>
+</review>

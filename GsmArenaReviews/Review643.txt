@@ -1,0 +1,330 @@
+<review>
+	<title>Acer Liquid Jade S review</title>
+	<description>Semi-precious</description>
+	<link>http://www.gsmarena.com/acer_liquid_jade_s-review-1237.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Acer Liquid Jade S key features<subsectionTitle>
+			<paragraph>Dual SIM slots, quad-band 2G connectivity for both SIM cards, quad-band 3G and Cat. 4 LTE for download speeds up to 150Mbps</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n, hotspot; GPS with A-GPS</paragraph>
+			<paragraph>64-bit Mediatek MT6752M chipset with an octa-core Cortex-A53 processor clocked at 1.5GHz</paragraph>
+			<paragraph>Mali T760MP2 dual-core GPU</paragraph>
+			<paragraph>2GB of RAM, 16GB of storage on board, expandable up to 32GB via microSD card in place of SIM 2</paragraph>
+			<paragraph>5-inch IPS LCD capacitive touchscreen display of 1,280 x 720 pixels resolution, Gorilla Glass 3 protection</paragraph>
+			<paragraph>13MP main camera with fast f1.8 lens, autofocus, and LED flash; 1080p@30fps video recording</paragraph>
+			<paragraph>5MP front facing camera</paragraph>
+			<paragraph>DTS-HD certified audio</paragraph>
+			<paragraph>Android 4.4.4 KitKat with thorough customizations from Acer, promised upgrade to Lollipop</paragraph>
+			<paragraph>FM radio receiver</paragraph>
+			<paragraph>2,300mAh battery capacity</paragraph>
+			<paragraph>Compact, light body; striking design</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non-removable battery</paragraph>
+			<paragraph>Power button is in an uncomfortable position</paragraph>
+			<paragraph>No NFC</paragraph>
+			<paragraph>You can't have dual-SIM and microSD at the same time</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It's a tall order for any midranger to stand out among a myriad of offerings in the market. Both established brands and emerging Asian manufacturers are trying hard to grab a piece of that market spoiling those shopping there for choice. The Acer Liquid Jade S aims to make a name for itself with bold looks, slim waistline and balanced hardware.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Announced merely six months after the Liquid Jade the S version brings notable upgrades in several major areas. A more powerful chipset, featuring an octa-core processor and a higher-grade graphics processor is the key change, but the doubled operating memory and onboard storage are also important updates. The new SoC is not just about higher performance though, it also brings LTE support to the mix.</paragraph>
+			<paragraph>Meanwhile, other key features have been retained starting with the 5-inch display. True, it's not FullHD, but qHD resolutions aren't unheard of in the price segment and 720p gives enough density without rising the price too high. The dual SIM capability will be appreciated by a certain type of users, even if the second card needs to fight with the microSD for the shared slot space.</paragraph>
+			<paragraph>The Acer Liquid Jade S sports prominent styling too. While certain design elements may not be to everyone's liking, it's definitely not just another nameless black rectangle of a smartphone. It's also light and pleasantly thin - a rarity in a price range where build is usually sacrificed at the altar of lower price.</paragraph>
+			<paragraph>So, as evidenced by the above list, the Acer Liquid Jade S addresses the predecessor's shortcomings and adds up to a convincing smartphone package on paper. The capable hardware is complemented by unusual styling that may not please everyone, but is certainly a conversation starter.</paragraph>
+			<paragraph>With the specs duly rounded up, we headed on to the lab for our customary test routine. We start on the next page with unboxing and hardware inspection.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard retail package<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S arrives in a sleek retail package, mimicking the pattern on the back of the device itself. Removing the sleeve reveals the actual cardboard box, where the patterned theme continues.</paragraph>
+			<paragraph>Inside the box you'll find a pretty standard bundle. You get an AC adapter, which pumps out 1.35Amps at a rather odd 5.2V and a separate microUSB cable. There's also a nice pair of flat-cabled earbuds of the in-ear variety with a single-button remote. A couple of booklets complete the contents of the box.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Acer Liquid Jade S 360-degree spin<subsectionTitle>
+			<paragraph>The Liquid Jade S measures 143 x 69 x 7.8 mm, which is about average for a 5-inch smartphone. The huge lens on the back sticks out a good 2mm, though, which means it's easier to scratch than most. Perhaps the slim side bezel might give it some protection but that's marginal. The smartphone weighs in at only 116g, so you can easily slip it in a pocket and forget it's there.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S is a very decently looking phone and more importantly one that doesn't lack personality. We have here the Black color option, and simply calling it black is a gross understatement. While the front could go by the ebony designation, the back is nothing like.</paragraph>
+			<paragraph>When light hits the rear cover, it reveals a fine cross-hatch pattern, the same one present on the box. It's a nice effect, even more pronounced in sunlight, but it is most definitely not black, more like an infinite number of purple shades. The back is not removable, so you can forget about replacing the battery or popping a different style cover, but this is slowly turning to be the norm, and we'll need to learn to live with it.</paragraph>
+			<paragraph>That aside, the Liquid Jade S is well built and doesn't flex, rattle or creak. Its thinness might however discourage you from excessive bending experiments, because an engineer can only do so much with as little materials.</paragraph>
+			<paragraph>Materials are well chosen and offer a good balance between price, appearance and feel. While it's no match for the flagships out there, the Liquid Jade S employs quality plastics, which are not prone to fingerprints - always a plus. The screen coating has also been chosen well, and doesn't instantly turn into a smudgy mess as we've witnessed in other units.</paragraph>
+			<paragraph>You have an Acer logo below the display and another one centered on the back to state your choice of brand while taking a call. That is, if the observer can take their eyes off the huge circular camera lens on top of the rear end. Another notable design feature is the plughole-style grille towards the bottom end of the back, which houses the DTS-HD certified speaker.</paragraph>
+			<paragraph>All in all, the Acer Liquid Jade S sports a unique design, which may not appeal to everyone, but is nonetheless a fresh example how a smartphone can stand out without needing overly expensive materials.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S has its controls rather evenly distributed. The top right (when viewed from the front) is the home to the power button. It's a location which may have been acceptable on the 4-inch iPhones, with their dedicated home button in closer reach, but is very much out of place on a 5-inch smartphone where it's the only means to wake up the device.</paragraph>
+			<paragraph>Moving on, towards the left of the top you'll find the 3.5mm headphone jack, while in between resides the pinhole for the secondary mic. The bottom is home to the microUSB port on the right and the primary microphone is even closer to the corner.</paragraph>
+			<paragraph>The right side houses the volume rocker, which has a ridge on the "up" section for tactile feedback. The left side houses the SIM card tray, which requires nothing but a fingernail to pry out. That's not to say, that comes off too easily, but it may actually develop that habit with prolonged use. The tray accepts nano SIM cards only, and slot 2 is shared with the micsoSD, so you get either dual-SIM functionality or microSD expansion - not both at the same time.</paragraph>
+			<paragraph>Round the back you get the camera lens bump we already mentioned, flanked by a single LED flash. At the far end is the round speaker grille. The earpiece on the front continues the plughole theme and is joined by the 5MP front camera and proximity/ambient light sensors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S is amazingly light and you can slip it in a pocket and forget about it altogether. The smartphones is also pretty thin and that coupled with its rounded edges means that it doesn't create unsightly bulges in your jeans.</paragraph>
+			<paragraph>The power button placement requires either a two-hand operation or moving your hand from its natural position to somehow reach the top with your index finger. Hardly the most convenient solution.</paragraph>
+			<paragraph>The back surface, while not glossy, doesn't really have much texture and is pretty slippery. Combined with the stretching exercises needed for each lock/unlock action, the Liquid Jade S is at a great risk of being dropped more often than its owner would like.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Acer Liquid Jade is equipped with a 5-inch IPS LCD display with a 1,280 x 720 pixel resolution. Stretched over this diagonal, that results in the decent 294ppi density. It's not class-leading numbers and competitors can be found, which sport FullHD panels. Then again, the hugely popular Samsung Galaxy Grand Prime gets away with 540 x 960 pixels at the same-sized screen, so it's not among the worst by any means.</paragraph>
+			<paragraph>The display gets a Gorilla Glass 3 treatment for resistance to scratches and shattering. The oleophobic coating does a decent job at keeping fingerprints away and is relatively easy to clean. There's no dedicated glove mode on board, so keep that in mind if you live in colder climates.</paragraph>
+			<paragraph>A Reading mode is provided, which aims to negate the adverse effect of blue light on your eyes. It's adjustable from the display settings and pumping it up turns the image progressively greener. Our guess is that this feature will remain off most of the time.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We ran the usual set of test, and the Liquid Jade S managed to surprise us, but not in a good way, sadly. The white luminance at the 100% brightness setting was a mere 255cd/m2, one of the lowest values we've ever measured. It's of little consolation that the low black value helped in achieving a decent contrast ratio.</paragraph>
+			<paragraph>It's not impossible, that this was an issue limited to our unit - given that the 50% brightness setting didn't produce much lower results. We'll investigate the matter and update the review if needed.</paragraph>
+			<paragraph>The 50% setting is actually more like 75% and at least that is on par with the competition. Contrast remains virtually the same when you move the brightness slider halfway.</paragraph>
+			<paragraph>On the positive side, viewing angles were quite good, and despite some contrast compression, text remains easily readable even when the phone is viewed at extreme angles. Colors were punchy, yet true to life when viewed head-on, and don't get too washed out when looking from the sides.</paragraph>
+			<paragraph>Sunlight legibility was rather poor, which was to be expected considering the extremely dim overall properties of the display. You'll be better off staying in the shade, as the poor brightness can only do so much.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The battery inside the Acer Liquid Jade S is rated at 2300mAh, and that is an average capacity for a midrange 5-inch smartphone. Both the Samsung Galaxy A5 and the Lenovo Vibe X2 come with the same amount of juice, while the Huawei Honor 6 packs a whopping 3100mAh battery.</paragraph>
+			<paragraph>The endurance results were a mixed bag. On the positive side, 3G talk times were respectable at close to 17 hours.</paragraph>
+			<paragraph>We also run a standby battery endurance test, which is not shown in the scorecards below, but is a part of the overall rating. With a single SIM inside the phone lasted just shy of 10 full days in standby. Pop in a second SIM card and standby time drops to a bit more than 7 days, which is still an ok performance.</paragraph>
+			<paragraph>On the other hand, screen-on times were downright disappointing. The browser test drained the battery in less than 5 hours, and video playback longevity was even lower. To translate into real-life numbers the Liquid Jade S won't make it to two full days if you do an hour each of 3G voice calls, web browsing, and video playback a day. Heavier use will likely have you looking for a charger before the end of the day. The poor screen-on times render the standby numbers pretty much irrelevant and that shows in the two overall endurance ratings below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Meanwhile, the Lenovo Vibe X2, which doesn't fare too well either, managed a much better 8-hour web browsing stamina. The Honor 6 with its 3,100mAh battery is in a league of its own with 13 hours of screen-on time.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S has all the connectivity basics covered and even has some speedy support on top of that. First and foremost, it's a dual-SIM device, albeit with a few compromises. SIM 1 gets quad-band 2G, dual- or quad-band 3G, and triple- or quad-band Cat.4 LTE, depending on your region. The second SIM is limited to 2G only, and shares a slot with a potential microSD card.</paragraph>
+			<paragraph>In terms of local connectivity, you get Wi-Fi 802.11 b/g/n with Wi-Fi direct and hotspot functionality for sharing your internet connection with up to 8 other devices. Wi-Fi only works on the 2.4GHz band, though, and there's no DLNA capability.</paragraph>
+			<paragraph>Bluetooth is in its 4.0 version, but there's no NFC functionality. There's a GPS receiver with A-GPS capability and a compass sensor. An FM radio receiver is also on board.</paragraph>
+			<paragraph>A standard issue microUSB port sits on the bottom of the device, but it's not loaded on features. Aside the obvious charging purposes, it can be used for data transfer to your PC, but there's no OTG functionality, let alone MHL output. The Liquid Jade S has a regular 3.5mm headphone jack.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Liquid Jade S comes with the last pre-Lollipop version of Android, KitKat 4.4.4. Acer saw areas where Google's OS had room for improvement and the interface is quite heavily customized. For a quick glimpse of the UI check out the brief video below:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Pressing the power button lights up the display and the Liquid Jade S greets you with Acer's take on a functional lockscreen. It shows a combined clock and weather widget on top for a quick update on when and where you are in the world. The liquid concept is continued with a wave effect which simulates that your phone is half full of water (or half empty, depending on your view of the world).</paragraph>
+			<paragraph>A host of shortcuts is at your disposal, which copies the dock on the homescreen, for quick access straight from the lockscreen. If you just want to unlock the phone you have to swipe from the padlock or any other empty space on the lockscreen. Google Now can also be called upon with an upswipe from the bottom edge.</paragraph>
+			<paragraph>Past the lockscreen you arrive at a pretty standard homescreen with the usual arrangement of onscreen buttons. Google Now can be accessed from here as well with a tap and hold on the home button.</paragraph>
+			<paragraph>A set of four app shortcuts sit at the dock with access to the app drawer in the middle. You can't change this arrangement and if you choose to have 3 icons, they don't redistribute evenly. You do get folder support, though.</paragraph>
+			<paragraph>The Liquid Jade S lets you have up to nine homescreens, and you can access their settings with a pinch gesture. From there you can add, remove and rearrange those and set an arbitrary one as Home. A number of transition styles are available and the homescreens can be cycled or not, depending on your preference.</paragraph>
+			<paragraph>The Liquid Jade S lets you have up to nine homescreens, and you can access their settings with a pinch gesture. From there you can add, remove and rearrange those and set an arbitrary one as Home. A number of transition styles are available and the homescreens can be cycled or not, depending on your preference.</paragraph>
+			<paragraph>The notification shade is one of the areas where Acer's touch is most noticeable with a thoroughly redesigned set of toggles. Other than that the features are pretty standard, and a single-finger pull-down reveals 5 toggles and the list of notifications. Swiping with both fingers opens the entire array of toggles with a direct shortcut to their settings, where you can rearrange them and chose which 5 are immediately available.</paragraph>
+			<paragraph>The task switcher is another modified aspect of the UI with added functionality. It displays up to nine running apps in a grid of thumbnails, and swiping a thumbnail away closes the app. A "Remove All" button is present as well.</paragraph>
+			<paragraph>On the bottom of the task switcher you get a strip of what Acer calls "Float apps", i.e. apps that open in a window, on top of whatever else you have on the screen, much like Sony's small apps. You get a host of float apps, including a quick note app and a calculator, but also a windowed view of the camera app and the built-in browser. Some float apps can be resized, while others are fixed-size. Only some apps can be opened in this fashion, but a number of widgets are available too.</paragraph>
+			<paragraph>Additionally you can opt for a floating bar of buttons which double the back/home/task buttons for simplified single-handed use. The bar comes in two sizes with the larger one offering a shortcut to the notification shade and another one for locking the device without reaching for the power button.</paragraph>
+			<paragraph>The app drawer is a more standard affair with a familiar 4x5 grid of apps, which can be sorted by name, date or frequency of use. Swiping right past the apps you get to the widgets, but once you run out of those, you have to swipe back left to get to get to the apps, as there's no cycling in the app drawer.</paragraph>
+			<paragraph>Finally, Google Now integrates with your Google account and if you give it access to your daily routine, internet searches, email, etc. and give you information relevant to your interests and daily needs.</paragraph>
+			<paragraph>It provides traffic information to your work or home, knows the scores of sports teams you follow and gives you the weather forecast for your location. It's great for at-a-glance info, but can handle voice input as well. It also has a dedicated homescreen/lockscreen widget.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S packs a potent Mediatek MT6752m chipset, with an octa-core Cortex-A53 processor. If weren't for the "m", it would be clocked at 2.0GHz, but here it's only ticking at 1.5GHz.</paragraph>
+			<paragraph>The graphics chip is a dual-core Mali-T760, clocked at 700MHz. The same one is found in the beastly Exynos 7420, only there it's an octa-core version. Operating memory is 2GB, which should be more than enough for daily tasks.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Those specs put the Liquid Jade S towards the upper end of the midrange, and that's the kind of performance we expected setting out to do the usual tests. The smartphone mostly delivered.</paragraph>
+			<paragraph>First off, the Liquid Jade S aced the CPU-centric Geekbench 3 benchmark. Placing close to the Lenovo Vibe X2, which packs a slightly superior MT6595m chipset, the Acer smartphone beats the current Snapdragon 615-packing crowd as well as the S800, found inside older flagships Sony Xperia Z1 and LG G2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to the Antutu benchmark, which tests overall performance including CPU, GPU and memory management. The Liquid Jade S again pulls ahead of the Qualcomm competition but is bested by the Vibe X2 and the Huawei Honor, which has 3GB of RAM working for it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II 2.0 is another compound benchmark, but interestingly the Liquid Jade S doesn't fare too well here. It's combined score puts it in the middle of the bunch, while the Honor 6 is noticeably better.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The CPU-specific parts of the benchmark tell a slightly different story and the eight identical Cortex-A53 cores put the Liquid Jade towards the top of the pack in the multi-core routine. Single-core performance is average, though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Graphics department turns out adequately covered. While the standardized 1080p off-screen tests in the GFXBench bundle yield unimpressive numbers, in reality the GPU has to push less than half of those pixels at the phone's actual 720p resolution. Thus, the Acer posts good framerates in the T-Rex test and an acceptable 10 in the more complex Manhattan benchmark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark X doesn't make that differentiation and only tests off-screen performance, hence the rather low results.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Browser performance is decent but nothing spectacular. We ran the benchmarks in both the stock browser as well as the included Google Chrome, and results were consistent, which is not always the case.</paragraph>
+			<paragraph>The JavaScript-focused Kraken 1.1 is in fact a letdown, with rivals Vibe X2 and Honor 6 posting markedly better scores. Even so, Snapdragon 615 remains behind.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Browsermark 2.1 is a compound benchmark which tests overall performance in everyday tasks like resizing and page loading. The Liquid Jade S did okay but Vibe X2 was miles ahead once again.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, the Liquid Jade S performed well with very good raw CPU performance and decent graphics. The posted scores show no unpleasant surprises and the potential of the capable hardware is optimally utilized.</paragraph>
+			<paragraph>What the numbers don't reveal is that the phone gets pretty hot while running the benchmarks. It exhibits that behavior in general use as well, for example while browsing. It doesn't go past the point of being bearable, but the limited volume for heat dissipation has had its say.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook that does the job<subsectionTitle>
+			<paragraph>Acer's Phone app offers a combined interface for the phonebook and dialer. The app is laid out across five tabs with call log, dialer, favorites, contacts and groups. Tabs can be side-swiped, so you don't need to reach for the top to tap on the respective icon.</paragraph>
+			<paragraph>The actual phonebook is pretty standard-issue being just a list of contacts. There's no quick access to a specific letter on the side, but there's a search function. It doesn't work if you only know part of the name though, so typing "ark" won't return "Mandark".</paragraph>
+			<paragraph>Opening up a contact reveals the usual set of options with practically every type of field you can think of, with phone numbers, IM names, websites, the lot. You can assign the contact to a group or multiple groups or simply tam the star at the top to add to favorites. The favorites tab lists shows two contacts in a row with a photo and a name and there's no option for changing that. Scrolling down past those, you get another list of recently contacted people.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>Cellular telephony is well covered on the Liquid Jade S. Reception was strong and in-call sound was just fine, if not the loudest we've heard.</paragraph>
+			<paragraph>Flipping the phone face down mutes an incoming call, but picking it up to your ear doesn't automatically answer it. Also, the proximity sensor works in conjunction with the gyro, so it only switches off the screen when the phone is held in an upright position.</paragraph>
+			<paragraph>Tapping the Phone app defaults to the dialer, which is more of a throwback to the days of old, and it may prove quite annoying in the long run. You do get the latest contacted person on top for a quick redial. Tapping down a few digits the phone starts suggesting contacts, which speeds up the process a bit. You can have the call a floating window on your screen, while doing other business, much like the float apps already mentioned in the UI section.</paragraph>
+			<paragraph>The call log offers a combined view of calls received, dialed and missed, but you can opt to display them by categories to more easily locate a specific contact.</paragraph>
+			<paragraph>Being a dual-SIM device, the Liquid Jade S offers a choice of options on how to handle the matter. Once you insert the SIM card tray, a dialog pops up informing you of the current setup and gives a direct shortcut to the SIM management section of the settings menu. From there you can enable/disable each of the SIMs as well as specify which one is used for different tasks such as voice calls or data transfer.</paragraph>
+			<paragraph>Our proprietary loudspeaker tests returned quite underwhelming results. The "Below Average" rating means that even at maximum setting you're very likely to miss a few calls in a noisy setting. You can attempt to remedy this by enabling the DTS-HD mode and pumping the bass and treble all the way up to the maximum 7, but even then it doesn't get much louder.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging, email and text input<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S comes with a vanilla Messaging app, which has all the basic features you would expect. There's the usual threaded view, and attaching an image or a video turns the text message into an MMS one. You can also launch the camera straight from within the Messaging app, so you don't need to have the photo already taken beforehand.</paragraph>
+			<paragraph>The familiar Google Handouts provides an alternative for SMS/MMS messaging, while also offering better multimedia experience with emoticons, stickers and GIFs. You can also have group chats with up to 100 people or group video calls with up to 10 participants.</paragraph>
+			<paragraph>As is commonly the case, the Liquid Jade S has a couple of email apps, the generic Android Email one and Gmail. They offer largely the same functionality, with similar interface and support for multiple accounts. The generic app has a more restrained look while Gmail is all Material design colorful. It does have that additional Google touch that may make you choose it over the default one.</paragraph>
+			<paragraph>Swype keyboard comes preinstalled on the Acer Liquid Jade S and offers the familiar single-finger input as well as regular tapping. An English dictionary was installed, but you can download others off the internet, offering word suggestions and predictive input. It also learns from social media and updates with popular new words, but a manual editing feature lets you have the last word.</paragraph>
+			<paragraph>Google keyboard is also on board and packs much the same features. Where it falls short is that it doesn't offer secondary symbols for quick tap-and-hold input without changing the entire layout.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Stock gallery<subsectionTitle>
+			<paragraph>The Gallery app on the Liquid Jade S is a pretty standard affair, being the stock Android one, before the arrival of Photos. It defaults to an Album view with the Camera album on top laid out across the entire width of the screen. The rest of the albums follow with smaller thumbnails taking up half the display width. That arrangement cannot be changed with a pinch gesture or the like.</paragraph>
+			<paragraph>You can however group the images by the time created, which takes the Liquid Jade S a few seconds to sort and display. Alternatively, the gallery can display your images according to location, if you remembered to tick the geotagging box when shooting them in the first place. Not much else can be said, except that you get a camera shortcut for direct access from the gallery.</paragraph>
+			<paragraph>Single image viewer offers a two-stage dropdown menu with sharing options, as well as a shortcut to the most recently used one. Quick editing like cropping and rotation can be done from the option button up top, while for complex tasks there's a more capable editor.</paragraph>
+			<paragraph>The editor is accessed from a small pencil icon from the bottom left hand-side corner. Multiple editing options are possible on the go including light adjustments (so you can bring out the shadows or the highlights), effects, color styles, straightening a photo, sharpening, saturation and what not. Most of these options have a slider that lets you fine-tune the strength of the effect.</paragraph>
+			<paragraph>There is no dedicated video player app on the Liquid Jade S, instead videos are played from within the gallery. It has a pretty basic interface and doesn't pack much functionality, other than a Loop mode for unlimited repeat playback and a trim feature which lets you extract a portion of the video you're playing and save it as a separate file. Being a part of the gallery, the video player offers identical sharing options.</paragraph>
+			<paragraph>The Liquid Jade S comes with adequate codec support. It played DivX and XviD videos without a hitch, but entirely refused to play WMV files. It did however manage to play MOV videos, not too common nowadays. AC3/AAC audio was also out of the question, but we're pretty much used to that. The lack of any subtitle support whatsoever may put off international users, but third-party apps can quickly solve that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>For listening to music, the Liquid Jade S relies on Google's Play Music app, sporting the familiar Material design. It greets you with a "Listen now" screen which shows your recent activity. A swipe-in from the left opens up a menu where you can access your library, playlists, settings and the Instant mix feature. When fiddling with the phone, the app remains active in the background with controls, accessible from the notification shade. If you lock the phone altogether, a small control bar shows up on the lockscreen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio<subsectionTitle>
+			<paragraph>A very nice FM radio app is available on the Liquid Jade S. In our case it managed to find a total of 37 stations and store them in its memory. It has RDS and can retrieve the stations' names, but interestingly enough, only displays them when the current station is playing. If you want the names to appear in the list of stations, you need to input them manually. You can also record audio straight from the radio app.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Mediocre audio quality<subsectionTitle>
+			<paragraph>The Acer Liquid Jade S audio quality hardly impresses. The mid-range smartphone has below average loudness both with and without a pair of headphones and its clarity leaves a lot to be desired.</paragraph>
+			<paragraph>When plugged into an active external amplifier the Jade S had very good noise level and dynamic range readings as well as no distortion to its output. The stereo crosstalk is not exactly ideal though and neither is the frequency response.</paragraph>
+			<paragraph>With headphones on, you get some deterioration in stereo quality as well as some intermodulation distortion. The signal-to-noise ratio drops too, forming an uninspiring scorecard</paragraph>
+			<paragraph>And here go the results so you can see the details for yourselves.</paragraph>
+			<paragraph> Acer Liquid Jade S frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Adequate camera interface, poor image quality<subsectionTitle>
+			<paragraph>A 13MP sensor has made its way to the Acer Liquid Jade S. In promotional material the camera lens is quoted to sport a bright f1.8 aperture, which beats even the high-end Samsung Galaxy S6 with its f1.9. Interestingly enough, the EXIF data reveals that the aperture is in fact f2.8, much less impressive. Either way, the camera shoots stills in resolutions up to 4,160 x 3,120 pixels. Low-light shooting is aided by a single-LED flash. Meanwhile on the front you get a 5MP selfie shooter, which goes all the way up to 2,560 x 1,920 pixels.</paragraph>
+			<paragraph>Update: Acer spoke with us on the matter of the lens aperture and apparently it was an issue in software, which incorrectly reported it to be f2.8. Acer fixed it with an OTA update which was rolled out after the review was already complete. The actual aperture is, indeed, f1.8 as stated in the the company's promotional material.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The camera app sports a combined interface for still and video shooting with a large virtual shutter button on the right. On top of it there's the video recording button while below you get one customizable button for the shooting mode of your choice. An arrow at the uppermost of the right pops open a menu with the rest of the shooting modes, including Panorama, HDR and Smile Shutter among others.</paragraph>
+			<paragraph>You also get scene modes such as landscape, night, and night portrait, to name a few, as well as color effects. The scene modes and color effects are shared between still and video shooting. A white balance setting lets you choose between four presets and auto, while on the next tab four three-step sliders provide adjustment for exposure, contrast, saturation and sharpness. A shortcut to the gallery returns the favor, while a zoom slider offers a feature you're better off not using.</paragraph>
+			<paragraph>The left side of the interface is less crowded with a settings button down the bottom. On top you get a dedicated flash button, which cycles through the various modes. Below it you can find a switch, that flips between the front and rear cam and a mute button, which turns off the mic when recording video.</paragraph>
+			<paragraph>In reality, things are nowhere near what the specs suggest. The camera outputs very soft images, with little detail and plenty of noise in areas of uniform color. There's pronounced corner softness too - so close to the frame things get even more blurry.</paragraph>
+			<paragraph>Exposure is mostly accurate, but the camera is lacking in dynamic range with detail in the shadows quickly lost. In bright daylight the auto white balance produces noticeable warm images, which while not true to life, may be pleasing to the user.</paragraph>
+			<paragraph>The camera's flaws would have been easier to live with if they were only visible when pixel peeping. The truth is, even when scaled to fit the screen, you can easily tell you're dealing with a compromise solution. Don't take our word for it though, have a look at the unprocessed samples below to form your own opinion.</paragraph>
+			<paragraph>The Acer has an HDR mode which brings out quite a bit of detail in the shadows and dials up on the sharpening a great deal. The resulting images have a strong unreal character though. Also, hand-holding the phone while taking an HDR shot poses a great risk of misalignment between the two captured images.</paragraph>
+			<paragraph>The camera was able to lock focus from a really close distance, resulting in some decent macro shots. We also took a few photos with the front camera. Those turned out very soft and with noticeable light falloff towards the corners. The front camera proves to be more of an afterthought that will look good on the specsheet, but is in fact barely usable.</paragraph>
+			<paragraph>The Acer Liquid Jade S has a dedicated panorama mode, too. Unfortunately, that is also but a tick on the box, as the images come out in very low resolution and detail is nowhere to be found. When shot in portrait, the panorama is only around 700px high and the entire image is less than 400KB for a 150-degree shot. It's stitching is far from perfect either so it's of little consolation that the exposure is even across the frame.</paragraph>
+			<paragraph>A quick look at the Liquid Jade S in our photo comparison tool will give you an idea how it stacks up against the competition.</paragraph>
+			<paragraph>   Acer Liquid Jade S in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Mediocre video output<subsectionTitle>
+			<paragraph>The video recorder on the Acer Liquid Jade S tops out at the pretty standard 1080p@30p. Annoyingly, the shared viewfinder doesn't prepare you for what to expect when you hit the record button, but with practice, you'll likely learn to compensate.</paragraph>
+			<paragraph>In terms of settings, you get the same scene modes and color effects found in the still camera. Additionally, an extra Time lapse mode is available, where you can set the camera to take a single FullHD shot every 1s, 2s, 5s, or 10s, and save them in a .3gp format.</paragraph>
+			<paragraph>The videos are also recorded in.3gp format, using MPEG-4 compression at a rate of about 17Mbps, while audio is encoded in 128Kbps.</paragraph>
+			<paragraph>What we said about the still image output very much holds true for the Liquid Jade S' camcorder. The level of detail is by no stretch of the imagination worthy of its 1080p designation. Colors are good, and there's no focus hunting, or abrupt changes in exposure, but the detail simply isn't there.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>An untouched 1080p@30fps video sample (00:17s, 35MB) is available for download from our server, straight out of the camera.</paragraph>
+			<paragraph>To continue your investigation of the smartphone's video quality, you can check out our video compare tool, where we've pitted it against some of the competition.</paragraph>
+			<paragraph>   Acer Liquid Jade S in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Dual browsers, Chrome is better<subsectionTitle>
+			<paragraph>The Liquid Jade S comes with two browsers preinstalled, a slightly modified stock app, and Google Chrome.</paragraph>
+			<paragraph>The stock one has a slightly more cluttered interface with a dedicated black bar on the bottom with back/forward arrows, tab switcher and bookmark button, which pops up a three-tabbed panel with bookmarks, history, and saved pages. The bar eats up precious screen estate and hides after a certain amount of time, only to pop back up when you touch the screen.</paragraph>
+			<paragraph>Chrome is the more mature alternative and offers easy transition from smartphone to smartphone not to mention seamless syncing with its desktop counterpart thanks to your Google account. It's fast, clean and makes much better use of screen area.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The Liquid Jade S comes with a pre-installed copy of Polaris Office 5, which handles document editing with ease. It supports Word, Excel and PowerPoint docs (both the 2003 and 2007 versions), it also opens PDF files and it doubles as a file explorer.</paragraph>
+			<paragraph>Not one, but two apps on the Liquid Jade S promise to optimize performance, and that's somewhat ironic. Both System Doctor and Clean Master are at your service offering pretty much the same - clean up RAM and free up storage.</paragraph>
+			<paragraph>A power save app is on board, which will attempt to maximize battery life, but it actually offers limited options, compared to other offerings we've seen. There's also a clean and simple file manager for all your basic file organization needs.</paragraph>
+			<paragraph>Acer has thrown in a bundle of proprietary apps which can be accessed from the Acer Portal app, on from their separate icons. They require an Acer ID, and allow you to use your PC as a cloud storage solution for your smartphone. Naturally, additional software needs to be installed on the PC as well.</paragraph>
+			<paragraph>abFiles is yet another file manager (third so far), which adds your PC cloud to the local storage, but other than that offers largely the same functionality. abMusic is the music player of the bunch, with support for playlists and sorting by albums, artists or genres. You can guess then what abPhoto and abVideo are there for. Meanwhile, AcerEXTEND allows you to control your smartphone from your PC via USB or Wi-Fi connection.</paragraph>
+			<paragraph>The Liquid Jade S sports a Quick Mode which is in turn divided into Standard, Easy, and Basic, with progressively simpler interface. Standard and Easy retain the two-tier interface, with a simple homescreen and an app drawer, while Basic only gets a homescreen and is more child-oriented. All three come with a redesigned notification shade and larger icons across the interface.</paragraph>
+			<paragraph>To take care of getting around town, Acer has included the AcerNAV app, which is powered by navigation experts Tomtom. The app provides voice-guided navigation and offline maps for finding your way without a data connection. Google Maps is also on board and offers more comprehensive functionality but relies more heavily on data traffic.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings:<subsectionTitle>
+			<paragraph>Solid build quality, interesting design</paragraph>
+			<paragraph>Very compact, nicely thin; pleasant to handle, if a bit slippery; power button on top is not comfortable to reach</paragraph>
+			<paragraph>Display is very dim even at maximum brightness; colors, contrast and viewing angles are good though</paragraph>
+			<paragraph>Battery life is barely tolerable with the screen on, struggling to reach 5 hours of uptime. Voice call and standby endurance are very good</paragraph>
+			<paragraph>Dual-SIM flexibility is welcome, but the lack of simple features like USB OTG is hard to accept at this price and point in time.</paragraph>
+			<paragraph>Acer's take on Android adds some interesting functionality with float apps and customization options</paragraph>
+			<paragraph>Hardware delivers proper raw performance, but the phone heats up significantly in the process</paragraph>
+			<paragraph>Gallery app is straightforward; basic video player plays most formats, but doesn't support subtitles</paragraph>
+			<paragraph>Audio quality is mediocre with both headphones and an active external amplifier</paragraph>
+			<paragraph>Disappointing camera output in both stills and video with low detail, plenty of noise and limited dynamic range; front shooter is only good as a last resort</paragraph>
+			<paragraph>Proficient software package is on board, and Acer offers you a simple way of using your PC as cloud storage for your music and video viewing needs. It's a bit chaotic though, and who thought it was a good idea to have two optimization apps?</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>With our tests completed, we're looking at a story of missed opportunities. The Liquid Jade S with its fresh styling, sits comfortably in the hand and won't be a burden on your jeans pocket. Its performance is great for the class, dual-SIM compatibility will be appreciated in developing markets, while the Asus software bundle offers some nifty perks.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Those nice things however fade when you look at the dim display, which gravitates towards the bottom of our brightness charts. Battery life is another major letdown, with less than five hours of use with the screen fired up.</paragraph>
+			<paragraph>And that's before we even start on the camera. You would think that a 13MP camera in a smartphone in 2015 would be enough to put your dedicated digicam at home, but its performance doesn't really cash the checks written by the specs sheet.</paragraph>
+			<paragraph>Given the above list, one cannot in good faith claim that the good offsets the bad. The truth is that in this price range there's fierce competition, and such major shortcomings are hard to live with. You have the current crop of capable midrangers, but it gets even more complicated when you throw former generation flagships in the bunch, and the Acer stands pretty outnumbered.</paragraph>
+			<paragraph>We'll go ahead and kick off the comparison with the Honor 6, reviewed recently. The Huawei offering comes with a FullHD screen over the Acer's 720p, huge 3,100mAh battery that delivers 13 hours of screen-on time and manages to do it in a more compact body. It also packs a gig more of RAM, but doesn't have a second SIM slot.</paragraph>
+			<paragraph> Huawei Honor 6</paragraph>
+			<paragraph>The Lenovo Vibe X2 is another FullHD five-incher and it comes with twice the storage at 32GB. It doesn't have a microSD slot, but does come in a dual-SIM flavor. The Vibe X2's battery life isn't a chart-topper either, but still holds up much better to web browsing. Camera output is superior as well. It's not lacking in flair either, rocking a unique layered design.</paragraph>
+			<paragraph> Lenovo Vibe X2</paragraph>
+			<paragraph>Sony has a compelling midrange offer in the face of the M4 Aqua. It's said to cost about the same when it launches in June, and comes with the snappy Snapdragon 615 and the same 2GB of RAM. The 5-inch screen is 720p too, storage can be expanded, but there's no dual-SIM capability. However, the M4 Aqua's headline feature is the IP68 certification for protection against the elements, hard to find in the market segment.</paragraph>
+			<paragraph> Sony Xperia M4 Aqua</paragraph>
+			<paragraph>Moving on to past flagships, the LG G2 quickly comes to mind. It's dirt cheap for what it offers, which is a 5.2-inch FullHD screen in a smaller footprint, powerful Snapdragon 800 chipset and 2GB of RAM. Battery life is impressive as well, and so is the optically stabilized 13MP camera. You need to forget about a second SIM or microSD, though.</paragraph>
+			<paragraph> LG G2</paragraph>
+			<paragraph>Now two generations old, the Samsung Galaxy S4 is still available and is priced in the same ballpark as the Liquid Jade S. It sports a somewhat dated Snapdragon 600 chipset, but on some markets you could find a Black edition with an S800. You get FullHD resolution, superior imaging and battery life, and Samsung's feature-packed TouchWiz, which is either a pro or a con, depending on where you stand.</paragraph>
+			<paragraph> Samsung I9500 Galaxy S4</paragraph>
+			<paragraph>We'll wrap up the way we started - finding a spot in the crowded midrange is no walk in the park, and the Acer Liquid Jade S couldn't quite convince us that it has what it takes. It started off great, impressing us with its design, UI and performance, but the phone gets three strikes in very important areas - display, battery, and camera. Unless there's a price cut in its near future, we don't think it can get away with that.</paragraph>
+		</subsection>
+	</page>
+</review>

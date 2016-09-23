@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>How the West Was Won (Live)</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2003</year>
+	<link>http://www.senscritique.com/album/How_the_West_Was_Won_Live/5908466</link>
+	<generalScore>8.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>70</numberOfVoters>
+		<numberOfVoters>155</numberOfVoters>
+		<numberOfVoters>158</numberOfVoters>
+		<numberOfVoters>92</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Fantasmorgasmique Led Zeppelin</title>
+		<author>cioran53</author>
+		<date>2013-02-11</date>
+		<score>0.9</score>
+		<content>Attiré au début de l’été par un article du fanzine parisien Les Inrockuptibles (disponible dans certains kiosques), qui qualifiait Led Zeppelin de "premier groupe pornographique" à l’occasion de la sortie d’un live inédit, je me suis jeté sur le superbe coffret How the west was won pour assouvir ma perversité. Non pas que la pornographie m’intéresse mais si la musique peut servir d’alibi pour découvrir cet art, ma mère ne me fera pas la morale. Dès les premières notes d’Immigrant Song, la voix orgasmique de Robert Plant se substitue aux gémissements feints de Clara Morgane. Le constat est implacable : non, Led Zeppelin n’est pas un groupe pornographique, mais la quintessence de l’érotisme musical. Je n’ai pas parlé d’érotisme hormonal sinon je me serais tourné vers le dernier cancer de Barry White. Érotisme car tout est désir, tout est montée lente et exultation finale. Point de violence ni de simulation. La lascivité de la guitare de Page, les onomatopées de Plant laissent penser qu’à tout instant l’orgasme est proche. Mais bêtes de scènes, ils pratiquent merveilleusement le coïtus interruptus. Pour reprendre de plus belle. Enchaîner les huit minutes de Since I’ve been loving you avec les dix minutes de S*tairway to Heaven* est une jouissance latente, une explosion de fluides neuronaux. Car avec ce coffret, vous sortirez épuisé et heureux, contemplatif et vidé. La performance ? Écouter à la suite les trois CD dont les versions de vingt-cinq minutes de Dazed and confused et de Whole lotta love. Mais après, il faudra faire le coup de la migraine à votre conjoint(e). Car l’orgasme avec Led Zeppelin est infiniment épuisant. Loin de l’éjaculation précoce des musiques actuelles… Allez, je vais me reposer avant de remettre ça avec le second disque.</content>
+	</review>
+	<review>
+		<title>How the West Was Won (Live)</title>
+		<author>HugoLacombe</author>
+		<date>2013-02-04</date>
+		<score>1.0</score>
+		<content>Meilleur album live ever</content>
+	</review>
+	<review>
+		<title>Enfin un 2ème live de Led Zeppelin de qualité</title>
+		<author>Tombass</author>
+		<date>2016-01-30</date>
+		<score>0.9</score>
+		<content>Cet album je l'ai attendu ! Enfin un second live avec un son de qualité de mon groupe préféré... Ok les versions ne sont pas toutes formidables, mais il a le mérite d'exister ! De plus on retrouve des morceaux assez rares en live. Après toutes ses années à alterner entre "The Song Remains The Same" et les live pirates au son plus ou moins bon... quand j'ai appris que Jimmy mixait des morceaux live pour sortir un album live, l'attente a été très longue. Le résultat final est bon je l'aime et je l'écoute souvent ! Pour ceux qui aiment les lives et Led Zeppelin ce triple album est obligatoire !</content>
+	</review>
+</sensCritiqueEntity>

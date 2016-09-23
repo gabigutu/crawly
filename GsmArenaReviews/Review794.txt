@@ -1,0 +1,304 @@
+<review>
+	<title>Samsung Galaxy S7 Active review</title>
+	<description>The Olympic performer</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_s7_active-review-1457.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S7 active Key Features<subsectionTitle>
+			<paragraph>Built to comply to the MIL-STD-810G standard with increased salt, dust, humidity, rain, vibration, solar radiation, transport, and thermal shock resistance</paragraph>
+			<paragraph>IP68 certified - dust proof and water resistant up to 30 minutes in 5 feet of water</paragraph>
+			<paragraph>5.1" Super AMOLED QHD (1440 x 2560) resolution, Gorilla Glass 4, shatter proof for falls of up to 5 feet high onto a flat surface</paragraph>
+			<paragraph>Qualcomm Snapdragon 820 - dual-core 2.15 GHz Kyro &amp; dual-core 1.6 GHz Kyro w/ Adreno 530</paragraph>
+			<paragraph>4GB of RAM; 32GB of built-in storage, microSD up to 256GB</paragraph>
+			<paragraph>Android 6.0.1 Marshmallow with Touchwiz UI</paragraph>
+			<paragraph>12MP camera, f/1.7 aperture, 1,4micron pixel size, phase-detection diodes at every pixel in the sensor, 4K video recording, LED flash, optical image stabilization</paragraph>
+			<paragraph>5MP front-facing camera, f/1.7 aperture, QHD video, HDR</paragraph>
+			<paragraph>Fingerprint sensor</paragraph>
+			<paragraph>LTE Cat.9, Wi-Fi a/b/g/n/ac, GPS/GLONASS/Beidou, NFC, IR port, Bluetooth 4.2, ANT+</paragraph>
+			<paragraph>Heart-rate sensor, barometer, SpO2 sensor</paragraph>
+			<paragraph>4,000mAh battery ; wireless charging</paragraph>
+			<paragraph>FM Radio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Thicker than most of today's flagships (duh!)</paragraph>
+			<paragraph>Exclusive to AT&amp;T with lots of carrier bloatware</paragraph>
+			<paragraph>No Samsung Gear VR compatibility</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>We're already used to seeing Samsung release an 'Active' version of its current Galaxy S flagship. The Samsung Galaxy S7 active is the latest in the series and it has been released exclusively to AT&amp;T as it's also become customary. If history should serve as any reference, the model would likely not see availability outside the stable of this particular US carrier.</paragraph>
+			<paragraph>The S7 active has a much larger 4,000mAh battery inside. (by contrast, the Samsung Galaxy S7 has a 3,000mAh battery) Compared to the vanilla S7, there's also the extra physical key on the phone's side which takes you directly to an "Activity Zone" app, which is exclusive to the Active model.</paragraph>
+			<paragraph>Rest assured, we're all wondering for how much longer the Active series will remain an AT&amp;T exclusive. Surely, there are many fans all over the world who would love to get one as an unlocked, carrier-free device without any pre-installed AT&amp;T apps. We have no idea when that may happen but we're surely keeping our fingers crossed.</paragraph>
+			<paragraph>As for pricing, the premium for the Active model is just $100, which means it costs the same as the Galaxy S7 edge model in the US. So are the added features of the Galaxy S7 active worth this sort of premium? Read on and we'll find out together.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>While the Galaxy S7's box was dark with shiny letters, AT&amp;T's exclusive phone has average looking packaging. We feel AT&amp;T missed on the opportunity to capitalize on the rugged nature of phone when designing the box.</paragraph>
+			<paragraph>Anyway, it's what's inside that counts so let's dig in right away. The box opens like a lid, and you're greeted by the Galaxy S7 active. Once that's out, lifting the top layer of packaging reveals some documentation and warranty info. Just under that are a charger block, micro-USB cable, and SIM tool which can be hooked to a key ring if you ever need to pop out the SIM and microSD tray.</paragraph>
+			<paragraph>The charger block is the same Adaptive Fast Charger that Samsung has been packing with its phones since the Note 4. The Adaptive Fast Charger and any Quick Charge 2.0 charger can usually be used interchangeably.</paragraph>
+			<paragraph>Something that Samsung has also been doing since the Galaxy S7 is bundling an OTG adapter for using with Smart Switch, Samsung's own app for transferring files from your old device. You can plug your old phone into the adapter and transfer photos, contacts, and it even works with iOS and it'll download all your stuff directly from your iCloud if you'd like.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware and design<subsectionTitle>
+			<paragraph>The Galaxy S7 active is perhaps not as attractive as some other flagship phones, but that's not what the active is about. Taking cues from its predecessors, the Galaxy S7 active is designed for ruggedness and endurance.</paragraph>
+			<paragraph>The Galaxy S7 active measures 148.8 x 74.9 x 9.9 mm (5.86 x 2.95 x 0.39 in) and weighs in at the hefty 185g but that's fine considering the extra battery capacity. When you pick the phone up, it feels lighter than its volume would suggest. Granted, it's significantly chunkier than the S7 (whose glass and metal build is much denser).</paragraph>
+			<paragraph>The S7 active takes cues directly from the S7 but comes with a completely redesigned chassis as is usual for the Active series. The most apparent differences upon first glance are the three hardware buttons in the front whereas the S7 only has one physical home button while the Back and Recents keys are capacitive touch keys.</paragraph>
+			<paragraph>The design of the buttons has changed from previous active generations as well. Where every other model had buttons that were adjacent, the S7 active leaves a bit of space between the pill-shaped buttons, likely due to the introduction of the fingerprint sensor into the central key. In previous Active models, the fingerprint scanner was left out, even though both the Galaxy S5 and S6 had fingerprint scanners themselves.</paragraph>
+			<paragraph>The bezels on our Gold unit have a texture under the glass that's different from the standard S7's which is a shiny solid gold. The S7 active has more of a striped look to it when inspecting it up close. Samsung says this was a cosmetic choice to achieve visual appeal.</paragraph>
+			<paragraph>The layout of the S7 active is a bit different than that of the Galaxy S7. The headphone jack is on the top instead of the bottom; the SIM tray is on the right side just about half way along the edge while the S7 has it on the top next to the noise canceling mic. And finally, the two volume keys on the S7 are replaced with a single volume rocker and just over it is the Activity button. We'll come back to that button further into the review.</paragraph>
+			<paragraph>The keys themselves are borderline "too sensitive" and are prone to accidental presses if you are not careful.</paragraph>
+			<paragraph>The bottom and top of the S7 active is made of some kind of really dense rubber that has almost zero give. The way to describe how it feels would be somewhere between rubber and matte plastic. This material is what covers every corner of the device and it's perhaps meant to absorb lots of shock. If you look close enough, however, you can see the seams from the molding process, which is not quite fit for a flagship device.</paragraph>
+			<paragraph>This bumper-like material reinforces a metal frame which holds the screen in place as well as the buttons and SIM/microSD card slot on either lateral side of the phone. This frame also helps the phone to dissipate heat since the back plate is made of polycarbonate plastic.</paragraph>
+			<paragraph>The back plate on our gold model sports an intricate pattern that aesthetically gives the device more depth VS a satin finish. This texture also aids in gripping the back of the phone thanks to the gold finish that has the same rubber/matte feel as the bumpers. The back of the phone features the same camera setup found on the Galaxy S7: A 12MP camera with LED flash and heart rate sensor.</paragraph>
+			<paragraph>Unlike the S7, this camera setup is recessed into the body to protect the camera lens from shattering in the event of a direct impact with a flat surface. It's also worth noting that Samsung kept the LED notification on the Active model in the same location as the S7, to the left of the earpiece setup which includes the light and proximity sensors, along with the wide-angle 5MP camera.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Galaxy S7 active has the same Super AMOLED 5.1 inch 1440p (1440 x 2560px @~577ppi) as the standard Galaxy S7 does. Colors are vibrant and lines are crisp. Samsung claims the Galaxy S7 active is shatter proof for drops of up to 5 feet high onto flat surface, and it looks like Samsung was able to do it without sacrificing screen quality.</paragraph>
+			<paragraph>We've performed the same display tests as on the Galaxy S7 to see if the Active version's display performs just as well as the standard model it originates from.</paragraph>
+			<paragraph>We're happy to see the Galaxy S7 active exceeds our expectations for a display of this kind. The display's assembly uses the same Gorilla Glass 4 as the S7 proper, but the S7 active has a layer of polycarbonate that is invisible to users. This is what provides that extra level of shatter protection that has been proven to work and can be seen in various videos on the interwebs.</paragraph>
+			<paragraph>We are happy to report that this display is even brighter than the S7's panel. On top of that, the screen goes into overdrive when exposed to even brighter sunlight as long as you have the Auto brightness ticked ON.</paragraph>
+			<paragraph>The same S7 active panel goes just about as dim as the Galaxy S7 at 2.3 nits. Night owls who like to do some late night activity will be happy to know they won't be blinded by the screen at night.</paragraph>
+			<paragraph>As far as color accuracy goes, the GalaxyS7 active (much like the S7) is most accurate when using the Basic profile under the display settings. While these colors look more washed out than the default Adaptive profile, they are better representative of real-life colors. The Average Delta E comes out to just 1.2 where the Adaptive profile produces an average Delta E of 5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>Just because the Galaxy S7 active is an AT&amp;T excusive device, doesn't mean it's missing too many LTE bands. The device runs on AT&amp;T's LTE network and is compatible with its VoLTE network. It supports LTE bands: 1(2100), 2(1900), 3(1800), 4(1700/2100), 5(850), 7(2600), 8(900), 12(700), 20(800), 29(700), 30(2300), 38(2600), 39(1900), 40(2300), 41(2500). AT&amp;T's bands are shown in bold.</paragraph>
+			<paragraph>GSM 850, 900, 1800, and 1900 are supported while the S7 active's 3G bands are HSDPA 850, 1900, and 2100. HSPA speeds reach theoretical 42.2Mbps download speeds and 5.76Mbps upload speeds. LTE speeds are Cat9 @ 450Mbps down and 50 Mbps up.</paragraph>
+			<paragraph>The SIM card tray accepts one nano-SIM card and one microSD card up to 256GB. To save space, the SIM/SD slot was designed with two sides and caught us off guard at first. Pulling the tray out, we expected it to be a long one with two spaces, rather, the tray is like a coin. Two-sided, the microSD card goes on the front side of the tray and the nano-SIM on the rear side.</paragraph>
+			<paragraph>Other connections include Bluetooth 4.2 (A2DP, LE, aptX), Wi-Fi 802.11 a/b/g/n/ac dual-band, Wi-Fi Direct, hotspot, GPS with A-GPS GLONASS, NFC, FM Radio, and uses a microUSB 2.0 QuickCharge 2.0, and OTG support.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Galaxy S7 active has a whopping 33% larger battery over the vanilla S7 model (4,000mAh vs 3,000mAh). The Galaxy S active models have traditionally had larger batteries over their regular models which Samsung believes is necessary for the active consumer. The Galaxy S7 active is surely going to last you, a long time.</paragraph>
+			<paragraph>Samsung didn't skip out on quick-wireless charging for the active model, and it also features Quick charge 2.0. From a completely depleted battery, the Galaxy S7 charged up from 0% to 37% in 30 minutes. Keep in mind this is a larger capacity battery, so older claims of half battery in half an hour are further out of reality's reach.</paragraph>
+			<paragraph>While the Galaxy S6 active broke the 100h mark in our battery scores last year, this isn't necessarily the case with the S7 active this year despite the bigger battery. If Samsung chose to opt for the Exynos 8890 CPU all across the board (as North American variants of the S7 are all powered by the Snapdragon 820), it may have been able to beat last year's S6 active score of a whopping 109h overall.</paragraph>
+			<paragraph>The Galaxy S7 active scored 96h overall, which is still quite impressive. By contrast, the Galaxy S7 (Exynos 8890 variant) scored 80h overall in the same battery tests. Always-On Display is enabled by default, which knocks the score down to 70h overall. Since its launch, the AOD setting has been optimized and now allows you to schedule times to activate it. Of course, your mileage will vary depending on how long you keep the phone out of your pocket and whether you have the feature on to begin with.</paragraph>
+			<paragraph>Like the S7, our browsing test scored significantly lower than the video test. While the 12:08h score of the web browser was not up to par, the video playback test scored an impressive 20:54h! The S7 active merely sipped juice when playing a locally stored video from its storage.</paragraph>
+			<paragraph>In our calling test, the Galaxy S7 active scored 29:17h, the highest phone call endurance of any of the other S7 variants across both Exynos and Snapdragon variants.</paragraph>
+			<paragraph>Our proprietary rating denotes the number of hours the phone will be operational if you are to make an hour of 3G talks, web browsing and video playback per day. Such usage pattern may not apply to you directly, but we've established it so our battery results are comparable across devices.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User Interface<subsectionTitle>
+			<paragraph>Besides the extra Activity button and the Activity Zone app, the software experience is otherwise the same as the Galaxy S7. Samsung's popular and feature-rich TouchWiz UI skin on top of Android 6.0.1 is here as well with a few minor differences such as the paginated settings app and pre-installed apps, which can be found a couple of pages ahead.</paragraph>
+			<paragraph>The Galaxy S7 active separates itself from the other S7 models with an extra Activity button found right over the volume rocker. A single press of the button will take you to the Activity Zone app, a dashboard of useful information and tools for hiking enthusiasts.</paragraph>
+			<paragraph>There are tiles for weather, the step count from S Health, a compass, stopwatch, flashlight, and barometer/altimeter for measuring atmospheric pressure and altitude. Spotting sudden changes in atmospheric pressure can help predict weather changes when hiking (the more you know). These tiles can be dragged around in any order you please.</paragraph>
+			<paragraph>You can change the app that opens with the Activity button to anyone of your choosing. Set it to Ingress to hack portals nearby, or set it to Snapchat if you're a Snap addict. You can also set an app to open with a long press of the same button. The default app is set to the DirecTV remote app. If you set the key to open the Camera app, this button becomes a shutter key.</paragraph>
+			<paragraph>The lockscreen typically holds a clock and date with two shortcuts in the bottom corners for Camera and Dialer. You're likely going to be launching the camera with a double-press on the home button if you need the absolute quickest access, so that makes one of the shortcuts redundant. Good thing then that each of them can be changed to any app you have installed.</paragraph>
+			<paragraph>Fingerprint unlock is a must-have feature and Samsung has been sticking with the press-and-hold variety since the S6. Or wake-and-tap, should you decide to wake up the phone with the power button. Either way, you first need to wake it up because the sensor isn't always on, which wastes precious milliseconds.</paragraph>
+			<paragraph>Overall, it works quite well, and if for some reason it can't recognize a finger in 3 tries, it lets you input the backup password. Ignore it and unsuccessfully try with a finger twice more and you'd be locked out of your device for 30 seconds giving you time to come up with a different tactic.</paragraph>
+			<paragraph>The screen features the same Always-On function as the other S7 models. Besides the time and date, the screen can be set to show a subtle wallpaper to make things a little fancier. You can download additional always-on themes from the store.</paragraph>
+			<paragraph>The homescreen is identical to the TouchWiz home of other Samsung phones. However, Samsung has chosen a four-in-a-row default setup, with large, easy to tap icons. The dock can fit five, and so can the homescreen - grid size can be 4x4, 4x5, or 5x5.</paragraph>
+			<paragraph>The user interface has theming support. We only had the default theme pre-installed, but the Theme store has a vast selection available to download.</paragraph>
+			<paragraph>The Flipboard-powered Briefing Homescreen is not enabled by default but still lives in the TouchWiz launcher here. Though, unlike in previous iterations, you're no longer able to add a social media feed to your Flipboard briefing panel. Only news can be seen on the Flipboard panel once it's been manually enabled.</paragraph>
+			<paragraph>The app drawer can be arranged alphabetically, or in a custom order, and a search function is provided. You can alternatively disable the app drawer altogether, making for a single-tiered interface. That last feature is part of Galaxy Labs and is still experimental, so we may or may not see it in as part of the standard TouchWiz in the future.</paragraph>
+			<paragraph>The Notification area is pretty busy by default. Especially with that DirecTV notification that cannot be swiped away until you enter its settings and turn it off. There's also a notification that reminds you about the Active key and takes you to the setting to configure it as you please.</paragraph>
+			<paragraph>One row of quick settings is seen at the top of the notification shade with a brightness slider. Swiping down again from the top reveals all your quick toggles which are customizable to your liking via the "Edit" button.</paragraph>
+			<paragraph>Split-screen multitasking is supported on the S7 active, even if the 5.1-inch display doesn't appear to offer all that much room to maneuver. As always, only supported apps can work in split-screen, but Samsung's implementation is perhaps the most widely supported at the moment. Floating app windows are available for some apps, too.</paragraph>
+			<paragraph>The same gestures as the Galaxy S7 are here - you can flip the phone for mute, swipe your palm to make a screenshot, double-press the Home key for quick camera access, quick call, among others.</paragraph>
+			<paragraph>Oh, by the way, Samsung has followed other manufacturers and implemented a scrolling screenshot feature, which works well when having to capture long web pages or lists. Too bad that some apps such as YouTube or Facebook would keep adding new results to the feed the more you scroll and that list can go on forever.</paragraph>
+			<paragraph>Everything about the TouchWiz experience has been wonderful, but seasoned users may be baffled by the phone automatically setting the default app for every task based on the app you use first. Unlike other Android phones, here there is no "Just once" or "Always" prompt.</paragraph>
+			<paragraph>Say you want to call an overseas hotel and you want to call them using Skype or another VoIP app to avoid the international call charges. Once you dial the hotel's phone number from their website, from this point forward, all phone number links from the internet will be dialed using that specific VoIP app.</paragraph>
+			<paragraph>As experienced users, we found that to be a mere nuisance but for someone inexperienced, it may as well backfire as they wouldn't know how to change the default app. Then again, we understand how Samsung came up with this. Some novice users never set their default apps and are constantly bothered by the Just once/Always prompt long after they've established their app preferences. It's the equivalent of Windows OS always asking you which player you would like to use to playback your videos, so we understand why they come up with this feature but we still wish there was a way to opt out of it for more advanced users.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Unlike the global version (using Samsung's own Exynos silicon), the Galaxy S7 active is powered by the latest Qualcomm Snapdragon 820 CPU (as are all North American variants) paired with 4GB of RAM. The Snapdragon 820 features two dual-core Kryo chips. The first is a dual-core chip which maxes out at 2.15 GHz and the second dual-core chip maxes out at 1.6 GHz.</paragraph>
+			<paragraph>The Snapdragon 820 is Qualcomm's first departure from 8 cores down to quad-core territory, don't be fooled by that number though, a single Kryo core is a beast and what separates it from previous Snapdragon chips is its new architecture which combines improved efficiency with overall better performance.</paragraph>
+			<paragraph>A generous 4GB of RAM and the Adreno 530 GPU joins the Snapdragon 820 to give the S7 active a great deal of performance power under all that rugged exterior.</paragraph>
+			<paragraph>Let's see how the S7 active performed against other top competitors. Since the S7 active is only available in the US, we're going with mostly high-profile flagships available in the US.</paragraph>
+			<paragraph>For starters, the Galaxy S7 active's single core performance fits right in among the other Snapdragon 820 devices on the market. Still, the iPhone 6S' A9 chip dominates this chart in single core calculations.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Here is where we can see the raw calculating power of the global Galaxy S7's Exynos CPU. Much like the single core test, we can see the Galaxy S7 active fall right among the other phones fitted with a Snapdragon 820. Here we also get a glimpse of how the quad-core 820 fared against the octa-core Exynos 7420. While there is a bit of an improvement, it's not too significant.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Galaxy S7 active falls average among the other Snapdragon 820-powered smartphones of the bunch. Antutu 6 is a compound benchmark that takes into account all aspects of the system as opposed to just raw CPU processing. A combination of factors like optimization and tuning contribute to the Antutu 6 marks, and the Galaxy S7 active is beaten by the OnePlus 3 and HTC 10, which topped this chart.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>For our Basemark OS II 2.0 test, we can see the Galaxy S7 active reaching high above the other flagships.</paragraph>
+			<paragraph>Even with the Galaxy S7 active having the same setup as some of the other flagships, it looks like Samsung's RAM optimization and CPU thresholds set it up well for this particular benchmark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GFXBench is an OpenGL ES 3.1 test which measures graphics performance, and the offscreen tests run at 1080p resolution, regardless of the pixel count found on the display of the device being tested, giving all graphics tests an even playing field. The Galaxy S7 active performed at the top, although most devices on the list scored 30 or 31.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The next test runs in the phones' native resolutions and those with higher-res displays are pulled back by the benchmark numbers. Since the OnePlus 3 and Xperia X Performance both run 1080p resolutions on their displays, they get about twice the score as the competing QHD resolution phones. The Galaxy Note5 stuck behind with last year's Exynos setup.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The GFX Car scene is round-two for the flagships to duke out graphic performance. The offscreen tests (also rendered at 1080p) score significantly lower than the Manhattan tests since the car scene turns the knob up a notch. The S7 active topped the chart along with the HTC 10 and OnePlus 3. Meanwhile, the Galaxy S7 with Exynos hovers around the bottom.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Much like the Manhattan test, the Galaxy S7 active's onscreen test is pulled down by its native QHD resolution. Still, it performed at the top of its class with other QHD phones that run the same Snapdragon 820 setup, and it performed better than the Exynos-powered global S7.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark X is a benchmark which lets us gauge how they are performing with the other contenders of the bunch in the gaming aspect. The S7 active scored well around other Snapdragon 820-powered phones and performed quite similarly to the Exynos-powered S7. Samsung did a great job of leveling the performance of both chipsets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark ES 3.1 offers a testing field for OpenGL ES 3.1 compatible devices that aren't necessarily on the same platform, namely: iOS and Android. The Metal Basemark for iOS gives us an idea of where the two platforms stand relative to each other.</paragraph>
+			<paragraph>The Galaxy S7 (Exynos) scored notably higher than the S7 active and the other Snapdragon 820 devices as well. The iPhone 6S still reigns this test although it's really hard to compare Apples to Androids in these kinds of tests.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>It's worth noting that the Galaxy S7 active dissipates heat differently than any of the other flagships out this year. Since the back plate of the S7 active is made of polycarbonate, it's not such a good heat conductor like glass or metal. The S7 active has to depend on its sides to dissipate heat. When performing CPU or radio intensive tasks, the upper-right side is the one which gets quite warm, though, not uncomfortably warm.</paragraph>
+			<paragraph>The Galaxy S7 active performs just as well if not better than the other flagships powered by a similar Snapdragon 820 setup. Day to day activities run like cake and the generous 4GB of RAM ensure that you're much less likely to have a slow phone upon switching back and forth between apps.</paragraph>
+			<paragraph>Remember, the Galaxy S7 active is also a result of Samsung pushing out CPU optimizations and updates over the past few months since the release of the Galaxy S7 (Snapdragon variant in North America) and other Snapdragon 820 devices which were reviewed with initial versions of public firmware.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The Samsung Galaxy S7 active is available as a single-SIM phone and is exclusive to AT&amp;T. Upon first opening of the dialer, we are greeted with a long winded message about AT&amp;T video calling. This feature, though, is only usable between two Samsung devices on AT&amp;T with AT&amp;T carrier firmware so don't fret if you can't get it to work.</paragraph>
+			<paragraph>Other than that, the dialer and the phonebook are pretty much the usual TouchWiz deal.</paragraph>
+			<paragraph>The Do Not Disturb mode can be put on an automated schedule. When it's on, only priority notifications can get through, and you decide what counts as "priority" - it can be anything from calls from select contacts to reminders from key apps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Text input<subsectionTitle>
+			<paragraph>The Galaxy S7 active uses the good old Samsung keyboard; there's no sign of the A9 (2016)'s secondary symbols upon a long press. That aside, it's quite feature-packed, with a dedicated numbers row, a row above that for word suggestions, as well as swipe input.</paragraph>
+			<paragraph>The keyboard can be resized, but the range is quite limited, and in this case, you might as well stick with the default size. There's a high contrast keyboard mode, to help those with visual disabilities or if you have a preference to things with really high contrast.</paragraph>
+			<paragraph>Additional typing tools include swipe input, My Hot Keys (predefined phrases that can be typed by long-pressing a number key) and voice dictation.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Loudspeaker<subsectionTitle>
+			<paragraph>The Galaxy S7 active delivers better loudspeaker performance in our tests than the standard Galaxy S7 model yielding a "good" score. It's not the loudest speaker around, but you shouldn't be missing calls with this one unless you're in a really loud environment.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Pre-installed Apps<subsectionTitle>
+			<paragraph>S Health is onboard, and it can fully utilize the heart-rate and blood oxygen sensors. It also tracks walking/running/cycling and you can manually input water and coffee intake and whatnot.</paragraph>
+			<paragraph>Smart Manager is a hub that controls several key areas - battery, RAM, Storage and Device security. It gives you tools to track down apps that drain the battery, use too much RAM and clean-up unnecessary files.</paragraph>
+			<paragraph>The Device Security tab lets you activate KNOX (protects the phone and OS from hacking but makes for longer boot times) and scan for malware. The My KNOX app lets you separate work and corporate apps and access by creating a secure, isolated space on the phone, which becomes inaccessible as soon as KNOX detects an unauthorized change in the OS.</paragraph>
+			<paragraph>The My Files app is the default file browser. It features Google Drive integration. You can ZIP folders to make them easier to share as a single file. It also allows batch file operations.</paragraph>
+			<paragraph>Finally, there's Galaxy Apps, Samsung's own app store. Galaxy Essentials is a good place to find great tools (like Kids Mode), but for general app shopping, you would probably be better off with Google Play.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AT&amp;T bloatware<subsectionTitle>
+			<paragraph>Yes, there is, unfortunately, AT&amp;T bloatware and it's enough to get its own mini chapter. These are sixteen apps that cannot be uninstalled from your phone. The only thing you can do is disable them, but even then, they'll still be taking up your internal storage.</paragraph>
+			<paragraph>Fortunately, disabling them is easier thanks to the "edit" button in the upper right corner of the app drawer. Perhaps you'll use some of these apps regularly like Amazon, Kindle, Uber, and maybe the Plenti app if you are a frequent customer.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The TouchWiz gallery orders photos by time, but you can switch to folder-based Album view. Thumbnail sizes can be resized with a pinch gesture and the album selection pane on the left can be hidden.</paragraph>
+			<paragraph>Sharing options include wireless printing, Android Beam and Wi-Fi Direct, but no DLNA (or other way to send an image to your TV). Several image editing tools are available - from basic cropping, to collage making, to a more capable editor (which supports image correction, effects and drawing).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with advanced EQ features<subsectionTitle>
+			<paragraph>Google Play Music is the default player for your tunes on the Galaxy S7 active. The app has been treated to the material design a while ago, and its functionality remains unchanged - it can play your local files, as well as stream music from the cloud.</paragraph>
+			<paragraph>The Samsung sound enhancements are available, of course, you can access them from Play Music, too. They include the SoundAlive tool, which has an intuitive interface to tuning the equalizer (a manual 7-band equalizer is available for more knowledgeable users).</paragraph>
+			<paragraph>Adapt Sound is even simpler. It tunes the EQ to your hearing and your particular pair of headphones by playing multiple frequencies and asking how well you hear them. Smart Volume automatically adjusts the volume of tracks from multiple sources.</paragraph>
+			<paragraph>UHQ sound resolution enhancer is available, Surround sound emulation and Tube Amp Pro simulator are onboard, too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>There is no video player app pre-installed and the Gallery handles the videos by default. It has full subtitle support and pop-up player.</paragraph>
+			<paragraph>There's an "Editor" option too though that may be overstating it - it just lets you trim the video. If you want a more capable video editor, there is such in the Galaxy Apps store for free, courtesy of Samsung.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Splendid audio output<subsectionTitle>
+			<paragraph>Going rugged hasn't cost the Galaxy S7 active anything regarding audio performance. The element-defiant flagship performed just as well as its two other S7 siblings and even managed to beat them in terms of loudness (though we're guessing this may have something to do with the lack of any EU-imposed restrictions on the maximum volume of our US review unit).</paragraph>
+			<paragraph>Anyway, the handset posted excellent scores top to bottom and garnished them with nicely loud output when used with an active external amplifier. There are no weak points to its performance and output is impressively loud - that's really all we can say here.</paragraph>
+			<paragraph>Plugging in our standard headphones caused a very minor hike in stereo crosstalk, with the rest of the readings remaining just as impressive. The volume stays high too for one of the best performance we've seen.</paragraph>
+			<paragraph>Anyway, here go the results so you can make your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>If you've been familiar with Samsung's camera interface from the last year or so, you won't find many surprises in the Galaxy S7 active. It also sports the same 12MP F/1.7 camera as the Galaxy S7. To be even more specific, our unit has the SONY IMX260 camera sensor and not the Samsung-made ISOCELL S5K2L1.</paragraph>
+			<paragraph>While there are some minor differences between the two sensors, they both perform equally well. Both have relatively large 1.4-micron pixels, and each pixel is in a dual-pixel setup meaning a phase detection subpixel joins it. As a result, the phone focuses and re-focuses instantly regardless whether you're shooting video or capturing photos - it's perhaps the fastest focusing cameraphone on the market right now.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera interface<subsectionTitle>
+			<paragraph>The camera app is almost entirely the same as the one on the phone being replaced. It has a combined interface for stills and video, with virtual shutter release and record button on the one side and quick settings on the other. A few minor touches include an extra setting for resolution and a universally recognizable red dot symbol on the video record button instead of the more ambiguous video camera on older models.</paragraph>
+			<paragraph>Motion photo is available, too, it captures a three-second video before you've pressed the shutter and embeds it within the .jpg file. Since the initial launch of the S7 and S7 edge, it was difficult to share these motion photos to other users who don't have an S7. Thankfully, a Samsung update has since allowed users to export these motion photos as standard videos to share to others. Though, we wish there was a better way to share them.</paragraph>
+			<paragraph>Pro mode gives you more photographic control and offers manual control of shutter speed, exposure compensation, ISO sensitivity, and white balance. Manual focus is also available, and the S7 active magnifies the center portion of the viewfinder, allowing you to have a better look at what you're focusing on.</paragraph>
+			<paragraph>The Galaxy S7 active provides excellent image quality with plenty of detail and sharpness with acceptable traces of noise here and there. More importantly, the Galaxy S7 active keeps the same great camera, proving that the 12MP sensor is an all-around performer for people of all kinds of lifestyles.</paragraph>
+			<paragraph>Here are some comparison shots taken with the HTC 10 as well.</paragraph>
+			<paragraph>HDR in some cases can make or break a photo. In cases where there may not be enough light to expose the photo properly, HDR can really bring out the shadows and bring the photo back to life. The best example can be seen here at the picture taken on 8th Avenue just about 10 minutes before the sunset. The resulting image still manages to look natural.</paragraph>
+			<paragraph>Really pushing the exposure in the 8th Avenue scene results in noisier details and textures. Still, the photo would look great when resized on social media.</paragraph>
+			<paragraph>Here is an HDR scene from the HTC 10 for comparison.</paragraph>
+			<paragraph>Once lighting starts to get really dark, more into the nighttime territory, even HDR is not able to save the photo. You'd have to rely on a steady hand and setting the correct exposure in order to capture the best possible shots. Here are some shots taken just after the sun went down. The rainy weather reflected the city's light pollution right back into the city.</paragraph>
+			<paragraph>Keep in mind that scenes like this are harder to capture completely in focus with a smartphone. Look out for the point of focus as this is where you'll be able to make out the details of the buildings. The first scene's focus is in the nearest building, the second one is at the top of the Metlife building, and the focus at Grand Central is found along the kiosk.</paragraph>
+			<paragraph>The Galaxy S7 excels at panoramas too. When holding the phone in portrait the images can be as tall as 4,032 pixels in vertical resolution minus whatever cropping it needs to do to compensate for your tilting and moving the camera vertically.</paragraph>
+			<paragraph>The Galaxy S7 active does well with panoramas as well. Even so, it's able to blend different exposures well in cases where you'd like to capture a scene that might include the sun.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>5MP selfie camera<subsectionTitle>
+			<paragraph>Image quality from the front camera is more or less the same as the predecessor. It can't handle high-contrast scenes terribly well and blows out the highlights, but in all fairness, that scene would challenge a primary camera as well. More balanced lighting produces better results, and in any case skin tones are rendered in a very pleasing true-to-life way.</paragraph>
+			<paragraph>The Galaxy S7 active has the same 5MP camera found in the Galaxy S7. We still took it out for some selfie action.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video<subsectionTitle>
+			<paragraph>Befitting its flagship nature, the Galaxy S7 active can capture video in 4K (2160p/30fps), 1080p/60fps, 1080p/30fps, as well as the less common 1440p/30fps and lesser resolutions. From the shooting modes you can select slow motion video (720p/240fps), and Hyperlapse. The latter has fixed speeds ranging from 4x to 32x, plus an Auto mode, where the S7 active analyzes footage and uses a variable speed depending on the action taking place.</paragraph>
+			<paragraph>4K videos are recorded with a bitrate of 48Mbps, 1080p/60fps are 28Mbps, while regular speed 1080p/30fps get 17Mbps. Either way audio is recorded in stereo at 256Kbps, so no complaints on the numbers.</paragraph>
+			<paragraph>None when it comes to video quality either. 2160p videos are packed with detail, you can extract frames and have them pass as an 8MP photo, almost. Color reproduction is the same as still images, saturation neither drops, nor is additionally pumped up.</paragraph>
+			<paragraph>We took some video samples in two types of scenes, moving scenery, and moving camera. This way you can see how the different camera modes record in different situations. We've put the stabilization tests in a playlist below so you can watch the videos back to back. As always, you can also download video samples in the following links: 1080p @ 30fps / 1080p @ 60fps / 2160p (4K) @ 30fps.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key Test findings<subsectionTitle>
+			<paragraph>Design is much like the Galaxy S6 active but more refined. The angled corners are gone and replaced with rounded corners. If they didn't know any better, someone might think you just had a really nice case.</paragraph>
+			<paragraph>Water, dust, shock and shatter protection along with the military MIL-STD-810G certification should give you the peace of mind, whether you are a klutz or an extreme camper, regardless of your type of lifestyle. There's also a barometer and the Galaxy S7 active also features a programmable Active key which launches the Activity Zone app, exclusive to the Galaxy Active models.</paragraph>
+			<paragraph>The AMOLED display is just as bright and beautiful as the S7's. As an added plus, the extra polycarbonate coating on the Gorilla Glass 4 ensures your screen won't break from drops of up to 5 feet high onto flat surfaces.</paragraph>
+			<paragraph>The Always On feature is useful and the AMOLED screen takes perfect advantage of battery life by keeping only the white pixels lit. It does take a toll on battery life though. But that could be off-set a bit by scheduling when to active the Always On feature.</paragraph>
+			<paragraph>FM Radio capabilities are included with the Galaxy S7 active, however there is no pre-installed app to tune the radio. You must rely on third-party apps like NextRadio and you will need a physical pair of headphones to be plugged into the headphone jack.</paragraph>
+			<paragraph>Battery life is excellent at 96h overall thanks to the 4,000mAh integrated battery. Keeping Always on display knocks the score down to 70h, while still decent, this is a significant drop in score.</paragraph>
+			<paragraph>TouchWiz is feature-rich as we're used to but this particular phone comes with a handful of obtrusive AT&amp;T bloatware apps, which you cannot uninstall;</paragraph>
+			<paragraph>The Snapdragon 820 CPU and 4GB of RAM ensure you'll be future-proof well into your AT&amp;T's service term.</paragraph>
+			<paragraph>The loudspeaker isn't the loudest one around with a "good" score but you shouldn't be missing any calls.</paragraph>
+			<paragraph>Clean audio output with external amp. Only minor degradation with headphones and above average volume.</paragraph>
+			<paragraph>The 12MP camera is quick and delivers crisp photos with lightning fast autofocus. Images provide great detail and textures are exemplified well. Dynamic range is great and colors are well represented.</paragraph>
+			<paragraph>The 5MP selfie camera is good enough and the wide-angle lens captures more of what's around you, but Samsung needs to opt for a higher resolution sensor in its next iteration. The front-facing camera is also not very good at high dynamic ranges.</paragraph>
+			<paragraph>4K video is amazingly detailed. 1080p 60fps video is smooth and crisp, though we still wished 4K video was digitally stabilized like 1080p modes are.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Galaxy S7 active takes everything great about the Galaxy S7 and puts it in a tougher and beefier body for outdoors enthusiasts or for the consumer that demands more from a smartphone than looks. Whether you are in construction, or you are a hiker, or you're just a clumsy person, the added grip and durability will surely give you that extra peace of mind.</paragraph>
+			<paragraph>The Galaxy S7 active is about never having to worry about putting your phone in a case. Never having to worry about your screen shattering from sliding off a table. And there's the bigger battery as well.</paragraph>
+			<paragraph>The Galaxy S7 active is a worthy successor to the Galaxy S6 active. You get all the benefits of the newer hardware that the vanilla S7 introduced including the fingerprint scanner this time around.</paragraph>
+			<paragraph>That being said, Samsung is the only major phone maker out in the US market, selling through a major carrier with flagship level hardware AND military-spec build quality, easily making it the most accessible rugged device in the US by the average consumer. That leaves customers who really want this phone only one option - you need to buy the phone through AT&amp;T.</paragraph>
+			<paragraph>Still, if you really wanted to, you could probably find a way to purchase the phone outright and use it on your own GSM network, though we don't recommend it. Even so, it will probably burn a hole in your wallet for the price that it's currently going for. AT&amp;T and Samsung are asking for $795 to buy this guy outright.</paragraph>
+			<paragraph>Here are some worthy alternatives to the Galaxy S7 active, we are sticking to devices available in the US as this is an AT&amp;T exclusive device and would only be available as such. Sadly, none of the other alternatives are available with MIL-spec'd certification.</paragraph>
+			<paragraph>The Galaxy S7 is the most obvious alternative to the Galaxy S7 active. There is a $100 premium for the active model if purchasing through AT&amp;T. Those extra $100 could be worthwhile, especially with the same exact internal hardware, the larger battery, military-spec toughness, and overall sturdier build when compared to the glass and metal slab of the Galaxy S7.</paragraph>
+			<paragraph>The next logical alternative to the S7 active is the S6 active. You would be able to score one for a much lower price than the S7 active. Given that it's already a year old, you'll be able to find one for about half the price if you opt for a new one. Just remember you won't get expandable storage or a fingerprint scanner, but you'd get a reasonably performing device with excellent battery life for about half the cost of a new S7 active.</paragraph>
+			<paragraph>Because the S7 active is still a flagship device, we have to toss the other flagships of the year into the mix. The LG G5 offers the same CPU/GPU combo and yields comparable performance to the Galaxy S7 active. But the G5 offers a hot-swappable battery, although it is a smaller 2,800mAH battery. On software, though, Samsung's TouchWiz offers more value-added features. The LG G5 does offer a dual camera setup, one of which is a wide-angle camera.</paragraph>
+			<paragraph>The HTC 10 offers the best of HTC's hardware design, minimally obtrusive software experience, identical silicon setup, and competitive camera experience. Again, it's hard to compare the two when the S7 active offers the ultra-rugged hardware designed to take a beating. Otherwise, the HTC 10 gets you an immersive audio experience sure to wow your friends thanks to its Boom Sound speakers and an impressive listening experience through its 24-bit audio jack.</paragraph>
+			<paragraph>Another competitor would be the Samsung Galaxy S7 edge. Seeing as both devices carry the same $100 premium over the S7, you could find yourself deciding between the sleek and attractive look of the dual-edged displays with a large 3,600mAh battery and larger 5.5-inch display, or the uber-strong Galaxy S7 active with an even larger 4,000mAh battery, and never needing to get a case. If you go with the S7 edge, the first thing you'll want to do is throw it in a case.</paragraph>
+			<paragraph>The Sony Xperia X Performance is a new contender in the US, next to the Z5, this is the first time Sony is officially selling a North American variant for the US market, although it's only available unlocked so you can rule out paying for it in installments through a carrier. While they offer similar performance, unfortunately, the price tag of $750 along with the lack of fingerprint scanner and 4K video recording capability doesn't justify the price compared to what the Galaxy S7 active offers for just about $100 more.</paragraph>
+			<paragraph>Finally, we had to include the Droid Turbo 2 here. Both phones offer a shatterproof display so you don't have to worry about breaking yours accidentally. Unfortunately, the Turbo 2 is exclusive to another carrier, Verizon. Still, it has last year's Snapdragon 810 and it likely won't be a device captivating enough to get you to switch to Verizon.</paragraph>
+			<paragraph>The Galaxy S7 active is a refined version of the Galaxy S6 active in every aspect possible: performance, ergonomics, aesthetics, camera, and design - all without sacrificing any of the features found in the standard S7 model (with the exception of Gear VR as this phone is not compatible, and it doesn't even fit in the viewer).</paragraph>
+			<paragraph>We truly wished that Samsung would release the Galaxy S7 active to a proper audience outside of the US and in other markets worldwide as it's such a perfect balance of raw performance, aesthetic, and durability. Unfortunately, it looks like whatever exclusive deal AT&amp;T has with Samsung for the Active series isn't going to end anytime soon.</paragraph>
+		</subsection>
+	</page>
+</review>

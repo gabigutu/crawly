@@ -1,0 +1,321 @@
+<review>
+	<title>HTC One Google Play Edition review</title>
+	<description>One for Google</description>
+	<link>http://www.gsmarena.com/htc_one_google_play_edition-review-958.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Stock Android Jelly Bean 4.2.2</paragraph>
+			<paragraph>4.7" 16M-color 1080p Super LCD3 display with 469ppi pixel density; Gorilla Glass 2</paragraph>
+			<paragraph>32 GB built-in storage; 2GB of RAM</paragraph>
+			<paragraph>4 MP autofocus "UltraPixel" camera with 1/3'' sensor; 2µm pixel size; LED flash; OIS</paragraph>
+			<paragraph>2.1 MP front-facing camera with 1080p video recording</paragraph>
+			<paragraph>Qualcomm APQ8064T Snapdragon 600 SoC with four 1.7 GHz Krait 300 cores; Adreno 320 GPU</paragraph>
+			<paragraph>Quad-band GSM; Quad-band HSDPA; LTE support</paragraph>
+			<paragraph>Wi-Fi a/b/g/n/ac with DLNA and Wi-Fi Direct; Bluetooth 4.0; NFC</paragraph>
+			<paragraph>GPS with A-GPS and GLONASS support</paragraph>
+			<paragraph>2300 mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Only a few of the HTC Sense enhancements are present</paragraph>
+			<paragraph>Underwhelming 4MP ultra-pixel camera</paragraph>
+			<paragraph>Camera app offers only basic settings</paragraph>
+			<paragraph>Available only in the United States with no subsidies for $599</paragraph>
+			<paragraph>32GB version available only, single silver color scheme</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Google Play Edition of the HTC One presents one of the hottest smartphone tickets this year in a whole new dimension. Gone is the home-brewed, Sense-d Android OS. Instead, users of the Google Play Edition of the metal-clad smartphone will be treated to a clean, unmodified Android 4.2.2 Jelly Bean, coupled with the promise for timely future updates.</paragraph>
+			<paragraph>The hardware of the pure-Google HTC One has remained the same as what its "regular" sibling has to offer. The combination of a Snapdragon 600 SoC with a potent quad-core Krait CPU, 4.7" of a 1080p display, an optically-stabilized camera, and built-in stereo speakers is about as fine as its gets in the smartphone realm these days.</paragraph>
+			<paragraph>Here goes the full list of talents which the HTC One Google Play Edition has on tap.</paragraph>
+			<paragraph>Considering the HTC One has been selling for a few months now, the main highlight of the Google Play Edition is the presence of stock Android 4.2.2 Jelly Bean. The unmodified OS, coupled with the One's powerful hardware and sleek design are bound to offer an experience straight from the dreams of Android purists.</paragraph>
+			<paragraph>Of course, plenty of people will argue that the HTC One Google Play Edition is an exercise in wasting precious cash. With the latest version of HTC Sense sporting functionality which closely resembles that of a Swiss army knife, it is not easy to make a case for spending six hundred dollars and the applicable taxes on an unsubsidized HTC One which comes with less functionality out of the box.</paragraph>
+			<paragraph>Still, seeing one of the best smartphones of the year in a Nexus guise is an occasion worthy of celebration. We will therefore, put the purified HTC flagship through its paces and find out what it is capable of. As always, we'll kick things off with an unboxing, followed by a design and build quality inspection.</paragraph>
+			<paragraph>Editorial: You might notice that this review is shorter than usual and doesn't include some of our proprietary tests. The reason is it has been prepared and written far away from our home office and test lab. Still, we think we've captured the essence of the phone in the same precise, informative and detailed way that's become our trademark. Enjoy the good read!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A well-appointed retail box<subsectionTitle>
+			<paragraph>The HTC One Google Play Edition ships in the same retail box as its Sense-d relative. The only difference is that the image on the box now shows the smartphone running stock Android.</paragraph>
+			<paragraph>Alongside the device in the box you will find a charger, a USB cable, a headset, as well as a tool for removing the SIM card. A few leaflets and a couple of HTC stickers are also present.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>There are absolutely no surprises in the design department of the HTC One Google Play Edition - it is exactly the same as the internationally available version. With this in mind, we must point out that, five months after going official, the HTC One is probably still the best looking smartphone to break cover this far in 2013.</paragraph>
+			<paragraph>The measures of the HTC One Google Play Edition have remained unchanged at 137.4 x 68.2 x 9.3mm. The same goes for its weight - 143 grams.</paragraph>
+			<paragraph>Build quality is unsurprisingly flawless. This side of a Vertu device, one will be hard pressed to find a better built smartphone out there. HTC has indeed set the bar high for the entire industry with the One's aluminum unibody.</paragraph>
+			<paragraph>The HTC One has a brilliant 4.7" Super LCD3 screen, not a 5-incher, which is becoming the flagship standard. The One's screen is 12% smaller than the 5" models, but boasts a pixel density of 469ppi, up from 441ppi.</paragraph>
+			<paragraph>  HTC One and Sony Xperia Z display matrices compared</paragraph>
+			<paragraph>The difference between the 469ppi of the HTC One and the other 1080p screen out there (even the 401ppi LG Optimus G Pro) isn't the kind that can be easily seen. Anyway, we assume HTC were driven by a screen size they considered most usable, rather than trying to top some pointless pixel density charts.</paragraph>
+			<paragraph>HTC has been putting out some excellent screens recently and the One's display is just another example of this. The contrast is impressive and the viewing angles are extremely wide - there's no shift in colors and only a slight contrast loss at extreme angles.</paragraph>
+			<paragraph>The screen is laminated too, for a maximum close fit between individual layers, bringing the image as close as possible to the surface of the glass.</paragraph>
+			<paragraph>The face of the One is split into three - the massive middle section is the Gorilla Glass 2 covered screen, with strips of aluminum on both sides. The latter house the stereo speakers with BoomSound tech.</paragraph>
+			<paragraph>A strip of glass right below the screen keeps the two capacitive keys, Back and Home. Above the screen is the front-facing camera, plus the ambient light and proximity sensors. The top speaker acts as an earpiece during calls.</paragraph>
+			<paragraph>The HTC One uses microSIM cards, which go in a tray on the left side of the phone. The right side of the phone houses the volume rocker, which is big and wide, but a little flat and difficult to press.</paragraph>
+			<paragraph>The microUSB port and the mouthpiece are at the bottom. There's a noise cancelling mic at the back of the phone. Besides its usual noise cancellation duties, the second mic keeps track of how loud the ambient noise is and the phone will boost the sound from the mouthpiece to make sure the other side hears you loud and clear.</paragraph>
+			<paragraph>The top of the phone features the 3.5mm audio jack and the Power/Lock key. Unfortunately, the IR port is not functional in the HTC One Google Play Edition - stock Android is yet to support it.</paragraph>
+			<paragraph>The back of the smartphone is a big slab of aluminum that's split into three parts by fine plastic lines - to match the division of the front into screen and speakers. The camera and its LED flash are located at the top of the One's back. A noise-cancelling microphone is keeping them company.</paragraph>
+			<paragraph>Packing the same 2300mAh battery as its regular sibling, the HTC One Google Play Edition made us curious to find out about the effect of stock Android to its battery performance. With an endurance rating of 55h, the Nexus-experience HTC One actually surpassed the achievement of its "civilian" sibling.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Google Play Edition HTC One posted slightly lower results in telephony, web browsing, and video playback than its Sense, but more than made up for them in the standby department. The stock Android version had a clear advantage over the Sense-d one when the device was not into play.</paragraph>
+			<paragraph>Quite expectedly, handling the cold metal body of the HTC One is a pleasure. We would however, urge you to pick up a protective cover of some sort for the device - the aluminum is not going to handle serious drops well.</paragraph>
+			<paragraph>Following next, is a closer look at the centerpiece of the HTC One Google Play Edition - its untouched Android OS.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Out with the Sense, in with the Pure Google<subsectionTitle>
+			<paragraph>The HTC One Google Play Edition comes preinstalled with Android 4.2.2 Jelly Bean and a new live wallpaper dubbed Sun Beam. Just by looking at it this could easily pass as a Nexus device on steroids - it's got the stock OS and everything runs perfectly smooth and fluid.</paragraph>
+			<paragraph>But seen as how you could get the One Google Play Edition straight off Google Play (in the US, and for a premium) we'll go about with the software part of the review with the disposition that this is, a rare, but honest to goodness Nexus device by Google.</paragraph>
+			<paragraph>Here's a UI rundown video to start you off.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen in Android 4.2.2 Jelly Bean features the same large dotted circle around the center-placed padlock button. Lockscreen widgets are present on the One Google Play Edition and are full-screen, resizable tiles, One of which is always visible at the top of the main lockscreen, above the padlock icon. The rest are a swipe to the right away. The One on the main lockscreen is collapsed to make room for the padlock button, but can be expanded to display additional information.</paragraph>
+			<paragraph>There's a large variety of third-party lockscreen widgets and a few stock Ones: Messages, Calendar, Gmail and Digital Clock. The camera shortcut, previously located at nine o'clock on the unlock circle is now a stand-alone widget, a swipe to the left away from the lockscreen.</paragraph>
+			<paragraph>Lockscreen widgets are resizable - tap and drag down to expand and show more content, if available. Lockscreen widgets can also be reordered by tapping and dragging, so you can choose which One is visible on the main lockscreen. They can also be dragged up to discard.</paragraph>
+			<paragraph>There are multiple unlock patterns to choose from: simple slide, pattern, pin or password, and face unlock. The lockscreen could even be skipped altogether.</paragraph>
+			<paragraph>Once unlocked, you're welcomed with the familiar homescreen interface introduced in Ice Cream Sandwich. As the One natively features a home and back buttons, the bottom of the screen is no longer wasted for on-screen buttons. It's up to preference but there's no doubt that on-screen virtual keys work faster and there are no mechanics involved, meaning potentially less things to get broken.</paragraph>
+			<paragraph>The dock is customizable and features two shortcut icons on either side of the app drawer key. You can have folders there, each with multiple shortcuts.</paragraph>
+			<paragraph>Android 4.2.2 Jelly Bean isn't just business and no play. Google's Daydream is a fun twist on the screensaver concept. Once turned on, you can set it up to show photo albums or the latest news from Google Currents when the device is either docked or idle.</paragraph>
+			<paragraph>In the notification center you'll find Quick toggles. They're accessible via an icon in the top right corner of the notification area. You get access to key device settings such as brightness, Wi-Fi, Bluetooth and Battery. Some toggles are directly accessible shortcuts to their respected functions in the settings menu.</paragraph>
+			<paragraph>The quick settings menu can be accessed by a two-finger swipe down from the top of the screen.</paragraph>
+			<paragraph>Google has added a bit of personalization to the Quick Toggle panel in the notification area. Your name and photo are displayed but only after you've logged in to Google+ or after you've manually set them yourself.</paragraph>
+			<paragraph>Notifications can be expanded and collapsed with a two-finger swipe, and the top One is expanded by default (if the app that put up the notification supports it, of course).</paragraph>
+			<paragraph>The homescreen consists of five panes, One to be added or removed, to fill with shortcuts, folders and widgets. More often than not, the latter are resizable in all directions in order to fit any tight space. To resize a widget, you tap and hold and then release. Four handles will appear on its sides, allowing you to change the widget's size in the direction you want.</paragraph>
+			<paragraph>Folders haven't been changed since Ice Cream Sandwich and function as you'd expect. A folder is created by dropping a shortcut on top of another and can be named by tapping on the "Unnamed folder" label. Opening a folder expands it only as much as needed to fit the icons inside.</paragraph>
+			<paragraph>The folders themselves are circular with the shortcuts inside drawn as if they are in a line One behind the other and you're looking at them at an angle (complete with perspective). They are lined up so the first shortcut in the folder will be the only One unobscured - the rest of the icons are nearly impossible to tell apart.</paragraph>
+			<paragraph>The app drawer of the One Google Play Edition consists of four rows of icons, instead of the Nexus 4's five. It features two tabs - Apps and Widgets, each with side-scrollable pages. If you scroll past the available apps you move into the Widgets tab. There's also a Market shortcut next to the tabs, for quicker access to Android's app repository.</paragraph>
+			<paragraph>Apps and widgets are ordered alphabetically and there's no other sorting option.</paragraph>
+			<paragraph>Placing a shortcut or widget on the homescreen works as you would expect: press and hold to grab it and then position it on the homescreen pane of choice. Two more options appear at the top of the screen while you're dragging - Uninstall (to quickly remove apps) and App info, which opens the application's entry in the Manage applications list. Drop the app or widget on either One to activate it.</paragraph>
+			<paragraph>Last but not least, the Recent Apps list has remained virtually unchanged, save for some optimizations in load time and a few neat animations here and there. It all adds up as a really polished user experience and feels fantastic. It would be nice if Google adds a kill/close all option.</paragraph>
+			<paragraph>Here's where Google's Project Butter comes into play. We've covered it already, but it's generally Google's way of getting the Android user interface rid of stutter and lags. Essentially, Jelly Bean runs at 60 frames per second where the hardware allows it. Since software engineers didn't stop there, they also added triple buffering (CPU, GPU and display working in parallel, not waiting in turns).</paragraph>
+			<paragraph>As a whole, Android 4.2.2 Jelly Bean offers a polished and smooth user interface and coupled with the top of the line chipset in the HTC One Google Play Edition things are lightning fast all the time. The OS is getting closer to offering a lot of the features that skins like Sense 4+, Nature UX and Optimus UI have been having for a while now, and it's interesting to see Google's spin on them.</paragraph>
+			<paragraph>However, the Android 4.2.2 tweaks don't end here. Follow us as we continue to explore. Next up, Google Now.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now<subsectionTitle>
+			<paragraph>Google Now was first introduced back in Jelly Bean 4.1 and is definitely one of the most interesting additions in the OS. Simply put, it's Google's version of a personal assistant. Google Now is in the same neck of the woods as Apple's Siri, but it learns constantly from your daily routine.</paragraph>
+			<paragraph>It's accessed by holding the home button and gives you short overview of information it believes is relevant to you right now in the form of cards. Going to work in the morning? Google Now knows this and lets you know there's a big traffic jam on your usual way to the office, so it offers you a re-route.</paragraph>
+			<paragraph>It can interpret a lot of things from your search history as well. If you've been searching for, let's say, your favorite football team, Google Now will prepare a card showing you the next match the team is playing and will provide you score updates once the game begins.</paragraph>
+			<paragraph>In Jelly Bean 4.2.2, Google Now has become even smarter and, if you allow it, can scan your email for upcoming flights, deliveries or restaurant reservations and let you know when they are due. There are also numerous kinds of cards like birthdays (yours and those of your contacts) and what distance you've walked in a particular month. The last one could definitely feel creepy for some users, but it's easily turned off from the Google Now settings menu. The latest addition to Google Now cards are TV and Offers.</paragraph>
+			<paragraph>Google has also integrated Voice Actions. They can handle stuff like sending messages (SMS or email), initiating a voice call, asking for directions, taking a note or opening a site. Google Now can also launch apps, check and manage your calendar and look for nearby places of interest and stuff like movie openings in theaters.</paragraph>
+			<paragraph>One big advantage of Google's Jelly Bean is that the voice typing functionality doesn't require an internet connection to work. You can enter text by speaking anywhere you can use the on-screen keyboard - be it the Messaging app or a note taking app - without the need for a data connection as long as you have pre-downloaded the needed language packs (and those only take about 20-25MB of your storage per pack).</paragraph>
+			<paragraph>Making voice typing available offline also made it faster as it's not dependent on your connection. What's even more impressive is that the transition hasn't cost it anything in terms of accuracy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Hardware-wise the HTC One Google Play Edition has the same chipset on tap, down to the clock speed. The CPU in question is Qualcomm's Snapdragon 600 and it packs four Krait 300 cores that are clocked as high as 1.7GHz each.</paragraph>
+			<paragraph>There are 2 gigs of RAM on the Google Play Edition One and the Adreno 320 handles graphics.</paragraph>
+			<paragraph>We've already tested the potent Snapdragon 600 in the global HTC One and we know it can compete on the highest of levels. The interesting question here is whether Google's stock Android will make the device faster or slower. So without further ado, here come the scores.</paragraph>
+			<paragraph>The HTC One Google Play Edition unsurprisingly does quite well in CPU related benchmarks. You can see its scores below.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Geekbench 2 is a cross-platform benchmark, which allows us to compare the HTC One Google Play Edition against the iPhone 5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to compound benchmarks, AnTuTu and Quadrant. Expectedly, the HTC One Google Play Edition performed up to snuff in both.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Now let's look at the GPU benchmarks. We ran GLBenchmark 2.5 in 1080p off-screen mode, which is also the native screen resolution for today's crop of Android flagships.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.7 T-Rex (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally we come to JavaScript, which is a known Achilles heel to stock Android.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The HTC One Google Play Edition unsurprisingly did quite well in all synthetic benchmarks. We were mostly surprised to about how well the smartphone did in the JavaScript section - it did much better than we expected.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great phonebook<subsectionTitle>
+			<paragraph>The phonebook is the stock Android app People, which hasn't been changed since its major redesign last year with the introduction of Ice Cream Sandwich.</paragraph>
+			<paragraph>It's made up of three tabs that you can switch between with sideways swipes. The middle tab is the default one, listing all of your contacts. Contacts are listed with a name and a picture to the right. They can be sorted by first or last name, and viewed as first name or last name first.</paragraph>
+			<paragraph>There's a permanent scroll bar available that you can grab and jump straight to contacts starting with a certain letter. There's regular search as you type too.</paragraph>
+			<paragraph>The quick contacts feature triggers on tapping a contact image to bring up a tabbed popup window. The tabs are phone and email with a list of the available numbers or addresses. These tabs can be navigated with sideways swipes as well.</paragraph>
+			<paragraph>The single contact view displays the contact's name along with a star to favorite a contact and a Settings button that lets you edit, share or delete a contact, as well assign custom ringtones to them or set the phone to redirect calls from that contact straight to voice mail.</paragraph>
+			<paragraph>Under that is a list of all contact info sorted by category - phone numbers, emails, events, notes and so on.</paragraph>
+			<paragraph>While editing a contact, you can add new fields of different types to fill in more info for the contact. You can link contacts too, if you've added the same person on multiple services.</paragraph>
+			<paragraph>The contacts that the phonebook displays can be filtered by service (e.g. hide all Facebook contacts) and even group (so you can hide all contacts that don't belong in a group, for example).</paragraph>
+			<paragraph>The other two major tabs in the phonebook are Groups and Favorites. Groups are listed by service (e.g. your Gmail account), while favorites are a listed as a grid of large contact photos, which is readily thumbable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basic telephony<subsectionTitle>
+			<paragraph>In-call quality of the HTC One Google Play Edition has remained unblemished. Voices come out loud and clear and the device held on to signal without issue.</paragraph>
+			<paragraph>This is one of the areas where stock Android is a step down from the Sense-d version of the international model.</paragraph>
+			<paragraph>The dialer features the neon-blue on black theme, but hasn't grown any new functionality. There's still no smart dialing, which is a real shame and frankly getting annoying.</paragraph>
+			<paragraph>The dialer is the first tab of the phone app, the other two being the Call log and the Favorites tab (you get the same in the Phonebook). In the Call log, you can't delete individual entries, which is mind-boggling.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Capable messaging<subsectionTitle>
+			<paragraph>The messaging section is business as usual but with some improvements. All SMS/MMS communication is organized into threads - each thread consists of all messages between you and one of your contacts. A cool new feature is that you can select multiple threads to mass delete them.</paragraph>
+			<paragraph>Each thread is organized like an IM chat session, the latest message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them (to prevent deletion). You can use search to find a specific message in all conversations.</paragraph>
+			<paragraph>Quick contacts work here too and there's a call shortcut at the top of the screen when viewing a thread.</paragraph>
+			<paragraph>You can set the One Google Play Edition to delete older messages (by default, it keeps 500 texts and 50 MMS). You can activate delivery reports and read reports too (they are notifications that the receiver has read the message).</paragraph>
+			<paragraph>Composing a text is still frustrating as the text box starts off as a single line and grows only up to three lines, which makes working with longer texts hard. We mostly let it slide on previous versions, but with a 4.7" screen there's no excuse not to make the text box bigger.</paragraph>
+			<paragraph>You can add multimedia (photos, videos, sounds, etc.), which will convert the message to an MMS. If you need multiple slides or multiple attachments, you can go to a full-blown MMS editor as well.</paragraph>
+			<paragraph>The Gmail app now features color coded sender images, based on the first letter of the sender's name. This lets you easily see who your most popular email correspondences are with. The default app supports multiple Gmail accounts, but there's no unified inbox.</paragraph>
+			<paragraph>A cool new feature in Gmail is that you can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>A recent major update of the app also automatically sorts out your incoming messages into three inboxes - primary, social, and one for promotional emails. We found it to work like a charm - it makes sorting through email messages much easier.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>Unlike its Gmail counterpart, this app supports a combined inbox view. It color codes the inboxes so you can easily tell where each message came from. Unfortunately, there's no moving between messages with sideways swipes here.</paragraph>
+			<paragraph>The keyboard has now even more room to stretch its legs on the 4.7" screen and typing is very easy. Keys get even bigger when you switch to landscape mode - the long screen becomes very comfortable for two-thumb typing.</paragraph>
+			<paragraph>In Jelly Bean 4.2.2 Google introduced a new typing method called Gesture typing. It works in a manner very similar to Swype -- you just Swipe your finger over the letters you want to type, lifting after each word is complete. Naturally, the Gesture Typing feature benefits from the already existing Android word prediction, so you can just click on the words the keyboard suggests.</paragraph>
+			<paragraph>A tap on the text area will reveal a "handle" attached to the text cursor - it's easy and more accurate, which makes correcting mistakes easier. A double tap will bring up the select options - select word and select all - with two handles to adjust the start and end of the selection.</paragraph>
+			<paragraph>If a word has a typo, it will be underlined in red and when you tap it, the phone will offer a number of suggested corrections along with options to add the word to the phone's dictionary or just delete the word.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery looks good in Full HD<subsectionTitle>
+			<paragraph>The Gallery in Android 4.2.2 Jelly Bean retains its ICS looks and functionality. The Default view of the gallery is Albums, the first of which is always the Camera album, which has a camera overlay icon too. Rather than the familiar stacks, the app uses a grid of photos, two on a line.</paragraph>
+			<paragraph>Besides, Album view, you also get Locations (photos are grouped based on where they were taken), Times (grouped by when they were taken), People (if the photos have tagged faces in them) and Tags (these are general tags you can add manually).</paragraph>
+			<paragraph>A handy option is the Make available offline feature - it lets you easily select multiple online albums and download them for offline viewing. The Gallery app supports online albums like Picasa (but not Facebook) and you can set it to sync photos only over Wi-Fi.</paragraph>
+			<paragraph>Getting inside an album displays all the photos in a rectangular grid, which is horizontally scrollable. When you try to scroll past the end, the photo thumbnails will tilt to remind you you're at the end.</paragraph>
+			<paragraph>Anyway, the single photo view is updated too - above the photo are several sharing shortcuts and a delete button, while the underlying line of small thumbnails of all other photos in the album isn't present any more.</paragraph>
+			<paragraph>The settings menu lets you do simple edits to a photo (rotate, crop) or go into a more capable editor with a lot more option. The editor can be accessed from a small icon from the bottom left hand-side corner and offers light adjustments (so you can bring out the shadows or the highlights), effects, color styles, red eye correction, straightening a photo, sharpening and face glow (which detects faces automatically). Most of these options have a slider that lets you fine-tune the strength of the effect.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player still needs a lot of work<subsectionTitle>
+			<paragraph>The video player is still not getting the necessary attention from Google and there's still no dedicated videos app (you have to go through the Gallery). Despite the excellent track record of supported video codecs the HTC One has, the Google Play Edition could only muster mp4 videos, while avi, mov, DivX and XviD were out of the question. We'd suggest using a player with a codec pack, like MXPlayer and enjoy videos on the great 4.7" display.</paragraph>
+			<paragraph>When compatible, videos played up to FullHD resolution without hiccups.</paragraph>
+			<paragraph>At long last, Google has implemented wirelessly sharing videos with a Wi-Fi enabled TV. The feature relies on the good ol' DLNA technology to connect and the Miracast protocol for streaming. It's another feature most customs launchers had, but is only now making its way to the platform itself.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play Music streams and stores your music<subsectionTitle>
+			<paragraph>Google's own music player called Play Music is on board the HTC One Google Play Edition. It went through a major UI overhaul and is now snappier and more beautiful. It features the spanking New Listen Now feature which tries to determine what you like and the sequence of your track-changing so that it can start offering you music you might like to play next.</paragraph>
+			<paragraph>Google Play Music also gives you the option to upload music onto the Google-branded cloud and stream it on your device via Wi-Fi or mobile data. There's also the nifty option of downloading the content onto the device if you want to have there for connection-less times.</paragraph>
+			<paragraph>From the Settings key you can get into the equalizer. It can be turned on and off and features several presets that along with a user defined one. If you plug in a headset, you can also play with the Bass boost and 3D effect sliders.</paragraph>
+			<paragraph>The Now Playing screen uses the song album art and gives you a quick shortcut to the rest of the artist's songs along with the play controls.</paragraph>
+			<paragraph>While the player is working, the lockscreen features the album art and track info for the current song along with simple playback controls. The notification area also lets you control the playback via an expandable notification.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Extra loud audio output<subsectionTitle>
+			<paragraph>We were very curious to see how the HTC One audio output was after the smartphones travel to the Google Play Store. As it turns out the One GPE was the best device we have tested so far when connected to an active external amplifier.</paragraph>
+			<paragraph>Not only is this the loudest smartphone by some distance, but it also produced perfectly clean audio output with no weak points whatsoever.</paragraph>
+			<paragraph>Surprisingly, things weren't as rosy when we plugged in a pair of headphones. The Google Play Edition HTC One let quite a lot of distortion creep in and stereo crosstalk worsened quite significantly. Now the distortion isn't too easy to detect outside of the audio lab, but the worsened stereo does have a somewhat negative impact on the sonic experience. Still that kind of loudness should make you easily forgive the minor flaws, particularly when the rest of the readings remain so great.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> HTC One Google Play Edition frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>UltraPixel camera dressed in stock UI<subsectionTitle>
+			<paragraph>The HTC One Google Play Edition comes with the spanking new stock camera app. Although mostly looking unchanged it brings an end to the quick settings ring and instead opts for a quick settings arch.</paragraph>
+			<paragraph>You need to hold a finger anywhere in the viewfinder to get to the quick settings. Using swipe gestures you can toggle HDR, exposure, settings for picture size, white balance, timer, Geo-tagging, scene mode, flash on or off and switching to the front-facing camera.</paragraph>
+			<paragraph>Quick settings can also be triggered by touching the corresponding icon atop the virtual shutter button. You can choose Camcorder, Panorama and Photosphere through the underlying shortcut.</paragraph>
+			<paragraph>The viewfinder has the same 16:9 aspect as the camera sensor's. It makes framing the photos quite easy.</paragraph>
+			<paragraph>Photosphere let's you take Street View panoramas of your surroundings. You start by aligning your image and then just move the phone about following a generated dot. After you've covered the entire surrounding scene the device generates a panorama, which can be viewed as a Photosphere in the Gallery and uploaded to Google's servers to be featured in Maps (if it's good enough).</paragraph>
+			<paragraph>In terms of what you're giving up going for the HTC One sans the Sense camera optimizations is a lot. The majority of shooting modes are gone and we are particularly missing all the cool Zoe functionality.</paragraph>
+			<paragraph>As far as image quality is concerned the GPE HTC One is doing about as well as its regular sibling. The low resolution of the sensor limits the amount of detail it can resolve in favorable lighting conditions, but along with the OIS greatly benefits its low-light performance.</paragraph>
+			<paragraph>There are some occasions when 4MP simply isn't enough and if you use your camera to take photos of labels instead of taking notes you might be faced with those more frequently. However, if you are of the kind to only shoot and post photos on social networks the high per-pixel quality and the low resolution might actually be a blessing for you.</paragraph>
+			<paragraph>Other than that, colors are quite decent and so is dynamic range. And unlike many other smartphones images generally look pretty nice when zoomed at 100%, even if they are a bit noisier than we expected.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Full HD video camera<subsectionTitle>
+			<paragraph>The camcorder interface borrows heavily from the camera one. It is, however, very limited in terms of options and gives you settings for white balance, camera preference (front or back), a flash toggle, Geo-tagging and the option to choose the video resolution.</paragraph>
+			<paragraph>You can take full-resolution images while recoding a video, which is great, especially given the fact that the camera does continuous autofocus during video recording.</paragraph>
+			<paragraph>The Google Play Edition HTC One came up with good 1080p videos - hardly a surprise considering the well-thought out camera tech on board. There's plenty of detail in the videos from the device and natural, if slightly cold colors. The framerate is really smooth.</paragraph>
+			<paragraph>Here goes a sample.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And here's a 1080p video sample taken straight from the One Google Play Edition.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Fully covered connectivity<subsectionTitle>
+			<paragraph>The HTC One Google Play Edition starts off with the basics - quad-band GSM/GPRS/EDGE, quad-band 3G, and LTE compatibility for AT&amp;T and T-Mobile US.</paragraph>
+			<paragraph>Google's latest Android flagship uses Bluetooth 4.0 alongside Wi-Fi support which includes a/b/g/n/ac band compatibility.</paragraph>
+			<paragraph>The HTC One Google Play Edition allows you to share all sorts of media via NFC by simply touching the device and other NFC-capable devices back-to-back.</paragraph>
+			<paragraph>Unfortunately, the IR port functionality is not supported on the Google Play Edition HTC One out of the box. It's one of the main Sense features missing in the Google Play Edition.</paragraph>
+			<paragraph>And finally, for wired connectivity we have the MHL 2.0 port. By all appearances it is a normal microUSB port and works as one (a charger port as well). But the MHL 2.0 port enables video output by using a MHL-to-HDMI dongle. Once you plug the dongle into the phone you also need to plug a charger into the additional microUSB port on the dongle and the HTC One Google Play Edition screen will be mirrored on the TV.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Chrome is in charge of web browsing<subsectionTitle>
+			<paragraph>The HTC One Google Play Edition comes with Google Chrome as a default web browser out of the box, replacing the generic Android browser, which isn't even present. The interface hasn't changed since Chrome's launch for Android and is clean and minimalist.</paragraph>
+			<paragraph>At the top there's an URL bar with a refresh/stop buttons next to tabs and settings buttons. You can switch between tabs with a wide swipe from either the left or right.</paragraph>
+			<paragraph>Opening the tabs area reveals a list of tabs which can be closed again with a left or right swipe. The animation accompanying this action is neat, too.</paragraph>
+			<paragraph>Chrome is running on the WebKit rendering engine, so underneath the minimalist UI it's basically the same as all Android stock browsers.</paragraph>
+			<paragraph>Of course, one of Chrome's strengths is its ability to seamlessly sync with its desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+			<paragraph>Google Chrome is generous on settings as well. You can control almost every aspect of your web browsing from choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups.</paragraph>
+			<paragraph>If you are out of Wi-Fi access, you can, for example, choose temporarily not to load images. Digging into Chrome's options, you'll also have the option to turn the auto-fill of forms and storing passwords on or off.</paragraph>
+			<paragraph>Unfortunately, while Chrome excels in many areas, it falls short on the one that could be a deal-breaker for many of Android users and this is Flash. Sadly, viewing Flash content is the one thing you won't be able to do here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Basic organizer<subsectionTitle>
+			<paragraph>The HTC One Google Play Edition doesn't come with a dedicated file browser or a document editor. However, after installing a third-party file browser we were able to open all the different document types: DOC, XLS, PPT from Office 2003 and 2007 along with PDF using Google Drive with ease.</paragraph>
+			<paragraph>The calendar's look hasn't changed drastically and its functionality is as good as ever. There are four views - Daily, Weekly, Monthly and Agenda. The app can easily handle several online calendars as well as the local calendar.</paragraph>
+			<paragraph>You can add multiple reminders for each event and search through all events. Recently Google added color-coding to events, which helps with organizing tasks.</paragraph>
+			<paragraph>Google has redone its Clock app, giving it a major overhaul. Opening it brings you to your local time giving you the ability to add as many additional world capital cities as you'd like (they will also be visible on your lockscreen widget upon expanding).</paragraph>
+			<paragraph>The usual alarm functionality is still present, albeit the fresh new design. You can set multiple alarms, each with its own repeat pattern, ringtone and label. The app also comes with a stopwatch and a timer.</paragraph>
+			<paragraph>The good old calculator is here too - it has big, easily thumbable keys and you can swipe to the left to bring up the advanced functions (trigonometry, square root, brackets, etc.).</paragraph>
+			<paragraph>Stock Android isn't big on organizing but you can find pretty much anything in the Google Play store. Note apps like Google Keep or Evernote, different calendars, different office viewers, calculators, anything.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and Google Earth will show you around<subsectionTitle>
+			<paragraph>The HTC One Google Play Edition comes with a GPS receiver, which took about a minute to get satellite lock upon a cold start (it supports GLONASS for faster, more accurate locks too). You can use the A-GPS functionality to get near instantaneous locks. Alternatively, network positioning will also do if you only need an estimate of your location.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>You can also plan routes, search for nearby POI and go into the always cool Street View. The app will reroute you if you get off course, even without a data connection.</paragraph>
+			<paragraph>Google Maps uses vector maps, which are very data efficient. The latest version has an easy to use interface for caching maps - you just choose "Make available offline" from the menu and pan/zoom around until the desired area is in view (there's an indicator showing how much storage caching that area will take). You can later view cached areas and delete ones you no longer need.</paragraph>
+			<paragraph>Note that there's a limit to the size of the area you can cache - you can't just make all of Europe available offline, not even a whole country. We managed to cache Berlin and some surrounding regions before Maps told us the area is too big. Also, there's no address search in the cached maps and you can only cache map data in supported regions of the world.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play store has all the apps<subsectionTitle>
+			<paragraph>Running on Android 4.2.2 Jelly Bean, the Google Edition HTC One has access to the latest available apps.</paragraph>
+			<paragraph>The Store is organized in a few scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. The in-app section is untouched though and it's very informative - a description, latest changes, number of downloads and comments with rating. There is usually a demo video and several screenshots for most apps too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We enjoyed every minute spent with the HTC One Google Play Edition. Like its Samsung Galaxy S4 counterpart, the metal-clad smartphone with stripped-down Android on board offers the pure Google experience, tucked into a vastly improved hardware compared to the Nexus 4 currently on offer.</paragraph>
+			<paragraph>Compared to what's currently the official Google Nexus smartphone, the HTC One Google Play Edition offers more of everything. This includes processing power, storage, display size and resolution, network speed. It does however, end with a price tag which is double what the entry-level Nexus 4 costs.</paragraph>
+			<paragraph>Compared to the "ordinary" HTC One though, the Google Play Edition simply offers less functionality out of the box. HTC has spent quite a few years perfecting the Sense UI, and the latest iteration packs just about everything but the kitchen sink in terms of features.</paragraph>
+			<paragraph>Furthermore, the HTC One with Sense on board can also be easily converted to a Pure Google device by flashing it with the applicable ROM. There's a huge developer community tinkering with the HTC flagship, so the exercise is easier than most people think it is.</paragraph>
+			<paragraph>With a price tag of $599 and no option to buy it subsidized, the HTC One Google Play Edition is plainly not meant to be a device for everyone. Especially considering that its Sense-d sibling can be picked up for $99 with a two-year carrier commitment.</paragraph>
+			<paragraph> HTC One</paragraph>
+			<paragraph>Samsung has users scratching their heads over a similar dilemma. A natural rival to the pure-Google HTC One is the Samsung Galaxy S4 Google Play Edition. Like the Taiwanese top dog, the Google Play Galaxy S4 offers top notch hardware with stock Android to boot. However, with a larger removable battery and expandable memory, the Samsung Galaxy S4 is the phone users will buy with their head. The Korean offering though, is nowhere near as attractive as the HTC One in the flesh. Besides, the Samsung Galaxy S4 Google Play Edition is priced at $649 with no subsidies, which makes it really hard to recommend.</paragraph>
+			<paragraph> Samsung I9505 Galaxy S4</paragraph>
+			<paragraph>In fact it's hard to recommend any of the Google Pay Edition smartphones, when there's the LG Nexus 4 readily available. With a starting price tag of $299, the Nexus 4 is an attractive proposal, even if it pales in comparison to the HTC One in terms of hardware and overall design.</paragraph>
+			<paragraph> LG Nexus 4 E960</paragraph>
+			<paragraph>The HTC One Google Play Edition can be the perfect device for a narrow group of potential users. It is not going to enjoy even a fraction of the regular HTC One's popularity. It's not going to have a significant impact on the company's financial results, or even bring that much publicity considering the very limited availability.</paragraph>
+			<paragraph>Still, the One Google Play Edition is HTC's badge of honor. By placing it alongside the Samsung Galaxy S4 in the Play Store, Google essentially acknowledges that the HTC One is one of the top two Android smartphones, driving the platform forward this past year. As far as recognition goes, it can hardly get any better for the HTC One.</paragraph>
+		</subsection>
+	</page>
+</review>

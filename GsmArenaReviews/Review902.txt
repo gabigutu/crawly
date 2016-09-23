@@ -1,0 +1,138 @@
+<review>
+	<title>Moto G4 Plus hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/moto_g4_plus_hands_on-review-1447.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Moto G4 Plus key features<subsectionTitle>
+			<paragraph>5.5-inch 1920x1080 IPS display</paragraph>
+			<paragraph>Qualcomm Snapdragon 617 processor (Quad-core 1.5 GHz Cortex-A53 &amp; quad-core 1.2 GHz Cortex-A53; Adreno 405 GPU, 2 or 3GB RAM)</paragraph>
+			<paragraph>16 or 32GB storage expandable with a microSD</paragraph>
+			<paragraph>16 megapixel rear camera, f/2.0, phase detection and laser assisted autofocus, dual tone LED flash, 1080p video recording</paragraph>
+			<paragraph>5 megapixel front camera, f2.2 aperture, screen flash, 1080p video recording</paragraph>
+			<paragraph>Dual SIM, LTE Cat4 150/50 Mbps, dual band 802.11 a/b/g/n Wi-Fi, Bluetooth 4.2, GPS, microUSB</paragraph>
+			<paragraph>Water-repellent nano coating</paragraph>
+			<paragraph>Fingerprint sensor</paragraph>
+			<paragraph>3000mAh battery, Qualcomm Quick Charge 2.0</paragraph>
+			<paragraph>Android 6.0.1 Marshmallow</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Moto G is one of Motorola's most popular phones in recent years. As such, coming up with the next model every year sure must be a challenge.</paragraph>
+			<paragraph>On one hand, Motorola has to come up with something new to interest people - and that's in a price segment where we are seeing a lot of action from traditional Chinese brands and where it's hard to stand out unless you are really pushing the envelope in some way or the other.</paragraph>
+			<paragraph>On the other hand, they can't mess with a proven formula so they continue to deliver what people have come to expect from the Moto G series.</paragraph>
+			<paragraph>It's a balancing act and a tough one at that, but Motorola has been doing it successfully for the last three years. Does the fourth iteration, curiously split into three devices this time, have what it takes to succeed in this cutthroat competition while staying true to the best bang-for-the-buck factor that the series has come to be known for? Let's find out.</paragraph>
+			<paragraph>For this hands-on, we have the Moto G4 Plus or the G Plus, as it's known on some markets. It's the top-tier device among the three new Moto G's.</paragraph>
+			<paragraph>The vanilla Moto G4 will be coming out later and it won't have the fingerprint sensor and would only have a 13 megapixel camera on the back, but it's otherwise identical to the Plus model we have here.</paragraph>
+			<paragraph>The Moto G4 Plus is probably among the first devices to come out under the Moto brand, now that it's owned by Lenovo. The first and immediate changes are apparent immediately - the Moto phones will be officially imported to more markets now thanks to Lenovo's wider distribution network.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Looking at the design, the first thing you notice is the size. Over the years, the Moto G has put on some weight and the latest one would dwarf the first generation model in comparison. Its size however is okay for a 5.5-incher and it actually has a smaller footprint than the iPhone 6s Plus (not that these two are direct competitors, of course).</paragraph>
+			<paragraph>The design is unmistakably Motorola and you don't even need to see the logo on the back to recognize it.</paragraph>
+			<paragraph>The front of the phone has a glass panel spanning the entire surface. Above the display sits the earpiece, the front-facing camera, and all the sensors. The earpiece is also the loudspeaker on the phone.</paragraph>
+			<paragraph>Below the display is the new fingerprint sensor. It's amusing that it took Motorola five years to bring back the fingerprint sensor to its phones, after being the first Android manufacturer to have it back in 2011 on the Motorola ATRIX.</paragraph>
+			<paragraph>The fingerprint sensor on the phone works very reliably and is also one of the fastest we have seen. Unfortunately, the small size makes it a harder target to hit at times, especially as you are just pulling the phone out of your pocket, and that leads to some misreads. Also, we missed having an app lock feature, something some of the other brands offer out of the box (yet there are other majors that don't).</paragraph>
+			<paragraph>Flanking the fingerprint sensor on the left-hand side there is a microphone, which is used for calls. Hidden on the right-hand side is a small white LED, which surprisingly, is not used as a status light and only lights up briefly while the phone is booting up.</paragraph>
+			<paragraph>The frame of the phone is made out of metal. On the right are the power and volume buttons. The power button is placed above the volume buttons, which is not as comfortable as having it below as it is used far more often, but it has been finished with a ridged texture to make it easy to identify. There is nothing in particular on the left side of the phone.</paragraph>
+			<paragraph>On the top is the headphone jack, while on the bottom is the microUSB port. The phone lacks NFC support.</paragraph>
+			<paragraph>The back side has the slightly raised camera module, secondary microphone, and the Motorola logo. The back cover has a matte, fabric-like texture and is a bit of a smudge magnet on the black colored version.</paragraph>
+			<paragraph>The back cover can be removed, and underneath are the two micro SIM card slots and the microSD card slot. Motorola provides adapters for you to use your nano SIMs with the phone. The battery, however, is non-removable.</paragraph>
+			<paragraph>The overall build quality of the phone is impressive, despite the large removable panel on the back. Unfortunately, the new model is not waterproof like last year's. However, the phone does have a water-repellent coating, so it can survive a quick rain or spill but not a dip in the pool. That's a bit of a bummer but it's still more than what most phones in this price range offer.</paragraph>
+			<paragraph>The size is a concern, however. While some people won't have a problem, those who want a more compact phone, especially those upgrading from previous versions of Moto G will have to look elsewhere. Although not particularly huge, the new Moto G is no longer the compact device it once used to be.</paragraph>
+			<paragraph>Lenovo does have the Moto G4 Play as a more compact alternative - the lowest-tier device of the G4 trio, however, this model will not be available on all markets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Moto G4 Plus has a 5.5-inch IPS LCD. The display has two color modes; by default it is set to 'Vibrant' mode that saturates color, although you could also set it to 'Normal' mode. The colors in the 'Normal' mode look good enough and close to accurate to our eyes. The color temperature of the display is also quite close to the accurate white point, and not overly blue or yellow.</paragraph>
+			<paragraph>The display in general looks very good, with good contrast, brightness, and viewing angles. It's legible enough under bright sunlight but we wish the lowest brightness was even lower, as even at the lowest setting the display can be a bit too bright when looking at it at night in a completely dark room.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The Moto G4 Plus runs on the very latest version of Android, Android 6.0.1 Marshmallow. As is usual for Motorola, and something we are pleased to see hasn't changed under the leadership of Lenovo, the OS is very close to stock Android, save for a few apps.</paragraph>
+			<paragraph>You get the usual Motorola gestures to quickly launch the camera and the flashlight.</paragraph>
+			<paragraph>The Moto Display features shows glanceable notifications, which makes up for the lack of Ambient Display mode but we would have still liked to have seen a proper notification LED, especially since the phone has one but Motorola won't let you access it.</paragraph>
+			<paragraph>There is also a new camera app (more on this later), a file manager app, and an FM radio.</paragraph>
+			<paragraph>For everything else Motorola relies on Google's pre-installed apps, which themselves are quite few in number this time around. And lastly, there is a clear-all apps buttons in the overview screen, something you won't find on stock Android Marshmallow.</paragraph>
+			<paragraph>Overall, we are impressed at how clean Motorola has managed to keep things, and all the additions are welcome and only add to the experience.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Moto G4 Plus runs on the Qualcomm Snapdragon 617 chipset. Except for an updated modem, the chipset is pretty much identical to the Snapdragon 615 in the Moto G Turbo Edition. This means there are eight Cortex-A53 cores, four of which are clocked at 1.5GHz and the remaining four at 1.1GHz. The Adreno 405 GPU is clocked at 550MHz. The phone comes in two configurations, 16GB variant that has 2GB of RAM, and a 32GB variant that has 3GB of RAM. Mind you, in some parts of Europe there's a 64GB/4GB RAM version of the phone, too.</paragraph>
+			<paragraph>Considering the chipset inside, we were quite tepid in our approach to the device. Fortunately for us, the phone didn't disappoint, however, we weren't exactly impressed either.</paragraph>
+			<paragraph>The performance can best be described as adequate but that's perfectly fine in this price range. The phone goes through most tasks at a decent pace, sometimes hesitating, such as when opening or switching between apps. Scrolling in general was smooth, with the odd hitch here and there. Most of the games ran fine as well, although some could only be run at lower graphical settings, and increasing them caused framing issues.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>As you can tell, the performance is just about there. The truth is, the Snapdragon 617 is just not all that powerful, the number of cores notwithstanding.</paragraph>
+			<paragraph>It is possible that Motorola will improve the performance in future updates, but as it stands now the phone just about manages to get along. It's quite good for everyday use, but it won't win any performance benchmarks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Multimedia<subsectionTitle>
+			<paragraph>The multimedia performance of the Moto G4 Plus is quite decent. The display size might be an issue if you want a more compact device in terms of portability, but there's no arguing that it makes for an improved video watching experience.</paragraph>
+			<paragraph>Unfortunately, there is no built-in AC3 or DTS audio codec support, so you will have to rely on a third party software from the Play Store to play your video files. The music player is also Google's Play Music app but Motorola does have its own equalizer for you to fine tune the sound a bit.</paragraph>
+			<paragraph>The sound through the headphones is good and can get quite loud, even with larger headphones. The loudspeaker on the other hand isn't particularly impressive, and we miss the stereo speakers from the second generation model, but at least it's positioned to point towards you and not at the side or the bottom.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Moto G4 Plus has a 16 megapixel OmniVision sensor on the back with f2.0 aperture, phase detection and laser assisted autofocus, and two-tone LED flash.</paragraph>
+			<paragraph>Overall, we liked the images that came out of the camera. The level of detail is quite good. There is some oversharpening to compensate for the detail lost to noise reduction but it's not enough to be distracting. The camera also gets the colors and white balance quite right outdoors in daylight, although indoors there is a need to adjust the white balance manually at times. The images also lacked prominent purple fringing and had good edge to edge sharpness, indicating a good optical system.</paragraph>
+			<paragraph>The focusing system, however, was a bit hit or miss. Despite a hybrid focusing mechanism, it's surprising how often the phone misses the focus. Often enough the phone will tell you the subject is in focus, only to find out later that it missed narrowly but enough to blur the image upon closer inspection. Again, this could be fixed in an update but as it stands right now, it's not very impressive.</paragraph>
+			<paragraph>We noticed the camera struggling with dynamic range in its default mode but the capable HDR mode does a good job of controlling the highlights and boosting the shadows without making the images look unnatural.</paragraph>
+			<paragraph>Moving on to the video, the phone records 1080p at 30fps. The video quality is good, if not exceptional. The aforementioned blown highlights can be an issue under bright light and there is no HDR mode to rescue it here.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The phone lacks optical image stabilization but can do it electronically, and quite well at that, at the cost of some field of view.</paragraph>
+			<paragraph>The camera software is brand new and a step up from basic Google Camera app we had on previous Motorola phones. The UI is easy to figure out and easy to navigate. There is a professional mode, which adds options like manual focus, white balance, shutter speed (1/3200 - 1/5 seconds), ISO (100 - 3200), and exposure compensation. A RAW mode would have been nice, considering the sensor ain't half bad, but what's available here is pretty good too.</paragraph>
+			<paragraph>The new camera app does not have its own image viewer though for some reason, ? la the OnePlus 2. You will be sent to an image viewer, such as the Google Photos app, to view the image after you capture it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery Life<subsectionTitle>
+			<paragraph>The Moto G4 Plus has a 3000mAh battery. Not particularly sizable by any means, but that's alright as the battery life is still respectable. On an average, the phone gives 4-5 hours of screen-on time, which is pretty good and should be enough to get you through the day.</paragraph>
+			<paragraph>When you do have to charge the phone, the phone supports Qualcomm Quick Charge 2.0, or as Motorola calls it, TurboPower. With the provided 25W charger, the phone can charge completely in just over an hour and a half.</paragraph>
+			<paragraph>One thing to note is that the cable is attached permanently to the charger, and Motorola does not provide a separate USB data cable in the box.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>The original Moto G disrupted the budget Android phone market and Motorola deserves credit for that. But since then a lot has happened and many new overeager disrupters have joined the game. At the same time, the Moto G models have steadily moved up the price range and this latest generation is the most expensive one yet, stretching the meaning of the term 'affordable' to new heights.</paragraph>
+			<paragraph>The G4 Plus certainly has some good things going for it. The display is nice and we appreciate the clean UI (Motorola states on its website that the phone will get updated to Android N and O), and the battery is not bad, either. Back in the day, the only downside of the original Moto G was its lackluster camera, while today, the camera will perhaps be its biggest selling point.</paragraph>
+			<paragraph>So yes, the new Moto G4 Plus is a phone that's easy to like. Price-conscious users, however, may probably find better deals from up-and-coming smartphone manufacturers like Xiaomi who sell their phones at close to break-even price points. These companies, however, don't have worldwide presence, let alone worldwide support and carrier partnerships, so Lenovo's distribution network and marketing prowess might just be what Moto needed to stand apart and succeed as a more premium lineup of phones.</paragraph>
+		</subsection>
+	</page>
+</review>

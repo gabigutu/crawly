@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Tout pour la France</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Tout_pour_la_France/22516819</link>
+	<generalScore>3.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

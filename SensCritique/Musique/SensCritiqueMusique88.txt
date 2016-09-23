@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Volume 2 : Les Amoureux des bancs publics</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1965</year>
+	<link>http://www.senscritique.com/album/Volume_2_Les_Amoureux_des_bancs_publics/6011260</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>31</numberOfVoters>
+		<numberOfVoters>120</numberOfVoters>
+		<numberOfVoters>80</numberOfVoters>
+		<numberOfVoters>37</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

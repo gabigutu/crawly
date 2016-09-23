@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>La Mine de l'Allemand perdu - Blueberry, tome 11</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1972</year>
+	<link>http://www.senscritique.com/bd/La_Mine_de_l_Allemand_perdu_Blueberry_tome_11/484213</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>37</numberOfVoters>
+		<numberOfVoters>132</numberOfVoters>
+		<numberOfVoters>288</numberOfVoters>
+		<numberOfVoters>208</numberOfVoters>
+		<numberOfVoters>93</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Paire incontournable</title>
+		<author>Muffinman</author>
+		<date>2016-03-25</date>
+		<score>0.8</score>
+		<content>Il arrive bien souvent qu'on lise à droite et à gauche que tel album est le chef-d'œuvre de la collection pour être ensuite déçu lorsqu'on le découvre enfin. Et bien cette fois-ci, ce n'est pas le cas. Le diptyque La Mine de l'Allemand perdu/Le Spectre aux balles d'or est impressionnant et ne vole absolument pas sa réputation. J'ai toutefois une certaine préférence pour le second tome, mais c'est anecdotique. Le scénario de Charlier est en béton armé (il laisse d'ailleurs de côté les ruses de Sioux de Blueberry ou les interjections très marquées et datées, ce qui fluidifie le récit et le rend beaucoup plus réaliste) et le dessin de Giraud rehaussé par la colorisation d'Evelyne Tranlé (sœur de Jean-Claude Mézières, qui colorise également tous les albums de VALERIAN - autre série phare de Pilote à la même époque), a atteint son style classique. Je n'étais pas franchement un grand amateur de western en BD, mais je dois bien avouer que les 12 premiers albums de BLUEBERRY (ainsi que les trois premiers de LA JEUNESSE DE BLUEBERRY) m'ont réconcilié avec le genre.</content>
+	</review>
+	<review>
+		<title>La Mine de l'Allemand perdu - Blueberry, tome 11</title>
+		<author>RiahLondes</author>
+		<date>2014-07-05</date>
+		<score>0.7</score>
+		<content>Je ne suis pas du tout fan des BD franco-belges "classiques" et encore moins des Far West. Mais j'ai tout de même testé Blueberry par curiosité. J'ai été agréablement surpris. L'histoire est chouette et on a envie de lire la suite. Les personnages ont du caractère et les répliques assez géniales parsemées de mots en anglais. Ça rajoute un certain cachet ! Sinon on ne peut que s'incliner devant le dessin de Moebius, très chargé et détaillé, mais qui en jette ! Bref, une BD de caractère qui vaut sa réputation. Je ne mets que 7 car le Far West n'est vraiment pas ma tasse de thé.</content>
+	</review>
+	<review>
+		<title>La Mine de l'Allemand perdu - Blueberry, tome 11</title>
+		<author>Bertrand Mouden</author>
+		<date>2013-05-19</date>
+		<score>0.9</score>
+		<content>Excellent, et puis une histoire de Blueberry en 2 tomes seulement c'est appréciable. Prosit est vraiment un pourri de premier ordre. Couleurs et graphisme "brouillon" donne une ambiance de circonstance</content>
+	</review>
+	<review>
+		<title>Classique des classiques</title>
+		<author>Eric Pokespagne</author>
+		<date>2014-10-29</date>
+		<score>0.8</score>
+		<content>Voici le "classique des classiques" de la série Blueberry, et sans doute le meilleur de tous les albums. A noter qu'on voit le dessin de Giraud changer au cours de l'album, pour devenir celui que l'on connaît de nos jours : même si on a toujours un peu trop une impression de confusion dans l'image, ce sentiment correspond bien á l'ambiance que Charlier veut créer... [Ecrit en 2004]</content>
+	</review>
+	<review>
+		<title>Les monts de la superstitions</title>
+		<author>woodys-hat</author>
+		<date>2016-05-06</date>
+		<score>0.9</score>
+		<content>Cette histoire est formée par un diptyque (la mine de l'allemand perdu + le spectre aux balles d'or ). C'est une des meilleures aventures de Blueberry. Le dessin de Giraud y est magnifique de justesse et de détail, et le scénario tout à fait prenant. Je crois que c'est de ce tome qu'à été (librement) inspiré le scénario du film de Jan Kounen avec Vincent Cassel.</content>
+	</review>
+</sensCritiqueEntity>

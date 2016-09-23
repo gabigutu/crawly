@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Node</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Node/16011536</link>
+	<generalScore>7.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Le messie me déçoit</title>
+		<author>MathieuCan</author>
+		<date>2015-07-29</date>
+		<score>0.6</score>
+		<content>Attendu par tous les fans de Djent comme le messie, ce Node ne m'a pas transcendé. Certes, le compte y est tant de la puissance du riff au scream, des passages sibyllins à la gratte accompagnés de doubles voire triples voix en chants clair, la recette idéale du post-metal-harcore-Djent ... Mais voilà, je ne sais ce qui ne m'a pas plu mais je me suis vraiment ennuyé à certains moment. Je ne crois pas être gavé du Djent car le dernier Periphery nous a montré que l'on pouvait être créatif dans ce domaine, mais je trouve que cet album n'est qu'un livre de recette de grand-mère, les mets sont bons mais on en a déjà mangé tellement... Bref, du bien mais pas top, dommage</content>
+	</review>
+</sensCritiqueEntity>

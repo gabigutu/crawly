@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>The Tell-Tale Heart</nameEn>
+	<nameFr>Le Coeur révélateur</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1843</year>
+	<link>http://www.senscritique.com/livre/Le_Coeur_revelateur/8467181</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>77</numberOfVoters>
+		<numberOfVoters>67</numberOfVoters>
+		<numberOfVoters>26</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

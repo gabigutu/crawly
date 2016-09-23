@@ -1,0 +1,70 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le mystère du monde quantique</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Le_mystere_du_monde_quantique/19542002</link>
+	<generalScore>7.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>11</numberOfVoters>
+		<numberOfVoters>42</numberOfVoters>
+		<numberOfVoters>33</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Histoire et compréhension de la physique quantique</title>
+		<author>Julien_Grausseau</author>
+		<date>2016-05-07</date>
+		<score>1.0</score>
+		<content>Cette BD nous résume en une centaine de pages l'histoire de la physique quantique et permet de comprendre les idées principales qui ont conduites à son évolution jusqu'à il y a relativement peu. Je dois dire que malgré des études scientifiques je n'avais vu la physique quantique que par bribes. Ce livre en complément permet de comprendre de nombreuses notions, qui même expliquées par des professeurs m'étaient apparues jusqu'ici comme inaccessibles au commun des mortels. Cette BD permet de vulgariser ce domaine réservé jusqu'ici aux initiés. Les illustrations sont elles bien réalisées et choisies ! Le texte est très sobre et compréhensible ! Je pense néanmoins qu'il faut un certain bagage pour comprendre ce livre notamment la fin. Mais je vois très bien cette BD en complément d'un cours d'introduction à la physique quantique. Il est rare de trouver des ouvrages de vulgarisation aussi simples et aussi bien réalisés ! Une très bonne BD pour des "débutants avertis" en physique quantique souhaitant améliorer leur compréhension du sujet !</content>
+	</review>
+	<review>
+		<title>Le champ quantique des possibles</title>
+		<author>Vash</author>
+		<date>2016-04-05</date>
+		<score>0.8</score>
+		<content>Avec Le mystère du monde quantique, Burniat et Thibault Damour utilisent la BD franco-belge pour vulgariser en images le domaine infiniment complexe qu'est celui de la physique quantique. Autant le dire tout de suite, il n'est pas évident de se plonger pleinement dans la BD, tant les notions abordées sont complexes, même si très intelligemment présentées et répétées. Il me semble que des connaissances de bases sur la physique classique sont déjà nécessaires pour aborder la BD sereinement, en plus d'un bon canap et d'un bon thé :p. Mais le sujet n'est malgré tout pas fermé aux néophytes, loin de là, car encore une fois le dessin et le texte sont bien pensés et bien agencés. Et j'ai envie de dire que même si l'on ne comprendrait pas tout, le lecture vaut le coup simplement pour le récit. Le héros Bob ne connaît absolument rien à la physique quantique (en tout cas au départ), et accompagne tranquillement le lecteur au fil des discussions avec les plus grands physiciens, et apporte beaucoup de fraîcheur et d'humour (dont pas mal d'humour noir vers la fin). Bref, une bonne surprise, pas toujours facile à aborder, mais diablement originale au milieu de toutes les productions actuelles, idéale pour ceux que les univers quantiques ne rebutent pas.</content>
+	</review>
+	<review>
+		<title>Come on Baby light my fire !</title>
+		<author>nicoyala</author>
+		<date>2016-03-29</date>
+		<score>0.8</score>
+		<content>Cette BD est une initiative géniale et a en plus une réalisation impeccable ! Alors que le scénario n'est évidemment pas l'objectif d'une BD de ce genre on se laisse entrainer dans les déambulations du personnage principal avec plaisir. Les auteurs abordent les questions théoriques dans l'ordre, une info à la fois, pour qu'on puisse s'y retrouver facilement. Le média BD est très bien utilisé et on évite l’écueil des ouvrages de vulgarisations ou les personnages ne sont là que pour ouvrir des énormes bulles de texte. Ici l'image apporte à la compréhension. Après si cette BD peut sans doute avoir un impact sur les lecteurs qui ne connaissent rien du sujet, il m'a semblé qu'avoir un petit bagage était toutefois utile pour suivre... Je ne peux toutefois que la recommander à tous ceux que les questions physico-philosophiques excitent (enfants ou adultes), tant l'approche des mystères de la physique quantique mérite de s'y perdre à plusieurs reprises !</content>
+	</review>
+	<review>
+		<title>Bien</title>
+		<author>Comics Records</author>
+		<date>2016-03-10</date>
+		<score>0.7</score>
+		<content>Je sens bien que c'est intéressant, bien vulgarisé, presque facile d'accès... mais les chiffres et théories n'ont jamais été, pour moi, que des alignements abscons. Donc bonne bd mais pas faite pour moi</content>
+	</review>
+	<review>
+		<title>À mettre entre toutes les mains</title>
+		<author>Bornerdogge</author>
+		<date>2016-07-22</date>
+		<score>0.7</score>
+		<content>Une très bonne introduction à la MQ pour les non-initiés! Pas de blabla, pas de bullshit, l'histoire de la théorie et des idées qui y ont conduit est racontée par ses pères fondateurs de manière claire et concise. Les dessins sont approximatifs et l'aventure du personnage un peu boiteuse, mais il ne s'agit finalement que de poser un cadre pour présenter des idées complexes. On appréciera le crédit fait à Einstein et de Broglie et la présentation peu flatteuse de Bohr et de son "interprétation". Seul regret, la conclusion: présenter l'interprétation d'Everett comme la seule façon de comprendre de manière cohérente la MQ est un parti-pris pour le moins arbitraire... Vu les mentions préalables de l'onde pilote de de Broglie, mentionner l'interprétation de Bohm aurait eu plus de sens. Un manque également: pas de mention des questions soulevées par l'intrication, et la non-localité de la théorie. Bref, à recommander, mais les personnes intéressées verront cette BD comme un premier pas permettant d'acquérir de manière agréable une vue d'ensemble claire du sujet et des personnages-clés, et ne manqueront pas de creuser par la suite via des livres plus complets!</content>
+	</review>
+	<review>
+		<title>Vulgarisation artistique</title>
+		<author>flolep</author>
+		<date>2016-03-22</date>
+		<score>0.9</score>
+		<content>La physique quantique étant un sujet complexe difficile à vulgariser, il aurait été facile de se casser les dents sur la réalisation d'un tel ouvrage. Or, cette bande dessinée est une réussite. Les explications sont parfaitement mises en scène et les personnages prennent soin de répéter plusieurs fois ce qu'on a vu auparavant, ce qui permet au lecteur de mieux digérer les notions entrevues dans les pages précédentes. De plus, le style graphique est magnifique. Les dessins détaillés et agréables à l’œil étant en noir et blanc, l'idée d'utiliser les couleurs pour appuyer certains schémas ou éléments importants facilite grandement la compréhension des explications, en plus de sublimer les cases. L'histoire (faisant penser au nouveau monde de m. Tompkins) se suit agréablement grâce, notamment, au maintien d'un certain rythme (beaucoup de déplacements et d'effets psychédéliques) et d'un humour savamment dosé. En refermant ce livre, on sent vraiment qu'on a fait un pas en avant dans la compréhension d'un sujet incompréhensible.</content>
+	</review>
+	<review>
+		<title>Quand tic et tac font de l'exercice physique</title>
+		<author>Thosewithloadedguns</author>
+		<date>2016-06-14</date>
+		<score>0.9</score>
+		<content>Dur dur d'intégrer le monde énigmatique de la physique quantique, qui souvent reste brumeux malgré les années d'études et les migraines offertes en sacrifice à Planck le prophète. Il faut savoir que la logique quantique est bien loin de la logique classique (en illustre la métaphore du chat de Schrödinger), appelant les scientifiques à en dégager une direction tenant souvent de l'interprétation personnelle. Ainsi le bébé évolue depuis le début du XXe : né dans les bras de Planck le précurseur, passant ensuite par ceux de Bohr, d'Heisenberg et d'Einstein pour ne citer qu'eux. Autant de circonvolutions que retrace, et de manière accessible (bases scientifiques et curiosité recommandées), l'ouvrage de Thibault Damour et Mathieu Burniat. Par ailleurs le graphisme est très soigné et illustre parfaitement le propos, des airs d'Asterios Polyp dans la gestion de l'espace et la couleur. Voilà j'espère que cette vidéo vous a plu, n'hésitez pas à vous abo...nan jdéconne.</content>
+	</review>
+</sensCritiqueEntity>

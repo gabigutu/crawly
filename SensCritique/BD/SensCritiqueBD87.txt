@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>I am a Hero, volume 17</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/I_am_a_Hero_volume_17/21423506</link>
+	<generalScore>8.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

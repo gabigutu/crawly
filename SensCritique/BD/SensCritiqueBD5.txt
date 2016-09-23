@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>The Universal Solvent</nameEn>
+	<nameFr>Le « Dissoutou »</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1995</year>
+	<link>http://www.senscritique.com/bd/Le_Dissoutou/451734</link>
+	<generalScore>8.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>31</numberOfVoters>
+		<numberOfVoters>86</numberOfVoters>
+		<numberOfVoters>103</numberOfVoters>
+		<numberOfVoters>27</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Une course contre la montre ...</title>
+		<author>Gzaltan</author>
+		<date>2011-07-26</date>
+		<score>0.8</score>
+		<content>Geo Trouvetou crée le Dissoutou, le dissolvant universel, capable de dissoudre n'importe quoi mis à part le diamant. Ne comprenant pas le danger d'une telle invention, Picsou l'utilise pour construire un puits minier. La suite est simple, le canard et ses neveux doivent s'aventurer dans les tréfonds de la planête avant que le liquide n'atteigne le centre de la Terre et ne le dissolve. Une aventure incroyable, remplie de rebondissements. Une qualité graphique et scénaristique, Don Rosa nous captive une nouvelle fois avec un Picsou victime de sa propre avarice, un Geo Trouvetou, auteur de l'une de ses inventions les plus mortelles, et des neveux toujours là pour soutenir tout ce petit monde. Un "voyage au centre de la Terre" dont les codes sont revisités aboutissant à une histoire de canards efficace.</content>
+	</review>
+	<review>
+		<title>Le « Dissoutou »</title>
+		<author>Lonewolf</author>
+		<date>2011-11-10</date>
+		<score>0.8</score>
+		<content>Géo invente donc une matière capable de dissoudre absolument n'importe quoi, sauf le diamant, pour le compte de Balthazar Picsou. Et voilà comment on en arrive à une nouvelle version de Voyage au Centre de la Terre, avec tout le talent de Don Rosa derrière. On enchaîne l'action sans temps morts, Donald amène l'humour, les références sont là (un petit passage chez les Cracbadaboums, ça fait plaisir :D), et on termine dans un final sous tension limite apocalyptique, pour un épilogue ironique et prise de conscience. Du grand, du très grand Don Rosa, qui réutilisera le Dissoutou pour nous offrir un de ses plus savoureux méchants sur 2 aventures : Lucien Arpène, le Chevalier Noir.</content>
+	</review>
+</sensCritiqueEntity>

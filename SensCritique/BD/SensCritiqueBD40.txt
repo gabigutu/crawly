@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Coquelicots d'Irak</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Coquelicots_d_Irak/22113114</link>
+	<generalScore>6.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>19</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

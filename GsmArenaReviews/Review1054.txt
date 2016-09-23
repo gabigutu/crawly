@@ -1,0 +1,346 @@
+<review>
+	<title>Nokia Lumia 510 review</title>
+	<description>Down a gear</description>
+	<link>http://www.gsmarena.com/nokia_lumia_510-review-874.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>Quad-band 3G with 7.2 Mbps HSDPA and 5.76 Mbps HSUPA support</paragraph>
+			<paragraph>4.0" 65K-color TFT capacitive touchscreen of WVGA resolution</paragraph>
+			<paragraph>5 megapixel autofocus camera, VGA video recording</paragraph>
+			<paragraph>Windows Phone 7.8 OS</paragraph>
+			<paragraph>Resizable tiles and some other WP8 features made available to the older OS version</paragraph>
+			<paragraph>800 MHz ARM Cortex-A5 CPU, Adreno 200 GPU, Qualcomm MSM7227A chipset, 256MB of RAM</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n</paragraph>
+			<paragraph>GPS receiver with A-GPS support and free lifetime voice-guided navigation</paragraph>
+			<paragraph>Digital compass</paragraph>
+			<paragraph>4GB of on-board storage, 7GB on SkyDrive</paragraph>
+			<paragraph>Built-in accelerometer and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>FM Radio with RDS</paragraph>
+			<paragraph>microUSB port</paragraph>
+			<paragraph>Bluetooth v2.1 with A2DP and EDR (with Bluetooth file transfers)</paragraph>
+			<paragraph>Deep and coherent SNS integration throughout the interface</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>LCD display of questionable quality</paragraph>
+			<paragraph>Some apps incompatible due to low RAM (Can't run Skype, no HD video)</paragraph>
+			<paragraph>No USB mass storage (Zune only file management and sync)</paragraph>
+			<paragraph>No video calls and no front-facing camera either</paragraph>
+			<paragraph>No memory card slot</paragraph>
+			<paragraph>No native DivX/XviD support, videos have to be Zune-transcoded</paragraph>
+			<paragraph>Disappointing audio quality</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>With things starting to look up financially and amid rumors of a successor to the Lumia flagship, the Finns shift down to speed up as they try to get one last lap out of the old Windows Phone generation. The Nokia Lumia 510 is old hardware running new old software, aiming to rally new users to the Windows Phone cause.</paragraph>
+			<paragraph>Although Nokia hasn't given up on making the latest Windows Phone 8 available to the masses, nothing can negotiate a lower price than the modestly powerful previous-generation hardware of the Lumia 510. Yes, this is the cheapest Microsoft-powered smartphone by Nokia but also the first to release straight on Windows Phone 7.8 on most markets.</paragraph>
+			<paragraph>Without pretending to completely bridge the gap to the seriously more advanced WP8, Windows Phone 7.8 offers some of the perks - mostly visual - of the latest OS version. There was even a half promise that it won't be the last update of the platform. This could be all the future-proofing a device like the Nokia 510 needs. It's an entry-level package that's supposed to break new ground for Microsoft and Nokia on markets where accelerated smartphone growth is just about starting.</paragraph>
+			<paragraph>The Nokia Lumia 510 is basically the same package as the Lumia 610. The 510 has a bigger, 4" screen, which Nokia obviously considered important to the target audience. Given that most users are likely to be upgrading from Asha and the likes, we're willing to agree.</paragraph>
+			<paragraph>However, to stay within budget, the Lumia 510 had to take cuts elsewhere. The inbuilt storage was halved - it's now a non-expandable 4GB. The camera has lost its LED flash too, but the limited storage is probably more troubling.</paragraph>
+			<paragraph>Other than that, the hardware is lifted right from the Lumia 610. The two handsets are powered by the same Snapdragon chipset, with Adreno 200 GPU and the CPU clocked at 800MHz. Having tried the 610, we can confirm that the speed is reasonable - WP7 isn't too much of a resource hog so it fares surprisingly well on the four-year old hardware. Yet, Nokia's attempts to make Skype usable on that configuration proved futile.</paragraph>
+			<paragraph>That aside, the Lumia 510 offers a more than decent smartphone experience with a full-featured office package, a free life-time SatNav license with maps available offline and an improved web browser. Best thing of all, it that doesn't cost a fortune. Interested? Read on.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Nokia Lumia 510<subsectionTitle>
+			<paragraph>The Lumia 510 retail package covers the basics - it comes with a wired charger, a USB cable and a rather cheap looking single-piece headset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 510 360-degree spin<subsectionTitle>
+			<paragraph>The Lumia 510 is about the same size as both of its midrange siblings, the Lumia 710 and 610, yet flaunts a bigger, 4" screen. We're glad to notice that there's clearly less bezel and the handset is a tad slimmer too. At 120.7 x 64.9 x 11.5 mm the Lumia 510 is by no means extraordinary compact but quite reasonable for a four-incher. It feels good in the hand and the weight of 129 grams is reassuring without being a burden.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design, build quality and handling<subsectionTitle>
+			<paragraph>The entry-level Lumia 510 is clearly based on the Lumia 610 though it has nicely evolved (may as well be a reversal to some) into a more traditional rounded shape. Gone is the predecessor's subtle chin in favor of a clearly less "designed" exterior, which makes sense in a handset targeting smartphone newbies.</paragraph>
+			<paragraph>Anyway, the Nokia Lumia 510 is nothing unseen - resemblances to older Symbian-smartphone designs are easily spotted. The phone is made entirely of plastic and clearly sets out to appeal to a wider demographic with its simple styling, in contrast to the WP8-powered counterpart, Lumia 620.</paragraph>
+			<paragraph>Offering a 4" screen, the phone will fit comfortably in most hands thanks to the nicely-rounded back. The soft rubbery finish at the rear provides good grip too. It tends to easily get smudged though, and the glossy front is quite fingerprint-prone too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Most of the Lumia 510's front is occupied by the 4" WVGA screen. Above we find the centrally-placed earpiece and hidden sensors for proximity and auto brightness. There is no secondary camera on the Lumia 510.</paragraph>
+			<paragraph>Below the screen is the familiar set of capacitive controls - Back, Home and Search.</paragraph>
+			<paragraph>The left side of the Lumia 510 has nothing but a small gap to help lift the battery cover. The right one though is pretty crowded, accommodating the volume rocker, power/lock button and the two-step shutter key.</paragraph>
+			<paragraph>The 3.5mm audio jack is alone at the top of the Lumia 510. At the bottom we find the microUSB port for data connections and charging.</paragraph>
+			<paragraph>The soft rubbery back of the Lumia 510 features the 5MP camera lens placed centrally near the top and the loudspeaker grille across at bottom.</paragraph>
+			<paragraph>The SIM compartment is above the battery bed. A 1300 mAh unit is powering the Lumia 510 - the same as in the Lumia 610 and 710. The phone scored 44 hours in our battery test, which is one of the best scores in the WP camp. It seems that WP7.8 might have brought some optimizations that helped the Lumia 510 do much better than many of its peers.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Nokia Lumia 510 has a standard issue LCD screen of WVGA resolution. AMOLED is clearly out of the Lumia 610's league and even a Nokia ClearBlack display would've been way over budget. Overall, the difference from the ClearBlack screen of the WP8-powered Lumia 620 is easily spotted - and it's certainly not in favor of the Lumia 510. The 4.0" diagonal translates into a pixel density of 233ppi: WVGA is stretched quite thin on the 4" screen.</paragraph>
+			<paragraph>Contrast is quite poor and the Modern UI that we quite like doesn't look its best. The sunlight legibility is mediocre at best. The highly reflective display is nearly unusable outdoors on bright sunny days, so untypical of Nokia phones.</paragraph>
+			<paragraph>Here's how the Lumia 510 stacks up against the competition.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contrast ratio<subsectionTitle>
+			<paragraph>And here's the screen under a microscope to get a better idea of how the pixels are arranged, and how big they are.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows Phone 7.8<subsectionTitle>
+			<paragraph>The Nokia Lumia 510 runs the latest (and hopefully not last) edition of Windows Phone 7. The OS version is 7.8 and it brings some of the features available on the high-end Windows Phone 8. The improvements are mostly about the look and feel, but no one can reasonably expect massive performance gains in a single-core device with just 256MB of RAM.</paragraph>
+			<paragraph>Anyway, since there is no official change log on the Windows Phone 7.8, we've prepared one for you:</paragraph>
+			<paragraph>The modestly powerful hardware of the first-generation WP smartphones rules out some of the enhancements available to WP8 devices. The fact that the Lumia 510 is among the 256MB-packing devices causes some further limitations - you won't be able to get Skype running for example, among other memory-intensive apps.</paragraph>
+			<paragraph>Here is a quick video demonstration to get you started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Yet, you shouldn't fear lags and underperformance. This is a starter package but by no means a poor smartphone - a handset with a consciously simple and fluid interface. And the custom Nokia additions to the software package are most welcome. But let's take it one step at a time.</paragraph>
+			<paragraph>A push on the unlock button reveals the lock screen, which displays the current time and date and notifications about calendar events, emails and missed calls. A press on any of the volume keys will bring the volume switch and music controls on top of the screen.</paragraph>
+			<paragraph>One recent addition to the lockscreen is that you can now set the Bing picture of the day to be your lockscreen wallpaper. It will change automatically.</paragraph>
+			<paragraph>Swiping the lockscreen up reveals the Modern user interface. It's a vertical grid of Live tiles, which can be reordered the way you like. Almost anything can be placed in the grid by tapping and holding down over an app and selecting the Pin to start option.</paragraph>
+			<paragraph>Windows Phone 7.8 enables resizable live tiles. Upon a tap and hold on a tile, the resize option is available along with unpin. You can choose between quarter, normal and double size.</paragraph>
+			<paragraph>Depending on which size you select you get different info displayed in the Tile. If you go for the smallest, you get nothing but a static icon, while the two larger sizes offer more info.</paragraph>
+			<paragraph>The homescreen looks exactly the same, except that the new tile sizes let you fit a lot more apps in the same space. There is no wallpaper, you can just opt for a dark or light background. Whatever you choose it will be the base color for every system app on the phone. Luckily though, Microsoft decided to add new system colors. You can now choose the theme hue from among a total of 21 pre-loaded colors.</paragraph>
+			<paragraph>As we said, it's a clean and simple interface. Each of the Live tiles display relevant info such as the current date, pending calendar events, missed calls, unread emails and more (third party apps do it too). The Marketplace tile displays the number of updates available, while the Pictures tile is essentially a slideshow of your photos. It's nice to have all that info always available at-a-glance. You can look at them as homescreen widgets of sorts, but that's a bit oversimplifying.</paragraph>
+			<paragraph>The Lumia 510 goes about multitasking like every other WP7 smartphone. Apps not in the foreground are suspended, but the OS has ways to take over and carry out the task for them. It's not true multitasking, but that wouldn't matter in 99% of the use cases.</paragraph>
+			<paragraph>To switch between apps you press and hold the Back key. The app switcher itself consists of thumbnail snapshots of the apps, ordered chronologically left to right.</paragraph>
+			<paragraph>You can scroll the list horizontally to select an app and a tap will bring you back to exactly how you left it. Usually, the last 5 apps are here. You can't "kill" any of those apps, this is more of a history of the recently used apps.</paragraph>
+			<paragraph>Eventually, as you open more apps, the old ones start to drop off the list. Once an app is gone, you have to launch it again the old-fashioned way, which means you'll need to start over. However, the browser for example will still load the last visited page. Apps with active background tasks will keep on working.</paragraph>
+			<paragraph>Multitasking can be disabled from the settings to save battery life. There you'll also find a list of all installed apps that support multitasking.</paragraph>
+			<paragraph>Opening the settings menu displays two sets of options: like on the start screen, you can swipe between System and Applications. System covers all the settings you can think of like sounds, color theme, Wi-Fi, Bluetooth, Accounts, etc. The Application settings let you configure each app you have on the device.</paragraph>
+			<paragraph>Windows Phone 7.8 can be controlled through voice only - you can dictate, have the phone read out the reply, you can initiate searches and so on. We don't find the virtual assistant to be particularly great though - it's nowhere near the Google Voice or Apple's Siri levels of accuracy and helpfulness.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>People hub is impressively social<subsectionTitle>
+			<paragraph>The first tab of the People hub that shows you a list of all your contacts (phone contacts, social network friends, email pen friends - everything), with a search shortcut and an add contact button.</paragraph>
+			<paragraph>Contacts are ordered alphabetically, indexed with colored squares with a letter. You can tap any one of those letter boxes and the screen shows you the entire alphabet highlighting the letters actually in use. You can tap a letter to scroll to that part of the list.</paragraph>
+			<paragraph>Contacts can be sorted by either first name or last, and they can be displayed as "First Last" or "Last, First" (the two settings are separate), you can also filter contacts by choosing which services are used to make the list of your contacts (so you can hide Twitter contacts, for example).</paragraph>
+			<paragraph>Swiping to the side brings you to the What's new tab that shows new events from all contacts in social networks. Another swipe shows the recent contacts. Instead of favorites, you can pin a contact to the homescreen.</paragraph>
+			<paragraph>One of the new features of the hub is Groups, a handy way to organize your contacts, with "text everyone" and "email everyone" features. All the status updates from the grouped contacts are pulled in from their various social networks, and you get access to their online photo albums too.</paragraph>
+			<paragraph>Groups can also be pinned to the homescreen for easier access.</paragraph>
+			<paragraph>The Me card is your own profile. From here you can post status updates, set chat status, check into locations (there's more location goodness coming on later). You can also change your profile picture (only for Facebook and Live though, not Twitter).</paragraph>
+			<paragraph>Another tab in the Me card lets you view notifications (e.g. Twitter mentions) and, finally, What's new lets you view your own status updates.</paragraph>
+			<paragraph>Much of the functionality available when viewing the list of all contacts is there when viewing a single photo. Below the contact's photo and their latest SNS update, there are actions - "call mobile", "text mobile", "write on wall", "view website" and so on. Below each action, in smaller type and grey or blue letters, are the target for the action (e.g. phone number, email, site URL) and where that info came from (Google, Facebook, etc.).</paragraph>
+			<paragraph>The soft keys let you pin a contact, link two (or more) contacts from the various services and edit.</paragraph>
+			<paragraph>Swiping to the side brings out the What's new tab, which shows the latest updates and events just from that contact. Pictures is where the contact's Facebook albums are.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The History tab displays the complete history of exchange with a contact in one place, listed chronologically. Everything but status updates is listed here - calls, texts (actually threads from the Messaging hub) and emails.</paragraph>
+			<paragraph>When editing a contact, you can add multiple phone numbers and email addresses of different types (home, work, etc), a custom ringtone, a note or a variety of different fields (like birthday, website, office location and so on).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Clean and simple Phone app<subsectionTitle>
+			<paragraph>The phone application shows you the call history, with shortcuts to voice mail, dialer and phonebook. The phone live tile will show the number of missed calls as will the lock screen.</paragraph>
+			<paragraph>The dialer itself is as simple as it gets - a phone keypad with a Call and a Save button. The lack of smart dialing is an annoyance, but the People hub is good at finding contacts.</paragraph>
+			<paragraph>You could use voice dialing instead - the Lumia 510 did well in recognizing our commands, though it did have issues guessing the right one out of the two Dexter's in our contact list - "Dexter" and "Dexter Morgan".</paragraph>
+			<paragraph>An interesting option is the International assist - it comes in handy for dialing while abroad or calling someone outside the country.</paragraph>
+			<paragraph>Upon an incoming call, the contact's photo will appear full screen and for you to slide up and reveal the call buttons. This will prevent any accidentally answered or rejected calls.</paragraph>
+			<paragraph>A side note - status indicators are hidden by default (except the clock) but you can bring them up with a quick tap at the very top of the screen.</paragraph>
+			<paragraph>We did our traditional loudspeaker test and the Lumia 510 scored a Good mark. So missed call or notifications are unlikely.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>All-round messaging<subsectionTitle>
+			<paragraph>Messaging was heavily retooled for version 7.5 and this carries over to 7.8. Threads are the building blocks of all non-email messaging. Although a sort of conversation view, threads mash together SMS, Facebook and Windows Live messages.</paragraph>
+			<paragraph>That's the thing about Windows Phone: the Messaging hub removes the old division between texts, IMs, social messages. The other hubs do the same for the other functionality, making the whole thing simple yet powerful.</paragraph>
+			<paragraph>Anyway, Messaging is separated into two tabs - threads and online. Online shows you who's online with the people you've talked to most recently on top. This makes finding someone to talk to very easy.</paragraph>
+			<paragraph>Threads is where this hub's impressive features kick in. A new thread is created for each person you start a chat with. Messages are displayed as speech balloons and a label on the left shows the type of message - text, Facebook or Live Messenger. Labels are placed only when the conversation moves to a different platform so it's not cluttered.</paragraph>
+			<paragraph>You can choose which platform to use to send a reply and the text box will remind you what you're currently using with a message like "chat on Facebook". Individual messages can be copied (the whole message is copied to be pasted later, you can't copy only a part of the message), they can be deleted or forwarded. Whole threads can be deleted too.</paragraph>
+			<paragraph>You can't attach anything to Facebook messages, you'll need to use MMS for that.</paragraph>
+			<paragraph>The visual voicemail functionality is also part of the OS (but its availability is dependent on your plan and the carrier). It works as you would expect, by letting you read your voicemail messages instead of listening to them.</paragraph>
+			<paragraph>Windows Phone 7.8 offers a unified inbox for email. You can link multiple inboxes (and unlink them individually later), so that you have a single place to check for new messages.</paragraph>
+			<paragraph>Linking several inboxes will also automatically combine their live tiles. You can browse individual folders for each account, which lets you view messages from only one email account even if it's linked.</paragraph>
+			<paragraph>Conversation view works as expected - it lists emails between you and a contact chronologically, grouping them by subject. It's the display style that Gmail popularized and is the best way to keep track of a conversation over email.</paragraph>
+			<paragraph>Each email conversation is listed with a subject and number of messages, plus how many of those are new. A tap on a conversation expands it to show the messages plus a line from each message.</paragraph>
+			<paragraph>You can tap on an individual message to read it, as well as skip messages back and forward to navigate the conversation. You can't swipe between the messages though.</paragraph>
+			<paragraph>You can mark individual emails, make them as read/unread, set flag, clear flag and more. Finally, you can search your entire mail for individual emails - it's a very useful feature, especially for those with large inboxes.</paragraph>
+			<paragraph>Text input on Windows Phone is limited to the default QWERTY keyboard and offers portrait and landscape modes - that's it. The layout remains the same across all WP devices and the only options you have are changing the language of the keyboard and resetting the dictionary that displays word suggestions.</paragraph>
+			<paragraph>The WP QWERTY keyboard is very comfortable to use and offers sound feedback. There's no haptic vibration feedback and there's no way of enabling it.</paragraph>
+			<paragraph>Selecting text is very simple, but does require some getting used to. You hold your finger over some text for a second or two and then release. The text area gets highlighted and then you can move the beginning and end cursors to adjust how much text you want to select. A little icon pops up for copy and the selected text is available to paste anywhere in the OS.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The usual gallery<subsectionTitle>
+			<paragraph>The Pictures hub change nothing since the Mango update. You can set a single photo as a background for the hub (it used to be the last photo viewed) or you can set it to shuffle different photos.</paragraph>
+			<paragraph>And of course, the point of hubs is that they are the go-to place to do things, instead of apps. New functionality allows apps to integrate into the Pictures hub, so for example, a photo effects app can make its options available right in the hub. Devs need to enable that into apps however.</paragraph>
+			<paragraph>The main view of the Pictures hub offers four options - camera roll, albums, date and people. A swipe to the left reveals what's new, which displays your Facebook friends and liked pages' new picture galleries. Another swipe shows your favorites section, where the photos you've faved are displayed.</paragraph>
+			<paragraph>Albums feature the camera roll, the preloaded system pictures and all of your Facebook albums. A flick to the left shows all your pictures sorted by date. You can't assign individual camera roll photos into albums, though.</paragraph>
+			<paragraph>The people section is where you can select your friends or closed ones so that their galleries on Facebook get displayed right there in your Pictures hub. It's a nice feature for social network users but will be only an empty section for those that aren't too fond of Facebook.</paragraph>
+			<paragraph>The camera roll unifies your entire collection of photos and videos, taken with the device, in a grid of 4x5. You cannot change the view of the camera roll. Viewing a photo can be done in either portrait or landscape mode. Zooming in on a photo is done by either double tap or pinch to zoom. We appreciate that the camera roll doesn't downsize pictures and you can enjoy them in full resolution.</paragraph>
+			<paragraph>Windows Phone 7 used to be quite restricted when it came to sharing - it's still not perfect but you can now share pictures and videos too. Sharing options include messaging, email, Facebook, Twitter, the cloud-based SkyDrive or via Bluetooth Share. The long-awaited Bluetooth transfers are here and you can send multimedia content to another device easy and hassle-free.</paragraph>
+			<paragraph>While uploading photos to Facebook, the OS will detect any untagged faces and allow you to tag them before proceeding with the upload.</paragraph>
+			<paragraph>The camera roll has a dedicated auto-fix setting, which tries to improve your photo. It's a nice feature but one that produces unrealistic results at times.</paragraph>
+			<paragraph>The video player is integrated into the Pictures hub. It has a very simple interface - you have fast forward and rewind controls, a time scroll and a video size button that toggles full-screen viewing.</paragraph>
+			<paragraph>The video player doesn't recognize .AVI files - in other words, don't expect DivX or XviD support. However, the Zune software on your computer will automatically convert such files to .MP4 - so, you can watch those formats on the Lumia 510, it's just that the transfer to the device can take quite a while (depending on your computer's capabilities).</paragraph>
+			<paragraph>It's interesting (and useful) that you can pin individual items to the homescreen - like a song or video, even an FM radio frequency.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music + Videos is where the fun happens<subsectionTitle>
+			<paragraph>The media players reside together in the Music &amp; Videos hub, which bears the Zune logo. When you start it, it shows the History, which gives you quick access to the last two things played, or you can go to the full menu and start the music or video player, listen/watch podcasts (both audio and video podcasts are supported), start the FM radio or go to the Marketplace.</paragraph>
+			<paragraph>The music section is made up of albums, songs, playlists, genres and artists. Videos features all, television, music videos, films and personal - think of them like more of categories you can assign your videos to when synching with Zune. The third section is podcasts where you can store all of your downloaded audio and video podcasts.</paragraph>
+			<paragraph>The music has a simple and straightforward interface. You won't have any difficulties using it. However there are some things missing, like an equalizer. Another missing feature is the ability to scrub through a song with your finger - you have to press and hold on the FF/rewind buttons to simply jump back and forth.</paragraph>
+			<paragraph>You also get radio and marketplace links in the Music &amp; Videos tile. It doesn't offer the option to listen to online radio stations so you would need to insert the headgear to get reception.</paragraph>
+			<paragraph>You have the current frequency in very large digits - swiping left and right changes the frequency and a swipe and release automatically searches for the next available station in that direction. You can mark some stations as favorites, which will allow you to pin them to the homescreen. RDS is on board and you can switch between headphones and loudspeaker.</paragraph>
+			<paragraph>If you have the Zune Music Pass you can stream or even download almost any song that is in the Marketplace. It applies for all Microsoft devices - Windows RT, Windows 8, Windows Phone 7.8, Windows Phone 8 and Xbox 360.</paragraph>
+			<paragraph>The Lumia 510 comes with pre-installed TuneIn Radio app which allows you to stream countless of worldwide radio stations to your phone. It has an intuitive interface and can search for local stations by your current location.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Rather poor audio output<subsectionTitle>
+			<paragraph>Unfortunately the Nokia Lumia 510 didn't quite manage to ace our audio output test. The smartphone posted below average results in both tested scenarios and fell significantly short of the Lumia 610 performance.</paragraph>
+			<paragraph>The frequency response had its extreme bass frequencies cut off with both headphones and an active external equalizer, but was spot on for the rest of the range. The signal-to-noise and dynamic range readings were only average on both occasions, though.</paragraph>
+			<paragraph>The total harmonic distortion was good with no headphones attached, but worsened quite a lot when we plugged them in, while the intermodulation distortion was rather case in both cases. Stereo crosstalk started off as average, but dropped to below average with a pair of headphones, rounding up an uninspiring overall performance.</paragraph>
+			<paragraph>And here comes the table so you can see for yourself.</paragraph>
+			<paragraph> Nokia Lumia 510 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>5MP snapper produces excellent images<subsectionTitle>
+			<paragraph>The Nokia Lumia 510 has a 5MP camera, that can produce still photos with a maximum resolution of 2592x1944 pixels. There is no LED flash to assist its low-light performance, though, so it's only usable in decent lighting.</paragraph>
+			<paragraph>The camera UI is pretty simple - you have your viewfinder and some controls on the right. From top to bottom they are the still/video camera toggle, virtual zoom buttons and an extended settings menu. On the left you have an arrow that takes you to the gallery. Alternatively, you can do a swipe gesture too.</paragraph>
+			<paragraph>The camera app on Windows Phone offers very extensive settings, ranging from scenes and effects to white balance, contrast, saturation, sharpness, ISO and more. You have a dedicated Macro mode but no face detection.</paragraph>
+			<paragraph>The camera key will wake the phone with a single press - that is unlock it and start the camera. There's an option that prevents the shutter key from starting the camera if the proximity sensor is triggered (to prevent accidental launches when the phone is in your pocket). This option is off by default.</paragraph>
+			<paragraph>We like the shutter key on the Nokia Lumia 510. It's got good feedback and distinct half-press.</paragraph>
+			<paragraph>The quality of the shots produced with the Nokia Lumia 510 camera is excellent. There is plenty of resolved detail, accurate colors, low amount of noise, no artefacts, over sharpening or any kind of defects. Excellent job for a low-end device!</paragraph>
+			<paragraph>Here are the full-res images for you guys to check out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Nokia Lumia 510 steps up in our photo quality compare tool to face other 5MP shooters. It does really great job and puts to shame lots of 5MP snappers out there.</paragraph>
+			<paragraph>   The Nokia Lumia 510 in the Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>VGA video recording is disappointing<subsectionTitle>
+			<paragraph>The camcorder interface is identical to the still camera's and has plenty of features too. You can use scenes, set contrast, saturation and sharpness, change the white balance or exposure compensation and also apply image effects.</paragraph>
+			<paragraph>However, the Nokia Lumia 510 can only shoot VGA videos, which just doesn't cut it anymore. There are even cheaper devices out there that do 720p, so there's no excuse for this.</paragraph>
+			<paragraph>The fact continuous autofocus is available while recording might be some consolation, but it can't change the fact that the Lumia 510 should only be used for video capture in emergencies.</paragraph>
+			<paragraph>We've prepared an untouched VGA video sample from the Lumia 510's camera for direct download. The bitrate is a low 1600 Kbps, but that was to be expected given the resolution.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity finally includes Bluetooth file transfers<subsectionTitle>
+			<paragraph>The Nokia Lumia 510 has quad-band GSM/GPRS/EDGE support and quad-band 3G with HSPA.</paragraph>
+			<paragraph>The local connectivity is covered by Wi-Fi b/g/n with DLNA and stereo Bluetooth 2.1.</paragraph>
+			<paragraph>The Counters app, which premiered on Windows Phone 8.0 is available for 7.8 as well. There you can track your minutes and megabytes. You can set limits to avoid using anything out of your plan.</paragraph>
+			<paragraph>The Bluetooth file transfers are here as promised. The Bluetooth Share app is in charge of those. Unfortunately, since there is no wide-spread file manager in Windows Phone 7, nor is there USB mass storage support, you can send and receive a very limited variety of file types.</paragraph>
+			<paragraph>The supported formats are JPG, BMP, GIF, PNG and MP3. From those you can receive only JPG and MP3, while the BMP/GIF/PNG ones are automatically converted to JPG on arrival. You can only send JPG files from the gallery or the Bluetooth Share app and MP3 files you've already received or synced with your Zune software.</paragraph>
+			<paragraph>There is another disadvantage - if you receive an MP3 file without metadata, you will not be able to transfer it later on your computer via Zune. Bummer!</paragraph>
+			<paragraph>So, even though you can exchange files via Bluetooth, the restrictions are so much that will frustrate lots of people. You can't share or receive Office files. In fact you can receive any kind of files, including Office format, but the app will just tell you they are not supported and you will have no other choice but to delete them. According to the app logo, it's made by Nokia, so we aren't sure if it will be available on other phones (like the Omnia W), or the other manufacturers will have to developer apps of their own.</paragraph>
+			<paragraph>Syncing with a computer is done with the Zune computer application. It's the only way to transfer files directly between your computer and your Windows Phone - there's no Mass storage mode even after the 7.8 update.</paragraph>
+			<paragraph>You can sync files with Zune over the USB cable and Wi-Fi. There's a Mac version of it available too - Windows Phone 7 Connector.</paragraph>
+			<paragraph>Additional SD storage isn't available on Windows Phone so the Lumia 510 doesn't offer such an option.</paragraph>
+			<paragraph>Another syncing option is the cloud. SkyDrive is a free Microsoft service that gives you 7GB of cloud storage. You can even have your photos automatically uploaded as soon as you snap them.</paragraph>
+			<paragraph>There is Wi-Fi hotspot functionality. All you need is an active SIM card with a data connection and you're all set.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Internet Explorer web browser<subsectionTitle>
+			<paragraph>The Internet Explorer on Widows Phone 7.8 is pretty much the same as it was in Windows Phone 7.5.</paragraph>
+			<paragraph>The URL bar is always visible (but the status bar at the top of the screen is auto-hides, so you don't actually lose any screen real estate) and next to it is the refresh button. You can, of course, bring up the extended settings, which offer a great deal of options.</paragraph>
+			<paragraph>The URL bar also serves as a search bar, which is a handy shortcut for looking things up if you're not sure which site exactly will do the job. In fact this is the only part of the browser to have seen some change with the OS update, as you are now allowed to set Google as you default search provider.</paragraph>
+			<paragraph>The browser interface is quite minimalist - you have only the URL bar at the bottom with a reload icon to the left. Swiping the bar upward reveals shortcuts for tabs, recent, favorites, add to favorites, share page, pin to start and settings. The settings menu offers the usual options like location, allow cookies, delete browsing history but it does offer a very neat option to choose a global preference for mobile or desktop site versions.</paragraph>
+			<paragraph>The browser makes the controls in web pages look just like their equivalents in native apps. So, a web app can look just like a native app with practically no extra effort from the designer.</paragraph>
+			<paragraph>The six tab ceiling hasn't been lifted - it's not too bad, but competing OSes don't have such limitations. We were also hoping to see text reflow, but no luck on that either.</paragraph>
+			<paragraph>The Nokia Lumia 510 browser is certainly a capable performer, and uses hardware graphics acceleration to provide smoother graphics and animations. Still, for all the optimizations, it can't quite make up for the lack of raw processing power as confirmed by our benchmarks.</paragraph>
+			<paragraph>There is no Flash or Silverlight support on the Lumia 510.</paragraph>
+			<paragraph>Just as expected, browser benchmarks for the Lumia 510 turned out to be pretty poor. The phone got one of the worst results on the JavaScript test SunSpider (but identical to that of the Lumia 610). The FishTank test didn't go a whole lot better.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FishIE HTML5<subsectionTitle>
+			<paragraph>Higher fps is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Bing Search<subsectionTitle>
+			<paragraph>When you search on Bing, one of the things that might be offered as a relevant result is an app from the Marketplace. For example, searching for "travel" will offer a travel tool app. This feature is called App connect.</paragraph>
+			<paragraph>Bing also grew two new search modes - song recognition and barcode scanner. Those are features popular with apps, but with WP7.5 you get those natively as part of the OS.</paragraph>
+			<paragraph>The camera scanner can also snap a photo of text, perform OCR and translate it into another language.</paragraph>
+			<paragraph>Of course, Bing does regular web searches for pages or images and can look for interesting locations nearby.</paragraph>
+			<paragraph>You can now set the Bing picture of the day as lockscreen wallpaper and it will change automatically each day.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Marketplace<subsectionTitle>
+			<paragraph>The Windows Phone Marketplace is playing catch up with the Apple Appstore and the Android Market. As of January 2013, it hosts north of 130 thousand apps, but unfortunately not all of those are available for the Lumia 510 to download. For one, newer WP8 apps don't run on WP7.8 smartphones, while the 256MB RAM limits the choice even further.</paragraph>
+			<paragraph>It's organized into four main sections - applications, games, music and the Nokia apps store. A fifth section called Updates shows up when one of your installed apps has received an update - there's an Update all button, which will save you the hassle of updating each app individually.</paragraph>
+			<paragraph>Anyway, each app will be listed with a short description, a rating and user reviews, and a few screenshots. If the app can use something that can potentially breach your privacy (e.g. location information) the Marketplace will let you know.</paragraph>
+			<paragraph>It's not as comprehensive as the Android Market (which lists just about everything the app can use) but on the upside it only warns you about the important things.</paragraph>
+			<paragraph>Big downloads (anything north of 40MB) need a Wi-Fi connection to work. Alternatively, you can download those jumbo apps using the desktop Zune software.</paragraph>
+			<paragraph>The Application section starts with a featured app, then it's on to the categories (including all and free), followed by the top apps, a list of new ones and a longer list of featured apps.</paragraph>
+			<paragraph>The Music section is actually the Zune Marketplace. Its structure is similar to the Application section. First, a featured artist of the week, three more featured artists, then a list of new releases, top albums and genres.</paragraph>
+			<paragraph>Genres themselves are separated into sections too - new releases and top artists/albums/songs/playlists. For each song, you get a 30 second preview (same as iTunes). If you have a Zune pass, you can stream the entire song, just like you would on a Zune player (it's 10 US dollars a month).</paragraph>
+			<paragraph>An app preloaded by Nokia is App Highlights - it gives you an assortment of apps into several categories to give you a start. The first category is actually called Starter kit - a list of what are considered vital apps (e.g. YouTube, Netflix, etc.), then there's Addictive (games go here), Health+ and Foodies have apps to keep fit and to gorge yourself respectively.</paragraph>
+			<paragraph>The app is accelerometer-enabled and can reshuffle the lists of applications every time you shake the phone, which is a fun way to find new apps. Also, the tile for the app would occasionally change to advertise some of the apps it recommends to get your attention.</paragraph>
+			<paragraph>The Games section is divided into Xbox Live, New, Featured and Genres, which is the categories version. A great thing about games in the Windows Phone Marketplace is the try option, which is available to many games and apps. It gives you a trial of a game before you decide to buy it.</paragraph>
+			<paragraph>The new and featured sections act as a what's new/hot reference.</paragraph>
+			<paragraph>The Marketplace on Windows Phone can be accessed via your WP device, the Zune software on your PC and the windowsphone.com website.</paragraph>
+			<paragraph>Search is available for the Marketplace but right now it pulls together search results from all sections - games and apps alike. Microsoft have fixed the issue where songs would get mixed up in the search too, which was annoying.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Xbox LIVE<subsectionTitle>
+			<paragraph>Xbox Live is at the heart of the Games hub. It carries over many features from the Xbox - from your avatar to your scores and achievements. The Spotlight feature is available too (it shows info on new stuff) and also Requests - which shows you game invites from your friends.</paragraph>
+			<paragraph>Anyway, the games themselves are housed in the Collection section. Nothing much to see here, the installed games are arranged in a square grid and there's a Get more games shortcut, which launches the Marketplace.</paragraph>
+			<paragraph>Not all games support Xbox Live - the ones that do are in the corresponding section in the Marketplace. The 800 MHz processor and Adreno 200 GPU combo on the Lumia 510 won't be compatible with every game that is in the Marketplace, but you'll surely find something to play.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Maps and Nokia Drive<subsectionTitle>
+			<paragraph>The Nokia Lumia 510 managed to get a GPS lock quickly (about a minute) and you can make that even faster if you have a data connection for the A-GPS. Wi-Fi and Cell-ID positioning is also available if you only need a rough position.</paragraph>
+			<paragraph>Nokia Maps comes pre-installed on the Lumia 510. It lets you view maps in three different modes - map, satellite and public transport. You can use pinch zoom to navigate the map (you can also enable old-school zoom controls) and panning around is fast and smooth. Nokia Maps does only 2D mode - there's no 3D option like Google Maps has for example.</paragraph>
+			<paragraph>It pulls its maps from the Internet, so you'll need an Internet connection to use it.</paragraph>
+			<paragraph>Nokia Maps takes on other duties too - instead of navigation, it's more of a replacement for paper maps that you can take as you explore a city. It will help you discover new places, read a quick description, see photos, read reviews and check what renowned guides like Lonely Planet, Insight Guides and Qype have to say about it.</paragraph>
+			<paragraph>Moving on to the more interesting part of the duo - Nokia Drive. It offers free, life-time voice-guided navigation anywhere in the world. All you have to do is download a voice in your language of choice and you're good to go. Of course, to make use of the key selling point of Drive - offline navigation - you have to download a map for a country of your choice too.</paragraph>
+			<paragraph>With Drive you can easily plan routes (all offline, unlike the early iterations of this app) and you can tweak various settings for each route - fastest/shortest/economical route can be selected and you can choose whether the app will use or avoid motorways, toll roads, ferries, tunnels, unpaved roads and motor trains. There are icons to remind you of the selected settings.</paragraph>
+			<paragraph>Drive uses big, clear instructions on its screen in addition to the voice prompts, which is ideal for in-car use. You can switch between 2D and 3D mode and switch the color scheme (day, night, auto). There are speed alerts and real-time traffic information.</paragraph>
+			<paragraph>Maps aren't that big though - the map for the whole UK, for example, is just 274MB. The 4GB built-in memory will do the job for most of the trips you're likely to take unless you've filled the thing with lots of songs and pictures. It's easy to delete unneeded maps or download new ones on the go wherever there is Wi-Fi.</paragraph>
+			<paragraph>While navigating, you can zoom in and out depending on your preference to see more of the road ahead or more details. At the top of the screen is an instruction for the next turn in big, easy to read white on blue letters and a big icon noting the turn. At the bottom of the screen you have readings for how much you have to travel before reaching your destination and also you're current speed. Those get pushed to the left side of the screen in portrait mode.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Office stays the same, does excellent job<subsectionTitle>
+			<paragraph>Office is one of the key selling points of Windows Phone. Document viewing and editing is absolutely free and integrated into the OS.</paragraph>
+			<paragraph>With Mango SkyDrive integration is one thing that was improved. Now, docs are automatically synced between the phone and your computer through SkyDrive. In case you missed it, Microsoft are offering free 7GB of storage with each SkyDrive account (but individual files are limited to 100MB).</paragraph>
+			<paragraph>There's more - the Locations tab replaces the old SharePoint tab. This lets you browse Office docs stored on the phone, in SkyDrive, through SharePoint or in Office 365 (a paid service that includes Office web apps).</paragraph>
+			<paragraph>The Office hub breaks down into three sections - Documents, Locations and Notes.</paragraph>
+			<paragraph>Anyway, let's look at the two most important apps - Word and Excel. They share the Documents panel, which lists all available documents of the relevant types (in order of last used). Both viewing and editing of files is supported.</paragraph>
+			<paragraph>The Excel section of the Office hub got better too - it grew the all-time favorite Auto-sum function and you can now tap and drag to select multiple cells.</paragraph>
+			<paragraph>Editing is pretty straightforward and easy to use even on a mobile device. You type in the text and you can use the Format key to change the formatting of the selected text. You can also insert comments.</paragraph>
+			<paragraph>Formatting options include the standard bold, italic and underline, as well as text size, highlighting and font color. For highlighting and font colors you have only three colors to choose from, which is a little limiting but should be enough for most cases.</paragraph>
+			<paragraph>PowerPoint files will thrive in the Documents section too - but they are for viewing only, you can't edit them or create new ones.</paragraph>
+			<paragraph>Collaboration for both Word and Excel files is enabled with SharePoint. It allows syncing, sharing and web publishing but you'd need to use the right SharePoint server. You can attach those files to emails, though you need to do that from the Office hub. You can't do it from the email editor, which caused a little confusion at first.</paragraph>
+			<paragraph>OneNote is Microsoft's collaborative note taking tool. It has great (and easy to use) support for lists of multiple levels, you can add photos and voice memos and you can send notes via email when you're done. OneNotes can be synced with your SkyDrive or Windows Live account so that they are accessible from everywhere. Pin-to-homescreen is available too and so is the To-Do feature that turns the selected line into a to-do item that can be checked off.</paragraph>
+			<paragraph>Anyway, the apps support pinch zooming and work very well for viewing even complex documents. But Microsoft's fondness for simplicity may have over-simplified the editors. Still the innovation that Mango has brought to Windows Phone Office is great and shows Microsoft is dedicated to improving the Office experience further.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>The Calendar can view sub-calendars for each account you have and you can give each a different color to make it easier to tell apart. You can also disable sub-calendars if they're getting in the way.</paragraph>
+			<paragraph>The calendar offers day and agenda views too for more comprehensive hour-by-hour browsing of your appointments.</paragraph>
+			<paragraph>To-dos can be created too. Those can only be synced with Live accounts, and not a Gmail account for example. Each to-do can have a priority reminder, due date and notes. Later, to-do's can be sorted by priority.</paragraph>
+			<paragraph>The WP calculator is nothing extravagant - it has the simple portrait view of basically all calculators on the planet, while turning it over to landscape reveals the more complex scientific mode.</paragraph>
+			<paragraph>The alarm app is simple to use and has an iOS-esque interface. You get the alarm time with an on/off switch to the right.</paragraph>
+			<paragraph>Windows Phone 7.8 provides users with the basics in smartphone organizing but should you need anything more the Marketplace is there too - it offers apps for just about everything - most of which are free.</paragraph>
+			<paragraph>There's an app called Contacts Transfer (updated with Windows Phone 7.8), which does just that - it pairs with another phone over Bluetooth and leeches out your address book. This makes switching from your old phone to the Nokia Lumia 510 a smooth sailing.</paragraph>
+			<paragraph>There is the Ringtone Maker too - there you pick a song from your Zune library, choose an interval of up to 30 seconds from anywhere in the song, and tap on Save. Then a ringtone is saved in your library and you can use it from the settings menu.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Nokia Lumia 510 is basically a further trimmed down version of last year's Lumia 610. It offers less in an attempt to reduce the price even more, while still providing a complete smartphone experience. The 510 also has a larger screen than the 610 (although of the same resolution), so it's more in line with the current trend.</paragraph>
+			<paragraph>The Nokia Lumia 510 costs about &#x20ac;160 at launch, which is not a bad price if you consider that a full-featured Office suite and a life-time SatNav license are part of the deal. The Windows Phone 7.8 update managed to spray some of the WP 8.0 goodies around the park and has helped improve the UI, while the excellent social skills and the auto-focus 5MP camera turn this into a package that's seemingly too hard to resist.</paragraph>
+			<paragraph>Unfortunately, there's a catch. Not that any smartphone in this price range could realistically be expected to be perfect, but the 4GB storage is nowhere near enough for anyone with even a hint of multimedia addiction. 256MB of RAM is not just a number either that looks bad on the spec sheet - it takes its toll on the user experience by ruling out some key apps (like Skype).</paragraph>
+			<paragraph>There are some Windows Phone 7 alternatives that are certain to get the 7.8 update(if they haven't already). About the same money will get you the Lumia 610, while the Lumia 710 costs some &#x20ac;20 more than the 510. The Lumia 610 doubles the storage up to 8GB, but reduces the screen size, while the 710 offers better-screen quality, faster and more capable hardware and also doubles the RAM and storage.</paragraph>
+			<paragraph>  Nokia Lumia 610 &#x2022; Nokia Lumia 710</paragraph>
+			<paragraph>Samsung's WP7 offer, the Omnia W, comes with a Super AMOLED screen, a better chipset, which allows it to deliver the full WP7.8 experience, but no lifetime navigation.</paragraph>
+			<paragraph> Samsung Omnia W I8350</paragraph>
+			<paragraph>Ultimately, the best value offering might be outside the Windows Phone 7 realm. The Sony Xperia U costs the same as the Lumia 510, but offers a vastly superior chipset with dual-core CPUs, double the storage and the immense app catalog of Android.</paragraph>
+			<paragraph> Sony Xperia U</paragraph>
+			<paragraph>The screen is smaller, but the pixel count has actually gone up and the build quality is better, not to mention that the Google OS native functionality far exceeds that of WP7.8. For an extra &#x20ac;25, you can even get the Sony Xperia sola and it'll even throw in a microSD card slot.</paragraph>
+			<paragraph> Sony Xperia sola</paragraph>
+			<paragraph>Yet, if your mind is set on Windows Phone, the Lumia 510 is by far the most affordable option. As a reference, the WP8-powered equivalent, the Lumia 620, costs good 100 euro more. Windows Phone 7.8 may miss on a lot of opportunities that are readily available to the next generation of the OS, but it's got plenty to offer to users coming from feature phones. A nicely designed interface, a very reputable navigation solution that is available offline and document editing are all important checkboxes and the Nokia Lumia 510 has them ticked.</paragraph>
+		</subsection>
+	</page>
+</review>

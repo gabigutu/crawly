@@ -1,0 +1,61 @@
+<review>
+	<title>Sony Xperia Z5 Premium screen test</title>
+	<description>A (really) close look</description>
+	<link>http://www.gsmarena.com/xperia_z5_premium_screen_test-review-1342.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>We just got our hands on a retail unit of the Xperia Z5 Premium, but before we started our review routine, we spent some time marveling its 4K screen. Marveling quickly turned into examining and before you know it, we set out on a mission to find out whether we would readily spot the difference to other 5.5-inch smartphones with lower resolution.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You gotta know that 4K is another name for UHD resolution or 2160 x 3840 pixels. That?s an awful lot of pixels ? something along the lines of 8.3 million of them. Phones so far had only been able to go as high as 1440 x 2560 pixels (3.7 million pixels). And Sony?s own Xperia line has never gone higher than 1080 x 1920 pixels (2 million).</paragraph>
+			<paragraph>The screen in the Xperia Z5 Premium is the first of its kind in a smartphone. It?s an amazing engineering feat and it?s surely a challenge for any sort of a mobile hardware to pump out so many pixels to the screen.</paragraph>
+			<paragraph>So what Sony did is put a 4K panel inside the Z5 Premium but they render mostly everything in 1080p resolution. Yes, a bit hard to wrap your head around this concept. So the 4K panel inside the phone only reveals its benefits when you check out high-res images and video on it.</paragraph>
+			<paragraph>And we sure did. For comparison purposes, we lined up two other 5.5-inch smartphones and loaded them up with the same content to see how hi-res material looks on a 1080p, a 1440p and a 2160p screen respectively.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The three screens come in identical size and the only difference is their resolution. The 1080p screen belongs to the Asus Zenfone 2, the 1440p screen belongs to the LG G4 and the 2160p, of course, belongs to the Sony Xperia Z5 Premium.</paragraph>
+			<paragraph>It turned out that the difference is impossible to see with the naked eye. The 1440p screen is already so pixel dense that we couldn?t make out any visible difference in the sharpness of the images on screen regardless whether we used a 50MP sample image from a professional camera or a one of the images that we shot with the Z5 Premium?s own camera.</paragraph>
+			<paragraph>At this point decided to put on our best macro lens for some close-up photography of the screens.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The screen under a microscope (literally)<subsectionTitle>
+			<paragraph>The Sony Xperia Z5 Premium has remarkably tiny pixels - the tiniest we've seen. They also don't run parallel to each other as standard LCDs but follow an unusual pattern.</paragraph>
+			<paragraph>The resulting pixel density of 806ppi is well above anything we've seen on a smartphone or a tablet too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Showing a 4K test image<subsectionTitle>
+			<paragraph>We used our camera to capture the way selected test images and videos look comparatively on the screen of the Asus Zenfone 2 (1080p), the LG G4 (1440p) and the Sony Xperia Z5 Premium (2160p).</paragraph>
+			<paragraph>We've cropped parts of the images to make it easier to compare. Just click them to see them in full size (our gallery has a 1:1 full res mode).</paragraph>
+			<paragraph>We started off with a 4K test image (courtesy of hifi-writer.com). The idea behind this image is that a 4K screen should be able to visualize all twelve thin lines (1px each) within each vertical or horizontal color band.</paragraph>
+			<paragraph>We could see more lines resolved on the Z5 Premium than on the LG G4, so this test brought us back the hope that we would be actually able to spot the 4K benefits with a bare eye.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Unfortunately, returning to any of the other test images we had ready, we could no longer spot any difference in smoothness or detail.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Showing a 23MP camera sample<subsectionTitle>
+			<paragraph>We shot a camera sample with the Xperia Z5 Premium?s own camera and we loaded it on all three phones to see if the image came out in greater detail.</paragraph>
+			<paragraph>Upon close comparison in the crops below you would notice that the textures on the Z5 Premium screen is a bit smoother, even though there isn?t any difference in the detail to speak of. Unfortunately, this difference was not easily visible with a bare eye without any magnification.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Showing a 50.6MP image<subsectionTitle>
+			<paragraph>The image we tried next is amazingly high quality. It?s a sample image taken by the Canon EOS 5DS and it is available for download off Canon?s product page.</paragraph>
+			<paragraph>Unfortunately, loading up the images on all three phones, we couldn?t spot any noticeable difference between the UHD screen of the Z5 Premium and the QHD screen of the LG G4.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Showing a tighter crop of the same 50.6MP image:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Showing a 4K video shot by the Xperia Z5 Premium<subsectionTitle>
+			<paragraph>We finally shot a 4K video with the Z5 Premium?s own camera and checked out how it looked compared to the other phones. Again, the effect of smoother looking surfaces was visible under magnification, but not with a bare eye. There also doesn't seem to be any additional level of detail to noticed on the 4K screen.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Wrapping up<subsectionTitle>
+			<paragraph>Coming up with different ways of testing the Sony Xperia Z5 Premium screen left us exhausted but underwhelmed as it?s hardly the technological breakthrough we expected. One can argue that even 1440p QHD screens are way too much for such small screen sizes as well. And they may be right, but want it or not, it?s where the industry is heading these days even if it?s all for the bragging rights.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>These display hurdles aside, the Xperia Z5 Premium is shaping up to be an excellent smartphone and Sony really needed a flagship phablet to go along with its regular size phones. We can't wait to test out even more aspects of its screen and hardware. Be sure to check back with our homepage next week for a full review.</paragraph>
+		</subsection>
+	</page>
+</review>

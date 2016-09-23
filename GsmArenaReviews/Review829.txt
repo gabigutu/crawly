@@ -1,0 +1,309 @@
+<review>
+	<title>Nokia Lumia 630/635 review</title>
+	<description>Bottom up</description>
+	<link>http://www.gsmarena.com/nokia_lumia_630-review-1080.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>4.5" 16M-color ClearBlack IPS LCD display of FWVGA resolution, Gorilla Glass 3</paragraph>
+			<paragraph>Qualcomm Snapdragon 400 chipset with quad-core 1.2 GHz Cortex-A7 processor, Adreno 305 GPU and 512MB of RAM</paragraph>
+			<paragraph>Windows Phone 8.1 OS with Nokia Cyan</paragraph>
+			<paragraph>Optional dual-SIM support</paragraph>
+			<paragraph>5MP autofocus camera with 720p@30fps video recording</paragraph>
+			<paragraph>8GB of inbuilt storage, expandable via a microSD card slot up to 128GB</paragraph>
+			<paragraph>Built-in accelerometer</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>Free lifetime voice-guided navigation worldwide with Drive+</paragraph>
+			<paragraph>FM Radio with RDS</paragraph>
+			<paragraph>Background motion data collection service</paragraph>
+			<paragraph>Li-Ion 1,830 mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No front-facing camera</paragraph>
+			<paragraph>No 1080p video recording</paragraph>
+			<paragraph>No LED flash</paragraph>
+			<paragraph>No proximity sensor</paragraph>
+			<paragraph>512MB RAM may eventually turn out insufficient for future apps</paragraph>
+			<paragraph>No headset or USB cable included in the retail package</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>One of the first phones to launch straight to Windows Phone 8.1, the Lumia 630 is also the first to bring dual-SIM support to the platform. That said, we should note right at the start that we're reviewing the regular, single-SIM version. The difference boils down to just an extra SIM compartment though. There's nothing on the outside to set them apart - the SIM card slot(s) are under the battery cover.</paragraph>
+			<paragraph>Also virtually identical is the devices' LTE version, also known as the Nokia Lumia 635. For the purposes of this review, we'll be treating the three variants as one and the same except where otherwise noted.</paragraph>
+			<paragraph>Anyway, the brand new software version and optional dual-SIM aside, the Lumia 630/635 is nothing out of the usual if you've been following developments in the Nokia low-to-midrange. We can think of at least a couple of phones that have served as an inspiration. Everyone at Microsoft would be delighted if the three versions of the Lumia 630 combined come close to matching the sales of the Lumia 520.</paragraph>
+			<paragraph>The Lumia 625 has contributed too - perhaps with a lesson learned. Not much point stretching the screen too much when the resolution simply can't keep up. The Lumia 630/635 does well to reduce the diagonal but boost screen quality with the ClearBlack technology.</paragraph>
+			<paragraph>So, the Lumia 630/635 brings a relatively big 4.5" ClearBlack IPS display of FWVGA resolution. It's powered by the popular Snapdragon 400 chipset with a quad-core processor, and runs Windows Phone 8.1 with Nokia Cyan right out of the box. Let's see what else is on offer.</paragraph>
+			<paragraph>Windows Phone 8.1 has finally caught up with the competition and offers some long-awaited features such as Action Center with notification and quick toggles, customizable tile size and Start screen background, the Cortana voice assistant, Quiet Hours mode, install on SD card and a swipe-able keyboard among many others. We'll get into the details in a bit.</paragraph>
+			<paragraph>Of course, there are a few things missing in the Lumia 630/635, which is a budget phone above all else. There is no LED flash or front-facing camera - these are things you can get in the Lumia 625. There is no headset in the retail package, and half a gig of RAM could potentially rule out some apps - or at least they won't run as fast and smooth as you like. Still, Windows Phone should be perfectly capable of making a nice impression on the kind of hardware that powers the Lumia 630/635.</paragraph>
+			<paragraph>This phone was never meant to impress with speed and multitasking prowess - it's supposed to deliver a reasonably smooth and enjoyable smartphone experience to as many people as possible. We don't see why it cannot be as successful as the 520, but we won't take anything for granted.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Lumia 630/635<subsectionTitle>
+			<paragraph>The Nokia Lumia 630 and Lumia 635 have identical retail packages for the most part. Both come with some printouts and an A/C adapter. That's it - no microUSB cable and no headset.</paragraph>
+			<paragraph>Certain variants of the Lumia 635 - such as those for T-Mobile and MetroPCS - also come with a data cable, and the AT&amp;T variant also comes with an Extra Bright Orange back panel. But for the most part, the retail package is as bare as it gets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 630/635 360-degree spin<subsectionTitle>
+			<paragraph>Both the Lumia 630 and 635 have identical size and weight, as the added LTE antenna in the 635 has had no effect on the dimensions of the device. They stand at 129.5 x 66.7 x 9.2mm and weigh 134g. Compared to the Lumia 520, the 630/635 0.5" bigger display, which makes them a centimeter taller, 3mm wider and a hair ticker.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design, build quality and handling<subsectionTitle>
+			<paragraph>The Nokia Lumia 630/635 is made of matte plastic, while the entire front is protected by a third generation Gorilla Glass. It's notably less curvy than the Lumia 520, with perfectly flat sides, along the lines of the Asha styling and the X series.</paragraph>
+			<paragraph>If you liked the colorful options offered for the Lumia 520, the Lumia 630/635 won't disappoint either. You can choose between the traditional white and black, bright orange, bright green, and bright yellow. The exchangeable cover wraps around the entire inner body. There is no extra cover in the retail package though, you'll need to buy one.</paragraph>
+			<paragraph>Our Nokia Lumia 630 came in black, which is quite good at hiding smudges. When off, the ClearBlack screen blends almost seamlessly with the black bezels (which are by no means slim).</paragraph>
+			<paragraph>The Lumia 630/635 has the usual simple and minimalist design we've come to expect of Nokia - whether it's Asha, Android or Windows Phone inside. The phone looks fresh and inviting. Thanks to its matte plastic finish you'll get a great grip and the compact body is pleasant and comfortable to handle.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Nokia Lumia 630/635 packs a 4.5" ClearBlack IPS display of FWVGA resolution (480 x 854 pixels). The pixel density of 218ppi provides reasonable sharpness and the image quality is surprisingly good.</paragraph>
+			<paragraph>Colors are very punchy and viewing angles are quite decent too. There's little color and contrast loss even if you look at it at an extreme angle.</paragraph>
+			<paragraph>Here's a microscopic image of the screen's RGB matrix - it does come with a standard pixel arrangement.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Although we found the blacks and pixel density of the Lumia 630/635 to be only average we should note that the contrast is good, particularly for this price range.</paragraph>
+			<paragraph>The smartphone did well in our sunlight legibility test, beating much more expensive offerings in the process.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Nokia has supplied the Lumia 630/635 will its proprietary Color Profile app that lets you tune the saturation and color balance to your liking. The Display settings also include a Brightness option - since the Lumia 630/635 lacks an ambient-light sensor, you can tune the brightness levels for the three default profiles Windows Phone offers - Low, Medium and High. We found this particularly useful.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Nokia Lumia 630/635s front is all black with two small dents - one for the earpiece above the display and one for the mouthpiece below the screen. There is no proximity or ambient light sensor, nor is there a front-facing camera for video chat.</paragraph>
+			<paragraph>The surprising lack of a proximity sensor isn't that much of a deal breaker - the screen has a way of detecting your ear pressing to it while you're in a call and dims out automatically. Even if it fails to do so, the on-screen call keys at the bottom are hard to accidentally hit anyway. This is a different solution from what the cheaper smartphones usually do - simply lock the touchscreen during a call. The solution works fine as far as we tested.</paragraph>
+			<paragraph>There is nothing on the left, while the right side has the volume rocker and power/lock key. Both controls are prominent enough to locate by touch, and have a solid press.</paragraph>
+			<paragraph>The top of the Lumia 630/635 features the 3.5mm audio jack, while the bottom accommodates the lonely microUSB port used for charring and PC connections. Except from a handful of carriers, the Lumia 630/635 retail package omits a microUSB cable.</paragraph>
+			<paragraph>Finally, the 5MP camera lens is at the back along with a small loudspeaker grille near the bottom. There is no LED flash.</paragraph>
+			<paragraph>Undoing the battery cover is a bit of a hassle, as it requires some bending and twisting of the phone. Once you pop it out, you'll get access to the microSIM slot (or a pair thereof if you opted for the dual SIM model) and the microSD card slot that supports up to 128GB cards. Unfortunately, neither is hot-swappable - you'll need to get the battery out to gain access.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life [UPDATED, July 31]<subsectionTitle>
+			<paragraph>Update, July 31: After we published the review, we spotted discrepancies in the methodology used for our testing so we re-tested the phone and it came up way better. Below are the amended test findings, which are noticeably better than before.</paragraph>
+			<paragraph>Nokia Lumia 630 is powered by a 1,830 mAh battery. According to the official stats it should be enough for about half a day 3G talks and 25 days on stand-by. Naturally, we've completed our battery test and the results are in.</paragraph>
+			<paragraph>The Lumia 630 is capable of lasting half a day on call, but this is possible only if the clever ear-sensing tech inside the screen has detected your ear and has turned itself off. Since the phone doesn't come with a proximity sensor the display doesn't go off unless you touch it with your face or you turned it off manually. If the screen is kept on during your calls, you should probably expect significantly lower talk time.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The battery performance of Nokia Lumia 630?s LTE sibling, the Lumia 635, posted similar battery endurance on T-Mobile USAs network.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Both the Nokia Lumia 630 and 635 garnered respectable scores in our test, especially given the low capacity battery. For both devices, the overall endurance rating came in at 66 hours. It is an above average score, meaning each phone will last almost three days if you used it for an hour of video playback, an hour of calling over a 3G network and an hour of web browsing daily.</paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating.</paragraph>
+			<paragraph>Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Nokia Lumia 630 is available in both single SIM and dual SIM versions. The LTE version is known as the Lumia 635 - it sounds like a separate phone but the only difference is 4G network support. Here's the list of supported bands by model:</paragraph>
+			<paragraph>If you opt for the dual-SIM Lumia 630 model, you'll get two microSIM beds with dual stand-by. Of course, once you're in a call on one of the cards, the other SIM becomes inactive.</paragraph>
+			<paragraph>The rest of the connectivity features available across all models include single-band Wi-Fi b/g/n, Bluetooth 4.0, GPS with GLONASS, and an FM radio with RDS. There is a microUSB 2.0 port for charging and data connections. Mass storage mode is supported for access to the phone's built-in memory and microSD card.</paragraph>
+			<paragraph>There is no TV-out functionality under any form - neither wired, nor wireless. Also currently, there are no Windows Phones that support USB On-the-go, so that's missing, too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows Phone 8.1 premieres on Lumia 630<subsectionTitle>
+			<paragraph>Nokia Lumia 630/635 is the first smartphone to come with the latest available Windows Phone 8.1 out of the box. The update is going to roll out across all Windows Phone 8-running smartphones in late June, but for now the Lumia 630/635 and 930 are the only two devices where you can find both the final version of the Microsoft's OS and Nokia's Lumia Cyan customizations.</paragraph>
+			<paragraph>Windows Phone 8.1 brings a plethora of new features and UI improvements, while Lumia Cyan build on that and delivers Nokia's exclusive apps such as the Nokia Camera, Creative Studio, Storyteller, plus it adds some additional options on selected Lumia smartphones, such as Miracast Wireless Display support and Dolby Surround Sound capturing.</paragraph>
+			<paragraph>Before we dig into details, here comes our traditional UI walkthrough to get you warmed up.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Windows Phone 8.1 is certainly one of the largest updates to a mobile operating system we've seen recently. It retains much of the flow of its predecessor, so existing users won't feel lost even for a second, but it adds much on top in an attempt to change the attitude of those sitting on the sidelines.</paragraph>
+			<paragraph>Let's start our tour with the lockscreen. The Lumia 630/635 doesn't offer Glance screen, nor is there the double-tap to wake up option. Apparently, those are reserved for the mid and high-end Lumia phones. Still, you get to choose up to six notification slots for your lockscreen, you can setup PIN unlock too.</paragraph>
+			<paragraph>Once you unlock your Lumia 630/635, you'll get to the familiar interface with resizable live tiles.</paragraph>
+			<paragraph>In the past Windows Phone had been criticized for lacking wallpapers. Not anymore as with WP 8.1 you can finally set a Start Background. This won't replace the black or white color on your homescreen with a wallpaper. Instead your tiles become transparent and you can look through them into your chosen background. The only problem is the feature works much better with some tiles than with others - contact pictures for example are non-transparent, other icons are not optimized for this feature yet and really get in the way.</paragraph>
+			<paragraph>There's another change to the live tiles too. Windows Phone 8 GDR 3 update introduced the option to pack even more tiles on a row, but the decision for the tile count was only available to the manufacturer. With WP 8.1 you are free to make up your own mind by going to Settings-&gt;Start+Theme and selecting or deselecting the "Show more Tiles" option. Thus depending on the size of the tiles you can have up to six in a row, instead of merely four.</paragraph>
+			<paragraph>Windows Phone 8.1 supports on-screen controls and the Lumia 630/635 is the first one to take advantage of those. You can configure their background - dark, to match the (black or white) background (not the Start Wallpaper), or to match you accent color.</paragraph>
+			<paragraph>One of the major novelties brought by Windows Phone 8.1 is a unified notification center. Microsoft calls this Action Center and you access it by pulling from the top of the screen. There you can access quick toggles as well as various app notifications. You can swipe individual notifications off the screen or you can click the dedicated clean all key to remove them all at once. You may not notice it at first (we didn't), but there is also a battery percentage indication just below the battery icon in the Action Center. Yes, finally!</paragraph>
+			<paragraph>The four or five toggles (depending on the handset) are fully customizable, though there aren't as many shortcuts you can assign as on Android. The available options include Airplane mode, Bluetooth, brightness, camera, internet sharing, location, project my screen, quiet hours, rotation lock, VPN, Wi-Fi. A double tap on the Wi-Fi button will get you to the Wi-Fi settings menu, while a double-tap on the Bluetooth - won't. That's rather confusing in its inconsistency and we hope Microsoft sorts this out before the update is released to the masses.</paragraph>
+			<paragraph>Just like on iOS, here you can customize the notifications - you can choose whether banners, sounds and vibration are available for each notification type.</paragraph>
+			<paragraph>The multi-tasking has also been improved. Microsoft chose Apple's way of handling apps running in background - most of the apps are suspended upon hitting the Win key and will be resumed once you bring them back. There are others, of course, such as Navigation, Cortana and Battery apps, which will continue to run in background unless you specifically kill them.</paragraph>
+			<paragraph>There are a few other improvements you get with the Windows Phone 8.1 and you'll see for the first time in Lumia 630. Quiet Hours mode is pretty much the same as Apple's DND mode - it can be set to activate automatically over pre-defined time interval, plus it can also go on automatically during events you have marked in your calendar. Just like its competing services, Quiet Hours supports the so-called Inner Circle - the notifications from your Inner Circle will always break through the firewall. There is also an option to allow calls from people who call you more than two times in less than three minutes.</paragraph>
+			<paragraph>The synchronization options have been upgraded as well. You can now sync your settings (theme, app settings and data, Internet Explorer tabs and passwords) and push them across all other devices. The service isn't as powerful as on Windows or iOS, but it does most of the important stuff and is another step in the right direction.</paragraph>
+			<paragraph>Windows Phone 8.1 still doesn't offer a full-featured and system-wide file manager. Various apps such as Gallery, OneDrive, Music, and Office pack such functions, but they work only within their dedicated folder. There are some apps (with limitations) that give you the functionality of a full-blown file manager, but you need to read how they work first and then decide whether they are worth your money or not. You can still have (non-rooted) access to the mass storage memory on both the internal storage and the memory card via a PC connection.</paragraph>
+			<paragraph>Finally, the well-known Kid's mode is here too. It allows you to setup a secondary virtual environment (accessible from the lockscreen) just for your kids, control the content they have access to, thus not risking losing valuable data or allowing them to call who-knows-who from your phonebook.</paragraph>
+			<paragraph>Windows Phone, just like iOS and Android, offers Find My Phone option. If you lose your phone, you can log into WindowsPhone.com with your Microsoft ID and try to locate your phone from there. Ring, lock and wipe options are available as well.</paragraph>
+			<paragraph>Overall, it's amazing how smoothly Windows Phone 8.1 runs on such modest hardware. Microsoft has put great efforts to optimize the OS and the end results is nothing short of amazing user experience. There is no lagging at all and the loading times are quite good for a device of such class and price tag.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmarks and performance<subsectionTitle>
+			<paragraph>Nokia Lumia 630/635 is powered by the widely used Snapdragon 400 chipset. It has four Cortex-A7 processor cores clocked at 1.2GHz, Adreno 305 graphics common for most of the Windows Phone gang and 512MB RAM. Windows Phone 8.1 seems smoother and hopefully the half gig RAM won't be an issue.</paragraph>
+			<paragraph>We had a few Lumia phones around for our performance test - the Lumia 630 with final WP8.1 version, a Lumia 635 also with Windows 8.1, a Lumia 720, Lumia 1020 and a Lumia 1520. We ran each benchmark on Windows Phone 8 with GDR3 and Nokia Black updates, and then we updated all three older devices (720, 1020, 1520) to the latest Windows Phone 8.1 Developer's Preview.</paragraph>
+			<paragraph>The first test measures the single-core performance by calculating the Number Pi. Quite expectedly, the Lumia 630 and 635 finished last as the Cortex-A7 is lesser than the Krait 400 and Krait 200 cores.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Pi Benchmark<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Then we got to the compound test AnTuTu. The Lumia 630/635 fared on par with the Lumia 1020 (2GB RAM) and turned better than the Lumia 720 (512MB RAM), both dual-core Krait-powered phones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally, we used the popular cross-platform BaseMark OS II compound benchmark. The Lumia 630/635 did better than its Lumia 720 sibling, and very close to the HD-enabled Lumia 1020.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Windows Phone 8.1 comes with a brand new Internet Explorer 11 web browser that brings lots of new goodies and...you guessed it, performance improvements. We explain all the new stuff a bit further down, but for now we'll just show you how the new IE11 stacks against its previous version in terms of performance.</paragraph>
+			<paragraph>SunSpider measures the JavaScript rendering performance of the web browser. The Lumia 630/635 fared as good as the WP8.0-running Lumia 720 and falls behind its bigger siblings. Here, it's obvious that the underlying hardware is just as important in these tests as is the software. The latest version of Internet Explorer wasn't enough to help the Lumia 630/635 outperform its siblings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider 1.0.2<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Finally, we put the phones through the standard HTML5Test and the entire gang showed similar bump in its HTML5 capabilities, courtesy of IE11.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTML 5 Test<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>So overall, the Lumia 630/635 isn't a performance beast but it does OK when it comes to raw power. Its Windows Phone 8.1 runs smooth and without hiccups, as do the popular mobile arcade games.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Cortana at your service<subsectionTitle>
+			<paragraph>Cortana is Microsoft's answer to Siri, S Voice and Google Now. It premiers on Windows Phone 8.1. It does a pretty good job with voice recognition and it has the potential of helping you out on a number of occasions throughout your day.</paragraph>
+			<paragraph>Cortana is nothing like Google Now though, but very similar to Siri. It recognizes your voice commands and questions in natural human language and provides voice feedback. The voice comes courtesy of Halo's Jen Taylor and indeed, Cortana probably is the most human-like sounding virtual assistant. There is no male voice though.</paragraph>
+			<paragraph>So, what can Cortana actually do for you? First you need to personalize it in order to utilize its full potential. The Settings are called Notebook and are divided into Interests, Reminders, Quiet Hours, Inner Circle, Places, and Music Searches. In Interests you can assign literally everything you like and Cortana will help you track specific news, plan trips, find restaurants or bars, and many more.</paragraph>
+			<paragraph>Cortana supports reminders including people-based ones - you can tell her to remind you of something next time you call some of your contacts. It also supports reminders by location (home, work, university, stores). So it can remind you to congratulate your colleague for their birthday before starting with the work-related questions.</paragraph>
+			<paragraph>Cortana can also remember places, important people to you (it can even suggest such people based on your activity), plus it can actively control your quiet hours mode.</paragraph>
+			<paragraph>Cortana can fully interact with your phone and carry out all kind or commands related to it - make a call, send a message, add appointments, take notes, set alarms, play specific music or playlists, navigate you to locations or simply search the web. It can also turn on/off settings or give you straightforward answers to simple questions (such as, who is the president of...). Plus she can even tell jokes and sing songs, even though we don't see her winning Grammy anytime soon.</paragraph>
+			<paragraph>Cortana is also capable of checking the traffic in your city and it will remind you to leave early or warn you if your bus or train has been delayed. It can also provide alternatives routes to avoid traffic jams.</paragraph>
+			<paragraph>Unique among virtual assistants, Cortana can also forward your commands to third party apps, so you can for example ask it to open Skype and call some of your contacts. Only Skype, Facebook and Twitter are said to support that functionality at launch, but others should follow sooner rather than later.</paragraph>
+			<paragraph>As far as the speed of voice recognition is concerned, WP's virtual assistant does a fine job. Words are recognized almost in real time, although the accuracy often leaves something to be desired. Thick accents and noisy environments don't play nice with Cortana and often result in queries not being properly recognized.</paragraph>
+			<paragraph>Microsoft reminds you that Cortana is still in beta and it will be capable of much more once it finalized. Siri can do a lot more than Cortana today, while Google Now with its automatically appearing cards is probably the most useful of the bunch but those two have quite a head start. Microsoft is promising it is developing new features as you are reading this.</paragraph>
+			<paragraph>We'd also like to see Cortana hitting other regions and languages as the US is the only supported one for now. The good news is you can bypass that limitation by simply changing your region in the settings menu - no complicated hacks required.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Meet People Hub - your socialized phonebook<subsectionTitle>
+			<paragraph>People Hub is one of the best phone/social book to date. It has page layout, just like the rest of the WP interface and supports multiple accounts, including social ones. The first page is your contacts list, the second one is What's New with all of your friends' social updates, then come (chat) Rooms, and Groups.</paragraph>
+			<paragraph>Just like the People app, viewing a single contact also allows you to check this specific person's social updates plus you can view the complete history of exchange with this contact in one place, displayed chronologically. Everything but status updates is listed here: calls, texts (actually threads from the Messaging hub) and emails.</paragraph>
+			<paragraph>The Me tile is also available, which acts as your collective social hub - you can see all of your social updates here, post statuses across all services, even check-in option is available. You can send IMs to your Facebook/Twitter friends from the Me app too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony integrates with Skype<subsectionTitle>
+			<paragraph>The Nokia Lumia 630/635 offers loud and clear in-call sound. Signal reception was problem-free as well.</paragraph>
+			<paragraph>The phone application shows you the call history, now with call duration courtesy of WP 8.1, there are shortcuts to voice mail, dialer and phonebook. Smart dial is not supported, but you can use Cortana to dial someone in a flash.</paragraph>
+			<paragraph>One new feature you'll notice in the in-call screen is the Skype button. If you hit it, your call will be automatically transferred into a free Skype video chat. Of course, the other user must have a Skype client installed plus an active internet connection. Since the Lumia 630/635 doesn't have a front-facing camera, it won't be able to offer a face-to-face Skype video call.</paragraph>
+			<paragraph>One more thing, the Lumia 630/635 doesn't come with a proximity sensor and the screen doesn't go off during a call unless your ear or cheek touches it or you decided to lock the Lumia 630/635. Apparently, the screen can recognize the press of your cheek or ear and turn itself off during calls.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test and the Lumia 630/635 scored a Good mark, so having missed calls or notifications are rather unlikely in all but the loudest environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging has everything<subsectionTitle>
+			<paragraph>The Messaging hub looks exactly like on Windows Phone 8, but once you open a thread you'll notice two new options - shortcut to go to the contact's full details in People Hub, plus a settings to mute the thread. If you choose Mute, then you'll stop receiving any notifications for incoming messages from this number, though the messages will still be saved in the thread.</paragraph>
+			<paragraph>Threads are the building blocks of all non-email messaging. Although a sort of conversation view, threads mash together SMS, Facebook and Windows Live messages. That's the thing we love about Windows Phone: the Messaging hub removes the old division between texts, IMs, social messages.</paragraph>
+			<paragraph>The native email client has very simple interface but it offers everything an email client should feature - support for multiple accounts, threaded view, batch operations, search. You can access all folders your account have too.</paragraph>
+			<paragraph>Linked Inbox is available too - you can link all of your mail boxes into a single one from the Outlook app's settings.</paragraph>
+			<paragraph>While retaining the same looks, the virtual keyboard now supports word flow - a Swype-like input method allowing you to quickly input words without lifting your finger by swiping through the letters. It is extremely accurate and you'll fall in love with it. It already managed to set a new Guinness Record for typing on virtual keyboard. It works just like any Swype-like keyboard, but Microsoft made sure theirs is the best. We can just confirm it works like a charm.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photos app gets simplified<subsectionTitle>
+			<paragraph>In Windows Phone 8.1 the Photo Hub has lost the magazine UI in favor of the traditional WP page view. You get three swipe-able pages - all, albums and favorites - pretty much self-explanatory. The Albums section displays both your offline and online collections, while the All page shows only your camera roll.</paragraph>
+			<paragraph>Automatic OneDrive backup is available, you just need to enable it from the settings. Microsoft gives you 7GB for free to boot plus 3GB for the each device on which you turn on the automatic OneDrive camera upload.</paragraph>
+			<paragraph>Sharing options include Bluetooth file transfer, messaging, email, Facebook, OneDrive and other available social services.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Universal Music app<subsectionTitle>
+			<paragraph>The default music player in Windows Phone 8.1 uses the familiar page layout - you get Now Playing page; Collection view with shortcuts to artists, albums, sons, genres playlists; and Music Store highlights. It also allows you to create, edit and delete playlists straight from your phone.</paragraph>
+			<paragraph>The player is compatible with your Xbox Music account and can stream your songs if you have active connection without saving them on the phone.</paragraph>
+			<paragraph>Unfortunately The Music app doesn't support WAV or FLAC playback. There are no equalizer options either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player does OK, comes with limited subtitle support<subsectionTitle>
+			<paragraph>The video player is now a separate app called Video. It has a four-page layout - your collection, movie store, TV store and spotlight.</paragraph>
+			<paragraph>The video player supports XviD, DivX, MOV and MP4 videos up to 1080p resolution. The few things it won't play are MKV files and videos using the AC3 audio codec. There is a limited subtitles support, but you have to put both the video file and subtitles in a separate folder within the Video default folder. It seems the player can read some .sub files, but so far we can't give you the specs of the subtitles format.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS<subsectionTitle>
+			<paragraph>There's an FM radio with RDS support on board the Lumia 630/635. You can use the loudspeaker for the FM radio, though you still need the headset connected as it doubles as an antenna.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Excellent 5MP camera<subsectionTitle>
+			<paragraph>Nokia Lumia 630/635 comes with a 5MP auto-focus camera though it lacks a LED flash and a dedicated camera key. Nokia has created a proprietary app for all Lumia smartphones called Nokia Camera.</paragraph>
+			<paragraph>The (Nokia) camera interface is very familiar - it offers white balance, focus, ISO, shutter speed up to 1s and exposure settings. You can choose between 5MP 4:3 mode and 3.7MP 16:9 samples, there are no other resolution options.</paragraph>
+			<paragraph>Additionally, you can get more camera functionality via Lenses. Our Lumia 630/635 came only with Nokia Cinemagraph (animated photos), but we installed the newest Nokia Panorama. As it turned out, the latest version of the Panorama is now capable of taking pano shots in both portrait and landscape modes. In portrait you'll get a 4700x2600px (12.5MP) shot, while the landscape captures at about 180 degrees in 8150x1400px (11.4MP) sample. This easily puts to shame the entire Sony lineup, even the latest Xperia Z2 flagship.</paragraph>
+			<paragraph>The panorama stitching seems OK, the resolved detail could have been better, but both pano samples are way better than anything we've expected from this little fella.</paragraph>
+			<paragraph>You can download other Lenses such as Refocus from the Windows Phone Store.</paragraph>
+			<paragraph>Given the 5MP snapper on the back of the Lumia 630/635, we didn't expect much from the still images, but the phone managed to surprise us. The level of detail is among the best for the 5MP league and even if that's not the most prestigious league to be competing in. Contrast is good as is the color rendering. Noise is kept well under control and the level of resolved detail is amazing. We also love the mature overall processing.</paragraph>
+			<paragraph>The macro shots are amazing too, we've taken those at about 3cm and the level of detail is impressive.</paragraph>
+			<paragraph>Enjoy the samples.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The 5MP sharpshooters are getting very rare these days, but the few we get to review are getting better and better. The Lumia 630/635 does excellently on all three charts, resolving a great level of detail, with very little noise and with accurate colors. It's equally good as the Lumia 625 and the Lumia 520 but seems to apply a pinch more sharpening than the others. Compared to the Samsung Galaxy Ace 3 for example, both cameras are equally good.</paragraph>
+			<paragraph>  Nokia Lumia 630/635 in our photo quality comparison tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Uninspiring HD video recording<subsectionTitle>
+			<paragraph>Nokia Lumia 630/635 camcorder is capable of 720p@30 fps video recording. The videos are stored in MP4 containers and the bitrate goes at about 10 Mbps. Lumia 630/635 captures the videos with stereo sound at 128 Kbps and 48 kHz sampling rate.</paragraph>
+			<paragraph>The camcorder interface is pretty much the same as the still camera. It offers only white balance and manual focus settings. You can also choose between 720p recording at 24, 25 and 30 fps. The Lumia 630/635 also allows you to choose the audio bass filter (off, 100 Hz or 200 Hz). Opting for 200 Hz (Strong) will capture much better sound in concerts or clubs.</paragraph>
+			<paragraph>So, the resolved detail in the videos isn't as impressive as in the still images, but the colors and the contrast remain very good.</paragraph>
+			<paragraph>Here is a 30s sample we've uploaded on YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Also here is an untouched 720p@30fps video for you to download.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The Nokia Lumia 630/635 is ready to stand up against the competition in our video comparison tool. Its page will give you information on what to look for. You can see that in good light it performs equally good to the other Lumia phones in this comparison and it's even better than them in low-light conditions.</paragraph>
+			<paragraph>   Nokia Lumia 630/635 in our video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Internet Explorer 11 is your web browser<subsectionTitle>
+			<paragraph>Internet Explorer 11 is the newest version of the Microsoft's mobile web browser. You bet it went through an extensive upgrade and while in previous versions you only had to use IE because you had no other options, this time around it's actually pretty nice so you might even enjoy it. IE 11 is what the Windows Phone browser should have been from the get-go.</paragraph>
+			<paragraph>Internet Explorer 11 has lots of new features - private browsing, reader mode, unlimited tab support with new UI, saving passwords, tab and bookmark sync across devices and support for inline videos to name a few. Back and Forward gestures have been added too - just swipe from the left or right edge of the screen. Yes, just like on iOS.</paragraph>
+			<paragraph>The first new feature you'll notice is the unlimited tab support in IE 11. The tab manager has a new UI too, plus a dedicated shortcut right next to the address bar. InPrivate browsing is available too, you can launch a separate incognito tab from the tab manager.</paragraph>
+			<paragraph>Once you open an article on the web you'll notice a small book icon appearing in the address bar. If you tap it you'll activate the so-called Reader mode. It does the same as its iOS namesake - it strips down everything but the article itself and its pictures. This way you can enjoy seamless reading of long articles without any unnecessary content or ads. You can configure the Reader background color and font size from the IE 11 settings.</paragraph>
+			<paragraph>IE 11 also supports inline video playback. In case the browser is capable of playing an embedded video, you will be able to do it right within the article. No external players or pop ups are needed.</paragraph>
+			<paragraph>The new web browser supports tab and bookmark sync across devices. This means you can start exactly where you left off on your IE on Windows PC or slate. It's a nice feature already available in Safari and Chrome, and it is nice to see Microsoft is getting there too.</paragraph>
+			<paragraph>By the way you can pin web pages to your start screen. You'll get a Live Tile, which will show the latest updates to this website.</paragraph>
+			<paragraph>Another important upgrade in IE 11 is the option to remember passwords and sync them to other devices. You no longer need to type in the same usernames and passwords over and over again.</paragraph>
+			<paragraph>The Internet Explorer 11 web browser, just like the overall UI, seems to be faster, with excellent page loading times and scrolling performance. We've enjoyed the new version and we think you'll like it too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Pre-installed apps<subsectionTitle>
+			<paragraph>Office is one of the key selling points of Windows Phone. Document/Excel/PowerPoint viewing and editing is absolutely free and integrated into the OS. OneDrive integration is available as well. Docs are automatically synced between the phone and your computer through OneDrive.</paragraph>
+			<paragraph>OneNote is Microsoft's collaborative note taking tool. It has great (and easy to use) support for lists of multiple levels, you can add photos and voice memos and you can send notes via email when you're done. OneNotes can be synced with your OneDrive as well.</paragraph>
+			<paragraph>The Calendar app can view sub-calendars for each account you have and can color-code them to make them easier to tell apart. It offers day and agenda views for more comprehensive hour-by-hour browsing of your appointments. Windows Phone 8.1 brings Weekly view. It's really comfortable, the days are expandable in case you have more events than the small square can show, this mode even searches for weather forecast and displays it with small icons on each day.</paragraph>
+			<paragraph>Naturally, Lumia 630/635 comes with Alarms, Calculator, and Weather apps pre-installed.</paragraph>
+			<paragraph>Microsoft's Travel, Sports, Finance, Food &amp; Drinks and News apps are available, too.</paragraph>
+			<paragraph>With the Lumia 630/635 you get a few Nokia exclusive apps - Storyteller interactive diary, Creative Studio for advanced photo enhancements, and, of course, HERE Maps and HERE Drive+.</paragraph>
+			<paragraph>HERE Drive+ offers free, life-time voice-guided navigation anywhere in the world. All you have to do is download a voice in your language of choice and you're good to go. Of course, to make use of the key selling point of Drive - offline navigation - you have to download a map for a country of your choice, too.</paragraph>
+			<paragraph>HERE Maps takes on other duties - instead of navigation, it's more of a replacement for paper maps that you can take as you explore a city. It will help you discover new places, read a quick description, see photos, read reviews and check what renowned guides like Lonely Planet, Insight Guides and Qype have to say about it.</paragraph>
+			<paragraph>Windows Phone's traditional Games app is present - it carries over many features from the Xbox - from your avatar to your scores and achievements. It is also your gaming hub - here you can find all of your pre-installed games, spotlight news and store links.</paragraph>
+			<paragraph>Finally, Windows Phone 8.1 introduces a couple of new apps: Storage Sense and Battery Saver. Storage Sense tracks your internal memory and allows you to configure which content will be saved where. Battery Saver now not only shows you the battery percentage and allows you to configure when the battery saver goes on, but it can now track battery usage too. You can also allow or restrict apps to run in background while the battery saver is turned on.</paragraph>
+			<paragraph>By the way, the Microsoft Store now supports automatic app updates. You can choose whether those happen only when connected to a Wi-Fi network, or cellular data is allowed as well. Check for updates button is available, but now the Store checks for available updates quite a few times a day, so you'll probably won't need to use this key regularly.</paragraph>
+			<paragraph>Windows Phone 8.1 on the Lumia 630/635 supports motion data collection in the background. This process runs on the background and collects data to track your movement and location. Supposedly, this won't affect the battery life. It's a useful feature for fitness fans and can be used by various health-related apps including the preinstalled Health and Fitness.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Lumia 630/635 has the same winning combo as the Lumia 520 that sold in millions: a simple, yet durable design, a good balance of features at a bargain price. We wouldn't be surprised to see it repeat the feat of the former and become the Lumia line's next rising star.</paragraph>
+			<paragraph>Nokia has done a good job designing the Lumia 630/635 - the boxy design of the Ashas and X-series looks neat, the right blend of fresh and familiar. You can choose between a wide range of paintjobs for the exchangeable rear covers.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The screen size is another well played move - more real estate than the Lumia 520 and 525, but not as big as the 625, which really doesn't have enough resolution for the size. The ClearBlack technology makes the right kind of difference, while the quad-core processor will definitely speed things up. Still image quality was a nice surprise, and the phone comes with the latest Windows Phone 8.1 right out of the box.</paragraph>
+			<paragraph>Nokia has, as usual, thrown in some value-adding features: the location and navigation suite, Cinemagraph and Nokia Camera advanced imaging apps, the feature-rich Nokia Creative Studio for making your stills even better, plus you can get the Storyteller app from the Store for free.</paragraph>
+			<paragraph>The Nokia Lumia 630/635 is full of features users will certainly appreciate and runs on hardware that's capable enough of handling day-to-day tasks. The excellent image quality was something we didn't quite expect to be honest. And if the dual-SIM version matches that (it very well should) it will be the one that drives the sales.</paragraph>
+			<paragraph>The Nokia 630 Dual SIM costs just ?15 more than the regular version, and it's the first WP-powered phone to offer dual-SIM capabilities. If it's LTE that you need, the Lumia 635 is another ?15 on top of the Dual SIM flavor.</paragraph>
+			<paragraph>  Nokia Lumia 630 Dual SIM ? Nokia Lumia 635</paragraph>
+			<paragraph>But let's explore some other options in the Lumia 630 price bracket.</paragraph>
+			<paragraph>The Nokia Lumia 625 will give you a bigger IPS display but without the ClearBlack enhancement. It will make up for it with 1080p video recording, a LED flash, a front-facing video camera and LTE capabilities. It is also guaranteed to receive the WP8.1+Lumia Cyan update soon (probably late June).</paragraph>
+			<paragraph> Nokia Lumia 625</paragraph>
+			<paragraph>The Samsung Galaxy Ace 3 is another offer to consider. It comes with a 4" TFT WVGA display and runs on the Snapdragon 400 chipset with a dual-core Krait processor. Its camera is on par with the Lumia 630/635's, plus it comes with LTE support for the same price Nokia charges for the Lumia 630. The Ace 3 is running on Android 4.2 Jelly Bean (with TouchWiz, of course), but we fear it might miss KitKat.</paragraph>
+			<paragraph> Samsung Galaxy Ace 3</paragraph>
+			<paragraph>The recently announced Android KitKat-powered Motorola Moto E is even cheaper and also comes with optional dual SIM support. Just like the Lumia 630/635, you can choose between various paintjobs for the battery cover. It comes with a 4.3" display too, though of higher qHD resolution. The Moto E has two Cortex-A7 cores instead of four, but seems to be handling the OS trouble-free. Plus Motorola promises timely Android updates.</paragraph>
+			<paragraph> Motorola Moto E Dual SIM</paragraph>
+			<paragraph>Sony has two very attractive offers too - the Xperia E1 and Xperia M, both available in dual-SIM flavor. Their pricing is a few bucks below the Lumia 630 and both come with 4" displays. The Xperia E1 is the less-capable one with a WVGA display, a 3MP camera, a dual-core Cortex-A7 processor with half a gig of RAM, but it has Android KitKat on the way. The Xperia M has a FWVGA display, a better 5MP camera, a dual-core Krait processor with 1GB RAM, but KitKat is probably not on the cards.</paragraph>
+			<paragraph>  Sony Xperia E1 ? Sony Xperia M</paragraph>
+			<paragraph>Finally, you can go for an even bigger screen for less money in the Nokia XL and the Android experiment. The flipside is it's by far not the sharpest 5" screen you can get at WVGA resolution and there's less processing power. A dual-SIM option is available too.</paragraph>
+			<paragraph> Nokia XL</paragraph>
+			<paragraph>The Nokia Lumia 630 is not alone out there, but looks strong enough to not crack under pressure. The regular, single-SIM, option seems to have enough in terms of upgrades over the Lumia 520, most notably the screen, chipset and the new features courtesy of Windows Phone 8.1. It's the dual-SIM version though that will probably feel extra comfortable being the only one of its kind at this point.</paragraph>
+		</subsection>
+	</page>
+</review>

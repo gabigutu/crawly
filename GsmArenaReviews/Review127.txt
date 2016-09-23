@@ -1,0 +1,83 @@
+<review>
+	<title>Sony Xperia X, X Performance and XA</title>
+	<description>Sony at MWC 2016</description>
+	<link>http://www.gsmarena.com/sony_mwc_2016-review-1386.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia X Performance at a glance:<subsectionTitle>
+			<paragraph>Form factor: metal body, beveled screen; IP68 waterproofing</paragraph>
+			<paragraph>Screen: 5" Triluminos display, 1080p resolution (441ppi)</paragraph>
+			<paragraph>Camera: 23MP/2160p with 1/2.3" sensor, f/2.0, Predictive Hybrid AF; 13MP selfie camera</paragraph>
+			<paragraph>Chipset: Snapdragon 820 (2+2 custom cores); 3GB of RAM</paragraph>
+			<paragraph>Storage: 32GB, expandable via a microSD cards</paragraph>
+			<paragraph>OS: Android 6.0 Marshmallow</paragraph>
+			<paragraph>Audio: stereo speakers, Hi-Res audio, DSEE HX, LDAC</paragraph>
+			<paragraph>Battery: 2,700mAh</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia X at a glance:<subsectionTitle>
+			<paragraph>Form factor: metal body, beveled screen</paragraph>
+			<paragraph>Screen: 5" Triluminos display, 1080p resolution (441ppi)</paragraph>
+			<paragraph>Camera: 23MP/2160p with 1/2.3" sensor, f/2.0, Predictive Hybrid AF; 13MP selfie camera</paragraph>
+			<paragraph>Chipset: Snapdragon 650 (2x A72 + 4x A53 cores); 3GB of RAM</paragraph>
+			<paragraph>Storage: 32GB, expandable with microSD cards</paragraph>
+			<paragraph>OS: Android 6.0 Marshmallow</paragraph>
+			<paragraph>Audio: stereo speakers, Hi-Res audio, DSEE HX, LDAC</paragraph>
+			<paragraph>Battery: 2,620mAh</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia XA at a glance:<subsectionTitle>
+			<paragraph>Screen: 5" Triluminos display, 720p resolution (294ppi)</paragraph>
+			<paragraph>Camera: 13MP with 1/3" sensor; 8MP selfie camera</paragraph>
+			<paragraph>Chipset: MediaTek MT6755 (8 Cortex-A53 cores); 2GB of RAM</paragraph>
+			<paragraph>Storage: 16GB, expandable with microSD cards</paragraph>
+			<paragraph>OS: Android 6.0 Marshmallow</paragraph>
+			<paragraph>Battery: 2,300mAh</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>As others focus on phablets, Sony showed the 5" market a lot of love with the new Xperia X series. The Xperia X Performance is essentially a Z-phone in disguise. Better yet, not even the Z5 has a brushed metal back.</paragraph>
+			<paragraph>This one has it all - waterproofing, stereo speakers, a Snapdragon 820 chipset, 23MP worth of still images, the works. If money is no object, this would be our pick.</paragraph>
+			<paragraph>The Sony Xperia X is the middle sibling. The same metal exterior (without the brushed finish) and 5" 1080p screen, the same still resolution and stereo speakers. It's just not waterproof, though, and the chipset is a Snapdragon 650.</paragraph>
+			<paragraph>The Sony Xperia XA is for the price-conscious. It still has a 5" screen, but of 720p resolution. No metal finish, no stereo speakers either. The camera obviously took the biggest slash, a 1/3" Exmor RS sensor of 13MP resolution.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia X Performance hands-on<subsectionTitle>
+			<paragraph>Our favorite in the lineup and the one with the best credentials. The top dog status of the Sony Xperia X Performance affords it some premium features the other two miss out on.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The X series follows the Z-design, but the glass back is gone in favor of a seamless metal shell. Some of the X Performance's paint jobs have a brushed metal finish, making it that much cooler.</paragraph>
+			<paragraph>Another Performance-exclusive feature is the IP68 rating - waterproofed to sustain immersion beyond 1m of water for 30 minutes or more (the other two are not IP-certified).</paragraph>
+			<paragraph>On the front, the glass is beveled and smoothly flows into the metal frame. Below the glass is a 5" Triluminos display, which looks pretty cool.</paragraph>
+			<paragraph>Unfortunately, Sony didn't have a retail Xperia X Performance for us to handle, so we can't say more about the screen quality. Also, the launch dates are not clear yet, be prepared for the Performance to launch after the other two X-phones.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia X hands-on<subsectionTitle>
+			<paragraph>The Sony Xperia X also has a beveled glass-and-metal bodywork. No brushed finish, but from a distance, it's quite hard to tell the X and the X Performance apart.</paragraph>
+			<paragraph>Here goes a quick video hands-on from the Mobile World Congress floor.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We did get to handle this one and can say the screen looks great, with wide viewing angles and great colors. Like the Performance, the Xperia X has front-facing stereo speakers.</paragraph>
+			<paragraph>Sony brought its 23MP camera with Predictive Hybrid autofocus to the Xperia X and X Performance. There was a setup to test it out - tracking a randomly moving ball. Getting the initial lock was much slower than on the Galaxy S7 we tested yesterday, but Sony's strength is that once focus is locked, the camera does better at tracking the object as it moves around.</paragraph>
+			<paragraph>The Xperia X is powered by a Snapdragon 650 chipset (with 3GB of RAM) and will launch with Android 6.0 Marshmallow.</paragraph>
+			<paragraph>The X (153g) weighs more than the XA (137.4g), the Xperia X Performance (165g) is the heaviest of them three.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia X camera samples<subsectionTitle>
+			<paragraph>We managed some camera samples with the Xperia X, but the conditions were quite poor. Still, here are a couple of Superior Auto shots and several full-resolution photos.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia XA hands-on<subsectionTitle>
+			<paragraph>This is the lower midrange offering of the X family. It's got a 5" 720p screen (not 1080p like the other two) and MediaTek supplying the chipset instead of Qualcom. There's less RAM too, 2GB instead of 3GB.</paragraph>
+			<paragraph>We didn't notice the UI running any slower, though, but we didn't really get a chance to stress-test it.</paragraph>
+			<paragraph>Also, the screen looked pretty good despite the resolution downgrade. Contrast and viewing angles were almost as good as on the more premium X phones too.</paragraph>
+			<paragraph>The exterior of the Xperia XA isn't as fancy, though, it's all plastic and it felt like one. Felt being the operative word, the XA looks almost identical to the other two (admirable, considering the lower price point and more run of the mill trim).</paragraph>
+			<paragraph>We went back for a second look and we have to say the Xperia XA is growing on us. The bezels are actually thinner than on the other two. Also, the XA has an almost gapless construction, as opposed to the Xperia X (we guess those can be removed in retail version).</paragraph>
+			<paragraph>No stereo speakers though (despite appearances).</paragraph>
+		</subsection>
+	</page>
+</review>

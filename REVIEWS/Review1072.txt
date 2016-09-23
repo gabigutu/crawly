@@ -1,0 +1,27 @@
+<movie>
+	<title>2 Jennifer</title>
+	<link>http://www.imdb.com/title/tt4627224/?ref_=adv_li_tt</link>
+	<year>2016</year>
+	<generalScore>0.31</generalScore>
+	<review>
+		<date>2016-08-20</date>
+		<username>Lars Mogelberg (mogelberg@yahoo.com)</username>
+		<score>0.2</score>
+		<shortDescription>Horrible, horrible, horrible</shortDescription>
+		<fullReview>What an utter waste of time. I wouldn't even call it a film school project, but rather a high school level project. The idea itself I suppose is OK; the execution just awful. If I have to write ten lines of text about the movie, I will say that the story is awful, the acting is even worse, and the fact that it has been shot on an iPhone just doesn't make it any more interesting. I wonder if the inspiration came from the Blair Witch Project, which, frankly, I also found to be a pretty awful movie, in spite of the cult status it attained. I suppose the 15 ratings it has received prior to mine, must have been from friends and family of the crew (or the crew themselves) trying to do them a favour, otherwise it is beyond me how anybody would rate this utter waste of time above 5, even if you are a fan of the genre. I really wish I had not spent a bit more than an hour watching it, and I hope that my review may serve as a warning to anyone considering watching it.</fullReview>
+	</review>
+	<review>
+		<date>2016-08-21</date>
+		<username>lola</username>
+		<score>0.7</score>
+		<shortDescription>A few slow moments but overall excellent!!!!!!</shortDescription>
+		<fullReview>I have to admit I was unsure about watching this film, but after hearing that it was shot entirely on iphone6 I had to see it for myself. It definitely took me for a ride. I didn't know this film was a comedy until I watched it. It had me laughing all the way through but also had me cringing at my seat due to the awkward moments of Hunter Johnson's character Spencer. The film suddenly gets more serious when Lara Jean Mummert's character Jennifer appears. Her and Dave Coupe as Mack are impeccable together. I don't want to say to much but give this film a chance. It's fun, awkward, and well shot for an iPhone film. Very impressed, great job guys!!!!!!</fullReview>
+	</review>
+	<review>
+		<date>2016-08-21</date>
+		<username>meredithjillbrown</username>
+		<score>0.8</score>
+		<shortDescription>The Slimiest Best Horror Flick!</shortDescription>
+		<fullReview>Whether you have seen To Jennifer (James Cullen Bressack's film) or not, there is still intense appreciation for this group of friends who set out to make a sequel. Headed up by Spencer (a wicked little ambitious director with the ultimate "creepy" factor), we are led via iPhone into his unwinding madness to find the perfect Jennifer for this sequel. His sidekick Mack is anxious to start, unaware of some foreshadowing that plays a hefty part into the gory ending. Don't miss this little gem. Hunter Johnson proves to be a talented force with this horror mark in the unforgiving genre. I look forward to seeing more from him and the group!</fullReview>
+	</review>
+</movie>

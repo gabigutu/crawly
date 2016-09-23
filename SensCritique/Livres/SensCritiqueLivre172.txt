@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Watership Down</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Watership_Down/21335113</link>
+	<generalScore>7.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Fabuleux</title>
+		<author>minutemaid</author>
+		<date>2016-09-09</date>
+		<score>1.0</score>
+		<content>Épique, poétique, FANTASTIQUE ! L’aventure d’une communauté qui part à la recherche d’un nouvel habitat, traversant des paysages fabuleux, éprouvant des déceptions, s’unissant, se battant pour vivre ensemble. Cette communauté c’est celle d’un groupe de lapins. (bien différent des hommes, avec leur propre langage, leur propre mythologie, leur propre organisation) C’est un combat, une quête que vous pourrez interpréter ou que vous pourrez lire avec des yeux d’enfant. Un roman sensible, vibrant et passionnant.</content>
+	</review>
+</sensCritiqueEntity>

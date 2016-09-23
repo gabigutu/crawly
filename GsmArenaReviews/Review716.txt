@@ -1,0 +1,359 @@
+<review>
+	<title>Oppo N3 review</title>
+	<description>Motor head</description>
+	<link>http://www.gsmarena.com/oppo_n3-review-1184.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Optional Dual-SIM (micro SIM resides in microSD card slot)</paragraph>
+			<paragraph>5.5" IPS LCD display of 1080 x 1920px resolution, around 403ppi</paragraph>
+			<paragraph>Android 4.4.4 KitKat with Color OS 2.0 on top</paragraph>
+			<paragraph>Qualcomm Snapdragon 801 chipset, quad-core 2.2GHz Krait 400 processor, Adreno 330 GPU, 2GB of RAM</paragraph>
+			<paragraph>Motorized 206-degree rotating lens, 16MP 1/2.3" sensor, Schneider Kreuznach certified, 1.34µm pixel size, dual LED flash</paragraph>
+			<paragraph>1080p video recording at 30fps and 60fps, 720p slow motion video at 120fps</paragraph>
+			<paragraph>Fingerprint sensor doubling as a trackpad and button</paragraph>
+			<paragraph>O-Click Bluetooth remote comes in the bundle, can control the camera and locate the device</paragraph>
+			<paragraph>32GB of built-in storage; microSD card slot</paragraph>
+			<paragraph>Cat. 4 LTE (150/50Mbps); Wi-Fi a/b/g/n/ac; Bluetooth 4.0; GPS/GLONASS; microUSB, USB On-The-Go</paragraph>
+			<paragraph>3,000mAh battery with Oppo's proprietary VOOC rapid charging tech (75% battery in 30min)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No 4K video recording yet</paragraph>
+			<paragraph>Comparably large and heavy for the screen size</paragraph>
+			<paragraph>QHD resolution would have been nice</paragraph>
+			<paragraph>No FM radio or IR blaster (we're nitpicking because of the high asking price)</paragraph>
+			<paragraph>Hard to get in brick-and-mortar stores outside of Asia</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The formula for the smartphone to top all others is the industry's elusive philosopher stone. Being complete newbies, but keen as a bean, Oppo's take is perhaps the weirdest. Yet it seems to work.</paragraph>
+			<paragraph>The standard ingredients include the latest chipset, a robust screen, and a high-megapixel camera. But why not try something crazy like a rotating camera that can do the best selfies in the industry? That seemed to be last year's brief. This year the module is motorized and can rotate all by itself. The camera has also seen a substantial upgrade.</paragraph>
+			<paragraph>Last year's Oppo N1 had a rotating 13MP camera, a 5.9" 1080p display and a CyanogenMod ROM, as an alternative to Oppo's very own Color OS. This year the camera is 16MP, the sensor and pixel size have gotten bigger but that's about it as far as bigger goes. The phone is tangibly more compact, which has a simple explanation: a slightly smaller 5.5" 1080p IPS display.</paragraph>
+			<paragraph>There's no CM this time but Color OS is in at version 2.0 bringing Android KitKat and this time there is no longer an app drawer.</paragraph>
+			<paragraph>Among the other things that make the N3 a better phone is a new chipset (Snapdragon 801 over the S600 of old) and a fingerprint scanner on the back where the O-Touch pad used to be.</paragraph>
+			<paragraph>What was good about the Oppo N1 is even better here - the body is still a lovely blend of high-quality matte plastic and aluminum. The frame that runs around the phone breaks for a bit toward the bottom where a notification LED forms what Oppo likes to call Skyline Notification 2.0.</paragraph>
+			<paragraph>Oppo did well with the successor, building on the strengths of the N1, and ditching some of the things that were a little over the top (the huge footprint and 5.9" aren't everyone). Can Oppo finally step out of Asia with a global winner?</paragraph>
+			<paragraph>Well, for one, the N3 is yet to be available on the shelves of walk-in stores around the world. You do get shipping to most locations outside Asia and an international warranty to go along. But most people don't feel comfortable buying their phone from outside the country, let alone across continents.</paragraph>
+			<paragraph>Then there's the issue of carrier subsidies - many people get their phones on multi-year deals from their carriers without worrying about pricey upfront obligations - this isn't an option with the Oppo N3. Another thing to note is the asking price of $649, which sure looks steep. Most of the points above are valid for pretty much every smartphone to come out of China these days - few of which can match Oppo's vision and creativity.</paragraph>
+			<paragraph>In and of itself, the Oppo N3 is a great smartphone with a quirky but potent-looking camera propped on its forehead. As a successor, it's all an Oppo N1 user can ask for - the screen is smaller but we think it suits the device better, the chipset has seen a big improvement, and the camera (the focal point of the package) has improved the most.</paragraph>
+			<paragraph>OK, the N3 has our full attention. Off to unboxing and a hardware checkup after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Oppo N3 360-degree spin<subsectionTitle>
+			<paragraph>The Oppo N3 is a hefty device by any measure. At 161.2mm tall, 77mm wide and 9.9mm thick, it's a tad thicker than its predecessor but a little lighter - still a hefty 192g.</paragraph>
+			<paragraph>It's looks immense compared to a 5.5" LG G3 (146.3 x 74.6 x 8.9 mm, 149 g) and it can even give the 5.7" Samsung Galaxy Note 4 a run for its phablet money (153.5 x 78.6 x 8.5 mm, 176 g).</paragraph>
+			<paragraph>The 5.5" Apple iPhone 6 Plus (158.1 x 77.8 x 7.1 mm, 172 g) is shorter and thinner and even the 6" Motorola Nexus 6 (159.3 x 83 x 10.1 mm, 184 g) is shorter and lighter.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Ample retail box<subsectionTitle>
+			<paragraph>Oppo, as usual, offers a generous retail package for its flagship smartphone. We're treated to their latest quick charger - the VOOC mini rapid charger. It's got a 5A A/C adapter that's said to charge the N3 up to 75% in just 30 minutes.</paragraph>
+			<paragraph>Next up is a fine pair of headphones with brushed metal accents, a set of various earbuds, a SIM ejector tool, a microUSB cable and the O-Click Bluetooth remote 2.0.</paragraph>
+			<paragraph>The O-Click remote works just like it did with the N1, pairing with the phone via Bluetooth. You can make the phone ring the remote or the remote ring the phone.</paragraph>
+			<paragraph>The O-click easily fits on a keychain, so you'll no longer scramble for misplaced keys. It works the other way around too - finding a misplaced phone.</paragraph>
+			<paragraph>The remote can be set to start beeping if you walk out of connection range to make sure you don't leave without your phone. The O-click will also flash upon incoming calls or messages if you have the phone on silent and it can also double as a camera shutter remote. This time around, it can also control the rotating module.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Oppo N3's body is a mixture of polycarbonate and metal - what Oppo calls industrial-grade aluminum alloy 7075 micro-arc frame.</paragraph>
+			<paragraph>The design of the N3 follows the one of its predecessor, a tall forehead above the screen, housing the rotating camera, and a subtle chin accommodating the controls. The corners of the N3 are ever so slightly rounded but the phone still feels sharp and solid in the hand.</paragraph>
+			<paragraph>The aluminum frame feels a little cold to the touch, especially if you haven't been holding the device in your hands for a while. The matte surface on the sides provides enough grip.</paragraph>
+			<paragraph>The front houses the 5.5" 1920 x 1080px IPS LCD of around 403ppi. Above it is the most interesting part of the Oppo N3 - the motorized lens. On the front it houses the earpiece and the proximity sensor.</paragraph>
+			<paragraph>Under the display sit three capacitive buttons for menu, back and home. The keys are hard to spot against the black panel unless backlit.</paragraph>
+			<paragraph>The bottom of the Oppo N3 forms a subtle chin, which gets lit up by the N3's notification LED, forming what Oppo calls Skyline Notification 2.0.</paragraph>
+			<paragraph>The chin is part of the aluminum frame, which runs all around the device. At its bottom, are the main microphone along with a micro-grilled loudspeaker.</paragraph>
+			<paragraph>The back is a matte polycarbonate surface with a metal Oppo logo near the top and a fingerprint scanner directly under it, which Oppo calls Touch Access. The software can handle up to five fingerprints and scanning doesn't involve swipes - just place your finger on it and you're good to go.</paragraph>
+			<paragraph>It acts as a button and trackpad as well - you can press it up or down and you can also control the camera and scroll through webpages with it, similarly to the O-Touch area on the back of last year's N1.</paragraph>
+			<paragraph>The second, noise-reducing microphone is directly below the motorized lens. The lens itself is housed in a premium plastic body with a faux leather finish.</paragraph>
+			<paragraph>The lens itself is slightly elevated on a metal plate of its own. Etched inside are two round elements - the dual LED flash and the 16MP camera lens itself. The optics are Schneider Kreuznach certified.</paragraph>
+			<paragraph>The lens can be moved 206 degrees with a finger but can also be moved via the touchscreen while in the camera app and also with the O-Click Bluetooth remote.</paragraph>
+			<paragraph>The right side of the Oppo N3 has the 3.5mm headphone jack located high on the side. Under it is a volume rocker with pleasing press feedback.</paragraph>
+			<paragraph>The ejectable compartment is on the left side of the Oppo N3. It houses the main nanoSIM card and features a second microSIM compartment that doubles as a microSD card slot.</paragraph>
+			<paragraph>The power button is on the left - we found it very responsive although we needed some time to adjust to its location.</paragraph>
+			<paragraph>At the bottom left sits the microUSB 2.0 port.</paragraph>
+			<paragraph>There're no controls on the top of the Oppo N3 - this is where the rotating camera module is.</paragraph>
+			<paragraph>The Oppo N3 is big and extra solid, the construction looks and feels premium. If Oppo had settled for a non-rotating camera lens, the phone's top and bottom bezels could have obviously been a lot smaller. Truth be told, the Oppo N3 is too big for a 5.5" device - but it has a better reason than most. The sturdy aluminum frame feels extra sharp and precise, too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The 5.5" 1080p IPS LCD of the Oppo N3 is quite punchy. Colors pop out and viewing angles are splendid. At little over 400ppi, the screen is very sharp and even the tiniest of text is comfortably readable.</paragraph>
+			<paragraph>Under a microscope, the Oppo N3's display showcases the typical RBG matrix with an equal number of equally-sized red, green and blue pixels.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We ran our in-depth screen test on the Oppo N3 and it proved an adequate performer. However the new 5.5" panel has seen a slight decrease in quality over its predecessor - blacks aren't as dark and the contrast is a little lower. Still, the numbers show a very good brightness level and an adequate contrast ratio.</paragraph>
+			<paragraph>Outdoor visibility is quite good on the Oppo N3. It's not the best around but it is much better than some of its peers like the Oppo Find 7 or the OnePlus One.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The Oppo N3 comes with an ample 3,000mAh battery. The capacity sounds promising but the battery sadly underdelivers.</paragraph>
+			<paragraph>Our proprietary battery life test resulted in an endurance rating of 64 hours of mixed use - that's how long you can expect the phone to last on a single charge if you do an hour each of calling, surfing the web and watching video a day.</paragraph>
+			<paragraph>The Oppo N3 managed a good call time of a little over 14 hours and acceptable browsing and video playback times. It was the 240-hour stand-by that brought the scores down. Don't get us wrong, 64 hours isn't a bad score, it's just not up to par with the class-leading rivals, most of which are phablets anyway.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Oppo N3 offers quad-band GSM (GSM 850 / 900 / 1800 / 1900), penta-band 3G (850 / 900 / 1700 / 1900 / 2100) and septa-band LTE (700 / 800 / 900 / 1700 / 1800 / 2100 / 2600 ) including TD-LTE 2300MHz.</paragraph>
+			<paragraph>The phone has dual-SIM support right out of the box. The main SIM slot houses a nano SIM card, while the second compartment is shared by a micro SIM and microSD card - you can't have both at the same time.</paragraph>
+			<paragraph>Local connectivity is covered by dual-band Wi-Fi a/b/g/n/ac with DLNA, so you can easily play media (photos, videos, music) from DLNA-enabled storage devices or push content from your phone to a DLNA-compatible TV or music player. There's display sharing over Wi-Fi as well.</paragraph>
+			<paragraph>Bluetooth 4.0 is also on board with A2DP, EDR. GPS and GLONASS support is enabled.</paragraph>
+			<paragraph>There's no FM Radio on board, nor an IR port. NFC and USB On-The-Go are available.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Color OS 2.0 on top of Android KitKat<subsectionTitle>
+			<paragraph>Oppo N3 runs on Oppo's proprietary Color OS v2.0, which is another name for a heavily skinned Android 4.4 KitKat. The Oppo's launcher customizations run very deep, they keep all Google apps and services, and even bring quite a few of its own - themes support, new lockscreen, homescreen, and settings menu among others.</paragraph>
+			<paragraph>If you are not into custom UIs, there is a preinstalled theme called Jelly Bean, which replicates the stock Android Jelly Bean UI for you as close as possible.</paragraph>
+			<paragraph>Here's a quick Color OS rundown on video to get you started:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Color OS default lockscreen uses swipe gesture for unlocking. It also has shortcuts for the Phone and Messaging apps. Double tap to wake works on the homescreen, but not on the capacitive keys.</paragraph>
+			<paragraph>Oppo N3 features a fingerprint scanner on its back, so your can protect you lockscreen by a fingerprint-recognition security. Naturally, you'll have to setup a password in case you can't unlock it with your finger for some reason. The fingerprint sensor over the back doubles as a wake up key, when this type of security is up.</paragraph>
+			<paragraph>The fingerprint security can also be used for encrypting apps - you'll need your finger to open any encrypted apps.</paragraph>
+			<paragraph>The lockscreen also has a hidden flashlight shortcut - a press and hold of the Home button (the screen needs to be awake) turns on the LED flash on the back of the device. It turns off when you let go of the Home button.</paragraph>
+			<paragraph>The Oppo N3 doesn't have an app drawer, so all of your app shortcuts are available on the homescreen. And the apps above the dock are organized in a grid of 4x5.</paragraph>
+			<paragraph>Widgets are available as well, though there are hardly as many as some other Android smartphones offer these days.</paragraph>
+			<paragraph>Naturally, folders are available, so you ca group your apps the way you like.</paragraph>
+			<paragraph>Exclusive space is Oppo's custom homescreen page. Currently, there are only two available - Photo and Music spaces. Photo space takes up a whole homescreen and features a live viewfinder so you can take shots straight from your homescreen plus a shortcut to the full camera app. Below you get a timeline with all your recent photos and you can share them very easily.</paragraph>
+			<paragraph>The second Exclusive space homescreen pane is the Music space. It features a cool, if slightly unintuitive design with a vinyl for changing the currently playing song and stopping/resuming playback. You can change songs, or go directly to the music player or the Phone app from here.</paragraph>
+			<paragraph>Oppo's Color OS supports themes, one of which changes the appearance and functionality of Color OS to match that of stock Android. There are plenty of awesome themes available for free in the Oppo's Theme Store.</paragraph>
+			<paragraph>By default the notification area will show one row of quick toggles, a brightness slider and a shortcut for enabling auto brightness mode, the current notifications plus a shortcut to go into settings. If you do a drag gesture from the quick toggles row you get two more lines of toggles. There's also a Kill all apps button there.</paragraph>
+			<paragraph>A long press on a toggle will bring up its respective settings entry. By the way, you can access the notification area even if you slide down from any empty part of the homescreen (not just the top), which helps a lot with the single-handed use on a big screen smartphone like this one.</paragraph>
+			<paragraph>The task switcher is pretty close to the one found in Apple's iOS. All your apps are shown in a horizontally-scrollable grid of thumbnails, which you swipe either up to close or tap to open. Oppo has added a Kill All toggle at the bottom.</paragraph>
+			<paragraph>Then there's the Gesture panel. You access it just like you would open your notification area, but you need to start your swipe from the bottom of the screen. You can perform various gestures in the Gesture panel to open different apps. For instance drawing a circle would open the camera app but you can assign any apps to any gestures you want.</paragraph>
+			<paragraph>The Gesture &amp; motion menu deserves our attention as well. It holds all the gestures and motion tricks that make your life with the N3 easier. For one, you can swipe with three fingers across the screen to capture a screenshot or pinch with several fingers to launch the camera and more.</paragraph>
+			<paragraph>The Motion options are very useful, too - flipping the device will mute the ringer, raising the ringing Oppo N3 to your ear will automatically answer the call and more. The Motion menu also offers Air Gestures on the homescreen - you can swipe through the panes by waving your hand over the display.</paragraph>
+			<paragraph>One hand mode is available too, activated by an upward swipe from the bottom left or right corner. When done, this will minimize the UI into a more compact window, making it possible to use and operate the handset with just one hand.</paragraph>
+			<paragraph>Overall, Color OS strives to be more feature rich than stock Android and has been customized quite deeply. It is still Android though, so users who are familiar with the OS won't have trouble knowing their way around Color OS. In fact most of Oppo's additions are quite welcome and improve the overall user experience.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Snapdragon 801 in charge<subsectionTitle>
+			<paragraph>The Oppo N3 is built around a capable Qualcomm Snapdragon 801 chipset. It's got a quad-core 2.3GHz CPU and an Adreno 330 graphics chip. The N3 offers 2GB of RAM. It's an overlal respectable setup but nothing to ogle at. Smartphones are starting to utilize the more powerful Snapdragon 805 with Adreno 420 and 3GB of RAM is quickly becoming the norm.</paragraph>
+			<paragraph>Still, the Oppo N3 shares an identical setup with the likes of the Samsung Galaxy S5, the HTC One (M8), the LG's G3, the OnePlus One and Oppo's own Find 7 series, so you can bet the chipset is no slouch either.</paragraph>
+			<paragraph>The next couple of benchmarks show the CPU-specific and overall performance. GeekBench 3 and AnTuTu 5 focus on the entire platform and give the Oppo N3 an okay result but it's still way behind the cream of the crop.</paragraph>
+			<paragraph>Basemark OS II shows a capable overall score regarding the CPU performance but the breakdown of single and multi-core scores isn't as impressive. Single-core performance on the Oppo N3 is in line with its Snapdragon 801 peers but multi-core one falls behind. Keep in mind that these scores have loads to do with vendor-specific optimization - otherwise all Snapdragon 801-yellding phones will have identical scores.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Graphics on the Oppo N3 are handled by the Adreno 330 GPU. Its test scores show that it gives way to the superior GPUs found inside the Apple iPhone 6 Plus or the Adreno 420 one in the Motorola Nexus 6 and Samsung Galaxy Note 4.</paragraph>
+			<paragraph>Among its peers with a Snapdragon 801 chipsets and 1080p screens the Oppo N3 clinched the very last spot besting only the PowerVR G6200 Meizu MX4 and Adreno 405 Oppo R5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Browsing performance is measured in dedicated HTML 5 and JavaScript tests. In this discipline the Oppo N3's hardware and software make for a middling performer at best. HTML 5 was very poor tying the Oppo N3 to a second to last place.</paragraph>
+			<paragraph>There was more hope with JavaScript performance where the N3 managed to squeeze out a better score more or less in line with the Oppo Find 7 and 7a and the LG G3.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Oppo N3 didn't give us a thrilling ride with its hardware rig but didn't disappoint either. The scores it was able to put out were in line with what a Snapdragon 801 chip can produce.</paragraph>
+			<paragraph>It seems the Oppo N3 was let down by poor optimization of the hardware and software as it was bested by most devices running the same hardware build. Of course, these results hardly translate ideally into real world performance.</paragraph>
+			<paragraph>Our impressions are that the Oppo N3 handles beautifully and we didn't experience any hiccups or slow-downs on Color OS 2.0. The software flies through animations and opens up apps as quick as the next flagship. You'd really have trouble finding something to frown at in real life usage.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook and dual-SIM telephony<subsectionTitle>
+			<paragraph>The phonebook uses a tabbed interface - it offers groups, then there's the contact list and favorites. The UI is pretty standard Android affair, save for the custom paintjob.</paragraph>
+			<paragraph>A tap on a contact's photo brings out Quick contacts - shortcuts for calling, texting, emailing a contact and a bit more (e.g. a Chrome shortcut to visit their web site).</paragraph>
+			<paragraph>Contact info is displayed as a list of all available details. Custom ringtones can be selected for each contact and duplicate contacts can be merged into a single entry.</paragraph>
+			<paragraph>Contact syncing tools are very powerful - contacts can be moved or copied between phone storage and a Google account, they can be synced with an Exchange server or Facebook, and you can send / import contacts over Bluetooth.</paragraph>
+			<paragraph>There's an Anti-harassment mode located in the contacts app, which is pretty powerful. You can put numbers in a blacklist, block messages and intercept spam calls. The strange thing is, you can't block people from within the messaging or phone app - only in the contacts app.</paragraph>
+			<paragraph>The dialer supports Smart dialing just fine (looking up both names and phone numbers).</paragraph>
+			<paragraph>If you've decided to use the microSD compartment for a second SIM instead, you'll get two Dial keys, one for each SIM. The SIM manager in the settings will pop up too, allowing you to setup your SIM defaults - for calls, messaging and data connection.</paragraph>
+			<paragraph>By default the Oppo N3 scored a Good mark on our loudspeaker test, which means you should have no problem hearing it in all but the loudest of environments.</paragraph>
+			<paragraph>Then we went and tweaked the Wave Maxx Audio sound setting, which also applies for the loudspeaker, and the Oppo N3 scored an Excellent score without sacrificing the sound quality.</paragraph>
+			<paragraph>So, if the default speaker loudness isn't enough for you, Maxx Audio will definitely help.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and email<subsectionTitle>
+			<paragraph>The messaging department is a pretty standard affair - there's a list of all bubble-styled conversations organized into threads, with a big New Message button at the bottom and a settings button next to it.</paragraph>
+			<paragraph>Attaching multimedia to a message will turn it into an MMS. You can add everything from photos, videos, audio to general files. There's even a full blown slide editor if you want to make full use of the MMS standard. The Attach location option is pretty nice too.</paragraph>
+			<paragraph>Hangouts is also included and supports SMS.</paragraph>
+			<paragraph>Moving on to email, the Gmail app has handy shortcuts at the bottom of the screen and supports batch operations, which allow multiple emails to be archived, labeled or deleted. The default app supports multiple Gmail accounts, but there's no unified inbox.</paragraph>
+			<paragraph>A cool feature in Gmail is that you can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>The Oppo N3 offers a great Swype-enabled keyboard with big keys and they become even bigger when you switch to landscape mode - the wide screen is remarkably comfortable for two-thumb typing.</paragraph>
+			<paragraph>There is an option to change the individual key height in both portrait and landscape, which isn't found that often. Keyboard themes are available too. You can also have split or mini keyboard layouts.</paragraph>
+			<paragraph>Placing the device in landscape expands the keyboard immensely but leaves too little space for the text box above and we found ourselves never really using landscape as the portrait keyboard was spacious enough.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>An Oppo gallery<subsectionTitle>
+			<paragraph>The Gallery on the Oppo N3 is a custom job, but surprisingly one with less features than the vanilla app. Obviously, Oppo has approached this interface with a less-is-more mindset.</paragraph>
+			<paragraph>The default view is a grid of folders, with a name and number of images for each folder labeled underneath. You can't filter images by location, time, people or tags like you would in the stock app. Images inside folders are arranged on a rectangular grid and you have two options - image selection mode and start a slideshow. You can select multiple images (folders too) and then Share and Delete options become available.</paragraph>
+			<paragraph>The available features when viewing a single image are pretty standard - set image as wallpaper/contact image, share it, delete it or get a menu with more functions.</paragraph>
+			<paragraph>The image editor offers light adjustments that let you bring out the shadows or the highlights, you can apply effects, color styles, red eye correction, straightening, sharpening and face glow (which detects faces automatically). Most of these options have a slider that lets you fine-tune the intensity of the effect.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The Oppo N3 comes with a pretty simple-looking video player, which supports DivX, AVI, MKV, MP4, etc. We had no issues playing files all the way up to 1080p resolution and the only real setback were certain files with XviD video or AC3 sound.</paragraph>
+			<paragraph>The interface for video selection is pretty basic too - a list of all available files. While watching a video you get a timeline scrubber, play/pause along with forward/back controls, a lock option (which locks the display against accidental touches) and a pop up toggle.</paragraph>
+			<paragraph>The player supports subtitles too, but there's only an on/off toggle here, you can't manually pick the subtitle file (so it would have to have the same name as the video file to work, and be in the same directory). Also, some foreign language subtitles didn't display all characters correctly.</paragraph>
+			<paragraph>A feature that seems lifted right off the Samsung/LG flagships is the pop-up player. It plays your video in a small floating window, so you can use other apps while watching it. You can move it around to get it out of the way, but there's no transparency option.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with Maxx Audio and Dirac HD<subsectionTitle>
+			<paragraph>Oppo's latest music player has a simple interface and is very easy to use and navigate. The music player UI is pretty straightforward - your music library is organized into a local list of all music, favorites, artists, albums and folders. There's also an option to add a playlist.</paragraph>
+			<paragraph>The music app supports Wave MaxxAudio as well as Dirac HD Audio. The Maxx Audio enhancements apply on all music-related apps and games no matter if you are using headphones or the loudspeaker. There are a few Wave presets you can use, but you can also create a custom preset by yourself.</paragraph>
+			<paragraph>The Now playing interface is split into two - the current playlist and the album art/music controls screen. You can swipe between the two. By default the player will look for lyrics and display them under the album art, which imitates a vinyl record. You can add album art if it's not built inside the tracks (but the player won't look for it automatically).</paragraph>
+			<paragraph>There's a playback mode button (normal, shuffle, repeat track) and a toggle for audio enhancement. That toggles Dirac HD on and off.</paragraph>
+			<paragraph>By the way, the music player successfully played a 16-bit FLAC file so there is hardly a format it won't play.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is good<subsectionTitle>
+			<paragraph>The Oppo N3 did splendidly in the first part of our audio quality test, where it had to show how it works with an active external amplifier. The phablet achieved excellent scores top to bottom and garnished them with nicely high volume levels - in fact it provided some of the loudest output we've seen.</paragraph>
+			<paragraph>Plug in a pair of headphones, though, and issues begin to appear. The frequency response gets slightly shaky, the stereo crosstalk rises and the volume level, while still above average, is no longer that impressive. We also get a bit of intermodulation distortion, so we can't give a perfect overall mark, but the results are certainly good.</paragraph>
+			<paragraph>And here go the results so you can see everything for yourselves.</paragraph>
+			<paragraph> Oppo N3 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>16MP motorized rotating camera<subsectionTitle>
+			<paragraph>The Oppo N3 comes with an 16MP camera built around a 1/2.3" OmniVision OV16825 sensor with 1.34µm pixel size and f/2.2 aperture. What's more interesting about the camera is what it sits on - the motorized lens element can rotate 206 degrees and can act as both a back camera and a front-facing one.</paragraph>
+			<paragraph>The camera interface has two control sidebars in the viewfinder, the right one holding the still and video buttons and a gallery shortcut, while the left one is for settings and flash.</paragraph>
+			<paragraph>The right sidebar is expandable and it holds shortcuts for the different shooting modes - Beauty, Panorama, HDR, Ultra HD, RAW, Expert, Macro, Slow Shutter and Normal. The Expert mode gives you control over the exposure compensation, shutter speed, ISO, white balance and manual focus.</paragraph>
+			<paragraph>There is Add apps key, which takes you to a dedicated repository for camera applications. This is where we found the RAW and HDR modes, they weren't initially pre-installed on our unit.</paragraph>
+			<paragraph>The included O-Click Bluetooth Remote can act as a shutter for the Oppo N3 and it can also control the camera rotation. It's a great feature to have and we found the reach of the Bluetooth accessory to be great for timed shots.</paragraph>
+			<paragraph>The still shots that we got with the Oppo N3 were every bit as impressive as the motorized lens would suggest. Detail is great throughout the frame with no softness whatsoever in the images. Colors were spot on and not oversaturated although some prefer them a bit punchier.</paragraph>
+			<paragraph>Everything came out nice and sharp and we didn't get any misfocused shots. The white balance was mostly correct although we did get a couple of images with a colder look.</paragraph>
+			<paragraph>The Oppo N3 did produce quite a bit of lens flare in some occasions where there was sun peeking in the image but that's to be expected in these conditions. The N3 could get very up close with objects and snap good macro samples.</paragraph>
+			<paragraph>One thing that we would've liked to see less of is noise. It was evident in most photos, even those captured in auto ISO (at ISO 100) in bright daylight. Noise is especially noticeable in solid colors - like the sky.</paragraph>
+			<paragraph>Oppo has supplied its Ultra HD feature on the N3. Ultra HD is an intriguing feature, advertised as Super Zoom. It snaps a few (probably 16MP) photos in a flash and then merges them to create a reportedly pixel-perfect rendering of the scene which it then upscales to either 32MP or 64MP, giving you plenty of room for zooming and cropping after the fact of shooting.</paragraph>
+			<paragraph>The images take a bit to capture, around twice as much as an HDR would take and the result isn't quite perfect. The images clearly don't offer the amount of detail you would expect from a 32MP image but if you're not into pixel-peeping, these shots are superior to the regular ones produced by the camera.</paragraph>
+			<paragraph>At the maximum resolution of 64MP you'll get even more impressive results. Again at 100% magnification, the image is a bit soft and noise is more evident than in the 16MP snaps. But zoom out a bit and you get an overall superb image that could be happily used for a huge printed photo.</paragraph>
+			<paragraph>Ultra HD is a very clever software implementation. It's not perfect but if you have the patience to snap a well-lit photo and then use it below 100% magnification you can get a seriously good landscape picture.</paragraph>
+			<paragraph>HDR mode aims to capture a scene with well-exposed shadows and highlights that are not blown-out. Some makers have tuned their software to capture two or three images - an underexposed one, an overexposed one and sometimes a standard image and then blend them into a single images with balanced exposure.</paragraph>
+			<paragraph>In Oppo's case we guess that the HDR mode is similar to the dynamic range optimizer options in dedicated cameras - in DRO mode the camera snaps a photo and then tries to rescue some shadow detail via software enhancement.</paragraph>
+			<paragraph>In any case the HDR function of the Oppo N3 isn't the most impressive around. Shadows are ever so slightly brought back while highlights are almost the same.</paragraph>
+			<paragraph>The panorama mode uses the motorized lens to its fullest. What is required of the shooter is to set the phone to the starting point and hit the virtual shutter button. The motorized lens will automatically rotate until it reaches the full 206 degrees or until you stop it - simple as that.</paragraph>
+			<paragraph>The panoramas themselves are stitched very well but suffer from the same issues we see with most makers - the exposure is locked at the starting point and scenes with varying lighting get a messy exposure (as it happened below - look at the overexposed gray and white buildings in the center).</paragraph>
+			<paragraph>If you want to do some extra pixel peeping you can do so in our photo quality comparison tool below. We've enrolled the Oppo N3 and you can face it off against any of the many phones in our test database.</paragraph>
+			<paragraph>   Oppo N3 in our photo compare test</paragraph>
+			<paragraph>The Oppo N3 is a great still shooter. All the issues it has could be fixed with some software tweaking which Oppo could easily work on. Detail is plentiful in the frame and the N3 has no issues with sharpness or color balance. Noise is evident even in good light but this could be kept in check with better software optimization.</paragraph>
+			<paragraph>The rotating camera lens is great and is implemented very well. Panorama mode is seamless and the ability to use the O-Click Bluetooth remote adds some skill to an otherwise simple package.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>No 4K video recording at the moment<subsectionTitle>
+			<paragraph>The Oppo N3 has the hardware platform to offer UHD (4K) videos but it doesn't. We're told that 4K could arrive later on for the N3.</paragraph>
+			<paragraph>The Oppo N3 comes with 1080p at 30fps as the maximum quality option. You can also snap slow-motion video at 120fps in 720p although the N3 outputs them upscaled to 1080p resolution at 28 fps.</paragraph>
+			<paragraph>The 30fps videos in 1080p mode don't shine with very impressive detail. Objects in the videos appear blurry and there are some sharpening artefacts here and there that suggest the software is amping sharpness way too high.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Slow motion video is noticeably worse when it comes to detail but things are nice and slow, as you could expect.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We hope that the issues with oversharpening and poor detail could be attributed to poor software optimization but as things stand right now, the Oppo N3 isn't a good camcorder, compared to most smartphones in the same price bracket.</paragraph>
+			<paragraph>Here goes a 1080p@30fps (00:10s, 13.0MB) sample for direct download.</paragraph>
+			<paragraph>And finally here's the Oppo N3 in our video quality comparison tool. You can see how the 1080p video of the N3 compares to other 1080p and 4K smartphones. The lab results make the oversharpening issues more obvious, especially in lower light.</paragraph>
+			<paragraph>   Oppo N3 1080p in our Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Chrome web browser<subsectionTitle>
+			<paragraph>The Oppo N3 comes with Google Chrome as its preinstalled browser. The interface is the same as on any other Android smartphone - clean and minimalist.</paragraph>
+			<paragraph>Opening the tabs area reveals a list of tabs which can be closed with a left or right swipe. Incognito tabs are supported too.</paragraph>
+			<paragraph>Of course, one of Chrome's strengths is its ability to seamlessly sync with its desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+			<paragraph>Google Chrome is generous on customizable settings as well. You can control almost every aspect of your web browsing by choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups.</paragraph>
+			<paragraph>The Reduce data usage option does what it says on the tin - Google servers compress the webpage (using Google-developed tech like SPDY and WebP) and only then send it to the phone.</paragraph>
+			<paragraph>Unfortunately, Chrome still doesn't offer a Reading mode like its completion from iOS and Windows Phone.</paragraph>
+			<paragraph>Note that our Oppo N3 also came with a proprietary browser using similar browser engine to Google Chrome. It was as fast as Chrome, and offers similar functionality. The Google sync is available only on Google Chrome though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>Perhaps the highlight of Oppo's homebrewed apps is the Security Center app. It lets you control all sorts of features from call/message privacy and Quiet Time settings, to phone optimization and app permissions, app encryption, to network and battery usage. The phone's Guest Mode is also activated from within this app.</paragraph>
+			<paragraph>The Oppo N3 comes with Kingsoft Office preinstalled. It's a pretty powerful office editor that can handle Word docs, PDFs, Spreadsheets and Presentations. It can link to cloud storage, email files, create a shared view with other users and more. There's editing enabled too so you can even get some work done on the go.</paragraph>
+			<paragraph>Kingsoft has since dropped support for its Office application, and has instead published an updated version under the name of WPS Office.</paragraph>
+			<paragraph>The calendar app has three views that you can swipe between. First is the Year view, which aggregates all 12 months with all of their days, a month view, which has little red dots for events and the agenda view, which is a vertically scrollable grid of events.</paragraph>
+			<paragraph>Sadly, year view doesn't show little dots for events even though the screen is large and high-res enough to allow it.</paragraph>
+			<paragraph>The clock app supports multiple alarms, each with its own repeat time, ring tone, volume, snooze interval and note. The app also offers a world clock, a stop watch and a timer.</paragraph>
+			<paragraph>A Calculator app is available, too.</paragraph>
+			<paragraph>The Keep app lets you create complex notes with text, images and hand drawn notes. You can even set a password for your notes.</paragraph>
+			<paragraph>The Tools folder is preloaded with a few apps that you usually have to get from the Google Play app store. There's a Flashlight app, a sound recorder and a 3D compass.</paragraph>
+			<paragraph>The phone comes with a capable file manager out of box. Its interface is laid out over two tabs, the first one organizes files by category, while the second is a traditional folder browser.</paragraph>
+			<paragraph>Files and folders can be copied, moved, deleted, renamed and compressed to ZIP (and ZIP files can be extracted). Batch operations are supported. The folder browser has list and grid views and you can change the sorting method. The system can be encrypted and password protected, too.</paragraph>
+			<paragraph>The file browser also has built in DLNA and FTP server support, which makes it easy to access multimedia and general files on another device.</paragraph>
+			<paragraph>Google Now, accessed by swiping up from any of the navigation buttons, integrates with your Google account and can access your daily routine, internet searches, mailbox, etc. and give you information relevant to your interests and daily needs.</paragraph>
+			<paragraph>It provides traffic information to your work or home, it knows the scores of sports teams you follow and gives you the weather forecast for your location, tracks your packages, and fetches you relevant info for your upcoming flights and hotel stays.</paragraph>
+			<paragraph>It's great for at-a-glance info, but can handle voice Google searches as well. It also has a dedicated homescreen/lockscreen widget.</paragraph>
+			<paragraph>The Oppo N3 comes with a GPS/GLONASS receiver. A-GPS can speed this up quite a bit, but requires Internet access.</paragraph>
+			<paragraph>If rough positioning will do, Cell-ID and Wi-Fi positioning are on it. Wi-Fi positioning can work even if Wi-Fi is disabled or you can turn this off to save battery.</paragraph>
+			<paragraph>The Oppo N3 comes with Google Maps and Navigation. These offer voice-guided navigation including public transport connections but require an internet connection.</paragraph>
+			<paragraph>Maps show alternative routes and you can see alerts if there are any potential holdbacks along your route like construction zones, traffic jams and so on. Google's involvement with the live traffic info crowd-sourcing app - Waze - seems to be paying off.</paragraph>
+			<paragraph>The app also supports the Street View mode, allowing you to see the landmarks you're looking for before you set off. That makes them much easier to find when you arrive.</paragraph>
+			<paragraph>The Google Play Store features several scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. Apps usually have several screenshots (some even offer a demo video) so you can get an idea of what the app looks like before installing it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings:<subsectionTitle>
+			<paragraph>The body is made of premium matte plastic and aluminum</paragraph>
+			<paragraph>The arch at the bottom looks classy with the catchy notification LED</paragraph>
+			<paragraph>The motorized camera lens moves effortlessly and seems convenient</paragraph>
+			<paragraph>The fingerprint scanner is easy and quick to use, practical too</paragraph>
+			<paragraph>Display has punchy colors and great viewing angles, does well outdoors; the 5.5" panel offers great brightness and good contrast</paragraph>
+			<paragraph>Battery life is unimpressive considering the ample battery capacity</paragraph>
+			<paragraph>Color OS 2.0 is fluid and responsive and offers value-adding proprietary features as well as a stock Android theme</paragraph>
+			<paragraph>Synthetic benchmarks performance is average for this hardware bracket</paragraph>
+			<paragraph>Loudspeaker performance got a Good score, but with some tinkering of the Wave Maxx Audio sound setup, you can even get it to Excellent</paragraph>
+			<paragraph>Good video player codec support (no AC3 sound), pop-up play is great on the big display, subtitle support is a plus</paragraph>
+			<paragraph>Audio output quality is good</paragraph>
+			<paragraph>Camera takes sharp detailed images with good colors</paragraph>
+			<paragraph>The current lack of 4K video is a bummer but 1080p videos are okay, a little oversharpened to the point where we see artefacts</paragraph>
+			<paragraph>What many are looking for in the Oppo N3 is a capable shooter - a motorized lens is nothing more than a gimmick that gets in the way if the stills and video don't back it up. The Oppo N3 may not be the best cameraphone we've tested but is quite good and would suit the majority of users.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>It's clear the Oppo N3 is more than just a robust cameraphone with a quirky motorized lens - it's Oppo's current flagship. The Oppo Find 7 may have something to say about that with its 5.5" QHD display, 3GB of RAM and stereo speakers but it can't compete on camera skills and doesn't feel half as premium.</paragraph>
+			<paragraph>The Oppo N3 isn't just another great deal from the East - it has flagship innards, premium looks and a matching price tag. At the moment the Oppo N3 will cost you a prettier penny than some true international droid flagships would.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>So what has the N3 done to deserve its hefty price tag? Well for one, it can stand up to most premium smartphones out there and not feel ashamed. Oppo has made one of the best-feeling smartphones ever - the soft, matte plastic and its perfect blend with the high-grade aluminum frame look and feel great, despite the fact that the Oppo N3 isn't the easiest 5.5" device to handle.</paragraph>
+			<paragraph>Here's the summary of all the things we've found during our run with it.</paragraph>
+			<paragraph>The software combines nicely with the hardware and you can move the motorized lens around for the right shot with either the touchscreen or the O-Click Bluetooth remote while panoramas seamlessly capture themselves and that's a first for the mobile world.</paragraph>
+			<paragraph>Video is not terrific but could get better if Oppo gets around to releasing an update that will enable 4K video. 1080p clips aren't too bad but don't strike us as anything special either.</paragraph>
+			<paragraph>If the camera is the piece de resistance, the trimmings aren't half bad either. The Snapdragon 801 doesn't command the same respect now that the Snapdragon 805 is around but it can still pack a formidable punch.</paragraph>
+			<paragraph>QHD screens may be on the rise but 1080p at around 400ppi is sharp enough in our eyes.</paragraph>
+			<paragraph>Currently the Oppo N3 is priced at $649. That's a relatively high price and puts the N3 at a disadvantage compared to its peers, especially the China-based ones.</paragraph>
+			<paragraph>The Meizu MX4 and MX4 Pro duo both cost less than the Oppo N3 and have a similar sized screens, 20.7MP Sony-made cameras and clever software with some neat gestures.</paragraph>
+			<paragraph>  Meizu MX4 ? Meizu MX4 Pro</paragraph>
+			<paragraph>Oppo's own Find 7 is a cheaper than the N3 at the moment and ups the ante with the same display size but of a much higher 1440 x 2560px resolution, resulting in 534ppi of sharpness. The Find 7 also has 3GB of RAM but poorer battery performance. The Find 7a is almost the same beast but with a more conventional 1080p display resolution. It's cheaper and does 4K video out of the box.</paragraph>
+			<paragraph>  Oppo Find 7 ? Oppo Find 7a</paragraph>
+			<paragraph>A popular Chinese-made option is the OnePlus One. It's harder to purchase but it has most of the N3's hardware advancements, except the swivel camera, in a more compact, more customizable body. The OnePlus One offers a cleaner, stock Android CyanogenMod 11S software platform and costs almost twice as less compared to the Oppo N3.</paragraph>
+			<paragraph> OnePlus One</paragraph>
+			<paragraph>Finally, we come to the LG G3, which also costs less at the moment. The G3 has the benefit of being available globally and it is featured in most walk-in stores with local warranties. You can also probably get the G3 for close to nothing on a carrier contract and it will offer you the same 5.5" screen diagonal but with a higher QHD resolution. It's camera doesn't rotate but can still capture nicely those all-important shots.</paragraph>
+			<paragraph> LG G3</paragraph>
+			<paragraph>The Oppo N3 consistently performed very well throughout this review but it was not the best in any department. Still, it didn't let us down anywhere and we'll be happy to see it gain more market share than the N1, which hardly made it outside China.</paragraph>
+			<paragraph>There's little doubt a more competitive price will certainly help the N3 make the splash it deserves. As for Oppo, the company is trying to distance itself from the discounter image. They have been delivering quality and innovation consistently enough but users' expectations won't change overnight.</paragraph>
+		</subsection>
+	</page>
+</review>

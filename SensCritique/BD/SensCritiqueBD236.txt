@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>The Woods, tome 1</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/The_Woods_tome_1/19671988</link>
+	<generalScore>6.8</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>16</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Promenons nous...</title>
+		<author>JunonBee</author>
+		<date>2016-03-14</date>
+		<score>0.7</score>
+		<content>Un début prometteur pour cette Ecole emportée à la mode US.</content>
+	</review>
+	<review>
+		<title>Promenade mortelle dans le bois d'un univers inconnu.</title>
+		<author>Gzaltan</author>
+		<date>2016-03-04</date>
+		<score>0.7</score>
+		<content>La couverture a attiré mon regard, et me voici parti dans l'aventure de "The Woods". C'est le genre d'histoire comme je les aime. Un groupe d'adolescents propulsés dans un autre monde et devant apprendre à se débrouiller seuls tout en affrontant les dangers de ce nouvel univers. Bon, ici, les ados ont emporté tous leur lycée, leurs profs, et tous leurs petits camarades dans cette aventure. Cela nous donne une histoire se divisant en deux actions : l'aventure des personnages principaux. Et la lutte de pouvoirs entre profs, éléves, proviseurs pour savoir comment faire face de la meilleure façon à la situation de crise auquel ils font face. Histoire aux graphismes très appréciables, les personnages principaux sont tous développés l'un après l'autre à chaque nouveau chapitre. Si le premier portrait que nous avons d'eux peut paraître cliché (la renfermé, le gros dur, le plus gros dur mais sensible, le timide, la première de la classe, et le mec intelligent et méprisant), les protagonistes se révèlent avoir des facettes de personnalité inattendues, les rendant bien plus profonds que de simples ados boutonneux. Que ce soit dans leurs ressources insoupçonnées, leurs sentiments ou leur personnalité, chaque personnage est un univers à lui à découvrir, et bien vite, nous nous attachons suffisamment à eux pour craindre pour sécurité. Et des dangers, il y en a, et il semblerait que uniquement dans ce tome 1, nous n'ayons pas tout vu. Que ce soit la faune qui s'avère particulièrement dangereuse, les dangers que nous n'avons encore vu, les changements ou évolutions de caractère de certains personnages, ou la folie grandissante de personnes de confiance, The Woods nous fait saliver de l'arrivée du second tome.</content>
+	</review>
+</sensCritiqueEntity>

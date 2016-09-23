@@ -1,0 +1,104 @@
+<review>
+	<title>Samsung Galaxy Mini S5570 Preview</title>
+	<description>First Look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_mini_s5570-review-560.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Mini phones are a hot commodity. They are desirable and fill a market gap of small, easy-to-carry devices, which can lift mountains despite their size. Now Samsung wants to have a go at that market with the Galaxy Mini S5570.</paragraph>
+			<paragraph>The Samsung Galaxy Mini S5570 is expected to be pretty affordable for what it has to offer and that?s always a good thing. Powering the device is an ARMv6 600Mhz, which doesn?t sound like much, but with Froyo 2.2 on top, it?s sufficient for everyday usage.</paragraph>
+			<paragraph>Here?s a list of what the Samsung Galaxy Mini S5570 will offer you.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Mini S5570 ? at a glance:<subsectionTitle>
+			<paragraph>As you can see the major compromise in the specs sheet is the screen resolution. Android looks bad on QVGA screens. Samsung have done some sub pixel modifications to the fonts and icons to make them look good and more legible on the Galaxy Mini but we feel that will remain our primary grudge with the handset.</paragraph>
+			<paragraph>On the positive side, that compromise might as well mean that the Galaxy Mini will be among the most affordable Android smartphones on the market.</paragraph>
+			<paragraph>The Samsung Galaxy Mini S5570 feels nice in hand. It has a thin profile and the materials used are nice to touch.</paragraph>
+			<paragraph>We have the pleasure of getting a pre-release test unit and since it?s an early prototype, it?s not quite ready for prime time so we?ll be doing only a quick preview of the device instead of a full-fledged review.</paragraph>
+			<paragraph>Preview or not, you?ll find a due hardware and software inspection on the pages to follow.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Mini S5570 360-degree spin<subsectionTitle>
+			<paragraph>The Galaxy Mini S5570 is made entirely out of plastic, but the materials look high quality. Its got a compact size at 110,4 x 60,8 x 12,1 mm and a really acceptable weight at 105 grams though at first glance you?d expect it to be feel lighter.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The cool-ish green accent around the edges of the Samsung Galaxy Mini gives it a nice flamboyant look. An extra design touch is the home button, which has a special texture to it and green outlines.</paragraph>
+			<paragraph>At the front panel a 3.2? TFT capacitive touchscreen sports a resolution of 240x320 pixels. It doesn?t sound like much and truthfully, it isn?t. And it?s one thing that won?t be subject to change before the handset hits mass production. Although the screen color rendering, brightness and contrast are fine, the low screen resolution just ruins everything.</paragraph>
+			<paragraph>Viewing angles are good though and the capacitive sensor is well calibrated. Despite the low resolution of the display, the screen scores some points back by having really decent sunlight legibility. Using the Galaxy Mini S5570 out on a sunny day won?t be a problem at all.</paragraph>
+			<paragraph>Above the display, there?s the earpiece only. The Mini doesn't have an ambient light sensor for auto brightness adjustment. Finally a proximity sensor is there to lock the screen during calls.</paragraph>
+			<paragraph>Below the screen there are three large thumb-friendly hardware keys - the menu key in the center, the options key on the left and the back button on the right.</paragraph>
+			<paragraph>On top of the device, the Galaxy Mini S5570 sports a 3.5mm audio jack and a microUSB port.</paragraph>
+			<paragraph>On the Galaxy Mini left side, the only control is the volume rocker. On the other side the Galaxy Mini S5570 features a power/lock button and a hot-swappable microSD card slot which as the microUSB port at the top is covered with a cover against dust.</paragraph>
+			<paragraph>The matte back cover of the Galaxy Mini S5570 is textured for better grip and has the same chin that is found on the Samsung Galaxy S I9010.</paragraph>
+			<paragraph>The 3-megapixel camera at the back is fixed-focused so macro shots are no go but it should be okay for taking occasional photos.</paragraph>
+			<paragraph>Removing the back panel uncovers the 1200mAh battery and the SIM compartment. So far we don?t have an official battery life rating from the manufacturer, however during our test the Galaxy Mini S5570 kept going for 3 days of moderate usage with GSM standby and Wi-Fi on all the time.</paragraph>
+			<paragraph>Overall, the Samsung Galaxy Mini S5570 is an attractive phone that is pocket-friendly and easy to hold. The volume rocker and the big hardware buttons on the front panel are both easy to access and use. Thanks to the matte cover, the back isn?t prone to fingerprints at all, while the front could use occasional cleaning. Speaking of which, the only serious drawback of the screen upfront is the low resolution.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Samsung Galaxy Mini S5570 runs on Android 2.2 Froyo out of the box and that?s always a good thing. It probably won?t see any Gingerbread love, but the Galaxy Mini S5570 doesn?t really need it to be a compelling product.</paragraph>
+			<paragraph>To make the user interface better, Samsung has thrown its own TouchWiz skin on top of the Android?s original look. Nothing is drastically different, but the subtle design changes make the phone feel like someone has put some thought into it, rather than just squeezing in whatever they had without accounting for the low resolution.</paragraph>
+			<paragraph>As with most phones running Android, you get 7 homescreens, that can be filled with widgets (including the extra ones by Samsung), folders and shortcuts. However, if you don?t feel the need to have 7 screens around, you can reduce them via pinching any of the homescreens.</paragraph>
+			<paragraph>Doing so will speed up the overall performance too. Speaking of performance, the Galaxy Mini doesn?t support Live Wallpapers.</paragraph>
+			<paragraph>Pressing the menu button on any of the homescreens allows you to add different items (this can also be done via pressing and holding on the homescreen), add/delete homescreen panes, change the wallpaper (Live wallpapers are not supported). There?s also a shortcut to the settings menu, notification area and Google search.</paragraph>
+			<paragraph>The bottom bar holds shortcuts to the phone dialer, applications menu and contacts list. They are visible in the main menu as well, but unfortunately cannot.</paragraph>
+			<paragraph>The notification drawer has four switches for Wi-Fi, Bluetooth, sound on/off and auto rotation. As with the bottom bar shortcuts, the switches can?t be changed.</paragraph>
+			<paragraph>The music player and radio controls also appear there when the respective app is active. This way you are no further than two touches away from controlling the music or radio.</paragraph>
+			<paragraph>To make best use of the low display resolution, the TouchWiz launcher automatically renders all app icons into big buttons in lively colors. Colors change though ? the Google apps are gray, default phone apps are light orange, and user installed apps are darker orange. They can be rearranged according to your needs across unlimited number of pages.</paragraph>
+			<paragraph>Main menu pages can be rearranged too, using the same pinch gesture used to rearrange the homescreens, which we think is pretty neat. Icons can also be moved across the pages of the main menu via the menu button.</paragraph>
+			<paragraph>In typical Android fashion, holding the Home button pulls off a list of the recently used applications and a shortcut to the task manager.</paragraph>
+			<paragraph>The Samsung Galaxy Mini S5570 packs an accelerometer, which is used to rotate the screen (doesn?t work everywhere) and turn-to-mute. It can be turned on or off from the notification drawer or the settings.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good ol? gallery<subsectionTitle>
+			<paragraph>The Samsung Galaxy Mini S5570 enjoys the good ol? standard Android gallery. Images and videos are automatically located no matter where they are stored. It can even import your online photos from Google Picasa galleries.</paragraph>
+			<paragraph>The gallery shows off pretty sleek 3D effects and transitions and the Galaxy Mini S5570 has no problems keeping those gimmicks stable and fluid. The albums appear as piles of photos which fall in an organized grid upon selection.</paragraph>
+			<paragraph>Alternatively, you photos can be organized by date with the help of a button in the top right corner which switches between grid and timeline view. In grid view, there?s a date slider, which can also be used to find photos taken on a certain date.</paragraph>
+			<paragraph>Pinch zooming is also available here thanks to the Galaxy Mini S5570 multi-touch support but you can also use double tap or even the +/- virtual buttons.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>A music player that does the job<subsectionTitle>
+			<paragraph>Along with the standard 3.5 mm headphone jack, the Galaxy Mini S5570 music functionality is complemented by the great music player.</paragraph>
+			<paragraph>The interface consists of several sorting tabs: by artists, by albums, by playlists or just view all songs at once. On the bottom bar, there?s a neat button that shows you the current song that is being played and also shows the last played song when the music app is launched.</paragraph>
+			<paragraph>Galaxy Mini S5570?s music player settings are basic and straightforward. You can choose from different equalizer presets to enhance to sound to your likings. There?s an added virtualization of 5.1 audio channels and you need headphones to enjoy it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio with RDS<subsectionTitle>
+			<paragraph>The Samsung Galaxy Mini S5570 also features an FM radio with RDS. Up to four radio stations could be saved as favorites.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Trivial 3MP camera<subsectionTitle>
+			<paragraph>Equipped with a boring 3 megapixel fixed-focus camera at the back, the Samsung Galaxy Mini S5570 can take photos with a maximum resolution of 2048x1536 pixels. Unfortunately there?s neither flash nor a shutter key to help the basic camera.</paragraph>
+			<paragraph>Despite the camera?s shortcomings, the user interface that comes along with it is touch-friendly and has great built-in features such as smile shot, preset scenes on-screen guidelines and panorama mode.</paragraph>
+			<paragraph>For a 3MP snapper, the camera on the Samsung Galaxy Mini S5570 is decent. Noise levels are low and there?s a decent amount of detail in the photos (though the work of the noise reduction algorithm is visible in the trees and foliage).</paragraph>
+			<paragraph>The photos usually turn out with pleasing colors and contrast. Here are several photo samples, so you can judge for yourself.</paragraph>
+			<paragraph>The Galaxy Mini S5570 offers video recording too, and although it?s only QVGA at 15fps, so we wouldn?t use it for anything other than MMS. The video recorder?s UI looks similar to the camera?s interface.</paragraph>
+			<paragraph>Here?s a video sample of the Samsung Galaxy Mini S5570 at 15fps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Decent browser, but no Flash<subsectionTitle>
+			<paragraph>The browser is the basic Android one and is amongst the best available. It?s fast, feature-packed and stable.</paragraph>
+			<paragraph>We appreciated multitouch with the pinch to zoom functionality especially in the web browser where the text is impossible to read at 100% or even 200% zoom.</paragraph>
+			<paragraph>The Galaxy Mini S5570 browser supports text reflow ? a moment after adjusting the zoom level, columns of text adjust to fit the screen width.</paragraph>
+			<paragraph>Despite that the Galaxy Mini runs the Flash-capable Android Froyo, there is no Flash support in the web browser. The situation is quite similar with that of the Galaxy Ace, the Galaxy 551, and the LG Optimus One ? the phone?s processor doesn?t support the Adobe Flash plugin.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>Although the Samsung Galaxy Mini S5570 we have is an early pre-production sample, it was very stable during the tests and we didn?t find any faults with it.</paragraph>
+			<paragraph>The overall look and feel of the device is very good and the build quality is actually pretty solid. The Galaxy Mini S5570 is definitely a looker and if green is your color, you will definitely find it attractive.</paragraph>
+			<paragraph>The software optimization of Android 2.2 Froyo UI greatly helps the phone?s mediocre processor to get the job done, and we could even play some decent games on it.</paragraph>
+			<paragraph>Featuring great connectivity options including GPS, Wi-Fi b/g/n, Bluetooth 2.1 and 3G, the Samsung Galaxy Mini S5570 won?t leave you disconnected.</paragraph>
+			<paragraph>What was honestly a great disappointment was the low screen resolution on the otherwise big 3.2? capacitive touchscreen. We understand that Samsung had to keep the price down, but this just ruins the whole Android experience for us. The other serious flaw with it is that it doesn?t support one of Froyo?s key selling points ? the Adobe Flash plugin.</paragraph>
+			<paragraph>Other than those, the Samsung Galaxy Mini S5570 is a good entry smartphone (for a hopefully reasonable price) and we recon it would appeal to young people who look for cheap, but versatile handset.</paragraph>
+		</subsection>
+	</page>
+</review>

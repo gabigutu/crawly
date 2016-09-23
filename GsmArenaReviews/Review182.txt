@@ -1,0 +1,284 @@
+<review>
+	<title>Samsung Galaxy A9 (2016) review</title>
+	<description>A-lister</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_a9_2016-review-1380.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Available with a hybrid dual-SIM/microSD slot</paragraph>
+			<paragraph>Metal frame sandwiched between 2.5D Gorilla Glass 4</paragraph>
+			<paragraph>6" Super AMOLED of 1,080 x 1,920px resolution, ~367ppi</paragraph>
+			<paragraph>Quad-core Cortex-A72 + quad A53 processor, 3GB of RAM, Adreno 510 GPU; Snapdragon 652 chipset (also available with an Exynos chipset)</paragraph>
+			<paragraph>Android 5.1 Lollipop with TouchWiz, theme support</paragraph>
+			<paragraph>13MP camera with f/1.9 aperture and OIS; 1080p video recording; 8MP front-facing camera, 1080p video</paragraph>
+			<paragraph>32GB of built-in storage; 24GB user available; microSD slot (same as SIM2 slot on some models)</paragraph>
+			<paragraph>LTE Cat. 4 150Mbps, Wi-Fi a/b/g/n/ac, GPS, GLONASS, Bluetooth 4.1, ANT+, NFC, FM Radio</paragraph>
+			<paragraph>4,000mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No 4K video or 1080p@60fps</paragraph>
+			<paragraph>No MHL (but USB OTG is supported)</paragraph>
+			<paragraph>No notification light</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Prepare to meet the biggest premium phone Samsung has made. No, not the Note5, even that one is dwarfed by the Samsung Galaxy A9 and its 6" Super AMOLED screen.</paragraph>
+			<paragraph>The A9 is a new addition to the Galaxy A lineup (the original topped out with the 5.7" A8) and is undeniably the star of the Galaxy A series. It has a massive 6" Super AMOLED and it outruns the other As with a Snapdragon 652 chipset (an early taste of the latest Cortex-A72 processor).</paragraph>
+			<paragraph></paragraph>
+			<paragraph>There are little things too, like doubling the internal storage to 32GB, bumping the battery to 4,000mAh, upping the selfie camera to 8MP and even bringing faster LTE.</paragraph>
+			<paragraph>The Snapdragon 652 is built on the old 28nm process, but unlike the S615 used in lower-order Galaxy As, half of its cores are the fast Cortex-A72 type (the successor to the A57). A more powerful Adreno 510 GPU and 4K video capture put the cherry on top.</paragraph>
+			<paragraph>Except that's not enabled on the Galaxy A7. Like its siblings it maxes out at 1080p @ 30fps, you don't even get even 60fps. You still get the same main camera, though - 13MP f/1.9 with optical image stabilization.</paragraph>
+			<paragraph>The A5 (2016) was a lower-cost alternative to the S6, the A7 (2016) didn't quite reach S6 edge+ levels, but it was a solid upgrade over the original A7.</paragraph>
+			<paragraph>So where does the Galaxy A9 (2016) fit in? It seems like Samsung found an unoccupied niche in its lineup - a premium mid-ranger built of metal and glass with a near-tablet sized screen. Let's take a peek inside its cave and see if the monster is awake.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Samsung Galaxy A9 (2016)<subsectionTitle>
+			<paragraph>Predictably, the Samsung Galaxy A9 (2016) comes in a fairly large box. It contains the full basic set - a Quick Charge 2.0 charger (15W), a cable to go with it and a headset.</paragraph>
+			<paragraph>It's a one-piece headset with a three-button remote and in-ear plugs, Samsung's usual.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) measures a whopping 161.7 x 80.9 x 7.4mm, wider and taller than the Note5 and S6 edge+ by almost half a centimeter in either direction.</paragraph>
+			<paragraph>It's not very thick, but it certainly is heavy - 200g. Not surprising given the size, but still it adds to the feeling of awe you get when you first handle the A9.</paragraph>
+			<paragraph>While the scale is different, the floor plan remains unchanged. A metal skeleton holds up two panes of 2.5D Gorilla Glass 4.</paragraph>
+			<paragraph>The scale truly is different, though, be prepared to only hold the Galaxy A9 (2016) with one hand for reading; any active use will require two hands.</paragraph>
+			<paragraph>Several design elements compound the problem. First, the 80.9mm of width pushes your grip wide. The 7.4mm thickness is pretty good, but at that width, even this little can make the phone feel bulky. The 200g of weight combined with the slippery glass and metal exterior mean you can't relax your grip too much or risk sending the A9 to the floor.</paragraph>
+			<paragraph>Button positioning isn't ideal either - we could reach the Power button with our thumb (it was a stretch), but the Volume buttons are just too high up to reach comfortably.</paragraph>
+			<paragraph>Similarly, using the Home button - which also houses the flagship-class fingerprint reader - requires that you hold the phone low, leaving most of the massive 6" screen and 200g bulk high above your hand. As we said, single-handed grip really only works for passive media consumption.</paragraph>
+			<paragraph>The capacitive App switcher and Back keys flank the Home button and depending on which hand you use, one of them will be a reach.</paragraph>
+			<paragraph>Anyway, above the screen is the new 8MP selfie camera (up from 5MP on other A-series models), which kept the bright f/1.9 aperture.</paragraph>
+			<paragraph>The main camera on the back protrudes slightly, but not as much as on the Galaxy S6 or Note5. It's accompanied by a single-LED flash (no biometric sensors like on the Galaxy top dogs though).</paragraph>
+			<paragraph>The bottom of the Samsung Galaxy A9 (2016) is where the wired ports live - the stock microUSB 2.0 port and the 3.5mm audio jack. Squished alongside them are the loudspeaker (singular) and one of the mics (the second one is on top).</paragraph>
+			<paragraph>Our review unit (SM-A9000) is currently the only A9 version available. It has a second tray (positioned on top) that is dedicated to holding the second SIM. This way you get to have both two SIMs and expanded storage.</paragraph>
+			<paragraph>If the A9 is anything like the A5 and A7, international dual-SIM models will have a single hybrid tray can hold either two nanoSIMs or nanoSIM + microSD (but not three cards at the same time).</paragraph>
+			<paragraph>Admittedly, this is less of a problem on the A9 (2016) than it is on smaller A-phones as this one has 32GB of built-in storage. Unfortunately, a massive 7.5GB is dedicated to the system.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) comes with a massive 6" Super AMOLED display. That's the biggest unit yet unless we count the Tab S tablets.</paragraph>
+			<paragraph>It has 1080p resolution, like the other A-series phones. It's a bit of a stretch on this diagonal - most people won't mind, but in some cases, you can see a slight cross-hatch effect. There was also the flicker issue - it's imperceptible to the human eye, but the display flickers slightly (especially at lower brightness settings), which may cause irritation.</paragraph>
+			<paragraph>Other than that the display is a knockout. If you want perfectly calibrated color output, just switch to the Basic color mode as it comes with an average color deviation (deltaE 2000) of only 1.6 and a maximum of just 3.5. The other color modes are less color accurate but will probably be more eye pleasing due to their higher contrast.</paragraph>
+			<paragraph>The screen is impressively bright too, maxing out at just over 600nits when set on Auto mode. If you prefer full control, Manual mode gives you a maximum of 425nits. This, combined with the awesome AMOLED contrast, makes for a great viewing experience.</paragraph>
+			<paragraph>Under bright sunlight, the Galaxy A9 screen remains perfectly legible even at the 400 or so nits that you get from Manual mode.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) is available in single-SIM form, as well as several dual-SIM flavors.The key difference between them is where does the second SIM go - on some models it displaces the microSD, on others it goes on a second tray (our review unit, SM-A9000, is like that).</paragraph>
+			<paragraph>The phone is officially rated at LTE Cat. 4 support - that's up to 150Mbps downloads and up to 50Mbps uploads. That's strange since Snapdragon 652's X8 modem supports the Cat. 7 standard - 300Mbps down, 100Mbps up.</paragraph>
+			<paragraph>Anyway, you get 3G/4G only for one SIM - the one selected as data SIM. The other is limited to 2G/EDGE.</paragraph>
+			<paragraph>You can connect to the fastest available Wi-Fi network at 2.4GHz or 5GHz, 802.11ac is supported too.</paragraph>
+			<paragraph>Additional wireless connections include Bluetooth 4.1, NFC and ANT+. Positioning methods cover American GPS, Russian GLONASS and Chinese Beidou.</paragraph>
+			<paragraph>Wired connections are served by the microUSB 2.0 port, which does USB On-The-Go for peripherals, but lacks MHL (or other) for TV out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) has a massive 4,000mAh battery and we expect a lot from it, based on experience with the smaller A-phones. Those were using the older S615 chipset, though, this A9 unit has a Snapdragon 652.</paragraph>
+			<paragraph>The results are stellar, with an Endurance rating of 103 hours (in single-SIM mode), the Galaxy A9 is the longest-lasting Samsung phone save for the S6 active. With a second SIM the gas needle barely moves, the A9 lasted 98 hours.</paragraph>
+			<paragraph>The talk time is great at 33 hours, literally more talking than you can do in a day. The web browsing longevity is impressive, not Huawei Mate 8 impressive, but among the best aside from a few outliers. For video playback, the Galaxy A9 (2016) came second only to the LG G Flex.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) runs a TouchWiz-skinned Android 5.1.1 Lollipop. The company just updated the S6 flagship to 6.0 Marshmallow, but the A9 will have to wait for this update.</paragraph>
+			<paragraph>The fingerprint reader used on the A9 (and other 2016 A-series phones) is the same as the one on the Galaxy S6 and Note5. It recognizes a finger in under a second. All it takes to unlock the phone is to press the Home key and leave your finger for a moment longer while the fingerprint reader does its thing.</paragraph>
+			<paragraph>Size aside, the homescreen is perfectly identical to the TouchWiz home of other Samsung phones. Even the number of columns is the same - 5 icons on a row, same as the A7.</paragraph>
+			<paragraph>The Notification area is pretty busy by default. It starts with a scrollable line of quick toggles on top, then a brightness slider, then the S Finder and Quick connect buttons. You can hide them from the Edit option, which also lets you re-arrange the quick toggles.</paragraph>
+			<paragraph>The Galaxy A9 (2016) user interface is fully themeable. We only got three themes pre-installed, but the Theme store has many more to download.</paragraph>
+			<paragraph>Split-screen multitasking is supported on the A9 and the 6" screen was born to do it. Even at half a screen, apps get plenty of room (Material design likes a lot of padding though). As always, only supported apps can work in split-screen, but Samsung's implementation is the most widely supported. Floating app windows are not available, though.</paragraph>
+			<paragraph>The Samsung Galaxy A9 (2016) comes with a fairly average amount of pre-loaded apps, so we can't explain where all the storage went. The phone starts with 32GB, but a whole quarter of that (7.5GB) is left to the system. That's close to double what the 16GB A5 and A7 lost.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) is powered by Snapdragon 652 chipset - our first encounter with Qualcomm's star mid-range powerhouse. There should be an Exynos-powered A9 in some regions too, but our test unit is based on the S652.</paragraph>
+			<paragraph>So, what makes this chipset so special? It uses Cortex-A72 cores (four of them), this is the successor to the A57. They are paired with four A53 cores for power efficiency. That's better than the S810 and Exynos 7420 (which had 4x A57 + 4x A53) and a match for the Kirin 950 in the Huawei Mate 8.</paragraph>
+			<paragraph>What stops the S652 from being a flagship chipset is the old manufacturing process - 28nm (S8xx are built at 20nm, the S820 on 14nm). This limits the clocks speeds to 0.5GHz less than the Kirin chipset.</paragraph>
+			<paragraph>We should note that our experience with new 600-series Snapdragons (even the S615) is that they don't heat up much, compared to the S810, despite the difference in nanometers.</paragraph>
+			<paragraph>Anyway, the new chipset also brings Adreno 510, the next-gen GPU from Qualcomm, which promises up to 40% speed improvements and up to 40% power reduction. It also supports Vulkan, the new low-level API based on AMD Mantle.</paragraph>
+			<paragraph>Let's start with general performance. AnTuTu 6 shows a close to double improvement over the Galaxy A7 (2016) and almost matching the Exynos 7420 in the Meizu Pro 5 (but not in the Galaxy Note5). Basemark OS II 2.0 thinks the Exynos is further ahead, but it pushes the S808-powered LG V10 below the A9.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>CPU performance actually trumps the S810-based Nexus 6P on multi-threaded workloads. The low(ish) clock speed keeps the Cortex-A72 from shining in single-core tests, but it did beat the LG V10's A57 core.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GPU performance is double - or more! - what the Galaxy A7 (2016) puts out. The Adreno 510 looms close to the Adreno 418 used in the LG V10. Even the Huawei Mate 8, a CPU benchmark star released in November, struggled to open up a lead.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Only the most powerful GPUs of the previous generation top the Galaxy A9 (2016) GPU, which offers a lot of bang for the buck.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We had some reservations about the S615 chipset used in other Galaxy A series - they did okay on CPU and general tests, but 3D games had to sacrifice either frame rate or graphics quality (or both).</paragraph>
+			<paragraph>The Samsung Galaxy A9 (2016), however, holds its own against flagships not even 6 months old (without getting hot under the collar either). Now we wish Samsung used the Snapdragon 652 chipset throughout the A (2016) line.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony and loudspeaker<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) is available as a single-SIM phone, but there are versions (like our review unit) which are dual-SIM. The SIM card manager lets you pick a preferred SIM for voice, text and data.</paragraph>
+			<paragraph>This is a dual-standby phone - both SIMs listen for incoming calls, but once you're in a call, the other SIM becomes unreachable. You can set up call-forwarding though.</paragraph>
+			<paragraph>The dialer gives you two dial keys (if you put in two SIMs). The call log can even be filtered by SIM1 and SIM2, also by missed or rejected calls.</paragraph>
+			<paragraph>The Do Not Disturb mode can be put on an automated schedule. When it's on, only priority notifications can get through hand you decide what counts as "priority" - it can be anything from calls from select contacts to reminders from key apps.</paragraph>
+			<paragraph>The Samsung Galaxy A9 (2016) broke away from its pack (which scored Below Average) and pulled in an average mark. With the right ringtone the single loudspeaker can perform quite well, but don't expect much when you play music or use it in a call.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Text input<subsectionTitle>
+			<paragraph>The Galaxy A9 (2016) uses an updated version of the Samsung Keyboard. It's quite feature-packed, with a dedicated numbers row, a row above that for word suggestions and additional characters on each key (accessible via long-press).</paragraph>
+			<paragraph>If that seems too tall, you can scale the keyboard down (or up, if you want bigger keys). We don't like that the Space key is quite short, though.</paragraph>
+			<paragraph>Additional typing tools include swipe input, My Hot Keys (predefined phrases that can be typed by long-pressing a number key) and voice dictation.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>Samsung continues to bundle the Microsoft app package that includes Word, Excel, PowerPoint, OneNote and Skype. Note that only Skype was actually installed, the rest are just shortcuts to Galaxy Apps (this way they don't take up space until you actually need and install them).</paragraph>
+			<paragraph>Google Drive is pre-installed, however, the actual document editors are not (they are a free download, though).</paragraph>
+			<paragraph>The Samsung-customized web browser features Web sign in - a feature that works as a password manager secured by your fingerprint. This makes log-ins as simple as unlocking the phone.</paragraph>
+			<paragraph>S Health is on board though without the advanced sensors (heart rate, blood oxygen) its functionality is more limited. It can still track walking/running/cycling and you can manually input water and coffee intake and so on.</paragraph>
+			<paragraph>Smart Manager is a hub that controls several key areas - battery, RAM, Storage and Device security. This gives you tools to track down apps that drain the battery, use too much RAM and clean-up unnecessary files.</paragraph>
+			<paragraph>The Device Security tab lets you activate KNOX (protects the phone and OS from attacks but adds a second to boot time) and scan for malware. The My KNOX app lets you separate work and personal apps by creating a secure, isolated space on the phone.</paragraph>
+			<paragraph>The My Files app is the default file browser. It features Google Drive integration. You can ZIP folders to make them easier to share as a single file.</paragraph>
+			<paragraph>Finally, there's Galaxy Apps, Samsung's own app store. Galaxy Essentials is a good place to find great tools (like Kids Mode), but for general app shopping, you would probably be better off with Google Play.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The TouchWiz gallery orders photos by time, but you can switch to folder-based Album view. Sharing options include wireless printing, Android Beam and Wi-Fi Direct, but no DLNA (or other way to send an image to your TV).</paragraph>
+			<paragraph>Several image editing tools are available - from basic cropping, to collage making, to a more capable editor (which supports image correction, effects and drawing).</paragraph>
+			<paragraph>An additional option lets you pick several photos and stitch them into an animated GIF.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with advanced EQ features, FM radio<subsectionTitle>
+			<paragraph>The Galaxy A9 (2016) gets the full-blown Samsung music player. This includes the SoundAlive tool, which has an intuitive interface to tuning the equalizer (a manual 7-band equalizer is available for more knowledgeable users).</paragraph>
+			<paragraph>Adapt Sound is even simpler. It tunes the EQ to your hearing and your particular pair of headphones by playing multiple frequencies and asking how well you hear them. Smart Volume automatically adjusts the volume of tracks from multiple sources.</paragraph>
+			<paragraph>The player itself has a straightforward UI with most functions available as shortcuts on the Now Playing screen. You can browse files by folders, which is great if your library doesn't have well-organized ID3 tags.</paragraph>
+			<paragraph>The Galaxy A9 (2016) also has an FM radio built in (something many Galaxy flagships do not). It can record radio broadcasts (though this may be disabled in some regions). There's no RDS though so the app won't show the name of the station.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The video player is the only app that works in pop-up window, a feature dating back to the Galaxy S III.</paragraph>
+			<paragraph>You also get full subtitle support with advanced features to modify their appearance.</paragraph>
+			<paragraph>The app lets you play only the audio (if you just want to listen to a music video) and to play the audio via Bluetooth (if you have a BT-enabled speaker handy).</paragraph>
+			<paragraph>There's an "Editor" option too though that may be overstating it - it just lets you trim the video.</paragraph>
+			<paragraph>Again, there's no DLNA or another wireless method of sending the video to a bigger screen. No wired ways to do it either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is solid<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9(2016) may be much larger than its 2016 A-series stablemates but its audio output is absolutely identical to that of the Galaxy A7 (2016) and Galaxy A5 (2016). The phablet aced the first part of our test, posting great scores and showing great loudness.</paragraph>
+			<paragraph>Plugging in our standard headphones did cause some damage - volume dropped to only average, stereo crosstalk rose to a similar rating and some distortion crept in. A solid performance, but not quite the best you can find up there.</paragraph>
+			<paragraph>Here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy A9 (2016) camera department is built much like that of the excellent Galaxy S6.</paragraph>
+			<paragraph>It starts off with a downgrade - the sensor has 13MP resolution (and it's 4:3 instead of 16:9). Other than that, the camera boasts a f/1.9 aperture and optical image stabilization. And like on the S6 you can just double tap the Home key to quickly launch the camera.</paragraph>
+			<paragraph>The A9 offers Pro mode, but it's nothing like the one on the S6. It only gives you White balance, ISO and Exposure compensation. Essentially, the settings most phones have, but in a more accessible arrangement.</paragraph>
+			<paragraph>HDR is split off into a separate mode instead of a toggle on the viewfinder like on the S6 (this means no HDR Auto mode).</paragraph>
+			<paragraph>A rare Anti-fog option corrects the reduced contrast you get in misty weather. The download option gives you some extra shooting modes (free ones only, the Paid tab was empty).</paragraph>
+			<paragraph>The 28mm field-of-view of the Samsung Galaxy A9 (2016) camera is as wide as the Galaxy Note5 camera horizontally, but you get a bit more room vertically.</paragraph>
+			<paragraph>The resolution difference isn't huge, but the A9 retains less detail per pixel. Part of that is the stronger noise reduction, which smooths away fine texture and foliage. There's more noise in general, even after the noise reduction.</paragraph>
+			<paragraph>Colors are slightly off on the A9, with a slight bluish tint. Dynamic range is narrower, so the shadows get less attention from the A9 than the Note5.</paragraph>
+			<paragraph>Shot-to-shot time is faster than on the A7, though HDR can slow things down.</paragraph>
+			<paragraph>The Galaxy A9 (2016) is better at selfie photography than its siblings (even the S6 and Note5) thanks to its 8MP camera (up from 5MP) and its bright f/1.9 aperture. It is slightly narrower, though, 24mm vs. 22mm.</paragraph>
+			<paragraph>And despite the higher resolution, the extra noise leaves less detail in the 8MP Galaxy A9 shot than in the 5MP Note5 photo.</paragraph>
+			<paragraph>A wide selfie mode is available when your friends are with you. It's essentially a panorama for selfies.</paragraph>
+			<paragraph>HDR mode is a good way to bring back some detail into the shadows. The A9 HDR shots have no noticeable processing artifacts, but the phone is slower than the Note5 and since the camera starts with less dynamic range, it ends with less too.</paragraph>
+			<paragraph>Despite the upgrade in processing power, the Samsung Galaxy A9 (2016) panoramas still have around 1,200px vertical resolution, compared to over 3,000px for the Note5. The stitching is good, but the lower resolution really limits the quality of the end result.</paragraph>
+			<paragraph>We waited until dusk and snapped a couple of comparison shots. Both cameras have OIS, allowing them to shoot at a slow shutter speed. Both have bright f/1.9 apertures too, keeping ISO quite low.</paragraph>
+			<paragraph>It's not all equal, though, the smaller sensor on the Samsung Galaxy A9 (2016) needed a bit more ISO and stronger noise reduction to correct it, which in turn reduced the captured details. The colors appear dull too.</paragraph>
+			<paragraph>The Galaxy A9 (2016) continues the head-to-head comparison over at our Photo quality comparison tool, where conditions are better controlled.</paragraph>
+			<paragraph>   Samsung Galaxy A9 (2016) in our Photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>The Snapdragon 652 chipset was among the first in the 600-series to support 4K video capture, but the Samsung Galaxy A9 (2016) makes no use of that. Like the other A (2016) phones, it's capped at 1080p @ 30fps - no 4K, no 60fps here.</paragraph>
+			<paragraph>As you can imagine, the selfie camera is also capped at 1080p.</paragraph>
+			<paragraph>Anyway, the Galaxy A9 (2016) captures identical levels of detail compared to the Note5 at 1080p. The A9 colors are slightly off again and the narrower dynamic range is noticeable in the shadows.</paragraph>
+			<paragraph>Audio is recorded at an impressive 256Kbps, 48kHz. However, the A9 mics aren't as good as the Note's so the audio quality is lower.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download a Galaxy A9 video sample - 0:16, 32MB - and find additional samples of the A9 camera and compare it against others in our Video quality comparison tool.</paragraph>
+			<paragraph>   Samsung Galaxy A9 (2016) in our Video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy A9 (2016) key test findings<subsectionTitle>
+			<paragraph>Flagship-level build quality but imposing size makes one-hand use difficult</paragraph>
+			<paragraph>Display has perfect colors and is always legible; The lower pixel density isn't a real issue (flicker may bug some people, though)</paragraph>
+			<paragraph>Great battery life, strong performance all tests</paragraph>
+			<paragraph>Full software package with split-screen multitasking and first-party Samsung apps; Too much storage is reserved for the system though</paragraph>
+			<paragraph>Fast fingerprint reader (as fast as on the S6/Note5); Samsung Pay (in select markets)</paragraph>
+			<paragraph>S652 chipset essentially delivers flagship-level performance (without the heat)</paragraph>
+			<paragraph>Great multimedia app package with advanced music player, FM radio too</paragraph>
+			<paragraph>The loudspeaker is better than the smaller A-phones, but you need to pick the right ringtone</paragraph>
+			<paragraph>Perfect audio quality if you have an external amp, but volume drops when you plug in headphones</paragraph>
+			<paragraph>In the right conditions, photo quality comes close to the Note5, but the A9 captures less detail and has lower dynamic range in general; Pro mode is more a name than a feature; bright aperture are appreciated though</paragraph>
+			<paragraph>Video quality at 1080p is basically the same, audio isn't as good; No 4K mode, even though the chipset supports it</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Samsung has put a lot of work into the new Galaxy A series and it's clear it wants to recreate the flagship success of the S and Note phones, except in a more attractive price bracket.</paragraph>
+			<paragraph>The Samsung Galaxy A9 (2016) will be the face of the series - its size is an instant attention-grabber and its specs are better than the other A models.</paragraph>
+			<paragraph>Sometimes the A9 has slightly better specs, other times the gap is significant. The clearest example is the chipset, it's essentially twice as fast as the S615 used in the A5 and A7 that we tested earlier. Here are our other impressions of the A9, summarized.</paragraph>
+			<paragraph>Phone screen size has been growing rapidly, but even so the Galaxy A9 (2016) is above average. Or you could say it's ahead of the curve, as the growth shows no signs of slowing down.</paragraph>
+			<paragraph>The A9 rides another trend too, that of the premium flagship. It combines a luxury build with early adopter features like fingerprint-secured mobile payments with a price tag more people can afford than just the actual early adopters.</paragraph>
+			<paragraph>And the phone delivers on both counts excellently. Holding the Galaxy A9 (2016) in one hand and the Note5 in the other, we were drawn to the A9 more. The screen is of very high quality though it has some issues that may irk a percentage of the population. The camera too is very good, with some complaints (like why drop the 4K mode?).</paragraph>
+			<paragraph>There's no Galaxy A8 (2016) yet (expected screen size ~5.7"), but the Samsung Galaxy Note5 corrects any complaints we may have about the A9. Aside from the microSD slot, of course. The price tag is quite a bit higher though.</paragraph>
+			<paragraph>The Huawei Mate 8 goes all in on metal and it too has a 6" 1080p screen (IPS LCD). The Kirin chipset impressed in some benchmarks, not so much on others. The main disappointment was the camera though - stills are nothing special, there's no 4K and 1080p videos are just average.</paragraph>
+			<paragraph>Also from Huawei is the all-metal Nexus 6P. This one puts on a 5.7" AMOLED (sourced from Samsung) with QHD resolution. The 12.3MP camera has a large sensor geared towards low-light shooting and you do get 4K video and high-fps mode (720p @ 240fps). The S810 chipset successfully fought off the 652 and, of course, you get timely updates of the unaltered software.</paragraph>
+			<paragraph>The Microsoft Lumia 950 XL has a similar 5.7" QHD AMOLED and it steps up the camera game with a 20MP sensor, ZEISS optics with f/1.9 aperture and optical image stabilization. Windows 10 has some appeal with Continuum, but if you depend on certain Android apps you should check if they are available on the Microsoft platform.</paragraph>
+			<paragraph>The vivo X6Plus and Oppo R7 Plus are another way to get a 1080p AMOLED. The Oppo is bigger with a 6" screen, but a slightly slower chipset. The vivo has a 5.7" screen and is a mere 6.9mm thick. Both phones have 13MP/1080p cameras and 8MP selfie cams, all-metal bodies too.</paragraph>
+			<paragraph>The LG V10 is less fancy, more rugged. Its metal frame was built to withstand knocks, its rubbery back cover too. The 5.7" QHD screen has an interesting trick - an always on ticker display on top. The V10 camera is among the best put on a mobile, sharp at day and at night, with a ton of manual settings.</paragraph>
+			<paragraph>Whether it's the sheer size of the Samsung Galaxy A9 (2016) or its intrepid chipset, the A9 is our favorite of the three 2016 A-series phones we've reviewed yet. However, it's success in the market may be sabotaged by a mundane reason - availability.</paragraph>
+			<paragraph>At the time of this writing, the phone can be found only in China and Hong Kong. If you want it elsewhere, you either have to find a gray import or do the importing yourself. We believe the Galaxy A9 deserves a wider reach, it's one of Samsung's best phones in the last 12 months.</paragraph>
+		</subsection>
+	</page>
+</review>

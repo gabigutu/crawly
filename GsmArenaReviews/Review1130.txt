@@ -1,0 +1,136 @@
+<review>
+	<title>Sony overview</title>
+	<description>IFA 2012</description>
+	<link>http://www.gsmarena.com/sony_ifa_2012-review-803.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>Things are starting to heat up in Berlin as Sony's pre-IFA unfolds. The Japanese giant unveiled four new Android Xperia smartphones (although strangely, only three of them were mentioned in the press conference) and a new Android tablet.</paragraph>
+			<paragraph>The newly announced smartphone quartet consists of the Sony Xperia T and Sony Xperia TX flagships as well as the mid-rangers Xperia V and Xperia J. The tablet is also joining the Xperia ranks, bearing the name Sony Xperia Tablet S and while it borrows a few design ideas from its predecessor, it's a vast step forward in terms of ergonomics and processing power.</paragraph>
+			<paragraph>Live photos of the newly announced devices, garnished with our first impressions of them await you on the following pages.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia T hands-on<subsectionTitle>
+			<paragraph>The Xperia T is Sony's latest global flagship, so there's a lot riding on it. With this new iteration of the Xperia line, Sony has gone back to the Xperia arc design with the curved back.</paragraph>
+			<paragraph>The back is made of a matte material that is excellent at concealing fingerprints. Actually, all the Xperias use this material for their back.</paragraph>
+			<paragraph>Anyway, the centerpiece of the back is the 13MP camera, which uses F/2.4 aperture and an Exmor-R sensor. It has a pulse LED flash, though we didn?t have time to try that out. The camcorder shoots 1080p video. There's also a 1.3MP/720p camera on the front.</paragraph>
+			<paragraph>Speaking of the front, the screen is a beautiful 4.55" HD Reality display backed by Mobile Bravia engine. It has 720p resolution and shatter-proof, scratch-resistant glass. Viewing angles are pretty good, though when we compared the Xperia T to the Xperia P, the P won out in viewing angles.</paragraph>
+			<paragraph>The Android buttons have been moved to the screen, following Google's lead.</paragraph>
+			<paragraph>The Sony Xperia T uses a microSIM card and you can expand its 16GB of built-in memory using the microSD card slot. Both slots are hidden under a single plastic flap, reminiscent of the Motorola RAZR setup.</paragraph>
+			<paragraph>The phone comes with a Walkman app and features like Clear audio, clear bass and headphone surround sound.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera samples<subsectionTitle>
+			<paragraph>We've managed to give the 13 MP snapper on the Sony Xperia T a try and here go the results. At this point they don't tell us all that much about the camera because the lighting was far from perfect and the smartphone's software isn't finalized.</paragraph>
+			<paragraph>Still, the market release of the Sony Xperia T isn't that far away, so we doubt the image quality will change too dramatically. Here go the samples.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia TX hands-on<subsectionTitle>
+			<paragraph>The Sony Xperia TX is outwardly similar to the Xperia T, though there are a couple of important distinctions. The first thing we noticed is that the TX is thinner - 8.6mm vs. 9.4mm.</paragraph>
+			<paragraph>Of course, that's for their thinnest parts, which in the middle of the phone. The curved back of the Xperia TX also felt "curvier" than the one on the T, likely due to it being thinner.</paragraph>
+			<paragraph>The phone is also lighter and a smidge taller and wider, though that's hard to notice even when you hold both phones in your hands.</paragraph>
+			<paragraph>Anyway, you still get the 4.55" 720p Reality display on the front and the 13MP/1080p camera on the back. The Xperia TX will be available in Black and White, though the Grey version has given way to a Pink one (which feels a little different to the touch).</paragraph>
+			<paragraph>Another difference between the Sony Xperia TX and the Xperia T is that the TX comes only in HSPA+ version although it still uses the Qualcomm S4 SoC with two 1.5 GHz Krait cores coupled with the Adreno 225 GPU.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera samples<subsectionTitle>
+			<paragraph>We were able snap a few camera samples with the Xperia TX in the Sony booth. Take a look:</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia V hands-on<subsectionTitle>
+			<paragraph>The Xperia V is Sony's new LTE-specific offering. There's a 4.3 inch HD display and the V packs the same 13 MP camera as the new Xperia T flagship, and comes with IP57 rating for dust and water resistance at 1 meter for up to 30 minutes.</paragraph>
+			<paragraph>Like the other Xperia devices introduced today, it has a curved back panel with a matte finish on the plastic, which is excellent at deterring fingerprints and smudges.</paragraph>
+			<paragraph>Highlights of the ICS build for this phone includes quick camera activation which enables you to "go from sleep to snap in just over a second," and ClearAudio+ audio enhancements for playing music.</paragraph>
+			<paragraph>The device also supports the usual array of connectivity features including NFC, and will be available in Black, White, and Pink.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia J hands-on<subsectionTitle>
+			<paragraph>The Sony Xperia J features a slim and stylish design. It has a flat front and an arched back made with a smudge-resistant matte finish. The 5 MP camera lens is in the upper right corner along with a single LED flash. The front is where the 4" FWVGA 854 x 480 capacitive touchscreen is. It's a bright 16M color unit with good viewing angles. The display is beveled by a glossy plastic rim.</paragraph>
+			<paragraph>The device feels really thin. It's 9.2 mm thick and weighs 130 g. The Sony Xperia J comes in a variety of colors - black, white, pink and gold. The surface of the colored versions feels slightly different to touch than the black version, but is still good in hiding fingerprints.</paragraph>
+			<paragraph>The phone is running on the lower-powered single-core Cortex-A5 Qualcomm MSM7227A SoC. The outdated Adreno 200 handles the graphics gruntwork. Of course, top of the line hardware is out of the question with a budget friendly phone such as the Sony Xperia J.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>The Xperia TX, Xperia T and Xperia V are all running on 1.5GHz dual-core processors, using the new Krait architecture. There's still some doubt about the GPUs, but all three tested units reportedly use Adreno 225 GPUs. 
+ 
+.jrGraphContainer { background: none !important; border-bottom: 1px solid #eee !important;}
+ul.jrGraph { left: 134px; }
+ul.jrGraphControls { left: -30px ; padding: 0; }
+ 
+var jrGraph_js_src = 'http://blog.gsmarena.com/wp-content/themes/gsmarena-v2-production/js/jrGraph/jrGraph2.js?v=5';
+
+if (typeof jQuery == 'undefined' && typeof JQUERY_IS_LOADING == 'undefined'){
+  JQUERY_IS_LOADING = true;
+  lazyLoadScript('https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js', function () {
+    lazyLoadScript(jrGraph_js_src, function () {
+      doJrGraphs();
+    });
+  });
+} else {
+  var s = document.createElement('script');
+  s.onload = doJrGraphs;
+  document.head.appendChild(s);
+  s.language ="text/javascript";
+  s.src = jrGraph_js_src;
+}
+
+function doJrGraphs() {
+    $(document).ready(function(){
+    	$('.jrGraph').each(function(){
+	    $(this).jrGraph();
+	});
+        if (window.location.host.substring(0, 2) == "m.")
+            $("ul.jrGraphControls").css("top", "-6px");
+    });
+}
+</paragraph>
+			<paragraph>The Krait cores helped the three new Xperias pass the BenchmarkPi with flying colors - none of the quad-core smartphones currently on the market could come anywhere near their achievement. To be fair, though, BenchmarkPi doesn't make use of the multi-core architectures, so the dual-core Kraits have an advantage here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The NenaMark 2 results of the Sony Xperia T, TX and V proves that the three new smartphones are Adreno 225-powered. The kind of framerates that the new Sony smartphones achieved are beyond the capabilities of any of the previous Qualcomm mobile GPUs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally, we come to the overall performance test with Quadrant and the Xperia trio made it three out of three against its quad-core rivals. An impressive achievement indeed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia Tablet S hands-on<subsectionTitle>
+			<paragraph>A reinvented Sony Tablet S has also been unveiled at IFA. The new Xperia Tablet S runs Android 4.0 ICS on a quad-core 1.3 GHz Tegra 3 chipset. It comes in 16, 32, and 64 GB variants with 1 GB of RAM, and an 8MP camera capable of 1080p video recording.</paragraph>
+			<paragraph>The build quality of the Xperia Tablet S is much better than the original Tablet S, featuring a solid metal construction and a brighter 1280 x 800 pixel display.</paragraph>
+			<paragraph>There are plenty of included connectivity options, including a full SD card slot, USB and even HDMI via a dongle. There's also support for DLNA casting, and there's even an infrared sensor for remote control needs.</paragraph>
+			<paragraph>The Xperia Tablet S will hit stores this September.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony VAIO Duo 11 hands-on<subsectionTitle>
+			<paragraph>Sony also unveiled a new hybrid ultrabook, the VAIO Duo 11. For all intents and purposes, the Duo 11 is a tablet which doubles as an ultrabook. The slide-out keyboard is fully backlit, and is accompanied by an 11.6" FullHD display, powered by an Intel Core i7 processor.</paragraph>
+			<paragraph>When closed, the device comes in at just 18 mm thick. It weighs in at 1.3 kg and the construction is solid, which means the device feels sturdy but not heavy. There are also dual 2 MP cameras on the front and back, as well as NFC connectivity.</paragraph>
+			<paragraph>The VAIO Duo 11 is set to be released in October, after Windows 8 goes official.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia miro hands-on<subsectionTitle>
+			<paragraph>Sony brought so many new smartphones to IFA that we almost forgot about the Xperia miro. Almost. The handset was announced back in June and is expected to hit the market next month, but it was showcased at the company?s booth.</paragraph>
+			<paragraph>Specs-wise the Xperia miro has lots of common internals with the Xperia tipo but offers two major upgrades ? a 0.3&#x2033; bigger LED-backlit LCD screen and a 5 megapixel snapper. Thanks to the LED-backlit upgrade, the phone is also thinner and lighter.</paragraph>
+			<paragraph>The phone has escaped Sony?s square design, but is still pretty nicely looking for an entry-level device.</paragraph>
+			<paragraph>There are no metallic parts on the Xperia miro?s body, but the plastic used for its panels seems quite solid and feels decent to touch. The battery cover attracts almost no fingerprints and smudges.</paragraph>
+			<paragraph>Xperia miro runs on Android 4.0 ICS skinned with Sony?s familiar user interface on top. There are no surprises within the software department ? we?ve seen this combo in action a few times already.</paragraph>
+			<paragraph>The Xperia miro is going to launch in a month with the attractive ?150 price tag, so we?ll try and get a unit for a complete review. You know, once we are done with all the IFA headliners.</paragraph>
+		</subsection>
+	</page>
+</review>

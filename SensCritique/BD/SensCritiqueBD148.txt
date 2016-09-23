@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Quelque chose bave sous le lit ! - Calvin et Hobbes, tome 12</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1996</year>
+	<link>http://www.senscritique.com/bd/Quelque_chose_bave_sous_le_lit_Calvin_et_Hobbes_tome_12/8460274</link>
+	<generalScore>9.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>41</numberOfVoters>
+		<numberOfVoters>92</numberOfVoters>
+		<numberOfVoters>58</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

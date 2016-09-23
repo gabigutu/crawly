@@ -1,0 +1,330 @@
+<review>
+	<title>Sony Xperia go review</title>
+	<description>Get Out, Get Wet</description>
+	<link>http://www.gsmarena.com/sony_xperia_go-review-791.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>IP67 certified for dust and water resistance, wet-finger tracking</paragraph>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>3G with 7.2 Mbps HSDPA and 5.76 Mbps HSUPA</paragraph>
+			<paragraph>3.5" 16M-color LED-backlit LCD capacitive touchscreen of HVGA resolution (320 x 480 pixels) at around 165 ppi</paragraph>
+			<paragraph>Bravia Mobile engine</paragraph>
+			<paragraph>Android OS v2.3 Gingerbread</paragraph>
+			<paragraph>Dual-core 1 GHz Cortex-A9 CPU, Mali-400 GPU, NovaThor U8500 chipset</paragraph>
+			<paragraph>512 MB RAM</paragraph>
+			<paragraph>5 MP autofocus camera, single LED flashlight, geotagging, image stabilization, smile detection, touch focus</paragraph>
+			<paragraph>720p video @ 30fps</paragraph>
+			<paragraph>Wi-Fi b/g/n, Wi-Fi hotspot functionality and DLNA</paragraph>
+			<paragraph>GPS with A-GPS, Wisepilot navigation</paragraph>
+			<paragraph>microSD slot (32GB supported, 2GB card included)</paragraph>
+			<paragraph>Accelerometer and proximity sensor, notification LED</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Stereo FM radio with RDS</paragraph>
+			<paragraph>TrackID music recognition</paragraph>
+			<paragraph>Relevant package of apps</paragraph>
+			<paragraph>MicroUSB port (charging) and stereo Bluetooth v2.1</paragraph>
+			<paragraph>Adobe Flash support</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No ICS out of the box</paragraph>
+			<paragraph>Screen resolution a bit low by today's standards</paragraph>
+			<paragraph>No arm case and wrist strap in the bundle (ala the Sony Ericsson Xperia active)- available in the Xperia go "Sports Edition"</paragraph>
+			<paragraph>No hardware camera shutter key</paragraph>
+			<paragraph>No secondary camera, no video calls</paragraph>
+			<paragraph>No DivX/XviD video support, 1080p video playback is a no go, too</paragraph>
+			<paragraph>No ANT+ support for connection to sports peripherals (unlike the Xperia active)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Sony Xperia go is not a phone to keep on a short leash. Not your kind of phone either if you'd say no to a dip in the pool because you are expecting an important call. The Sony Xperia go lets you join the fun. The midrange package that Sony just brought to the market aims to offer plenty of bang for your buck - and a bang of a time.</paragraph>
+			<paragraph>The Xperia go is a smartphone that you don't need to constantly look after. The little rugged droid will have you covered in situations very few other phones will put up with, let alone survive. Drop it or sink it, the Xperia go will take it without a flinch. And there's more where that came from. Here's the short version of what the Xperia go is all about.</paragraph>
+			<paragraph>Now, who said you can only have two out of the three if you're after compact size, rugged build and performance under the same roof. The Sony Xperia go has the brains to go with the toughness and is still compact enough to carry around and slip into any pocket.</paragraph>
+			<paragraph>To make it even better, Sony has addressed two of the main issues we had with the predecessor - the Xperia active. There's now a capable dual-core chipset under the hood and the screen has grown to the far more usable 3.5". We could have probably used some extra pixels, but the Xperia go sounds like a package that's hard to beat as it is.</paragraph>
+			<paragraph>All we need to do now is make sure its real-life performance can cash the checks written by the spec sheet. The unboxing and hardware overview follow right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard retail package<subsectionTitle>
+			<paragraph>The box that the Sony Xperia go comes in is shaped like the retail packages of its NXT siblings. It holds all the basics, including an AC adapter, a USB cable that you can use with both your computer and the charger, and a single-piece headset.</paragraph>
+			<paragraph>There's also a microSIM to regular SIM adapter supplied, which is a handy tool to have, and perhaps a recognition on Sony's part that they see the Xperia go as a backup handset for outdoor activities. We were disappointed to not find the arm case and wrist strap, which were so thoughtfully provided with the Sony Ericsson Xperia active. If you're lucky enough to find it, there's an Xperia go "Sports Edition", which comes in yellow and the arm case and wrist strap intact.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia go 360-degree spin<subsectionTitle>
+			<paragraph>At 111 x 60.3 x 9.8 mm the Sony Xperia go is one of the more compact smartphones out there. It's not too heavy either at 110g, which is a nice change over the bulky and heavy rugged handsets from a few years ago.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Build quality and design<subsectionTitle>
+			<paragraph>Comparisons with the Sony Ericsson Xperia active are inevitable and - as much as we liked the old Sony Ericsson rugged smartphone - we think the Xperia go does well to take a different stylistic approach. In terms of actual size, the Xperia go is taller as it accommodates a bigger screen. It doesn't look as compact and sporty as its predecessor but is way slimmer and will never risk the embarrassment of being underdressed on more formal occasions.</paragraph>
+			<paragraph>The design of the Sony Xperia go is pretty neat, the subtle chin on the front being its most characteristic feature. We quite like the styling and the slim waistline undoubtedly contributes to that. Playing closely by the NXT series style guide, the Sony Xperia go proves that ruggedness doesn't necessarily result in a face that only a mother can love.</paragraph>
+			<paragraph>What we are not quite fond of is the choice of finish for the Sony Xperia go's back panel. The plastic used feels almost abrasive to the touch and takes some getting used to. It's unlike anything we've seen before and, sadly, not in a particularly good way. Well, it must be the price that needs to be paid for the extra ruggedness, we guess.</paragraph>
+			<paragraph>Above the screen is the earpiece, along with the proximity sensor. Unfortunately, there's no front-facing camera here.</paragraph>
+			<paragraph>Below the screen, there are three capacitive keys (Back, Home and Menu). You can enable haptics for them. The screen is slightly projecting over the phone's body, providing a tactile reference point. The resulting chin is a lot subtler though than in the Xperia Sola. Just beneath the capacitive keys is the Xperia go microphone pinhole.</paragraph>
+			<paragraph>The left side only holds the 3.5mm audio jack near its top. It's covered with a protective plastic seal, which you need to keep on to maintain the level of water resistance.</paragraph>
+			<paragraph>On the right is the covered USB port for charging and transferring files and the volume rocker. There's no camera shutter key here.</paragraph>
+			<paragraph>The top has nothing but the power key, while on the bottom you'll find just the lanyard eyelet. Normally you'd also find a microphone pinhole in here, but as we mentioned it has been moved to the front panel of the Xperia go.</paragraph>
+			<paragraph>On the back of the Sony Xperia go we find the 5MP camera lens and the LED flash. The secondary microphone for stereo recording and the loudspeaker grille are also nearby.</paragraph>
+			<paragraph>Removing the back cover reveals the microSD and SIM card slots. You can't access or replace your battery. The microSD card is hot-swappable, but the SIM card is not - attempting to add or remove a SIM while the phone is on will result in an automatic restart.</paragraph>
+			<paragraph>The battery is a 1305 mAh unit, which is said to provide about 520 hours of 2G stand-by (460 hours in 3G) or up to 6 h 30 min of talk time (5 h 30 min in 3G).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Sony Xperia go comes with an HVGA LCD, measuring 3.5 inches in diagonal. The screen is nothing to write home about in this day and age. Even mid-range smartphones often offer WVGA resolution nowadays, so the Xperia go is losing some points here.</paragraph>
+			<paragraph>The good news is the BRAVIA-powered screen offers decent image quality. It may not be the sharpest around, but its contrast and colors are good enough for the price range. Sadly, Sony is still unable to fix their displays viewing angles and the Xperia go screen quickly starts to lose contrast when you tilt it to the side. It's what you usually see with phones in this budget range though, so we're hardly surprised.</paragraph>
+			<paragraph>Here go the Xperia go results from our traditional display tests . You can find more about the testing routines here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contrast ratio<subsectionTitle>
+			<paragraph>The Xperia go's RGB matrix under a microscope</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>The overall design of the Xperia go is in quite similar to the Sony Xperia sola - squarish construction with tightly etched corners, and a characteristic extension of the body below the display. It's certainly one of the good-looking rugged smartphones out there and it provides a nice alternative to the curved lines of the NXT line of Sony smartphones.</paragraph>
+			<paragraph>Overall we'd say we like the design and the solid, industrial feel of the handset, which still remains lightweight and compact. It's also quite easy to handle due to its compact dimensions. Even one-handed usage was, usually, quite comfortable, although the feel of the back panel is something that takes more than a week to get used to.</paragraph>
+			<paragraph>Coming up is our Sony Xperia go software tour.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Yet another Xperia stuck in the past<subsectionTitle>
+			<paragraph>The Sony Xperia go, like the entire NXT line of Xperias, has a highly revamped custom skin, but it's still Gingerbread underneath (2.3.7). Hopefully the Xperia go will be among the devices, scheduled to receive Ice Cream Sandwich later this year.</paragraph>
+			<paragraph>Check out a short video of the Xperia go interface below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia go has the usual five-pane homescreen (you can't add or delete panes), with four docked shortcuts (two on either side of the launcher shortcut). These are visible on all five homescreen panes and are user configurable: they can be either single icons or folders with multiple items in them.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The homescreen does a neat trick called Overview mode. Pinch to zoom out on any of the 5 homescreen panes and a new screen opens up with a cool transition. All active widgets gather there for easy viewing and selection.</paragraph>
+			<paragraph>The Xperia go has some custom-made Sony widgets in addition to the standard set. Those include the Timescape widget (there's a dedicated app too) and a Mediascape-like widget for photos and videos (the actual app isn't there anymore, the standard gallery is back).</paragraph>
+			<paragraph>The lockscreen shows notifications for Facebook events too, courtesy of Sony Facebook integration. A cool new addition to the lockscreen, unseen in the old Xperia line, is the music player widget, which lets you control music playback without unlocking the phone - we'll get back to this further on.</paragraph>
+			<paragraph>The standard notification area and task switcher are of course present and accounted for - no custom touches to them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Sony Xperia go is powered by a dual-core NovaThor U8500 chipset with two cores clocked at 1 GHz and 512 MB of RAM. You shouldn't expect miracles out of the two Cortex-A9 cores as even 1080p is sometimes beyond their reach.</paragraph>
+			<paragraph>We ran our usual round of benchmarks and compared the Xperia go to Sony's current flagship, the Xperia S, as well as a selection of upper-midrange competitors. The Samsung Galaxy S Advance is among them, powered by the same ST-Ericsson NovaThor chipset, with a slight advantage in terms of RAM - 768MB over 512MB.</paragraph>
+			<paragraph>We begin with BenchmarkPi, which measures the CPU computing power of the NovaThor U8500 chipset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>In Linpack the Xperia go got almost twice as the HTC One V due to the higher processing power and outdid the Samsung Galaxy S Advance, which is commendable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>SunSpider favors the superior JavaScript performance of Ice Cream Sandwich so the Xperia go is at an obvious disadvantage here. It still did an ounce better than the ICS-ready One V though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>BrowserMark adds HTML5 to the equation and sees the Xperia go drop down the ranks. It still comfortably beats the One V, again.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>NenaMark 2 is where the GPU gets to show its worth. The Xperia go got a solid 42.8 frames per second, easily beating the likes of the Xperia Sola and even the Xperia S. This is because the Mali-400 GPU pushes fewer pixels due to the HVGA resolution of the Xperia go.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GLBenchmark is a GPU-heavy test, while the off-screen 720p benchmark tests the raw performance of the Mali-400 GPU inside the Xperia go. Even with a Mali on board it finished at the bottom of the barrel.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark Egypt (off-screen 720p)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>While you shouldn't expect miracles from the dual-core Xperia go it is fair to say that in day-to-day tasks it will rarely skip a beat. The Sony-made launcher that runs on top of Android isn't the lightest around and Gingerbread isn't the most speed-optimized OS for some time now but overall the normal user will enjoy working with the Xperia go.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Social phonebook<subsectionTitle>
+			<paragraph>The visually customized phonebook of the Xperia go can store extensive information about all your contacts. A tabbed interface presents contact details, recent calls and info from social networking services.</paragraph>
+			<paragraph>The contact list can be sorted by either first or last name. There are two contact search options - a dedicated search field on top of the contact list, and an alphabet scroll to jump to names starting with a specific letter.</paragraph>
+			<paragraph>You can sync with multiple accounts, including Exchange and Facebook, and you can selectively show or hide contacts from some accounts (you can fine-filter specific groups from an account), or set the phonebook to display only contacts with phone numbers.</paragraph>
+			<paragraph>If a contact has accounts in multiple services, you can "join" their details to keep everything in one place. Their Facebook photos and interests (part of the Facebook integration) will show as extra tabs.</paragraph>
+			<paragraph>Quick contacts are enabled - a tap on the contact's photo brings up shortcuts for calling, texting or emailing the contact.</paragraph>
+			<paragraph>Each contact can have a variety of fields (and repeat fields of the same type), the + and x buttons let you add and remove fields as needed. The fields cover anything from names (including a field to write the name down phonetically) to addresses, nicknames and notes.</paragraph>
+			<paragraph>There is an option to redirect calls directly to voicemail. Custom ringtones are enabled too.</paragraph>
+			<paragraph>You can "star" a contact, which puts it in the Favorites tab. Also, in each Gmail account there's a special group called "Starred in Android" where these contacts go automatically.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Smart telephony<subsectionTitle>
+			<paragraph>We had no problems calling and receiving calls on the Xperia go. The built-in secondary microphone is used for active noise-cancellation so calls are loud and clear even in noisy environments.</paragraph>
+			<paragraph>The Xperia go offers smart dialing. It searches for matches in both the contacts' phones and names. There's voice dialing too (the quickest way to activate it is the dedicated homescreen widget).</paragraph>
+			<paragraph>Thanks to the proximity sensor, the Sony Xperia go automatically disables the touchscreen when you hold it up to your ear during a call, thanks to the proximity sensor.</paragraph>
+			<paragraph>The call log is integrated in the dialer - it shows a list of recently dialed, received and missed calls in the top half of the screen and the keypad on the bottom half. Once you start typing, the call log is replaced by the smart dial list.</paragraph>
+			<paragraph>There's a Favorite tab that displays starred contacts, but you can add other contacts to the list too. The tab displays a grid of contact photos with their first name underneath.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the Sony Xperia go - it scored a Good mark, meaning that it's among the decent performers out there. . More info on our loudspeaker test as well as other results can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>All texts and MMS are organized into threads. Each thread is laid out as an IM chat session, the latest message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them against deletion.</paragraph>
+			<paragraph>Search is enabled to locate a specific message in all conversations and you can also activate delivery reports.</paragraph>
+			<paragraph>Individual messages can be starred and you can find all of them in the Starred folder available in the context menu. This is a nice way to mark important messages that you'll need to find quickly later on.</paragraph>
+			<paragraph>Adding multimedia (photos, videos, sounds, etc.) will convert the message to an MMS.</paragraph>
+			<paragraph>Moving on to email, the Gmail app supports batch operations, which allow multiple emails to be archived, labeled or deleted. The app supports multiple Gmail accounts, but there's no unified inbox for other email services.</paragraph>
+			<paragraph>The generic email app can do that however. It can handle multiple POP or IMAP accounts and you have access to the messages in the original folders that are created online.</paragraph>
+			<paragraph>A preview pane splits the screen in half - one side lists the emails, while the other shows the currently selected email.</paragraph>
+			<paragraph>This works both in portrait and landscape and you can easily drag the separator between the two areas to make one bigger.</paragraph>
+			<paragraph>Google Talk handles Instant Messaging. The GTalk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>As for text input, the Xperia go offers a customized on-screen full QWERTY keyboard. Typing on the portrait keyboard isn't very comfortable - keys are tall and thin, making for a lot of typos. They're just not as well spaced as on the bigger Xperia S and ion displays.</paragraph>
+			<paragraph>Flipping the phone to landscape gives you bigger, easier to press buttons. Word prediction is present in the Xperia go keyboard.</paragraph>
+			<paragraph>In terms of customizations, the Xperia go keyboard features the so-called Gesture input. It works the same as Swype. Even if you've never used Swype input before, you'll quickly get used to it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard gallery<subsectionTitle>
+			<paragraph>The Xperia go uses the traditional vanilla 3D Gallery, which hasn't really seen much change since Android 2.2. It still has good functionality, cool 3D looks and nice transition effects, and thankfully shows full resolution images.</paragraph>
+			<paragraph>The different albums and folders appear as piles of photos, which fall into neat grids once selected. If you have online albums over at Picasa those show up as separate stacks as well.</paragraph>
+			<paragraph>You should have noticed the two switches at the top by now. The first opens a different gallery section that stores your 3D panorama shots, while the second opens the Sweep Multi Angle shots section.</paragraph>
+			<paragraph>To view the 3D panoramas in 3D, you need to connect your phone to a compatible 3DTV. Multi Angle shots are harder to view outside the device as you need something with an accelerometer and the proper app - you best bet is another Xperia.</paragraph>
+			<paragraph>Facebook and Picasa albums are distinguished by the small logo of the corresponding service. Facebook pictures can be "liked" with the thumbs up button in the upper right corner and commented upon at the bottom bar.</paragraph>
+			<paragraph>Photos can be sorted by date with the help of a button in the top right corner, which switches between grid and timeline view.</paragraph>
+			<paragraph>You can use pinch zoom or the old-fashioned +/- buttons. If you pan past the edge of a photo, the gallery will load up the next (or previous) image.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Quick sharing via Picasa, Email apps, Facebook, Bluetooth, MMS, etc. is also enabled.</paragraph>
+			<paragraph>The BRAVIA engine enhances contrast and colors by sharpening the image and reducing noise. These steps would normally lead to artifacts, but you'll have to look from really up close to notice. You can switch BRAVIA off, but we recommend keeping it on - it really improves the image quality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>There is no dedicated video player app on the Xperia go as in most of the droids out there. DivX and XviD videos are supported but the Xperia go has a rather selective filtering and not all videos got through.</paragraph>
+			<paragraph>The Xperia go's NovaThor processor refused to play any of our test 1080p videos, while 720p videos worked fine.</paragraph>
+			<paragraph>You can, of course, download a third-party video player off the Android Market like the MX Player with the corresponding codecs - it ran everything, up to 720p, with subtitles.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent music player<subsectionTitle>
+			<paragraph>The Xperia go shares the same music player as the Xperia U, P, S, sola, etc. You're welcomed to a Cover Flow-like interface and you can swipe left and right to skip tracks (complete with a smooth 3D effect).</paragraph>
+			<paragraph>This is the Playing tab, the second tab available is called My Music and it's where your music library is organized. Tracks are sorted by album, artist, playlist, all tracks, SensMe channel, favorites. There's also a link to Sony's Music Unlimited service.</paragraph>
+			<paragraph>In the Now playing interface, there's the familiar Infinite button - it gives you quick options to find the music or karaoke videos on YouTube for the current song, look for similar tracks on PlayNow, search Wikipedia for info on the artist or look up the lyrics on Google. New features can be added to this menu with extensions available in the Play Store.</paragraph>
+			<paragraph>SensMe should be familiar from those old Sony Ericsson Walkman phones. In case you've missed it, SensMe filters songs by mood. By default, there are nine "channels" - daytime, energetic, relax, upbeat, mellow, lounge, emotional, dance and extreme.</paragraph>
+			<paragraph>You need to download SensMe data before you can use this feature. Luckily, you no longer have to use a PC Suite to tag songs - you just need an Internet connection, the phone will handle the rest.</paragraph>
+			<paragraph>Audiophiles will appreciate the rich selection of equalizer presets. There's a custom preset too - it lets you adjust five frequency bands and there's a Clear Bass slider too.</paragraph>
+			<paragraph>The More tab offers a Headphone surround option, which can be set to Studio, Club or Concert hall.</paragraph>
+			<paragraph>If you're not using the headphones, you can turn the xLOUD feature on, which optimizes the sound for the device's loudspeaker.</paragraph>
+			<paragraph>A new feature is the track info and playback controls available on the lockscreen, which let you control the player without having to unlock the phone. The music controls replace the clock, which might be annoying if you just want to check the time. Still, the clock slides out of view, so you have about a second to see what time it is (or just look at the small clock in the upper right corner).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS, there is TrackID too<subsectionTitle>
+			<paragraph>The Sony Xperia go is equipped with an FM radio, which has a really neat and simple interface. It automatically scans the area for the available stations and places "notches" on the frequency dial for easier scrolling to the next station. There's a Force mono option to use in case of poor reception.</paragraph>
+			<paragraph>The TrackID service is also available and works within the radio app. You can even like a song on Facebook.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Decent audio quality<subsectionTitle>
+			<paragraph>The Sony Xperia go did really well in the first part of our audio quality test. When connected to an active external amplifier the smartphone got some excellent scores , showed no weak points and had just above average volume levels.</paragraph>
+			<paragraph>The degradation when headphones come into play consists of a rather small hike in stereo crosstalk, but quite a large increase in distortion levels. It's not too bad, but extremely demanding audiophiles might be left slightly disappointed by the Xperia go on this occasion.</paragraph>
+			<paragraph>And here come the full results so you can see them for yourselves:</paragraph>
+			<paragraph> Sony Xperia go frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>5MP that will work under water too<subsectionTitle>
+			<paragraph>The Xperia go boasts a 5 megapixel camera, complete with a single LED light. It's capable of producing images of 2592??1944 resolution. An added bonus is that you'll be able to capture stuff under water (no deeper than a meter, mind you), which is especially neat for video recording, we imagine.</paragraph>
+			<paragraph>The camera controls on the Xperia go are available on two taskbars on either side of the viewfinder. On the left you get four shortcuts to various settings, while the still camera/camcorder toggle, the virtual shutter key and a thumbnail of the last photo taken are on the right. There is no hardware shutter key like on some higher-end Sony droids.</paragraph>
+			<paragraph>The menu key brings up two pages of extra settings - scenes, resolution, smile detection, geotagging, image stabilization and focus mode among others. You can customize three of the shortcuts on the left (the shooting mode shortcut is fixed).</paragraph>
+			<paragraph>There're five capture modes to choose from: Normal, Scene recognition, Sweep Panorama, Sweep Multi Angle and 3D Sweep Panorama. In Normal, you pick the Scene settings manually or you can enable Scene recognition and let the Xperia go take a guess (it's fairly good at it).</paragraph>
+			<paragraph>The 3D Sweep Panorama is business as usual - you press the virtual shutter key and pan the phone across the scene. The resulting panoramic photo can be viewed in both 2D and 3D (on a compatible TV).</paragraph>
+			<paragraph>The Sweep Multi Angle is much more impressive - you take a photo in the exact same way, but the result is very different. It produces something like a lenticular card.</paragraph>
+			<paragraph>Tilting the phone lets you look at the object from different sides. A shot of a moving object looks like an animated GIF or creates interesting distortions, which can be pretty funny too.</paragraph>
+			<paragraph>There are some distortions visible even in a static scene, but it's still one of the coolest camera features we've seen in a while. Photos taken in Sweep Multi Angle mode are handled by a separate app called 3D album, and not listed in the regular gallery. And just to be clear, the Xperia go doesn't have a 3D screen. It cleverly relies on its sensors to detect the handset movement and it changes the on-screen image accordingly.</paragraph>
+			<paragraph>The Sony Xperia go's forte isn't imaging but it still churns out impressive results. Images are very sharp and crisp for this price range. Detail is more than pleasing and the only place where the Xperia go could improve is color reproduction with the images being slightly dull.</paragraph>
+			<paragraph>Otherwise, the Xperia go offers a very good level of still capturing skills and would easily step in for an opportunist's digicam. Here go the results.</paragraph>
+			<paragraph>Macro is another area where we got pleasing results with the Xperia go. It retained the good level of detail from very close and you don't need to switch to any particular scene mode like Close Up or Macro - the camera just focuses on the touch of a finger.</paragraph>
+			<paragraph>We have to say we are a little surprised as we didn't expect such excellent results from a device meant to takle rough terrain.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image quality comparison<subsectionTitle>
+			<paragraph>The Xperia go joins the long list of tested devices in our photo comparison tool. We've pre-selected the Samsung Galaxy Ace 2 and HTC's One V for but feel free to select any of the other devices we've tested so far.</paragraph>
+			<paragraph>   The Sony Xperia go vs the Samsung Galaxy Ace 2 and the HTC One V</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Smooth video recording<subsectionTitle>
+			<paragraph>The Sony Xperia go captures 720p video at 30 fps. It cannot do 1080p even though it offers a dual-core processor. The camcorder has similar settings to the still camera, including focus mode, metering, exposure value, image stabilization and so on. The layout of the shortcuts can be customized here too.</paragraph>
+			<paragraph>The Xperia go's camcorder features continuous autofocus. It may take a few seconds to refocus after you re-frame but that's better than repeating attempts to lock focus that may ruin a video. In fast-paced videos the continuous focusing could get a little hectic and focus every second or two, but you can turn the setting off.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia go produces good videos with a stellar bitrate of around 12000 kbps and a healthy 29 frames per second. The videos are smooth and focusing is pretty accurate and fast. The continuous autofocus isn't as hectic as on some of the competition (here's looking at you, LG). Detail is good throughout but could be better - it's not spectacular but it does the job.</paragraph>
+			<paragraph>Check out the video sample we captured with the Xperia go below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If you want to look closer at the video quality, you can download this untouched sample 720p@30fps, taken straight off the device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>In our video comparison tool, the Xperia go measures up against the likes of the HTC One V and Samsung Galaxy Ace 2 and does very well.</paragraph>
+			<paragraph>   The Xperia go vs the Galaxy Ace 2 and the One V</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good connectivity<subsectionTitle>
+			<paragraph>The Sony Xperia go has quad-band 2G and dual-band 3G. Mobile data speeds are boosted by 14.4Mbps HSDPA and 5.76Mbps HSUPA.</paragraph>
+			<paragraph>Local connectivity is covered by Wi-Fi b/g/n with DLNA, Wi-Fi Direct and hotspot functionality, and you can easily play media (photos, videos, music) from DLNA-enabled storage devices or push content from your phone to a DLNA TV or music player.</paragraph>
+			<paragraph>Stereo Bluetooth is version 3.0. To complete the tally of available options, the Xperia go features a microUSB port for charging and data transfers and luckily, it's is among the few new Xperias to feature an expandable storage option via microSD.</paragraph>
+			<paragraph>The Xperia go lacks NFC support and also doesn't come with Sony's media remote app preinstalled. ANT+ wireless technology for communicating to various sports accessories is not supported as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Browsing<subsectionTitle>
+			<paragraph>The Sony Xperia go is slightly behind the high-end curb. It features the Android Gingerbread browser, which isn't as productive in terms of JavaScript performance as the ICS one as not as fast as Chrome for Android.</paragraph>
+			<paragraph>The user interface of the browser is simple, with almost no visible chrome by default. Once the page loads, all you see is the URL bar and the bookmark button at the top of the screen. Once you zoom in and pan around though even that disappears (scroll to the top or press menu to bring it back).</paragraph>
+			<paragraph>The browser supports double tap and pinch zooming, along with the dedicated virtual zoom buttons. There's text re-flow, which reformats text so that it best fits on the screen.</paragraph>
+			<paragraph>The browsing performance is excellent - panning, zooming and the text reflow are snappy.</paragraph>
+			<paragraph>The minimalist UI is still very capable - hit the menu key and six keys pop up. You can open a new tab, switch tabs, refresh the page, go forward, and open bookmarks. The last button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>One of the important features in the web browser is the full Flash 11 support. YouTube videos played smoothly all the way up to 720p - no dropped frames, audio lag or video artifacts. Flash games played trouble free too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great organizing skills<subsectionTitle>
+			<paragraph>The Sony Ericsson Xperia go comes with a solid set of organizing options, including a document viewer.</paragraph>
+			<paragraph>The app in question is OfficeSuite and it has support for viewing document files (Word, Excel, PowerPoint and PDF, including the Office 2007 versions). For editing, you will need to get the paid app.</paragraph>
+			<paragraph>Reading documents is okay on the 3.5" screen and panning is blazing fast. There's a built-in file browser and cloud storage integration (Google, Dropbox, Box).</paragraph>
+			<paragraph>The calendar has three different types of view - daily, weekly and monthly. The lower section of the screen is reserved for a list of upcoming events. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The Calendar also pulls info on upcoming events from your Facebook account. Facebook events appear just like regular calendar entries but you can't edit them on the phone, they are read-only.</paragraph>
+			<paragraph>There is a calculator aboard. It is nicely touch optimized - the buttons are really big and easy to hit. You can expand advanced functions (trigonometry, logarithms) by turning the phone in landscape.</paragraph>
+			<paragraph>The alarm clock app supports multiple alarms, each with its own start and repeat time. The Alarms app can also work as a desk clock - you have a big toggle for the brightness, as well as weather info and shortcuts to gallery slideshow and the music player.</paragraph>
+			<paragraph>The app has also offers a World clock along with stopwatch and timer functionality.</paragraph>
+			<paragraph>The Power Saver app helps you extend your battery life by toggling things like Wi-Fi, GPS, Bluetooth screen brightness, auto sync and background data on and off automatically when the battery charge falls below a certain user-defined threshold.</paragraph>
+			<paragraph>There are three presets in total. The other two are a manual power saver and a timed saver. The latter can, say, keep all those power-hungry features off for the night and turn them back on in the morning.</paragraph>
+			<paragraph>There are also several fitness apps pre-installed on the phone - such as Adidas miCoach or the pedometer-tracking WalkMate, but these are freely available from the Play store anyway so they do not make that much of a difference for the Xperia go.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Maps and Wisepilot navigation<subsectionTitle>
+			<paragraph>The Sony Ericsson Xperia go comes with a GPS receiver, which took less than a minute to get satellite lock upon a cold start. You can use the A-GPS functionality to get near instantaneous locks. Alternatively, network positioning will do if you only need a rough idea of your location.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>The latest version uses vector maps, which are very data efficient and easy to cache. The app will reroute you if you get off course, even without a data connection.</paragraph>
+			<paragraph>You can plan routes, search for nearby POIs and go into the always cool Street View.</paragraph>
+			<paragraph>Our Xperia go came with a Wisepilot trial with 30 days' worth of full navigation license. The app offers live info on weather, traffic, speed cameras and alerts.</paragraph>
+			<paragraph>Wisepilot uses online maps by default, so you'll need a data connection - but it works even in countries where Google Maps Drive doesn't. You can purchase offline maps if you like - a 2-year license for the whole of Europe is 5 Euro and North America is 5 Dollars.</paragraph>
+			<paragraph>If you decide to go with the online-only version, the Abroad mode makes sense. It will reduce roaming data usage and maps are cached (so, you if you start off at home or your hotel with the phone hooked up to a Wi-Fi network, you'll save even more).</paragraph>
+			<paragraph>We just can't promise you that your Xperia go will also come with the same Wisepilot license, it may be a market-dependent feature.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Play Store<subsectionTitle>
+			<paragraph>The Google Play Store is the place to go for apps on Android.</paragraph>
+			<paragraph>It's organized in a few scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. The in-app section is untouched though and it's very informative - a description, latest changes, number of downloads and comments with rating. There is usually a demo video and several screenshots for most apps too.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Sony may've parted ways with Ericsson but they still seem to hang out at some of the places they used to go together. One thing's for sure, the Xperia go won't mind being around the Xperia active, even if it finds itself under the occasional meter of water.</paragraph>
+			<paragraph>So, it's a phone that's supposed to make a living off the beaten track, but the Xperia go plays it safe by following closely in the Xperia active's footsteps. Sony have given it a bigger screen and two processor cores and that's as solid an upgrade as any. They've done well to change the styling too, in line with the new NXT series design language.</paragraph>
+			<paragraph>The Xperia go feels less sporty and muscular than its predecessor but we think it's one of the better-looking durable phones you can get. The solid single-color-body with no flashy accents is perhaps a bit too conservative but we don't mind at all. The Xperia go belongs in a backpack but wouldn't be out of place in an office either.</paragraph>
+			<paragraph>It's a rugged little handset that will appeal to urban and wilderness adventurers alike. Accordingly, it has some relevant apps preinstalled - like a compass and a torch. There're some fitness applications too in a featured homescreen folder but they're not what we would call a decider. All the apps are available on the PlayStore. There's nothing exclusive about them, any Android phone can have them.</paragraph>
+			<paragraph>The Xperia go doesn't support ANT+ either. ANT+ is the wireless pairing protocol to use mostly with fitness and health-monitoring devices. The technology was favored by Sony Ericsson but not Sony, obviously. This isn't such bad news though, not as bad, at least, as the absence of some value-adding accessories in the box. The Sony Ericsson Xperia active used to ship with a wrist strap and an arm case, which the Xperia go only offers in the "Sports Edition" version.</paragraph>
+			<paragraph>This should be enough, comparison-wise. One last thing to note though: there's no difference in the level of water and dust resistance between the two generations. Both the Sony Ericsson Xperia active and the Sony Xperia go are IP67 certified and both have wet-finger tracking for that texting in the rain or with sweaty fingers. That's the main reason why we decided not to put the Xperia go in the fish tank. Torture testing was out of the question - and skinny dipping doesn't quite qualify. And it wouldn't have told us anything new.</paragraph>
+			<paragraph>Anyway, the Sony Xperia go's water resistance hardly needs much further proof, and we think it's built well enough to take a few knocks on top of the usual wear and tear. The important thing here is that, while the IP67 certification for dust and water resistance is a key selling point, the phone sales will not be solely driven by its rugged credentials.</paragraph>
+			<paragraph>The design is rather mainstream to begin with, which is by no means a bad thing. Then, the microSIM to regular SIM adapter shows good thinking - the Xperia go will probably be in high demand as a back-up device for outings.</paragraph>
+			<paragraph>Overall, it's a bit of a niche alternative of the Xperia sola and the Xperia U. Both have the exact same chipset, similar design, but better displays. The Xperia U has a cap on the storage but is probably the cheapest dual-core smartphone on the market. Speaking of which, the Xperia Go is more expensive than both the sola and the Xperia U, but not by much.</paragraph>
+			<paragraph>  Sony Xperia sola ? Sony Xperia U</paragraph>
+			<paragraph>The Panasonic Eluga DL1 is the only other rugged smartphone powered by a dual-core processor. It's IP57-certified, which is a notch below the Xperia go's level of dust protection with the same degree of water resistance. The Eluga DL1 has a 4.3" OLED screen of qHD resolution and an 8 MP camera, which drive the price up and the phone isn't as readily available as the Xperia go.</paragraph>
+			<paragraph> Panasonic Eluga DL1</paragraph>
+			<paragraph>Traditionally well placed in the rugged smartphone market, Motorola have what's currently the cheapest tough phone. The DEFY mini costs about 125 euro and obviously fails to match the Xperia go. The mini has a smaller screen, a measly single-core processor and inferior stills and video. For around 180 euro you could opt for a single-core DEFY+, which boasts a much better 3.7" FWVGA screen and a 5MP camera.</paragraph>
+			<paragraph>  Motorola DEFY+ ? Motorola Defy Mini XT320</paragraph>
+			<paragraph>So, the Xperia go has few real rivals: rugged smartphones are gaining popularity but you wouldn't say the niche is too crowded yet. Sony have done well to position themselves on that market and it doesn't look like it has cost them a fortune to build the Xperia go. It can appeal to both urban users who wouldn't mind an extra level of protection against the elements and those who embrace an active, outdoor lifestyle. What they need is a phone that will survive a splash, not make one.</paragraph>
+		</subsection>
+	</page>
+</review>

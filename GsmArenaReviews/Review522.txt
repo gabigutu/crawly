@@ -1,0 +1,308 @@
+<review>
+	<title>Meizu MX5 review</title>
+	<description>Amaze U</description>
+	<link>http://www.gsmarena.com/meizu_mx5-review-1322.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.5" 1080p AMOLED display of 401ppi</paragraph>
+			<paragraph>Heavily customized Flyme OS 4.5.2 on top of Android 5.0.1 Lollipop</paragraph>
+			<paragraph>MediaTek Helio X10 chipset: octa-core 2.2GHz Cortex-A53, PowerVR G6200 GPU, 3GB of RAM</paragraph>
+			<paragraph>20.7MP Sony sensor camera with two-tone LED flash, 2160p video recording @30fps</paragraph>
+			<paragraph>5MP front-facing camera with 1080p@30fps video recording</paragraph>
+			<paragraph>16GB, 32GB or 64GB of built-in storage</paragraph>
+			<paragraph>Cat. 4 LTE (150/50Mbps); Dual SIM; Wi-Fi a/b/g/n/ac; Bluetooth 4.0; GPS/GLONASS/Beidou/QZSS; microUSB, USB On-The-Go</paragraph>
+			<paragraph>mTouch Home button with a fingerprint scanner</paragraph>
+			<paragraph>Active noise cancellation via a dedicated mic</paragraph>
+			<paragraph>3,150mAh battery</paragraph>
+			<paragraph>Allows for screen lock/unlock without ever touching the power button</paragraph>
+			<paragraph>Metal body, Slim bezels and great screen-to-body ratio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No microSD card slot</paragraph>
+			<paragraph>64GB option is hard to get</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Another autumn, another flagship season. Meizu was actually the first to open the flagship season with their MX5 announcement. While we may be a bit late with this review it was certainly something we were looking forward to as Meizu devices usually tend to be nicer than expected. We were excited to see whether this would be the case yet again as the expectations for the Meizu MX5 were already quite high - shipping with a great display, blazing-fast hardware and a capable camera all that at a quite reasonable price point.</paragraph>
+			<paragraph>Instead of combining all the latest available tech, Meizu returned to its roots offering a balanced flagship with a reasonable price tag. The new MX5 is a thoughtful combination of premium design, capable internals and for the first time - an AMOLED screen.</paragraph>
+			<paragraph>Meizu smartphones are already easier to get outside of China and a quick search reveals Meizu listings on many popular online retailers. The 64GB models are still a rarity though, but we hope this will improve in time, too.</paragraph>
+			<paragraph>The only feature that will definitely be missed is the microSD card slot, which should have been an alternative of the second SIM. Then again Meizu isn't favorable towards expansion slots for quite some time.</paragraph>
+			<paragraph>The Meizu MX5 retail box awaits unpacking right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Meizu MX5 retail package<subsectionTitle>
+			<paragraph>There is nothing unusual inside the Meizu MX 5 big retail box - a 2A charger, a microUSB cable and a very-well packed headset with a remote control.</paragraph>
+			<paragraph>The MX5 itself is packed into a booklet-style holder with descriptions of the phone's key features.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Meizu MX5 360-degree view<subsectionTitle>
+			<paragraph>Meizu MX5 is built around a 5.5" display - the same screen estate the Meizu MX4 Pro had. The new MX5 spreads at 149.9 x 74.7 x 7.6mm and weighs 149g - this makes it 1.4mm thinner and 2.3mm tighter than its processor. It has lost some weight too - about 9g.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Meizu MX5 is not only the company's first smartphone to introduce the AMOLED tech to the series, it is also the first one to switch from plastic to metal. This allowed Meizu to reduce the device's thickness and footprint, but keep the flagship specs.</paragraph>
+			<paragraph>About 74.5% of the front is occupied by the contrasty AMOLED screen, surrounded by completely black tiny bezels. The fingerprint/home key is almost invisible - there is no accent frame around as there was on the Meizu MX4 and we like it this way better.</paragraph>
+			<paragraph>The MX5 indeed looks gorgeous - the metal back won't get smudged easily, nor is it prone to scratches as the glossy plastic. The antennas around the top and bottom are actually covered by matte plastic bands, done with the same silver paint as the rest of the body.</paragraph>
+			<paragraph>Handling the Meizu MX5 feels exquisite - the chamfered metal finish before the screen glass improves the grip as is the mostly metal back. Unless your observation skills are extremely good, you won't be able to tell the antenna's plastic bands from the metal parts.</paragraph>
+			<paragraph>The Meizu MX5 is lightweight and the very good grip eases the one-hand operations. Its thin profile makes the phone slip easily in pockets and you'll have no problem carrying the MX5 around while driving, walking or even running.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above the 5.5" AMOLED screen of the Meizu MX5 we find the earpiece flanked by a couple of sensors, the notification LED and the 5MP selfie camera.</paragraph>
+			<paragraph>Below the display is the lonely mTouch fingerprint scanner / Home button combo. This key is both capable of hardware press and capacitive touch. A tap means Back, while a physical press acts as a Home key under Android OS.</paragraph>
+			<paragraph>The dual-SIM bed sits on the left side of the Meizu MX5, while the right has the metal volume rocker and the comfy Power/Lock key. You'll barely use the latter as the MX5 display can be unlocked right from fingerprint scanner.</paragraph>
+			<paragraph>The audio jack is on the top of the Meizu MX5 as is the secondary mic. The bottom has the usual - the microUSB port, the loudspeaker grille and the primary microphone.</paragraph>
+			<paragraph>The back is where we find a Sony-made 20.7MP camera under a sapphire-glass lens accompanied by a dual-tone LED flash and the assistive laser for the auto-focus.</paragraph>
+			<paragraph>The rear cover is non-removable this time around.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>Meizu MX5 packs a 5.5" AMOLED screen of 1080p resolution, which results into a flagship density of 401ppi. The images are crystal clear and sharp, the viewing angles are excellent, as is the contrast.</paragraph>
+			<paragraph>The color rendition is good, but not perfect with an average DeltaE of 5.6 (for the primaries plus black and white). While the MX5 screen displays very accurate colors in most cases, the reds are a bit off with a DeltaE of 12.7.</paragraph>
+			<paragraph>The pixel arrangement is very familiar - it's the Diamond PenTile we are used to see on the modern Samsung Super AMOLED screens.</paragraph>
+			<paragraph>While the contrast is as good as an AMOLED screen can offer, the brightness isn't on par with other siblings. Sure, the AMOLED units aren't known to be very bright, but the MX5 is noticeably dimmer than the Galaxy S5 and Galaxy S6 displays. At 100% the MX5 screen is as bright as the Oppo R7'sm but when we move the brightness slider in the middle the actual brightness is about 30% of the maximum.</paragraph>
+			<paragraph>The sunlight legibility is great though and you'll have no problem seeing what's happening on the screen even under bright sunlight.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The MX5 has 200mAh less battery capacity compared to the MX4 Pro - for a total of 3,150mAh. But unlike the energy-efficient Exynos chipset and IPS display, we didn't quite know what to expect of the new Helio X10 and AMOLED configuration.</paragraph>
+			<paragraph>We ran our battery test and it outed mixed-bag results. The smartphone does average across all of our tests, including the single-SIM standby, but scored a poor mark on the dual-SIM standby thus losing 9 hours from the total endurance rating in this scenario.</paragraph>
+			<paragraph>The rating of 55 hours isn't bad at all - it means you can use the MX5 for two full days and then some if you are to make an hour of 3G talks, web browsing and video playback each day. Putting a second SIM card drops the rating down to 46 hours. Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+			<paragraph>Those numbers are nowhere near the MX4 and MX4 Pro scores. Meizu has to do some serious optimizations with the next Flyme updates.</paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating. Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Meizu MX5 comes with quad-band 2G/GPRS/EDGE, 3G with HSDPA and HSUPA, as well as LTE Cat.4 support.</paragraph>
+			<paragraph>Local connectivity is covered by dual-band Wi-Fi a/b/g/n/ac with DLNA, so you can easily play media (photos, videos, music) from DLNA-enabled storage devices or push content from your phone to a DLNA-compatible TV or music player.</paragraph>
+			<paragraph>Bluetooth 4.1 is also on board with A2DP. The microUSB 2.0 port supports USB host so you can attach USB flash drives or connect peripherals. You can also stream your display via the Wireless Display feature (Miracast).</paragraph>
+			<paragraph>There is GPS and GLONASS support. There's no FM Radio, IR port or NFC on the Meizu MX5, there is no wired TV-out option either.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Lollipop with Flyme 4.5<subsectionTitle>
+			<paragraph>The Meizu MX5 comes with the custom-made Flyme OS, now in its 4.5 installment. It's based on the Android Lollipop 5.0.1 and it takes after its Chinese siblings and has a one-level interface with only homescreen and no app drawer, similarly to Apple's iOS.</paragraph>
+			<paragraph>The lockscreen on the Meizu MX5 is a pretty simple affair. You drag upwards to unlock and have the option of securing it with a passcode or an unlock pattern (or the fingerprint reader). There are no shortcuts on the lockscreen, but you can use a left or a right swipe to launch into a specific app directly from the lockscreen.</paragraph>
+			<paragraph>Gesture wake up is available - you can use pre-defined gestures to launch different apps while your phone is asleep - double tap to wake and swipe to unlock work by default, but you can also use swipe down, or other gestures such as Z, M, U, W, among others to launch apps of your choosing.</paragraph>
+			<paragraph>Holding down the home button will lock back the device. You can also assign a number of functions to tapping the home button - you can set it go back in the UI, close an app or go back to the homescreen.</paragraph>
+			<paragraph>The homescreen is even simpler. You get two panes by default but you can add more later on. The homescreen gathers all of your app icons and you can add widgets into the mix.</paragraph>
+			<paragraph>The notification area pulls down the whole way. You get a set of five circular toggles for various settings and you can expand them with a swipe down or with the dedicated virtual button in the top right.</paragraph>
+			<paragraph>The rest of the notification area is a basic list or expandable, actionable notifications.</paragraph>
+			<paragraph>Switching between tasks is done with a pull up menu from the bottom of the screen. It looks like iOS 6 in a way but works differently - you have to swipe apps up or down to dismiss them. There is also an option to pin an app (tap and hold) and it will stay always in recent apps at the state you closed it.</paragraph>
+			<paragraph>You can customize the UI with various themes. There are some preloaded but you can browse the App Center for more - some of them are paid but there are many free and a lot to choose from. There's also a variety of built in wallpapers.</paragraph>
+			<paragraph>There's a Do Not Disturb mode that will block notifications and calls and you can choose a white list of numbers that can get through. It can be scheduled to run at specific time intervals or be set manually.</paragraph>
+			<paragraph>There is one more option - Scheduled Power On and Off - you can setup your Meizu m2 note to shut down and boot up at a specific time on specific week days - just like alarms.</paragraph>
+			<paragraph>Flyme OS can be tough to get around at first but once you've gotten your bearings it becomes a treat to work with. Meizu is keeping things as simple as possible and everything works seamlessly without any hiccups.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Meizu MX5 joins the growing list of phones powered by the MediaTek's MT6795 chipset, also known as Helio X10. Unlike the name suggests, the processor is an octa-core 2GHz Cortex-A53, accompanied by a PowerVR G6200 (Rogue) GPU and 3GB of RAM.</paragraph>
+			<paragraph>The Xiaomi Redmi Note 2 and HTC One E9+ are the other devices we've met so far that utilize the same chipset. The upcoming Sony Xperia M5 and Gionee Elife E8 are also coming out with the Helio X10 later this year, so it seems the chip is gradually becoming a popular choice these days.</paragraph>
+			<paragraph>GeekBench 3 gauges the multi-core performance of the processor and the Meizu MX5 is doing flawless.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The compound AnTuTu 5 test puts the Meizu MX5 ahead of the competition, very close to One E9+ and it beats the Redmi Note 2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The other compound benchmark - BaseMark OS II 2.0 estimates the CPU, GPU, memory, OS and web performance and puts it all into a single score. The Meizu MX5 does great once again better than its Helio X10 siblings - the MX5 and One E9+.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Quite expectedly, a single Cortex-A53 processor core running at 2GHz is a decent performer, while eight of those are indeed a jaw-dropping configuration.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>PowerVR G6200 GPU is perfectly capable of handling 1080p displays. Its raw offscreen performance is better than the widespread Adreno 405 within the Snapdragon 615, so we guess the Helio X10 would be the smarter choice for the 1080p upper mid-rangers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>When it comes to 1080p onscreen performance, it does as good as Adreno 405 running on a 720p display, which says a lot. The Redmi Note 2, which has the same GPU, does slight worse. Of course, the PowerVR G6200 is no match for the best Adreno available on the market - the 430 model inside the OnePlus 2's Snapdragon 810 chip.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The BaseMark X is another GPU stress test, which puts the Meizu MX5 in the third place, bested only by the flagship-grade's Adreno GPU's inside the Mi Note (330) and OnePlus 2 (430).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The MX web browser performs ok when it comes to JavaScript performance, but shows some really good numbers on the compound BrowserMark benchmark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Helio X10 inside the Meizu MX5 is an absolute powerhouse and probably the best SoC for the class. The MX5 isn't of the flagship kind - there is no Quad HD screen or blazing-fast mind-blowing GPU - but it sure feels like a premium device with such buttery-smooth performance backed up by a superb design.</paragraph>
+			<paragraph>There is nothing the Helio X10 can't handle on the MX5's 1080p display and we are sure the Meizu fans will appreciate the choice of platform and all the software optimizations the company has done on the Flyme launcher.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>At its core, the phonebook on the Meizu MX5 is a list of all contacts but you can view only a specific group or filter where contracts come from - phone contacts, email account or a Meizu account.</paragraph>
+			<paragraph>You can't add Facebook or Twitter or any social network out of the box. Installing the Facebook or Twitter app will allow you to sync your contacts from there. You can link contacts, but the functionality is annoyingly limited.</paragraph>
+			<paragraph>The phonebook will automatically link contacts with the same name, but that's it. You can't manually link or unlink contacts.</paragraph>
+			<paragraph>The Meizu MX5 has all reception bars full and held onto signal great even in tighter spots. Call quality is very good. A dedicated mic for active noise cancellation makes sure the other party hears you loud and clear.</paragraph>
+			<paragraph>The dialer features smart dialing, which is nice. Otherwise it doesn't differ from any other in functionality.</paragraph>
+			<paragraph>The phone supports dual-SIM with dual-standby. The second SIM supports GSM networks only, while the primary works on 3G and LTE. Managing the SIM cards is very easy as is initiating calls and sending texts.</paragraph>
+			<paragraph>The Meizu MX5 passed our loudspeaker test with flying colors and the speaker quality is excellent for a single-speaker setup with deep sound. The Meizu MX5 has one of the loudest speakers we've seen to date.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and keyboard<subsectionTitle>
+			<paragraph>The messaging department is quite straightforward: there are no folders here, just New message, Search and Settings buttons. Above is a list of all your messages organized into threads.</paragraph>
+			<paragraph>Meizu has tweaked the generic email client. It supports multiple Exchange, POP or IMAP inboxes and you have access to the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>The keyboard of the Meizu MX5 is nicely laid out and has a four-row interface. There's a dedicated numeric view with a numpad-like style but we would have preferred the numbers as a line on top of the keyboard.</paragraph>
+			<paragraph>You can switch between keyboard styles, send Meizu and text smileys and have an option to choose between many languages.</paragraph>
+			<paragraph>The TouchPal keyboard is also pre-installed - it offers rich customization options including key width and height, themes, gestures, among other options.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A simple yet powerful gallery<subsectionTitle>
+			<paragraph>The Flyme gallery has two viewing modes - photo and gallery. The photo stacks images into months while the gallery puts them into folders. You can add or remove folders from the gallery and also search through it.</paragraph>
+			<paragraph>Viewing an image feels a lot like the iOS gallery. By default the bars around an image are white with the content controls but upon a tap they turn black and lose all controls so you can focus on the image at hand.</paragraph>
+			<paragraph>There's also a built-in editor that offers filters and all the basic controls for contrast, brightness and you can even add blur or vignette. You cannot use different editors from the stock gallery and would need to install a third-party gallery (like Google's Photos) to have different editors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great music player<subsectionTitle>
+			<paragraph>The music player can only find tracks located in the Music folder. You can browse your collection the traditional way or you can select to have it filtered by folders.</paragraph>
+			<paragraph>In the first case tracks are sorted into several playlists like All songs, Recently added, Folders and you have the option to create custom playlists. When viewing All songs you can choose between three types of sorting in a tabbed layout: song name, artist and album.</paragraph>
+			<paragraph>The music controls are at the bottom of the screen. Choosing an artist will show you all the albums and corresponding songs.</paragraph>
+			<paragraph>You can access the equalizer from the advanced menu. It features several presets, which you can edit manually - but you need to insert the headphones first.</paragraph>
+			<paragraph>The music app supports Dirac HD Audio, which improves the sound output based on the specific headphone set you are using. There is also a standard music equalizer.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Capable video player<subsectionTitle>
+			<paragraph>The Meizu MX5 comes with a dedicated Video app, but it expects videos to be placed in the video folder. You can use the file browser or gallery to get videos to play from elsewhere - it offers thumbnails and everything so we ended up using it more often than the Video app itself.</paragraph>
+			<paragraph>There's a pop-out option that allows you to view the video as an overlay to the OS.</paragraph>
+			<paragraph>The Meizu MX5 played everything we threw at it - Xvid, DivX, MP4, MOV, WMV and it supports the AC3 audio codec, too. Subtitles are supported, but it recognizes only Latin and Chinese characters.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is downright impressive<subsectionTitle>
+			<paragraph>The Meizu MX5 impressed us in the first part of our audio quality test. When paired with an active external amplifier the smartphone produced perfectly clean output at volume levels higher than any other smartphone currently on the market.</paragraph>
+			<paragraph>The extremely high volume was here to stay even after we plugged in a pair of headphones. The only degradation we noticed in the second part of the test was an increase in stereo crosstalk that sent it from excellent to average levels. Still, we?d say it?s a very impressive showing by the Meizu flagship here.</paragraph>
+			<paragraph>Anyway, here go the results so you can do your comparisons.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Capable 20.7MP snapper with a dual-tone LED flash<subsectionTitle>
+			<paragraph>The Meizu MX5 has the same Sony 20.7MP sensor we saw on the MX4, capable of impressive 5248x3936px snaps in 4:3 aspect. The camera has been upgraded with a laser-assisted auto-focus, which should help the sensor take snapshots in the dark.</paragraph>
+			<paragraph>Meizu offers what it calls Super high ISO that will allow the phone to shoot at up to 1600 ISO in low light conditions. There's also a dual-color flashlight that's said to eliminate distortion in low-light. Both LEDs fire simultaneously.</paragraph>
+			<paragraph>The camera interface by default launches into Auto mode where the camera determines the shooting parameters. You have the option to turn on HDR (but no automatic HDR), gridlines for the viewfinder and a level gauge so that your pics are perfectly leveled compared to the horizon. There's also an option to enable a timer of either 3, 5 or 10 seconds.</paragraph>
+			<paragraph>There's a side-scrollable mode dial at the top of the camera UI but you can also tap it to get a full view of the shooting modes - all six of them. These are Auto, Manual (where you can set the shutter speed (up to 20s), ISO, exposure compensation and even the focus - from macro to infinity) that uses a Gmail-like icon, Beauty (which can make eyes bigger, faces slimmer, skin smoother and whiter), Panorama, Light field (which is Meizu's refocus app allowing you to put the focus in any part of the image or have it entirely in focus), Night mode, Scan (for QR and barcodes), Slowmotion and Microspur (macro).</paragraph>
+			<paragraph>The Meizu MX5 snaps great 20MP shots, there is a noticeable improvement since the MX4. The resolved detail is a notch better than before, the oversharpening is almost gone and the digital noise though present is also on the lower side. Meizu worked hard on the processing algorithm and sure did great.</paragraph>
+			<paragraph>The samples have excellent dynamic range and the rendition of foliage is lovely. Contrast and colors are also something deserving only praise. Indeed Meizu's put an effort of improving the software and they did it right. While there is no auto HDR mode, the amazing dynamic range made us use the HDR option only once in two weeks.</paragraph>
+			<paragraph>The HDR mode is meant to get a more even exposure of a scene - bringing back detail in the highlights and the shadows. On the Meizu MX5 it does very good job of bringing back detail, but if there is enough light it will turn out a rather unrealistic overexposed picture. The camera sensor seems to have a great native dynamic range, so we'd suggest turning the HDR on only if you are unsatisfied by the auto mode.</paragraph>
+			<paragraph>This is a photo shot in quite demanding weather conditions, which was outed perfectly by the Auto mode.</paragraph>
+			<paragraph>We played a bit with the manual mode to take a few low-light scenes. We used custom shutter speeds and exposure for those images, while the phone was mounted on a tripod. If you happen to have a small tripod, you can see for yourself that the Meizu MX5 can capture some wonderful scenes after the sun sets.</paragraph>
+			<paragraph>And here is another sample shot at night using the manual mode with 5s shutter speed and ISO 100.</paragraph>
+			<paragraph>Panoramas aren't too impressive on the Meizu MX5. There is plenty of resolution and good overall exposure but the resolved detail is low.</paragraph>
+			<paragraph>Finally, you can check out a 5MP image taken with the front-facing camera of the device. It doesn't shine with too much detail but it would do a fine job for selfies.</paragraph>
+			<paragraph>You can compare the Meizu MX5 to any of the smartphones we've tested so far in our photo quality comparison tool. It does an excellent job of resolving a great level of detail, while it also does a great job with the contrast and color reproduction across all charts.</paragraph>
+			<paragraph>   Meizu MX5 in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>2160p video recording at 30 fps<subsectionTitle>
+			<paragraph>The Meizu MX5 shoots videos up to 4K resolution (3840 x 2176px) at 30fps and 1080p videos at 30fps. There's no 60fps smooth motion option but you do get a 720p@100fps slow motion shooting mode that renders and plays back at 25fps.</paragraph>
+			<paragraph>The UHD videos of the Meizu MX5 are recorded in the HEVC format, which is essentially the next-generation H.265 mode that uses a much smaller footprint on the storage. While this advancement makes sense because it helps you reduce the storage requirements it means that most of your media players will need an additional codec download in order to playback the videos you shot with the Meizu MX5. The smartphone itself has no issues with the videos, though.</paragraph>
+			<paragraph>Sadly, YouTube doesn't support the new codec just yet so you can check out the 2176p@30fps sample here.</paragraph>
+			<paragraph>The 4K videos produced by the Meizu MX5 have very good levels of detail, the contrast is great as are the colors. The white balance is accurate, too.</paragraph>
+			<paragraph>The 1080p videos are naturally not as impressive as they are around 4 times smaller in resolution. While the resolved detail is less impressive, the contrast and white balance remain excellent. There is some unpleasant oscillation though, especially visible when you are not moving the camera, which may ruin the videos. It's quite possible that this may as well be a codec issue but it's quite noticeable regardless on all video players we tried.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here goes the 1080p@30fps file too.</paragraph>
+			<paragraph>720p slow motion videos are shot at 100 fps. The phone plays those videos back at 100fps but if you export them you get a 25fps sample. Motion is slowed as advertised but the quality isn't too impressive.</paragraph>
+			<paragraph>And if you want to do some pixel peeping you can head over to our video comparison tool below. It will show you how the camcorder renders colors and textures and just how much resolution it fits from a 4K video.</paragraph>
+			<paragraph>   Meizu MX5 2176p in our video compare tool</paragraph>
+			<paragraph>   Meizu MX5 1080p in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The MX browser<subsectionTitle>
+			<paragraph>The web browser interface utilizes almost the entire screen real estate to the web page, save for the status bar on top and a tiny bar on the bottom for Refresh, Tabs and Bookmarks. Choosing Tabs opens a quick pop up preview of your open tabs instead of bringing up an entirely new screen, which is great as it still leaves the website your on in plain view.</paragraph>
+			<paragraph>The browser supports double tap and pinch zooming. It's really fast and fluid too. There are also goodies like text reflow or sharing an URL over email or SMS.</paragraph>
+			<paragraph>There's even a Reading mode that looks exactly like the one on the Apple iPhone. Normally we're against copying but the feature is a no-brainer that we'd like to see added to every major browser out there.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>The Meizu MX5 features a calendar that supports multiple online accounts. It offers monthly, weekly, daily and agenda views and is pretty straightforward to work with. Creating a new event lets you set which calendar to store it in, along with a reminder.</paragraph>
+			<paragraph>The Calendar has a very minimal, clean look but retains all the functionality you'd expect. You can also go for the Google Calendar - it's available for download as a separate app from the Play Store.</paragraph>
+			<paragraph>Moving on, we have the Clock app that will handle multiple alarms with custom repeat times, ringtones, snooze time and labels. There are also a stopwatch and timer integrated within the Clock app.</paragraph>
+			<paragraph>A calculator app is also on board. Interestingly you can use it as an overlay to the homescreen. You can't manually resize it but you can choose between two size settings. It offers a currency converter too.</paragraph>
+			<paragraph>The Memo app is clean and simple. You can add notes, images and even check lists into it. The Painter app will let you paint with a number of virtual tools, choosing different colors.</paragraph>
+			<paragraph>The App Center works with only Chinese content but you can still use it, if you can read Chinese, that is. Thankfully, the Google Play store came preinstalled on our device so we got our apps from there.</paragraph>
+			<paragraph>The preinstalled file manager lets you browse through the memory of the Meizu m2 note or through Recent, or through different media types - music, videos, pictures, etc. It allows copy, cut and paste and also sharing of files on your device.</paragraph>
+			<paragraph>Perhaps the highlight of Meizu's homebrewed apps is the Security app. It lets you scan for viruses, clean junk files, keep an eye on your large files, manage your data traffic, and most importantly - control the permissions for each app you install.</paragraph>
+			<paragraph>Finally, the latest version of Google Maps comes pre-installed, so you can use it for navigation, offline maps, places suggestions, among the other cool features it offers.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>Phone offers great build quality, solid metal construction.</paragraph>
+			<paragraph>mTouch home button is the most practical home button we've seen - accepting fingerprint reading, presses and taps. Apple could probably learn a thing or two here.</paragraph>
+			<paragraph>The screen isn't as bright as we would have liked but color rendering and contrast are good. Viewing angles and sunlight legibility are good as well.</paragraph>
+			<paragraph>The battery Endurance rating of 55h is only average, and it only gets worse if you use it with two SIM cards inside. It's the standby power drain to blame so perhaps that's something that can be optimized in future software revisions.</paragraph>
+			<paragraph>Flyme OS is fluid and responsive, unlocking gestures are just as good here, mTouch button has some great added functionality (closing apps, going into previous menu). Great customization options via themes.</paragraph>
+			<paragraph>The MediaTek Helio X10 offers flagship-grade processor and graphic performance, 3GB RAM is really welcome.</paragraph>
+			<paragraph>Video player has very good codec support, seamless 4K video playback.</paragraph>
+			<paragraph>Outstanding audio quality.</paragraph>
+			<paragraph>Great camera performance, sharp and detailed images with less noise and more mature processing than on the MX4 Pro, superb low-light scenes.</paragraph>
+			<paragraph>Disappointing panoramic images, unimpressive selfies.</paragraph>
+			<paragraph>The 2160p videos offer superb detail and contrast, MP4 codec is the better choice compared to HEVC on the Meizu MX5.</paragraph>
+			<paragraph>The 1080p videos are oscillated and far from impressive.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Meizu MX5 in indeed a very balanced flagship targeting performance, premium feel and value for money over the latest technology on the market. That's why we are not getting the quite literally 'hot' Snapdragon 810 or the insanely dense Quad HD screen resolution.</paragraph>
+			<paragraph>Meizu MX5 costs about ?350 on the EU market right now, or $400 in the States. But there is a chance you find it cheaper from smaller online retailers. And that's an amazing price tag for a feature-rich package as the MX5. A big 5.5" AMOLED screen, premium design with a metal shell, a blazing fast Helio X10 chip, a lovely 20.7MP camera with great capabilities in all lighting and weather conditions, really good loudspeaker quality, among others.</paragraph>
+			<paragraph>Yes, Meizu MX5 offers a lot, but remains quite affordable. Let's do a quick summary.</paragraph>
+			<paragraph>There is little the Meizu MX5 fails to deliver, with the biggest concern being the red color reproduction on the display and the so-so 1080p videos.</paragraph>
+			<paragraph>Of course, if you are looking for an affordable flagship, there is no way you can ignore the OnePlus 2. It costs as much as a Meizu MX5, and offers similar restrictions such as the lack of microSD slot, FM radio and NFC. Its 5.5" display isn't an AMOLED one, but it isn't very bright either.</paragraph>
+			<paragraph>The OnePlus 2's controversial Snapdragon 810 offers twice the GPU punch, but lacks the processing power of the MX5's CPU. The rest is up to you - heavy customized Flyme on the MX5 or almost pure Oxygen launcher on the OnePlus 2. Last, but not least important, if you decide on the OnePlus 2 - it won't be as easy to get because of its limited availability and invitation-only purchase.</paragraph>
+			<paragraph>If Quad HD screen resolution is definitely your thing, then the previous Meizu MX4 Pro seems like a great offer. It has a sharper display with better colors, plus better battery life performance. You'll lose the metal body, the AMOLED screen and the 64-bit processor, but you'll keep the good camera and processing power. The GPU performance will take a huge hit though, because of the higher display resolution.</paragraph>
+			<paragraph>The Xiaomi Redmi Note is a beautiful dual-glass smartphone with big IPS 1080p display and capable Snapdragon 801 chip. While its camera department isn't on par with the MX5, the MIUI is a personal favorite for many. Its Quad HD / Snapdragon 810 editions comes a lot pricier, but it's also worth considering.</paragraph>
+			<paragraph>Sony Xperia M4 Aqua may be packing a smaller 5" 720p display, but it will give you water and dust protection, beautiful design, memory expansion and amazing battery life. Its camera performance is not bad either, while the Snapdragon 615 is perfectly equipped to handle 720p apps and heavy games. If you want a higher-res display and the MX5's Helio X10 chip, Sony has the Xperia M5 in the pipeline for you.</paragraph>
+			<paragraph>The Xiaomi Redmi Note 2 is rather cheaper, but has the same big 5.5" of 1080p resolution, Helio X10 chip and attractive design. Its camera is inferior, but you may get it with a microSD slot. And the new MIUI 7 looks quite promising.</paragraph>
+			<paragraph>The dilemma between Huawei Honor 7 and the Huawei P8 remains. The P8 is more beautiful, but the Honor 7 is more powerful, while both share a similar 5.2" IPS 1080p screen, run on the proprietary Kirin 935 chip, come with expandable memory and rich connectivity. The Honor 7 is cheaper, but boasts a 20MP main camera with phase-detection AF, while the P8 has a 13MP OIS camera. Both devices are slightly more expansive than the Meizu MX5, but you may find the extra cash is worth it for a microSD slot, better selfie cameras, NFC and FM radio.</paragraph>
+			<paragraph>The Meizu MX5 isn't the perfect flagship, but it was never meant to be. An attractive price tag such as this calls for a few compromises such as the FM radio, the memory expansion and user-accessible battery. Still, Meizu did an amazing job putting together modern tech into a metal shell and came out with a great product that's easy to recommend.</paragraph>
+		</subsection>
+	</page>
+</review>

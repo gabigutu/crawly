@@ -1,0 +1,202 @@
+<review>
+	<title>Asus P750 review</title>
+	<description>Significant other</description>
+	<link>http://www.gsmarena.com/asus_p750_review-review-260.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Windows Mobile 6.0 Pro</paragraph>
+			<paragraph>UMTS/HSDPA 3.6Mbps support with video calls</paragraph>
+			<paragraph>2.6" 65K-color TFT touchscreen display with QVGA resolution</paragraph>
+			<paragraph>520 MHz Marvel CPU</paragraph>
+			<paragraph>64MB of RAM, 256MB of ROM</paragraph>
+			<paragraph>3.15 megapixel auto focus camera and a secondary VGA video-call camera</paragraph>
+			<paragraph>Wi-Fi support</paragraph>
+			<paragraph>Built-in SiRF Star III GPS receiver (A-GPS support)</paragraph>
+			<paragraph>USB and stereo Bluetooth support</paragraph>
+			<paragraph>microSDHC memory card slot</paragraph>
+			<paragraph>High-quality materials and excellent construction</paragraph>
+			<paragraph>Hardware keypad</paragraph>
+			<paragraph>Rich retail package</paragraph>
+			<paragraph>Microsoft Office viewing/editing suite</paragraph>
+			<paragraph>Pre-installed business card scanning application</paragraph>
+			<paragraph>Pre-installed additional time management applications</paragraph>
+			<paragraph>Pre-installed calls filtering application</paragraph>
+			<paragraph>Pre-installed Remote Desktop and Remote Presenter applications</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>Tri-band GSM only</paragraph>
+			<paragraph>Hefty size</paragraph>
+			<paragraph>Limited amount of RAM</paragraph>
+			<paragraph>2.6 inch relatively small (in PocketPC terms)</paragraph>
+			<paragraph>Camera is really poor (we guess it might be a faulty unit)</paragraph>
+			<paragraph>Video recording resolution is way too low</paragraph>
+			<paragraph>No multimedia software preinstalled (Samsung offer that)</paragraph>
+			<paragraph>No Task Manager application preinstalled (HTC offer that)</paragraph>
+			<paragraph>No alternative web browser pre-installed (both Samsung and HTC offer that)</paragraph>
+			<paragraph>Asus Launcher application not customizable</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>Asus P750 lands on the crowded Windows Mobile Pro scene but it sure isn't dropped defenseless. The Asus PocketPC is among the best equipped Windows Mobile devices on the market. A hardware multi-tap keyboard to back up that 2.6" TFT touchscreen, HSDPA, fast 520 MHz Marvel CPU, Wi-Fi, built-in SiRF Star III GPS, stereo Bluetooth and a 3 megapixel autofocus camera certainly sound like the right ammo to take on HTC-branded devices.</paragraph>
+			<paragraph>Still, many might have second thoughts about buying a handset by a maker with not so long a history in Windows Mobile. To them we say we found the Asus P750 enjoyable at first glance and the first impressions are of a handset that can top almost anything HTC throws at it. In case we've got you interested enough, join us to find out if the potent PocketPC carries its feature load with style.</paragraph>
+			<paragraph>ASUS P750 doesn't seem to have a straight replica in the HTC lineup - the same holds true for the Eten PocketPCs too. That hardware multi-tap keypad really sets it apart - usually in the PocketPC world it's either no keyboard at all or a full QWERTY.</paragraph>
+			<paragraph>Unfortunately, the Asus P750 doesn't have a good enough advantage over QWERTY devices sizewise. It's on the large side while the display is below the 2.8-inch standard that seems to reign the industry. Still, it's not a big difference, and the tad smaller screen wasn't that much of a bother to us.</paragraph>
+			<paragraph>Asus have only recently announced their thumb-optimized Home screen plug-in, so essentially you can't rely on getting a full thumb-operated device straight out of the box. You have to rely on the stylus in most of the occasions. That's not necessarily a big thing, but we find this to be the major weakness of most current PocketPCs. And yes, we admit that it was the Apple iPhone that served as an eye-opener in this repect.</paragraph>
+			<paragraph>We are guessing though that Windows Mobile still has a lot of fans and it's a versatile platform with enough potential - a look at the HTC Touch Diamond clearly proves that. So, if you are still interested, we'd love to host a guided tour of the do-s and don't-s of the Asus P750.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus P750 360-degree spin<subsectionTitle>
+			<paragraph>As we mentioned, the Asus P750 is a rather hefty, but the multi-tap keypad certainly makes it come out as a more conventional handset. The P750 measures 113 x 58 x 17.4mm. That's marginally smaller than the HTC TyTN II, which happens to pack a full hardware QWERTY keyboard and a slide-and-tilt 2.8" display. We found the TyTN II barely pocketable, so we guess the same definition holds true for the P750 too. Still, the P750 is a good 60g lighter than the TyTN II, so that should count for something too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>Asus P750 is made of some really nice materials - bushed metal on the front and matt black plastic on the back. Some of the keys are metallic too, and all that creates a distinctive high-end feel.</paragraph>
+			<paragraph>Asus P750 gets delivered in a really rich retail package - a thing you rarely see even with expensive PocketPCs. The P750 package offers a leather holster for the handset, stereo handsfree, USB data cable, a car charger, and... you'd never guess? a windshield mount holder.</paragraph>
+			<paragraph>We already commented on the 2.6" TFT display being slightly below the current 2.8-inch industry standard. It has QVGA resolution but users report that the display can be unlocked to work in true VGA mode, as it's originally a VGA display forced to QVGA resolution. You can find more about that in the final chapter of this review, right before the conclusion.</paragraph>
+			<paragraph>The display is not very good under direct sunlight, but that holds true for most of the mobile phones out there. We suffered no legibility issues using the P750 as an in-car navigation solution.</paragraph>
+			<paragraph>The frame around the display is made of brushed metal. Above the display there is a video-call camera and a stylish earpiece grill, which seems etched in the metal plate, reminding a bit the Nokia 6500 classic.</paragraph>
+			<paragraph>Below the display is the nice and ample keypad, which is great for typing in case you don't fancy the virtual keyboards that Windows Mobile offers. Asus have not preinstalled any thumbable virtual keyboard, so you would need the stylus if you are to use those.</paragraph>
+			<paragraph>Back to the hardware keypad, it's worth noting the metallic keys on the first row make a real nice accent on the metal front. Usability suffers a bit however, as they don't have any backlighting and are thus difficult to use in the dark. Other than this obvious flaw, the P750 keypad has a nice, strong backlighting.</paragraph>
+			<paragraph>There is only one key on the keypad, which might get you wondering with its circular icon. It's the Asus' very own ModeSwitcher key and you can learn more about it in the interface chapter of this review.</paragraph>
+			<paragraph>On the right side of the P750 there are several interesting controls. First, there's the GPS antenna slot to plug in an external GPS antenna for better reception.</paragraph>
+			<paragraph>The slider there allows you to both put the handset in standby mode (a single slide upwards) and to lock the keypad (a single slide downwards after that). You'd be better off with the keypad locked, since almost any accidental key press takes the device out of standby mode. That solution is among the most convenient that we've seen on a PocketPC - toggling the standby screen is among the most frequent tasks on any device of this type.</paragraph>
+			<paragraph>Next to the slider in question is the reset hole (for restarting the device with the help of the stylus) and the camera key. Unfortunately, the camera key function is not customizable and it's permanently set to activating the camera upon a short press. That can be quite annoying, as you should be extra careful not to press the key when you don't need the camera.</paragraph>
+			<paragraph>The microSD memory card slot is right next to the camera key and it is pretty easy to swap cards. We tested the Asus P750 with both a 4GB and an 8GB microSDHC card and it handled them trouble-free.</paragraph>
+			<paragraph>On the left side of the P750 there is a three-way scroll wheel, which is many people's favorite single-handed method of navigating the menus. But since the keypad on the front panel packs a full-featured D-pad, the scroll wheel becomes pretty redundant here.</paragraph>
+			<paragraph>Next to the scroll wheel there is a shortcut key for activating the voice dialing or the voice commands. Fortunately, if you don't need those features, this key can be reassigned.</paragraph>
+			<paragraph>The top of the handset is clear of any controls whatsoever, while the bottom houses a standard 2.5mm audio jack and a standar miniUSB connector. The stylus is also tucked at the bottom.</paragraph>
+			<paragraph>The back cover of the Asus P750 is made entirely of matt plastic, which evades fingerprints with an unexpected ease. The 3 megapixel camera lens and the loudspeaker are encased within a metallic frame.</paragraph>
+			<paragraph>Below the battery cover you will find a Li-Ion battery with a capacity of 1300 mAh. The manufacturer promises up to 240h of standby time and up to 6h of talk time. Overall, the Asus P750 is not a spectacular performer when it comes to battery life. It lasted 2-3 days on a single charge.</paragraph>
+			<paragraph>We tested how the battery performs with the GPS on and it managed to surprise us by lasting a little over 6 hours in still position. It's a really nice achievement and credit should probably go to the SiRF Star III chipset used. The competing HTC Touch Cruise, which is based on the Qualcomm 7200 platform managed to last for only 3.5h in exactly the same conditions.</paragraph>
+			<paragraph>You should of course be expecting less in real-life usage in a moving vehicle.</paragraph>
+			<paragraph>In conclusion, we would like to point out that the Asus P750 is indeed a big fellow, but its excellent build quality, choice of materials and ergonomics make it a wonderful PDA.</paragraph>
+			<paragraph>Take the jump to the next page for more on the software part of it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows Mobile goes a long way<subsectionTitle>
+			<paragraph>The Asus P750 offers the standard Windows Mobile user interface without the 6.1 upgrades. Asus P750 doesn't have a touch-optimized homescreen like HTC's TouchFLO either. In fact, Eten, Gigabyte and Asus have only just recently announced their proprietary thumbable homescreens, which are obviously not to be expected in previously announced handsets. However we suppose the new Asus homescreen called Asus Glide will be available to all P750 users to download. More about it can be found on the Asus website.</paragraph>
+			<paragraph>For now the P750 is stuck with the default Windows Mobile Home screen. Here's a quick walkthrough for anybody new to Windows Mobile Pro. The Start menu is in the top left corner and gives you access to some customizable shortcuts and frequently used programs. The Programs item that appears on this Start menu takes you to a list of all applications installed on your PocketPC. The Settings item launches a menu in charge of most system settings.</paragraph>
+			<paragraph>Oh, and one more thing - unlike the desktop Windows, pressing the X button in the top right corner of an application window doesn't usually terminate it but sends it running in the background instead. Theoretically, that way the app should resume much faster the next time you need it. In practice however, those background applications tend to build up and consume all your system resources (which are usually rather limited on a handheld).</paragraph>
+			<paragraph>Now, let's get back to the Home screen (or Today screen in the PocketPC lingo). The right soft key by default opens the Contacts application, while the left one starts the Asus Launcher. It gives you quick access to some of the most used features on the handset (as seen by Asus). The nice thing about it is that it resembles a lot a regular feature phone interface and it's touch optimized (to an extent). Experienced Windows Mobile users however will most probably find it redundant and would rarely use it.</paragraph>
+			<paragraph>Instead of it, Asus could have preinstalled some sort of a user friendly Task manager. A capable and readily accessible task manager is probably the single most important thing that Windows Mobile lacks. HTC have addressed that and they ship their latest handsets with a custom Task Manager.</paragraph>
+			<paragraph>Asus however have preinstalled a handy quick status app that gives you a single-glance overview of CPU mode, USB mode, Brightness, Battery, Memory, and Storage. The CPU mode mentioned on top of that list doesn't really give you the actual MHz reading, but shows the CPU Frequency mode instead: Automatic, Turbo, Standard or Power Saving. The USB mode shows whether the handset is in Card Reader or ActiveSync mode.</paragraph>
+			<paragraph>Another useful system application is the Auto Cleaner, which gives you control over what happens when you press the X button on any given application - whether it keeps on running in the background or is terminated.</paragraph>
+			<paragraph>The next system application provided by Asus is the Mode Switcher. By default it activates when you press the Mode Switcher key on the hardware keypad (the big one the left with the recycle-like icon). The default behavior of this Mode Switcher key is to bring up a row of four shortcuts to some customizable features (changing screen orientation and returning to the Home screen are among them). The key can supposedly be also set to start a Running Tasks switcher instead, but strangely that setting never worked.</paragraph>
+			<paragraph>And finally, the last system app on Asus P750 is Backup. It allows full backup of your PocketPC, which can later be restored if needed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Phonebook is typically excellent<subsectionTitle>
+			<paragraph>Windows Mobile PocketPCs have an unlimited contact list with a plethora of available fields for each entry. Synchronization with MS Outlook is textbook.</paragraph>
+			<paragraph>There is a very practical additional field to each contact - the "Last call". It displays the number and the time the contact in question was last called. A full log is available of calls to and from numbers belonging to this contact, as well as call duration and time of call.</paragraph>
+			<paragraph>The Asus Call Filter app allows you to quickly filter incoming calls based on reject or accept lists.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Loudspeaker test<subsectionTitle>
+			<paragraph>When it comes to loudspeaker performance, the Asus P750 won a place in the middle with a Good mark. You can see how it ranks to some other Windows Mobile devices, that we've reviewed.You can find more info on the test itself and the other tested handsets here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging is also versatile<subsectionTitle>
+			<paragraph>Sending and receiving messages is done through the centralized Inbox. It has separate folders for SMS, MMS and email. SMS length is virtually unlimited, as well as the storage of received and sent messages. Inside the multimedia editor you will find the useful option to create multi-page messages containing more than one melody, image or text.</paragraph>
+			<paragraph>The Outlook Mobile email client supports POP3 and IMAP accounts. You can have multiple accounts and you can set the client to automatically check mail at regular time intervals. It has full support for sending and receiving attachments.</paragraph>
+			<paragraph>There is also Direct Push support. What it means is, instead of checking mail at regular intervals, your messages are delivered to you immediately once they are received by the mail server. The only condition is that the pairing Microsoft Exchange server supports Direct Push. With Windows Mobile 6.0 Professional you have search via preinstalled software, plus support for HTML email.</paragraph>
+			<paragraph>There are several text input methods with the Asus P750. You can use the multi-tap hardware keypad, which is most natural and doesn't require use of both hands. Predictive input is courtesy of the XT9 system. Of course, if you are willing to use the stylus, you an also make use of the virtual on-screen keyboards and the handwriting recognition system.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>File manager does the job<subsectionTitle>
+			<paragraph>The built-in file manager of the P750 is the standard Windows Mobile variety. It does a good job finding the files you are looking for. The file manager can create new folders, copy and move files, set tracks as ringtones or simply send files to other devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Picture gallery is appalling<subsectionTitle>
+			<paragraph>The Picture gallery of Windows Mobile is an application called Pictures&amp;Videos and, as the name implies, you use it for browsing the multimedia files in question. It is integrated in the OS and doesn't offer anything different from phone to phone. In order to have a look at a series of photos you have to open photos one by one, as there is no Open next image button or shortcut. That makes this piece of software probably the most unuser-friendly one in quite a while. Even feature phones have better image galleries.</paragraph>
+			<paragraph>As far as pictures are concerned, you can zoom in and out. The files are shown as either thumbnails or as a plain list. There's a shortcut that allows you to turn the camera on directly from this application. You can even apply some basic editing on the images.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Windows Media player<subsectionTitle>
+			<paragraph>The primary multimedia player of all Windows Mobile devices is the preinstalled Windows Media Player. Besides music, it allows watching video and streaming TV. You can sort tracks by artist, album or genre and you can create custom playlists.</paragraph>
+			<paragraph>Asus have also preinstalled the Streaming player, which quite obviously is a piece of software for watching streaming content.</paragraph>
+			<paragraph>Generally the PocketPCs have never been recognized for having good audio quality. Unluckily the Asus P750 is no exception to this rule producing below average quality of the audio output. The frequency response graph has some tactile deviations in the higher frequencies. The intermodulation distortion level is also way too high in comparison to most other phones we have put to the test.</paragraph>
+			<paragraph>On the positive side the Asus P750 produces better results than some other Windows mobile devices as for example LG KS20. However it still falls seriously short of being a serious audio playing device.</paragraph>
+			<paragraph>Here are the results so you can see for yourselves. You can find more info about the test itself here.</paragraph>
+			<paragraph> Asus P750 frequency response graph</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>XviD video<subsectionTitle>
+			<paragraph>We installed a TCPMP player and the needed codecs to play DivX and XviD video files. Playing movies at near-VGA resolution with the P750 is flawless even with the default settings.</paragraph>
+			<paragraph>Our test video, which put the HTC Touch Cruise and TyTN II to their knees, ran smoothly with absolutely no dropped frames. Zooming in on clips up to 30% doesn't seem to worsen things at all. With its powerful CPU, the Asus P750 does a real nice job as a portable multimedia player.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera makes us scratch our heads<subsectionTitle>
+			<paragraph>Camera performance is hardly a priority with PocketPCs. The Asus P750 is equipped with a 3 megapixel autofocus shooter. At least on paper, it sounds intriguing enough. We'll see about that, but don't get your hopes high just yet.</paragraph>
+			<paragraph>The camera offers a nice and intuitive menu. It's laid out as a toolbar with icons at the bottom of the display. The menu has landscape orientation.</paragraph>
+			<paragraph>The camera features include scene modes (auto, night, sports), self timer, burst mode (4 or 9 images), several color effects (normal, black &amp; white, negative and sepia) and, finally, geo-tagging. Yes, geotagging is an exciting feature but we've always been turned down by the fact that it drains batteries rather quickly. Plus, you have to wait for a satellite lock before you start shooting.</paragraph>
+			<paragraph>There are also additional camera settings, which are identical to what other Windows Mobile devices offer. You can tweak the metering mode, white balance, brightness, contrast and saturation.</paragraph>
+			<paragraph>Now in terms of image quality, the Asus P750 really let us down. It fails to reproduce the fine details, yet it oversharpens the whole scene. Plus the camera creates some distinct violet hue in the upper left corner of each image - it's visible even on thumbnails.</paragraph>
+			<paragraph>But probably the most serious issue, which makes images almost unusable, is the low-quality lens that was used. Low quality lenses tend to make images softer at either the left or right edges, or even both. But the Asus P750 lens softens almost half of each image and you can see that clearly in every sample shot. There's no way that this camera can be deemed acceptable. The results are so bad that we can't help but think it's a unit-specific issue.</paragraph>
+			<paragraph>Here are some sample photos to judge for yourself:</paragraph>
+			<paragraph>The video menu interface is identical to the camera interface. Video clips are recorded in 176x144 pixel resolution in 3GP or MPEG4 format at 15fps. Quality is barely passable. We'll not be publishing samples of those, that's that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity is top job<subsectionTitle>
+			<paragraph>Now, back to what PocketPCs are really about - connectivity, both wired and wireless. The Asus P750 is well geared in that department. USB connectivity allows seamless synchronization with MS Outlook. However, you can also use Bluetooth 2.0 for that purpose. Other than synchronizing, A2DP support allows listening to music on a stereo Bluetooth headset.</paragraph>
+			<paragraph>Speaking of wireless communication, we should mention there is no Infrared port, but you have Wi-Fi at your disposal. There are also GPRS, EDGE and HSDPA (3.6 Mbps) so you always have data connectivity options available.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Internet Explorer Mobile is all you get<subsectionTitle>
+			<paragraph>Softwarewise, Asus P750 is equipped with the Internet Explorer Mobile web browser. We were a bit let down by the fact that Asus haven't preinstalled an alternative browser - Opera would have been welcome. Internet Explorer Mobile is not among our favorite web browsers.</paragraph>
+			<paragraph>However, Asus have preinstalled several other connectivity applications. The NewsStation app is an RSS reader for staying abreast of the latest news at your favorite web places.</paragraph>
+			<paragraph>The Remote presenter allows you to control a computer remotely via Bluetooth during presentations. For the feature to work, you need to install the software (supplied on CD) on the pairing computer too.</paragraph>
+			<paragraph>And finally, the Remote Desktop Mobile app allows you to connect remotely to any Windows-based computer. It's a really handy feature that - if you ask us - should come preinstalled on all Windows Mobile PocketPCs.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer is good as always<subsectionTitle>
+			<paragraph>Windows Mobile offers several time-management features and all of them are easily syncable with MS Outlook. The Calendar in Windows Mobile 6.0 allows searching for events to come. It offers daily, weekly and monthly view. You can have the week start on either Monday or Sunday. You can also hide weekends form the Calendar if you use it for business strictly.</paragraph>
+			<paragraph>The To-Do list allows you to add tasks and assign them priority. The Notes also come in handy, as you can either type or directly write the text down on the screen. The Voice recorder and Calculator go without saying.</paragraph>
+			<paragraph>The Alarm clock has three alarm slots. Each Alarm can have its own repeat pattern. As a frequently used feature, Microsoft should have put more effort into making the alarm clock easily accessible. Instead, it's buried deep down in the Settings menu. Alongside, you will also find the dual-zone clock. It's good that Asus have preinstalled a custom Alarm application called Ur Time.</paragraph>
+			<paragraph>The Ur Time app displays the clock and calendar on a single screen and allows for quick access to custom alarm settings and a world clock.</paragraph>
+			<paragraph>Asus have also added the Meeting Time planner, which is a handy app and, as the name suggests, it allows you to create a rather detailed Meeting schedule - you have your free slots at a quick glance. The software can work with several time zones simultaneously, good enough for frequent travelers.</paragraph>
+			<paragraph>Then, there's the My Secrets app allowing you to store sensitive information with password protection.</paragraph>
+			<paragraph>And finally, you have the WorldCard Mobile app that scans business cards, does character recognition and imports the data to the Contacts list.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Mobile Office on-the-go<subsectionTitle>
+			<paragraph>Among the other WM core applications is the Office Mobile package featuring support for viewing and editing Word, Excel, and PowerPoint office files.</paragraph>
+			<paragraph>Another application is the rather handy Search software, capable of searching throughout the whole file system and applications. You can set filters, so that the application searches only in the places you need.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GPS and navigation around<subsectionTitle>
+			<paragraph>Before we start on the actual performance of the Asus P750 GPS receiver, we'll have a quick glance at some of the software that Asus have preinstalled for us.</paragraph>
+			<paragraph>First off, we should mention that there is no full-featured navigation software that you can use - you should buy that separately. There is a trial version of Garmin Mobile XT, but it's? you know, trial. That's ok though, since even HTC don't ship their devices with full-featured GPS navigation software.</paragraph>
+			<paragraph>As the P750 GPS receiver has A-GPS functionality, the GPS Catcher app is there to download the latest satellite positioning data on scheduled intervals or manually. Data charges may apply to downloads - but generally, the amount of transferred data is low enough.</paragraph>
+			<paragraph>The next GPS-centered application is the Travelog - it's a GPS logging app, that stores GPS coordinates while you move around. It draws a basic route based on the directions you've taken, but it's of no use by itself. Where it really counts is that you can export its log and import it to Google Earth for example, so your route appears on the map.</paragraph>
+			<paragraph>And finally, the last app to come preinstalled on the P750 is the Location Courier - an application with rather limited functionality - at least to us. Its sole purpose is to send messages with your current GPS coordinates to some predefined GSM numbers at regular intervals. Conspiracy theorists are free to disagree.</paragraph>
+			<paragraph>The Asus P750 SiRF Star III GPS receiver worked like a charm - we installed third-party GPS navigation software (iGo) and went for a drive around the city. Satellite lock speed was delightful and positioning was always accurate - even in the narrow and dense city streets. Buildings standing tall around didn't bother it at all.</paragraph>
+			<paragraph>We also ran a dedicated GPS battery test to see how the SirfStar III chipset fares compared to the Qualcomm units used in HTC TyTN II and HTC Touch Cruise. The test was concluded on a freshly charged battery in a still position and a satellite lock at all time.</paragraph>
+			<paragraph>In the same test both HTC PocketPCs lasted about 3.5 - 4 hours. The Asus P750 managed to outshine them by a good margin - it kept going for 6 hours straight on. Bear in mind that those figures will be lower when you are constantly moving in a vehicle.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Tweaks and Modding<subsectionTitle>
+			<paragraph>Windows Mobile PocketPCs have long been exposed to custom modding, patching and tweaking. HTC for one have an especially wide and busy fan base that seems to be constantly poking and prodding for a new twist to their gear.</paragraph>
+			<paragraph>Some keen users found out that the Asus P750 ships with a hardware VGA screen that simply runs in QVGA mode. So a new modded firmware is up for grabs, which unlocks the dormant VGA resolution. Many users report successful tests of the new firmware, so if you are savvy enough to follow the simple flashing procedure you might consider the VGA display a revision of the ASUS P750 specs sheet.</paragraph>
+			<paragraph>You should bear in mind though that VGA resolution is incompatible with some applications, as it's not nearly as popular as QVGA. Another thing to consider is that the VGA mode drains the battery more quickly. The latest modded firmware allows toggling between QVGA and VGA with a simple soft reset, so that gives you maximum flexibility.</paragraph>
+			<paragraph>That new firmware accounts for the latest Windows Mobile 6.1, so you are not stuck with the pre-installed version 6.0. And best of all, most of these soft mods don't void your warranty. The next mod however will surely do.</paragraph>
+			<paragraph>Users report that you can upgrade the 64MB of RAM to 128MB by replacing the original BGA memory chip with an aftermarket one. It will void your warranty and you will probably need to use a qualified service for the fitting of the new chip. But then you can flash the Asus P750 with the same modded firmware so the device can make use of the increased RAM capacity. Some users report that the P750 is more stable when you choose a firmware which limits its available memory to 112MB, while others have successfully utilized the whole 128MB chip.</paragraph>
+			<paragraph>Those firmware mods can fix a lot of nuisance too - for example they can make the camera start upon a press-and-hold of the shortcut key, instead of the default short press. Or they can override the system prompt for scanning for new photos every time you insert a memory card. Those are minor things but worth the one-time extra effort. In case you are interested, a good place to start researching is here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Asus P750 is an excellent handset and a fast performer in almost every aspect. There are downsides of course such as the relatively large body, relatively small display, the low amount of RAM and the hopeless camera (that still might be a unit-specific issue). On the other hand, the P750 offers commendable build quality, nice choice of materials and excellent ergonomics.</paragraph>
+			<paragraph>Asus have not taken care of the not-so-thumbable Windows Mobile interface, but it's a flexible platform and some third-party customizations will sure allow more touch-centric operation (as opposed to stylus based). Once that's been taken care of, you will enjoy the capable hardware, which simply blows competing HTC products such as Touch Cruise and TyTN II away.</paragraph>
+			<paragraph>Our final conclusion is that the Asus P750 is a must-consider when you're shopping for your next PocketPC. You can hardly go wrong choosing it as your next Windows Mobile handset.</paragraph>
+		</subsection>
+	</page>
+</review>

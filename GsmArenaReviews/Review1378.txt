@@ -1,0 +1,275 @@
+<review>
+	<title>Samsung Google Nexus S review</title>
+	<description>Royal droid</description>
+	<link>http://www.gsmarena.com/google_nexus_s-review-565.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Quad-band GSM and tri-band 3G support</paragraph>
+			<paragraph>HSDPA, 7.2 Mbps; HSUPA, 5.76 Mbps</paragraph>
+			<paragraph>4.0" WVGA (480x800) Super AMOLED Contour Display with curved glass screen</paragraph>
+			<paragraph>Android OS, v2.3 Gingerbread</paragraph>
+			<paragraph>1 GHz ARM Cortex-A8 (Hummingbird) processor</paragraph>
+			<paragraph>16GB storage, 512 MB RAM</paragraph>
+			<paragraph>5 MP autofocus camera with LED flash and geotagging</paragraph>
+			<paragraph>Front-facing VGA camera</paragraph>
+			<paragraph>Wi-Fi b/g/n with DLNA</paragraph>
+			<paragraph>GPS with A-GPS</paragraph>
+			<paragraph>Portable Wi-Fi hotspot and stereo Bluetooth v2.1</paragraph>
+			<paragraph>Near Field Communication chip</paragraph>
+			<paragraph>Accelerometer, proximity and light sensors</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB port (charging)</paragraph>
+			<paragraph>Adobe Flash support out of the box</paragraph>
+			<paragraph>Latest Google Mobile apps</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>No microSD slot</paragraph>
+			<paragraph>No 720p video recording</paragraph>
+			<paragraph>All-plastic body, fingerprint magnet</paragraph>
+			<paragraph>No DivX and XviD support (no actual video player) out of the box</paragraph>
+			<paragraph>No dedicated camera key and no lens cover</paragraph>
+			<paragraph>No FM radio</paragraph>
+			<paragraph>No smart dialing</paragraph>
+			<paragraph>Overly expensive for its feature set</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Another year, another heir to the Droid throne ? and Google are trying to be democratic about it. Which is a roundabout way of saying they?re not monogamous. For the Nexus One, Google teamed up with HTC. This time around, they trusted Samsung to do the job, using the Galaxy S as a base.</paragraph>
+			<paragraph>  Google Nexus S official photos</paragraph>
+			<paragraph>It?s only their second try and users are given a second chance to like the Royal Droid. A tall task it is ? the very concept is fundamentally incompatible with the free and open source Android system. Royal blood is not a benefit in a free democracy. Google did learn it the hard way with the Nexus One.</paragraph>
+			<paragraph>Google?s second smartphone child has more than just an image problem to tackle. The Samsung Google Nexus S has to keep pace with the evolution of the platform. The ?S? in the name may stand for many things ? from second to superior. But with Android 2.3 Gingerbread inside, speed is not far from the truth either. Here?s what else the Nexus S has to offer in a nutshell.</paragraph>
+			<paragraph>As you can see, the Nexus S shares a lot of the Samsung Galaxy S components. Powered by the very same 1Ghz Hummingbird processor and having the same 512MB of RAM, it feels a bit quicker probably thanks to Gingerbread.</paragraph>
+			<paragraph>The fact aside that our review isn?t exactly on time, this hardware is so 2010, while the imaging department is surely from 2009. We wouldn?t fuss about it was it not for the Tegra 2 SoC and its 1080p video recording, which has the power to be the next big thing in the industry. The emphasis here being on next. Maybe Google should?ve thought of that and instead of rushing to release the Nexus S.</paragraph>
+			<paragraph>If they chose to wait a couple of months, a dual-core CPU could?ve made a lot of difference ? especially with Gingerbread. The Nexus S would have been a beast just like its predecessor was, with the first droid powered by a 1Ghz processor on the market. With this hardware, the Nexus S is no more than an overclocked Nexus One.</paragraph>
+			<paragraph>But wait a minute ? maybe not all is lost and the Nexus S will be salvaged by the software. Not only is it the first Gingerbread-powered phone to the market ? it can also count on special treatment in terms of getting updates on time.</paragraph>
+			<paragraph>Anyway, when you have a second try at something the results are supposed to be better. Just like when parents raise a second child differently having learned from their past experience. Stick around to find out if the Google Nexus S is the definitive, all-muscle replacement of the Nexus One we?ve all been waiting for.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Basic retail package<subsectionTitle>
+			<paragraph>The retail box of the Nexus S is identical to that of its predecessor. The obvious omission is an android-branded pouch but it still has everything you?d need: a USB charger, standard microUSB cable, headset, and a quick start guide.</paragraph>
+			<paragraph>It?s unfortunate that Google didn?t supply a carrying case. It?s not a cheap phone by any means, and cutting back the accessories will not go down well with users.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Nexus S 360-degree spin<subsectionTitle>
+			<paragraph>Although the Google Nexus S is based on the Samsung Galaxy S, there are slight differences in the form factor, mainly due to the characteristic curve of the display. Measuring 123.9 x 63 x 10.9 mm, the Nexus S is a bit taller and thicker than the Galaxy S, but in fact handles better.</paragraph>
+			<paragraph>Despite those extra few millimeters here and there and the increased weight of 129g, pocketability hasn?t been compromised.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>To begin with, the Google Nexus S isn?t a precise replica of the Galaxy S ? though the resemblance is obvious. To us, it?s a definite step forward in design. This is due to the special Super AMOLED Curved Display, which Google are so proud of. The 4.0? glass covering the display is slightly curved to improve usability.</paragraph>
+			<paragraph>It?s the subtlest of shapes, but the screen is nicely curved. As a result, the Samsung Google Nexus S is more comfortable to hold and have calls on.</paragraph>
+			<paragraph>The Super AMOLED capacitive touchscreen is beautiful. The blacks are remarkably deep and everything is crisp and sharp. Viewing angles are impressive. As for the sunlight legibility ? it doesn?t disappoint either. It won?t let you down if you fancy e-book reading.</paragraph>
+			<paragraph>The responsiveness of the capacitive touchscreen is top notch. The Nexus S reacts to even the slightest of touches.</paragraph>
+			<paragraph>A minor difference from the Galaxy S can be found in terms of screen protection. Gone is the Gorilla glass and it has been replaced by a regular glass with an oleophobic coating. Not very useful against drops or scratches, but it makes sure the inevitable fingerprints on the display are easy to clean off and not as nasty.</paragraph>
+			<paragraph>The typical Android controls (Back, Menu, Home and search) are capacitive and located below the display. We don?t know what made Google change the button layout compared to the Nexus One, but as long as it works, it?s fine.</paragraph>
+			<paragraph>The capacitive keys are as responsive as the screen itself. They react to the gentlest touch and have impressively smooth and precise haptics. Gone is the trackball of the Nexus One, and that?s hardly a surprise since the phone isn?t manufactured by HTC.</paragraph>
+			<paragraph>Above the display you will find the earpiece, two hidden sensors (proximity and ambient light) and a front-facing VGA camera for video calling.</paragraph>
+			<paragraph>Both sides of the phone are very clean and feature only one button at a side. On the left is the volume rocker, while the Lock/Power key is on the right.</paragraph>
+			<paragraph>There?s little going on at the top too ? it?s virtually button-less. At the bottom is the mouthpiece, the standard microUSB port, which is used both for charging and data connections, and the 3.5mm audio jack.</paragraph>
+			<paragraph>At the back of the Google Nexus S there?s a 5 megapixel camera lens along with a LED flash to help you take those tricky low-light shots. The loudspeaker grill is nearby.</paragraph>
+			<paragraph>Popping the back cover out unveils the 1500mAh battery and the SIM compartment. The battery is quoted at 6.7 hours of talk time, with a standby time of 17 days in 3G mode (scaled up to 14 hours of talk time and 29.7 days of standby in 2G networks). The Nexus S has no microSD memory expansion, the 16GB of built-in storage is all you get.</paragraph>
+			<paragraph>The Google Nexus S is good looking and solidly built. Ergonomically, the device is well thought out and can easily be used with only one hand, despite its big 4.0? screen. The impressive Super AMOLED screen is undoubtedly a key asset of the Nexus S. However, not all of the units will have it ? as it turned out on some markets the Google Nexus S will come with S-LCD.</paragraph>
+			<paragraph>The downsides of the Nexus S are pretty much the same as in the prototype ? the Samsung Galaxy S. The phone could?ve had a more premium finish to justify the price tag. The all-plastic body is alright, but not spectacular. Some metal could?ve done wonders for the feel of the device. Not to mention the downgraded imaging capabilities.</paragraph>
+			<paragraph>All in all, the Nexus S is a step up from the Galaxy S but hardly a match for the superior materials HTC used on the Nexus One.</paragraph>
+			<paragraph>But that?s on the outside ? inside we?re about to experience Android 2.3 Gingerbread.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface ? stripped Gingerbread<subsectionTitle>
+			<paragraph>We rarely get to see the default Android user interface but here it is, the latest available phone UI from Mountain View. Not much has changed since the last couple of versions, at least there are no major visual changes.</paragraph>
+			<paragraph>Still, there is plenty of polish and fine tuning that has gone into Gingerbread, so let?s begin.</paragraph>
+			<paragraph>We have the UI on video too, because static screenshots rarely tell the whole story.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The homescreen has grown two shortcuts around the virtual menu key ? dialer and browser.</paragraph>
+			<paragraph>You get five homescreen panes, with dots in the bottom left and right corners, indicating how many screens in what direction. You can tap on the dots to move in that direction and a tap and hold brings up a thumbnail overview of all homescreen panes.</paragraph>
+			<paragraph>The main menu is the same as on the Nexus One ? it?s vertically scrollable, with icons at the top and bottom edge curving off into the distance. This ups the eye-candy quotient of the menu, but it?s useful too ? in very little vertical space, you can see the next four rows, which helps in finding the app you need.</paragraph>
+			<paragraph>The homescreen estate is all yours to fill up with shortcuts to applications, folders and widgets of your choice. Folders can help you keep the shortcuts organized but you can't put folders within folders.</paragraph>
+			<paragraph>You can create a shortcut for just about everything ? an app, a bookmark, a contact, a Gmail label or even a destination.</paragraph>
+			<paragraph>Live folders are also interesting ? they automatically curate info, such as received Bluetooth files, recently opened documents and so on.</paragraph>
+			<paragraph>Widgets are the most practical part of the Android homescreen. You?re probably familiar with the widgets that come with the Google Nexus S ? they are the default set included on every droid out there.</paragraph>
+			<paragraph>These widgets can be quite useful. The Power Control widget gives you one-tap command over the power-hungry features of the phone. The Rate Places widget is for those who like to read and write reviews of places they eat or just hang out. There are a couple of Google Voice widgets preinstalled too.</paragraph>
+			<paragraph>Live wallpapers really do bring the homescreen to life ? they are always animated, always on the move. There?s a new one, Microbes. It shows a colony of ?microbes?, which feeds (a tap on the screen produces more food), and when they get big enough microbes split into two.</paragraph>
+			<paragraph>Probably not particularly useful and it?s a drain on the battery, but as far as looks go, very little beats Live wallpapers. If usability tops eye-candy for you, then you can use regular static wallpaper.</paragraph>
+			<paragraph>One of the most powerful and useful parts of the Android UI is the notification area. It shows various notifications (e.g. new message), but also has some more advanced features (certain apps can have corresponding widgets in the notification area). Since it?s accessible from everywhere, you can check the notification and go back to what you?ve been doing, or tap the notification to switch over to the relevant app.</paragraph>
+			<paragraph>The notification area does wonders for the workflow on Android. We were a little disappointed that Google didn?t do what some custom launchers do, i.e. put some more functionality into it (power toggles and such).</paragraph>
+			<paragraph>The task switcher is about the same as it was on the unskinned Eclair of the Nexus One, except that it now lists the eight most recently used apps (up from six). It?s just a task switcher, you can?t kill an app from here ? and you shouldn?t have to, really, Android takes care of that all by itself.</paragraph>
+			<paragraph>Some of the more minor changes include new icons and an orange glow to signify the end of a list.</paragraph>
+			<paragraph>The Google Nexus S is running on the Hummingbird chipset we?ve seen on the Galaxy S, but Android 2.3 Gingerbread optimizes the performance. The experience is smooth with instant response.</paragraph>
+			<paragraph>The stability of the OS wasn?t rock solid though ? it is a very new version but the video player crashed on us a few times, even the live wallpapers managed to crash.</paragraph>
+			<paragraph>One interesting change under the hood of Gingerbread is a new file system, Ext4. Google uses it in its data centers too, so we expect to see a speed boost in some benchmarks.</paragraph>
+			<paragraph>Here they are ? the Nexus S benchmarks. We?ve pitted it against the Samsung Galaxy S and the dual-core LG Optimus 2X, both of which are still using Froyo. The Sony Ericsson XPERIA Arc joins the fight as the second Gingerbread contender.</paragraph>
+			<paragraph>A few quick words on the benchmarks. Neocore seems to hit the software frame rate limit that the Galaxy S had, so the GPU wasn?t going full throttle. It?s curious that the CPU-intensive tasks posted slightly lower results than the Galaxy S, but the Nexus S pulled well ahead in Quadrant, which includes memory and I/O tests. This could be the result of the new file system. We didn?t have time to do extensive testing.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook does well<subsectionTitle>
+			<paragraph>The Nexus S phonebook is pretty standard, but can store extensive information about all your contacts. The list can be sorted by either first or last name.</paragraph>
+			<paragraph>You can add multiple accounts to be synced, including an Exchange account, and you can selectively show or hide contacts from some accounts, or set the phonebook to display only contacts with phone numbers.</paragraph>
+			<paragraph>If someone is added in both accounts, you can ?join? their contact info. This really becomes more useful once you install Facebook, Twitter or another app as you can put telephone and SNS info in the same place.</paragraph>
+			<paragraph>Quick contacts are available ? a tap on the contact?s photo brings up shortcuts for calling, texting or emailing the contact.</paragraph>
+			<paragraph>Each contact can have a variety of fields (and repeat fields of the same type), the plus and minus buttons let you add and remove fields as needed. The fields cover anything from names (including a field to write down the name phonetically) to addresses, nicknames and notes.</paragraph>
+			<paragraph>Quite interesting is the option to redirect calls directly to voicemail. Personalized ringtones are enabled too.</paragraph>
+			<paragraph>You can "star" a contact, which puts it in the Favorites tab. Also, in each Gmail account there's a special group called "Starred in Android" where these contacts go automatically.</paragraph>
+			<paragraph>Searching for a contact in the phonebook is quite easy ? just hit the search key and a search box pops up. There?s no alphabet scroll though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony doing good but is short of smart dialing<subsectionTitle>
+			<paragraph>The Google Nexus S held on to signal well enough and we didn?t experience dropped calls. The in-call sound quality is good but the strength is average.</paragraph>
+			<paragraph>Unfortunately, the Nexus S does not support smart dialing ? we thought that Google would have fixed this by version 2.3, but no. There?s voice dialing though (a press and hold on the search key will launch that).</paragraph>
+			<paragraph>Thanks to the proximity sensor, the Google Nexus S automatically switches off its touchscreen when you hold in next to your ear during a call. There is no chance of ever hitting an on-screen button with your cheek.</paragraph>
+			<paragraph>The call log displays all the dialed, received and missed calls in bulk.</paragraph>
+			<paragraph>Google Voice also comes preinstalled ? not that you can?t download it after the fact, but Google is trying to hook new users in. Anyway, you?d need to be a US resident to use that, but it?s an important service to some.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the Google Nexus S. Scoring an Average result, the Nexus S isn't the loudest ringer around, so you might miss a call or two at times. More info on our loudspeaker test as well as other results can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Threaded messaging<subsectionTitle>
+			<paragraph>The messaging department of Android values simplicity in design and is very easy to use. All SMS/MMS communication is organized into threads ? each thread consists of all messages between you and one of your contacts.</paragraph>
+			<paragraph>You can set the Nexus S to delete older messages (by default, it keeps 200 texts and 20 MMS). Quick contacts work here too, in case you prefer to respond to a message with a call or an email. You can activate delivery reports and read reports too (they are notifications that the receiver has read the message).</paragraph>
+			<paragraph>Each thread is organized like an IM chat session, the latest message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them (to prevent deletion). You can use search to find a specific message in all conversations.</paragraph>
+			<paragraph>Composing a text is a little frustrating as the text box starts off as a single line and grows only to three lines, which makes working with longer texts hard.</paragraph>
+			<paragraph>You can add multimedia (photos, videos, sounds, etc.), which will convert the message to an MMS. If you need multiple slides or multiple attachments, you can go to a full-blown MMS editor as well.</paragraph>
+			<paragraph>Moving onto email, the Gmail app supports batch operations, which allow multiple emails to be archived, labeled or deleted. The default app supports multiple Gmail accounts, but there?s no unified inbox.</paragraph>
+			<paragraph>There is also a standard email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The GTalk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>The Google Nexus S with its sensitive, 4-inch screen is quite adept at text input. Gingerbread also comes with a new, vastly improved keyboard by default, which should make text input easier and more typo-free even on smaller screens.</paragraph>
+			<paragraph>In portrait mode, the keyboard is easily usable and text correction will generally prevent typos. When you enter a word, the spacebar will flash orange ? hit it and even if there was a typo, the phone will correct it.</paragraph>
+			<paragraph>A tap on the text area will reveal a ?handle? attached to the text cursor ? it?s easy and more accurate, which makes correcting mistakes easier. A tap and hold will bring up the select options ? select word and select all ? with two handles to adjust the start and end of the selection. Another tap and hold brings up the copy/cut options.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Same old gallery downsizes images<subsectionTitle>
+			<paragraph>The Google Nexus S uses the traditional droid Gallery, which hasn?t really seen any change in Gingerbread. It has good functionality, cool 3D looks and nice transition effects, but unfortunately (and again) only shows a downsized version of your images.</paragraph>
+			<paragraph>The different albums and folders appear as piles of photos which fall in neat grids once selected. If you have online albums over at Picasa those show up as separate stacks as well.</paragraph>
+			<paragraph>Alternatively, you photos can be organized by date with the help of a button in the top right corner, which switches between grid and timeline view.</paragraph>
+			<paragraph>In grid view, there?s a date slider, which can also be used to find photos taken on a certain date.</paragraph>
+			<paragraph>The gallery supports finger scrolling or panning so you can skip images without having to return to the default view. Just swipe to the left or right when viewing a photo in fullscreen mode and the previous/next image will appear.</paragraph>
+			<paragraph>Thanks to the Nexus S multi-touch support pinch zooming is also available here but you can also double tap or use the +/- buttons. Unfortunately zooming in isn?t going to reveal much detail.</paragraph>
+			<paragraph>The Android gallery still shows only downsized version of you images, though if you send one from here the full-res shot is received on the other end. We were hoping that Google would have fixed that but it doesn?t seem like it?s on their list of priorities.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Quick sharing via Picasa, Email apps, Bluetooth or MMS also comes in handy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player wasn?t on Google?s mind<subsectionTitle>
+			<paragraph>Google has something against playing local video files, we?re sure of it. Why else wouldn?t they preinstall a dedicated video player app is beyond us. To find your videos, you?ll need to visit the Gallery.</paragraph>
+			<paragraph>Okay, so maybe a fancy UI for picking a video is not that important, playing videos is what really counts. Well, that?s another disappointment ? the video player supports only 3GP and MP4 videos.</paragraph>
+			<paragraph>To its credit, the Nexus S did play a 720p MP4 video though. And the 4? WVGA SuperAMOLED screen is a pure joy to watch. If you re-encode your videos before hand, the Google Nexus S can make a good video player.</paragraph>
+			<paragraph>Or you should just download a capable video player off the Android Market and make your life easier.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player has been neglected<subsectionTitle>
+			<paragraph>Sadly, the music player saw no updates with Gingerbread on the Nexus S. It?s is not bad at managing your audio files but there?s definitely room for improvement.</paragraph>
+			<paragraph>There are four tabs, which offer the four main ways to search your music collection - by artist, album, song or the playlists you've created. Search by gradual typing is also available.</paragraph>
+			<paragraph>The functionality of the music player hasn't changed much. It has that great feature that allows you to quickly look up a song on YouTube, via Google search or in the local collection.</paragraph>
+			<paragraph>A nice feature is the automatic pause when you pull out the headphones. Also, you can adjust the volume even if the screen is locked (but the screen has to be on).</paragraph>
+			<paragraph>There are still some shortcomings of the music player that need addressing though. There are still no equalizer presets, nor any alternative skins. We won?t even mention goodies like flicking left or right to skip a song.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Very good audio quality<subsectionTitle>
+			<paragraph></paragraph>
+			<paragraph>The more impressive part of the Google Nexus S performance is with headphones out of the equation. When connected to an active amplifier, the Nexus S audio output is simply flawless - all the readings are downright impressive. The loudness is good too, though we have seen better.</paragraph>
+			<paragraph>If you plug in a pair of headphones the Google Nexus S shows some extra stereo-crosstalk and intermodulation distortion. The frequency response suffers a bit too, but actually none of those gets too bad. Plus the volume levels don't suffer even one bit.</paragraph>
+			<paragraph>Overall the Nexus S does better than the I9000 Galaxy S, but loses a bit to the I9010 Giorgio Armani. That still gets it an excellent score though.</paragraph>
+			<paragraph> Google Nexus S frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good 5MP snapper<subsectionTitle>
+			<paragraph>On the hardware side of things, the Google Nexus S has a 5 megapixel camera module for a maximum image resolution of 2560 x 1920 pixels and an LED flash.</paragraph>
+			<paragraph>Gingerbread is also the first Android to officially support two cameras and the Nexus S will let you snap photos with the video-call camera too. Of course, brand-specific workarounds have been around for a while (take Galaxy S, for instance), so it?s not really a new feature to droid land.</paragraph>
+			<paragraph>The user interface is pretty decent, although not exactly perfect. The three main controls are on the right side of the viewfinder ? from top to bottom, they are the gallery shortcut (which shows the thumbnail of the last photo taken), the still shot/video switch and the virtual shutter.</paragraph>
+			<paragraph>Right next to those controls is a vertical column of semi-transparent shortcuts ? each one brings up a menu with various settings. This has the advantage of accessibility (all settings are one tap away) but some of the menus are too long and you have to scroll up and down to find the setting you?re looking for.</paragraph>
+			<paragraph>The image quality produced by the main camera of the Nexus S however is very pleasing. There?s a fair amount of noise but at least most of the fine detail survives the post-processing. Contrast and color rendering are good too. Overall, it?s like an improved version of the Galaxy S.</paragraph>
+			<paragraph>Shot-to-shot time is just over a second. Not bad but nothing impressive on a 5MP snapper either. At least, the SuperAMOLED screen and its excellent sunlight legibility mean you?ll have no problem framing your shots, even with bright sunlight behind you. Unfortunately, there is no camera key.</paragraph>
+			<paragraph>Here go the samples for you to check out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Google Nexus S enters our Photo Compare Tool to join the 5MP lineup. The tool?s page will give you enough info on how to use it and what to look for.</paragraph>
+			<paragraph>   Google Nexus S in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>D1 video recording, again<subsectionTitle>
+			<paragraph>We thought we had moved past this phase with high-end smartphones but here we are again ? the Nexus comes with D1 video recording @ 30fps. We?re guessing it?s a software limitation that stops the Google Nexus S from recording 720p HD video, as the internal gadgetry should have enough muscle to do that (the Galaxy S can).</paragraph>
+			<paragraph>The interface of the camcorder is similar to the one of the still camera, except that there are fewer settings available. You can set the video quality, adjust white balance, apply color effects and that's that.</paragraph>
+			<paragraph>Videos are recorded in 3gp format, which uses low bitrate, which in turn leads to some compression artifacts. The automatic exposure adjusts rather abruptly during shooting and that causes annoying flickering with the passing cars.</paragraph>
+			<paragraph>The frame rate of the videos generally hovers around 28.5fps but that should be smooth enough, even if it doesn?t reach the intended 30fps. Still, the uneven frame rate leads to the occasional perceivable choppiness.</paragraph>
+			<paragraph>Here is a D1@30fps sample video (12MB) for you to see.</paragraph>
+			<paragraph>The Google Nexus S didn?t qualify for our Video compare tool, but we shot a video using the same setup nonetheless.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity has it all<subsectionTitle>
+			<paragraph>The Google Nexus S has all the connectivity options available in the Galaxy SL ? quad-band GSM/GPRS/EDGE and tri-band HSPA with download rates of up to 7.2 Mbps and upload at 5.76 Mbps.</paragraph>
+			<paragraph>Similar to the Galaxy S and SL, the Nexus S offers Wi-Fi (b/g/n) and USB v2.0 with a microUSB standard, but lacks the Bluetooth 3.0 ? it?s downgraded to version 2.1.</paragraph>
+			<paragraph>It has an internal storage of 16GB, though unlike the Nexus One it doesn?t have a card slot, so no expandable storage option is available.</paragraph>
+			<paragraph>Also the Nexus S comes with an integrated NFC (Near Field Communication) chip. It means the phone will be able to act as an electronic card to pay your bus ticket, as your wallet for paying to vendors, at restaurants and such. The list goes on and on.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>A great web browser<subsectionTitle>
+			<paragraph>The Google Nexus S browser is a strong performer. With added Flash 10.1 support and the latest and fastest Android version out there, 2.3.1 Gingerbread, it really does a great job.</paragraph>
+			<paragraph>The user interface is pretty much nonexistent at first sight. Once the page loads, all you see is the URL bar and the bookmark button on a line at the top of the screen. Once you zoom in and pan around though even that line disappears (scroll to the top or press menu to bring it back).</paragraph>
+			<paragraph>That way you have the entire 4? screen for web browsing. The Nexus S browser supports two zoom methods ? double tap and multitouch pinch-zooming.</paragraph>
+			<paragraph>The browser supports text reflow, but it works only with double tap zooming ? a moment after adjusting the zoom level, columns of text adjust to fit the screen width. Without text reflow you will either have to zoom out until the text fits (but then it?s too small to read comfortably) or scroll sideways to read each line.</paragraph>
+			<paragraph>The minimalist UI is quite powerful ? hit the menu key and six keys pop up. You can open a new tab, switch tabs, refresh the page, go forward, and open bookmarks. The final button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>The bookmark list shows a thumbnail of the bookmarked page and you also get a ?most visited? list in addition to the history. Just like with the Galaxy S and SL.</paragraph>
+			<paragraph>One of the best parts of the Nexus S web browser is the full Flash support. YouTube videos played quite smoothly (360p-480p), and so did the games from Kongregate, for example.</paragraph>
+			<paragraph>The high-quality videos on YouTube and other Flash video services had some dropped frames, but the overall Flash performance turned out pretty decent.</paragraph>
+			<paragraph>You could use the YouTube app if you find navigating YouTube in the browser hard. The experience on the Google Nexus S is one of the best you can possibly get from a smartphone.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>There?s not much preinstalled on the Google Nexus S, concerning organizing. There is the Calendar app, which syncs with the online Google Calendar.</paragraph>
+			<paragraph>Creating an event is easy. Just hold your finger on a date, or go to a specific time of a day and touch. You can then insert the usual things - Name, Hour, Notification, Place, etc.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized - the buttons are really big and easy to hit.</paragraph>
+			<paragraph>The alarm clock app is descent and allows a huge number of alarms to be set, each with its own start time and repeat pattern. But, unlike the Galaxy SL, you don?t have the Stopwatch, the Timer and World Clock options. Also you don?t get a Voice Recorder.</paragraph>
+			<paragraph>But all of the applications missing on the Nexus S can be downloaded for free via the Android Market in a matter of minutes, so it?s really not a big deal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GPS and navigation<subsectionTitle>
+			<paragraph>The Google Nexus S comes with a GPS receiver, which locked onto satellites in about 2 minutes with A-GPS turned off.</paragraph>
+			<paragraph>Google Maps is the main application and its Street View mode is probably the best part of the deal in places where turn-by-turn voice navigation isn?t yet offered. If the Street View is available in the area you're interested in, you can enjoy a 360-degree view of the area. Zoom is supported through pinch and double tap gestures. When the digital compass is turned on it feels like making a virtual tour of the surroundings!</paragraph>
+			<paragraph>Voice-guided turn-by-turn navigation using Google Maps Navigation is only available in select countries and unless you live in any of them the best you can do is plan a route in advance and keep an eye on your current location during travel.</paragraph>
+			<paragraph>Our Nexus S came with Maps 5 out of the box, which gives you access to some great features. Offline rerouting is one ? if you stray off your course, Maps will recalculate the route without the need for an Internet connection. You can?t change the destination without connection though. There are also 3D buildings (where available), two finger rotation, tilting and so on.</paragraph>
+			<paragraph>Google Earth is another option to look at the World. But instead of maps you can focus on the landscape itself. It offers the same principle of navigating- the two finger gestures move the horizon and left and right view, while with one finger you can move about the area you have selected. You can see mountains and coastlines with the same 3D graphics, which makes the app really cool.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Market is where the fun starts<subsectionTitle>
+			<paragraph>The Nexus S is the first device to run the latest version of Android and has a WVGA screen, giving you access to the whole Android Market (some apps won?t run on older versions or low-res screens).</paragraph>
+			<paragraph>The structure of the Android Market is quite simple ? featured apps on top and above them, three sections (Applications, Games and Downloads). There is also a shortcut up there for initiating a search.</paragraph>
+			<paragraph>The Applications and Games sections are divided into subsections (e.g. Communication, Entertainment etc.) so you can filter the apps that are relevant to you. Of course, there is also an option of displaying them all in bulk, but you?ll probably need days to browse them all that way.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We don?t quite know what to make of the Google Nexus S. When the Nexus One came out, it packed some of the most powerful hardware available at the time. The Nexus S is the spitting image of the Samsung Galaxy S, which has been around for almost a year.</paragraph>
+			<paragraph>That?s not the worst of it either: the Nexus S has actually been slightly downgraded compared to the Galaxy S. We mean the lack of a microSD card slot and 720p video recording, Bluetooth 3.0 has gone missing too. Well, that and you get no guarantees about a SuperAMOLED screen, in some regions it will be Super Clear LCD instead.</paragraph>
+			<paragraph>Plus, Samsung should be launching the Galaxy S successor soon.</paragraph>
+			<paragraph>True, the Nexus S will get timely software updates or at least faster than the rest (though the Nexus One is still waiting for Gingerbread) and it does have an LED flash. The curved display is a unique feature for the Nexus S too and most likely to remain so.</paragraph>
+			<paragraph>But even so, the Nexus S could?ve been at least a little bit more convincing.</paragraph>
+			<paragraph>The Samsung I9000 Galaxy S is where the competition starts. It?s still a better buy, but not so much of it?s a I9003 Galaxy SL.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA Arc will be hitting stores soon and its 4.2? FWVGA screen is great. Add an 8MP camera with 720p video, an 8GB microSD card in the box, similar hardware and Android 2.3 Gingerbread and the Nexus S starts to sweat. Plus, the Arc is super thin.</paragraph>
+			<paragraph>  Samsung I9000 Galaxy S ? Sony Ericsson XPERIA Arc</paragraph>
+			<paragraph>Dual-core powerhouses are nearing their launch dates and that?s where you need to go for high-end performance. The LG Optimus 2X has a very good screen and a much better camera ? 8MP stills, FullHD video. A mini HDMI port and DivX/XviD put it well ahead of the Nexus S in the multimedia department.</paragraph>
+			<paragraph>The Motorola Atrix has a 4? 540x960 screen, dual-core Cortex-A9 and 1GB RAM. FullHD recording will be enabled via a firmware update. Oh, and that laptop dock is so cool.</paragraph>
+			<paragraph>  LG Optimus 2X ? Motorola Atrix</paragraph>
+			<paragraph>There are other options too, if you think the dual-core phones are too much for you. The Dell Venue has a 4.1? AMOLED screen and an 8MP camera with 720p video. The HTC Desire HD has a similar camera, but a bigger 4.3? screen (it?s an LCD unit though). The LG Optimus Black also has an interesting screen ? it supposedly offers better image quality, while keeping power consumption down.</paragraph>
+			<paragraph>Whether and when these phones will get updated to Android 2.3 Gingerbread is a whole different matter. But they?re all worth keeping an eye on.</paragraph>
+			<paragraph>   Dell Venue ? HTC Desire HD ? LG Optimus Black</paragraph>
+			<paragraph>So many phones to choose from, both old and new, and those are only the droids.</paragraph>
+			<paragraph>The Google Nexus S is a fine piece of gear, don?t get us wrong, but it?s just very late to the party (as is our review, for which we?re sorry). The Nexus S will serve well the purpose of being the Android developers phone (like the Ion and Nexus One before it), but it just isn?t sensational. And we guess developers would like to get the newest hardware available such as Tegra 2 and 1080p to optimize their products on.</paragraph>
+		</subsection>
+	</page>
+</review>

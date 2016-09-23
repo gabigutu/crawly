@@ -1,0 +1,385 @@
+<review>
+	<title>Oppo N1 CyanogenMod edition review</title>
+	<description>Pure mind</description>
+	<link>http://www.gsmarena.com/oppo_n1_cyanogenmod_edition-review-1034.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support; penta-band 3G with HSPA</paragraph>
+			<paragraph>5.9" 16M-color 1080p Super IPS LCD capacitive touchscreen with 373ppi</paragraph>
+			<paragraph>Android OS v4.3 Jelly Bean with CyanogenMod 10.2; Android 4.4 KitKat is on its way with a CyanogenMod 11 update</paragraph>
+			<paragraph>Quad-core 1.7 GHz Krait 300 CPU, 2 GB RAM, Adreno 320 GPU; Qualcomm Snapdragon 600 chipset</paragraph>
+			<paragraph>13 MP autofocus camera, 206° module rotation; dual-LED flash; HDR, long exposure (up to 8 seconds), remote shutter</paragraph>
+			<paragraph>1080p video recording @ 30fps with HDR mode, continuous autofocus and stereo sound</paragraph>
+			<paragraph>Touchpad on the back</paragraph>
+			<paragraph>Dual-band Wi-Fi ac/a/b/g/n, Wi-Fi Direct and DLNA; Wireless TV-out (Miracast)</paragraph>
+			<paragraph>GPS with A-GPS</paragraph>
+			<paragraph>16GB/32GB of built-in storage</paragraph>
+			<paragraph>microUSB 2.0 port, USB on the go support</paragraph>
+			<paragraph>Bluetooth v4.0</paragraph>
+			<paragraph>NFC</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>3610 mAh battery</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Active noise cancellation with dedicated mic</paragraph>
+			<paragraph>Premium aluminum and polycarbonate finish</paragraph>
+			<paragraph>O-Click Bluetooth Remote Control in the package</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non expandable storage</paragraph>
+			<paragraph>No LTE</paragraph>
+			<paragraph>Non user-replaceable battery</paragraph>
+			<paragraph>Hefty and big device, near impossible to operate single-handedly</paragraph>
+			<paragraph>Snapdragon 600 is no longer flagship-grade</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Trying out new things is in Oppo's DNA. The Find 5 was a clue, the N1 is the hard evidence, that the up and coming Chinese maker will never miss an opportunity to surprise and try to amaze. You know who else has a different perspective on things? CyanogenMod developers. So what happens when you put the two together? You know the answer to that one - a real challenger to the Nexus. But let's not jump the gun, shall we?</paragraph>
+			<paragraph>The CyanogenMod initiative has been around for ages in tech chronology, but until very recently nobody even considered getting the custom Android ROM on mass-produced phones. At least not until Cyanogen was set up as a proper company with a vision of the future and a dedicated staff to fulfill it - not just a bunch of enthusiasts writing code for the devices they own.</paragraph>
+			<paragraph>CyanogenMod is based on stock Android and builds on it with features and ideas contributed by the community. It's the end user that matters, not the top brass, who more often than not have their own agendas.</paragraph>
+			<paragraph>Oppo and Cyanogen are a match made in heaven for everyone who wants their droid to feel truly different - in terms of both hardware and software. The custom OS was originally offered on a limited edition of the Oppo N1 but the ROM is now readily available and promising better performance, prolonged battery life and a slew of extra features on top of the pure Android look.</paragraph>
+			<paragraph>What's more to ask? Check out the full set of features below.</paragraph>
+			<paragraph>On the outside, the Oppo N1 running CyanogenMod is the same device. There are no special marks to differentiate it from its ColorOS-running sibling, neither are there any novelties about the hardware inside. The N1 with CyanogenMod is powered by the same Snapdragon 600 chipset, which while no longer Qualcomm's top dog, is by no means lacking in power.</paragraph>
+			<paragraph>Oh well, similarities with Nexus devices aren't purely coincidental, then. They didn't use to have the most powerful processing and graphics either - they simply delivered the pure, bloat-free experience certain users value above all else. The CyanogenMod-ded Oppo N1 builds on that with some unique features like the 13MP rotating camera module, rear touchpad and the impressive battery inside.</paragraph>
+			<paragraph>These should be no news to anyone who has seen our Oppo N1 review - this time around, the OS is obviously the bigger story, but we'll still take it from the beginning. So, you're welcome to follow us to the next page where we look at the N1 from all sides.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Boxes within box<subsectionTitle>
+			<paragraph>The CyanogenMod Oppo N1 comes in a flat retail box with separate little boxes inside for the various accessories, for a premium touch to the packaging. On the outside, there's just a simple CyanogenMod logo to distinguish the special version from the regular ColorOS-running Oppo N1. The Limited Edition model comes with a special cyan case, which is a nice touch.</paragraph>
+			<paragraph>Inside, one little box holds the O-Connect Bluetooth accessory (remote shutter), while the cable of the bundled earphones with volume controls wraps around the slotted sides of another container. A pin is supplied too for ejecting the SIM card, as well as an A/C adapter with detachable USB cable.</paragraph>
+			<paragraph>The O-Click Bluetooth accessory is good-looking and quite efficient. Using Bluetooth 4.0 LE it will pair with the handset and serve several useful purposes. You can make the phone ring the remote or the remote ring the phone. The O-click easily fits on a keychain, so you'll no longer scramble for misplaced keys. It works the other way around too - finding a misplaced phone.</paragraph>
+			<paragraph>The remote can be set to start beeping if you walk out of connection range to make sure you don't leave without your phone. The O-click will also flash upon incoming calls or messages if you have the phone on silent and it can also double as a camera shutter remote.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Oppo N1 360-degree spin<subsectionTitle>
+			<paragraph>The Oppo went big on its latest flagship. With the rotating camera module and ample space below the screen for the capacitive buttons, the Oppo N1 is taller than devices of similar screen size like the Nokia Lumia 1520 and the HTC One Max.</paragraph>
+			<paragraph>Sony's massive Xperia Z Ultra is perhaps the only one that comes to mind that's notably bigger - but it does have a larger 6.4" screen to show for it. The Samsung Note 3 is impressively compact in comparison, and the difference in screen diagonal is negligible.</paragraph>
+			<paragraph>Weight is about average for the sample. At 213g, the Oppo N1 is right between the Lumia and One Max. So is thickness, at the reasonable 9mm - which is still nowhere near though the Z Ultra's 6.5mm.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>OK, for a gadget that's not exactly subtle - we're talking a phablet with a near 6" screen - the Oppo N1 is a seriously good-looking slab. The device has an aluminum alloy frame going around its sides and the back is treated to an impressively sleek soft finish, which is great to the touch and virtually impervious to fingerprints, while offering excellent grip.</paragraph>
+			<paragraph>The front is dominated by the immense screen, with the three capacitive buttons enjoying plenty of space at the bottom. At this size though, they are almost unusable in a single-hand scenario - reaching all the way down to them you risk dropping the N1 almost every time. It's a top-heavy device too, which certainly doesn't help.</paragraph>
+			<paragraph>Above the screen, the earpiece and sensors are on one side of the rotating bit, the 13MP camera and dual-LED flash on the other.</paragraph>
+			<paragraph>There are subtle chrome accents that work well against the pure white paint. The Oppo logo is engraved at the back, the rotating piece, as well as the sides of the phone have slim metal framing. The camera lens, and the couple of LEDs are encircled in metal, while the earpiece and the loudspeaker have the same grille pattern.</paragraph>
+			<paragraph>By placing the camera lens on a rotating piece, Oppo has ensured an almost clinically clean back panel. It has a microphone and company logo and seemingly nothing more. Located under the OPPO insignia, the O-Touch pad is as good as invisible.</paragraph>
+			<paragraph>The camera and screen are the highlights on the Oppo N1 and clever design makes sure they get all the attention. The phablet is big and heavy, no doubt about that, but the styling is as clean as it possibly can, yet with great attention to detail. We like the sparing use of accents and are delighted with the finish - that goes to premium feel and excellent grip in equal measures, the latter being essential in a device of this size.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above the 5.9" screen there's the 206°-rotating module, which holds the earpiece and proximity sensor on one side and the 13MP camera and couple of LEDs on the other. If you enable it in the settings, rotating the swivel top will automatically launch the camera. Of course, it will launch in self-portrait mode - after all these are the highest-resolution selfies we can think of.</paragraph>
+			<paragraph>Under the screen you'll find a familiar three button layout. These are Home, Back and Menu and are all capacitive.</paragraph>
+			<paragraph>The sides of the Oppo have different duties. Near the top on the left side of the phone is the SIM tray, which takes a dedicated eject pin to pull open. On the opposite side you'll find the power and volume buttons placed a little lower than usual, so as to be comfortably within reach. The power/lock key may see less use than usual, as the Oppo N1's screen can be double-tapped to wake up.</paragraph>
+			<paragraph>There's nothing at the top of the Oppo N1, while on the bottom there's a 3.5mm headphone jack, a microUSB port and a recessed speaker grille. The frame around the device is nicely etched out to provide room for these three.</paragraph>
+			<paragraph>The back of the Oppo N1 has the company logo, a noise-suppressing microphone and the O-Touch pad, which enables more ways to interact with the device. Scrolling (screens and lists) is the most typical scenario but you can set it to launch apps too. We had a double tap start and stop the camera but it can be any app really, from the dialer to the torch. The touchpad can serve as a shutter key too - as in tap to focus, release to capture. It also lets you control music playback.</paragraph>
+			<paragraph>It's placed right where you'd want it to be and the idea is to help single-handed use but the O-Touch isn't that comfortable after all. It's the sheer size of the device - it'll take a bit of time to find the proper way to hold the N1 securely enough and slide a finger on the touchpad to scroll with reasonable speed and precision. On the other hand, when the O-Touch is enabled accidental taps are likely to launch an app or scroll away from what you're looking at when you're only trying to adjust your grip on the device.</paragraph>
+			<paragraph>Overall, the most usable scenario for us was holding the device landscape in both hands and browsing pictures using the rear touchpad - which is still something. Nothing obscures the actual content and having a few smudges less on the touchscreen is always a good thing.</paragraph>
+			<paragraph>At this size, the Oppo N1 is not a device to comfortably use single-handedly - but that's true for almost any phablet out there. That said, the O-Touch provides a somewhat usable solution in some cases but there's no getting around the fact that for most purposes you'd need to use both hands to operate the Oppo N1.</paragraph>
+			<paragraph>It's a phablet after all, and that means you're here for the big screen to begin with. So, let's see what you're getting.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>Easily one of the key selling features of the device, the 5.9" screen of the Oppo N1 has a resolution of 1920 x 1080 pixels, resulting in around 373ppi. Oppo puts the screen brightness at 450 nits, not all that much for an IPS LCD like the N1's but in reality the screen looks pretty bright.</paragraph>
+			<paragraph>Hardly a surprise for an IPS unit, the side viewing angles are excellent - it's a high-quality screen, no doubt about that. The screen's digitizer is super-sensitive and the phone can be used with gloves (if you turn that on in the settings menu).</paragraph>
+			<paragraph>The pixel arrangement is standard RGB with an equal amount of green, red and blue pixels in a line. Below you can see it magnified using our trusty microscope.</paragraph>
+			<paragraph>The contrast of the screen is pretty good and about in line with the excellent Find 5 display. Color reproduction is also pretty great adding up to great image quality screen.</paragraph>
+			<paragraph>The only sub-par element of the otherwise great display is its sunlight legibility. The less than stellar brightness combined with the very high reflectivity add up to pretty poor contrast when exposed to direct sunlight. 
+ 
+.jrGraphContainer { background: none !important; border-bottom: 1px solid #eee !important;}
+ul.jrGraph { left: 146px !important; }
+ul.jrGraphControls { padding: 0; margin-left: -10px !important; }
+  JRGRAPH_EXPANDABLE_VERSION = true;  </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Oppo N1 running ColorOS managed to get a battery rating of 79 hours in our dedicated test. We were eager to see the times posted by the CyanogenMod version with a near stock version of Android.</paragraph>
+			<paragraph>Well, it turned out Oppo's optimizations to the ColorOS were doing a better job than whatever the CyanogenMod team put together, as the phablet only managed 59 hours now. That's right, a scorching 20 hours less.</paragraph>
+			<paragraph>Mind you, there's Android 4.3 underneath CyanogenMod 10.2 which is the latest version available for the Oppo N1 at the time of writing, while ColorOS is based on Android 4.2. Here's hoping CyanogenMod will manage to get closer to those 79 hours in the KitKat version 11.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The CyanogenMod Oppo N1 runs version 10.2 of the firmware. It's based on Android 4.3 Jelly Bean, which is a nudge above Android 4.2.2 underlying Oppo's ColorOS. This could be taken as a hint that Cyanogen will always be one step ahead of Oppo when it comes to software updates.</paragraph>
+			<paragraph>Anyway, Cyanogen is busy making its latest iteration (version 11) available for the Oppo N1. It's based on the latest Android 4.4. KitKat and will come with all the bells and whistles of Google's AOSP project.</paragraph>
+			<paragraph>AOSP stands for Android Open Source Project and is the core of the Android code that Google makes available to everyone willing to develop and build on. That's what Cyanogen uses and since the company doesn't waste time developing a custom skin on top of it, new versions of CyanogenMod don't take as much time to release.</paragraph>
+			<paragraph>Take a look at how the custom Android firmware looks and runs on the Oppo N1 in our user interface video demo.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is classic Android 4.3 Jelly Bean. It features the same dotted circle around the center-placed padlock buttons. However, it has been turbocharged by Cyanogen, allowing users to place up to an extra four custom app shortcuts on predefined slots on the circle.</paragraph>
+			<paragraph>Above the unlock ring, there's a standard lockscreen widget, which in the case of the CyanogenMod Oppo N1 is a customized clock and weather widget. Swiping to the left allows you to add more lockscreen widgets, while a swipe to the right will take you to the camera app.</paragraph>
+			<paragraph>Widgets are full-screen, resizable tiles, one of which is always visible at the top of the main lockscreen, above the padlock icon. The rest are a left swipe away. The one on the main lockscreen is collapsed to make room for the padlock button, but can be expanded to display additional information.</paragraph>
+			<paragraph>There are multiple unlock patterns to choose from: simple slide, pattern, pin or password, and face unlock. The lockscreen could even be skipped altogether. In fact, the Oppo N1 can be unlocked in a number of different ways. You can use the standard Lock button on the right hand side to wake the phone or just double tap on the dormant screen. Another cool option is to draw shapes on the screen while it's turned off and it will jump straight into the app corresponding to the drawn shape. Assuming you don't have a pin code or a lock pattern to stand in the way.</paragraph>
+			<paragraph>Once unlocked, you're welcomed by the standard Android homescreen interface. However, while stock Android doesn't allow for homescreens to be added or moved around, Cyanogen's Trebuchet launcher enables this functionality and then some.</paragraph>
+			<paragraph>It retains the stock Android look, but adds a lot more features, easily configurable in the Settings menu. You can change the homescreen transition animations, the grid and size of widgets and icons, etc.</paragraph>
+			<paragraph>At the bottom of the homescreen, you get the customizable shortcut dock - two shortcut icons on either side of the app drawer key. You can have folders there, each with multiple shortcuts.</paragraph>
+			<paragraph>The notification center is organized similarly to stock Android running on a Nexus phone. It's split into two parts - notification area and quick toggles. The notification area is accessed with a swipe from the left part of the top of the screen, wihle the quick settings toggles can be pulled down with a swipe from the top right.</paragraph>
+			<paragraph>The notification area can be configured to include quick settings toggles on top of pending notifications. Other than that it looks business as usual.</paragraph>
+			<paragraph>Pulling down the quick settings part of the notification area gives you access to key device settings such as brightness, Wi-Fi, Bluetooth and Battery. While they're not technically toggles, but more of a shortcut to their respective settings menu, a tap and hold will toggle Wi-Fi, Bluetooth and 3G on and off.</paragraph>
+			<paragraph>Cyanogen has deeply customized this part of the user interface letting you add quick toggles for anything you can think of. It's all configurable in the Settings menu, which we'll go through in a bit.</paragraph>
+			<paragraph>You still can add a bit of personalization to the Quick Toggle panel in the notification area. Your name and photo are displayed but only after you've logged in to Google+.</paragraph>
+			<paragraph>Notifications can be expanded and collapsed with a two-finger swipe, and the top one is expanded by default (if the app that put up the notification supports it, of course).</paragraph>
+			<paragraph>The app drawer of the CyanogenMod Oppo N1 consists of 5 rows of icons, instead of the usual four. This can be altered if you so desire, as the Trebuchet launcher gives you the option to adjust the app drawer grid, too. The App drawer still features two tabs - Apps and Widgets, each with side-scrollable pages. If you scroll past the available apps you move into the Widgets tab. There's also a Market shortcut next to the tabs, for quicker access to Android's app repository.</paragraph>
+			<paragraph>Apps and widgets are ordered alphabetically and there's no other sorting option.</paragraph>
+			<paragraph>Placing a shortcut or widget on the homescreen works as you would expect: press and hold to grab it and then position it on the homescreen pane of choice. Two more options appear at the top of the screen while you're dragging - Uninstall (to quickly remove apps) and App info, which opens the application's entry in the Manage applications list. Drop the app or widget on either one to activate it.</paragraph>
+			<paragraph>The Recent Apps list has remained virtually unchanged, save for some optimizations in load time and a few neat animations here and there.</paragraph>
+			<paragraph>Privacy Guard is a cool security feature offered exclusively by CyanogenMod. It lets you control what kind of data each app can access. If you think a simple Torch app shouldn't be allowed to read your SMS messages, you can configure it to behave.</paragraph>
+			<paragraph>CyanogenMod also integrates all of the N1�??s features that are otherwise present in its custom Color OS. The O-Click and O-Touch function just as you'd expect. All in all, Cyanogen has done a great job at tailoring CyanogenMod to the Oppo N1. On top of that, it offers plenty of customization options that may take weeks to explore, as well as extra features like Profiles.</paragraph>
+			<paragraph>Though the concept is not new, the depth of customization offered by Cyanogen is hard to match. You can choose between a predefined list of profiles - Home, Work, Night, Silent - and even add your own. Even better, each profile has an impressively rich set of options you can configure. You have a say what aps and services are turned on and off, as you activate one profile or another. Home for example can be set to switch off Bluetooth and GPS, and turn Wi-Fi on. There're groups of apps associated with each profile, whose behavior you can also pre-define.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now slightly updated<subsectionTitle>
+			<paragraph>First introduced in Jelly Bean 4.1, Google Now is one of the most interesting additions to the OS. Google's voice-activated personal assistant is in the same neck of the woods as Apple's Siri, but it learns constantly from your daily routines.</paragraph>
+			<paragraph>It's accessed by holding the home button and gives you short overview of information it believes is relevant to you right now in the form of cards. Going to work in the morning? Google Now knows this and lets you know there's a big traffic jam on your usual way to the office, so it offers you a re-route.</paragraph>
+			<paragraph>It can interpret a lot of things from your search history as well. If you've been searching for, let's say, your favorite football team, Google Now will prepare a card showing you the next match the team is playing and will provide you score updates once the game begins.</paragraph>
+			<paragraph>Google Now has been getting smarter and, if you allow it, can scan your email for upcoming flights, deliveries or restaurant reservations and duly notify you. There are also numerous kinds of cards like birthdays (yours and those of your contacts) and what distance you've walked in a particular month. The last one could definitely feel creepy for some users, but it's easily turned off in the Google Now settings menu. The latest addition to Google Now cards are TV and Offers.</paragraph>
+			<paragraph>Google has also integrated Voice Actions. They can handle stuff like sending messages (SMS or email), initiating a voice call, asking for directions, taking a note or opening a site. Google Now can also launch apps, check and manage your calendar and look for nearby places of interest and stuff like movie openings in theaters.</paragraph>
+			<paragraph>One big advantage of since Jelly Bean is that dictation doesn't require an internet connection to work. You can dictate text anywhere in the interface where the on-screen keyboard is available - be it Messaging or a note taking app - without the need for a data connection as long as you have the required language packs installed (and those only take about 20-25MB of your storage per pack).</paragraph>
+			<paragraph>Making voice typing available offline also made it faster as it's not dependent on your connection. What's even more impressive is that the transition hasn't cost it anything in terms of accuracy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The CyanogenMod Oppo N1 has a Snapdragon 600 chipset, which is not exactly top of the range any more. The Snapdragon 800 is already powering a dozen flagships, while its Snapdragon 805 successor is just around the corner.</paragraph>
+			<paragraph>Not that four Krait 300 cores is something to frown at, but they don't allow for the same instantaneous loading times or stuff like 4K video recording.</paragraph>
+			<paragraph>So let's dig right into it. Starting off with BenchmarkPi and Linpack. Both focus on the processing skills - BenchmarkPi focuses on individual cores while Linpack measures multi-threaded performance. In both cases the Oppo N1 performed as expected - matching its Snapdragon 600 peers and falling somewhat short of the Snapdragon 800-powered beasts.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Linpack is putting all four Krait 300 cores to the test and the CyanogenMod Oppo N1 didn't do as well as its ColorOS sibling.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The next benchmark we ran is GeekBench 3. It measures CPU and memory performance and, interestingly, the CyanogenMod version of the Oppo N1 scores significantly higher than the ColorOS one here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Quadrant and AnTuTu gauge the overall device performance. Here CyanogenMod Oppo N1 scored close to the regular version. In AnTuTu 4 it managed to get almost exactly the same result as the Snapdragon 800 packing Nexus 5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 4<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>It's time to test the Adreno 320 graphics performance. The CyanogenMod Oppo N1 scores a solid 20fps under the ColorOS variant of the phone and is ranking near the HTC One.</paragraph>
+			<paragraph>We ran the GFXBenchmark off-screen at 1080p resolution in order to test the raw power of the Adreno 320. It turned out just as powerful as the regular Oppo N1.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.7 T-Rex (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The JavaScript performance of the CyanogenMod Oppo N1 stock browser is good enough for us, but certainly not the best we've seen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The CyanogenMod Oppo N1 did well at the compound BrowserMark 2 test, and even managed to get very close to the more powerful Samsung Galaxy Note 3.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook is unchanged, still great<subsectionTitle>
+			<paragraph>The phonebook is the stock Android People app, which hasn't been changed since its major redesign under Ice Cream Sandwich.</paragraph>
+			<paragraph>It's made up of three tabs that you can switch between with sideways swipes. The middle tab is the default one, listing all of your contacts. Contacts are listed with a name and a picture to the right. They can be sorted by first or last name, and viewed as first name or last name first.</paragraph>
+			<paragraph>There's a permanent scroll bar available that you can grab and jump straight to contacts starting with a certain letter. There's regular search as you type too.</paragraph>
+			<paragraph>The quick contacts feature triggers on tapping a contact image to bring up a tabbed popup window. The tabs are phone and email with a list of the available numbers or addresses. These tabs can be navigated with sideways swipes as well.</paragraph>
+			<paragraph>The single contact view displays the contact's name along with a star to favorite a contact and a Settings button that lets you edit, share or delete a contact, as well assign custom ringtones to them or set the phone to redirect calls from that contact straight to voice mail.</paragraph>
+			<paragraph>Under that is a list of all contact info sorted by category - phone numbers, emails, events, notes and so on.</paragraph>
+			<paragraph>While editing a contact, you can add new fields of different types to fill in more info for the contact. You can link contacts too, if you've added the same person on multiple services.</paragraph>
+			<paragraph>The contacts that the phonebook displays can be filtered by service (e.g. hide all Facebook contacts) and even group (so you can hide all contacts that don't belong in a group, for example).</paragraph>
+			<paragraph>The other two major tabs in the phonebook are Groups and Favorites. Groups are listed by service (e.g. your Gmail account), while favorites are a listed as a grid of large contact photos, which is readily thumbable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basic telephony<subsectionTitle>
+			<paragraph>In-call quality on the CyanogenMod Oppo N1 is delightful. Voices come out loud and clear and the device held on to signal without issue.</paragraph>
+			<paragraph>The dialer features the neon-blue on black theme, but hasn't grown any new functionality. There is smart dialing on board, which is pretty well implemented. Kudos to Cyanogen for cooking this feature in.</paragraph>
+			<paragraph>The dialer is just the first tab of the phone app, the other two being the Call log and the Favorites tab (you get the same in the Phonebook). In the Call log, you can't delete individual entries, which is mind-boggling.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the CyanogenMod Oppo N1 and it scored a Good overall mark just as its ColorOS running sibling did. .</paragraph>
+			<paragraph>Information on how we perform the test can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Stellar messaging<subsectionTitle>
+			<paragraph>The messaging section is business as usual but with some improvements. All SMS/MMS communication is organized into threads. A cool new feature is that you can select multiple threads for mass deletion.</paragraph>
+			<paragraph>Each thread is organized like an IM chat session, the latest message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them (to prevent deletion). You can use search to find a specific message in all conversations.</paragraph>
+			<paragraph>Quick contacts work here too and there's a call shortcut at the top of the screen when viewing a thread.</paragraph>
+			<paragraph>You can set the CyanogenMod Oppo N1 to delete older messages (by default, it keeps 500 texts and 50 MMS). You can activate delivery reports as well as read receipts.</paragraph>
+			<paragraph>Composing a text is a little frustrating as the text box starts off as a single line and grows only up to three lines, which makes working with longer texts hard. We mostly let it slide on previous versions, but with a 5.9" screen there's no excuse not to make the text box bigger.</paragraph>
+			<paragraph>You can add multimedia (photos, videos, sounds, etc.), which will convert the message into an MMS. If you need multiple slides or multiple attachments, you can go to a full-blown MMS editor as well.</paragraph>
+			<paragraph>Moving on to email, the Gmail app features color coded sender images, based on the first letter of the sender's name. The default app supports multiple Gmail accounts, but there's no unified inbox.</paragraph>
+			<paragraph>You can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>Unlike its Gmail counterpart, this app supports a combined inbox view. It color codes the inboxes so you can easily tell where each message came from. Unfortunately, there's no moving between messages with sideways swipes here.</paragraph>
+			<paragraph>The keyboard has now even more room to stretch its legs on the 5.9" screen and typing is very easy. Keys get even bigger when you switch to landscape mode - the long screen becomes very comfortable for two-thumb typing.</paragraph>
+			<paragraph>In Jelly Bean 4.2.2 Google introduced a new typing method called Gesture typing. It works in a manner very similar to Swype -- you just drag your finger over the letters you want to type, lifting when each word is complete. Naturally, the Gesture Typing feature benefits from the already existing Android word prediction, so you can just click on the words the keyboard suggests.</paragraph>
+			<paragraph>A tap on the text area will reveal a "handle" attached to the text cursor - it's easier and more accurate when correcting mistakes. A double tap will bring up the select options - select word and select all - with two handles to adjust the start and end of the selection.</paragraph>
+			<paragraph>If a word has a typo, it will be underlined in red and when you tap it, the phone will offer a number of suggested corrections along with options to add the word to the phone's dictionary or just delete the word.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Your images come to life on the 5.9" display<subsectionTitle>
+			<paragraph>The Gallery in Android 4.3 Jelly Bean retains its ICS looks and functionality. The Default view of the gallery is Albums, the first of which is always the Camera album, which has a camera overlay icon too. Rather than the familiar stacks, the app uses a grid of photos, two on a line.</paragraph>
+			<paragraph>Besides, Album view, you also get Locations (photos are grouped based on where they were taken), Times (grouped by when they were taken), People (if the photos have tagged faces in them) and Tags (these are general tags you can add manually).</paragraph>
+			<paragraph>A handy option is the Make available offline feature - it lets you easily select multiple online albums and download them for offline viewing. The Gallery app supports online albums like Picasa (but not Facebook) and you can set it to sync photos only over Wi-Fi.</paragraph>
+			<paragraph>Getting inside an album displays all the photos in a rectangular grid, which is horizontally scrollable. When you try to scroll past the end, the photo thumbnails will tilt to remind you you're at the end.</paragraph>
+			<paragraph>The single photo view is updated too - above the photo are several sharing shortcuts and a delete button, while the underlying strip of small thumbnails of all other photos in the album isn't available any more.</paragraph>
+			<paragraph>The settings menu lets you do simple edits to a photo (rotate, crop) or go into a more capable editor with a lot more options. The editor can be accessed via a small icon in the bottom left corner and offers light adjustments (so you can bring out the shadows or the highlights), effects, color styles, red eye correction, straightening a photo, sharpening and face glow (which detects faces automatically). Most of these options have a slider that lets you set the strength of the effect.</paragraph>
+			<paragraph>The CyanogenMod Oppo N1 comes with a custom made file manager out of the box. It's quite capable and sports a simple interface of a traditional folder browser. Selecting files allows you to delete, rename, copy and view their properties from a pop-up menu.</paragraph>
+			<paragraph>Batch operations are supported. The folder browser has list and grid views and you can change the sorting method. You can also change the theme of the file browser from the settings menu.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player fails to impress<subsectionTitle>
+			<paragraph>The video player is still not getting the necessary attention from Google and there's no dedicated videos app yet (you have to go through the Gallery). Despite Oppo N1's excellent track record of supported video codecs, the CyanogenMod edition could only handle mp4 videos, while avi, mov, DivX and XviD were out of the question. We'd suggest using a player with a codec pack, like MXPlayer and enjoy videos on the great 5.9" IPS display.</paragraph>
+			<paragraph>To the phone's credit, compatible videos played up to FullHD resolution trouble-free.</paragraph>
+			<paragraph>At long last, Google has implemented wireless video sharing with a Wi-Fi enabled TV. The feature relies on the good ol' DLNA technology to connect and the Miracast protocol for streaming. It's another feature most customs launchers had, but is only now making its way to the platform itself.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play Music streams and stores<subsectionTitle>
+			<paragraph>Google's own music player called Play Music is aboard the CyanogenMod Oppo N1. It went through a major UI overhaul and is now snappier and more beautiful. It features the spanking New Listen Now feature which tries to determine what you like and the sequence of your track-changing so that it can start offering you music you might like to play next.</paragraph>
+			<paragraph>Google Play Music also gives you the option to upload music onto the Google cloud and stream it on your device via Wi-Fi or mobile data. There's also the nifty option to download the content onto the device if you want to have it there for those occasions when a connection isn't available.</paragraph>
+			<paragraph>The Settings key will get you into the equalizer. It can be turned on and off and features several presets along with a user defined one. If you plug in a headset, you can also play with the Bass boost and 3D effect sliders.</paragraph>
+			<paragraph>The Now Playing screen uses the song album art and gives you a quick shortcut to the rest of the artist's songs along with the play controls.</paragraph>
+			<paragraph>While the player is working, the lockscreen features the album art and track info for the current song along with playback controls. The notification area also lets you control the playback via an expandable notification.</paragraph>
+			<paragraph>Cyanogen has also cooked up its own music player dubbed Apollo. It's pretty standard and is reminiscent of the pre-update Google Play Music player. It supports playlists, folder view, and an equalizer.Overall, the Apollo can match the Play Music app's functionality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is perfectly clean<subsectionTitle>
+			<paragraph>The Oppo N1 turned out to be an excellent performer in terms of audio quality. The phablet aced the first part of our test, posting excellent scores and garnishing them with the volume levels comparable to those of the HTC One Max.</paragraph>
+			<paragraph>There's some drop in quality when you plug in a pair of headphones with distortion and stereo crosstalk both up a bit. It's not too bad though and neither is the drop in volume - the loudness is still above average. We'd still rate the overall performance as excellent.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Oppo N1 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13 MP rotating camera<subsectionTitle>
+			<paragraph>The camera has a 1/3.06" CMOS sensor with 13MP resolution. The lens has a bright F/2.0 aperture and 6 lenses - Oppo says this is the first Android camera with a 6-lens design. More importantly it matches the Nokia Lumia 1020, which also has a 6-element lens - the WP cameraphone has the recognizable ZEISS brand name, but its aperture is F/2.2.</paragraph>
+			<paragraph>The interface has two control sidebars in the viewfinder, the right one holding the still and video buttons and gallery shortcut, while the left one is for settings, flash and scene selection. The standard way off accessing recently snapped photos is here too - a left swipe - is available and you can swipe up to delete photos from there.</paragraph>
+			<paragraph>There's a little three dot toggle which will guide you through the different shooting modes - Beauty, Panorama, HDR and Normal.</paragraph>
+			<paragraph>There's a slight drawback that we noticed - turning the camera assembly around doesn't automatically launch the camera app. That's a nice feature, which ColorOS packs, but CyanogenMod doesn't.</paragraph>
+			<paragraph>Photosphere lets you take Street View panoramas of your surroundings. You start by aligning your image and then just move the phone about following a generated dot. After you've covered the entire surrounding scene the device generates a panorama, which can be viewed as a Photosphere in the Gallery and uploaded to Google's servers to be featured in Maps (if it's good enough).</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Anyhow, the CyanogenMod Oppo N1's camera is more than capable of taking detail-rich images in good light. There was plenty of detail even at 100%, but colors are noticeably warmer than they are on the ColorOS version. The metering is also slightly more enthusiastic resulting in the occasional clipped highlight, but the overall output of the two ROMs is on par for the most part. This is to say the output is pretty solid, even if it comes slightly worse than the best snappers out there.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Macro shooting is good on the CyanogenMod Oppo N1. It captured a lot of detail and blurred the background nicely to create a true macro feel to the image. Check out some full-res samples below.</paragraph>
+			<paragraph>HDR mode is available on the regular Oppo N1 as well as the CyanogenMod version. It finds multiple exposures to the same scene and then combines them into a single image. Here are two samples in full-resolution.</paragraph>
+			<paragraph>You can see that the CyanogenMod Oppo N1's HDR samples lack in contrast, despite the phone's best efforts. The ColorOS version of the phone managed a better job here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The CyanogenMod Oppo N1 enters our Photo quality comparison tool to compete its brethren and the Samsung Galaxy Note 3. You can see that it's quite noisy, even more so than the ColorOS variant.</paragraph>
+			<paragraph>   Oppo N1 in our photo compare test</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Decent video recording<subsectionTitle>
+			<paragraph>The CyanogenMod Oppo N1 retains its video recording capabilities and just as the regular version records 1080p video capture at 30 frames per second as well as 1080p high dynamic range video and slow-motion WVGA video.</paragraph>
+			<paragraph>The normal mode of capture resulted in a video with average levels of detail and pleasant colors. Unike the ColorOS running Oppo N1, the CyanogenMod version produced double the bitrate at 18.1Mbps. Unfortunately that doesn't help it deal with the choppiness which is still present and quite irritating.</paragraph>
+			<paragraph>Check out the 1080p video sample below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Framerate hovered around 27fps, while audio bitrate was 157 Kbps with 2 channels (read, stereo) and a 48 kHz sampling rate.</paragraph>
+			<paragraph>HDR video does improve the dynamic, but only slightly and it comes at the expense of contrast, which is ruined. The level of captured detail is about the same, but the HDR video is again, a little choppy.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And finally, there is the slow motion capture. Unlike the Galaxy Note 3, which captures slo-mo clips in 1280 x 720, the Oppo N1 can only go up to 800 x 480px (WVGA). What's worse the resolved detail doesn't even do that resolution justice.</paragraph>
+			<paragraph>You can find an untouched 1080p video sample (00:10s, 23.1 MB) for direct download. An HDR sample (00:10s, 21.6 MB) is available, too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>To greet the Oppo N1 in our Video quality comparison tool we've lined up the Samsung Galaxy S4 and the ColorOS Oppo N1. However, you can also pit it against the HTC One Max, Samsung Galaxy Note 3 or any other device you wish at the tool's page.</paragraph>
+			<paragraph>   Oppo N1 in our Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity sans LTE<subsectionTitle>
+			<paragraph>The Oppo N1 comes packed with connectivity options. It has quad-band GSM and penta-band HSPA support. There's dual-band Wi-Fi a/b/g/n/ac, DLNA and Wi-Fi Direct, Bluetooth 4.0, NFC, microUSB 2.0 with USB on the go support.</paragraph>
+			<paragraph>What the Oppo N1 sadly lacks is LTE. We find it a little strange given its flagship aspirations and Snapdragon 600 chip but not every market has LTE yet, so it may not be a deal breaker for everyone.</paragraph>
+			<paragraph>One useful app here is the System update app, which can be used to update the phone's software over the air or from a local file (a ZIP saved in the internal memory).</paragraph>
+			<paragraph>There's a Data monitor app preloaded on the Oppo N1, which reports both Wi-Fi and the carrier network data you're using. The app can set limits and also break down the used data by apps.</paragraph>
+			<paragraph>O-Click is another cool connectivity option. It connects to the O-Click accessory over Bluetooth. The O-Click accessory can be attached to your keychain or wrist and be used to detect when the Oppo N1 isn't within range, a double-tap on the tiny remote will ring the phone (even if the sound had been turned off) and would alert you of incoming notifications on the Oppo N1.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Chrome<subsectionTitle>
+			<paragraph>The Oppo N1 comes with Google Chrome as its only preinstalled browser. The interface hasn't changed since Chrome's launch for Android and is clean and minimalist.</paragraph>
+			<paragraph>At the top there's an URL bar with a refresh/stop buttons next to tabs and settings. You can switch between tabs with a wide swipe from either the left or right of the top bar.</paragraph>
+			<paragraph>Opening the tabs area reveals a list of tabs which can be closed again with a left or right swipe. The animation accompanying this action is neat, too. You can also open up the tabs view by swiping down from the top bar.</paragraph>
+			<paragraph>Of course, one of Chrome's key assets is the seamless sync with the desktop version. You can start browsing on your PC and finish the item on your mobile phone. Your bookmarks and favorites get synced too.</paragraph>
+			<paragraph>Google Chrome is generous with the settings as well. You can control almost every aspect of your web browsing from choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups.</paragraph>
+			<paragraph>If you are out of Wi-Fi range, you can, for example, choose temporarily not to load images. Digging into Chrome's options, you'll also have the option to turn form auto-fill and storing passwords on or off.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Basic organizer skills will do<subsectionTitle>
+			<paragraph>The CyanogenMod Oppo N1 doesn't come with a dedicated document editor. However, after installing a third-party file browser we were able to open all the different document types: DOC, XLS, PPT from Office 2003 and 2007 along with PDF using Google Drive with ease..</paragraph>
+			<paragraph>The calendar's look hasn't changed dramatically. There are four views - Daily, Weekly, Monthly and Agenda. The app can easily handle several online calendars as well as the local calendar.</paragraph>
+			<paragraph>You can add multiple reminders for each event and search all events. Recently Google added color-coding to events, which helps with organizing tasks.</paragraph>
+			<paragraph>The Clock app has received a major overhaul. It displays your local time and lets you add as many extra capital cities as you like (they will also be visible on your lockscreen widget upon expanding).</paragraph>
+			<paragraph>The usual alarm functionality is still available in the fresh new design. You can set multiple alarms, each with its own repeat pattern, ringtone and label. The app also comes with a stopwatch and a timer.</paragraph>
+			<paragraph>The good old calculator is here too - it has big, easily thumbable keys and you can swipe to the left to bring up the advanced functions (trigonometry, square root, brackets, etc.).</paragraph>
+			<paragraph>Stock Android isn't big on organizing but you can find pretty much anything in the Google Play store. Note taking apps like Google Keep or Evernote, different calendars, different office viewers, calculators, anything.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and Google Earth will guide you through<subsectionTitle>
+			<paragraph>The CyanogenMod Oppo N1 comes with a GPS receiver, which took about a minute to get satellite lock upon a cold start (it supports GLONASS for faster, more accurate locks too). You can use the A-GPS functionality to get near instantaneous locks. Alternatively, network positioning will also do if you only need an estimate of your location.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>You can also plan routes, search for nearby POI and go into the always cool Street View. The app will reroute you if you get off course, even without a data connection.</paragraph>
+			<paragraph>Google Maps uses vector maps, which are very data efficient. The latest version has an easy to use interface for caching maps - you just choose "Make available offline" from the menu and pan/zoom around until the desired area is in view (there's an indicator showing how much storage caching that area will take). You can later view cached areas and delete ones you no longer need.</paragraph>
+			<paragraph>Note that there's a limit to the size of the area you can cache - you can't just make all of Europe available offline, not even a whole country. We managed to cache Berlin and some surrounding regions before Maps told us the area is too big. Also, there's no address search in the cached maps and you can only cache map data in supported regions of the world.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play store has all the apps<subsectionTitle>
+			<paragraph>Now that CyanogenMod has passed Google's compatibility test suite program (CTS), access to the Play Store is unobstructed and doesn't involve any app side loading.
+</paragraph>
+			<paragraph>The Store is organized in a few scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. The in-app section is untouched though and it's very informative - a description, latest changes, number of downloads and comments with rating. There is usually a demo video and several screenshots for most apps too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Well, that was a pleasant surprise. Who would've ever imagined Cyanogen taking it to the next level and finding a vessel of the Oppo N1's magnitude?</paragraph>
+			<paragraph>They say fortune favors the brave and we can't think of a better match than the CyanogenMod-ded Oppo N1. The Chinese smartphone maker is known for refusing to play it safe but we wouldn't call teaming up with CyanogenMod Inc. a gamble.</paragraph>
+			<paragraph>In fact, as we've discovered through our extended use of the device, the CyanogenMod Oppo N1 is far more than just another phone that runs the custom ROM. Because this is the very first mass-produced phone to ship with CyanogenMod out of the box, developers have clearly given it the special attention it deserves, polishing the user experience inside out.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>As a result, the features of the Oppo N1 that make it stand out from the phablet crowd work just as well as Oppo imagined them. The O-Click remote, O-Touch back panel and the rotating camera are seamlessly integrated in the overall user experience.</paragraph>
+			<paragraph>Depending on your needs, CyanogenMod can work just like stock Android works on Nexus phones. Dig a bit deeper and you'll see a multitude of options missing in stock Android that many people just can't live without. Phone profiles, Privacy Guard, custom themes and plenty of other things, small and not-so-small, make CyanogenMod the smartphone junkie's dream.</paragraph>
+			<paragraph>What the Oppo N1 lacks in both its regular and Cyanogen versions is the powerful internals of some of its main rivals. The Snapdragon 600 has no trouble running the lightweight CyanogenMod, but it can't match the computing power of the newer and faster Snadpragon 800 in the likes of the Galaxy Note 3, Xperia Z Ultra and the Lumia 1520.</paragraph>
+			<paragraph>   Samsung Galaxy Note 3 ? Sony Xperia Z Ultra ? Nokia Lumia 1520</paragraph>
+			<paragraph>And here comes an interesting dilemma for you. Since CyanogenMod can run on the two droids above and, in essence turn them into Cyanogen phones, why is the Oppo so special? And who's going to buy it, when they can get the faster and more popular Samsung and Sony alternatives, install CyanogenMod and be done with it?</paragraph>
+			<paragraph>For one, the core of Cyanogen developers will continue to support the N1 going forward, as this is a long-term partnership for both companies. The Galaxy Note 3 and Xperia Z Ultra on the other hand will count on volunteers, not Cyanogen staffers. Next, the Cyanogen Oppo N1 comes running the custom Android firmware out of the box and doesn't require any sort of hacking.</paragraph>
+			<paragraph>We don't know what Cyanogen's plan for the future is. Steve Kondik is the man to ask. What we do know is that CyanogenMod won't see its user base grow at the pace they would like, unless the custom ROM gets on more phones and tablets, soon.</paragraph>
+			<paragraph>As for the phone in question - with a ?460 price tag, the Oppo N1 CyanogenMod edition is hard to be considered a Nexus rival. It certainly has the character and the features to challenge the Nexus 5 if it wanted to, but the price tag is likely to tip the scales the wrong way.</paragraph>
+			<paragraph>This shouldn't take away from the fact that the first ever phone to run Cyanogen out of the box has set the bar quite high. Oppo and Cyanogen Inc. clearly cannot afford to sell at Google prices but that's one of the very few bad things we can say about this partnership and its first offspring.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,107 @@
+<review>
+	<title>Sony Ericsson txt pro preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/sony_ericsson_txt_pro-review-621.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Yendo paved the way for full-touch feature phones in Sony Ericsson's lineup and now the txt pro is coming to cement their position. It puts a slide-out QWERTY and SNS features in the palm of your hand and includes Wi-Fi connectivity for cheaper (and faster!) Internet access.</paragraph>
+			<paragraph>While the Xperia mini pro boasts a fast CPU and Android, the Sony Ericsson txt pro aims at a lower price bracket. Sony Ericsson have done their best to emulate the Android experience - the four-corner UI used originated in the X10 mini and the paginated menu are just some examples. You even get Gmail, Picasa and Gtalk integration.</paragraph>
+			<paragraph>The txt pro also comes with Facebook and Twitter integration through the Friends app, which follows the status updates of five of your friends. We'll get back to that in a second, let's check out the highlights of the Sony Ericsson txt pro.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson txt pro at a glance:<subsectionTitle>
+			<paragraph>The four-corner UI has two homescreens - the first holds the clock, while the second holds five contacts. For each one you get extended info - all calls, SMS messages along with Facebook and Twitter status updates rolled into one tabbed interface we're used to seeing in custom Android skin jobs.</paragraph>
+			<paragraph>The 3" WQVGA screen offers enough space for comfortable interaction with apps like Opera Mini and the Wi-Fi connectivity means you can do more browsing (and IM chatting) than you would on a Wi-Fi-less phones.</paragraph>
+			<paragraph>FIY, there's a 360-degree spin &amp; hardware checkup on the next page. L8r, we'll look @ the software.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Ericsson txt pro 360-degree spin<subsectionTitle>
+			<paragraph>QWERTY-enabled handsets don?t really get any smaller than that 93 x 52 x 18 mm, especially considering the 3" screen Sony Ericsson managed to fit on the txt pro. The weight of 100g is spot on too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Human curvature heritage is pretty evident in the Sony Ericsson txt pro design, which has a palm-fitting curved design. The overall styling borrows quite a bit from the new Xperia mini designs too.</paragraph>
+			<paragraph>The QWERTY keyboard comes courtesy of the original mini pro - a compliment for a device in the class of the txt pro. Don't think that the Sony Ericsson txt pro is a Frankenstein affair - the result is an attractive, minimalistic handset.</paragraph>
+			<paragraph>The Sony Ericsson txt pro has a 3? WQVGA touchscreen - it may not sound like much, but it's more than the original Xperia X10 minis got. The small diagonal means even this low resolution produces decent sharpness, but it's hardly the best quality display around.</paragraph>
+			<paragraph>There is some noticeable banding in gradients even though the display supports 256K colors. Viewing angles are good for the class but there is noticeable contrast degradation when you view the display at an angle. Sunlight legibility is disappointing.</paragraph>
+			<paragraph>On the positive side, the screen sensitivity, as was to be expected in a capacitive unit, is excellent. The slightest of touches is enough for a click to be registered.</paragraph>
+			<paragraph>Below the display is the singular hardware button on the front - the Home key, which somewhat confusingly works as a back key some times. Above the display is the earpiece and two black circles that at first sight look like a video call camera and some hardware sensor, but they are not.</paragraph>
+			<paragraph>They are probably proximity and ambient light sensors but they didn?t work on our beta unit, so we'll have to check them again when we get a production unit for a proper review.</paragraph>
+			<paragraph>The right side of the Sony Ericsson txt pro houses a barely protruding volume rocker and the single-stage shutter key. There's nothing on the left side of the phone.</paragraph>
+			<paragraph>On top of the handset is the Power/Lock key, which sits flush against the surface to prevent accidental presses. Right next to is a regular 3.5mm audio jack and a microUSB port, both of which are left uncovered. There's a tiny charger light just above the microUSB port.</paragraph>
+			<paragraph>The bottom of the txt pro features the mouthpiece and the lanyard eyelet. There's also a groove you can put your fingernail in to pry open the back cover.</paragraph>
+			<paragraph>The back of the Sony Ericsson txt pro features the 3MP camera and the loudspeaker. The camera is recessed into the body of the phone, which provides good protection against fingerprints and scratches alike.</paragraph>
+			<paragraph>The curved back reduces the distortion of the sound coming from the loudspeaker by keeping it away from the surface that the phone is laying on.</paragraph>
+			<paragraph>Removing the back cover reveals 1000mAh battery, which is supposed to provide up to 16.5 days of standby and up to 5 hours of talk time.</paragraph>
+			<paragraph>Unfortunately, the SIM card and microSD card slots are under the battery and you have to take it out every time you want to swap either card.</paragraph>
+			<paragraph>The Sony Ericsson txt pro is a delightfully tiny device that will fit comfortably even in small hands. The curved back makes the phone comfortable to hold both in portrait orientation and in landscape (with the QWERTY out) and the soft matte plastic that covers most of the phone is great at covering fingerprints (it's feels nice to touch, too).</paragraph>
+			<paragraph>The build quality is sturdy and the scratch-resistant screen mean that the txt pro can survive some rough handling too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quality keyboard<subsectionTitle>
+			<paragraph>Opening the Sony Ericsson txt mini pro reveals the four-row QWERTY keyboard. It's virtually identical to the one on the XPERIA X10 mini pro. Despite its diminutive size, the txt pro is a capable texter.</paragraph>
+			<paragraph>There is generous space between the keys and the tactile feedback is good enough to provide for some fast typing. For its dimensions the txt pro performs admirably - touchscreen typing is comfortable on screens 3.5-inches and above. Given the SNS inclinations of the txt pro, a hardware keyboard was a wise choice.</paragraph>
+			<paragraph>If we had to complain about anything it would be that the keys on our pre-production unit were a bit on the stiff side.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android-inspired feature phone UI<subsectionTitle>
+			<paragraph>The Sony Ericsson txt pro does not run Android despite outwardly appearances - it's the same full-touch feature phone platform that we saw on the Yendo, but with some improvements.</paragraph>
+			<paragraph>Here's a video demo of the user interface, which should give you a good impression of the UI:.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>There are no widgets on the homescreen but you do get two homescreens, each with a different function. The first shows the time and the date, while the second one holds your five besties from the Friends app. A third homescreen appears when you're running the music player.</paragraph>
+			<paragraph>You can think of these homescreens as having just one fixed widget that you can't change.</paragraph>
+			<paragraph>The four corners of the screen hold a shortcut each. By default, they are messaging, browser dialer and contacts. You can switch them with any four shortcuts you like though.</paragraph>
+			<paragraph>At the top of the screen there is a thin strip hosting status info about battery, signal strength and others such as Wi-Fi or Bluetooth.</paragraph>
+			<paragraph>The app launcher can be dragged out from the bottom of the screen and it features a 3x4 grid of icons arranged into horizontal pages. Newly installed apps go on these pages as well and you can rearrange icons.</paragraph>
+			<paragraph>Being a feature phone, the txt pro has to rely on Java apps to extend the built-in functionality. The Java app repository has grown a few gems though - like the Facebook Java app (though you have to download that manually), Foursquare released a Java app, there are Java versions of some Google apps too (Maps didn?t work properly, but Gmail was OK).</paragraph>
+			<paragraph>For web browsing, the phone comes preinstalled with Opera Mini 5.1, which includes things like an on-screen QWERTY, something that the txt pro doesn?t have naturally. You can actually get by on Java apps reasonably well ? they are not countless are no hundreds of thousands of apps available, but the big names are present for the most part.</paragraph>
+			<paragraph>Oh, and we noticed something cool borrowed from Android - the Sony Ericsson txt pro actually gave us a list of permissions that an app requires (internet access, etc.) when we tried to install something.</paragraph>
+			<paragraph>Sadly, the txt pro lacks multi-tasking. What we miss more, however, is the file browser. There is none on board! Worse still - it turned out that files of a given type must, must be in a specific folder or the txt pro can't see them.</paragraph>
+			<paragraph>That caused us quite a bit of grief, trying to guess where each file should go. What is this, the early 2000s?</paragraph>
+			<paragraph>The Sony Ericsson txt pro uses a regular feature phone CPU and unfortunately, you can feel it throughout the user interface ? it?s sluggish all around. The unit we're testing is a pre-production one, so things might get better, but we're not counting on buttery smooth performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Friends app and social networking<subsectionTitle>
+			<paragraph>The Friends app is one of the highlights of the Sony Ericsson txt pro. It is sort of like those SNS-enabled, tabbed phonebooks that we've seen on custom Android skins. It has five tabs - call log, list of SMS messages, a tab each for Twitter and Facebook updates and finally some options to manage the contact.</paragraph>
+			<paragraph>It's great in principle, but it only supports up to five contacts and no more, which some might find limiting. Anyway, each contact is represented by their contact photo - the five are always visible at the top of the app and you can tap them to switch to that contact. The second homescreen holds the five contact photos that work as shortcuts - there are no status updates displayed there.</paragraph>
+			<paragraph>Facebook status updates can be "liked" and you can comment on them, but there's no way to post a status update of your own, the Friends app is purely for following. You can reply to tweets, but again, you can't send a new one from here.</paragraph>
+			<paragraph>There are conspicuous Go to Facebook and Go to Twitter buttons available - there are even Facebook and Twitter shortcuts in the menu - but unfortunately they all lead to the mobile site of the respective social network, viewed inside the native browser. That overall is an unattractive, barely usable option that we're not happy with.</paragraph>
+			<paragraph>Facebook recently released an official Java-based app, which looks very much like the Android app and works great on a touch screen. It supports most of Facebook's features (Chat is missing though), including things that the Friends app can't do (like viewing your friends' galleries). You can even add and manage Facebook apps, which are an easy way to add a lot of functionality to the basic app.</paragraph>
+			<paragraph>If you are into Facebook, the Facebook Java app is a best way to access it on the Sony Ericsson txt pro.</paragraph>
+			<paragraph>The txt pro also comes with Google Talk and Picasa apps - something you'd expect from an Android, but on a feature phone, they are a nice extra. Talk failed to sign in, but we took Picasa for a spin.</paragraph>
+			<paragraph>You can view albums and photos and edit title and description of photos and their visibility. You can delete photos too and create new albums. You can't upload new photos from here though, you have to do that from the phone?s gallery.</paragraph>
+			<paragraph>Some things are still missing - things like zooming in that we can't imagine won't be in the final version of the software. Some sort of a sharing option would be nice too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Basic still and video cameras<subsectionTitle>
+			<paragraph>The Sony Ericsson txt pro has a fixed-focus 3MP camera that can record QVGA videos. It's basic, but it's what you would expect from the class.</paragraph>
+			<paragraph>The user interface is quite simple - there are three shortcuts in the corners of the viewfinder, the virtual shutter, the still/video camera toggle and the gallery shortcut, which shows thumbnails of the last two photos taken. You can use the hardware shutter key too if you prefer. There are no settings available.</paragraph>
+			<paragraph>The image quality is acceptable for the class. There's good amount of fine detail left even though noise reduction really likes to smear foliage. There are some things that Sony Ericsson needs to address in the final version of the software (just a reminder, we're testing a pre-release unit), like the blue tint in the photos and the low contrast.</paragraph>
+			<paragraph>Here are some camera samples:.</paragraph>
+			<paragraph>The video camera uses the same UI and lets you choose video clip length - for MMS or as long as you want. QVGA videos are only good enough for MMS really, so don't expect too much from them.</paragraph>
+			<paragraph>Here?s an untouched video QVGA@15fps (16s, 1MB).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity and web browser<subsectionTitle>
+			<paragraph>The Sony Ericsson txt pro comes with quad-band GSM/GPRS/EDGE, which means it will work on just about any GSM network out there. It doesn?t, however, offer you fast Internet.</paragraph>
+			<paragraph>The Wi-Fi b/g is available, so that's not that much of an issue - free Wi-Fi hotspots are all over the place, especially at cafes, restaurants and hotels. Plus, being a feature phone, the txt pro doesn?t often need to handle bulky downloads.</paragraph>
+			<paragraph>As for the browser, the full-touch feature phone browser from Sony Ericsson is available and it handles some other duties as well (e.g. the Facebook, Twitter and Orkut shortcuts in the menu are just bookmarks that open in this browser).</paragraph>
+			<paragraph>If there's no Wi-Fi hotspot around and you're stuck with EDGE, you'd be better off with the Opera Mini browser. It opens pages faster and it's easier on your data plan, plus it has excellent compatibility with the majority of sites.</paragraph>
+			<paragraph>There's an on-screen portrait QWERTY (it works in landscape too) that you can use for text input or you can switch it off and use the hardware keyboard for that. We have two minor complaint here - one is that if you enter text with the hardware QWERTY, you're taken to a different screen while you type and the other is that there's no easy way to toggle on the onscreen keyboard on/off.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>The Sony Ericsson txt pro is aimed at the young crowd and its features cater to their needs. The hardware QWERTY will be put to good use, kids these days like to text and email a lot.</paragraph>
+			<paragraph>The Friends app is a great way to keep in touch with some of your friends by keeping an eye on their Facebook and Twitter accounts, but the SNS integration beyond that is nothing to write home about. We hope Sony Ericsson pre-installs the Facebook app when it launches the txt pro.</paragraph>
+			<paragraph>While it?s not a smartphone with a wide range of features, the Sony Ericsson txt pro covers virtually all the bases - camera, music (you'd just need to get a microSD card), social networking and web browsing. Plus, Wi-Fi connectivity means that money meant for a data plan can go towards an even better voice and SMS plan.</paragraph>
+			<paragraph>There are some areas we've left unexplored, like the music player, for instance ? it shows potential. We'll be back for a full review once the Sony Ericsson txt pro gets finalized.</paragraph>
+		</subsection>
+	</page>
+</review>

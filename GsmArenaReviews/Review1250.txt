@@ -1,0 +1,218 @@
+<review>
+	<title>Samsung Galaxy S7 vs. Apple iPhone 6s</title>
+	<description>Sixes and sevens</description>
+	<link>http://www.gsmarena.com/galaxy_s7_vs_iphone_6s-review-1415.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Galaxy S and the iPhone release schedules are out of lockstep, so each gets a shot at sticking around at the top level for at least half of the year. This season, the new Samsung Galaxy S7 lands right in the fast lane with the iPhone 6s already at cruising speed. Come fall, the lanes will change but the chase will continue.</paragraph>
+			<paragraph>Samsung's flagship has never been stronger - the company finally managed to reconcile the wealth of features its loyal fans love with a long-overdue redesign that was meant to win new converts. The S6 tried hard to appeal to the latter at the risk of alienating the former.</paragraph>
+			<paragraph>The iPhone 6s has the crowd its predecessors had - things there change slowly though to be fair Apple added a few bells and whistles to the UI (3D Touch), the camera (4K videos and Live photos), the chipset (2 gigs of RAM, at long last).</paragraph>
+			<paragraph>Apple's conservative approach to adding new features leaves the iPhone 6s with little to brag about, but every Apple higher-up will tell you it's about the overall experience and not on-paper specs.</paragraph>
+			<paragraph>The Galaxy S7 is very fresh - it only just started shipping - and its youth gives it a leg up in this fight. Is it enough to make it the most popular 5-or-so inch phone out there?</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>The Galaxy S6 was Samsung's boldest step yet and while the phone sold in droves, the complaints came in similar measure. Getting rid of the microSD slot, changing its mind about waterproofing, the protruding camera, the sealed battery.</paragraph>
+			<paragraph>The message from consumers was heard loud and (mostly) clear and the Samsung Galaxy S7 resolves all but the last complaint - the battery is still non-removable, but the company thinks long battery life and fast charging methods (both wired and wireless) are a good enough substitute.</paragraph>
+			<paragraph>Apple works differently. In the producer-consumer relationship, it's the company that sets the expectations, not the buyers. So it's more about "what will they come up with next?" rather than "why did they remove this or that?" The big additions this year were 3D Touch, 4K videos and Live photos, we'll cover those in their respective chapters.</paragraph>
+			<paragraph>The finish aside, both phones are essentially the same shape, with rounded sides that help ergonomics. The Galaxy S7 is slightly bigger in all dimensions, due to its bigger screen and battery.</paragraph>
+			<paragraph>As for the materials, both use metal and glass, just in different proportions. Samsung flaunts a glass back, a more premium version of the glossy plastic phones the company used to be known for (memories of smudgy, oily piano black plastic came flooding in).</paragraph>
+			<paragraph>Perhaps it has something to do with wireless charging - true, Qualcomm has a solution for metal-backed phones, but pushing as much electricity as Samsung wants is going to be difficult. "Fast wireless charging" is as fast as the standard issue 5V/2A wired chargers many phones come with, going against the preconception that wireless charging is slow.</paragraph>
+			<paragraph>Apple has been reluctant to adopt this wire-free charging mode, plus it needed to break away from the glass-backed look of the iPhone 4.</paragraph>
+			<paragraph>Both metal and glass suffer from durability issues compared to the less attractive polycarbonate. Still, we think the durability angle works in favor of the iPhone 6s. Anodized metal handles scratches much better than glass and while it is prone to dents, at least those dents don't develop into cracks.</paragraph>
+			<paragraph>Some independent testing shows Galaxy S7's back glass cracks more easily than the front. Both are Gorilla Glass 4, suggesting that the back panel is thinner (to save weight, most likely).</paragraph>
+			<paragraph>Cosmetic damage aside, the S7 is IP68 certified, meaning it can survive under 1.5m of water for half an hour. You probably don't want to test it to its limit, but everyday spills will just slide off the S7. Unlike the S5 brand of waterproofing, the new model does not require any unsightly flaps over any of its ports (forgetting to seal those up was a recipe for disaster and dealing with them every time at every charging was a hassle).</paragraph>
+			<paragraph>The other major advantage over the iPhone is cheap storage - the Galaxy S7 starts off with more to begin with, 32GB vs. 16GB, and you can use a microSD to add up to 200GB more where the iPhone 6s tops out at 128GB. And that one comes at a hefty $200 markup while a 128GB Samsung Pro+ card (rated at 95MB/s read, 90MB/s write) is ~$120. That's not as fast as the built-in UFS storage, but it won't be an issue.</paragraph>
+			<paragraph>The camera on the S6 protruded significantly, but the Galaxy S7 is slightly thicker and the camera sticks out no more than it does on the iPhone 6s.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. Even if you find the iPhone metal back attractive, the cheap storage upgrades and the piece of mind when it comes to water damage risks, should be enough to secure the win for the Samsung-born flagship in this category. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>Samsung has successfully taken AMOLED screens from a rare breed to a must-have status. The Super AMOLED on the Galaxy S7 is the most technologically advanced yet.</paragraph>
+			<paragraph>It's brighter than the S6 screen, reaching around 400 nits in manual brightness mode. The true maximum is closer to 540 nits, but that's available only under automatic control of the brightness.</paragraph>
+			<paragraph>It can be very dark too - the minimum brightness is just 2.1nits. Even when you wake up in the middle of the night to check something, you won't be blinded.</paragraph>
+			<paragraph>The screen has an Always On feature too. As discussed, it uses 1% of the battery charge per hour, but you see the time and date plus missed calls and messages. Unfortunately, no other notifications are shown (e.g. WhatsApp, Facebook or others).</paragraph>
+			<paragraph>The Samsung Galaxy S7 screen has the most accurate colors of any mobile display as well. We measured an average deltaE of 1.7 and even the maximum of 2.3 is very low.</paragraph>
+			<paragraph>Note that this is in Basic mode, Adaptive mode boosts contrast and saturation to make images pop, but it takes the average deltaE up to 7.1.</paragraph>
+			<paragraph>For techies: Basic mode targets the sRGB color gamut while Photo mode aims for the wider Adobe RGB. You'll need photos shot in Adobe RGB to appreciate it, though, most content on the web is sRGB.</paragraph>
+			<paragraph>Apple's supply chain magic allows it to source high-quality screens that put up a good fight against the Samsung panel.</paragraph>
+			<paragraph>The maximum brightness is essentially the same, 540 nits, and it is available to the user with the manual slider (AMOLEDs wear out quicker at max brightness, so Auto mode is designed to prolong their life).</paragraph>
+			<paragraph>Contrast is a stellar 1,500:1. In a well-lit room you won't see a difference, but in the dark, you will notice faint light seeping through the black areas of the screen (but not on the Galaxy S7).</paragraph>
+			<paragraph>The screen is quite accurate too, we measured an average deltaE of 3.6. With calibration, you can get a typical screen under 4, so the iPhone 6s is ready to go right out of the box. Not that you could calibrate the display, Apple wouldn't let you tinker there.</paragraph>
+			<paragraph>The Samsung Galaxy S7 display reflects less light than that of the iPhone, so even at 400 nits, it's more legible under direct sunlight. Switching to Auto mode extends this difference further.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Winner: Samsung Galaxy S7. As if we have to spell it out - the sharper, better calibrated screen usually wins, but this one has the bonus of Always On mode. Sure, you can get it at a lower cost with a Motorola or even a Lumia, but that doesn't diminish its impact. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Samsung Galaxy S7 has a massive advantage in battery capacity - at 3,000mAh, it has 75% more milliamps in its tank than the iPhone 6s. Apple is known for its great optimizations, but there's only so much rabbit you can pull out of a 1,715mAh hat.</paragraph>
+			<paragraph>The Endurance rating isn't as different as the battery capacity suggests. The Galaxy S7 can last an average of 80 hours between charges, that's over three days. The Apple iPhone 6s can go for 62 hours.</paragraph>
+			<paragraph>If you're planning to use the Always On feature of the S7, however, you should be prepared to charge more often - the Endurance rating drops to 49 hours (Samsung says the feature draws 1%/hour, so Always On alone will deplete the battery in twice that time).</paragraph>
+			<paragraph>The call times are much closer to what you would expect based on battery capacity. The iPhone 6s can't break 10 hours, so chatty users will get antsy when their battery drops below 20%-30% while S7 users can chat away.</paragraph>
+			<paragraph>The Galaxy S7 did 9 and a half hours of web browsing, the iPhone lasted longer. Note that using Chrome instead of Samsung's browser gave a better result, by an extra 1 hour.</paragraph>
+			<paragraph>The video playback test went heavily in favor of the S7, so media buffs can enjoy videos with less of an impact on the phone's endurance.</paragraph>
+			<paragraph>Pushing electricity in the other direction - back into the battery - happens much faster with the Galaxy S7. Samsung packaged the phone with a Quick Charge 3.0 charger, which can fully charge the phone in 90 minutes (0%-100%).</paragraph>
+			<paragraph>Samsung sells fast wireless chargers, based on the Qi standard (the S7 also supports PMA). They are "40% faster than standard wireless chargers." These chargers require a 9V/1.67A adapter (basically, Quick Charge 2.0) though wireless charging is not 100% efficient, so less reaches the battery.</paragraph>
+			<paragraph>Apple, meanwhile, continues using 5V/1A chargers, which take a while even with the relatively small battery they have to fill up. You can speed things along if you use an iPad charger.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. Honestly, we would give it the win just for the fast charging. It changes how you use a phone - you can just plug it in early in the morning and it will have enough charge for the day before you're out of the shower. It could last more than the iPhone 6s, but only if you disable the Always On screen mode. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Cross-platform performance testing is a tricky subject, but the issues faced by benchmark developers that support both Android and iOS are the same that face app developers.</paragraph>
+			<paragraph>The Samsung Galaxy S7 comes in two different configurations (aimed at different regions). The "international" version, like the one we have, is powered by an Exynos 8890 chipset, while the one heading to the US (and other regions) is based on the Snapdragon 820.</paragraph>
+			<paragraph>Its's custom core galore in this chapter. The Exynos 8890 uses Samsung's proprietary "Mongoose" cores, four of them in the big cluster. The little cluster is made up of four Cortex-A53s.</paragraph>
+			<paragraph>The Snapdragon 820 is all Qualcomm custom cores, Kryo, split into a big.LITTLE setup again, but there is only four cores in total, two in each cluster. We don't have an S820 Galaxy S7 around, so we'll include the scores of the S7 edge, which should perform identically.</paragraph>
+			<paragraph>Then there's the Apple A9, the iPhone 6s chipset, which has a dual-core processor with the Apple-designed Twister cores.</paragraph>
+			<paragraph>The Exynos chipset features an optimization that helps it when the app uses few cores. If only two Mongoose cores are engaged, they boost to 2.6GHz, up from the top speed of 2.3GHz when all four of them are online.</paragraph>
+			<paragraph>The big Kryo cores top out at 2.15GHz while the even bigger Twister cores go to 1.84GHz max.</paragraph>
+			<paragraph>"Even bigger" since in single-core performance the Apple-designed processor comes out on top, Mongoose is on the bottom (despite the clock speed advantage) and Kryo splits the difference.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>iOS devs know their target device very well - 2 cores, that's it - while their Android colleagues have to deal with many octa-core CPUs of different makes. The "octa-core" label often hides low-power Cortex-A53 cores, so a well-built Android app has to split its workload among as many cores as possible.</paragraph>
+			<paragraph>A properly powerful chip like the Exynos 8890 shines on multi-threaded tests and turns the tables on the other two. The Snapdragon 820 design again falls between it and the iPhone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS 2.0 points to the S820-based Galaxy as the winner in overall performance, while the Exynos version is at the bottom, hot on the heels of the iPhone 6s.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We have three different GPUs - a Mali-T880 in the Exynos Galaxy S7, an Adreno 530 in the Snapdragon 820 version and a PowerVR GT7600 in the Apple handset.</paragraph>
+			<paragraph>Looking at the offscreen test (which ignores screen resolution), the Adreno comes out as the clear winner, with the Mali and PowerVR roughly equal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Of course, the Apple iPhone 6s has to render at much lower resolution than the Galaxies - 750 x 1,334px vs. 1,440 x 2,560px, That's less than a third of the pixel count!</paragraph>
+			<paragraph>Some games don't actually use the full screen resolution, but instead render internally at lower resolution.</paragraph>
+			<paragraph>That said, iPhone devs can get very close to 60fps at native resolution, while Galaxy S7 games will run closer to 30fps if they go for QHD. The other option is to reduce fidelity, a QHD screen is its own form of anti-aliasing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>BasemarkES 3.1 shows an advantage for the Mali-T880 over Adreno 530 (it was the reverse in GFX), so the particular 3D engine a game uses may affect performance. Again, iOS devs have it easy since they have to target Apple A9 and A9X (for iPads), allowing them to optimize their games better.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Winner: Depends. Its big Twister cores have great single-core performance, which makes the life of an iOS app developer easy. The Galaxy S7 comes out ahead in multi-core tests but not by much. </paragraph>
+			<paragraph>The Samsung also has the more powerful GPU and while it has a lot more pixels on its screen, few games will actually render at full resolution so we put more weight on the offscreen performance. One class of games will use every screen pixel it can get - VR games - and those are very demanding even for high-end PCs. VR isn't on Apple's mind though, not yet. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Loudspeaker<subsectionTitle>
+			<paragraph>Neither Samsung nor Apple has been bitten by the stereo speaker bug and their single loudspeakers are nothing to brag about as both scored Below Average.</paragraph>
+			<paragraph>Both perform very similarly across the board, you're unlikely to hear a difference in loudness.</paragraph>
+			<paragraph>Tie. We guess the waterproofing hurt the Galaxy S7 loudspeaker performance, but at the end of the day neither phone is particularly loud. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality<subsectionTitle>
+			<paragraph>The two contestants were neck and neck when tested with an active external amplifier, producing output worthy of their flagship standing. However the iPhone 6s fell just short in terms of stereo quality as its crosstalk reading was higher, causing .</paragraph>
+			<paragraph>Plugging our standard headphones caused some extra crosstalk to appear in the Galaxy S7 output, but it still ended up a little better than the iPhone 6s. Keep in mind that the difference is absolutely impossible to notice without using dedicated equipment as we do. The two phones are also on par in terms of volume so there?s nothing separating them here.</paragraph>
+			<paragraph>Anyway, here go the results so you can do your comparisons.</paragraph>
+			<paragraph> Samsung Galaxy S7 frequency response</paragraph>
+			<paragraph> Apple iPhone 6s frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7 (only just). The slightly better stereo when used with an external amplifier is what grants it the victory here and only because we have actual numbers to compare. In real life scenarios the two are so close that it would take a really trained ear to tell them apart. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera features<subsectionTitle>
+			<paragraph>Samsung upped the ante this year by updating the most vital specs of a camera. The most important change is the Dual Pixel autofocus, which turns each and every of the sensor's 12 million pixels into a focus point.</paragraph>
+			<paragraph>The results are spectacular, the Galaxy S7 focuses on fast moving objects in all sorts of lighting conditions like nothing else (outside a few DSLRs). Dual Pixel is similar to phase detection autofocus in operation, but very different in scale - "phase detection" systems like the iPhone 6s has use around 5% of the sensor, Dual Pixel uses all of it.</paragraph>
+			<paragraph>Samsung also achieved what HTC promised but couldn't quite pull off - large pixels are great for low-light shooting. S7's pixels aren't that large - the HTC One had 2µm UltraPixels, the S7 has 1.4µm pixels and most current phones (with 16MP and above cameras) use 1.1µm.</paragraph>
+			<paragraph>Apple phones used to have large pixels too, the iPhone 5s had 1.5µm pixels on its 8MP sensor, but the move to 12MP with the iPhone 6 and 6s dropped the size to 1.22µ.</paragraph>
+			<paragraph>That's only half of the equation, though. Samsung also created the widest aperture on a mobile phone yet - f/1.7, beating LG's f/1.8 and far ahead of Apple's f/2.2.</paragraph>
+			<paragraph>Add in the Optical Image Stabilization - which the Galaxy S7 has but is reserved for the Plus model on the iPhone - plus S7's improved ability to focus in low-light makes the Samsung flagship a favorite for night time photography and videos.</paragraph>
+			<paragraph>With the iPhone 6s generation, Apple enabled 4K video recording 3,840 x 2,160px. Of course, this doesn't impress Android users who find this to be so 2013.</paragraph>
+			<paragraph>Anyway, Apple also introduced Live Photos - 3-second videos that start slightly before you take a photo and end slightly after (1.5s on each side). HTC was doing this with Zoe on the HTC One, so another 2013 feature.</paragraph>
+			<paragraph>Samsung also implemented this 3s video feature but called it Motion photo.</paragraph>
+			<paragraph>Both solutions have a lot more to be desired as sharing them to other users who don't have the same phone model is anything but straightforward.</paragraph>
+			<paragraph>Samsung has a great deal of additional features. Manual controls is perhaps the most advanced, it gives you control over manual focus, shutter speed, ISO and a few other settings. A really cool feature zooms to 100% when doing manual focus, so you clearly see whether you've got perfect focus.</paragraph>
+			<paragraph>Other options include live streaming to YouTube, doing Hyperlapse (Instagram's Hyperlapse still isn't available for Android) and Selective focus. You can download more modes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality, day<subsectionTitle>
+			<paragraph>Both phones have 12MP cameras and their field of view is only slightly different. The Samsung Galaxy S7 is slightly wider, but not by much (26mm vs. 29mm in 35mm equivalent). This generation Samsung went back to 4:3 sensors, after using widescreen cameras for the S6/Note5.</paragraph>
+			<paragraph>Note that the S7 comes with either a Sony IMX260 sensor or a Samsung ISOCELL. Those two a very, very similar with only minor differences visible in a direct head-to-head comparison.</paragraph>
+			<paragraph>Our test unit uses the Sony sensor.</paragraph>
+			<paragraph>The Samsung Galaxy S7 photos come out sharper - much sharper. It seems they are not optimized to be viewed at 100%, they appear oversharpened. At lower zoom levels the photos will appear better since shrinking photos softens them. Most of the time you don't pixel peep, but you get very close to it on a 4K UHD TV (especially if you switch to 16:9 photos).</paragraph>
+			<paragraph>The Apple iPhone 6s photos are softer (granted, the software uses sharpening sparingly), but there's less detail too.</paragraph>
+			<paragraph>Color rendering is fairly accurate (slightly exaggerated) on the Galaxy S7. The iPhone 6s colors are good too, but slightly undersaturated and leaning towards a warm yellow.</paragraph>
+			<paragraph>The iPhone has a slight advantage in dynamic range, the Galaxy S7 sometimes underexposes shadows that the iPhone resolves.</paragraph>
+			<paragraph>Both phones offer Auto HDR, so you don't have to toggle it manually. The iPhone 6s performs slightly better in terms of dynamic range, but the colors start to look off. In the Samsung Galaxy S7 HDR on shots develop jaggies (visible in the windows of the yellow building).</paragraph>
+			<paragraph>Apple finally upgraded the selfie camera from the lowly 1.2MP unit that iPhones had for years and the iPhone 6s comes with a 5MP shooter. The Galaxy S7 also has a 5MP selfie camera but it has a wider FoV (22mm vs. 31mm).</paragraph>
+			<paragraph>The Samsung camera produces sharper images and with better white balance too, the iPhone selfie cam has a very noticeable yellow tint.</paragraph>
+			<paragraph>The Galaxy S7 selfie camera has an f/1.7 aperture too, so you can expect some good late-night selfies.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. This chapter could have been split into several - photos with main camera, selfies and HDR mode. The Galaxy S7 main camera captures more detail, though it goes a little overboard with the postprocessing. Still, Samsung optimized the look for viewing on consumer screens and not pro photography - for that you can use manual mode. The selfie camera was sharper too. The iPhone 6s did manage to score a small victory in this chapter - it does HDR better.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality, dusk<subsectionTitle>
+			<paragraph>We waited until dusk and took a few shots. The Samsung Galaxy S7 with its bright aperture and bigger pixels shot at ISO 200, keeping noise very low. Shutter speed fell to 1/17s but the OIS was there to fend off handshake.</paragraph>
+			<paragraph>The iPhone 6s also shot at 1/17s and almost the same ISO too, 250. The darker areas of the image appear muddy, however, and the whole photo has a noticeable blue tint while the S7 managed to keep relatively good colors.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. It was dusk when we took these photos - not even night yet - but it's about as dark as the iPhone 6s can handle and produce decent results. The Galaxy S7 came out on top in this light and its advantage only grows as it gets darker. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy S7 has a wider aperture, which makes a difference when shooting 4K videos too.</paragraph>
+			<paragraph>The Galaxy and iPhone videos have comparable levels of detail, even though the Apple phone has to cover less FoV. It has a definite advantage in dynamic range, though, the Galaxy was on the edge of overexposing the yellow buildings in the background. Perhaps affected by the contrast of the image, the S7 mangled the colors too, so now they are quite close to those of the iPhone.</paragraph>
+			<paragraph>Switching to 1080p, the difference in FoV becomes even more pronounced as the iPhone 6s goes narrower.</paragraph>
+			<paragraph>You'll have to take a few steps back before you can fit the same group of people when shooting with the iPhone 6s. It maintains its advantage in terms of dynamic range, though.</paragraph>
+			<paragraph>In both resolutions, the Samsung Galaxy S7 records high-quality audio - 256Kbps bitrate, 48kHz sampling rate. Apple refuses to budge and years later the iPhone 6s still records mono sound with videos - 80Kbps, 44.1kHz.</paragraph>
+			<paragraph>The Samsung has better microphones, so the audio quality is better too. That there's stereo separation is a bonus.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. That's a cumulative score, for 4K recording the iPhone 6s has competitive level of detail (with slightly narrower FoV), but better dynamic range. It still records mono sound (and not good quality mono either), which is hard to overlook in 2016. The 1080p videos from the iPhone are quite narrow and it still doesn't have an edge in image sharpness. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera, dusk<subsectionTitle>
+			<paragraph>The advantage that the Samsung Galaxy S7 had continues when we switch to 4K video.</paragraph>
+			<paragraph>The whole frame appears brighter and there's noticeably less noise. This is especially visible in video since the noise doesn't stay in one place but flickers.</paragraph>
+			<paragraph>In the dark, 1080p videos are better since the noise issue is mitigated by the lower resolution.</paragraph>
+			<paragraph>The iPhone 6s closed the gap on the Galaxy S7, but again it got a boost from its narrower field of view. The iPhone videos were darker too.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. The S7 produced a brighter image with noticeably less noise - and noise is quite visible on video. The Galaxy also resolved more detail at both 2160p and 1080p and offered better color accuracy in the fading light. </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Apple and Samsung users see the world differently. When a typical Galaxy S buyer lands on a customization page, they instinctively tick all the checkboxes. And since phones aren't (yet) customizable, the Samsung Galaxy S7 just includes every feature plus several not yet seen on a mobile device.</paragraph>
+			<paragraph>Apple iPhone 6s buyers believe that "the whole is greater than the sum of its parts" and don't fret over this or that particular feature, as long as the iPhone experience remains as great as it ever was, even when you look back at earlier models through rose-tinted glasses.</paragraph>
+			<paragraph>That's why few people remember when Apple removed cover flow or card reader support from the iPhone (the latter is back now), but every Galaxy owner will loudly let their rant out over the S6's sealed battery and missing microSD slot.</paragraph>
+			<paragraph>Samsung has done an excellent job of staying at the cutting edge of emerging technology trends. And VR seems to be the latest fad - CES, MWC, GDC - all the tech industry events were chock full of VR demos and hardware. Samsung gave away free Gear VRs with each Galaxy S7 pre-order and thanks to Oculus allow users access to a fairly varied game and app store.</paragraph>
+			<paragraph>Dual Pixel autofocus is still something rare even on DSLRs and yet millions of people will soon have it in their pockets. The Galaxy S7 also teases pros with a very advanced manual mode and bright f/1.7 aperture and casual users with things like YouTube live-streaming and Hyperlapse.</paragraph>
+			<paragraph>The perfectly calibrated display is great both for games and for reviewing your photos later on (including diving into Photo Spheres with the Gear VR). The Always On feature isn't exactly new ground, but we live in an always-on world and many users would like to keep on top of their notifications.</paragraph>
+			<paragraph>Samsung is also beating the path to a wire-free future. The microUSB 2.0 port feels as obsolete as it looks, there is fast Wi-Fi ac and powerful wireless charging to push data and electrons around instead of a reversible connector, be it USB Type-C or Lightning.</paragraph>
+			<paragraph>Samsung Pay rides the "wallet-free" wave, especially in the US where many business and banks still rely on old magnetic stripe cards, which the Galaxy S7 can emulate, but not the iPhone with Apple Pay.</paragraph>
+			<paragraph>To Apple, as usual, the user experience is more important than the user involvement. The camera doesn't have a Pro mode, the screen has no color modes, instead of waterproofed hardware you have Apple Care and so on.</paragraph>
+			<paragraph>The big additions this generation - 4K video and Force Touch - are hardly novelties, but despite what Apple says at its presentations, the company is more concerned with perfect execution than with breaking new ground.</paragraph>
+			<paragraph>Samsung's S Pen had preview functionality similar to Force Touch well before the iPhone 6s came out, but removing the need to use a stylus makes Apple's solution more accessible.</paragraph>
+			<paragraph>As for 4K video, the quality is great, Apple got it right on its first try. But the resolution setting is buried in the Settings menu rather than available in the camera itself. For Apple, this is a choice you make once - do you have a 4K screen or not? Storage is a similar choice. If you're okay with 16GB, you'll never need a microSD, otherwise get the roomier 64GB version (or even 128GB) on day 1.</paragraph>
+			<paragraph>Which group of people sounds more like you? That's a great indicator of which phone you should go for - the adventurer or the perfectionist.</paragraph>
+		</subsection>
+	</page>
+</review>

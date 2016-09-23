@@ -1,0 +1,253 @@
+<review>
+	<title>Asus Memo Pad 7 ME176C review</title>
+	<description>Assembly line</description>
+	<link>http://www.gsmarena.com/asus_memo_pad_7_me176c-review-1144.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>7" 800 x 1280 IPS LCD of 216ppi</paragraph>
+			<paragraph>Intel Atom Z3745 chipset, 1GB of RAM</paragraph>
+			<paragraph>Quad-core 1.86GHz processor</paragraph>
+			<paragraph>Intel HD GPU based on Ivy Bridge</paragraph>
+			<paragraph>Android 4.4.2 with Asus customizations</paragraph>
+			<paragraph>5MP back and 2MP front cameras</paragraph>
+			<paragraph>microSD card support up to 64GB</paragraph>
+			<paragraph>3,910mAh battery</paragraph>
+			<paragraph>Multiple color options</paragraph>
+			<paragraph>Competitive price</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No cellular version</paragraph>
+			<paragraph>Plastic build</paragraph>
+			<paragraph>Low-res screen</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Of all the emerging Asian smart device manufacturers, Asus has easily one of the most diverse portfolios of devices around. From PadFone to Fonepad to Transformer Pad, the Taiwanese manufacturer provides a tablet for every market segment and user, with a new one popping up virtually every month. And the company's growing Memo Pad family is no exception.</paragraph>
+			<paragraph>The Asus Memo Pad 7 has so many iterations, in fact, that it's necessary to specify that we're reviewing the ME176C model, specifically. The ME176C is the lesser member of the new line of Memo Pads introduced by Asus last month. It features the same screen as the older Memo Pad HD7, but runs on Intel's Atom Z3745 chip rather a Mediatek one, and that should provide a huge performance boost.</paragraph>
+			<paragraph>The ME176C has also been updated to the latest Android build, sporting version 4.4.2 KitKat, with tons customizable extras from Asus. Like its predecessor, this Memo Pad 7 is firmly in the entry-level price point, with a WXGA screen, 8/16GB of internal storage, 1GB RAM, and a 5MP/2MP rear/front camera combo.</paragraph>
+			<paragraph>Let's take a closer look at what else the Memo Pad 7 ME176C brings to the table:</paragraph>
+			<paragraph>While for the most part the specs sheet doesn't seem like anything worth writing home about, one thing that does jump out is the Intel Atom Z3745 processor. Based on Intel's Bay Trail-T 22nm architecture, the Z3745 is the same processor found on full-fledged Windows hybrid laptops like the Acer Aspire Switch 10. We're excited to see what kind of performance the ME175C will be able to achieve on this low-res droid even if it only has 1GB of RAM.</paragraph>
+			<paragraph>As you can tell by our own photos, one thing that jumps out from a design standpoint is the vibrant color combinations. Our own bright yellow is complemented by equally eye-catching Red and Blue colors, besides the traditional Black and White options.</paragraph>
+			<paragraph>We'll be getting our review underway starting with our detailed look at the hardware and design strategy on the next page.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Retail package features just the basics<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 features a standard retail package which contains the traditional standalone A/C adapter and microUSB cable. There are no heapdhones to be found, but those aren't a frequent occurrence in tablet boxes, let alone affordable ones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and handling<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C model doesn't deviate wildly from the design aesthetics of previous Memo Pad models. It comes in at 189.3 x 113.7 x 9.6mm and 295g, however, which is more compact and thinner in all of its measurable dimensions compared to its Asus Memo Pad HD7 predecessor released mid-2013.</paragraph>
+			<paragraph>The non-removable back panel wraps halfway around the sides of the device and is very rounded along its edges. While this is pleasing to the touch, Asus may have taken this rounding a bit too far though as the volume rocker and power/lock buttons aren't easily press-able with one hand. The buttons themselves also aren't of the highest quality, but are what you'd expect at this price point.</paragraph>
+			<paragraph>The very reflective screen features no special protection and is fairly prone to fingerprints and smudges. The Android navigation buttons are part of the display rather than under it. We'll have more specific details on the display on the next page.</paragraph>
+			<paragraph>Handling the Memo Pad 7 is more difficult than it should be due to the overly-rounded rear panel edges - especially when trying to grip the device in one hand. Pressing the power/lock button or volume rocker on the right is tricky unless you stabilize the tablet with your other hand.</paragraph>
+			<paragraph>Otherwise, using the tablet in landscape mode with two hands is easy thanks to the compact screen diagonal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The only two physical buttons on the Memo Pad 7 are the aforementioned volume rocker and power/lock button on the right side. A microSD card slot is across the way on the left edge.</paragraph>
+			<paragraph>The top of the Asus tablet has a centrally-placed 3.5mm headphone jack and microUSB port, alongside a microphone pinhole for audio recording. The bottom is bare.</paragraph>
+			<paragraph>The back of the Memo Pad 7 has the 5MP camera, a centered Asus logo, and a speakerphone grille along the bottom edge. The large speakerphone grille is strategically placed right where the back panel starts to curve, which means it's not muffled when placing the tablet on a flat surface.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C is the lesser member of the new Memo Pad 7 lineup, and as such doesn't sport the 1920 x 1200px resolution found on the ME572C/L. Instead, you'll get a 1280 x 800px display which results in the rather insufficient 216ppi density.</paragraph>
+			<paragraph>We ran our display test on the Memo Pad 7 where it achieved surprisingly good contrast for its class. Blacks were fairly deep at 50% brightness, and retained their low level at 100%. The whites' illumination was fairly low at both levels, however, but that still resulted in adequate contrast numbers. The Memo Pad 7 beat out the likes of the LG G Pad 8.3 and Google Nexus 7 in this department.</paragraph>
+			<paragraph>Unfortunately, the great contrast ratio numbers were deeply marred by the highly reflective screen on the Memo Pad 7. At just below 1.2 sunlight contrast ratio, the screen of the Memo Pad 7 is virtually illegible outdoors even at maximum screen brightness, and also tends to smudge fairly easily.</paragraph>
+			<paragraph>Mind you the high reflectivity concerns you even if you never take your tablet out - the contrast quickly degrades when any external light sources are present, so you won't get to enjoy the excellent contrast even in a moderately well-lit home or office.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 has a 3,910mAh battery, which sounded like it should provide ample amounts of battery life thanks to the screen's low resolution. This was also our first chance to test how Intel's Atom Z-series processors perform under Android, and how they compare to their Qualcomm and Exynos counterparts.</paragraph>
+			<paragraph>The Memo Pad 7 posted great scores in both browsing and video battery tests. Both scores are respectable - over 11 hours web browsing and 15 hours in video playback - and result in solid numbers compared to similarly-spec'd competition.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C is a Wi-Fi only device, with no cellular option to be found yet.</paragraph>
+			<paragraph>Local connectivity includes a dual-band Wi-Fi b/g/n support as well as Wi-Fi Direct functionality. There's Bluetooth 4.0 and wireless display connectivity over the Miracast protocol.</paragraph>
+			<paragraph>Another thing missing is a wired TV-Out option - a real shame given the capable chipset inside.</paragraph>
+			<paragraph>There's a microUSB 2.0 port for charging and wired data connectivity and USB OTG support so you can mount external drives.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android KitKat with custom Asus overlay<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C runs on Android 4.4.2 KitKat with a large range of customizations from Asus. Not content with merely serving up the applications found in Google's vanilla KitKat build, Asus has thrown in a wide range of in-house applications such as the photo editor, music player, and more.</paragraph>
+			<paragraph>Here's a quick look at the user interface of the Asus Memo Pad 7:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The interface features the traditional Android lockscreen, showing the time and date alongside weather information. There's a few shortcuts to the camera, email app, and web browser, alongside a Google Now shortcut from the bottom.</paragraph>
+			<paragraph>On the right side, there's a look at the latest reminders from Asus' What's Next application, which shows upcoming events, reminders, weather info, and more. You can also choose from a selection of third-party and Android widgets, scrollable across the top half of the screen.</paragraph>
+			<paragraph>Beyond the lockscreen is the Android homescreen with four customizable shortcuts docked at the bottom. Despite the ample space available, you cannot add more icons beyond these four, but there is folder support. There are preloaded Asus and Google folders, which contain a selection of applications from the respective companies - custom Asus apps in one, default Google apps in the other.</paragraph>
+			<paragraph>Rotating the tablet in landscape orientation will shift the shortcut dock to the right, while the on-screen contextual buttons remain at the bottom.</paragraph>
+			<paragraph>A pinch zoom lets you rearrange your homescreens, as well as select a default homescreen and add additional ones - up to nine total. Unlike on other launchers, this interface is not integrated with the widget/app menu.</paragraph>
+			<paragraph>There is an elegant notification area that only takes up as much space as there are notifications, rather than wasting the whole screen. Removing notifications is done with a sideways swipe or through the 'Clear all' button. Notifications can be expanded through the usual two-finger swipe.</paragraph>
+			<paragraph>You can access quick toggles and brightness slider from this interface as well - dragging down on the left side of the notification area will open up your notifications, while the right side will show your toggles. A two-finger swipe will also open your quick toggles. You can, of course, also customize which toggles appear as shortcuts, and holding down on a toggle will take you to the relevant menu in the settings.</paragraph>
+			<paragraph>The task switcher is accessed with the on-screen contextual button. You get a thumbnail of the app along with its icon, and you can swipe apps to the side to close them. Unfortunately, there's no 'Kill all' for when you have a large number of apps open.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The newest generation Asus Memo Pad 7 has been upgraded from the quad-core 1.2GHz Mediatek chip of its predecessor to a quad-core 1.86GHz Intel Atom Z3745 processor. This is the same Intel chip that powers many full-fledged Windows tablets, hybrid and otherwise. It is coupled with only 1GB of RAM, however, which has been problematic for some graphic-intensive Android tasks in the past.</paragraph>
+			<paragraph>As is usual in our testing we started with all-around and CPU-focused benchmarks, moved through to the GPU-intense ones and finally look at some HTML 5 and JavaScript tests.</paragraph>
+			<paragraph>The first tests are GeekBench 3 and Basemark OS II. Both stress the CPU as well as the system (memory read-write speed, graphics performance, the lot). The Intel Atom Z3745 is built using a 22nm, which is expected to be more power efficient than its 28nm Qualcomm Snapdragon and MediaTek counterparts. But does it provide the same performance?</paragraph>
+			<paragraph>Overall results are pretty good, with the Memo Pad 7 falling behind only behind the top-tier competition - Snapdragon 800, Exynos octa-core and the Nvidia Tegra K1 - all available in far higher market segments.</paragraph>
+			<paragraph>Multi-core numbers are even more in favor of the Atom chip, as its able to beat out Samsung's Exynos both in overall numbers and specifically under multi-core performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GFXBench measures both onscreen graphics performance at the Memo Pad 7s native resolution of WXGA and offscreen at 1080p resolution. Ultimately, the low amount of RAM meant that the Memo Pad 7 was unable to perform the more graphic intensive Manhattan portion of the benchmark. The numbers of the older T-Rex test showed pretty good numbers, compared to the Memo Pad direct peers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally, web browsing performance is measured by Kraken 1.1 and BrowserMark 2.1. Both test using the latest HTML5 optimizations, with BrowserMark throwing JavaScript into the mix. Here, the Memo Pad 7 again easily outclassed its direct rivals, scoring in the middle of the pack.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>While the Intel Atom may not be quite the benchmark topper - especially given its full-fledged Windows Tablet pedigree - it's important to note that the limited 1GB of RAM certainly had its say. GFXBench ran out of memory when performing its more advanced graphics test, while Basemark X refused to run altogether. This undoubtedly had similar effects in the compound CPU benchmarks as well.</paragraph>
+			<paragraph>It's safe to say that Asus didn't take full advantage of Intel's Atom chip with this particular Memo Pad 7 by limiting its available RAM. However, you shouldn't lose perspective and realize that the Asus slate is fighting in a segment of the market where its raw performance is considered impressive.</paragraph>
+			<paragraph>Unfortunately we aren't quite able to say the same thing about the software optimizations, which didn't quite fit the limited available RAM - the slate did show signs of stuttering on a couple of occasions and that shouldn't really be an issue with the kind of processing power available.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Email and text input<subsectionTitle>
+			<paragraph>There is no messaging app on the Asus Memo Pad 7 ME176C but you get two email clients to work with. The standard client has a clean simple white interface with your email folders on the left and your list of messages on the right. If you add more than one account and you get a combined view of all your emails from each accounts. The Email app can handle Exchange, POP or IMAP inboxes.</paragraph>
+			<paragraph>The Gmail app has handy shortcuts at the bottom of the screen and supports batch operations, which allow multiple emails to be archived, labeled or deleted. The default app supports multiple Gmail accounts, but there's no unified inbox.</paragraph>
+			<paragraph>Google Hangouts is also here, so you'll have a handy way to message all of your Google and Gmail contacts from one interface.</paragraph>
+			<paragraph>Text input is done through Google's keyboard, which has always been pleasure to use and is one of the most preferred Android keyboards out there. On this screen the keys are comfortably large in both portrait and landscape mode. There is support for swipe typing, handwriting and voice input.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C comes with a custom Gallery app. It defaults to a view of your camera roll with thumbnails at the top that change the view to your other albums. You can't resize the image thumbnails like on other launchers from Sony and Samsung.</paragraph>
+			<paragraph>The available features when viewing a single image are pretty standard - set image as wallpaper/contact image, share it, delete it, enter edit mode or just get more info.</paragraph>
+			<paragraph>The integrated editor offers various effects, frames, tools (crop, mirror, straighten, rotate, fisheye, doodle) plus light adjustments that let you bring out the shadows or the highlights. A nifty feature lets you drag a vertical separator between your edits, so you can see before/after effects side-by-side.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Bare-bones video player<subsectionTitle>
+			<paragraph>The Memo Pad 7s video player has a very basic interface with none of the nifty extras like subtitle support, equalizers, or playback speed that you'll find on more mainstream launchers. It features just a playback scrubber and a play/pause button, alongside a sharing button at the top.</paragraph>
+			<paragraph>It was able to play most of the standard formats including AVI and MKV files, but does not support WMV files, or videos coded with the AC3 audio codec. There is also no support for files with the AAC audio and AVC video combo, although separately they play when paired with other codecs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The Asus music player does decently in terms of functionality, covering all the basics. It has a large Now Playing window with prominent album art, and also has integrated bass boost and surround sound options, although both of those only work with headphones. A system-wide equalizer is also available, but is accessed from the notification area toggles rather than the music player itself.</paragraph>
+			<paragraph>You can also sync Cloud services like Google Drive to stream your music collection without having to transfer it to the tablet, and you can also playback from local media servers.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test on the Asus Memo Pad 7 ME176C and it proved to be a very poor performer. The solitary speaker on the back was not enough to produce adequate sound, and it earned a score of Below Average in our testing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Mediocre audio output<subsectionTitle>
+			<paragraph>When connected to an active external amplifier the Asus MediaPad 7 audio output is decent with high volume levels and little to no artifacts. The scores the tablet posted in our test are pretty high across the board as befits a device of this size.</paragraph>
+			<paragraph>Plug in a pair of headphones however and things quickly start to go south. Stereo crosstalk spikes and the stereo quality drops to mediocre levels, while intermodulation distortion is well above the average. Volume levels drop significantly too, adding up to a rather disappointing showing in this test.</paragraph>
+			<paragraph>The overall output isn't disastrous and we know this is an entry-level device that we have on our hands here, but we are really used to seeing better from tablets so mediocre is best we can call this.</paragraph>
+			<paragraph>  Asus MemoPad 7 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Abysmal 5MP snapper<subsectionTitle>
+			<paragraph>The camera mounted on the back of the Asus Memo Pad 7 ME176C is capable of capturing 5MP (2560 x 1920px) stills and 1080p videos. It features a combined interface which allows you to take either a still image shot or use the camcorder functionality via side-by-side buttons.</paragraph>
+			<paragraph>There's a wide range of effects that feature live overlays, while the settings menu allows you to adjust all sorts of features like white balance, ISO levels, exposure, and more. There's a wide range of shooting modes including the more common panorama, HDR, and low-light modes, alongside some more surprising extras like Time rewind, Smart remove, and Depth of field.</paragraph>
+			<paragraph>As far as quality is concerned, the Asus Memo Pad 7 ME176C is about as bad as it gets for a 5MP shooter, even for a tablet. Dynamic range is clearly limited and in virtually every shooting condition there's either overblown highlights or underexposed shadows - often both. Colors are washed out and the level of resolved detail is low even for this resolution. Looking at the images in full-res reveals an aggressive de-noise filter that results in an oil-painting effect that detracts from the level of detail even further.</paragraph>
+			<paragraph>Exposure and contrast accuracy is very hit-and-miss, with some images coming out better than others, but many being very poor.</paragraph>
+			<paragraph>HDR mode tends to improve cameras with poor dynamic range, and that was the case with the Memo Pad 7 - when you could get a usable picture, that is. More often than not, the HDR images came out with drastically distorted colors and contrast, and in the best of cases would improve dynamic range even further at the expense of resolved detail.</paragraph>
+			<paragraph>Ultimately, the camera of the Asus Memo Pad 7 leaves much to be desired. See how it stacks up to other 5MP shooters with our dedicated compare tool.</paragraph>
+			<paragraph>   Asus Memo Pad 7 ME176C in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C churns out 1080p videos at 30fps. They carry a bitrate of around 15Mbps and a lowly 96Kbps audio bitrate. Video recording carries over the same problems that we saw with the still images, and introduces a few of its own.</paragraph>
+			<paragraph>The level of resolved detail is very poor, and looks to be upscaled from a lower resolution. Poor dynamic range and level of detail aside, video recording on the Memo Pad 7 is done only with the top left quadrant of the camera sensor. Not only does this make framing an image through the camera interface more difficult, but it also results in a very significant amount of geometric distortion that is immediately visible.</paragraph>
+			<paragraph>Despite being recorded in stereo and at a high bitrate, audio comes out tinny and leaves much to be desired also.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here's a 1080p@30fps video sample (29.9MB, 0.16s) taken directly from the device.</paragraph>
+			<paragraph>Below you can see how the video of the Memo Pad 7 stacks up against other 5MP 1080p-capable shooters.</paragraph>
+			<paragraph>   Asus Memo Pad 7 ME176C in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Two browsers<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C comes with the standard Android browser. It features largely the same functionality as Google's Chrome browser (also included), but tends to be a lot more choppy likely due to it being un-optimized for the new Atom processor inside.</paragraph>
+			<paragraph>Chrome provides decent web browsing performance under Android, and comes with integration to its desktop counterpart through your Google account. It also offers incognito browsing, offline viewing, and much more.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>The Asus Memo Pad 7 ME176C offers its own file managing app that allows you to easily manage your video, picture, and document files, although there is no document viewer/editor pre-installed. There are plenty for free in the Play Store though (even ones made by Google), so this shouldn't be a problem.</paragraph>
+			<paragraph>The custom Calendar looks good, syncs with your accounts including Google, and offers Day and Month views in a split-screen configuration. There's also a quick Agenda view that shows all of our events regardless of where they're recorded.</paragraph>
+			<paragraph>The Clock app also features a world clock feature that displays the location across various time zones, and has an integrated stopwatch and time. There's also a calculator app that has advanced functions in landscape mode.</paragraph>
+			<paragraph>There's a SuperNote app that aims to provide similar functionality as Samsung's S Memo app found its Galaxy Note series, except without the stylus support. It supports a wide range of templates and handwriting recognition that'll automatically separate your writing across lines.</paragraph>
+			<paragraph>The Storybook app lets you use your photos to make interactive albums that you can then share with other Storybook users. You can choose which photos to include, separate them in any configuration you like, as well as include sound, effects, and text.</paragraph>
+			<paragraph>The Memo Pad 7 comes with an equalizer that is always enabled, and allows you to set various sound profiles depending on your usage scenario. Accessing the AudioWizard app lets you quickly set the sound mode using a popup with one of six presets.</paragraph>
+			<paragraph>Power consumption can be further optimized using the Power Saver app. You can select from Ultra-saving or Optimized mode, which will toggle keeping the wireless connection active when the device is locked. Customized mode lets you set the brightness levels across the different apps you use.</paragraph>
+			<paragraph>When it comes to getting around, the A relies on Google Maps and Navigation. The app offers much of the same functionality as its web-based counterpart, although you will need a data connection to take full advantage of the navigation features. Street view mode with digital compass enabled is an especially neat thing that you should definitely check out if you haven't already.</paragraph>
+			<paragraph>Whatever you may be missing, you'll find it in Google's Play Store.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings:<subsectionTitle>
+			<paragraph>Plastic build quality is solid with flashy color options, and the speaker is positioned so as not to be muffled when placed horizontally</paragraph>
+			<paragraph>The screen has good contrast which is marred by high reflectivity</paragraph>
+			<paragraph>The battery life is good due to the 22nm Intel Atom chip process</paragraph>
+			<paragraph>Connectivity options are limited, and there is no 3G version</paragraph>
+			<paragraph>The speaker is sub-par, resulting in a score of Below Average</paragraph>
+			<paragraph>The Asus software interface atop Android 4.4.2 features a wide range of customizations, some less extensive than others (bare-bones video player and gallery). There are a few exclusive Asus apps, but nothing you won't find in some form on other mainstream launchers</paragraph>
+			<paragraph>Raw performance is great for its class, but the interface is choppy at times, particularly during web browsing</paragraph>
+			<paragraph>The audio quality is mediocre</paragraph>
+			<paragraph>The Video player doesn't have many extras, but supports most audio and video codecs except WMV, AC3, and AAC on AVC video</paragraph>
+			<paragraph>The 5MP camera has many shooting modes, but is very poor and inconsistent in both still images and videos</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>When we heard that Asus was incorporating Intel's robust Atom Z3745 processor into its entry-level Memo Pad 7 droid, it was hard not to get excited. After all, it's the same processor that can power full-fledged Windows tablets, and at a competitive price it has the potential to provide unparalleled power for this market segment.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>In practice the Asus Memo Pad 7 ME176C also provided performance far higher than most other entry-level compact tablets. Yet, either due imperfect software or the low amount of RAM compared the interface did become choppy at times (particularly in the web browser), so the benefit isn't as big as it could have been.</paragraph>
+			<paragraph>The problems don't end there, however. Our experience with the 5MP camera left much to be desired. Granted, tablet cameras aren't usually the most capable to begin with, but the ME176Cs shooter left a bitter taste in our mouth, largely due to its inconsistency. Many shots were just plain unusable, with wildly varying exposure, contrast, and colors, while video recording oddly used only a quadrant of the sensor. This resulted in low resolved detail for 1080p videos alongside a large amount of geometric distortion.</paragraph>
+			<paragraph>Here's a summary of what else found during our review:</paragraph>
+			<paragraph>Asus's refresh of the Memo Pad 7 series doesn't end with the ME176C. The company's upcoming ME572C/L not only ups the RAM to 2GB to go with a quad-core Intel Atom Z3560 chip, but also boosts the resolution to WUXGA (1200 x 1920px). Of course, you won't get the same entry-level price as the ME176C model Memo Pad, which is always a big factor. The ME572CL variant comes with telephony capabilities as well, including a whopping 7 LTE bands.</paragraph>
+			<paragraph> Asus Memo Pad 7 ME572C</paragraph>
+			<paragraph>If you want to throw telephony into the mix without having to fork over for other features, Asus provides an alternative in the form of the upcoming Fonepad 7 FE375CG. It features the same processor as the ME572C/L, but with 1GB of RAM and the same low-res display of the ME176C. It comes with support for two SIM cards, however, so if you're looking for a cheap tablet with a wide range of connectivity capabilities (excluding LTE support), the FE375CG is a viable alternative.</paragraph>
+			<paragraph> Asus Fonepad 7 FE375CG</paragraph>
+			<paragraph>Samsung's latest Galaxy Tab 4 7.0 is another entry-level offering that matches many of the specs you'll find on the Memo Pad 7. The 7-inch WXGA screen is here alongside Android 4.4.2 KitKat, but you'll get the arguably more robust TouchWiz overlay from Samsung on top. The quad-core 1.2GHz Marvell chip with 1.5GB of RAM should provide passable performance, but you'll have to make do with a 3.15MP camera with only 720p video recording.</paragraph>
+			<paragraph> Samsung Galaxy Tab 4 7.0</paragraph>
+			<paragraph>LG's own G Pad 7.0 was introduced this year as a low-cost alternative to its capable G Pad 8.3 from last year. Like the Galaxy Tab 4 7.0, it matches the Memo Pad 7 in display and Android build, but has a quad-core 1.2GHz Qualcomm Snapdragon 400 chip with Adreno 305 graphics, which is a proven performer for compact droids in this market segment. Like the Tab 4 7.0, it also has a lower-res camera.</paragraph>
+			<paragraph> LG G Pad 7.0</paragraph>
+			<paragraph>When all's said and done, the entry-level tablet market has much in the form of competition from bigger players like Samsung and LG. Yet the Memo Pad 7 ME176C does just enough enough to separate itself from those and is probably a software update or two away from properly utilizing its chipset and beating those handily. Until then however Asus's own camp seems to provide more complete offerings than this one.</paragraph>
+		</subsection>
+	</page>
+</review>

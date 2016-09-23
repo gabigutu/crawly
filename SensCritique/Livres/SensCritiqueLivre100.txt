@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Purity</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2015</year>
+	<link>http://www.senscritique.com/livre/Purity/21241685</link>
+	<generalScore>6.7</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Question sur le personnage de Leila</title>
+		<author>laspal</author>
+		<date>2016-08-29</date>
+		<score>0.9</score>
+		<content>Jonathan Franzen conduit son récit par le portrait des différents personnages. J'ai trouvé ça très prenant et très efficace. Cette narration lui permet d'aborder de nombreuses thématiques tout en donnant du corps à ses personnages. J'ai néanmoins un souci : qu'apportent au récit les personnages de Leila et de son époux écrivain alcoolique et handicapé ? - sont-ils là uniquement pour justifier la relation entre Pip et Tom ? le fait que certains soirs, Leila rentre chez son mari et donc, laisse Tom et Pip seuls ? justifier sa jalousie ? - n'existent-ils que pour permettre à Jonathan Franzen de parler d'un écrivain américain contemporain, du monde de l'édition et du "grand roman américain" ? Je ne sais pas. Je sens qu'il y a quelque chose, mais je ne sais pas quoi.</content>
+	</review>
+	<review>
+		<title>Fascinant</title>
+		<author>MadameV</author>
+		<date>2016-08-27</date>
+		<score>0.9</score>
+		<content>Deux choses m'ont particulièrement plu dans ce livre : - La construction du récit, articulé autour de chapitres dédiés à chacun des personnages à une période clé de sa vie (et donc de l'histoire). On se laisse complètement embarquer dans le temps et les lieux. - La descriptions des rapports humains. Dans des registres très différents, puisque qu'on y croise autour de Purity des personnages très différents tous passionnants, dans des relations complexes, admirablement bien racontées. En synthèse, une vision de la société américaine contemporaine assez cruelle mais bien fascinante. 700 pages qu'on le lâche pas !</content>
+	</review>
+</sensCritiqueEntity>

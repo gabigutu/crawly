@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>The Infamous</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1995</year>
+	<link>http://www.senscritique.com/album/The_Infamous/1355975</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>20</numberOfVoters>
+		<numberOfVoters>73</numberOfVoters>
+		<numberOfVoters>323</numberOfVoters>
+		<numberOfVoters>828</numberOfVoters>
+		<numberOfVoters>790</numberOfVoters>
+		<numberOfVoters>315</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>"They shook 'cause ain't no such things as halfway crooks"</title>
+		<author>Heisenberg</author>
+		<date>2012-02-04</date>
+		<score>1.0</score>
+		<content>C'est peut être dur à imaginer, mais Mobb Deep n'a pas toujours eu la renommée qu'on leur connait actuellement. En effet, leur premier album Juvenile Hell, où Havoc arbore une faucille sur la couverture, bien que très peu écouté, leur donne une image de simples délinquants irréfléchis. Dès lors The Infamous, album du rebond, mais aussi de la consécration, apparaît comme l'exemplaire come back de deux entêtés. Le véritable tour de force de Mobb Deep est de s'imposer, de faire taire ses détracteurs sans pour autant abandonner cette violence qui se dégage de chaque morceaux et qui semblaient dans un premier temps les condamner à n'être perçu que comme des provocateurs juvéniles (tiens donc...). En effet, Havoc et Prodigy loin de se plier aux critiques persistent et signent, avec des sons plutôt lents mais massifs qui n'abandonnent rien de leur agressivité, trouvant ainsi une certaine force tranquille, un modèle d'équilibre qui inspirera notamment outre-atlantique un prodigieux duo français... A l'image de ses deux morceaux phares, véritables chef d'oeuvres du Hip Hop que sont Survival of the fittest et Shook Ones Part II, The Infamous assène des beats lourds, qui semblent vous écraser la tête. Les quelques mélodies lancinantes qui traversent l'album, montre comment Mobb Deep ne sépare jamais sa brutalité caractéristique d'un désespoir froid et évocateur donnant à l'album cette profondeur d'autant plus étrange qu'elle n'est pas directement le fait de textes particulièrement lyriques. C'est donc bien d'abord le travail sur l'ambiance qui va offrir au texte sa puissance et non pas directement le texte qui s'affirme comme clé de voûte de l'album. Si avec The Infamous, il ne fait aucun doute que Mobb Deep s'installe confortablement sur le toit de la East Coast aux côtés de grands noms tels que le Wu Tang Clan, Nas, Gangstarr, et j'en passe (beaucoup), c'est parce qu'à travers son style sombre et organique, il offre la parfaite définition de la différence avec le rap parfois plus ensoleillé et funky de la West Coast. Une référence du Hip Hop d'autant plus naturelle qu'elle reste sans doute l'une des plus authentique.</content>
+	</review>
+	<review>
+		<title>The Infamous</title>
+		<author>King Menard</author>
+		<date>2014-11-28</date>
+		<score>0.8</score>
+		<content>Bon, c'est du gros rap nigga de thug, mais c'est du bon gros rap nigga de thug.</content>
+	</review>
+	<review>
+		<title>The Infamous</title>
+		<author>Bagatelles</author>
+		<date>2011-12-25</date>
+		<score>1.0</score>
+		<content>Putain d'album, putain de groupe. Mettre en dessous de 10 mérite au moins la peine de mort.</content>
+	</review>
+</sensCritiqueEntity>

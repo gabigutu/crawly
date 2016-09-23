@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>My Hero Academia, tome 5</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/My_Hero_Academia_tome_5/21409761</link>
+	<generalScore>7.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Fin du tournois !</title>
+		<author>Memento-Mori</author>
+		<date>2016-09-16</date>
+		<score>0.7</score>
+		<content>Encore un tome sur le tournois, mais c'est le derniers ! Finalement un tournois qui passe vite et qui apporte son lot de détails intéressants. L'auteur développe le Background de Shoto, ce curieux élève possedant un alter Feu/Glace. Mais il ne laisse pas son personnage principal, Deku, de coté, en effet le jeune garçon montre à nouveau ses talents et a meme une discussion avec son maitre qui va révélé un peu de son passé. Enfin, si l'intrigue se concentre sur le tournois, l'auteur nous montre que quelque chose se prépare à l'exterieur..... Je pense que je vais devoir m'habituer à lire MHA toujours après OPM, si le second est un bon divertissement, il est beaucoup moins développé que le premier. Au niveau du dessin et de l'action, MHA continue de me charmer, meme si le dessin est très shonen classique. Bref, une très bonne lecture !</content>
+	</review>
+</sensCritiqueEntity>

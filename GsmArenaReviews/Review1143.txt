@@ -1,0 +1,136 @@
+<review>
+	<title>HTC 10 hands-on</title>
+	<description>First play</description>
+	<link>http://www.gsmarena.com/htc_10_hands_on-review-1426.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC 10 at a glance:<subsectionTitle>
+			<paragraph>Form factor: Metal unibody designed to take a hit (testing included 10,000 drops, scratches, corrosion, 1 week in extreme temps from -20°C to 60°C)</paragraph>
+			<paragraph>Screen: 5.2" Super LCD 5 with QHD resolution (1,440 x 2,560px, 564ppi); 2.5D Gorilla Glass</paragraph>
+			<paragraph>Camera: 12MP sensor (1/2.3", 1.55µm pixels), 26mm/80° lens with f/1.8 aperture and Optical Image Stabilization; Laser AF and dual-LED dual-tone flash; Manual mode with 12-bit RAW</paragraph>
+			<paragraph>Selfie camera: 5MP (1.36µm pixels), 23mm/86° lens with f/1.8 apertrure and Optical Image Stabilization (a first); 1080p video recording</paragraph>
+			<paragraph>Video camera: 4K 2160p video recording with Hi-Res audio (24-bit stereo from three mics with noise cancellation); 720p @ 120fps slo-mo; Hyperlapse</paragraph>
+			<paragraph>Audio: 24-bit DAC and premium headphones; BoomSound dual speaker with two dedicated amps</paragraph>
+			<paragraph>Platform: Android 6.0 Marshmallow with Sense UI; Snapdragon 820 chipset, 4GB of RAM; 32GB or 64GB of storage expandable with a microSD card</paragraph>
+			<paragraph>Connectivity: LTE 450Mbps, Wi-Fi a/b/g/n/ac, Bluetooth 4.2; Display Port (USB Type-C connector); wireless streaming with Apple Airplay, Miracast, Chromecast</paragraph>
+			<paragraph>Battery: 3,000mAh; Quick Charge 3.0 (50% in 30 minutes)</paragraph>
+			<paragraph>Misc: Fingerprint sensor (recognition in 0.2 seconds)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The HTC 10 is like a great remix of all your favorite songs - the new flagship brings back UltraPixel and BoomSound, but nostalgia is mixed with a much-improved performance.</paragraph>
+			<paragraph>HTC was pushing for large pixels in camera sensors years before Google and Samsung did and was among the first to bring optical image stabilization to a mobile camera. This happened on a phone you may remember fondly - the HTC One.</paragraph>
+			<paragraph>We finally have a proper sequel to that great device in the shape of the HTC 10 - the world's first phone with an optically stabilized selfie camera. HTC also boasts that the 12MP main camera got a perfect 10 so to speak from DxOMark.</paragraph>
+			<paragraph>The camera sensor has big pixels - 1.55µm, bigger than what the Galaxy S7 has and the same size as the Nexus 6P camera. However, the HTC 10 has a brighter aperture than the Nexus (f/1.8 vs. f/2.0) and OIS, so this is not an even fight.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>HTC's other obsession was pitch perfect audio - a 24-bit DAC earns it a Hi-Res Audio certification (from the Japan Audio Society), something Sony loves to brag about and LG offers as a $150 add-on for the LG G5. The company even added a premium headset to ensure you have the right hardware to enjoy the DAC.</paragraph>
+			<paragraph>Solo listening is half of HTC's passion, its engineers also popularized stereo speakers on a phone and now they are changing the game again. The HTC 10 splits the sound into low (played by the woofer) and high (played by the tweeter). So it's still two speakers, but this is not stereo sound - it's more like a single 2-way bookshelf speaker.</paragraph>
+			<paragraph>We tried to keep it brief and the list still got quite long even though we skipped interesting features. Did you know that HTC removed duplicate Sense apps and decided to use the familiar Google ones?</paragraph>
+			<paragraph>That's one of many things we wish other makers would imitate - read on to find the others.</paragraph>
+			<paragraph>Update: We've added more photos of the phone on Page 2, went over the new software and benchmarked the Snapdragon 820 on Page 3 and tested the camera on Page 4.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>HTC took no shortcuts when it came down to build quality. Just, wow. The hardware is so well packed and weight nicely distributed. The reaffirming heft leaves us feeling safe knowing that a little rough and tumble would be no problem for the HTC 10.</paragraph>
+			<paragraph>The HTC 10 was somewhat criticized when HTC teased the rear chamfered edge because of how unusually wide the actual chamfer cut was. But now that we hold it in hand, we can understand why HTC wanted to design its handset this way. The wide chamfer gives the HTC 10 a much welcomed tapered edge which aids in the ergonomics of the phone.</paragraph>
+			<paragraph>The big chamfer's aesthetic is not justified solely by renders or pictures. Upon seeing the chamfer in person, one is able to appreciate the hardware as it was meant to be experienced: by holding it in your hand and holding it up to the light.</paragraph>
+			<paragraph>Depending on which color you pick, the front will be either black or white. Tose match up nicely with Carbon Grey and Glacial Silver and even though there's no Gold front, we appreciate HTC's effort (some makers put a black front on each and every unit, even the white ones).</paragraph>
+			<paragraph>The entire backside of the device feels amazing in your hand. To prevent the phone from rocking on a table or desk, the HTC 10 has a flatter midsection instead of a totally round backside. Setting the phone down on a flat surface doesn't allow the phone to rock or slide around.</paragraph>
+			<paragraph>The camera lens is a different story, however, and it does protrude. Also, when placing the 10 face-up on a table, the weight of the phone is resting on the camera ring. So keep in mind that you'll probably want to buy a case for this phone.</paragraph>
+			<paragraph>Rather than a traditional dual front-facing speaker setup, HTC decided it'd be better to redesign the look of Boom Sound by placing the main tweeters in two different parts of the device. While the lower bass and mids are dedicated to the bottom-firing speaker the earpiece speaker is dedicated for mid to higher tones.</paragraph>
+			<paragraph>HTC's decision to bring back capacitive keys to the front of its flagship is a welcome one. First off, the capacitive buttons make up for the large bezel on the bottom. If the navigation keys were on-screen keys (as was the case on the past two iterations) the bottom bezel would have looked more like wasted space.</paragraph>
+			<paragraph>Making a texture into the power button is always a great decision, especially when the power button is right below the volume rocker. If you haven't been around with HTC since the days of the M7 or M8, this might take a little while to get used to. Thankfully, though, the texture is super tactile and very easy to tell when you are actually touching it. This should really lessen the chance of accidentally pressing the wrong keys.</paragraph>
+			<paragraph>To protect that beautiful screen, HTC created the Ice View cover. "Dot View" got its name from the pixelated interface it showed, while this is crystal clear - well, as clear as ice anyway. You get close to the full resolution of the screen (the finish does make things a bit fuzzy, but its light years ahead of Dot View), you can even take photos without flipping the cover open (two swipes launch the camera).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>HTC has rethought the way it does software with the latest Sense. It's easier to adapt to users' needs and it's also leaner.</paragraph>
+			<paragraph>The HTC 10 UI can be customized with one of the thousands of available themes, and you can create your own by mixing and matching parts you like or just using a photo as a base.</paragraph>
+			<paragraph>The "Freestyle Layout" does away with the familiar grid of icons and lets you place each icon, widget, and even stickers wherever you please, even overlapping each other. Hey, your desk is messy, why not your homescreen?</paragraph>
+			<paragraph>Something we appreciate is that HTC looked at the app package and removed duplicates by picking the best app for each function, whether it was an HTC-made app or it comes from the standard Google package. Google's apps have significantly improved in quality recently, but some maker apps still offer additional features.</paragraph>
+			<paragraph>You'd think that having fewer apps will use less storage, but on the 32GB phone you get about 23GB available (and 52GB on the 64GB version).</paragraph>
+			<paragraph>Anyway, the streamlining continues with a secret auto-optimization algorithm that launches apps twice as fast as the One M9. Boost+ helps by limiting power use by background apps and balancing performance and power draw for games.</paragraph>
+			<paragraph>The fingerprint reader can secure the lockscreen, obviously, but App Lock gives you finer-grained control by letting you lock individual apps. The fingerprint reader needs just 0.2 seconds to do its job.</paragraph>
+			<paragraph>By the way, HTC has improved the responsiveness of the touchscreen by as much as 50% compared to the One M9. This makes the HTC 10 more adept in tracking your finger across the screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmarks<subsectionTitle>
+			<paragraph>HTC 10 is powered by the latest Qualcomm chipset - the Snapdragon 820. It has a quad-core Kryo processor by Qualcomm design, an Adreno 530 GPU, and 4GB of RAM. Naturally, the processor allows two Kryo cores to tick at 2.15GHz and the other pair to work at 1.6GHz.</paragraph>
+			<paragraph>We've already seen the Snapdragon in action within the Xiaomi Mi 5 and the LG G5, and we know it performs great. Regardless of the screen resolution used (1080p or a 1440p), the S820 chip delivers flagship performance.</paragraph>
+			<paragraph>Yesterday, at the HTC 10 announcement, we didn't have enough time to run some tests, but now that we have the device at our disposal, we ran all sorts of benchmarks.</paragraph>
+			<paragraph>Indeed, a single Kryo core is a beast, and currently it's one of the best solutions on the market together with Apple's Twister CPU. The single-core performance is crucial for smooth OS operations, and the Kryo cores are up to the task.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The multi-core score isn't as impressive, because there are four Kryo cores inside the Snapdragon 820, while the Kirin 955 in Huawei P9, or the Exynos chip inside the Galaxy S7 feature octa-core processors. Still, considering the number of cores, we could easily consider those points as an excellent grade.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The HTC 10 easily aced the AnTuTu 6, and it bested the rest of its siblings by a huge margin. Since the HTC 10 has similar hardware to the LG G5, we guess some software optimizations are the reason for the great performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The BaseMark OS II compound bench outed an oddly low score, which makes us believe there might be some problem with the app itself and the new Sense UI. We'll redo this test when possible.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>HTC 10 uses the latest Adreno 530, which is the best GPU on the market right now. The offscreen GPU benchmarks below prove that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Running the GPU test on the native 1440p resolution takes a serious toll on framerates, but they remain flagship-grade. The Mi 5, which has the same GPU but runs on 1080p, expectedly does better here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In the BaseMark X GPU test the HTC 10 scores on par with its chipset sibling - the LG G5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The HTC 10 scores speak for themselves - the new flagship delivers a stellar performance, and we expected nothing less from a Snapdragon 820 smartphone. The chip is sure to serve the HTC 10 hassle-free for the years to come.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>HTC pushed the idea that pixel size is more important than pixel count three years ago, but it started doubting itself and that's how we got the middling HTC One M9 camera.</paragraph>
+			<paragraph>Other makers have seen the light (pun intended) and the HTC 10 goes back to what made the original One so special - great low-light shooting.</paragraph>
+			<paragraph>The camera has 1.55µm pixels, bigger than those of the Galaxy S7 and the same size as the Nexus 6P. However, it leads the Google-phone with a brighter aperture and OIS. You can also rely on Laser autofocus and dual-LED, dual-tone flash.</paragraph>
+			<paragraph>The camera has a manual Pro mode, which gives you the option to tune all aspects of the camera. You can even snap 12-bit RAW images with this mode.</paragraph>
+			<paragraph>You better know your way around manual camera controls though, as the phone turns off its automatic measurements and it won't help you if you get it wrong. A side note on an odd limitation: shooting in RAW is available only if you have logged into a Google account; we don't think it will come up as an issue, but we find it strange nonetheless.</paragraph>
+			<paragraph>The camera is very fast in general - it launches in 0.6s and the Laser AF is quick enough to work in burst mode. It's supposed to anyway, our own admittedly quick test with a pre-release unit showed the autofocus is nowhere near as fast as the Galaxy S7. We also frequently got warnings that our fingers are covering the Laser AF and that it might not work properly while in reality our finger were at least a centimeter away from the camera lens and the sensor array on the back so that's something to keep an eye out for.</paragraph>
+			<paragraph>Here are a few samples we shot with the HTC 10. The felt toys are rendered perfectly, this is the kind of detail smartphone cameras love to muck up.</paragraph>
+			<paragraph>The camera has impressive dynamic range too.</paragraph>
+			<paragraph>Then there's the selfie camera, the world's first to have optical image stabilization. It has relatively big pixels (1.36µm), a bright aperture (f/1.8) and a wide-angle lens (23mm/86°, it's a bit wider than the main camera). Unfortunately, the selfie we shot didn't turn out as detailed as we would have liked - we've simply seen better.</paragraph>
+			<paragraph>For videos, the main camera can do 2160p videos while the selfie cam tops out at 1080p. Hyperlapse is available out of the box as part of the camera UI, which is nice as few Androids have this option. We didn't get an opportunity to shoot video samples but we'll do so as part of our full review.</paragraph>
+			<paragraph>The HTC 10 is as good at recording audio as it is at playing it. The phone has three microphones, which can record stereo sound with noise cancellation. And it's High-Res 24-bit audio and covers double the frequency range (96kHz), this is not your grandma's CD-quality.</paragraph>
+			<paragraph>Wrapping things up, we quite enjoyed this first experience with the HTC 10. We already have a review unit so we are looking forward to putting it properly through its paces in the days ahead.</paragraph>
+		</subsection>
+	</page>
+</review>

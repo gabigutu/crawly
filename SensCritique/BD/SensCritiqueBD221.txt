@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le Facteur Cratophane - prologue à Monsieur Mardi-Gras Descendres</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Le_Facteur_Cratophane_prologue_a_Monsieur_Mardi_Gras_Descend/19776657</link>
+	<generalScore>7.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Le facteur a trépassé...</title>
+		<author>Mawelle</author>
+		<date>2016-04-21</date>
+		<score>0.6</score>
+		<content>Cette bande dessinée est vraiment particulière. Je lui ai trouvé beaucoup d'originalité avec son univers dantesque approfondi, des métaphores poussées et un humour noir jubilatoire. Les dialogues ont une portée qui est loin d'être légère (il y a de quoi méditer un moment sur la condition humaine, la société, la politique...) et cette apocalypse grinçante ne plaira pas à tous les publics. Cependant, si on aime le genre, on peut découvrir des idées intéressantes, des dessins réellement sublimes et travaillés pour un résultat global qui impose le respect pour son originalité. Le bémol à mon goût, c'est la trame de l'histoire qui est parfois un peu difficile à suivre: pendant tout le premier tiers de la BD, je ne voyais vraiment pas où tout ça pouvait me conduire, il a fallu insister un peu par moment pour ne pas lâcher le livre. Cela dit, c'est d'une beauté macabre qui pousse à continuer jusqu'au bout. Respect !</content>
+	</review>
+	<review>
+		<title>Descente aux enfers…enfin presque</title>
+		<author>Graffiti</author>
+		<date>2016-08-20</date>
+		<score>0.7</score>
+		<content>Pour en savoir plus, lisez ma critique sur mon blog Le tourneur de pages https://tourneurdepages.wordpress.com/2016/08/10/le-facteur-cratophane/</content>
+	</review>
+	<review>
+		<title>Des dessins canons mais des dialogues trop longs...et trop serieux !</title>
+		<author>Ozymandias B</author>
+		<date>2016-05-27</date>
+		<score>0.5</score>
+		<content>Mention spéciale pour les dessins ! Une TUERIE ! Concernant le fond, je trouve l'histoire brouillonne, lente à se mettre en place et finalement pas très intéressante mais ce livre est un prologue...peut être que si je lisais Mardi-grasdescendres j'y prendrais plus de plaisir. Toujours est-il que ce livre est très philosophique et que ce n’est pas ce que je recherchais ici...je m'attendais à de l'humour noir et acide accompagné de dialogues truculents...bof !</content>
+	</review>
+</sensCritiqueEntity>

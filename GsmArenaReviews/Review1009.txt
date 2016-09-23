@@ -1,0 +1,410 @@
+<review>
+	<title>HTC One review</title>
+	<description>To rule them all</description>
+	<link>http://www.gsmarena.com/htc_one-review-912.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support; 3G with HSPA; LTE</paragraph>
+			<paragraph>4.7" 16M-color 1080p Super LCD3 capacitive touchscreen with 469ppi pixel density</paragraph>
+			<paragraph>Android OS v4.1.2 Jelly Bean with Sense UI 5.0</paragraph>
+			<paragraph>Quad-core 1.7 GHz Krait 300 CPU, 2 GB RAM, Adreno 320 GPU; Qualcomm Snapdragon 600 chipset</paragraph>
+			<paragraph>4 MP autofocus "UltraPixel" camera with 1/3" sensor size, 2µm pixel size; LED flash</paragraph>
+			<paragraph>1080p video recording @ 30fps with HDR mode, continuous autofocus and stereo sound</paragraph>
+			<paragraph>HTC Zoe</paragraph>
+			<paragraph>2.1 MP front-facing camera, 1080p video recording</paragraph>
+			<paragraph>Wi-Fi a/b/g/n, Wi-Fi Direct and DLNA; Wireless TV out</paragraph>
+			<paragraph>GPS with A-GPS, GLONASS</paragraph>
+			<paragraph>32/64GB of built-in storage</paragraph>
+			<paragraph>MHL-enabled microUSB port</paragraph>
+			<paragraph>Bluetooth v4.0</paragraph>
+			<paragraph>NFC</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Active noise cancellation with dedicated mic</paragraph>
+			<paragraph>Aluminum unibody</paragraph>
+			<paragraph>Front-mounted stereo speakers with BoomSound tech</paragraph>
+			<paragraph>Class-leading audio output</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>4MP camera has disappointing performance in good lighting conditions</paragraph>
+			<paragraph>Non-expandable storage</paragraph>
+			<paragraph>Awkwardly-placed and uncomfortable power button</paragraph>
+			<paragraph>Sense UI still lacks connectivity toggles in notification area</paragraph>
+			<paragraph>Non user-replaceable battery</paragraph>
+			<paragraph>Poor video and audio codec support out of box</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Voted Manufacturer of the Year in 2011 by the GSMA and emerging as the top US smartphone vendor later that year, HTC hit a rough patch and was struggling to find form through the better part of 2012. Complacency, fatigue, or something else - we don't even want to think arrogance - the company somehow forgot that even great products, which the One X and One S certainly were, need proper support and marketing to sell.</paragraph>
+			<paragraph>At the speed smartphones are evolving, a bad year can cause all sorts of trouble and HTC had to learn it the hard way. Fortunately, the financial trouble seems to have had no impact on the company's ability to produce excellent smartphones, as the HTC One is here to prove.</paragraph>
+			<paragraph>Arguably one of the most exciting pieces of smartphone design in recent times, the HTC One is also properly powered and flaunts a screen that should please even the most demanding eyes. It also brings an overdue redesign of the Sense UI and a new camera that takes a completely new approach to mobile photography.</paragraph>
+			<paragraph>The One is a tempting package indeed and even though it will take HTC a while to get out of the slump, this is certainly a confident step in the right direction. With proven performers in both the computing and screen departments, it's only the low camera resolution that will potentially raise doubt. HTC say the extra-large "ultrapixels" are worth the sacrifice though, and we are as keen as you are to find out if that claim is justified.</paragraph>
+			<paragraph>With a spec sheet like that, the One has nothing to fear when it takes on the likes of the Xperia Z and the Galaxy S4 in the battle for the ultimate flagship. Here's hoping that it delivers on the promises in real-life performance.</paragraph>
+			<paragraph>As the tradition goes, we start with the unboxing and hardware checkup right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Retail package is par for the course<subsectionTitle>
+			<paragraph>The HTC One comes with the standard set of accessories to look for in a smartphone's retail box, premium or else. A pair of headphones (the cool looking red earbuds are a nice touch) is joined by an A/C adapter to use with the supplied microUSB cable.</paragraph>
+			<paragraph>There's also an HTC-branded SIM eject pin in case you need to swap microSIM cards. Since the HTC One doesn't have a microSD slot, there's obviously no memory card in the package. The base version has 32GB of internal storage, which should be more than enough for the majority of users.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC One 360-degree spin<subsectionTitle>
+			<paragraph>The HTC One measures 137.4 x 68.2 x 9.3mm, which makes it slightly more compact but thicker than the Xperia Z (139 x 71 x 7.9 mm). Of course the Xperia has a larger screen and water resistance to show for it, but the size difference seems adequate to us.</paragraph>
+			<paragraph>Comparisons with the Samsung Galaxy S4 (136.6 x 69.8 x 7.9 mm) aren't as flattering for the HTC flagship. The aluminum unibody is way superior, aesthetically, and definitely worth an extra millimeter here and there but a replaceable battery and memory expansion give the Samsung smartphone an important advantage.</paragraph>
+			<paragraph>As for the HTC One weight of 143g, we have to say that the smartphone strikes a good balance between feel and portability.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and handling<subsectionTitle>
+			<paragraph>The combination of metal and glass gives the HTC One a premium feel that few other smartphones can match. The handset is an instantly recognizable HTC device following the design philosophy of its predecessors, but is clearly more sophisticated than any of them - without being overdesigned.</paragraph>
+			<paragraph>The exquisitely built HTC One wouldn't look out of place in a luxury phone shop alongside Vertus, Mobiados and the likes. Even the glass-clad Sony Xperia Z, which oozes with style, can't match the compelling simplicity of the HTC One. The Apple iPhone 5 probably comes the closest, but its design is starting to get a little played out and there's way too much bezel at the front.</paragraph>
+			<paragraph>The HTC One is a bit narrower than the HTC One X, which makes its handling a bit easier. A slimmer waistline might have helped even further, but let's not get greedy. To put things into perspective though, the Galaxy S4 about the size of the HTC flagship (slimmer, and a tad shorter) and has a larger screen at that.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Things on the front have been moved around a bit. The face of the One is split into three - the massive middle section is the Gorilla Glass 2 covered screen, with strips of aluminum on both sides. The latter house the stereo speakers with BoomSound tech. A strip of glass right below the screen keeps the two capacitive keys, Back and Home. Long-pressing the home button launches Google Now, while a double tap brings up the task switcher. There are no dedicated Menu and App switcher keys.</paragraph>
+			<paragraph>To make up for the missing Menu key, there are gestures throughout the Sense 5 interface (swipe down in the App Drawer or the BlinkFeed homescreen. On the pre-release units we tested there was an option to set a long press of the Back key to act as "Menu", but this is not available on our review unit.</paragraph>
+			<paragraph>Above the screen is the front-facing camera, plus the ambient light and proximity sensors. The top speaker takes the role of an earpiece during calls.</paragraph>
+			<paragraph>The front-facing camera on the HTC One is almost the same as the one on the Butterfly - it has a 2.1MP sensor with an 88Â° lens and can shoot 1080p video, complete with HDR mode.</paragraph>
+			<paragraph>The HTC One uses microSIM cards, which go in a tray on the left side of the phone. As usual, you need the supplied SIM eject tool or a paper clip to open the tray.</paragraph>
+			<paragraph>The right side of the phone houses the volume rocker, which is big and wide, but a little too flat and quite difficult to press. There's also no dedicated camera key, as has become the unfortunate norm for Android flagships.</paragraph>
+			<paragraph>The microUSB port and the mouthpiece are at the bottom. The USB port is MHL-enabled, so you can use it for HD TV-Out and for USB Host functionality. There's a noise cancelling mic at the back of the phone. Besides its usual noise cancelling duties, the second mic keeps track of how loud the ambient noise is and the phone will boost the sound from the mouthpiece to make sure the other side hears you loud and clear.</paragraph>
+			<paragraph>The top of the phone features the 3.5mm audio jack and the Power/Lock key. That key has a surprising talent - it's also an IR emitter hiding in plain sight. HTC has preloaded an app that helps you control TV sets and audio equipment. After years in oblivion, IR ports seem to be making a comeback though no longer as a means of data transfer.</paragraph>
+			<paragraph>And while the power button does extremely well at its hobby, it's rather less comfortable for the main job. HTC's decision to place the power key on the top of large screened smartphones such as the One makes little sense, as this is one of the hardest places to reach. This time the key itself is also sitting pretty low and its press feedback is poor. That's bad news about one of the most used controls on the phone.</paragraph>
+			<paragraph>The back of the HTC one is a big slab of aluminum that's split into three parts by fine plastic lines - to match the division of the front into screen and speakers. The noise cancelling mic is placed on the upper line, but the star of the show and arguably the most controversial bit of the HTC One is the camera.</paragraph>
+			<paragraph>It features a 28mm wide-angle lens with F/2.0 aperture and an optically stabilized 16:9 4MP sensor with ultra-pixels. It's the boldest attempt at a camera system since PureView, and we'll pay proper attention to it later on in the review.</paragraph>
+			<paragraph>The HTC One features a 2,300mAh Li-Po battery that's fixed inside the metal unibody. It's non-replaceable, but it's about 300mAh bigger than the one powering the HTC Butterfly and the same capacity as the battery in the Sony Xperia Z.</paragraph>
+			<paragraph>While embedded batteries concern many and the fact that HTC released no official numbers on the endurance of the One didn't help ease them off, our dedicated battery test showed that you have little to worry about. The HTC One got a very respectable 48h endurance rating, suggesting that it can last for two full days on a charge if you use it for an hour of web browsing, an hour of video watching and an hour of telephony per day.  HTC One battery test scorecard</paragraph>
+			<paragraph>You can find more about the testing procedures here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The HTC One has a brilliant 4.7" Super LCD3 screen, not a 5-incher, which is becoming the flagship standard. The One's screen is 12% smaller than the 5" models, but boasts a pixel density of 469ppi, up from 441ppi.</paragraph>
+			<paragraph>The 300+ ppi screens of last year's flagships are pretty close to the limit, but the jump to 400+ ppi isn't about individual pixels - it was already pretty hard to see jagged edges on 720p screens but the 400+ ppi displays look smoother still. The difference between the 469ppi of the HTC One and the other 1080p screen out there (even the 401ppi LG Optimus G Pro) isn't the kind that can be easily seen. Anyway, we assume HTC were driven by a screen size they considered most usable, rather than trying to top some pointless pixel density charts.</paragraph>
+			<paragraph>  HTC One and Sony Xperia Z display matrices compared</paragraph>
+			<paragraph>HTC has been putting out some excellent screens recently and the One's display is just another example of this. The contrast is impressive and the viewing angles are extremely wide - there's no shift in colors and only a slight contrast loss at extreme angles.</paragraph>
+			<paragraph>The screen is laminated too, for a maximum close fit between individual layers, bringing the image as close as possible to the surface of the glass.</paragraph>
+			<paragraph>The only area of the HTC One screen performance that is not quite perfect is sunlight legibility. It's still good, helped by its good brightness levels, but it's not quite up there with the best we have seen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>You can find more about the testing procedures here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sense UI 5 centered on BlinkFeed<subsectionTitle>
+			<paragraph>The HTC One runs Android 4.1.2 Jelly Bean, but more importantly it comes with the latest version of Sense UI, 5.0. Much like Samsung, HTC prefers to add its own exclusive features to Android, instead of marching to Google's drum.</paragraph>
+			<paragraph>Here's a quick overview of the HTC One interface:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen looks different but it is unchanged in terms of functionality. There's a clock, weather info and four (not five) shortcut slots. You can put a folder instead of an app shortcut if you need more than four apps accessible right from the lockscreen. Missed calls and incoming messages are duly displayed too of course.</paragraph>
+			<paragraph>There's no way to change lockscreen shortcuts independently from the ones docked on the homescreen. Many users may find that inconvenient - LG and Samsung both let you do that.</paragraph>
+			<paragraph>The homescreen is quite different, however. The leftmost pane is called BlinkFeed and looks quite a bit like Flipboard. It aggregates posts from your social networks and stories from over a thousand news sources. You can pick what topics you're interested in and BlinkFeed will automatically pull relevant content. You can also search for specific content.</paragraph>
+			<paragraph>You're not stuck with BlinkFeed if you don't like it - the rest of the homescreen panes are the standard type with shortcuts and widgets and you can set one of them to the be default one (the one you get to when you tap Home). You can't remove the BlinkFeed panel altogether, though.</paragraph>
+			<paragraph>If you have social network accounts linked, you can post on them straight from BlinkFeed, including sharing stories that you've come across on the feed.</paragraph>
+			<paragraph>Overall, BlinkFeed feels similar to a Flipboard widget, except that it's not a widget, which lets it function better by getting extra gestures. On the other hand a widget would have been easy to move across homescreen panes, delete and even resize, so you can combine it with shortcuts or other widgets on the same pane.</paragraph>
+			<paragraph>Getting rid of the dedicated Menu button is perhaps emerging as a trend in Android - a button in the app interface itself was the Nexus 4's approach, later adopted by the HTC One X and now by the HTC One too, which doesn't have a Menu key at all. In the BlinkFeed and the app drawer for example, a hidden bar with settings appears when you swipe down on the screen. It works pretty nicely and gives you extra functionality without wasting any screen estate.</paragraph>
+			<paragraph>It's an interesting addition considering Android isn't too fond of gestures, especially compared to something like the BlackBerry OS 10. But apps will need to specifically support this and most apps will still have a menu button integrated into their UI. Older apps that rely on a dedicated Menu key (be it physical or on-screen) run with a black bar at the bottom just for an on-screen Menu key (not many of those left, but it happens).</paragraph>
+			<paragraph>The notification area is one aspect of the interface where the HTC Sense has been behind the curve for a long time now. Sense 4 didn't offer dedicated power toggles in the pull-down - Wi-Fi, Bluetooth, Mobile Data, and the likes - and Sense 5 does nothing about that either.You get notifications, the clock and date, a Power Saver toggle and a shortcut to go into the settings menu and that's that.</paragraph>
+			<paragraph>Beyond what we just listed, Sense UI 5 feels very similar to its predecessor. You get up to four homescreen panes to fill with shortcuts and widgets (the fifth is reserved for BlinkFeed). Upon a pinch zoom, the enabled homescreen panes are displayed in the top one third of the screen, the rest available to the interface for adding widgets and shortcuts.</paragraph>
+			<paragraph>Widgets are pulled out of a dedicated container and are not displayed in the app drawer, which we find to be the more intuitive approach. Another notable difference from Samsung TouchWiz and the LG Optimus UI is that the HTC One's homescreen panes cannot be scrolled in a loop. It seems, HTC cannot quite decide on a permanent solution - the Butterfly had circular scrolling enabled.</paragraph>
+			<paragraph>In the homescreen management interface, you can set any of the panes as default - including the BlinkFeed.</paragraph>
+			<paragraph>As for the app drawer itself, the default layout is a 3 x 4 grid of icons, which does not make best use of the large, high-res screen. The icons aren't even bigger than usual, they just have plenty of padding. Luckily, you can switch to a 4 x 5 grid. It's an Apple-style vertically scrollable list with an auto-hiding scroll bar on the right, indicating the number of "pages" the list of apps extends across. That's it, no extra tabs for widgets or recent downloads.</paragraph>
+			<paragraph>The sorting options (alphabetical, custom and chronological) are available on a hidden toolbar that shows upon a swipe down in the top page of the app drawer. It has shortcuts as well to the Google Play Store and Search, and lets you manage apps and select grid size.</paragraph>
+			<paragraph>HTC has done well to remodel the task switching interface - recent apps are now displayed in a 3 x 3 grid of thumbnails, which makes way better use of all the available screen size and resolution. It's a single screen that cannot be scrolled, so nine of the most recently used apps is the most you can get. To terminate apps you have to swipe up or down (not left or right). The task switcher launches upon a double tap of the Home button.</paragraph>
+			<paragraph>The settings menu isn't dramatically changed in the latest Sense. It has the same design but the app icons and toggles have been redone. Everything is where you'd expect it to be.</paragraph>
+			<paragraph>Wallpapers, lockscreen style, ringtones, notification sounds and alarms can be customized straight from here.</paragraph>
+			<paragraph>There's a choice between several lockscreen styles, including Photo Album, Productivity and Music. You can opt for just a plain wallpaper, or No Lockscreen at all.</paragraph>
+			<paragraph>The Productivity lockscreen lists the latest missed calls, texts, emails and scheduled events. Music puts a mini music player on the lockscreen. You can preview the available lockscreens and enable the one you choose.</paragraph>
+			<paragraph>The HTC One comes with a dedicated Car mode screen, which has been styled to look like the rest of the interface. There are only five big controls besides the clock and weather info. There's music info too, which takes a whole row by itself, along with shortcuts to Navigation, Dialer, the Music player (again) and for Voice commands.</paragraph>
+			<paragraph>The app can be set to automatically launch when you put the phone in the car dock and connect to the car Audio over Bluetooth. There's also an option to resume playback of the music player or radio when the Car mode app launches, for an uninterrupted listening experience.</paragraph>
+			<paragraph>There's an interesting option in the phone's Security settings, borrowed from Windows Phone 8. It's called Kid mode and is actually an app that lets you set up a profile for each of your kids, with a photo and birthdate and pick which apps they can have access to. One annoying bit is that to enable Kid mode the first time around, you need to sign up via email.</paragraph>
+			<paragraph>The app also comes with premium features and you can pretty much get it on any other Android smartphone running Froyo and up.</paragraph>
+			<paragraph>HTC usually includes an app to help you switch from your old phone by transferring the important data, and on the HTC One it's been updated. It can transfer data from an old HTC phone or an Android from a different maker (v2.3 Gingerbread and above), a Windows Phone, a BlackBerry an iPhone or even some featurephones.</paragraph>
+			<paragraph>The switch from an iPhone is pretty easy - the One can even read the data off an iPhone backup file, so even if you've lost or sold your iPhone, you'd still be able to copy all your contacts and personal files easily.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmark performance<subsectionTitle>
+			<paragraph>The HTC One relies on the Qualcomm Snapdragon 600 chipset, which features four 1.7 GHz Krait 300 cores, the Adreno 320 graphics processor and 2 GB of RAM.</paragraph>
+			<paragraph>Snapdragon S4 Pro has a little time to stay on top but now this new configuration is reigning as the benchmark champion best. We'll still have to wait a while to see Tegra 4 and Exynos 5 Octa in action, so for now Snapdragon 600 is the best money can buy. This means that the only smartphone we have tested the One has to fear is the Galaxy S4, which offers the same chipset, but with higher clockspeed.</paragraph>
+			<paragraph>We start you off with BenchmarkPi and Linpack, which evaluate CPU performance in single and multi-core mode, respectively. The HTC finished third in both tests, but it was pretty close to the Galaxy S4 and LG Optimus G Pro ahead of it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BenchmarkPi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Geekbench 2 is cross-platform compound benchmark, which means we get to compare the HTC One performance not only to its Android peers but also to the Apple iPhone 5. The One got another bronze medal, but once again it was closer to those in front of it than to those behind it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu tests a little bit of everything. The Samsung Galaxy S4 again managed to walk away with the victory, but this time the HTC One got the best of the Optimus G Pro and managed to come a close second.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Quadrant, which is the final compound benchmark we ran told a similar story - an extremely solid performance by the HTC One, which was only narrowly beaten by the Optimus G Pro and the Galaxy S4.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GLBenchmark 2.5 is our first GPU test of choice. We run the test in the FullHD 1080p off-screen mode, which lets us evaluate the raw performance power of the Adreno 320 found in the HTC One. It managed an impressive 34 frames per second only coming behind the Samsung Galaxy S4's stunning 40 fps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Epic Citadel is another GPU test, only this time it runs at the screen native resolution. The HTC One achieved 56.4 frames per second here and came close to the Galaxy S4's 57 fps. Keep in mind that both smartphones run into the 60fps limitations of their respective screens, meaning that the difference is slightly bigger than it appears.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to some web-based tests. SunSpider works with JavaScript and the lower the score, the better the performance. However manufacturers notoriously try to cheat on it so you probably shouldn't read too much into HTC's One mid-table position.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Vellamo deals with HTML5. The HTC One did very well here and snatched second place.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The HTC One proved to be a true powerhouse and even though it failed to capture a single victory it was always close to the top performers. Truth is, you will barely be able to feel such minor differences in real-life usage as all those top phones are impressively smooth and snappy.</paragraph>
+			<paragraph>Zoe is evidence enough of the serious work that has gone into optimizing the HTC One to work great with the powerful processor inside.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now<subsectionTitle>
+			<paragraph>As an integral part of Android Jelly Bean Google Now is present on the HTC One. You can get to it by holding the home button.</paragraph>
+			<paragraph>In addition to being able to recognize voice commands, Google Now will learn from your usage patterns, and display relevant information. For example, if you search for a particular sports team frequently, Google Now will display information for upcoming games you might want to watch.</paragraph>
+			<paragraph>The service interacts with you by generating cards which are displayed on your screen and give you a short overview of information it believes is relevant to you. Going to work in the morning? Google Now knows this and lets you know there's a big traffic jam on your usual way to the office, and will offer you an alternate route. This extends to a multitude of other areas, including weather, traffic, public transit stations, and nearby points of interest.</paragraph>
+			<paragraph>You can either type or talk to Google Now and the app will give you one of its aforementioned info cards (if available) and read you its contents aloud (you can disable this from the app settings). If there's no card to help with the answer to your question, Google Now will simply initiate a Google web search instead.</paragraph>
+			<paragraph>There is also a Google Now widget which generates information for you based on what your interests are.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great phonebook<subsectionTitle>
+			<paragraph>The People app in Sense 5 has seen some minor changes too. Instead of clickable tabs on the bottom of the screen you get side-scrollable tabs on the top, which is a more convenient solution (and along the lines of stock Android's solution).</paragraph>
+			<paragraph>You get the dialer, all contacts, groups (including favorite contacts there), as well as a call log. Once again, you can reorder tabs and remove the ones that you don't need (Groups or Call history).</paragraph>
+			<paragraph>From a drop-down menu at the top, you can filter contacts based on where they came from - the phone's address book, Facebook, Twitter or your HTC Sense account. If an account has multiple subgroups (e.g. Gmail's groups), they can be toggled individually as well.</paragraph>
+			<paragraph>Selecting a contact displays the basic details: name and photo, numbers, emails and such. That's just the first tab - the other tabs hold further details and means of communication, including email and a call log.</paragraph>
+			<paragraph>The second tab holds the texts, emails and call history between you and the given contact. The next one displays social networking contact updates, and finally the "Gallery" pulls the albums that contacts have created on Flickr and Facebook.</paragraph>
+			<paragraph>When editing a contact, you start off with just one of the essential fields but you can easily add more. If a contact is linked with a Facebook or other account you can see them either merged or choose to view either profile.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony works like a charm<subsectionTitle>
+			<paragraph>The HTC One did a great job in our signal test, providing great reception in environments where others dropped calls. The volume in the earpiece was extremely loud (we almost never used it at full volume) while clarity wasn't an issue.</paragraph>
+			<paragraph>The dialer on the HTC One displays your recent calls with the usual tabs above accessible via side-swipes. There's smart dialing on the HTC One and works really well. Once you start typing on the keyboard, contacts will be filtered by name or by phone number.</paragraph>
+			<paragraph>The HTC One doesn't support video calling over the cellular network by default, which is a pity, given that you get a wide-view front-facing camera. The good news is there are a bunch of apps which could fill in the blank spot with video calling over Wi-Fi and 3G.</paragraph>
+			<paragraph>The handset packs the standard set of accelerometer-based tricks - turning the phone in the middle of a call will enable the loudspeaker, Quiet ring on pickup will reduce the loudness of the ringtone when you move the phone and Pocket mode boosts ringtone volume if the phone is in your pocket or purse.</paragraph>
+			<paragraph>HTC promised a 93 dB tipping volume on the two BoomSound frontal speakers of the One. Each of those speakers packs a dedicated amplifier and they really produce deep pleasing sound, but the HTC One only managed a good result in our dedicated test. That certainly doesn't make them the loudest around but they should still suffice in most environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging well set<subsectionTitle>
+			<paragraph>Android and the HTC One are capable of handling all sorts of messages - SMS, MMS, email. Social networking is covered by several apps and widgets, and there's Gtalk, which can connect you to Google's chat network and compatible networks too (like Ovi Chat).</paragraph>
+			<paragraph>SMS and MMS messages are displayed in threads - you see a list of all conversations, each one is listed with the contact's photo, name and the subject of the last message, as well as a part of the actual message (you can choose 1, 2 or 3 preview lines). Tapping a conversation brings up the entire message history with that contact.</paragraph>
+			<paragraph>To add recipients, just start typing a name or number and choose from the contacts offered - the phone will find the contact you want even if you misspell it (e.g. "drx" matches Dexter).</paragraph>
+			<paragraph>The compose box covers about a fifth of the screen in portrait mode or about a third in landscape. A tap-and-hold on the text box gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc. and vice versa.</paragraph>
+			<paragraph>The keyboard has been redesigned. Keys are well spaced but the overlay doesn't include any gaps between them, which is only a cosmetic feature and poses no discomfort. The 4.7" diagonal offers plenty of space for comfortable typing.</paragraph>
+			<paragraph>HTC has included Trace keyboard, which acts like Swipe. You drag a finger over the desired keys and the phone predicts what you're trying to write. It works really well but language support is limited.</paragraph>
+			<paragraph>Converting SMS into MMS is as simple as adding some multimedia content to the message. You can just add a photo or an audio file to go with the text, or you can get creative with several slides and photos.</paragraph>
+			<paragraph>The HTC One comes with two email apps - the traditional Gmail app and the built-in HTC Mail app, which merges all your email accounts into a single interface.</paragraph>
+			<paragraph>The Gmail client has the trademark conversation style view and can manage multiple Gmail accounts. Batch operations are supported too, in case you need to handle email messages in bulk.</paragraph>
+			<paragraph>The HTC Mail app features conversation view in an attempt to mimic the original Gmail client threaded view, which is otherwise missing in the generic inbox. Emails in a thread are grouped and a number of emails and a down arrow appear - tap the arrow to show/hide the messages in that group.</paragraph>
+			<paragraph>You can add multiple accounts (from multiple services) and view them individually or in a combined inbox. Each account is color-coded, so you can quickly associate each message with its relevant account.</paragraph>
+			<paragraph>The Mail app has tabs, but they are hidden by default. You can choose Edit tabs from the menu and pull out the ones you want. You can choose from Favorites, Unread, Marked, Invites and Attached.</paragraph>
+			<paragraph>Email sorting is enabled (in either ascending or descending order) by date, subject, sender, priority and size. The currently applied filter is displayed in the top right corner of the display.</paragraph>
+			<paragraph>There's hardly anything we can think of that the HTC One lacks in terms of email capabilities. The settings for popular email services are automatically configured. POP/IMAP accounts and Active Sync accounts are supported.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Zoe is a wiz at photo retouching<subsectionTitle>
+			<paragraph>HTC Zoe is more advanced than any other gallery on a phone and it was made possible by the dedicated ImageChip 2 that the One uses. When you use the camera in Zoe mode, every time you press the shutter key, the phone captures up to 20 full res shots and a 3 second video (1 second before you press the shutter key and 2 seconds after). All that information is required for the advanced features of Zoe.</paragraph>
+			<paragraph>One of those features is Events. Zoe can be used as a regular image gallery with photos stacked together by folders, but Events groups photos by when and where they were taken. Each event has a 30 second highlight video, which is stitched together from those 3 second clips plus a slideshow, including some of the pics. You can remove clips and add new ones to the highlight video, add a video effect and also include a background music (the tracks are preset, though it is possible to add new ones to the list).</paragraph>
+			<paragraph>The animation in the Gallery is seamless which is more than we can say about it outside the HTC One. If you save the pictures into your PC you're left with 20 shots for every Zoe animation created. The good news is HTC allows you to upload the sequences to HTC's Zoeshare webpage and send the links to your friends. Images there are displayed like GIFs.</paragraph>
+			<paragraph>The videos and multiple full-res shots come into play when editing images as well. Since the phone has a video of the scene during which the photo was taken, it can find moving objects and put a red X on them so that you can tap and remove the ones you want, but keep the rest. The result is a full-resolution 4MP image.</paragraph>
+			<paragraph>Zoe can also make sure everyone in the photo is smiling and their eyes are open - it detects all faces and circles them, then you can swipe to go through all available images of that face until you find the perfect one.</paragraph>
+			<paragraph>Yet another feature is called Sequence shot. It takes a shot of a moving object and it creates a cool effect "multiple exposure" effect where that object appears several times on the photo. It's perhaps easier to show the effect than explain it, here's a shot of a BMXer jumping over a ramp. You can tweak the effect by adding and removing clones.</paragraph>
+			<paragraph>The Zoe arsenal of effects doesn't stop here - there are some vanity effects too. One such effect is Face contour, which allows you to easily slim someone's face. There's also Skin smoothing, an automatic lightning fix, Eye enhancer (which makes your subject's eyes open wider), Eye brightening, Red-eye removal and Anti-shine. The strength of these effects is adjustable with a slider so you can fine tune it.</paragraph>
+			<paragraph>That's just the Retouch section of the Photo Editor. There are also effects, frames and transformations available. Basically, Zoe is a knowledgeable Photoshop helping hand in your pocket.</paragraph>
+			<paragraph>As we said, Zoe events can be shared on the dedicated Zoe Share site and we've prepared several albums to share with you: Album 1, Album 2, Album 3.</paragraph>
+			<paragraph>As before you can find a map with your Geo-tagged images in the Gallery.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player with very limited codec support<subsectionTitle>
+			<paragraph>The Video player on the HTC One has a pretty simple interface. There isn't even a dedicated app, you just pick a video from the gallery. Anyway, you get a Play/Pause button and a slider to scrub through the video, a button to launch the camera and a small square with the current time and battery charge. Those automatically hide after a few seconds, of course.</paragraph>
+			<paragraph>The video player can use the Beats audio sound enhancement just like the music player, which is great for watching videos. The video player supports DLNA and you can use an MHL adaptor to plug the phone into a TV.</paragraph>
+			<paragraph>One pretty unique feature allows you to change the playback speed of the video. This is helpful for clips, you've shot in one of the high frame rate modes, it allows you to watch either a High Frame Rate (it playbacks in real-time, just like The Hobbit) or in slow motion.</paragraph>
+			<paragraph>The HTC One failed pretty miserably when it came to codec support . It couldn't play all our DivX videos save for one, MOV files were out of the question and did choke with some audio codecs (like AC3).</paragraph>
+			<paragraph>The videos that played did so up to 1080p, which is a given with this CPU but still deserves a note. With a great display like that the HTC One is some proper codec support away from becoming a powerful tool for watching video on the go. Luckily there are a few dozen video players in the Play store to address that deficiency and some of them are even free.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with Beats<subsectionTitle>
+			<paragraph>The HTC One comes with a custom music player, which is HTC Beats enabled, of course. It can organize your music library by Artist, Album, Songs, Playlists, Genres, Podcasts or Folders (we don't see this option very often). The phone will also easily stream songs over DLNA, you're not limited to the music library you have in the internal memory.</paragraph>
+			<paragraph>The music player has some handy features out of the box. It can automatically look for and download Album art and artist photos (you can limit it to Wi-Fi connections only) and it can also search for lyrics. The lyrics can be displayed either in karaoke mode or just as text.</paragraph>
+			<paragraph>There's no equalizer on board, you just have the option to toggle Beats audio on or off. That's not ideal, but at least the BoomSound stereo speakers on the front of the HTC One are quite loud.</paragraph>
+			<paragraph>SoundHound is the track recognition of choice for HTC and it has even been integrated it into the music player UI. It easily ID's a song from just a short sample. Or you can say the name of the artist and song and SoundHound will find it for you, including lyrics. The free app however only offers a limited number of uses (99).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Top notch audio quality<subsectionTitle>
+			<paragraph>Update 11 April: We've identified an issue with our testing procedure that caused lower readings for dynamic range, noise level and stereo crosstalk on some smartphones. We've since rectified it and updated the scores to reflect the actual performance on the affected devices.</paragraph>
+			<paragraph>The HTC One audio output is almost identical to that of the HTC Butterfly, which is great news really as the former HTC flagship really aced our audio quality test. In fact the two Beats-powered smartphones offer arguably the best audio quality in the smartphone world right now.</paragraph>
+			<paragraph>The HTC One did great in the active external amplifier part of the test, posting great scores all over the field. In addition it had volume levels higher than all of its direct competitors, save for the aforementioned HTC Butterfly, which it only matched.</paragraph>
+			<paragraph>More impressively, there's next to no degradation when you plug in a pair of headphones. The stereo crosstalk rises a tiny bit, but that's the only affected reading. Volume levels remain at the same high level, too. This is the second smartphone in a row where HTC makes the Beats audio logo stand for something other than a simple equalizer, but as we said last time, the wait was probably worth it.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> HTC One frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio and TuneIn Radio<subsectionTitle>
+			<paragraph>There's an FM radio, which has a pretty simple interface. It automatically scans the area for the available stations and allows you to mark some of them as favorite. It also supports RDS and allows loudspeaker playback.</paragraph>
+			<paragraph>Aside from the headphones or loudspeaker choice you also get Mono sound if the reception is poor. There's no Beats enhancement here, however, not is there a playback control card on the lockscreen.</paragraph>
+			<paragraph>You can also go with TuneIn Radio. It relies on your internet connection and can play just about every station on the planet that's gone broadband (let's face it, most of them are). And the quality is arguably even better.</paragraph>
+			<paragraph>You can set stations as favorites, search local stations by country or genre, and the app will even list you results to specific artist, album or song searches.</paragraph>
+			<paragraph>Finally you can also set your alarm to wake you up with your favorite station. Keep in mind that you need an active connection for this and it does tend to take the life out of your battery fast in the morning.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera features and UltraPixels<subsectionTitle>
+			<paragraph>The HTC One comes with a camera that's unique in the smartphone world. It's only the second smartphone to feature optical stabilization and it's the first to use a new design which involves photosites that are three times as big as those on a 12MP size. However, since the sensor is equally sized to a 12MP sensor, it only gets to capture a third of the resolution. In HTC marketing talk these larger photosites are calls UltraPixels.</paragraph>
+			<paragraph>The ultrapixels are bigger than you would get on all other current cameraphones. The Nokia N8 had 1.75-micron pixels, while the 808 PureView and the iPhone 5 both have 1.4-micron pixels. So, each pixel in the HTC One camera is twice the size of a pixel in the 808 and iPhone 5 cameras.</paragraph>
+			<paragraph>Bigger pixels mean lower noise levels and usually, better dynamic range. Low-light performance is also helped by the Optical Image Stabilization (OIS) as we saw on the Nokia Lumia 920.</paragraph>
+			<paragraph>The sensor used in the HTC One has a 1/3" diagonal with a 16:9 aspect ratio and it's mounted behind a 5-element lens with F/2.0 aperture. The sensor takes 16:9 photos with 2688 x 1520 pixel resolution, while switching to the traditional 4:3 aspect ratio limits the maximum resolution to 2048 x 1520 pixels, or just over 3MP.</paragraph>
+			<paragraph>HTC has included a second-generation ImageChip to process the images captured with the camera and also handle the needs of HTC Zoe.</paragraph>
+			<paragraph>The HTC One continues the trend of using a unified camera interface for stills and video. We didn't like it all that much on the One X and its siblings, but it makes much more sense here. Since the default resolution of the still camera now matches that of the videos - 16:9, so you don't need to worry about framing different aspects on the same viewfinder.</paragraph>
+			<paragraph>The only remaining complaint is that all still and video settings get dumped into one menu, instead of just getting the relevant settings depending on the current mode, but we can live with that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera interface and image quality<subsectionTitle>
+			<paragraph>Update, April 30: We've updated our HTC One unit with the latest firmware. It promises to bring improvements over the camera image quality, so we have taken the HTC One camera for a spin once again and changed all the samples. We've also updated the text below to reflect our new findings.</paragraph>
+			<paragraph>Anyway, the camera interface itself is pretty simple - there are two shutter keys (one for stills and one for video), above them is the gallery shortcut and below is the effects button. On the left side of the screen you get flash mode selector and the Zoe toggle.</paragraph>
+			<paragraph>Now, we already covered what Zoe does after you've taken a shot, here's how the actual shooting goes. You enable Zoe (an indicator at the bottom of the screen confirms you're in Zoe mode) and tap the still shutter key. The key turns into a progress bar, counting down the three seconds during which the phone records video, reminding you to stay relatively still.</paragraph>
+			<paragraph>The Optical Image Stabilization offers active correction of the image module in two axis with a frequency of up to 2000 times a second. That, combined with the F/2.0 aperture of the lens and big pixel promises unrivaled low-light performance.</paragraph>
+			<paragraph>So let's get down to brass tacks here - the image quality. The HTC One promises a lot but does it deliver? Well that depends on the scenario. When used in good lighting condition, the low resolution really takes its toll and while the per-pixel detail level is impressive the total resolving power is quite limited.</paragraph>
+			<paragraph>Colors are quite decent and images generally look pretty nice when zoomed at 100%, but we were surprised to see that a lot of noise is present. There is some purple fringing, too, so it's not perfect either. Overall, the gamble HTC took with the ultrapixels certainly doesn't pay off when in good lighting conditions. Just about every other high-end smartphone will produce better stills in that scenario.</paragraph>
+			<paragraph>Update, April 30:The camera samples taken with an HTC One running on the latest firmware are indeed better than the one we've taken with the initial retail unit. There is a bit more detail and the noise has also been reduced a bit. Obviously, HTC fine-tuned its sharpening algorithms, which now do a better job than before. Though the difference isn't huge and not quite enough to let the HTC One catch up with its conventional sensor competitors in good light, but it's still a welcome for anyone who plans to get the flagship.</paragraph>
+			<paragraph>To put things in perspective we did an impromptu shootout involving the HTC One and the Samsung Galaxy S4. The One was shot in its native 16:9 aspect ratio while the Samsung flagship camera was used to produce the 4:3 samples.</paragraph>
+			<paragraph>It doesn't take too much effort to spot the kind of advantage the highly-res sensor on the Galaxy S4 has over its rival, ultrapixels or not. Sure, the per-pixel quality of the HTC One is probably a tad better, but the overall amount of captured detail is far superior on the Galaxy S4 photos.</paragraph>
+			<paragraph>Things change quickly in low light environments, though, as HTC takes advantage of its larger pixels and OIS to retain a level of detail closer to that of its good light shots. The Galaxy S4 on the other hand has no OIS to rely on so it has to push the ISO higher up and noise starts to eat into the fine detail.</paragraph>
+			<paragraph>Indeed the two cameraphones are on par in the first couple of low-light shots, while the HTC One is already ahead in the second pair, which was taken later in the evening.</paragraph>
+			<paragraph>So all in all, the HTC One camera might not impress when it comes to shots in good light, but it makes up for it with superior low-light shots. Depending on where and when you do most of your shooting this might make the One the cameraphone of your dreams or a pretty mediocre performer.</paragraph>
+			<paragraph>The HTC One has HDR support for both its still image and videos. Previously, the company had a hard time tuning that particular feature on its smartphones, but the One is a clear step up. HTC has tuned further the HDR photos with the new firmware and there is no oversharpening. They look pleasant, there is enough detail, lots of detail in the shadows and the in the highlights, and the contrast seems great too.</paragraph>
+			<paragraph>To wrap up the chapter we've prepared a few macro samples. The HTC One came surprisingly good in this category, allowing us to get really close to the subject and produce some great close-ups. Check them out!</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>Update, April 30: We've also reshot our photo quality comparison charts with the updated HTC One unit.</paragraph>
+			<paragraph>The HTC One has made its way to our photo quality comparison tool. HTC's low-megapixel sensor suddenly doesn't feel very comfortable in the controlled environment of our studio and the fact that we had to use the 4:3 mode and waste precious pixels is only part of the reason why. It's just that the first two charts were specifically designed to test absolute resolving power and that's certainly not the low-res sensor's element.</paragraph>
+			<paragraph>   The HTC One in our Photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FullHD video camera with HDR<subsectionTitle>
+			<paragraph>The HTC One can shoot videos at up to 1080p resolution at 30fps. It has an HDR option for the video, but note that the frame rate falls to 28fps, if you enable it and the field of view gets narrower in this mode. It also supports 720p @ 60fps high framerate video recording.</paragraph>
+			<paragraph>The camera features continuous autofocus and you have the option to lock the focus during video recording, if it hunts too much in dynamic scenes. The videos, of course, benefit from the Optical Image Stabilization as well.</paragraph>
+			<paragraph>Videos are recorded in MP4 files with an impressive 20Mbps bitrate - among the highest we've seen. Sound is captured in stereo with 192Kbps bitrate and 48kHz sampling rate.</paragraph>
+			<paragraph>As it turned out the video recording is definitely the better part of the HTC One imaging capabilities. Videos have plenty of detail and the noise is very low. Colors are slightly off, but the built-in OIS makes videos so steady that the overall look is pretty impressive.</paragraph>
+			<paragraph>Here is a fullHD video sample captured with the HTC we uploaded to YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>HDR video capture is more of the same in terms of detail levels. As for the actual benefits of the two merged exposures we can say that the HTC One produces better HDR videos than the pioneer of the feature, the Sony Xperia Z. The HTC flagship squeezes a good amount of extra highlights and shadows without making its videos appear too flat or unrealistic.</paragraph>
+			<paragraph>Keep in mind, however, that the field of view get significantly narrower during HDR video capture, which means you'll be able to fit much less into the frame than you normally would.</paragraph>
+			<paragraph>Here goes the HTC One HDR video that we captured.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>There's a 60 frames per second mode on the HTC One but it reduces the maximum resolution to 720p. This doesn't sound too bad, but the actual output is disastrous - the videos look like upscaled VGA samples rather than proper 720p footage. There's very little detail and even though the clips are really smooth, we'd advise you to stay away from this mode.</paragraph>
+			<paragraph>Here's an untouched 1080p sample (0:10s, 24.6MB) taken straight off the HTC One. You can also download a 720p 60 fps sample (0:30s, 44.0MB) made with the HTC One.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>We've enlisted the HTC One in our video quality comparison tool. Here it really managed to show what it's capable of, particularly when you look at the low-light video where it easily trashed its competitors.</paragraph>
+			<paragraph>   The HTC One in our Video quality compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The HTC One is jam packed with connectivity options and covers a wide array of network frequencies. You get quad-band GSM, quad-band 3G and market-dependent LTE support, making the One a true globetrotter.</paragraph>
+			<paragraph>The local wireless connectivity has Wi-Fi a/b/g/n and DLNA support (both client and server, for images, videos and music) and stereo Bluetooth 4.0.</paragraph>
+			<paragraph>HTC has conveniently designed a special options screen, when you connect the One with a PC. The long list of options includes Portable Wi-Fi hotspot, settings, USB and Bluetooth tethering (the phone becomes a modem).</paragraph>
+			<paragraph>NFC connectivity with Android Beam is present too. We found it to work hassle free with webpages and heavier items like photos.</paragraph>
+			<paragraph>There's no microSD card on the HTC One but the 32 gigs of onboard storage give you plenty of space (there's a 64 GB version as well). The USB on-the-go functionality is certainly a welcome feature here.</paragraph>
+			<paragraph>HTC's Portable Hotspot can support up to 8 devices, you can WEP, WPA or WPA2 encrypt the hotspot and you can enable "allowed users" only to connect or leave it open for all (unsecure, but the quickest setup).</paragraph>
+			<paragraph>The app can be set to power off automatically after 5 or 10 minutes of inactivity, saving your battery in case you forget to switch it off when you are done with it.</paragraph>
+			<paragraph>The HTC One comes with an MHL port, so if you plug a MHL dongle in, you can output HD video over a standard HDMI connection. The phone's UI is mirrored on the TV and with the fullHD resolution of the display, watching on an HDTV is a joyful experience.</paragraph>
+			<paragraph>The HTC One also has a built-in Infrared port, which, coupled with the excellent remote app, allows you to remotely control a whole host of living room equipment. The smartphone can be setup to control all sorts of TV's, receivers, various video and audio players - pretty much any gadget that uses the standard Infrared remote controls.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser has full Flash support<subsectionTitle>
+			<paragraph>HTC One comes with the latest version of the Sensed-out Android web browser. Combined with the fullHD display and potent Snapdragon 600 power inside, the Jelly Bean browser makes for an awesome time on the web.</paragraph>
+			<paragraph>Most of its UI is out of sight, leaving the entire screen to the web page. And even when it does appear it consists of a single bar, which now holds the address field, the Tabs and Menu dropdown shortcuts.</paragraph>
+			<paragraph>HTC has also thrown in some extra buttons at the bottom of the screen, which seemed to pop up when you scroll back to the top of a page, which was getting a bit annoying at times. You see sometimes those buttons appeared along with the top bar, whereas on other occasions they remained hidden when the top bar was showing.</paragraph>
+			<paragraph>Aside from being way too big, those mysteriously behaving buttons let you save a page in your bookmarks or reading list, view bookmarks, saved pages or tabs. You might want to enable Quick controls - they let you tap on any point on the edge of the screen and move your finger to select the desired option from a jog-dial menu.</paragraph>
+			<paragraph>Once you select some text, you can copy it, do a Google search with that text as the query or share the text over a message or social networking.</paragraph>
+			<paragraph>Tabs can be closed with an X button on their top right corner - they can't be swiped off the screen like you do in the app switcher. Incognito tabs are available if you want to browse without leaving traces.</paragraph>
+			<paragraph>You can also request the desktop version of a site, instead of the mobile one. Another cool feature is preloading search results that the phone believes are relevant, speeding up the whole process.</paragraph>
+			<paragraph>The HTC One comes with full Flash support in the browser. We tested a couple of games and videos and everything worked like a charm.</paragraph>
+			<paragraph>The Google Chrome browser also comes preinstalled on the HTC One. Its interface is easier to navigate but it doesn't offer Flash support.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer<subsectionTitle>
+			<paragraph>Organizing is dully covered on the HTC One. Office documents are handled through the preloaded Polaris Office app. It supports Excel, Word, PowerPoint and more and lets you view and edit files on the go.</paragraph>
+			<paragraph>We tested a couple of Word and Excel files and found the One perfectly capable of handling them.</paragraph>
+			<paragraph>The calendar on the HTC One has been redesigned in accordance to the new Sense 5 look. For one days aren't highlighted in a hand-drawn circle but regularly instead. Instead of the selectable tabs now the Calendar lets you side-swipe between tabs (just like in the People app).</paragraph>
+			<paragraph>It has four different types of view: daily, monthly, agenda and invitation. Adding a new event is quite straightforward and you can also set an alarm to serve as a reminder.</paragraph>
+			<paragraph>The Agenda view shows a list of all the calendar entries from the recent past to the near future. Invitation view only lists events with invitation info attached to them. The day view also shows the weather forecast at the top of the screen, which is a nice touch.</paragraph>
+			<paragraph>Naturally, the Calendar supports multiple online calendars (including Facebook), only one of which you can sync with your computer. You can also easily show/hide the ones you don't want.</paragraph>
+			<paragraph>There is also a calculator on board. It is nicely touch optimized with big, easy to hit buttons. Flipping it horizontally enables some more advanced functions like logarithms.</paragraph>
+			<paragraph>The Clock app comes with World Clock, Alarms, Stopwatch and a Timer. The World clock is like a mini Google Earth - it shows a 3D globe and you can rotate and zoom in on it freely. You can add cities that are pinned to the globe (and also visible as a list below it).</paragraph>
+			<paragraph>The alarm clock application can handle multiple alarms, each with its own start and repeat time. The stopwatch and timer are pretty self explanatory.</paragraph>
+			<paragraph>The HTC Tasks app is here as well. It does exactly what the name suggests and can access your Google Tasks. There is no location-based reminder support unlike with Any.DO, iOS's Reminders, etc.</paragraph>
+			<paragraph>HTC Note app is also onboard. It is somewhat similar to Samsung's SPen - you can take various notes, add drawings, pictures and dictations. Sharing and printing options are also available.</paragraph>
+			<paragraph>HTC's Weather app is here too. It became popular years ago with its cool weather animations and widget. You can preset many cities across the globe and it uses the Accuweather info (much like Samsung and Apple do).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Play has all the apps<subsectionTitle>
+			<paragraph>The Google Play Store features several scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. Apps usually have several screenshots (some even offer a demo video) so you can get an idea of what the app looks like before installing it. You can also check out comments and ratings, as well as the number of downloads and so on, to help you decide if the app is worth it.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, audio and video players, navigation apps, document readers etc.).</paragraph>
+			<paragraph>Unfortunately there is no HTC Hub in the Jelly Bean version of HTC's Android implementation. This means you can't get additional HTC wallpapers, HTC lockscreens, etc.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps finds your way<subsectionTitle>
+			<paragraph>The HTC One has a built-in GPS receiver, which managed to get a lock in about 10-15 seconds (with A-GPS switched off no less). If all you need is a rough idea of where you are (within 150 meters) you can use the Cell-ID and Wi-Fi network lock, which is very fast as well.</paragraph>
+			<paragraph>Google Maps is an integral part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere. You can plan routes, search for nearby POI and go into the always cool Street View.</paragraph>
+			<paragraph>Popular places around the world feature pictures and reviews by people. Street view isn't available everywhere, but it is growing in coverage and is the coolest thing we've seen on a Maps app to date (that includes Aerial view in iOS).</paragraph>
+			<paragraph>You can save maps for offline view, which caches them on your device's storage, but keep in mind that not all map info is saved (meaning not everything down to street level like businesses, POIs, etc.).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>So this is it - the One has brought out the best in HTC. It's sure as shooting that five different people will say that about five different HTC smartphones. And at least four of them will be right. But there're certain things that make this one the One.</paragraph>
+			<paragraph>There was no rush this time around to be the first to the market - HTC actually did it again but with the J Butterfly and the DROID DNA. The One on the other hand was the ace in the sleeve, HTC took their time with it, as if waiting for the magic to happen. Well, it did.</paragraph>
+			<paragraph>The HTC One claims no major firsts, it arrives to a market that has already experienced a couple of Full-HD five-inchers. No rabbits are being pulled out of no hats - sorry, but Zoe and ultrapixels is not what makes the HTC One special.</paragraph>
+			<paragraph>It's good old HTC stuff that works better than ever though. There's the best Super LCD yet, the latest Sense UI, and another wicked unibody. There are stereo front-mounted speakers and for the first time since Sensation XE Beats Audio actually means something. That one came with an actual Beats set, which fetches a hefty price on its own. The HTC One however has some of the best audio quality we've experienced in a phone, matched only by its Butterfly sibling.</paragraph>
+			<paragraph>There's a lot to like about Sense 5 too. The whole OS has been reworked from the ground up. Not only has every icon been refreshed, but the way you use Android has been rethought. Unlike Samsung, who aim to throw as many software features as possible in their handsets , HTC is looking to set itself apart and win you over with simplicity, character and charm. Okay, we're charmed, but let's see what else is out there.</paragraph>
+			<paragraph>The Samsung Galaxy S4 is the pride and joy of the world's Number One smartphone manufacturer. The S4 manages to squeeze a 4.99" FullHD Super AMOLED screen, a 13MP snapper and expandable storage into roughly the same body as the 4.7" HTC One. The Galaxy S4 also comes with either a higher-clocked version of the Snapdragon 600 that powers the One, or the Exynos 5 Octa, which is expected to set new standards in processing power.</paragraph>
+			<paragraph>  Samsung I9500 Galaxy S4 ? Samsung I9505 Galaxy S4</paragraph>
+			<paragraph>The Sony Xperia Z is relishing a head start on the shelves and costs about the same as the HTC One. It has the upper hand in terms of imaging, is dust and water resistant and boasts a larger screen. However the One has a slight edge in terms of processing power, handily beats it at audio and screen quality and generally looks better.</paragraph>
+			<paragraph> Sony Xperia Z</paragraph>
+			<paragraph>There's no shortage of challengers coming from less likely places like the ZTE Grand S, the Oppo Find 5 and Huawei's Ascend D2. All of them have 5" FullHD screens, capable processors, high-megapixel cameras and acceptable price tags. The problem with them is that they're not readily available, so you might need to jump through hoops to get them (if ever).</paragraph>
+			<paragraph>   ZTE Grand S ? Oppo Find 5 ? Huawei Ascend D2</paragraph>
+			<paragraph>Anyway, if less prominent makers are unafraid to match up with the big guns, a lot of people must've been looking to HTC to rise above its usual standards. We think they delivered bang on target in terms of design, screen quality, the custom Android skin and audio.</paragraph>
+			<paragraph>There's no microSD card slot but 32GB of inbuilt storage on the base version (at no extra cost) should make this irrelevant to most users. Zoe and BlinkFeed are nice things to have but they just won't be the phone's key selling points. The 4MP ultra-pixel camera is probably better than any five-megapixel on a phone, but well behind most proper cameraphones. What can't be downplayed though is HTC's determination to bring something new and interesting to the table each time they unveil a new product.</paragraph>
+			<paragraph>The HTC One is just about starting and is yet to have a schedule confirmed on quite a few markets. The Sony Xperia Z has been doing well at the box office for a while now, and Samsung's Galaxy S4 will launch in about a month or so. It's a magnificent trio, which will most likely produce the Android smartphone of the year.</paragraph>
+			<paragraph>We can bet HTC is relishing memories of 2011 and trying hard to forget last year. We think the HTC One is the right phone to help them in that. It is certain to put plenty of pressure on the competition's flagships, just about as much as it's certain to turn heads.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,113 @@
+<review>
+	<title>Sony at IFA 2016</title>
+	<description>Xperia XZ and X Compact hands-on</description>
+	<link>http://www.gsmarena.com/sony_at_ifa_2016-review-1486.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia XZ at a glance<subsectionTitle>
+			<paragraph>5.2" 1080p IPS display, 428ppi</paragraph>
+			<paragraph>Snapdragon 820 chipset: quad-core (2x2.15 + 2x1.6 GHz) Kryo processor, Adreno 530 GPU</paragraph>
+			<paragraph>3GB RAM</paragraph>
+			<paragraph>Up to 32GB of built-in storage, expandable via the microSD card slot by up to 200GB</paragraph>
+			<paragraph>IP65/IP68 certified - dust and water proof up to 1.5 meter and 30 minutes</paragraph>
+			<paragraph>23MP Sony IMX300 camera, 24mm-equiv. f/2.0 lens, laser-assisted and phase-detection autofocus, SteadyShot, LED flash, dedicated hardware shutter key</paragraph>
+			<paragraph>2160p video recording, SteadyShot</paragraph>
+			<paragraph>13MP selfie camera with noise reduction, SteadyShot</paragraph>
+			<paragraph>Stereo speakers</paragraph>
+			<paragraph>2,900mAh battery</paragraph>
+			<paragraph>Qualcomm Quick charge certified, smart charging at night</paragraph>
+			<paragraph>Capless USB Type-C port design in waterproof phones</paragraph>
+			<paragraph>Side-mounted fingerprint sensor in the power button</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia X Compact at a glance<subsectionTitle>
+			<paragraph>4.6" 720p IPS display, 319ppi</paragraph>
+			<paragraph>Snapdragon 650 chipset: hexa-core (2x A72@1.8GHz + 4x A53@1.4 GHz) processor, Adreno 510 GPU</paragraph>
+			<paragraph>3GB RAM</paragraph>
+			<paragraph>Up to 32GB of built-in storage, expandable via the microSD card slot by up to 200GB</paragraph>
+			<paragraph>23MP Sony IMX300 camera, 24mm-equiv. f/2.0 lens, laser-assisted and phase-detection autofocus, SteadyShot, LED flash, dedicated hardware shutter key</paragraph>
+			<paragraph>1080p video recording, SteadyShot with Intelligent Active Mode</paragraph>
+			<paragraph>5MP selfie camera, SteadyShot</paragraph>
+			<paragraph>Stereo speakers</paragraph>
+			<paragraph>2,700mAh battery</paragraph>
+			<paragraph>Qualcomm Quick charge certified, smart charging at night</paragraph>
+			<paragraph>USB Type-C port</paragraph>
+			<paragraph>Side-mounted fingerprint sensor in the power button</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>What makes a great and powerful Xperia smartphone even better? Sony had six months to figure it out and came to IFA with what looks like the answer.</paragraph>
+			<paragraph>Now that the Xperia Z series is put to rest, at least for now, the Xperia X lineup is flourishing. After the flagship Xperia X and X Performance, complimented by the mid-range XA and XA Ultra, two new members are joining the club bringing new features and old traditions.</paragraph>
+			<paragraph>The Sony Xperia XZ is the new headliner with top-of-the-line hardware, a bigger display, a new and improved camera, stunning design, and, of course, water-proofing.</paragraph>
+			<paragraph>The mini flavor is making a comeback with the Xperia X Compact. The X Compact comes with a small 4.6" display, and yet retains the main camera and isn't crippled at all when it comes to performance. Oddly, the new Compact is not protected against water.</paragraph>
+			<paragraph>Both new Xperia phones use the new Sony IMX300 23MP camera sensor with laser-assisted autofocus and retire the microUSB port in favor of USB Type-C. There is one other shared novelty, smart fast charging, which can prolong the battery lifecycle.</paragraph>
+			<paragraph>It's weird to see the water proofing gone from the X Compact, as all other Compacts to date had it as a key feature. But other than that, everything seems in order, and maybe, Sony will make up for this omission with the price.</paragraph>
+			<paragraph>Naturally, we spent some quality time with these Xperia smartphones at IFA and our first impressions are in. Check them out right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia XZ hands-on<subsectionTitle>
+			<paragraph>The Sony Xperia XZ is the flagship that may be a little late but looks capable of calming the fears of crisis. This successor to the Xperia X (XZ may as well stand for X2, doesn't it?) focuses on a few important points: design, performance, camera, and battery life.</paragraph>
+			<paragraph>The updated design called looped surface is definitely consistent with what Sony has been doing lately, yet fresh and elegant. Whether it is a combination of metal and glass, or plastic and glass, the rounded edges that seamlessly connect with the rounded screen and rear do look great.</paragraph>
+			<paragraph>The Xperia XZ is the first to use this new signature design and naturally it had to come with a special signature color, which in the XZ case is Forest Blue. Rumor has it Apple is also ready to make some shade of blue a default paintjob for the iPhone 7, but Sony is the one claiming "first", at least for this year.</paragraph>
+			<paragraph>The XZ flagship has another charm you can experience the moment you touch the device, the ALKALEIDO material. The official statement on this alloy is quite sugar-coated - high brightness and purity, premium shine, depth. Behind the buzzwords, it's a molded piece of aluminum that's very nice to the touch and rather smudge resistant.</paragraph>
+			<paragraph>Sony put a bigger 5.2" IPS display on the Xperia XZ, still 1080p resolution. The screen looks great with wide viewing angles, high contrast, and punchy colors, especially when it comes to browsing multimedia. The bezels are not impressively slim though.</paragraph>
+			<paragraph>Yes, the new design is great and the phone is a pleasure to handle. But there is one thing we would have liked to be better thought out - the back strip at the bottom that covers the antennas. It somehow disturbs the whole seamless design and takes away from its perfection.</paragraph>
+			<paragraph>Specs-wise the Xperia XZ is a flagship by the book - there is a Snapdragon 820 chip with 3GB RAM, top-notch connectivity options, stereo speakers, and 32GB storage with expansion up to 200GB via a microSD card. The new USB Type-C is welcome as its adoption rate is growing stronger, while water-proofing is an Xperia staple revived.</paragraph>
+			<paragraph>One of the highlights of the new Xperia XZ is its main 23MP camera with a f/2.0 lens. It may look the same on specs, but Sony developed a new IMX300 sensor for the XZ and X Compact, which has a new autofocus system.</paragraph>
+			<paragraph>Now the camera uses color detection, phase detection, and laser-assist to measure distance correctly and intelligently track moving objects. This setup is called Triple Image Sensing and should provide always accurate focus for your images and videos.</paragraph>
+			<paragraph>The camera does not feature optical image stabilization - Sony is still on the fence about that. Instead Sony focused on its SteadyShot Intelligent Active Mode which now uses 5-axis gyroscope measurements (accounting for angle, roll, and shift shakes) to stabilize pictures and videos. This mode was also present in the Xperia X and X Performance but it lacked adjustments for shift shake.</paragraph>
+			<paragraph>By popular demand, Sony is adding manual shutter speed control and is bringing back the 4K video and it supports 2x lossless zoom.</paragraph>
+			<paragraph>Sony Xperia XZ does look gorgeous and slimmer than it really is thanks to its curved sides. There's a SIM/SD slot on the left, under a flap, and the three hardware keys on the right - power, volume, camera.</paragraph>
+			<paragraph>The power key also doubles as a very comfortable fingerprint scanner, which we are quite fond of.</paragraph>
+			<paragraph>The back of the silver Xperia XZ is quite unimpressive in terms of looks - the camera, its sensors and a single LED flash are obvious, as is the strip at the bottom hiding the antennas. Those look much better on the Mineral Black and Forest Blue flavors though.</paragraph>
+			<paragraph>Finally, the XZ is powered by a 2,900mAh battery - a subtle upgrade over the X Performance. It is capable of Quick Charge 3.0 but you'll most probably have to buy a Sony fast charger, which is likely not bundled in. The battery also supports adaptive charging called Battery Care (an extension over Qnovo's charge) for prolonging its lifecycle - it learns when you are charging your battery overnight, stops fast charging around 90% and continue to gently charge your battery up to 100% until the morning. In theory this should double its lifecycle.</paragraph>
+			<paragraph>The Xperia XZ will launch in early October and is positioned above the Xperia X Performance meaning the best Sony has to offer. This also means you could expect a price tag north of ?700.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia X Compact hands-on<subsectionTitle>
+			<paragraph>Sony was the standard-setter in compact flagships and it earned itself quite a fan base with this move. And indeed, the first Compact smartphone was a wish come true - the latest flagship chipset, great screen and design, great camera and water-proofing - a no-compromise package behind a small 4.3" screen.</paragraph>
+			<paragraph>Today the Compact lineup is getting a refresh with the Sony Xperia X Compact. It's another mini flagship, but its heritage could send the wrong message, so let's clear some things out first.</paragraph>
+			<paragraph>The Xperia X Compact may share some DNA with the XZ, but it is not a smaller version of the latest flagship. It's exactly what the name suggests - a Compact flavor of the Xperia X. This means we will be getting a mini edition of the Xperia X with the same Snapdragon 650 chipset, the same attention to detail in design, and the same lack of water-proofing.</paragraph>
+			<paragraph>Luckily Sony decided to opt for the new looped design it chose for the Xperia XZ and it suits this small fella even better. Since the Xperia X Compact has to accommodate a rather big battery and powerful hardware inside a small body, the X Compact is rather thick at 9.5mm. But thanks to the rounded profile and screen the phone looks and feels a lot thinner!</paragraph>
+			<paragraph>Sony says the Xperia X Compact body material was ceramic inspired, which is sugar-coating the word plastic. Yes, it's high quality plastic, with great polish and finish that feels premium, but it's plastic. And this has two benefits for the Compact - it's very lightweight and there is no need for an antenna strip at the back.</paragraph>
+			<paragraph>Indeed, the Xperia X Compact has the perfect looped design interruption-free. The premium ceramic-inspired polish, combined with the exquisite shape, put the Xperia X Compact among the better looking smartphones today.</paragraph>
+			<paragraph>Handling the Xperia X Compact is a pleasure, especially for the fans of smaller handsets. The excellent build, beautiful design, pleasant touch, and lightweight construction cement the premium feel coming with the X Compact.</paragraph>
+			<paragraph>The Xperia X Compact is a follow-up on the Xperia X, and it's powered by the Snapdragon 650 chipset with a hexa-core CPU and 3GB of RAM. This SoC put behind a 4.6" 720p display delivers the same performance as a Snapdragon 820 behind a 1080p matrix and that's blazing-fast.</paragraph>
+			<paragraph>The X Compact's 4.6" display may have a lower 720p resolution, but it's still quite a treat with its excellent contrast, viewing angles, and colors. Sony is a great display maker and the X Compact has one of its best pieces. The screen bezels are there, rather big, though.</paragraph>
+			<paragraph>So, the Xperia X Compact borrowed the design from the Xperia XZ, but it isn't the only thing it got from the flagship. It also employs the new main camera with all its goodies - the 23MP Sony IMX300 sensor with Triple Sensing Autofocus (color + phase + laser detection). The SteadyShot Intelligent Active Mode is also available stabilizing the picture by five different axes. The new camera app with manual shutter control is also there.</paragraph>
+			<paragraph>There is no 4K video on the Xperia X Compact and instead of the new 13MP selfie camera, the X Compact features a 5MP front facer.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Other shared specs are the USB Type-C port and the adaptive fast charging overnight - the phone is capable of Quick Charge 2.0, but when left on a cable overnight it will charge the last 10% of your battery gently until morning.</paragraph>
+			<paragraph>There are no surprises around the Xperia X Compact - it's compact alright. The front is mostly screen plus the two speakers, while the back is all one piece, beautiful and unspoiled.</paragraph>
+			<paragraph>The left side has the SIM and SD slots hidden behind a cap, while the right packs the three keys - power, volume, and camera shutter. The power/lock key has an embedded fingerprint sensor, just like most of the new Xperia phones.</paragraph>
+			<paragraph>Sony will be positioning the Xperia X Compact somewhere between the Xperia X Performance and Xperia X, which means the phone will be priced at least ?500. It will launch just days after the IFA expo, so we'll know more about the pricing very soon.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Accessories hands-on<subsectionTitle>
+			<paragraph>Sony Style Cover Touch</paragraph>
+			<paragraph>The first and the coolest new accessory compatible with the new Xperia X additions is the Style Cover Touch. It's a flip case with a transparent front cover that lets you use the display without opening the flip.</paragraph>
+			<paragraph>The cover compliments the unified design with similar shapes, so you won't be losing its coolness.</paragraph>
+			<paragraph>Naturally, there are cuts for the earpiece, the front sensors and camera, and the bottom speaker.</paragraph>
+			<paragraph>Sony Style Cover Stand</paragraph>
+			<paragraph>The Sony Style Cover Stand is rather self-explanatory. It's a flip case which also transforms into a stand. It also follows the unified design and is made of premium and soft material.</paragraph>
+			<paragraph>The case has a magnetic tag which unlocks/locks the screen on each flip.</paragraph>
+			<paragraph>Other</paragraph>
+			<paragraph>These two Sony smartphones are compatible with Sony's Charging Dock and the existing regular and fast charger plugs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>Sony introduced two new smartphones to the X series and they are as great as advertised. Both X devices offer great looks, solid performance and capable imagers. They were thoughtfully developed with the users' needs in mind.</paragraph>
+			<paragraph>The Xperia XZ is a great flagship capable of everything a modern powerhouse should do. It doesn't offer a Quad HD screen, which cuts its VR capabilities short, but Sony isn't focusing on the mobile VR yet (it's busy with the PlayStation).</paragraph>
+			<paragraph>The new design of the XZ is appreciated and the effort put in the camera department seems huge. We can't wait to get a retail unit in October and take it for a spin outside. Definitely near water. Or maybe on a rainy day in fall.</paragraph>
+			<paragraph>Then there is the Xperia X Compact, which seemed a bit crippled at first with the lack of water-proofing, but then everything seems to make sense with this phone. It's a mini flavor of the Xperia X, borrowing the new design and connectivity port from the XZ.</paragraph>
+			<paragraph>The only issues on the horizon are related to the pricing - Sony seems to want above ?700 for the Xperia XZ and ?500 for the Xperia X Compact. And there are more capable phones in these brackets out there that Sony seems to have been ignoring for quite a while.</paragraph>
+			<paragraph>Still, we are yet to see those beasts in action, and whatever the pricing, we are sure the fans will appreciate Sony's effort.</paragraph>
+		</subsection>
+	</page>
+</review>

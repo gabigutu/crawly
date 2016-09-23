@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Mingus Ah Um</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1959</year>
+	<link>http://www.senscritique.com/album/Mingus_Ah_Um/5849623</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>17</numberOfVoters>
+		<numberOfVoters>94</numberOfVoters>
+		<numberOfVoters>251</numberOfVoters>
+		<numberOfVoters>199</numberOfVoters>
+		<numberOfVoters>69</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Un pur bijou.</title>
+		<author>Horsuj</author>
+		<date>2012-11-07</date>
+		<score>1.0</score>
+		<content>Cet album est l'un des meilleurs qu'il m'ait été donné d'écouter, tous styles confondus. Mingus touche à tout, lorgne vers le bop, le free, le new orleans.. tout en gardant sa (grosse) patte. Les arrangements sont grandioses, les sieurs Ervin et Handy (sax) mettent une énorme baffe, et la section rythmique composée de Dannie Richmond (d) et bien évidemment de Charles Mingus (cb), drive à en décorner les boeufs. Mention spéciale à Boogie Stop Shuffle, qui donne de folles envies de braquage de banque (si si).</content>
+	</review>
+	<review>
+		<title>Enchanté</title>
+		<author>MathieuCan</author>
+		<date>2015-04-14</date>
+		<score>0.8</score>
+		<content>Entre la naissance du Bebop et l'introduction du Free Jazz, cet album est à la fois vivant et technique, sautillant et intense, jouissif et intelligent. Un excellent moment de détente tout en restant original. Bref, pas besoin de s'étaler pendant des plombes sur le sujet, c'est du tout bon à découvrir obligatoirement</content>
+	</review>
+	<review>
+		<title>Eeeeeeeh</title>
+		<author>Positron</author>
+		<date>2016-01-22</date>
+		<score>0.7</score>
+		<content>J'ai pas trop compris pourquoi mais il se passe pas la même chose que quand j'écoute Blues & Roots, peut-être la durée ou le manque d'un titre plus catchy qui m'oblige à repasser l'album en boucle ( c'était moanin' sur Blues & roots ). Je vais lui laisser un peu de temps pour décanter je pense que c'est un disque qui en a besoin et puis ne nous fourvoyons pas c'est quand même de la très bonne came jouée par des très bon musiciens.</content>
+	</review>
+</sensCritiqueEntity>

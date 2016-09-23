@@ -1,0 +1,49 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Animal</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Animal/21298039</link>
+	<generalScore>6.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>38</numberOfVoters>
+		<numberOfVoters>79</numberOfVoters>
+		<numberOfVoters>175</numberOfVoters>
+		<numberOfVoters>117</numberOfVoters>
+		<numberOfVoters>37</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Pour un peu mieux rêver.</title>
+		<author>Mthlde</author>
+		<date>2016-06-06</date>
+		<score>0.9</score>
+		<content>Je ne pouvais qu'être conquise par cet album et ce vent de fraîcheur qu'il apporte dans le monde de la musique. J'adore Fakear depuis ses débuts: ce jeune artiste français qui au travers de chacune de ses créations me permet de rêver un peu plus. Finalement, en l'écoutant, je retrouve dans cet album une certaine beauté attendrissante. J'ai presque l'impression d'avoir toujours connu Fakear, de me retrouver à ses côtés l'espace d'un instant, tant il y a quelque chose de touchant dans sa musique. Quelque chose de vrai, de réellement apaisant, que j'aurais presque l'impression de sentir sous mes doigts ou s'enlacer autour de moi. Et c'est avec joie que j'ai accueilli chacun des sons qu'il ne nous avait pas encore fait découvrir. Il est vrai que quelques mois plus tôt, « Silver » m'avait déjà conquise. Ce morceau aux sonorités quasi-divines, couplé à la voix de Rae Morris, me donnait l'impression de pouvoir affronter chaque nouvelle journée sans peur. « Ankara », aux allures désinvoltes et rafraichissantes, dévoilé il y a de ça quelques jours, me faisait aussi la promesse d'un album peaufiné à la perfection. Ainsi, le reste de l'album forme un tout cohérent, et riche en sensations, qui avec la même ardeur, m'offre une nouvelle ouverture sur le monde. Enfin, le dernier morceau, « Song For Jo » représente mon gros coup de cœur émotionnel: je commence déjà facilement à l'écouter en boucle. (Johanne / Jo étant sa copine, je suppose que ce morceau célèbre l'amour ; et même s'il ne célèbre peut-être pas l'amour, je trouve qu'il correspond follement bien au sentiment amoureux..). De manière générale, Fakear revient avec un premier album convaincant, dont chaque morceau porte en lui une signature unique ; tout en représentant l'univers si original et propre à Fakear lui-même. Comme souvent, la musique électronique a le pouvoir de me faire voyager. Mais cet album, en plus de faire palpiter mon imagination, indéniablement, fait émerger en moi un sentiment d'espérance inexplicable. Un peu comme les chansons de Lana Del Rey me rendent nostalgique d'instants que je n'ai jamais vécu ; la musique de Fakear fait naître en moi l'espoir que je croyais perdu.</content>
+	</review>
+	<review>
+		<title>Des nappes sonores organiques et voyageuses...</title>
+		<author>Gåtn Mrtn</author>
+		<date>2016-06-03</date>
+		<score>0.9</score>
+		<content>Après avoir teasé quelques extraits depuis quelques mois : "Animal", "Sheer-Khan", "De la Luz", "Silver" et sans oublier "Ankara" il y a seulement quelques jours, nous sommes le 3 juin et l'album est là. Théo Le Vigoureux alias Fakear, cet album me fait voyager. Des nappes sonores tellement envoutantes, organiques et voyageuses. Des influences multiculturelles et multiethniques évoquent le pays du soleil levant. Je retrouve Bonobo dans cette musique, le producteur anglais du label Ninja Tune. Mais Fakear avec ce travail de rythmique, il me scotche à chaque fois. Le titre "Le Chant du monde" whaoooouuuu</content>
+	</review>
+	<review>
+		<title>Fakear - Animal</title>
+		<author>Sarah M</author>
+		<date>2016-09-11</date>
+		<score>0.5</score>
+		<content>1 - La lune rousse. 2 - Silver ( mention Rae Morris ♡ ) 3 - Sheer-Khan</content>
+	</review>
+	<review>
+		<title>Animal</title>
+		<author>ArthurPik</author>
+		<date>2016-06-10</date>
+		<score>0.8</score>
+		<content>Les différents ep de Fakear laissaient présager un avenir radieux. Celui ci commence maintenant avec l'album "Animal" On y retrouve la lune rousse titre emblématique de fakear. Mais l'album complet est une initiation au voyage, une ambiance lunaire, asiatique, chaleureuse, on bouge, on hoche la tête lentement, une ambiance lounge et dansante à la fois, un your de force pour un artiste qui a définit son propre son et que l on reconnaît entre mille. Même lors de ses collaborations ( rae Morris sur silver) l'artiste propose son electro ambiante en fond, portée par ses chœurs sortis de Bollywood. Un album enchanteur, pour un français qui ne cesse de progresser.</content>
+	</review>
+</sensCritiqueEntity>

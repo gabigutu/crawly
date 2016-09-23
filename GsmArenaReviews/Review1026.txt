@@ -1,0 +1,74 @@
+<review>
+	<title>Nokia Lumia 720, Lumia 520, 301, 105 hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/nokia_mwc_2013-review-897.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Nokia?s event at the MWC pulled the curtain on two new Lumias and two new S40 phones. The Lumia 720 and 520 are playing for the Windows Phone team, while 301 and 105 are affordable handsets for emerging markets.</paragraph>
+			<paragraph>If you?ve been following the leaks from the last couple of days, then you?ve already seen the two Lumias. The Lumia 720 is the 820?s younger brother, but it?s got bright eyes ? literally, it?s the first phone with an F/1.9 camera aperture.</paragraph>
+			<paragraph>The Lumia 520, meanwhile, aims for the market segment currently dominated by cheap Androids.</paragraph>
+			<paragraph>Then there are the two feature phones ? the 105 and 301. The Nokia 105 is noteworthy in that it costs only ?15 and is splash and dust resistant, well the keyboard is anyway. The Nokia 301 is pricier, but brings dual-SIM and 3G connectivity to the table, plus camera features inspired by Windows Phone 8?s Lenses.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 720 hands-on<subsectionTitle>
+			<paragraph>We quite liked the Nokia Lumia 820, but we have to admit we love the 720. It's thinner and lighter, but with a bigger battery, the 4.3" WVGA display is nicely curved and the camera sounds more exciting than the run-of-the-mill shooter the 820 got.</paragraph>
+			<paragraph>The Lumia 720 features a 4.3" WVGA display with Nokia's ClearBlack technology and Gorilla Glass 2 protection. It differs from the 820 screen on two points - it's a TFT screen (not AMOLED) and it's curved.</paragraph>
+			<paragraph>The contrast is obviously no match for AMOLED, but the screen is pretty good nonetheless. It's got wide viewing angles and the ClearBlack tech keeps the reflectivity low. We also like the curved glass, moving through the Windows Phone interface usually involves a lot of sideways swipes.</paragraph>
+			<paragraph>WVGA resolution (480 x 800) breaks down to 217ppi, which doesn't sound particularly exciting, but it's hard to expect a lot better for the asking price.</paragraph>
+			<paragraph>The screen borrows a page from the 920's playbook - it works with gloves and nails.</paragraph>
+			<paragraph>Now let's go around the back and look at the 6.7MP camera. The resolution might sound strange at first, that's how much you get in 16:9 mode from Nokia's "8MP" cameras (which actually have an 8.7MP sensor). It's just that the 4:3 section of the sensor on the Lumia 720 is missing.</paragraph>
+			<paragraph>Here are a couple of samples taken from the 720's camera.</paragraph>
+			<paragraph>The Lumia 720 camera uses a Carl Zeiss lens and is the first to feature a fast F/1.9 aperture for better low-light performance. It's not optically stabilized as the 920 camera, but Nokia are promising good low-light shots thanks to some clever image processing.</paragraph>
+			<paragraph>Nokia included their exclusive Lenses - Cinemagraph (it creates animated GIF), Smart Shoot (Scalado tech) and the brand new Glam Me for portrait shots with the 1.3MP front-facing camera.</paragraph>
+			<paragraph>The back of the 720 is nice to the touch, but you're not stuck with it - the back cover is exchangeable (just like on the 820) and there's a cover that enables wireless charging (that's where the three pogo pins on the back come into play). The shells are made of polycarbonate.</paragraph>
+			<paragraph>Before we forget, the Lumia 720 has a 2,000mAh battery - a respectable number for a 4.3" phone and 350mAh more than the capacity of the thicker Lumia 820.</paragraph>
+			<paragraph>The Lumia 720 is powered by Windows Phone 8 and features Nokia's exclusive stuff (besides the Lens). That's the HERE maps and Nokia Mix Radio too. The WP8 Store is growing too, it's currently at 130K apps, Nokia pointed out.</paragraph>
+			<paragraph>We also shot a quick video of the phone's user interface. Check it out below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We're just not 100% sure about the 1GHz dual-core Krait processor. The interface ran smoothly, and Adreno 305 is very close in terms of performance to the 225, but it has potential for fragmentation down the line. That is, the chipset is close in terms of performance to the 820, 920 and other WP8 phones, but it's not the same. This means developers have two different hardware targets (not counting the WP7.8 branch).</paragraph>
+			<paragraph>The Nokia Lumia 720 features 8GB of built-in storage, which you can expand with a microSD card (of up to 64GB). That's great, but what we're not big fans of is that you have to use an ejector tool to swap it, just like a SIM card. The free 7GB at SkyDrive deal is in place too.</paragraph>
+			<paragraph>The Nokia Lumia 720 is the first Windows Phone handset from Nokia to hit the 9mm thickness mark and at 128g it feels great in the hand. Better than the 820, which was on the heavy side (160g).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 520 hands-on<subsectionTitle>
+			<paragraph>The Nokia Lumia 520 is the most affordable Windows Phone 8 handset from the Finns, yes even below the 620. Despite the lower price point, the Lumia 520 is actually slightly better than the 620, at least on paper.</paragraph>
+			<paragraph>It has a 4" IPS LCD screen of WVGA resolution (up from 3.8" WVGA for the 620). The screen image quality, however, is worse than that of the 620, especially in terms of viewing angles (so much for IPS).</paragraph>
+			<paragraph>The Lumia 520 is actually a millimeter thinner than the 620, it's the same thickness as the 820. The curved back helps mask some of the thickness. Speaking of the back, it features exchangeable covers, but there's no wireless charging option.</paragraph>
+			<paragraph>The battery inside the phone has 1,430mAh capacity, which isn't all that much, but it's still more than what the 620 has (and only 220mAh lower than the 820 battery capacity).</paragraph>
+			<paragraph>There's more good news - the storage is 8GB by default, but you can put in a microSD card (up to 64GB) when you run out. So, Nokia didn't cut any corners here.</paragraph>
+			<paragraph>The camera specs are pretty good too - you get a 5MP camera with 720p video recording. The front-facing camera from the Lumia 620 has been dropped, but other than that you get the same camera experience (with all the Lens except Glam Me) for less money.</paragraph>
+			<paragraph>The Nokia Lumia 520 is powered by a dual-core Krait processor at 1GHz, but it only has 512MB of RAM to work with (not 1GB like the higher-end models do). You shouldn't have compatibility issues with the 130K apps in the Windows Phone Store, at least not for now. There's no telling what will happen in a year though, 512MB might prove to be as limiting then as 256MB is now.</paragraph>
+			<paragraph>We also shot a quick video of the phone's user interface. Check it out below.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Shells<subsectionTitle>
+			<paragraph>Bright colors are becoming a sort of trademark for Nokia phones and the Lumia 720 and 520 have exchangeable back covers, so you can always change things up later. The Nokia Lumia 720 can get an extra feature if you get the appropriate cover too - wireless charging (just like the Lumia 820).</paragraph>
+			<paragraph>Here are a couple of shots of the color variety that Nokia offers. You can tell the covers apart by looking for a circular hole in the lower-left corner - that's for the loudspeaker of the 720, the 520 has a smaller loudspeaker grill on the right.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia 301 hands-on<subsectionTitle>
+			<paragraph>The Nokia 301 follows-up on the 206. In fact, the two devices are quite similar, except for some slightly more advanced features on the 301.</paragraph>
+			<paragraph>The phone is solidly built and feels nice in the hand. The 2.4? QVGA screen is nothing spectacular, though we?re probably just spoiled by all the eye-popping smartphone screens on display today.</paragraph>
+			<paragraph>Nokia pays a lot of attention to the cameras on its Lumia phones, but the Nokia 301 got some of that love too. Its 3.2MP camera has a Panorama feature and a sequential shot feature, which snaps multiple photos and lets you pick the best one (it tries to imitate the Smart Shot Lens on the Lumias).</paragraph>
+			<paragraph>There?s also a feature that helps you frame a self-portrait by using voice prompts to guide you. That?s nice since self-portraits can be awkward without a front-facing cameras (whatever happened to the little mirrors next to the camera, anyway?).</paragraph>
+			<paragraph>Anyway, the 301 tries to live up to smartphone expectations in the connectivity department too. It has 3.5G data connectivity and a Nokia Xpress Browser, which uses compression to reduce data traffic, just like the Windows Phone app by the same name (and Opera Mini before it).</paragraph>
+			<paragraph>The phone features Facebook, Twitter, WhatsApp and eBuddy integration and Slam ? an easy way to share files between two phones that don?t have NFC.</paragraph>
+			<paragraph>The Nokia 301 comes in single and dual-SIM versions and both feature HD Voice for better audio during voice calls. The second SIM card on the dual-SIM version of the phone is side-mounted and hot-swappable, the familiar neat solution by the Finns. There's a microSD card slot on the other side.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia 105 hands-on<subsectionTitle>
+			<paragraph>Nokia caters to emerging markets with phones on an absolute shoe-string budget. The Nokia 105 is priced at &#x20ac;15 ($20, three cups of Starbucks, whatever you want to call it) ? the cheapest in the company?s current range.</paragraph>
+			<paragraph>So cheap that it leaves no room for phones with monochrome screens, Nokia will not be making any more of those. The 105 itself has a 1.45? color TFT screen.</paragraph>
+			<paragraph>The phone will come in Black and Cyan color versions, we got to meet the Cyan one.</paragraph>
+			<paragraph>Other features include a flashlight, FM radio and a standby time of over a month. Just don?t buy into the dust and splash proof claims ? it turns out those are about just the keyboard. So, that turned out to be just a PR thing, but still the phone feels sturdy and should be able to take a few knocks.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,395 @@
+<review>
+	<title>BlackBerry Q10 review</title>
+	<description>There and back again</description>
+	<link>http://www.gsmarena.com/blackberry_q10-review-933.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Four-row hardware QWERTY keyboard</paragraph>
+			<paragraph>Quad-band GSM/GPRS/EDGE, tri/quad-band UMTS/HSPA, 100 Mbps LTE</paragraph>
+			<paragraph>3.1" 16M-color 720p (720 x 720 pixels) Super AMOLED capacitive touchscreen</paragraph>
+			<paragraph>Dual-core 1.5 GHz Krait, 2GB RAM, Adreno 225 (LTE version) /Dual-core 1.5 GHz ARM Cortex-A9, 2GB RAM, PowerVR SGX544 (non-LTE)</paragraph>
+			<paragraph>BlackBerry 10.1 OS; Office document editor</paragraph>
+			<paragraph>BlackBerry Hub is a unified inbox of all your communication and social networking accounts</paragraph>
+			<paragraph>BBM with video chat and screen sharing</paragraph>
+			<paragraph>Impressively good 8 MP auto-focus camera with face detection and Time Shift; LED flash</paragraph>
+			<paragraph>Full HD (1080p) video recording at 30fps; 720p on the front-facing camera</paragraph>
+			<paragraph>2MP front facing camera</paragraph>
+			<paragraph>16GB of storage, microSD card slot; Dropbox and Box.NET integration</paragraph>
+			<paragraph>Wi-Fi a/b/g/n, Wi-Fi hotspot; Wi-Fi sync</paragraph>
+			<paragraph>Bluetooth 4.0</paragraph>
+			<paragraph>NFC</paragraph>
+			<paragraph>standard microUSB port, microHDMI</paragraph>
+			<paragraph>3.5mm audio jack</paragraph>
+			<paragraph>GPS receiver with A-GPS</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Brand new UI has a steep learning curve</paragraph>
+			<paragraph>BlackBerry Maps may be even worse than Apple Maps</paragraph>
+			<paragraph>No FM radio</paragraph>
+			<paragraph>BlackBerry World is still missing key apps</paragraph>
+			<paragraph>Screen size is too small by today's standards and the 1:1 aspect is awkward for video watching</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Some revolutions end in triumph, others in tyranny. It's a walk on the edge of a blade between glory and the guillotine. And BlackBerry has had its share of revolutions - the most recent ones being the rebranding and the OS gone touch-only two iterations ago. The Z10, powered by the gesture-heavy BB10 OS, was... is... a revolution of sorts, too.</paragraph>
+			<paragraph>Next thing you know, it's business as usual over at BlackBerry. They're back to what they do best. The revolution is over and the message is out. There couldn't have been a better messenger either. Not a QWERTY messenger that we can think of, anyway.</paragraph>
+			<paragraph>Oh well, the BlackBerry Q10 sees the Canadians back to business but the business isn't what it used to be. That said, the time-tested form factor isn't a simple copy-paste job. In fact, getting rid of the trackpad and call keys is nothing short of a revolutionary change.</paragraph>
+			<paragraph>The swipe-driven BB10 OS provides plenty of new, exciting ways of interacting with the device, while keyboard shortcuts and Instant Actions will add extra speed and flexibility but, considering the Q10 is a phone for loyal BlackBerry users, old habits will have to be broken. Here's what they'll be getting in return with the BlackBerry Q10.</paragraph>
+			<paragraph>The BlackBerry Q10 isn't as powerful as the full-touch BlackBerry Z10, and it doesn't need to be. The Q10 features an energy-efficient 3.1" Super AMOLED display at 720 x 720 pixels, which won't put a massive strain on the GPU either. AMOLED technology debuts on a BlackBerry phone, with its top-notch contrast and outdoor legibility. At 720 x 720 pixels, it boasts the seriously good 328ppi - not as impressive as Full-HD screens but well into Retina territory.</paragraph>
+			<paragraph>The BlackBerry 10 OS is a brand new platform and even though the 10.1 update brought some welcome additions, it is still an infant OS that needs polishing. BlackBerry is already working on the 10.2 update, with more major revisions to follow. Maps will only get better we hope and the app repository will surely expand with more content.</paragraph>
+			<paragraph>The future-proofing of the Q10 should be less of an issue for BlackBerry though - they may be losing market share but there must still be enough users who will see the Q10 as the ultimate upgrade. It's the future of the entire messenger concept that's more in question. Let's see what the BlackBerry Q10 can do about that.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the BlackBerry Q10<subsectionTitle>
+			<paragraph>Our BlackBerry Q10 came with just the essential accessories - an A/C Adapter, a USB cable, and an in-ear headset with some oddly-shaped earbuds of varying size.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BlackBerry Q10 360 degree-spin<subsectionTitle>
+			<paragraph>While the Z10 was intentionally a decisive departure from the designs of old, the BlackBerry Q10 is clearly the product of a company that values tradition. Being the successor of the BlackBerry Bold Touch 9900, the Q10 has nearly the same footprint at 119.6 x 66.8 x 10.4 mm and weighs just 9g more - the perfectly manageable yet reassuringly solid 139 grams.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design, build quality and handling<subsectionTitle>
+			<paragraph>It is an instantly recognizable BlackBerry handset and this has nothing to do with the fact that there's virtually no meaningful competition in the QWERTY messenger class. Getting rid of the trackpad and hardware call keys must've been a move radical enough, leaving no room for further experiments with the design. There're just improvements fans will mostly approve of.</paragraph>
+			<paragraph>The Bold Touch 9900 was the first BlackBerry to sport a touchscreen above the full QWERTY keyboard. That one had use for the trackpad but the completely redesigned OS does well without it. By the way, the full keyboard is put to good use with a number of useful shortcuts that should be familiar to experienced BlackBerry users.</paragraph>
+			<paragraph>Actually, a big part of the BBS OS 10.1, which comes stock on the Q10 was about making it compatible with keyboard input - that and the addition of Instant Actions to the universal search.</paragraph>
+			<paragraph>Anyway, there are other design choices than the missing trackpad that set the BlackBerry Q10 apart from its predecessors. The metal frame running all around the chassis is gone - that's one accent less for an understated but altogether more compelling look. Overall, the Q10 is betting on cleaner lines and more simplified styling.</paragraph>
+			<paragraph>The QWERTY keyboard now has perfectly straight lines. The back panel is a single piece of some sort of composite material, developed by BlackBerry engineers. It has an extra pleasant rubbery finish, as opposed to a similarly looking carbon fibre inset in the Bold Touch 9900, which was at odds with the surrounding material.</paragraph>
+			<paragraph>The phone's back is nicely curved for comfortable handling. The finish is as good as immune against fingerprints and provides for a great, secure grip. It is an excellently built device and the overall feel is one of conservative comfort rather than intrusive luxury.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>At first sight, the QWERTY keyboard is the trademark BlackBerry setup, with keys ergonomically sculpted for great tactility, although crammed up a bit too tightly. The keyboard layout, including the numpad and the secondary functionality is generally the same as in previous BlackBerries.</paragraph>
+			<paragraph>The rows of buttons have been straightened out - a styling that kinda reminds us of the Porsche redesign of the Bold Touch 9900. This time around, the absence of a trackpad and navigation controls was what dictated the design decision.</paragraph>
+			<paragraph>The traditionally curved rows of buttons would've left an unpleasant amount of unused space between the QWERTY keyboard and the screen. Though in hindsight, it may've made sense, allowing a proper starting point for swiping up from the bottom of the screen.</paragraph>
+			<paragraph>As things stand now, the swipes need to start at the top keyboard row, which results in occasional unwanted key presses. It's not terribly annoying though and nothing that cannot be mastered with some practice.</paragraph>
+			<paragraph>The best thing about the keyboard is that it works with the touchscreen, rather than being at odds with it. With plenty of shortcuts available, some of which should be familiar to experienced users, the keyboard can seriously speed up getting around the interface.</paragraph>
+			<paragraph>Instant Actions makes the right kind of difference too, letting you launch apps and perform tasks using search as you type interface. But more on that in the software part of this review.</paragraph>
+			<paragraph>Now let's explore the rest of the BlackBerry Q10 controls. Above the screen, we find the traditional notification LED, proximity sensor and the earpiece. The front facing camera is a first for BlackBerry in the messenger form factor. The one on the Q10 is a 2MP unit that can do 720p video.</paragraph>
+			<paragraph>The left side of the handset is in charge of connectivity, with standard microUSB and microHDMI ports.</paragraph>
+			<paragraph>The right side of the BlackBerry Q10 features the volume controls, with a small pause/mute button squeezed in between. The convenience key, another token of the old days, is gone along with the trackpad and call buttons.</paragraph>
+			<paragraph>The 3.5mm audio port and the power/lock key occupy the top of the BlackBerry Q10.</paragraph>
+			<paragraph>The bottom houses the loudspeaker grille and the mouthpiece. It's an unusual position for a speaker but one that makes sure you doesn't get muffled when the phone's resting on its back.</paragraph>
+			<paragraph>The 8 megapixel camera lens and a LED flash are the main attraction at the back.</paragraph>
+			<paragraph>Removing the battery cover grants access to the hot-swappable microSD slot, while the micro SIM compartment is only reachable after you've taken out the battery.</paragraph>
+			<paragraph>The NFC module is integrated within the battery cover.</paragraph>
+			<paragraph>The BlackBerry Q10 scored a 56-hour endurance rating, which is quite impressive considering it just has a 2100 mAh battery to rely on. The small and energy-efficient Super AMOLED screen must be getting part of the credit for the solid performance. Find the complete breakdown here.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The BlackBerry Q10 uses a 3.1" Super AMOLED screen of 720p resolution (720 x 720 pixels). The pixel density clocks in at 328 ppi, which is slightly higher than the Galaxy SIII's screen and about the same as the iPhone 4S/5's Retina display.</paragraph>
+			<paragraph>Colors are punchy, blacks are the usual AMOLED deep and the screen is viewed comfortably at even wide angles.</paragraph>
+			<paragraph>Sunlight legibility is quite good too, as testified by the BlackBerry Q10's performance in our dedicated test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gesture-based BlackBerry OS 10.1<subsectionTitle>
+			<paragraph>We already met the new BlackBerry 10 OS when we reviewed the BlackBerry Z10. The BlackBerry Q10 comes with the latest 10.1 OS version that was made available recently for the Z10 as an update. Unlike the Z10 however, the interface here is all black. That's BlackBerry's way of trying to lower power consumption on the AMOLED screen. That's a thing with AMOLED screens - just on the contrary to LCD screens, these consume the least power when displaying a black image and the most - with a white image.</paragraph>
+			<paragraph>The 10.1 version brings along various optimizations, as well as a bunch of new features - HDR stills, PIN-to-PIN messaging, customizable notifications, click a number to call, Instant Actions in the Universal Search app, etc.</paragraph>
+			<paragraph>We'll cover the whole BlackBerry 10.1 OS ticking inside the Q10 smartphone, so don't you worry if you still haven't caught up with the Canadian's OS.</paragraph>
+			<paragraph>In terms of inspiration, the new BB OS feels like it has incorporated bits and pieces of WebOS and Meego - swipes and backgrounding - but also Android (some contextual menus) and iPhone (the rich elaborate graphics). Only the icon design and some deeper system menus allow but a mere glimpse into the BlackBerry of old. Not that the comfort of loyal users was of utmost importance. You just can't expect to feel right at home in an OS that skips from v7 straight to v10, right?</paragraph>
+			<paragraph>Let's not rush it then - check out the BB 10 in action running on the Q10 here:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>It takes a swipe up from the bottom of the screen to unlock the Q10 (it's important to note that swipes start off the screen). Interestingly, a single swipe will unlock the phone even if the screen is off. It's a unique feature - no need to wake up the device first.</paragraph>
+			<paragraph>It's up to you to decide whether you just want to check out notifications on the lockscreen, without unlocking the phone, or unlock the device and go straight to what you were doing. A short swipe is the Blackberry equivalent of Meego's double-tap-to-wake-up. A longer swipe will unlock - and it's not too hard to get the hang of it. The Power/Lock key can be used as well of course.</paragraph>
+			<paragraph>The lockscreen itself shows a good deal of info - the time and date, the next event in your calendar, message counters and there's a camera shortcut. A swipe down from the top launches a dim, red clock - great in the dark since it doesn't hurt your eyes with bright light. A tap on the screen brings up the option to set an alarm.</paragraph>
+			<paragraph>The BlackBerry 10 homescreen consists of multiple panes, two of which have a special purpose.</paragraph>
+			<paragraph>The app drawer takes up most of the homescreen panes - it's a paged grid of shortcuts of all installed apps. A long press on an icon starts edit mode, which lets you rearrange icons and uninstall apps with a single tap (deleting obviously works only for non-system apps).</paragraph>
+			<paragraph>By the way, on the homescreen you can initiate a search by just typing something on your keyboard.</paragraph>
+			<paragraph>Once you have at least one app running a special pane appears to the left of the app drawer panes. It holds up to eight "active frames" (similar to the Web OS cards), each of which is (typically) a thumbnail of a running app. Not all frames are just a downsized screenshot of the app, some switch to something more informative. For example, the Phone app switches to a list of recent calls, which is big enough to read comfortably.</paragraph>
+			<paragraph>Frames are arranged chronologically and have a small x button when you don't need them any longer.</paragraph>
+			<paragraph>Switching between apps is done with the same swipe up gesture used for unlocking the phone. No matter where you are in the interface, it will bring you to the task switcher page. One thing to note here is that as you swipe up and the current app is pushed into the background, a message counters appear on the left of the screen, showing unread message count for the various messaging services you have setup on the Q10.</paragraph>
+			<paragraph>This is Peek - named that because it lets you check new incoming messages with minimum interruption. If the message doesn't seem important, you can bring your finger back down and you will return to the current app.</paragraph>
+			<paragraph>If just the message source isn't enough to tell whether it is important enough, you can continue swiping to the right. This continuous L-shaped swipe (up, then right) will push the current screen off to the side, revealing BlackBerry Hub. This is BlackBerry 10 new unified inbox, which contains all your messages from all email and social network accounts.</paragraph>
+			<paragraph>Releasing your finger you'll drop you into the Hub to read the message, or you can just reverse the gesture and go back to working within the current app.</paragraph>
+			<paragraph>The BlackBerry Hub is always the leftmost pane on the homescreen and can be accessed either by the swipe up then right gesture or by tapping the small indicators at the bottom of the screen. Those immediately take you to the respective pane. You can swipe your finger over them to quickly scroll through all homescreen panes if you're not sure where to find the thing you're looking for.</paragraph>
+			<paragraph>We'll get back to Hub in a moment - it's the heart of BlackBerry 10 and perhaps the strongest weapon against competing OSes.</paragraph>
+			<paragraph>There's one more important swipe gesture that will come in use often - a swipe from the top. This has two functions. On the homescreen it brings out a dropdown, hosting all sorts of quick toggles (Settings, Rotation lock, Bluetooth, Wi-Fi, Alarm and Notifications). When you are in an app, it brings out an app-specific list of options (think Menu key in Android).</paragraph>
+			<paragraph>That's a handy way to replace a dedicated Menu button, though things are a bit inconsistent and some apps do have a menu button in the bottom right corner of the screen. Another issue is that quick toggles are only accessible on the homescreen, so you have to exit the current app if you want to switch Wi-Fi on, for example. This defeats the purpose of quick toggles.</paragraph>
+			<paragraph>The BlackBerry 10.1 update allows to customize the notifications for each app - you can set the tone, switch vibration and the LED alerts on/off based on the account.</paragraph>
+			<paragraph>The BlackBerry Q10 packs a dual-core Krait processor and 2GB of RAM. The BB 10 OS has been tailor-made for this hardware (or vice-versa) and everything is fast and fluid.</paragraph>
+			<paragraph>The 3.1" screen is very responsive and doesn't miss taps.</paragraph>
+			<paragraph>Once you get used to all the swipe gestures, BB 10 OS can be fast to operate, but the problem is getting there in the first place. It's a problem we think Windows 8 has too - without an obvious UI element (e.g. a button), a user will have to interact with invisible things that only come into the open when you do the right gesture. BlackBerry will have a hard task of educating its users about these not-so-obvious gestures.</paragraph>
+			<paragraph>If the swipe down for quick toggles -or- app options (which may be elsewhere) wasn't confusing enough, the Hub makes it even more confusing. But we'll get to that later on in the Messaging section.</paragraph>
+			<paragraph>On the positive side, once we got used to those, the gestures get pretty intuitive. So much so in fact that we found ourselves swiping up on other phones, too.</paragraph>
+			<paragraph>But the OS does not yet feel like a perfectly polished product - we had several cases of the calendar or camera crashing, other apps had some issues too. And while most of the time the interface is buttery smooth, there are occasional lags. And don't get us started on BlackBerry Link, the PC suite. It's highly annoying.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BlackBerry Balance for corporate users<subsectionTitle>
+			<paragraph>BlackBerry Balance requires BlackBerry Enterprise Services to run, but once enabled it will split the apps on the phone into two - personal and work apps. Files created within work apps are secured by AES256 encryption and are not accessible from personal apps.</paragraph>
+			<paragraph>Switching between work and personal apps is done by swiping down in the app drawer and picking one of the two modes. The separation between work and personal files however means that you might have to download apps twice if you want to use them both for work and play.</paragraph>
+			<paragraph>If you're using your own personal BlackBerry Q10 for work, the IT department can set up what apps will install automatically on the device and what email accounts will be added. They can remotely wipe the work data in Balance too (when you quit or lose your phone), but personal data remains intact.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Voice commands<subsectionTitle>
+			<paragraph>Voice commands are all the rage these days - everybody's got them, including BlackBerry. It's not a character like Siri or smart like Google Voice Search, but the Voice Command app on the BlackBerry Q10 is still fairly usable.</paragraph>
+			<paragraph>You can ask it to call someone, send them an email or text or BBM, schedule an appointment or leave yourself a note. Other options include searching the phone or the Internet and you can update your social networking accounts too - tweet, post a new Facebook status or LinkedIn status.</paragraph>
+			<paragraph>The app cannot answer questions and it can't tell jokes, which are two of the most commonly used extra features of voice assistants. More importantly, it can't change settings (like toggling Wi-Fi on/off) or launch apps (there isn't even any integration with the native BB10 maps application).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>BlackBerry Hub<subsectionTitle>
+			<paragraph>BlackBerries were the phone of choice for business users and they have to deal with tons of messages - so the interface has to be very efficient. And the new BlackBerry Hub is as efficient as they come. Perhaps only Windows Phone is close when it comes to unified messaging.</paragraph>
+			<paragraph>The Hub is pretty simple at first glance - a list of messages with an icon that indicates the service (SMS, BBM, email, Twitter or Facebook, PIN, but also calls and voicemails) and also flags messages read or unread (color icons are for unread messages, monochrome icons are for read messages). Messages are indexed by date.</paragraph>
+			<paragraph>Once you start scrolling the list of messages, the bottom bar temporarily disappears to give more screen real estate to the messages.</paragraph>
+			<paragraph>Tap on a message to read it and you can respond to that message from the same screen too. That's great, because you don't have to worry about where a message came from, you just type a response and it will be sent back through the proper channel.</paragraph>
+			<paragraph>If the list of messages is too much of a mess, there's Search or you can swipe right to reveal a list of all services that feed messages into the Hub. You can then filter messages by service.</paragraph>
+			<paragraph>That's where the whole swiping business starts to get a little confusing. First, the Hub can also show you your agenda - swipe down to view it. But make sure the swipe starts from inside the screen (think "pull down to refresh" on iPhone). If you start from above the screen, the gesture will bring up the quick toggles instead.</paragraph>
+			<paragraph>That's not the end of it either - a right swipe leads you to the list of all services piped into Hub, a swipe left (or tap on the right side of the screen) brings you back to Hub. BUT if you start the swipe from the just outside the right side of the screen, you might end up on the task switcher pane instead.</paragraph>
+			<paragraph>Confused yet? There's a more refined way to filter Hub - the down arrow in the top right corner. Using this interface, you can search for individual folders (e.g. Inbox, Outbox, Missed calls, etc.).</paragraph>
+			<paragraph>There's a menu button in the lower-right corner of Hub, which brings out some handy options like Scroll to top (or bottom), search, compose, refresh, select multiple. You already have Search and Compose buttons at the bottom of the screen, but the others can be useful.</paragraph>
+			<paragraph>The message management skills of the Hub don't end there - a long press on a message brings out a long list of options on the right. You can "drag" a message to one of these options in the same gesture or lift your finger and tap the option you like, whatever seems easier. The three vertical dots button expands the pane with options to include labels, not just icons - you'll need that at first, until you learn what icons stand for.</paragraph>
+			<paragraph>More than one message can be selected here, but if you select messages from different sources, only the options that apply are displayed (e.g. you can mark both emails and tweets as "unread", but you can't tag tweets, only emails). The multiple select can be used for mass delete, too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>SMS and MMS messaging is handled by the BlackBerry Hub - the Text Messages shortcut in the app drawer just leads to them.</paragraph>
+			<paragraph>We're covering texting in more detail because it's supposed to be a primary use for one of the rare phones with a hardware QWERTY keyboard.</paragraph>
+			<paragraph>The Messages are organized into threads and use speech bubble UI, both threads and individual messages can be managed by using the long press gesture. You can name a conversation thread, which will help you find it easier later.</paragraph>
+			<paragraph>Composing a message is no different than on other OSes. The text input area is quite small - it starts off as a single line and grows to only four, so composing longer texts can be a bit annoying. There's no character or message part counters.</paragraph>
+			<paragraph>Multimedia and other data (contact info, appointment even generic files) can be attached to the message, turning it into MMS. There's an option to attach a location (either your current location or point on a map) to the message, which is great for giving directions. More than one item can be attached.</paragraph>
+			<paragraph>BlackBerry Messenger is one of the hottest features on BB phones. At the base level, BBM can do text and voice chats (over your mobile data connection or Wi-Fi). You can attach multimedia content to a BBM message, too.</paragraph>
+			<paragraph>BlackBerry Q10 runs the latest OS, which also adds BBM Video - video calling with a twist. The twist, as you might know, is that instead of footage from the front-facing camera, the phone can stream the contents of its own screen.</paragraph>
+			<paragraph>This way the other party sees just what you see - a great way to show someone how to do something, walk them through a document or anything else you can think of.</paragraph>
+			<paragraph>BlackBerry announced recently the BlackBerry Messenger will launch on Android and iOS, which surely means a huge expansion of its user base. We really hope this bold move doesn't kill the company.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony and phonebook<subsectionTitle>
+			<paragraph>The BlackBerry Q10 has no hardware call buttons, so the quickest way to get to the dialer is by tapping the Phone shortcut in the bottom left corner (it's visible on all homescreen panes but the Hub).</paragraph>
+			<paragraph>The dialer has three tabs - Calls, Contacts and Dial pad. We were a little disappointed to find out that you can't swipe between those two (after all, you can swipe between almost anything else).</paragraph>
+			<paragraph>The Dialer has been pushed to third place because it's not very useful - you have a powerful hardware QWERTY keyboard and your contacts are just a few quick clicks away. Furthermore the virtual dialer has no smart dial, you have to enter the number manually. There is a feature called "Smart dialing" but it's not the usual "search as you type" thing. Instead, it only automatically applies country and area codes to the numbers you dial (which is useful in roaming).</paragraph>
+			<paragraph>A nice option for those still using cellphone holsters is the option to automatically answer and hang up when taking the Q10 out of the holster and putting it back in again.</paragraph>
+			<paragraph>Anyway, you're better off using the Contacts tab. It's a list of contacts sorted alphabetically. There's a search field - you don't need to look for it, just start typing with your hardware keyboard and the Search will do its job. A tap on a contact expands into a list of all assigned phone numbers.</paragraph>
+			<paragraph>The Call log features three shortcuts on top - Voice Mail plus two contact numbers. You can add more quick-dial numbers here, but the more you add, the further down the actual call log gets pushed.</paragraph>
+			<paragraph>The call log itself displays either all calls or just missed calls (there's a toggle just above it). Calls are grouped together to save space, e.g. two outgoing calls to the same contact are displayed as one item with a call counter.</paragraph>
+			<paragraph>The Phonebook looks a lot like the Contacts tab of the phone app, it also has a search field and it is also automatically activated when you start typing with the keyboard. Tapping on a contact here brings you to the contact info, which is split into three tabs.</paragraph>
+			<paragraph>The first tab is details - this is where all the phone numbers, email accounts, web site, birthday and other info (including Facebook friends and Twitter followers count) are listed. If the same contact uses multiple services, you can link the entries and have everything in the same place.</paragraph>
+			<paragraph>The second tab is Updates. All social networking updates are listed here chronologically, along with automatically generated entries under the Company News heading. If you've entered a company name (or the phone can guess it from the social networking accounts associated with this contact), the phone will search the web for new relevant content and give you a four line preview. A neat feature for sure.</paragraph>
+			<paragraph>The third tab is Activity, a list of phone calls and messages between you and the contact.</paragraph>
+			<paragraph>Just like in the Hub, you can swipe right to view a list of all services that provide contacts - your phone, the SIM card in it, BBM and BBM Video, Gmail, Twitter, you name it. You can use this to browse contacts coming from a specific service only or go into the settings to hide contacts from services you don't need.</paragraph>
+			<paragraph>Yet another trick from Hub is the long press - this gives you an easy access to several options straight from the contact lists. It's especially quick if you do it as one gesture (press and hold on a contact then move your finger to the option and release).</paragraph>
+			<paragraph>The BlackBerry Q10 doesn't have the loudest ringer in the world, but combined with vibration you shouldn't be missing any calls. You can read about how the loudspeaker test is done here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>File Manager with Dropbox and Box integration<subsectionTitle>
+			<paragraph>The File Manager is there for more advanced file browsing needs. It shows the internal and external storage as either a grid or list of files and folders. You can sort them by name, date, type and size in either ascending or descending option and if you still can't find what you need, there's the search function.</paragraph>
+			<paragraph>BlackBerry OS 10 imposes a strict structure at the root level of the internal storage - folders are predefined and you can't change them. Inside those folders and on the external (microSD card) storage, you're free to organize folders as you like.</paragraph>
+			<paragraph>Files and folders can be moved, copied and deleted in bulk, renamed or even zipped up into a single file and then unzipped (sending multiple files is easier if they are in a single file).</paragraph>
+			<paragraph>To switch between the internal and external storage, you do the same swipe right gesture used to filter items in the Hub and Contacts apps.</paragraph>
+			<paragraph>The app is cloud-enabled too, you can add Box and Dropbox accounts. They are treated almost the same way as a microSD card, so copying files between phone and cloud storage is seamless. There's no search option here (but you can still sort folders).</paragraph>
+			<paragraph>Adding those cloud accounts happens through external apps (Box and Connect to Dropbox), which is a bit clunky. These apps show how long ago the last sync was, your storage usage and have a toggle to disable syncing over mobile data (great if you don't have a solid data plan). The Box app also has toggles to exclude images and videos from the sync process (those are usually the biggest data hogs).</paragraph>
+			<paragraph>One potential problem with this app is that it only supports one account from each service. To be fair, so do the official desktop clients for these services. Still, it's worth noting if you're one of the few people who keep multiple accounts.</paragraph>
+			<paragraph>When you switch away from the Manager, its active frame changes to show memory usage on the various storage locations, giving you handy at-a-glance info.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Easy to use image gallery with powerful options<subsectionTitle>
+			<paragraph>The image gallery app has a simple three-tab interface. The first is Recent and it displays recently added and recently viewed images (each list gets half of the screen, but you can tap the down arrow to expand them). The second tab is for photos shot with the BlackBerry Q10 and the third is for albums, which shows all folders with images on the device.</paragraph>
+			<paragraph>Multiple images can be selected at once for mass delete and mass share. There are also options to edit the image, start a slideshow or use DLNA to push images to a compatible TV.</paragraph>
+			<paragraph>Viewing individual images gives you the same options. You can move between images by swiping the current image past the edge left or right.</paragraph>
+			<paragraph>The Edit option in the gallery app is pretty powerful. The Transform tab in the editor can rotate and flip the image and there's a free transform tool as well if you want to crop out a specific part of the image. Then there's Enhance with the standard image tweaking options available (brightness, contrast, sharpness, noise reduction and so on), each with a slider for adjustments. There's a simple Auto-enhance option if you don't want to waste time.</paragraph>
+			<paragraph>The final two tabs are Artistic and Styles, which pretty much do the same thing - add Instagram-like effects to the image (everyone's favorite Lomo, Sepia and Aged photo effects). There's a cool animation that shows the effect sliding up on the image, giving you a one second look at how the current effect and the new one look side by side.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The video player is quite capable, the screen is not fit for video playback<subsectionTitle>
+			<paragraph>The BlackBerry Q10 comes with a surprisingly capable video player. Its interface is very similar to that of the image gallery. It has three tabs - Recent, Camera and Library (which shows all video files in the phone storage) - and can display items either as a list or a grid.</paragraph>
+			<paragraph>You can search for a video, mass delete videos, share them or push them through DLNA to a compatible player. There's also the HDMI port with which you can output the video to any HDTV, as long as you have a microHDMI cable (those are more popular and cheaper than MHL adapters).</paragraph>
+			<paragraph>The video handled all the popular file formats but MKV and 1080p videos easily. Codec support is pretty great too - DivX, XviD and h.264 are ready to go, as is Dolby Digital audio. The AC3 audio codec is a no-go, though.</paragraph>
+			<paragraph>Some competing smartphone don't support much else than MP4 videos with MP3/AAC audio, so this is good showing by the business phone. We do wish there was subtitle support though.</paragraph>
+			<paragraph>Another thing that impressed us was the Edit option - it took a 1080p video and offered to trim its start and end points, rotate and crop the video, adjust its brightness, contrast color and sound too.</paragraph>
+			<paragraph>This isn't the only video editor on board the BlackBerry Q10 either. The Story Maker app lets you pick multiple movies and photos and puts together a video slideshow with a soundtrack of your choice. There are several different preset styles, which add an effect over the whole video (vintage, bleach pass, etc.).</paragraph>
+			<paragraph>You can go back and add/remove items, rearrange them and put them through the image or video editor if they need to be tweaked.</paragraph>
+			<paragraph>By default, Story Maker saves the final videos in 720p resolution but you can switch to 1080p if you like.</paragraph>
+			<paragraph>The BlackBerry Q10 might be a powerful video tool, but its square and small screen, even though it's an AMOLED, is not suitable for enjoying video watching. You can surely use the fit to screen options, but you'll lose 1/3 of a 16:9 video. Still, the BlackBerry Q10 wasn't made for entertainment, so we can't consider this a major drawback.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Snappy music player with no equalizers<subsectionTitle>
+			<paragraph>The UI of the BlackBerry Q10 music player is pretty similar to the image gallery and video player. It has three tabs, the first of which displays recently added and recently played music. The second organizes the music library by Artist, Album or Genre and the third one displays all the playlists.</paragraph>
+			<paragraph>The Now playing interface is pretty simple with a big album art in the middle, surrounded by playback controls (including shuffle and repeat buttons). If you tap on the album art (or drag it down) you get the current playlist so you can easily jump between songs (swiping left and right between songs doesn't work).</paragraph>
+			<paragraph>There are no playback controls on the lockscreen or the toggle dropdown a la Android, you can use the volume keys instead. The volume up and down buttons change the volume for short presses or act as previous/next buttons if you long press them. The middle button is play/pause.</paragraph>
+			<paragraph>By the way, when changing the volume while there's a track playing, the little window with the volume level indicator does have playback controls and track info and album art. It's an odd place to put them and you have to hit a volume key each time you want to use them - we much prefer using the hardware keys for the job.</paragraph>
+			<paragraph>The music player is DLNA-enabled, just like the gallery and video players. There's no equalizer though, it is the one major feature we missed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent audio output<subsectionTitle>
+			<paragraph>The BlackBerry Q10 put up a great performance in our audio quality test, demonstrating a nicely clean output.</paragraph>
+			<paragraph>When you use the smartphone with an active external amplifier you get great scores all over the place. The frequency response was spot-on and there was no detectable distortion. The signal to noise ratio and the dynamic range are very good too and the only thing to disappoint was the below average volume level.</paragraph>
+			<paragraph>There is a pretty big increase in stereo crosstalk when you plug in a pair of headphones, but the good news is none of the other readings are affected. Volume levels remain average, but the overall performance is perfectly solid.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> BlackBerry Q10 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The 8MP camera snaps top-notch photos<subsectionTitle>
+			<paragraph>The BlackBerry Q10 comes with an 8MP main camera with an LED flash and a secondary 2MP camera. Both cameras can shoot HD video, 1080p for the main camera and 720p for the front-facing one.</paragraph>
+			<paragraph>The interface looks pretty familiar at first - not too different than an Android camera - but much like the rest of the interface, the camera app has some handy tricks up its sleeve.</paragraph>
+			<paragraph>The BlackBerry Q10 offers three shooting models - Stills, Video and Time shift, the mode toggle is in the top right corner. Below that is the Menu key, which offers several settings including a front/back camera switch, flash mode and aspect ratio (1:1, 4:3 or 16:9, there's no resolution setting).</paragraph>
+			<paragraph>Also here are the Scene mode toggle (Auto, Action, Whiteboard, Night, Beach or Snow) and the Shooting mode toggle. The still camera can just snap pics, do digital image stabilization or enable burst shot. Burst shot photos are snapped at 6MP resolution.</paragraph>
+			<paragraph>You get some more settings for the camera if you swipe down - pick a default storage and toggle geo-tagging.</paragraph>
+			<paragraph>Photos are taken by just tapping the screen. You can use the volume rocker or the Space key as well, with a long press triggering the auto-focus before taking the shot. If burst shot is enabled, then the camera will snap pics in quick succession while you have your finger on the screen.</paragraph>
+			<paragraph>There's also touch focus on board, though you have to drag the focus point to where you want the focus to be. It can take some getting used to if you're used to just tapping to move the focus point.</paragraph>
+			<paragraph>Digital zoom is available too, it's activated through pinch zooming.</paragraph>
+			<paragraph>The BlackBerry Q10 camera UI has two handy shortcuts. A thumbnail of the last photo you've taken is in the lower left corner and you can tap it to go to the gallery. Better still, you can swipe it to enlarge that photo for a quick view of how it turned out, and it will be minimized again when you lift your finger.</paragraph>
+			<paragraph>The second shortcut appears in the upper left corner when flash mode is not set to auto. Tap the shortcut to get back to auto flash mode.</paragraph>
+			<paragraph>The camera also has a feature called Time Shift - a technology we've first seen from Scalado. It snaps several photos in quick succession with just one tap at the screen and automatically selects the best one. It also detects faces in the photo (which can take several seconds, depending on how many faces there are). Once that's done, Time Shift allows you to tweak the photo - pick a different photo from the 11 that were captured and for each individual face that was detected, you also get to choose from 11 snaps.</paragraph>
+			<paragraph>The BlackBerry Q10 uses an 8MP camera and we already knew what to expect from our encounter with the Z10, and we got exactly the same. There is plenty of fine detail, rivaling the likes of the iPhone 5 and Galaxy S III.</paragraph>
+			<paragraph>Photos have low amounts of noise, with most of it in the form of monochromatic grain in the sky. Exposure and contrast are good, though the phone does slightly underexpose shadows. In backlit shots, we frequently got purple halos on the photos.</paragraph>
+			<paragraph>Once again colors are oversaturated quite seriously. We know consumer cameras typically boost the colors to make images appear livelier but BlackBerry went too far here and we suspect the oversaturation is at least partly responsible for the noise. We wish BlackBerry put finer image controls in the camera interface, so you can go for more natural colors if you want.</paragraph>
+			<paragraph>Still, it's a very good camera, one of the best 8MP shooters right now. Given BlackBerry's record with still cameras, we would have been happy with anything that produces usable images, but the Q10, just like the Z10, came way better than that.</paragraph>
+			<paragraph>Here is an HDR sample as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The BlackBerry Q10 challenges the best 8MP shooters in town and you can head over to our Photo quality comparison tool to see how it did.</paragraph>
+			<paragraph>   BlackBerry Q10 in our Photo quality comparison tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>Switching the camera to video mode doesn't affect the user interface, it just changes the options available from the Menu key. You can still enable digital image stabilization and pick from the preset scenes.</paragraph>
+			<paragraph>During recording, you can move the focus point around (again by dragging, not tapping) and you can toggle the video light on and off. There's no way to capture photos during video recording though.</paragraph>
+			<paragraph>The main camera can shoot 1080p or 720p videos (720p is picked by default), while the front-facing camera can do only 720p.</paragraph>
+			<paragraph>1080p videos are stored in MP4 files with 16Mbps total bitrate. The mono sound was a big letdown for us, but the good news is it uses 192Kbps bitrate and 48kHz sampling rate (that's a lot of bitrate for a single audio channel).</paragraph>
+			<paragraph>In terms of image quality, video recording is on the level set by the still camera - the clips produced are smooth at a consistent 30fps and with plenty of fine detail. Colors are again oversaturated but there's no visible noise.</paragraph>
+			<paragraph>Here's a sample video recorded with the BlackBerry Q10 that we uploaded to YouTube. You can also download this sample (0:10s, 20.5MB) that hasn't gone through YouTube compression.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The 1080p video recording prowess of the BlackBerry Q10 puts it near the top. Here's a look at how it stacks up against some of the best.</paragraph>
+			<paragraph>   BlackBerry Q10 in our Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Plethora of connectivity options<subsectionTitle>
+			<paragraph>The BlackBerry Q10 covers the whole connectivity spectrum with five different versions. All of them have quad-band 2G GSM, quad-3G GSM (HSPA) and LTE support, but there are some key differences in the supported 3G and LTE bands.</paragraph>
+			<paragraph>The SQN100-2 and the SQN100-4 models include CDMA support in addition to the GSM/3G/LTE capabilities, while the rest three of the models - don't. You can check the supported bands of every model at our specs page so you know which model suits your best. Of course, chances are you'll get your BlackBerry Q10 straight from your carrier so it will surely be compatible.</paragraph>
+			<paragraph>Whichever model you get, you'd be all set for fast global connectivity.</paragraph>
+			<paragraph>Local connectivity is fully featured as well. Dual-band Wi-Fi a/b/g/n handles local Internet connections and Bluetooth 4.0 handles accessories. There's also microUSB port for data connectivity with a computer and a standard microHDMI port for TV-Out.</paragraph>
+			<paragraph>NFC is also on board, allowing easy exchange of data. You can use the dedicated app to create tags (e.g. a tag with contact info), which you can send to another NFC-enabled phone. The app also handles reading tags and storing the data for when you're on the receiving end.</paragraph>
+			<paragraph>You don't need NFC to transfer tags either - the BlackBerry Z10 can create a QR code and read QR codes too, which is great for communicating with phones that don't have NFC.</paragraph>
+			<paragraph>While we're here, we have to go over BlackBerry Link - the PC Suite for the Q10. The phone has the install file, just plug it in and install the app. Luckily, you don't need it for the USB data connection to work, you can simply enable mass storage mode from the settings and simply drag and drop files on your storage card.</paragraph>
+			<paragraph>The PC Link has its advantages though - once everything is installed, the phone storage will appear as a drive on your computer. You don't even need the USB cable, the phone will appear as a network drive once it's on the same Wi-Fi network as the computer (you can disable this if you like).</paragraph>
+			<paragraph>Link can schedule phone backups and automatically sync content (both docs and multimedia). That's great with the Wi-Fi option - it will seamlessly sync your docs at work and then your music at home, you don't need to do anything.</paragraph>
+			<paragraph>All that is great, but needing the app to install the right drivers is annoying.</paragraph>
+			<paragraph>Link only supports dragging files from one place in the app to another (but you can use the computer's file browser option and save yourself the trouble).</paragraph>
+			<paragraph>So, we added the folder with the documents and dragged them over through Link, but while doing so we were amazed to see how long it took the app to scan a folder with only four docs inside. Scanning the phone's storage isn't speedy either.</paragraph>
+			<paragraph>To top it all off, BlackBerry Link crashed a couple of times. iTunes and Zune are not the most faved apps around the office, and a buggy Link was the last thing we wanted to see from BlackBerry. Okay, we got this off our chest.</paragraph>
+			<paragraph>So in the end, mass storage is the best way to go about transferring files to your Q10 even if it only grants access to the microSD card and not the internal storage. With some polishing Link might prove to be a superior alternative - just not right now.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Mobile Flash extends its life thanks to the new BlackBerry web browser<subsectionTitle>
+			<paragraph>The BlackBerry Q10 has a WebKit-based browser with full Flash support. The 3.1" screen isn't the best thing to browse on, but it does a good job.</paragraph>
+			<paragraph>The interface is pretty straightforward. The first thing you see is the New tab interface, which shows thumbnails of recently visited sites. It's a bit annoying that these can't be deleted. There's no Incognito/Private mode either, so be careful what sites you open.</paragraph>
+			<paragraph>Anyway, the main UI is pretty Windows Phone-like - the web page takes the whole screen, except for a line at the bottom (it even covers the status bar at the top of the screen). The line at the bottom holds a Tab switcher button, Back button, URL field and a Menu key.</paragraph>
+			<paragraph>The Tab switcher button brings up a list of currently open tabs, along with Bookmarks, History and a New tab shortcut. The current page you're browsing is pushed to the right to reveal all those. Instead of tapping the Tab switcher button, you can swipe to the right but the gesture needs to begin at the bottom where the Tab button is.</paragraph>
+			<paragraph>It can be a short swipe - just enough for the option icons to show up and get docked on the left side of the screen. That seems like a handy way to keep those options and tabs always visible, but they hide as soon as you tap anything - a missed opportunity.</paragraph>
+			<paragraph>Anyway, the browser is very fast and elaborate web sites are rendered without a hitch. Pinch zooming is smooth and there's double-tap to zoom too, but no text reflow. From the Menu button you get access to several more options, including Find on page and Share.</paragraph>
+			<paragraph>A cool option has the browser remember which tabs were open, so the tabs will still be there even if you close the browser and open it again later (similar to desktop browsers).</paragraph>
+			<paragraph>Another interesting option is Reader - it strips out the site's interface and leaves only the content, making it much easier to read on a phone's screen. It doesn't work very well with multi-page articles though.</paragraph>
+			<paragraph>The BlackBerry Q10 has full Flash support - it's among the last active platforms that do. The dual-core Cortex-A9 processor had no problem playing YouTube videos, though the 1080p ones sometimes turned out choppy.</paragraph>
+			<paragraph>BlackBerry bragged about how good their browser is, so we ran a few benchmarks on it. At the moment, it's the top scorer at HTML5Test.com (which tests HTML5 compatibility), beating other mobile and even desktop browsers by a good margin.</paragraph>
+			<paragraph>While pure JavaScript performance is not quite the best, as seen from SunSpider, it did outrun the Nexus 4. The compound BrowserMark 2 test gave it a very good score though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Full-featured office package<subsectionTitle>
+			<paragraph>The BlackBerry Q10 comes with a full-blown Office document editor - you wouldn't expect any less, would you? It's called DocsToGo and can both view and create Word and Excel documents. It can edit PowerPoint presentations too, but cannot create new ones.</paragraph>
+			<paragraph>The Word editor has all the text formatting features you'll need - everything from the standard bold, italic, underline through text justification, text and background color, font and text size, super and sub scripts, to list and paragraph styling.</paragraph>
+			<paragraph>The Excel editor works with multiple sheets, cell formatting and formulas, though we would have appreciated a formula auto-suggestion of some sort. We're no Excel experts so typing out the formulas by hand out of memory was a real challenge.</paragraph>
+			<paragraph>PowerPoint presentations can be edited too, but only for small tweaks - you can't create new presentations from scratch or even add new slides.</paragraph>
+			<paragraph>The Present option is pretty sweet though - it displays the slide through HDMI to the TV/projector, while showing you the notes for the slide on the phone's screen.</paragraph>
+			<paragraph>Adobe Reader is on board for viewing PDF files.</paragraph>
+			<paragraph>The BlackBerry Q10 also came with an app called PrintToGo, which despite its name does not print documents. Quite the opposite in fact - it aims to replace printing on paper all together. It does this by showing up as a printer on your computer. Then, all you need to send files to your phone is... print them to this virtual printer device.</paragraph>
+			<paragraph>All that's great for the Q10, but we think there is a lack of a cloud solution. Sure, you can sync your docs through Dropbox or Box, but Windows Phone has cloud integration with Microsoft's Office 365 and SkyDrive services and Android has Google's Drive. These services handle both cloud storage of files and editing them online in the browser too, something we would have appreciated on the BlackBerry Q10.</paragraph>
+			<paragraph>At the time of this writing, there are no official apps for Office, SkyDrive or Drive integration, though there are third party apps that do support them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer<subsectionTitle>
+			<paragraph>The organizer is a big part of every business phone and BlackBerry OS 10 has a worthy calendar.</paragraph>
+			<paragraph>The BlackBerry Q10 calendar app uses a dedicated sidebar for navigation between the different view modes. To bring the sidebar at front you can use the virtual shortcut at the bottom left corner or just swipe to the right. There are six view modes - Agenda (a list of all events), People (events sorted by who's attending them), Day, Week and Month.</paragraph>
+			<paragraph>Each event has a reminder and can change your status for the duration of the event (Busy, Out of office, etc.). Viewing an event shows you three tabs - event details, who's invited (invitations are sent over email) and emails related to that event.</paragraph>
+			<paragraph>While the calendar is good at scheduling things, it's not that great at keeping notes and other info you might need. This is where Remember steps in. You can add items to Remember from the app itself or just flag something in the BlackBerry Hub.</paragraph>
+			<paragraph>Each entry can be assigned to a folder (and folders can be color coded). Entries start off pretty simple - a subject and some additional notes, plus a message if the entry was added by flagging something in the Hub. From here you can add due date info, attach a photo, a voice note or any file. You can tag entries, but there's no easy way to sort entries by tags.</paragraph>
+			<paragraph>The Clock app features the same clock as the Bedside mode on the lockscreen. You can switch to a digital watch face if you prefer. You only get one alarm, you'll have to use calendar reminders if you need more. The alarm can have a recurrence pattern and a customizable snooze time.</paragraph>
+			<paragraph>The Clock app also has a World clock, stopwatch and a timer.</paragraph>
+			<paragraph>The BlackBerry Q10 also has a Calculator app. It's slightly more advanced than most stock calculators with memory, square root and brackets visible by default. Results from your calculations go on a strip of "paper" that gets ripped off when you hit clear. Swiping the virtual num panel brings out the advanced functions.</paragraph>
+			<paragraph>The app also has unit converter and tip calculator modes.</paragraph>
+			<paragraph>The Weather app pulls info from AccuWeather and shows the forecast for today and the next four days. You can add multiple cities and see an hourly forecast too. The app switches between a bright blue and black backgrounds depending on whether it's day or night in the selected city.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Social networking<subsectionTitle>
+			<paragraph>The BlackBerry Q10 comes with a full array of social networking apps out of the box, as the company has finally realized that social networking is important for both regular folk and businesses these days.</paragraph>
+			<paragraph>The Facebook app shows you your wall by default but you can easily check friend requests, messages and notifications. Posting a new status, image and checking in are equally easy. You can access more from the menu button in the top left.</paragraph>
+			<paragraph>If you're wondering why the app doesn't use the standard BB OS 10 menus, it's because it just encapsulates Facebook's mobile site. Still, it works well enough.</paragraph>
+			<paragraph>It's the same with the Twitter app. It shows you your timeline by default, but you can also use search, see what's trending and so on. Posting new tweets is easy and you can snap a new photo right from the app itself.</paragraph>
+			<paragraph>LinkedIn is a native app that allows you to interact with the social network for people with professional occupations. You can post, look for connections, check your inbox and more.</paragraph>
+			<paragraph>Foursquare is a native app too. It lets you check what your friends are doing, search for cool new places and see how you're doing (your stats, badges and so on).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BlackBerry Maps<subsectionTitle>
+			<paragraph>BlackBerry 10 comes with its own map application with map data sourced from TomTom and TeleCommunications Systems.</paragraph>
+			<paragraph>The app only features regular maps - no satellite images or street view. It can show traffic information, but there's no public transport or pedestrian navigation support. The database of places and venues isn't nearly as rich as that of Google Maps and the maps load pretty slowly too.</paragraph>
+			<paragraph>In fact, map coverage outside the US is spotty at best. Searching is virtually unusable - the first result for "Times Square" is in Massachusetts. That or the UK. Even when looking for streets in Canada, the Maps application most often came up short of delivering meaningful results.</paragraph>
+			<paragraph>The Maps application does have voice-guided navigation though. It requires an Internet connection. You can tweak the route finding algorithm by telling it to look for the Fastest, Simplest or Shortest routes and to avoid highways, toll roads, carpool lanes or ferries. Night mode can be enabled, disabled or set to activate automatically.</paragraph>
+			<paragraph>You can add favorite places (Home and Work get special treatment) to find your way faster. If a contact from your address book has location info, you can quickly navigate there too. But you can't pick a point on the map and get a route to there.</paragraph>
+			<paragraph>Overall, our experience with BB OS 10's Map application is pretty frustrating - there's almost no map data, what little data there is, it is hard to find and the whole thing is dog slow. We'd wait for Google to release a Google Maps app for the BlackBerry World before considering using the Q10 for navigation.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BlackBerry World has all the apps, music and movies<subsectionTitle>
+			<paragraph>The BlackBerry World app is your gateway to over 100,000 apps for your BlackBerry Q10. While not as many apps as Android and iOS have (or even Windows Phone), many of the major names are available.</paragraph>
+			<paragraph>World is not too different from the Google Play Store. It shows featured apps on top of the screen, then two featured categories. Below that are Trending apps &amp; games, Top paid games and Top paid apps.</paragraph>
+			<paragraph>You can browse just games or just apps, which also reveals the Top free items of that category. Speaking of categories, both apps and games are sorted into genre categories, if you're looking for a specific type of app/game.</paragraph>
+			<paragraph>Apps and games usually come with at least a few screenshots and a description. You can also read user reviews, complete with a star rating.</paragraph>
+			<paragraph>We already mentioned that BlackBerry World has a respectable number of apps for a new app store, but a good 40% of those apps are Android ports (BlackBerry handed $100 to devs who port their Android app to World). Those apps are run in an Android 2.3 player, which means they don't really mesh with the rest of the interface, not to mention that they use outdated Android controls. BlackBerry has plans to upgrade that to Android 4.1, but there's no set date for that happening.</paragraph>
+			<paragraph>Running apps through an emulator is not an ideal solution, but it's the only way for a newly launched app store to get a respectable number of titles. If the BB10 lineup does well, we are sure many developers will release native versions of their apps sooner, rather than later.</paragraph>
+			<paragraph>Just like Google's Play Store, the BlackBerry World offers more than just apps - you can buy music, movies and TV shows from here. You can just rent them too. With DLNA and microHDMI port, the BlackBerry Q10 can be used as a serious media player, though things like Netflix and Hulu are still missing.</paragraph>
+			<paragraph>BlackBerry Q10 also offers a Games center, where you can track, share and compare your games progress with your friends.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The BlackBerry Q10 is an easy phone to appreciate - in fact, if you have the right bit of old-fashioned in you, it's an easy phone to love. It's skillfully designed and adequately powered, a modern take on a traditional aesthetic, the next installment of a classic that couldn't care less about the taste of the mass.</paragraph>
+			<paragraph>BlackBerry is clearly taking care of its own here. The Q10 is a rallying statement - it's probably meant to reassure the loyal users that innovation and change won't come at the expense of tradition.</paragraph>
+			<paragraph>The hope is of course that loyal users will love the Q10 back. Stealing customers from other platforms is the BlackBerry Z10's job and how well it does at that is the subject of another discussion. The Q10, on the other hand, will be expected to replace an army of Curves and Bolds in business suit pockets.</paragraph>
+			<paragraph>The thing is the corporate world has long ceased to be a BlackBerry stronghold. iOS, Android and Windows Phone have consistently demonstrated their business benefits, touchscreen keyboards have been getting better, and BlackBerry no longer holds sole ownership over corporate email.</paragraph>
+			<paragraph>And the very QWERTY messenger concept is well past its prime. Android clearly can't be bothered about the form factor - Samsung's Chat and Galaxy Pro, the HTC ChaCha and a couple of Droid Pros by Motorola are not recent enough to begin with, and certainly not as high-aiming as the BlackBerry Q10.</paragraph>
+			<paragraph>One would think Windows Phone may've seen a point in exploring the concept of a QWERTY messenger, but Microsoft is probably keener to move towards touchscreen on desktop rather than fiddle about phones with buttons.</paragraph>
+			<paragraph>Now, that leaves the BlackBerry Q10 virtually free of competition but it sure looks like a game no other smartphone manufacturer considers worth playing.</paragraph>
+			<paragraph>The BlackBerry Z10 then is very much a strong alternative. It has more processing power and a bigger 4.2" display, along with an advanced on-screen keyboard to make up for the absence of actual keys to type on. Not least, the Z10 is cheaper too, and more in sync with the market trends.</paragraph>
+			<paragraph> BlackBerry Z10</paragraph>
+			<paragraph>The recently announced BlackBerry Q5 is a downgraded version of the Q10, with the same screen estate and resolution, but given up AMOLED in favor of IPS LCD. The CPU is slightly less powerful, the camera resolution is down to 5MP and the smartphone is nowhere nearly as nice looking as the Q10. The Q5 is supposed to hit the shelves in July as the younger, more affordable alternative in BlackBerry's updated lineup.</paragraph>
+			<paragraph> BlackBerry Q5</paragraph>
+			<paragraph>So, this is where we part ways with the BlackBerry Q10. If the goal was to offer a fresh, refined and forward-looking alternative of the classic QWERTY messenger, the Canadians have over-delivered. BB10 OS does most things well and the QWERTY + touchscreen combo works convincingly.</paragraph>
+			<paragraph>In terms of where the market is heading and where BlackBerry want to be, we cannot help the thought that they'd rather have the Z10, and its successors, up there with the best than keep the messenger concept on life support. On the other hand, it's QWERTY messengers that have shaped the company's identity. It's a tough one, finding the right balance between what the market wants and respect of tradition.</paragraph>
+		</subsection>
+	</page>
+</review>

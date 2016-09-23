@@ -1,0 +1,84 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Hitchcock / Truffaut</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1967</year>
+	<link>http://www.senscritique.com/livre/Hitchcock_Truffaut/478135</link>
+	<generalScore>8.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>16</numberOfVoters>
+		<numberOfVoters>68</numberOfVoters>
+		<numberOfVoters>254</numberOfVoters>
+		<numberOfVoters>323</numberOfVoters>
+		<numberOfVoters>212</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Coup de gueule...</title>
+		<author>Jordan ~~</author>
+		<date>2012-12-13</date>
+		<score>0.1</score>
+		<content>Je mets "un" par principe: le fait que le livre des entretiens Hitchcock/Truffaut soit en première place de ce classement "Livres" témoigne surtout et sûrement d'une incroyable et très influente communauté cinéphile sur ce site web. Je n'ai rien contre vous et je fais moi même des études de cinéma mais placer un tel livre à une première place est pour moi complètement insensé, puisque tellement de livres à valeurs artistiques intrinsèquement liés à la littérature (peu importe le genre) seraient tellement plus méritants et intéressants à lire... Donc pour ceux qui se poseraient des questions sur l'ouvrage en question, passez votre chemin si vous vous en foutez de la théorie du cinéma (même si le livre ne se limite pas qu'à ça évidemment) et pour les curieux jetez un coup d'oeil car il s'agit effectivement d'une référence dans le milieu ;)</content>
+	</review>
+	<review>
+		<title>Hitch, ce héros</title>
+		<author>Kariboute</author>
+		<date>2011-03-05</date>
+		<score>0.9</score>
+		<content>(Je vis en Amérique, je me permets le sobriquet. Pour vous Européens, ça restera Monsieur Hitchcock. N'est-ce pas ?) Avant de commencer ma lecture, j'avais vu deux Hitchcock. Psycho et Rear Window, comme tout le monde, et de nombreux extraits de The Birds (assez indispensable quand on suit un cours d'analyse cinématographique). Après avoir terminé ma lecture, je n'en ai pas vu davantage (j'ai fini le bouquin hier), mais j'ai une envie irrésistible de me taper tous ses films et de les décortiquer un par un, inlassablement, et de relire l'interview, et de revoir les films, et de relire l'interview, et de m'acheter un poster Hitchcock, et de cacher des cadavres dans des voitures à peine montées. Alfred, je t'aime. Merci à Truffaut, aussi, qui mène une interview impeccable avec un talent réel, une écoute totale, une belle intelligence et un émerveillement perpétuel. Juste quand un passage visuel attise notre curiosité, une image tirée du film dont il est question nous est gentiment proposée, apportant au lecteur un vrai sentiment de satisfaction. À la fin du livre, je connaissais Alfred Hitchcock mieux que ma mère, et j'étais un peu détruite intérieurement en lisant l'histoire de sa mort simple et malheureuse. Une interview excellente à tous points de vue, incontournable, vraie.</content>
+	</review>
+	<review>
+		<title>Hitchcock / Truffaut</title>
+		<author>Boubakar</author>
+		<date>2011-07-15</date>
+		<score>1.0</score>
+		<content>Si un jour je me lancerais dans la réalisation de films, je commencerais par relire ce livre, que je trouve incroyable. Narré en plus par un Hitchcock débonnaire et intelligemment critique sur ses films, celui-ci a droit à un interlocuteur de choix en la personne de François Truffaut, qui le relance exclusivement du côté cinéphile. Les diverses rééditions du livre ont fait que toute la filmographie de Hitch est abordée, c'est fascinant à lire, le genre de bouquin dont j'y retourne très fréquemment, car on ne voit plus ses films du même œil..</content>
+	</review>
+	<review>
+		<title>Hitchcock / Truffaut</title>
+		<author>Tinou</author>
+		<date>2016-07-03</date>
+		<score>0.9</score>
+		<content>Quand deux des cinéastes les plus intéressants discutent ensemble, le dialogue est forcément passionnant, d'autant plus que l’œuvre du cinéaste britannique n'a rien perdu de sa modernité. Au discours, s'ajoute une splendide iconographie rendant l'ouvrage précieux.</content>
+	</review>
+	<review>
+		<title>Hitchcock / Truffaut</title>
+		<author>Semioblog</author>
+		<date>2010-08-06</date>
+		<score>0.9</score>
+		<content>Les entretiens sont très intéressants à plus d'un titre. Non seulement parce qu'ils retracent une histoire du cinéma, mais aussi parce qu'ils montrent à quel point le maître du suspens avait du recul et était critique par rapport à son travail. Il y a aussi les petits "trucs" que donne Hitchcock, comme la manière dont il a créé la nuit qui tombe dans "la corde" (film en un seul plan-séquence), ou bien comment faire la différence entre la surprise et le suspens.</content>
+	</review>
+	<review>
+		<title>Hitchcock / Truffaut</title>
+		<author>Cinemaniaque</author>
+		<date>2010-09-27</date>
+		<score>1.0</score>
+		<content>Tout simplement LA référence absolue pour les fans d'Hitchcock mais aussi pour tous ceux qui s'intéressent au cinéma en tant qu'art et en tant qu'oeuvre à construire : le choix du scénario, des acteurs, comment se passe un tournage, comment mettre en scène... Avec une franchise, une lucidité et un humour caustique propre au grand génie qu'était Al.</content>
+	</review>
+	<review>
+		<title>Hitchcock / Truffaut</title>
+		<author>DraghonAsh</author>
+		<date>2012-08-30</date>
+		<score>1.0</score>
+		<content>Lu (presque) enfant avant d'avoir vu un seul Hitchcock. Relu plus enfant du tout après les avoir (presque) tous vus.</content>
+	</review>
+	<review>
+		<title>Hitchcock / Truffaut</title>
+		<author>Yves Le Moing</author>
+		<date>2013-05-21</date>
+		<score>0.8</score>
+		<content>Une oeuvre de référence.</content>
+	</review>
+	<review>
+		<title>une bible</title>
+		<author>megaconnard</author>
+		<date>2010-10-18</date>
+		<score>1.0</score>
+		<content>lu une dizaine de fois j'ai écrit un texte dessus je vais tacher de le retrouver</content>
+	</review>
+</sensCritiqueEntity>

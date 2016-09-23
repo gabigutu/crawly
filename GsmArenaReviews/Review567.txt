@@ -1,0 +1,339 @@
+<review>
+	<title>Samsung Galaxy Tab Pro 10.1 review</title>
+	<description>Pros and gones</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_tab_pro_10_1-review-1044.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>10.1" 16M-color Super Clear PLS capacitive touchscreen of 2560 x 1600 resolution</paragraph>
+			<paragraph>Wi-Fi only model: Quad-core 1.9 GHz Cortex-A15 &amp; quad-core 1.3 GHz Cortex-A7, Mali-T628MP6 GPU; Exynos 5420 chipset</paragraph>
+			<paragraph>LTE model: quad-core 2.3GHz Krait 400, Adreno 330 GPU; Snapdragon 800 chipset</paragraph>
+			<paragraph>2GB of RAM</paragraph>
+			<paragraph>Android OS v4.4 KitKat with TouchWiz UI</paragraph>
+			<paragraph>One of a kind split-screen multitasking and pop-up mini apps</paragraph>
+			<paragraph>Quad-band GPRS/EDGE/HSPA and hexa-band LTE connectivity cat.4 (S800 model only)</paragraph>
+			<paragraph>Voice calls (on LTE model only)</paragraph>
+			<paragraph>16/32 GB of built-in memory</paragraph>
+			<paragraph>8 MP autofocus camera, 3264x2448 pixels, geotagging</paragraph>
+			<paragraph>1080p video recording @ 60fps (LTE model) / 1080p video recording @30fps (Wi-Fi model)</paragraph>
+			<paragraph>2MP front-facing camera; 1080p videos</paragraph>
+			<paragraph>Side-mounted stereo speakers</paragraph>
+			<paragraph>Wi-Fi 802.11 ac/a/b/g/n Wi-Fi Direct, dual-band, Wi-Fi hotspot</paragraph>
+			<paragraph>Stereo Bluetooth v4.0</paragraph>
+			<paragraph>microUSB 2.0; HDMI TV-out (adapter required), USB host (adapter required)</paragraph>
+			<paragraph>microSD card slot</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Infrared port</paragraph>
+			<paragraph>GPS with A-GPS support; GLONASS, digital compass</paragraph>
+			<paragraph>1080p XviD/MKV video support with subtitles</paragraph>
+			<paragraph>Accelerometer, three-axis Gyroscope sensor</paragraph>
+			<paragraph>Polaris Office 5 document editor preinstalled</paragraph>
+			<paragraph>8,220mAh Li-Po battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Expensive</paragraph>
+			<paragraph>No NFC</paragraph>
+			<paragraph>No DivX and AC3 codec support out of box</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Samsung is trying hard to diversify its tablet lineup and bring a little something for everyone to the market. The Galaxy Tab Pro 10.1 is the middle child of the premium segment, or as a more succinct description would put it a Galaxy Note tablet without the S Pen.</paragraph>
+			<paragraph>And it's a fairly accurate one - the most obvious difference between the Samsung Galaxy Tab Pro 10.1 and the Galaxy Note 10.1 (2014) is the lack of the trademark stylus. Something you might miss at first glance (but not when you lift the tablet) is that the Tab Pro 10.1 is a good 70g lighter, perfectly capable of matching the delicate elegance of an iPad Air.</paragraph>
+			<paragraph>There are a few other differences too, like 2GB RAM instead of 3GB and no 64GB storage option (but with the microSD card slot at hand, that barely matters).</paragraph>
+			<paragraph>Another point of reference would be the Tab Pro 10.1's predecessor, the Galaxy Tab 3 10.1. That would be a brutally unfair comparison though, as the Tab 3 sports a 1,280 x 800 screen, dual-core Intel Atom chipset, 3MP/720p camera and is overall a midrange offering.</paragraph>
+			<paragraph>This makes the Galaxy Tab Pro 10.1 Samsung's flagship 10" tablet for the everyman who won't find much use of the S Pen or the slightly richer app package.</paragraph>
+			<paragraph>That said, the new multitasking features on the tablet are unique (shared only between the Tab Pro trio) and the custom homescreen promises a Windows 8-like experience with highly customizable tiles. The Galaxy Tab Pro 10.1 even shares in some of the premium goodies that the Note Pro 12.2 received, including the complete Office suite.</paragraph>
+			<paragraph>Samsung has always had a distinct voice when it comes to its Android devices and it has worked well for the company - it's the biggest player in town. It has been stumbling a bit with its tablet offerings recently, with the Note 10.1 (2014) lost between Galaxy Tabs that were virtually identical to the previous generation.</paragraph>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 signals that the lull is over and we have a proper flagship in our hands. Let's delve into it and see if Samsung finally has a tablet to challenge the iPad outside its Galaxy Note line.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Galaxy Tab Pro 10.1 is very much a Note 10.1 (2014) lookalike, but a few small differences have a major effect.</paragraph>
+			<paragraph>The biggest change is weight - the Wi-Fi only version of the Tab Pro 10.1s weighs 469g, while the LTE model is 477g. Both are 70g lighter than their Note 10.1 (2014) counterparts and the same weight as the iPad Air versions almost to the gram.</paragraph>
+			<paragraph>This vastly improves the handling. Keep in mind that the Android tablet is wider (16:10) than the iPad, which is squarer (4:3). And the Tab Pro 10.1 is meant to be held in landscape orientation, putting even more weight on your wrist if you hold the tablet by the edge.</paragraph>
+			<paragraph>The screen bezel is unchanged since the Note 10.1 (2014) but the change in weight makes extended use of the tablet a lot more pleasant. The bezel is just wide enough to accommodate your thumb, but we often preferred resting the Tab Pro 10.1 on our palm.</paragraph>
+			<paragraph>The faux leather back offers enough grip not to worry the tablet will slip. Note that the plastic used for the back feels different from others we've seen, but it still offers a semi-convincing leather feel.</paragraph>
+			<paragraph>We mentioned orientation and for the Galaxy Tab Pro 10.1 landscape is the way to go. The hardware keys on the front are positioned for it and the stereo speakers on the short sides reinforce that. We would have preferred front-facing speakers as they direct the sound at the viewer and you're less likely to block them with your palm while holding the tablet. Still, the side speakers sound a lot better than a single speaker at the bottom, so that's still a win for the Tab Pro.</paragraph>
+			<paragraph>The tablet can be used in portrait too - it makes reading long text easier - but reaching the hardware keys becomes a bit of a stretch. Samsung still refuses to use on-screen buttons (which solve this problem), but at least the company moved to the newer arrangement of keys featuring the app switcher.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>We knew the Samsung Galaxy Tab Pro 10.1 had an RGBW PenTile display before we even got the review unit. The same tech was used on the Galaxy Note Pro 12.2 and the Note 10.1 (2014) before it.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>All three tablets have the same screen resolution - 2,560 x 1,600 - but since the 10.1" ones are smaller than the Note Pro 12.2, their pixel density is at almost 300ppi and the characteristic crosshatch effect is less noticeable than on the 247ppi 12.2" screen. You can still see it if you know what to look for and take a close peek, but it's not annoying really.</paragraph>
+			<paragraph>The display itself renders beautiful colors and you can tweak those with the Display mode option in the settings. There's Adapt display that automatically adjusts settings based on the image on the screen (this only works in some apps), Movie mode (which offers warm white balance and balanced saturation), Dynamic (which boosts the saturation) and Standard (this one aims for pure white and accurate colors).</paragraph>
+			<paragraph>The Galaxy Tab Pro 10.1 screen is fairly bright but we still had the brightness slider set at 50% or higher. The auto-brightness option works well too and you get a slider to tweak it.</paragraph>
+			<paragraph>Viewing angles and contrast of the screen are excellent.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 uses Samsung's new style of hardware controls. They are still arranged capacitive/hardware/capacitive but the left button now handles the app switcher rather than menu.</paragraph>
+			<paragraph>The majority of apps out there (soon to be all, Gingerbread slipped to 20%) have an options menu as part of their on-screen interface, making a hardware menu key redundant. Anyway, a long press on the Home key now launches Google Now, while a double tap triggers Samsung's S Voice.</paragraph>
+			<paragraph>The remaining set of hardware controls on the Tab Pro 10.1 is found at the top - the power key and the volume rocker. The IR blaster is also here, which is becoming standard equipment on Samsung's higher-end tablets.</paragraph>
+			<paragraph>The right side of the tablet is where you'll find the card slots - one in the Wi-Fi only version of the tablet (the microSD card slot) and two in the LTE model (an additional microSIM card slot).</paragraph>
+			<paragraph>The loudspeaker grilles are one on each (short) side and are positioned near the top, so that your hand won't block them. Holding the tablet high enough to block them is possible, but uncomfortable. The 3.5mm audio jack is next to the left speaker grille.</paragraph>
+			<paragraph>The microUSB port is at the bottom - a traditional USB 2.0 port. Considering we rarely plug in our devices to a computer (with the proliferation of cloud sync solutions), having USB 2.0 instead of 3.0 is not a major concern.</paragraph>
+			<paragraph>The mic pinhole is near the USB port. Keep in mind that the LTE version of the Galaxy Tab Pro 10.1 supports voice calls. Leaving the tablet lying on its back keeps both the loudspeakers and the mic clear, but we'd still consider using a headset for talking (Bluetooth or even wired).</paragraph>
+			<paragraph>Video calls are also enabled - both standard 3G video calls and over the various Internet-based chat apps (including Google's Hangouts and Samsung's ChatON).</paragraph>
+			<paragraph>Around back is the 8MP camera with its LED flash. The camera can shoot 1080p video and, if you get the LTE version, it will do it at 60fps (the Exynos-powered Wi-Fi only model tops out at 1080p @ 30fps). The camera lens is centered horizontally so you're unlikely to ever block it with your fingers (we've had that happen with other tablets, including the iPad).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery<subsectionTitle>
+			<paragraph>Despite getting lighter, the Samsung Galaxy Tab Pro 10.1 has the same 8,220mAh Li-Po battery as the Note 10.1 (2014). With the same screen and chipsets, we expected the tablets to have similar battery life (possibly affected by the newer Android OS version), but we ran the tests anyway. And since our review unit is the LTE model (with voice call functionality), we ran a call test too.</paragraph>
+			<paragraph>The call test result is spectacular (no surprise here), while the web playback and web browser times are quite competitive too.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Magazine UI is your new homescreen<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 runs Android 4.4 KitKat with the latest TouchWiz customizations that run deeper than ever before. The key changes are the new Magazine UI and the new multitasking options. Note that we're using a review unit from Samsung that has had the latest updates installed. There are slight differences between that and the Tab Pro 8.4 we reviewed earlier, so the retail version might differ slightly.</paragraph>
+			<paragraph>The Galaxy Tab Pro 10.1 brings four major changes to Android: the brand new Magazine UI for the homescreen, a completely redesigned notification area, an impressive new version of Samsung's proprietary multitasking feature called Multi Window, and updated system apps.</paragraph>
+			<paragraph>The slate has a very familiar lockscreen that accommodates multiple widgets. There is also the familiar app drawer that can stack your apps in folders or even hide apps that you don't use. So far so good. Now comes the interesting part.</paragraph>
+			<paragraph>The homescreen interface has been overhauled since our last tour of the Galaxy Note 10.1 2014 Edition. Now, there are two type of homescreens: Magazine and TouchWiz. Having at least one Magazine pane is obligatory, while the TouchWiz panes are optional. Samsung is really dead set on making this work.</paragraph>
+			<paragraph>The Magazine UI is an evolved version of what we saw on the Galaxy Note 3 as My Magazine. Back then, it was little more than a clone of the once Samsung-exclusive Flipboard app for Android. Now it's a fully functional replacement for you homescreen that does way more than just feed you news and social updates.</paragraph>
+			<paragraph>A Magazine pane would hold up to six widgets, but those widgets always occupy the entire screen - there is no background or docked shortcuts, even the status bar is hidden. You have to tap the top of the screen to bring it back, which means basics like the time and signal strength are not always visible.</paragraph>
+			<paragraph>The Magazine's widgets are completely different from what you have seen so far on Android. They use flat looks a la Windows Phone, they can be easily resized and rearranged. A Change Layout button automatically cycles through preset layouts so you don't even have to tap and drag (but you can if you want to).</paragraph>
+			<paragraph>The available set of widgets is what really makes the Galaxy Tab Pro 10.1 and its Magazine UI so feature-rich. Note that only Samsung-made widgets go here, the widgets used on the TouchWiz homescreen panes are not available.</paragraph>
+			<paragraph>Anyway, the Magazine widgets are a mixture of various content aggregators (news, social services, multimedia), powerful mini versions of system apps and just nicely designed shortcuts.</paragraph>
+			<paragraph>The content aggregators support news from a lot of categories (business, design, movies, food, music, sports, politics, travel, tech, etc.) and social services (500px, Facebook, Twitter). You can choose the specific topics for each Magazine widget. Some widgets are scrollable so they hold more content even if it's not immediately obvious. You have to swipe at them to see if they'll scroll.</paragraph>
+			<paragraph>The aggregators aside, the rest of the widgets give you quick access to the most used apps: gallery, office, hubs, calendar, weather and multimedia players. Finally, you have two different widgets that hold your Favorite and Frequently used apps.</paragraph>
+			<paragraph>You can have up to three Magazine homescreen panes. We guess this is partly due to hardware limitations, because those Magazine widgets probably consume a lot of resources. Also, since only special widgets are allowed, you can't fill much more anyway.</paragraph>
+			<paragraph>You can have standard homescreens as well. You can add app shortcuts there plus the standard Android widgets.</paragraph>
+			<paragraph>Scrolling between the content-laden homescreens is still quick - first, you go through the Magazine panes and then through the TouchWiz ones. It's a looped scrolling process, so once you reach the last homescreen you'll go back to the first.</paragraph>
+			<paragraph>You can choose whichever homescreen you prefer to be the tablet's default one (this could be a Magazine or a TouchWiz homescreen).</paragraph>
+			<paragraph>The last two new elements of the user interface are the notification area and the task switcher.</paragraph>
+			<paragraph>The notification area has gained an additional Volume scrubber and Volume shortcut next to the brightness slider. All icons have been refreshed, too.</paragraph>
+			<paragraph>Those aside, the area hasn't changed all that much - you get a tiny S Search shortcut next to the clock and date, a row with scrollable toggles, a Settings shortcut and the actual expandable notifications.</paragraph>
+			<paragraph>The task switching interface is intact, it just better utilizes the new resolution and doesn't occupy the entire screen. The powerful task manager is also onboard and allows you to kill apps, clean RAM, or uninstall downloaded apps.</paragraph>
+			<paragraph>The Galaxy Tab Pro 10.1 tablet features a couple of virtual assistants, Google Now and Samsung's S Voice.</paragraph>
+			<paragraph>Google Now is more passive - it integrates with your Google account and can access your daily routine, internet searches, email, etc. It displays relevant information (e.g. the estimated time to drive to work), without waiting to be asked specifically.</paragraph>
+			<paragraph>S Voice is more Siri-like. It can be used to dictate text, play music, open an app, change a setting, make a memo (including voice memo), add a reminder, schedule an event, set an alarm or timer, check the weather, do a search on the internet, look for local listings (e.g. nearby restaurants) and even answer questions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Multi Window multi-tasking<subsectionTitle>
+			<paragraph>Samsung has improved tremendously its Multi Window multitasking feature. To access this feature you must enable it in the settings. Then you can open its menu from anywhere in the UI by a left swipe from the right edge of the screen. There you would find a list of currently running apps and also all the apps that support Multi Window.</paragraph>
+			<paragraph>Multi Window, just like before, allows two apps to share one screen. You launch apps by tapping them or dragging them out. Then you can resize them by dragging the dedicated virtual separator. You can tap a currently running app from the list to replace the active half of the screen, but you can't drag those out.</paragraph>
+			<paragraph>Unlike on the Galaxy Tab Pro 8.4, there are no floating apps here, at least not on the software we're running.</paragraph>
+			<paragraph>You can configure various content from My Files, Videos, or even email attachments to open straight in new windows under the multi-window feature.</paragraph>
+			<paragraph>Finally, Multi Window supports combinations - you can assign a shortcut that opens any two apps of your choice side-by-side with just one tap. Nice!</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>As we've already established, the Samsung Galaxy Tab Pro 10.1 is powered by either a Snapdragon 800 chipset or an Exynos 5420. The two have very different processor and GPU combos, but both have 2GB of RAM.</paragraph>
+			<paragraph>The Snapdragon 800 chipset has four Krait 400 cores at 2.3GHz and Adreno 330 GPU, while the Exynos chipset has four each of Cortex-A15 at 1.9GHz and Cortex-A7 at 1.3GHz, plus Mali-T628 MP6 GPU.</paragraph>
+			<paragraph>We're reviewing the LTE-enabled, Snapdragon 800-powered version of the Galaxy Tab Pro 10.1. The performance of the chipset is quite familiar by now and there were almost no surprises.</paragraph>
+			<paragraph>The Galaxy Tab Pro 10.1 posted a slower Benchmark Pi time than its Tab Pro 8.4 sibling, but performance is close to other flagship tablets like the Galaxy Note Pro 12.2 (with Exynos).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The full system tests AnTuTu 4 and Quadrant, however, shows there's virtually no difference between the 8.4" and 10.1" Galaxy Tab Pro tablets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 4<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Similar to Krait 400, Adreno 330's performance is well known at this point. Overall performance is similar to that of the PowerVR G6430 GPU in the Apple iPad Air and better than the Mali-T628 inside the Exynos chipset Samsung uses on its tablets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFXBench 2.7 T-Rex (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFXBench 3.0 Manhattan (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The 2,560 x 1,600 resolution of the screen, however, has quite an effect on 3D performance. Some engines (like Unreal) have the option to render at lower resolution and upscale, which allows more advanced processing to be used and may result in higher image quality, despite the lower resolution.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFXBench 2.7 T-Rex (on-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFXBench 3.0 Manhattan (on-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We used the Android browser for the SunSpider test - Chrome is pre-installed on the Galaxy Tab Pro 10.1, but Samsung has customized the stock browser for truly excellent performance. The Tab Pro 10.1 is one of the best performing Android devices, though Apple still has the lead here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>If we get our hands on the Exynos-based Galaxy Tab Pro 10.1 we will re-run the benchmarks to see how both compare, but the results are easy to predict - Snapdragon should come slightly ahead in CPU and 3D tests, while the Exynos version has a slight edge in web tests.</paragraph>
+			<paragraph>Either way, both are nearly evenly matched and offer the performance you can expect from a current generation flagship tablet.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>The Galaxy Tab Pro 10.1 comes in Wi-Fi-only and LTE flavors, the latter capable of voice telephony. Either way, both have the Contacts app - for email and IM on the Wi-Fi only version and for calls on the LTE version.</paragraph>
+			<paragraph>As usual, the Contacts app syncs automatically with Google and your social networks, while you can choose which contacts to display. You can do everything a phonebook should be capable of: edit a contact, import/export, join contacts, send or print name cards, get friends via social services, etc.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>We have the LTE version in our office, so we managed to try the voice call feature too. We had no issues with reception or audio quality, though obviously you're limited to loudspeaker calling unless you connect a hands-free (wired or Bluetooth).</paragraph>
+			<paragraph>The Galaxy Tab Pro 10.1 even supports 3G video calls for those who still use them. Many IM apps offer video calls, including Google's Hangouts and Samsung's ChatON. These are more widely supported, 3G video call support is rare outside of Samsung devices.</paragraph>
+			<paragraph>Loudspeaker performance was a bit disappointing though - the sound is good and clear, but not very loud. Even the smaller Tab Pro 8.4 managed higher volume.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and text input<subsectionTitle>
+			<paragraph>The LTE version of the Samsung Galaxy Tab Pro 10.1 features the Messages app too, it handles SMS and MMS messages. It's the same apps we've seen on phones, except with a split-screen UI.</paragraph>
+			<paragraph>Anyway, many people have switched over to Google Hangouts, which is an instant messenger that also supports SMS and MMS. Unlike iMessage, this app keeps IMs and SMS conversation threads separate.</paragraph>
+			<paragraph>ChatON is not pre-installed, but it's a free download from the Play Store.</paragraph>
+			<paragraph>The tablet also comes with the traditional duo of email apps - the Gmail app provided by Google and the Email client courtesy of Samsung. Both have a split-screen interface, support multiple accounts, bulk actions and folder view.</paragraph>
+			<paragraph>The default Samsung Email app supports POP3, IMAP and Microsoft Exchange. It also offers a very useful Magazine widget, which will probably see lots of use if you are into email.</paragraph>
+			<paragraph>The Samsung QWERTY keyboard occupies about half of the screen in landscape and about a third of screen in portrait view. There are two additional keyboard layouts to try out. You can opt for the small floating keyboard and a split keyboard.</paragraph>
+			<paragraph>Choosing the split keyboard allows you to quickly thumb-type while holding the tablet with both hands. Other tablets show pop-up compose windows that neatly fit between the two halves of the keyboard, but this wasn't the case with the Tab Pro 10.1.</paragraph>
+			<paragraph>Several other options are available to make text input easier, including dictation and various options for predictive text and auto correction. Swipe input is also supported or, if you disable it, you can swipe left and right across the keyboard to move the cursor. The large keyboard does have arrow keys anyway.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great image gallery<subsectionTitle>
+			<paragraph>The Album view in the Galaxy Tab 10.1 gallery app shows a stack of photos with a navigational bar on the left with all the albums. You can use the pinch gesture to change the size of the thumbnails. Various sorting and viewing options are also available.</paragraph>
+			<paragraph>The gallery supports bulk actions, photo notes, there are lots of sharing options as well, plus there is a powerful embedded image editor you can launch when viewing a single image.</paragraph>
+			<paragraph>Another cool feature is Buddy photo share - it recognizes faces in a photo, you link those to your contacts and the tablet will learn to recognize them itself in the future and tag them automatically. Then the faces in the photo become handy shortcuts to that contact. This way you can quickly send that photo you took of your friend just by touching their face.</paragraph>
+			<paragraph>The Gallery also supports highly customizable slideshows, too.</paragraph>
+			<paragraph>For managing other files, the Tab Pro 10.1 comes with a file browser. Besides the basics, the app also integrates with Dropbox, can handle ZIP files and even connect to FTP servers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>New look for the music player, same great functionality<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 comes with the redesigned TouchWiz music player. It offers the same rich functionality, but with a much better interface. The new Music app relies on a customizable tabbed interface, instead of the previous split-screen UI. Both playlists and folder view are supported.</paragraph>
+			<paragraph>The Now playing screen, even though it's got a new skin, gives you the usual options. The music player will also try to find the lyrics for the song you're listening to.</paragraph>
+			<paragraph>Automatic playlists can be generated with the Music Square feature, which categorizes songs by tempo (calm-exciting) and mood (passionate-joyful). The mood axis can be changed to years instead, if you want a playlist of classics or new hits.</paragraph>
+			<paragraph>The music player supports a variety of codecs (including FLAC) and Samsung has implemented several audio-enhancement features. The equalizer presets (called SoundAlive) are cleverly organized into a square similar to the Music Square. The presets balance between Treble and Bass, Vocals and Instrumental. You can also just tap the Auto toggle or enable a Tube amp effect.</paragraph>
+			<paragraph>The advanced view of the equalizer gives you a proper seven band equalizer you can tune manually and enable additional effects like 3D, Bass and Clarity.</paragraph>
+			<paragraph>Audio features don't end here. Smart sound will keep the sound level between tracks, while Adapt sound tests the performance of your headphones and tunes the equalizer based on that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>No DivX and AC3 codecs for the video player<subsectionTitle>
+			<paragraph>The video player found on the Samsung Galaxy Tab Pro 10.1 features a UI similar to the music player, unfortunately, the video codec support is quite patchy.</paragraph>
+			<paragraph>Many videos we tried resulted in an "audio codec not supported" message and even some basic video codecs don't work (i.e. DivX). MKV, AVI (XviD) and MP4 videos do play, but anything beyond MP3 or AAC sound is no-go.</paragraph>
+			<paragraph>The video player has three tabs - Personal, Downloads and Nearby devices - complete with a search field. The available videos show up as a grid of animated thumbnails, but list and folder view are also available. A nice option lets you pull out a list of videos on the left, somewhat similar to the gallery app (but no folders are visible here).</paragraph>
+			<paragraph>You can change the zoom mode (100% or fit to screen with and without affecting the video's aspect ratio) and there's a pinch zoom too, in case you want to get close up on a specific part of the action.</paragraph>
+			<paragraph>The same SoundAlive audio-enhancing technology from the music player is available here too. There are additional settings for the brightness, playback speed and feeding the audio through Bluetooth (if you have wireless speakers).</paragraph>
+			<paragraph>The video player supports Multi Window but there's also Pop Up Play, which puts the video in a floating window, which is visible throughout the user interface. It can be moved and resized.</paragraph>
+			<paragraph>If subtitles are available, the video player will automatically find and load them. You can also manually load subtitles, if the video and subtitle file names don't match.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellently clean audio output<subsectionTitle>
+			<paragraph>Unsurprisingly given the record of recent Samsung tablets, the Galaxy Tab Pro 10.1 delivered a great performance in our audio output test. With clean output in both parts of the test and decent if unspectacular volume levels the slate will leave few audiophiles wanting for more.</paragraph>
+			<paragraph>Not even plugging in our pair of headphones managed to bring the output down - it mostly had effect on the stereo crosstalk and even there the increase wasn't too dramatic.</paragraph>
+			<paragraph>Check out the table and see for yourself.</paragraph>
+			<paragraph> Samsung Galaxy Tab Pro 10.1 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Disappointing 8MP snapper<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 features an 8 megapixel main camera and a 2 megapixel front-facer, and you can shoot 1080p videos with both.</paragraph>
+			<paragraph>The user interface is based on the new generation Samsung camera UI. A single viewfinder handles both still and video capture, so you don't have to switch modes. However, this is certainly not the most convenient solution as, if you're shooting full resolution 8MP photos, you'll have to frame your videos using a 4:3 ratio viewfinder, which doesn't match the screen's wide aspect ratio.</paragraph>
+			<paragraph>There is a wide variety of settings but they are spread out in different places. For starters, color effects (with a live preview for each) are at the bottom of the screen. You can download more effects from Samsung Apps.</paragraph>
+			<paragraph>Another place with cool options is the Mode button, which brings out a carousel of advanced features (you can switch to grid view, but we find the carousel easier to use with the thumb). The features include major shooting modes such as HDR (called Rich tone) and Panorama, along with proprietary Samsung features such as Eraser (removes objects), Drama (duplicates objects), Sound &amp; shot (capture ambient sound to go with the photo), Best photo, Best Face and Beauty Face. Dual shot is also available - it combines the feed from both the front and back cameras on a single photo.</paragraph>
+			<paragraph>There are even more options, some of which are visible in the top left corner. For the rest, you'll have to go into the full settings menu. These include burst shot, face detection, manual ISO setting, Smart stabilization and so on. Voice controls are enabled if you want to take a shot hands-free (e.g. a group shot).</paragraph>
+			<paragraph>Fresh off the Galaxy Note Pro 12.2 and Tab Pro 8.4, we expected the 8MP shooter of the Tab Pro 10.1 to be virtually identical. This wasn't the case, however. The level of fine detail is subpar, lost between noise reduction and jaggies. The white balance feels off and colors are a mix of over and under saturation.</paragraph>
+			<paragraph>Overall, a pretty disappointing camera - normally we wouldn't care (this is a tablet after all), but somehow this tablet's smaller sibling got the better camera.</paragraph>
+			<paragraph>As a small consolation, the HDR mode did a great job of bringing in more detail in the highlights without ruining the contrast. The level of fine detail overall is still subpar though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 has an 8MP camera, but comparing it to other 8MP shooters from the Galaxy Pro family makes it pretty clear this is effectively a 5MP camera.</paragraph>
+			<paragraph>   Samsung Galaxy Tab Pro 10.1 in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Redeeming 1080p video<subsectionTitle>
+			<paragraph>Samsung Galaxy Tab Pro 10.1 shoots 1080p videos at 30 fps. It can't capture 2160p videos (unlike the Galaxy Note 3), even though it is powered by the almighty Snapdragon 800 chipset.</paragraph>
+			<paragraph>Anyway, the Tab Pro 10.1 stores videos in MP4 files with 17Mbps bitrate on average. Stereo audio is recorded at a bitrate of 128Kbps and 48kHz sampling rate. Those are the same basic numbers as the videos taken by the Samsung Galaxy S4 for instance.</paragraph>
+			<paragraph>The video camera doesn't have many fancy shooting modes like the still camera, but dual shot is available and you can do time-lapse videos. Those can speed things up to 8x, with resolution and frame rate remaining at 1080p @ 30fps.</paragraph>
+			<paragraph>Touch focus is available before and during video recording and you can switch back to continuous autofocus if you prefer. You can capture 6MP (16:9) photos during recording as well, their image quality seems decent too.</paragraph>
+			<paragraph>The camcorder washes off some of the disappointment from the still camera. It actually produces very good 1080p videos, with plenty of detail and no visible noise. Colors are still on the dull side, but the framerate is kept at a consistent 30fps for a smooth video.</paragraph>
+			<paragraph>Here goes a 1080p sample that we uploaded to YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also check out the untouched 1080p@30fps sample that we captured with the Galaxy Tab Pro 10.1.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>While the still camera was no match for 8MP smartphone cameras, the video camera will give 1080p shooters a run for their money. We wouldn't rely on the Galaxy Tab 10.1 for still photos (unless we have absolutely no other electronic devices on us), but we'd shoot a video with it.</paragraph>
+			<paragraph>   Samsung Galaxy Tab Pro 10.1 in our Video Compare Tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Only missing NFC<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 can be had with either Wi-Fi only or LTE connectivity. The LTE model features quad-band GSM and 3G support with HSPDA up to 42Mbps. The LTE support covers six bands and is category 4, which means you get up to 150Mbps of downlink and up to 50Mbps of uplink speeds.</paragraph>
+			<paragraph>Both tablet versions feature Wi-Fi a/b/g/n/ac support, with 2.4GHz and 5GHz band compatibility. Wi-Fi Direct and DLNA support are also available as well as GPS and GLONASS receivers. Bluetooth 4.0 is also available for local data transfer.</paragraph>
+			<paragraph>There is a microSD card slot as well, on top of the 16/32GB of internal storage.</paragraph>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 also supports USB-on-the-go, but you will need to buy an additional adapter for that. The tablet can work with USB storage, USB mice and keyboards. Of course, you can always hook up a Bluetooth mouse or keyboard to the slate without relying on the cable connection.</paragraph>
+			<paragraph>You can also buy an MHL adapter and connect the tablet to your HDTV using a regular HDMI cable.</paragraph>
+			<paragraph>An IR blaster on the right of the tablet allows it to control TV's and other devices using the Samsung WatchON app.</paragraph>
+			<paragraph>The last piece of the connectivity puzzle, NFC, is missing as it is on all recent Samsung tablets. There's no FM radio (the Snapdragon 800 chipset does not support it), but that's less crucial than the NFC connectivity.</paragraph>
+			<paragraph>The Samsung AllShare feature is integrated with Samsung's default apps - the Video Player app, the Gallery, and the Music Player - and it allows you to wirelessly stream all sorts of multimedia content to your connected stereo or HDTV.</paragraph>
+			<paragraph>Thanks to AllShare you can also mirror your mobile device screen on the bigger HDTV via Wi-Fi Direct and the widely supported Miracast protocol - that would even allow you to play mobile games on the biggest screen in your living room. You don't need to have a Samsung TV for that to work, but it needs to have Wi-Fi connectivity and support Miracast.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent web browsing experience<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 comes with both the stock Android browser (customized by Samsung) and Google's Chrome, both supporting Multi-window.</paragraph>
+			<paragraph>The interfaces of both browsers are virtually identical. Tabs are kept in a bar on top, much like on a desktop browser, and the address bar and search bar are incorporated in a single field (with a voice input shortcut).</paragraph>
+			<paragraph>Both browsers feature incognito tabs and request desktop view. Chrome has a Google-powered feature that syncs open tabs across devices that run Chrome, but Samsung has integrated a similar feature into the stock browser (this one goes through your Samsung account).</paragraph>
+			<paragraph>The new tab for each browser is centered around thumbnails of the sites you visit most often. Bookmarks are also viewed as thumbnails.</paragraph>
+			<paragraph>Flash is no longer welcome as even the stock browser has dropped support for it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer and navigation<subsectionTitle>
+			<paragraph>The Android calendar has been replaced with S Planner (as usual). It offers a good-looking and user friendly interface and does an excellent job of keeping your events organized. Multiple online calendars are supported and they can be color-coded for easier orientation.</paragraph>
+			<paragraph>Both the Wi-Fi-only and LTE versions of the Samsung Galaxy Tab Pro 10.1 come with a GPS receiver. A-GPS can speed this up quite a bit, but requires Internet access. Cell-ID and Wi-Fi positioning is another quick (but less accurate) option.</paragraph>
+			<paragraph>The Galaxy Tab Pro 10.1 comes with Google Maps and Google Maps Navigation. Google's voice-guided navigation app is a viable solution available in many markets. Not that there are easy ways to attach a 10.1" tablet to your car's interior but it's doable.</paragraph>
+			<paragraph>Even if you don't intend to do that, the tablet is still great for reviewing routes you can later navigate with your phone. Also, the public transit option and street view can be very useful on the go.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Premium apps<subsectionTitle>
+			<paragraph>Samsung has positioned the Galaxy Tab Pro 10.1 as a premium tablet and as such it comes with a rich app package similar to the Note Pro 12.2's suite. These are mostly centered on doing work.</paragraph>
+			<paragraph>The Office apps are courtesy of Hancom Office - Hword, Hcell and Hshow. They feature interfaces similar to the desktop Microsoft Office apps, meaning they are busy with tons of buttons. While they can be operated with a finger, we get the feeling it would be more comfortable to use a mouse with those.</paragraph>
+			<paragraph>It's hard to use those apps without an external keyboard too - the large QWERTY just takes up too much space (from what little was left with such a complicated app UI). It's a good thing you can switch to one of the less intrusive on-screen keyboards in a pinch.</paragraph>
+			<paragraph>Don't think that we're knocking these apps - they really do feel like a desktop Office package, which is not something you can have from the Play Store for free.</paragraph>
+			<paragraph>Dropbox and Flipboard are pre-installed, but Evernote and TripAdvisor (often found on other Samsungs) are missing.</paragraph>
+			<paragraph>This is followed by two collaboration apps - Cisco WebEx and Samsung e-Meeting. The first does conferencing (complete with screen-sharing), while the second handles peer-to-peer content sharing without the need for an intermediary server.</paragraph>
+			<paragraph>There's more: the Remote PC app does just what it says on the tin. It gives you remote access to your home or office PC, which works great if you hook up a keyboard and mouse. SideSync does something similar, just in reverse. It shares windows and data between a computer and the tablet, so you can manage it on you PC.</paragraph>
+			<paragraph>The premium app package doesn't end here, Samsung is promising up to $700 worth of content downloads. A lot of that is for subscriptions - you get a year of BusinessWeek+, 12 weeks of NY Times, 6 months of Livesport.tv, a 3-month LinkedIn premium, plus a free Oxford's Advanced Learners Dictionary. Those are all available for download over at Samsung Apps.</paragraph>
+			<paragraph>Other apps are in the bundle as well, like Bitcasa, which offers a lot more storage than Dropbox - a whopping 1TB - but the subscription is for three months only. Note that the RemotePC service is also subscription-based (you get 2 years) and so are Evernote (3-12 month subscription, market dependent) and LinkedIn (3 months of Premium Membership).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>App repositories<subsectionTitle>
+			<paragraph>Google's Play Store is one of the biggest mobile app stores and offers an amazing number of applications, so whatever you need, you'll find it here.</paragraph>
+			<paragraph>You can also check out comments and ratings, as well as the number of downloads and so on, to help you decide if the app is worth it. Google has added a small "designed for phones" warning for apps that aren't tablet- optimized. Those can look bad on the large screen, so it's nice to be forewarned.</paragraph>
+			<paragraph>Samsung has naturally included its own Apps store. It features largely the same type of interface as Google Play, except here you'll find a far lower number of apps. The good news is Samsung uses this repository to distribute some exclusive titles and some promotional offers, available only to its customers.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab Pro 10.1 is part of the new Tab Pro family and while the Tab Pro 12.2 and Tab Pro 8.4 bring something new to the table, the 10.1" member of the line feels a rehash of the Galaxy Note 10.1 (2014).</paragraph>
+			<paragraph>The similarities between the two indeed span almost the entire spec sheet, S Pen aside. The new, lighter build of the Tab Pro 10.1 is a welcome change however, and really makes a difference in daily use.</paragraph>
+			<paragraph>Enough to make Note 10.1 (2014) users to switch? Certainly not. However, unless you've bought a 10" tablet in 2013, the Galaxy Tab Pro 10.1 will give you plenty of reasons to go for it and the iPad Air-like weight is just one of them.</paragraph>
+			<paragraph>The 10.1" Super Clear LCD is one of the best tablet screens we've seen and the chipsets are the fastest of the current generation. The software suite based on Android 4.4 KitKat is strongly enhanced by the latest TouchWiz - whether you like the new Magazine UI, the Multi Window feature is a must-have for tablets over 7 inches.</paragraph>
+			<paragraph>Samsung also pre-loaded an impressive suite of apps, including one of the most advanced Office apps we've seen, plus other premium tools for computer interfacing or business conferencing.</paragraph>
+			<paragraph>Still, the Galaxy Note 10.1 (2014) is worth a look. It may be heavier but you get the S Pen and all the features it enables, the hardware being virtually the same. The Note 10.1 has been around for a while, so you might find better deals for it.</paragraph>
+			<paragraph> Samsung Galaxy Note 10.1 (2014 Edition)</paragraph>
+			<paragraph>If you like the Galaxy Tab Pro 10.1 specs but not the size, you can also go bigger or smaller with the Tab Pro 8.4 and Tab Pro 12.2. Note that the 12.2" tablet has 3GB of RAM and an even richer app suite.</paragraph>
+			<paragraph>  Samsung Galaxy Tab Pro 8.4 ? Samsung Galaxy Tab Pro 12.2</paragraph>
+			<paragraph>The Apple iPad Air is still the market leader and for good reason - it's light, despite its aluminum unibody, and polished to a shine (in terms of both software and hardware). However, Apple's conservative approach basically makes it a large-screened iPhone and we really started getting into the multi-tasking features and rich homescreen (as opposed to a grid of icons). You do get a far richer library of tablet-optimized apps, though.</paragraph>
+			<paragraph> Apple iPad Air</paragraph>
+			<paragraph>The Sony Xperia Tablet Z scores points for design too with its beautiful aluminum-and-glass build. It's stunningly thin at 6.9mm and weighs only about 20g more than the Galaxy Tab Pro 10.1. Better yet, it's water resistant so you can use it in the bath or in the kitchen (there's even a special Kitchen Edition) and by the pool. On the cons side, the chipset is a generation older and the software is a step behind too.</paragraph>
+			<paragraph> Sony Xperia Tablet Z Wi-Fi</paragraph>
+			<paragraph>Samsung's approach to the market is to throw things at the wall and see what sticks. The Koreans don't mind having products that overlap either. In the end, sales will still go on the budget sheet. That's the story of the Galaxy Tab Pro 10.1 and Galaxy Note 10.1 (2014).</paragraph>
+			<paragraph>If you're not the artistic type and you won't be doing too many handwritten notes, then the value of the S Pen goes down. Getting a lighter tablet is certainly worth losing the S Pen if you weren't going to use it much.</paragraph>
+			<paragraph>As for rival droid tablets, the Tab Pro 10.1 has its chipset to lean on (newer than the Xperia and no Intel Atom stuff that's coming from Asus and Acer), plus an app and feature package that is equal, often better. It's Apple then, the likely main target - and Samsung now has a Pro for each iPad screen size.</paragraph>
+		</subsection>
+	</page>
+</review>

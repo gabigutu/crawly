@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>The Raven</nameEn>
+	<nameFr>Le Corbeau</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1845</year>
+	<link>http://www.senscritique.com/livre/Le_Corbeau/8149063</link>
+	<generalScore>8.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>51</numberOfVoters>
+		<numberOfVoters>131</numberOfVoters>
+		<numberOfVoters>131</numberOfVoters>
+		<numberOfVoters>96</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Poème légitimant à lui seul, le génie de son auteur !</title>
+		<author>Mugi</author>
+		<date>2013-11-02</date>
+		<score>0.9</score>
+		<content>Quelle classe ! Quelle maitrise ! Et au dessus de tout, quelle élégance dans l'imagination ! J'ai reçu une vraie bonne claque ! Il chamboule toutes les normes de la poésie ! Il crée de l’anti-conformité, de la beauté, de la beauté, de la majesté ; et enfin de la majesté, une versification touchant au divin ! Ces événements qui s’entremêlent, qui créent un quiproquo surréaliste, le corbeau devient une créature prophétique ; un envoyé du ciel, un messager au début d'espoir, et à la fin l'outil de sa propre déchéance... La mutilation de l'âme d'un amant perdu, et qui à défaut de ne pouvoir apaiser son cœur, trouve en ce corbeau, «oiseau de malheur» son bourreau, et il s’étouffe avec son aide, même si c'est contre la volonté du corbeau qui lui, est totalement neutre.Il est simplement là, perché au dessus de cette porte, répétant encore et encore la phrase «Jamais plus». C'est ce que voulait entendre l'amant ! Que jamais plus, il ne reverrait sa dulcinée, jamais plus, il ne redeviendra heureux, jamais plus, il goutera à la joie... Telle est la vie, un long chemin rempli de jamais plus, de belles choses qui s'épuisent sans jamais revenir... jusqu'à la mort, et puis ? La vie, jamais plus !</content>
+	</review>
+</sensCritiqueEntity>

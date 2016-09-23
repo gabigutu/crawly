@@ -1,0 +1,165 @@
+<review>
+	<title>W380, Z555, W350, T280 preview</title>
+	<description>Sony Ericsson roundup</description>
+	<link>http://www.gsmarena.com/sony_ericsson_w380_z555_w350_t280-review-209.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>We got our hands on several unreleased Sony Ericsson mobiles and we wasted no time in showing you the ins and outs of those babies. Writing full reviews of the devices seems pointless at this time as they are all not final versions, however they are good enough for a quick-and-dirty hands-on article.</paragraph>
+			<paragraph>Today's big band consist of Sony Ericsson W380, Sony Ericsson Z555, Sony Ericsson W350 and finally, Sony Ericsson T280 (mentioned in the order of appearance).</paragraph>
+			<paragraph>We are not going to do a feature comparison since they all are positioned in different market segments. Instead we will be focusing on the new features they are bringing to the Sony Ericsson portfolio and how well they are implemented. All the devices we received for reviewing are working prototypes - we saw some bugs and unexpected freezes, but that's normal at this stage. Nevertheless, they give us a pretty good idea of what the final product will be.</paragraph>
+			<paragraph>Announced on 6th November 2007, the Sony Ericsson W380 is a modest Walkman phone that comes in the clamshell form factor. It sports tri-band GSM/GPRS/EDGE support and has a 1.3 megapixel camera. It surely has a display to match those specs (read lower midrange) in the face of the 1.9" 262K color TFT display with a resolution of 176 x 220 pixels and a hidden external OLED one with a resolution of 36 x 128 pixels. The stereo Bluetooth and the FM radio complement the bunch.</paragraph>
+			<paragraph>The most exciting about a run-of-the-mill handset like the W380 is the brand new gesture control. It allows you to mute calls or silence the wake-up alarm with a wave of your hand. The external touch-sensitive music controls also deserve attention - they use the hidden external display to display information and they have haptic feedback, producing light vibrations when pressed.</paragraph>
+			<paragraph>Announced on 07th January 2008, the Sony Ericsson Z555 again flaunts the clamshell form factor. It features a 1.9" 262K display with 176 x 220 pixels resolution and an external OLED monochrome screen supporting resolution of 128 x 36 pixels. Hardware-wise the Z555 seems to be identical to the Sony Ericsson W380, so they basically have the same features - stereo Bluetooth, 1.3 megapixel camera, tri-band GSM/GPRS/EDGE support - they are all there. The internal memory is only 12MB, but it is expandable through the built-in M2 card slot.</paragraph>
+			<paragraph>The Sony Ericsson W350 was announced along with the Z555 - it's a Walkman phone that has the unusual flip-down form factor we all remember from back in the day when Ericsson was still not married to Sony.</paragraph>
+			<paragraph>The Sony Ericsson W350 is again a modest model feature wise. It is equipped with a 1.3 megapixel camera and has 14 MB of internal memory. As with any Walkman phone, there is a M2 card slot for expanding it. The only 10.5 mm thick Sony Ericsson W350 weighs the modest 80g and has a 1.9" display with a resolution of 128 x 160 pixels, capable of showing up to 262K colors. An interesting thing about the handset is that when closed, the flip allows access to dedicated music keys.</paragraph>
+			<paragraph>The Sony Ericsson T280 is the last of the bunch - it's the bigger brother of Sony Ericsson T270 and both are successors of the Sony Ericsson T250. The Sony Ericsson T280 expands the functionality of T270 by adding a 1.3 megapixel camera. Otherwise the phone is completely identical to its younger sibling. It's compact, weigh the mere 82 grams.</paragraph>
+			<paragraph>If all that info is enough to get you started, hit the jump for a more detailed account of our hands-on experience with all these Sony Ericsson devices.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Ericsson W380<subsectionTitle>
+			<paragraph>The Sony Ericsson W380 is a lower midrange clamshell, which is both attractive and well constructed. It boasts several juicy features such as Flash Lite theme support, gesture control, external touch-sensitive keys and light effects. Other specs are not that intriguing such as the 1.3 megapixel camera and the 176 x 220 pixels TFT display.</paragraph>
+			<paragraph>The Sony Ericsson W380 is expected to hit the markets in Q1 2008 so it won't be long before we see it in a retail version. It offers a balanced feature pack and if the price tag is right it's bound to be a success.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson W380 360-degree spin<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Sony Ericsson W380 has a striking design that pleases the eye. It's fairly compact and as far as current clamshells go it's rather "rectangular" in design. The frontal cover is dominated by the touch-sensitive music keys. They have an auto lock feature in order to prevent accidental key presses. You can also spot the Walkman logo in green and the 1.3 megapixel camera.</paragraph>
+			<paragraph>What you won't see on first sight is the hidden OLED display beneath the front cover surface. It displays status information such as the clock, the battery and signal meters plus some missed events such as a call or a message. It's also used for displaying music information while the Walkman player is running. The dedicated touch sensitive keys respond to each command with a slight vibration - that's the so-called "haptic" feedback. The keys themselves react only when pressed by a finger and not some other object.</paragraph>
+			<paragraph>Operating with the external music keys</paragraph>
+			<paragraph>The display and the keys have a nice backlighting, but only when used in the dark. Under bright sunlight the display is totally illegible and becomes useless.</paragraph>
+			<paragraph>The secret behind the gesture control magic of the device is this. Once you get a call or your alarm sounds, the Sony Ericsson W380 activates the camera and uses it for motion detection - something even cheap webcams can do nowadays. Then you just wave your hand in front of the camera and the call or alarm gets silenced. According to Sony Ericsson you have to wave twice in front of the camera to accept your gesture, however as you can see from our video, even a single wave would do it. Unfortunately there are no advanced settings for this feature so you can't use it for other purposes or applications, nor does it understand other gestures besides waving.</paragraph>
+			<paragraph>In order for the feature to work, Sony Ericsson has equipped the camera with a really small LED (strangely enough it can't be used as LED flash for the camera). When there's an incoming call and the light is not enough for the camera to "see" you waving, the LED turns on in order to assist it.</paragraph>
+			<paragraph>Here's a short video on how the features works in reality.</paragraph>
+			<paragraph>Using the gesture control to silence an incoming call</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The keypad fares well<subsectionTitle>
+			<paragraph>It should be noted that the task of opening the clamshell becomes almost an impossible one if you attempt it single-handedly. Once you open the clamshell, the spacious keypad gets revealed. The keys are well made but the surrounding plate is covered in dots which reminded us of the now elderly Nokia 6170. The alphanumeric keys are somewhat hard to give in under your finger press, but there's ample space between them so you are unlikely to make typos, if that's a consolation.</paragraph>
+			<paragraph>The upper part of the keypad features the standard Sony Ericsson keys - a D-pad, two context soft keys, a correction C key and a Back key which is becoming obsolete in the upper range of the latest Sony Ericsson phones. Below those there are three really small shortcuts keys - one for the file browser, a second one for the Activity menu and finally, a third one that switches the phone on and off and toggles profiles (the location of the on/off key certainly caught us off guard as it's a bit unexpected).</paragraph>
+			<paragraph>You also might notice that just below the display there's a tiny ambient light detector.</paragraph>
+			<paragraph>On the back side of the Sony Ericsson W380 there is a hardware unlock slider that is used for unlocking the external music keys (you probably didn't think of that, did you?).</paragraph>
+			<paragraph>The back cover hiding the battery has a pretty awkward opening system. Awkward, but simple - there's a little notch on the left that you use to stick your fingernail in and then you just push until the cover pries open. Opening the back cover this way surely packs an additional excitement element about the phone - you never know whether this next time you open it won't be your last one.</paragraph>
+			<paragraph>Beneath the cover there's the Sony Ericsson BST-39 Li-Ion battery, which has a capacity of 930 mAh. The manufacturer rates it at up to 300 hours of standby time and up to 7 hours of talk time. Unfortunately, we can't comment on those figures.</paragraph>
+			<paragraph>The M2 memory card slot is also accessible only with the cover off, but otherwise it's fully hot-swappable. So it seems that the Sony Ericsson W380 user might end up using the pry-to-open method more often than one would like to.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The user interface won't surprise<subsectionTitle>
+			<paragraph>The user interface of the Sony Ericsson W380 is a pretty standard Sony Ericsson issue. It supports Flash Lite themes so it can be changed almost beyond recognition. It doesn't look bad even despite the low 176 x 220 pixel resolution.</paragraph>
+			<paragraph>The Sony Ericsson W380 is equipped with the Walkman music player 2.0. It has several equalizer presets including the proprietary Mega Bass. It can be set to run in background so you can do other things with the phone while listening to music. When in background mode, there is an indication of the name of the song and artist of the track currently playing in the top part of the screen. The control of the player is intuitive and really easy to use. It displays the album cover during playback if you choose so.</paragraph>
+			<paragraph>There are two other skins beside the standard black one and you can use those to suit your themes, since the theming itself doesn't change the music player interface.</paragraph>
+			<paragraph>The Sony Ericsson W380 also has a FM radio that supports RDS. It can store up to 20 radio stations.</paragraph>
+			<paragraph>The 1.3 megapixel camera sounds really low end, since there are a number of handsets now that come with 2 megapixel modules. Well, indeed it is, and the camera interface follows the same simplistic line. The only thing that the camera outperforms the others by is the Panorama shoot mode which none of the other handsets in this roundup has.</paragraph>
+			<paragraph>We even have some camera samples for you to enjoy, however those will be listed on the last page of this article.</paragraph>
+			<paragraph>There are two games preinstalled on the Sony Ericsson W380 we received and those are ExtremeAir Snowboarding and QuadraPop - we've seen them in past models two. Obviously gaming is not the selling point of this device and the two games are only there to complement the package. You can of course download more Java games to enjoy.</paragraph>
+			<paragraph>So that's about our hands-on experience with the Sony Ericsson W380. Jump to the next page for an overview of its twin the Sony Ericsson Z555 and don't forget to hit the last page of this article for some comparative camera samples.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Ericsson Z555<subsectionTitle>
+			<paragraph>The Sony Ericsson is functionally identical to W380 - it's got almost the same goods and bads with some twists. There is Flash Lite theme support but an enhanced one (the standard theme changes colors according to the time of day), there is gesture control support and an external display, but there are no external music keys or light effects. There is the 1.3 megapixel camera, the 176 x 220 pixels TFT display, and the M2 memory card slot, however the Walkman player is not present. The Sony Ericsson Z555 however makes up for it with a gem inspired design and a better keypad.</paragraph>
+			<paragraph>The Sony Ericsson Z555 is expected to become available in Q1 2008 too, however we have a hunch it won't be that successful as its Walkman-enabled twin.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson Z555 360-degree spin<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Sony Ericsson Z555 has the same excellent build quality as the W380, however it comes with a totally different design. While it's intriguing at first glance, we couldn't quite get to like it as much as we dig the W380.</paragraph>
+			<paragraph>The front panel has a similar hidden OLED display but with portrait orientation. There are no external keys however.</paragraph>
+			<paragraph>The 1.3 megapixel camera lens is again the main eye-catcher on the glossy external surface. Since the Sony Ericsson Z555 uses its camera for gesture control much like the W380, there is also a tiny LED just below the lens that lights up when it's too dark for the camera to detect your movement.</paragraph>
+			<paragraph>The external display of the device is not only hidden but it also has some sort of a cool reflection effect. But again it's unusable under direct sunlight.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>We like this keypad better<subsectionTitle>
+			<paragraph>Opening the clamshell single-handedly is again impossible as with W380. Once you've got past that, you will immediately see the 1.9 inch 262K color TFT display with a resolution of 176 x 220 pixels and the large keypad. The keypad has the same layout as the one of Sony Ericsson W380, however the keys are designed differently. They are still a bit hard to press down and the keypad has a rather uneven backlighting in the dark but we like this keypad more than the one of W380 - at least visually that is. The shortcut keys for the browser, the profiles and the Activity menu are a lot bigger than the ones on W380.</paragraph>
+			<paragraph>You also might notice that just below the display there's a tiny ambient light detector.</paragraph>
+			<paragraph>The back panel of the Sony Ericsson Z555 is of the same novel pry-to-open type and under it is the Sony Ericsson BST-39 Li-Ion battery, which has a capacity of 930 mAh. The manufacturer rates it at up to 360 hours of standby time and up to 8:20 hours of talk time. Interestingly enough those figures are 20% more than the expected battery life of W380. Unfortunately, we can't comment on the real-life performance of that battery either.</paragraph>
+			<paragraph>The M2 memory card slot is also accessible only with the cover off, but otherwise it's fully hot-swappable. So it seems that the Sony Ericsson Z555 user might end up using the pry-to-open method more often than one would like to.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Ever-changing theme<subsectionTitle>
+			<paragraph>When it comes to the Sony Ericsson Z555 user interface, there are no surprises in store for the user. It has an enhanced Flash light theme support - its implementation remind of the more expensive Sony Ericsson T650 model. The animated standard theme changes its colors and shades according to the time of day.</paragraph>
+			<paragraph>The image gallery of the Z555 is something most of the Sony Ericsson users have already seen. It allows filtering images based on the memory they are stored on. Further on, much like W380 you have Timeline view, which allows you to filter the photos in the camera album based on the date they were taken on.</paragraph>
+			<paragraph>Since the Sony Ericsson is not in the Walkman lineup, it doesn't have the Walkman music player either. The music player on Z555 has a similar functionality when it comes to filtering tracks and working in the background. However it lacks light effect support, visualizations support, skins and the MegaBass preset. Otherwise since the Z555 and W380 are virtually identical, we suppose that sound quality is similar too.</paragraph>
+			<paragraph>The Z555 also has a FM radio with RDS support. It's the same as the one on W380, but with a different skin. Again, it can store up to 20 stations.</paragraph>
+			<paragraph>The Sony Ericsson Z555 1.3 megapixel camera has pretty much the same interface as the camera on W380. The only thing that's lacking here is the Panorama shooting mode we saw on W380.</paragraph>
+			<paragraph>The Sony Ericsson Z555 has two applications preinstalled - both rely on Internet access to work. The AccuWeather is a mobile application for access to their popular weather service. Audible is the second application and it allows downloading of podcasts and audio shows. They are all paid though, and you only have a right of a sample.</paragraph>
+			<paragraph>The Sony Ericsson Z555 comes with only one game preinstalled - it's the Jewel Queen II, which is a version of the highly popular game Bejeweled.</paragraph>
+			<paragraph>So that's about our hands-on experience with the Sony Ericsson Z555. Jump to the next page for an overview of the slim and compact Sony Ericsson W350 and don't forget to hit the last page of this article for some comparative camera samples.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Ericsson W350<subsectionTitle>
+			<paragraph>The Sony Ericsson W350 is a lower midrange Walkman phone. It specializes in thin design (only 10.5 mm) and an innovative (or rather neo-classical) flip down form factor. Beside all that it offers the essentials for a music-oriented device - dedicated music keys, M2 memory card slot, and stereo Bluetooth. It also has a 1.3 megapixel camera, a 176 x 220 pixels display and Flash Lite themes support.</paragraph>
+			<paragraph>The Sony Ericsson W350 is expected in Q2 2008, so it's understandable that our unit is a rather early prototype - even the external looks are subject to change in the near future.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson W350 360-degree spin<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Sony Ericsson W350 doesn't have hip features such as gesture control, but comes with a novel (or well-forgotten) flip down form factor and it's really compact and thin. The really thin plastic flip has external music keys on it. In order to use them though, you have to unlock the handset with the hardware slider key on the top of the device. Probably the coolest thing about them is that they offer haptic feedback with slight vibratons. The other curious thing about those keys is that they are not really functional keys - when you press them on the thin flip in fact you press the alphanumeric keys below the flip.</paragraph>
+			<paragraph>The Sony Ericsson W350 has the same 1.9-inch TFT display with 176 x 220 pixels resolution as the two previous handsets in this roundup. Just below the display there is an ambient light detector that automatically controls the display backlighting.</paragraph>
+			<paragraph>The flip below the display is rather easy to open or close single-handedly as it has an assisting spring. The alphanumeric keys below the flip have a great tactility and texting is a real pleasure. However the navigational D-pad is probably the biggest downside of the W350. The confirming center is way to small to be presses with a larger thumb. Most of our attempts in pressing it ended up with pressing the central key along with one of the directional keys on the D-pad. So in the end we were stuck with using the left soft key as it provides identical function throughout the user interface and the available applications.</paragraph>
+			<paragraph>The back panel of the Sony Ericsson W350 features only the loudspeaker grill and the 1.3 megapixel camera. The battery cover is again the pry-to-open type (what's with that cover fashion Sony Ericsson?). Once you get past that, you get access to the SIM card slot, the M2 memory card slot and the Sony Ericsson BST-36 Li-Po battery with a capacity of 780 mAh. The manufacturer rates it at up to 300 hours of standby time and up to 7 hours of talk time. Again, we can't comment on those figures.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>User interface with Walkman style<subsectionTitle>
+			<paragraph>The Sony Ericsson W350 features the well-known user interface we've already written dozens of times and more. It comes with Flash Lite theme support. With the help of Flash Lite themes you can change its looks beyond recognition.</paragraph>
+			<paragraph>The image gallery of the W350 is something most of the Sony Ericsson users have already seen. It allows filtering images based on the memory they are stored on. Further on, much like W380 you have Timeline view, which allows you to filter the photos in the camera album based on the date they were taken on.</paragraph>
+			<paragraph>You can browse your photos in either portrait or landscape view mode.</paragraph>
+			<paragraph>The Sony Ericsson W350 is equipped with the Walkman music player 2.0. It has several equalizer presets including the proprietary Mega Bass. It can be set to run in background so you can do other things with the phone while listening to music. When in background mode, there is an indication of the name of the song and artist of the track currently playing in the top part of the screen. The control of the player is intuitive and really easy to use.</paragraph>
+			<paragraph>There are two other skins beside the standard black one and you can use those to suit your themes, since the theming itself doesn't change the music player interface.</paragraph>
+			<paragraph>The Walkman music player can display the album cover during playback or you can choose from the other available visualizations.</paragraph>
+			<paragraph>The Sony Ericsson W380 also has a FM radio that supports RDS. A good thing about the radio is the TrackID music recognition service. If you want to get the name of a track that's playing on the radio, you just fire it up, it records several seconds from it and hopefully, gives back the name and artist after a quick check up with the Gracenote servers (data charges may apply if you are not on a flat rate data plan).</paragraph>
+			<paragraph>The Sony Ericsson W350 1.3 megapixel camera has pretty much the same interface as the camera on the previous two models. The only thing that's lacking here is the Panorama shooting mode we saw on W380.</paragraph>
+			<paragraph>So that's about our hands-on experience with the Sony Ericsson W350. Jump to the next page for an overview of the Sony Ericsson T280 - a nice budget model, and don't forget to hit the last page of this article for some comparative camera samples.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Ericsson T280<subsectionTitle>
+			<paragraph>The Sony Ericsson T280 is a low-end handset that doesn't nave any of the hip features the other mobiles in the bunch have. It's got a small display with a mediocre resolution of 128 x 160 pixels, but for a cheap priced-tagged device it does offer some goodies - a 1.3 megapixel camera, MP3 ringtone support, Bluetooth support and WAP 2.0.</paragraph>
+			<paragraph>The Sony Ericsson T280 along with its camera-less twin T270 is expected to become available in Q1 2008.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson T280 360-degree spin<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>Truthfully there's nothing special about the Sony Ericsson T280 besides the metallic body panels, the conservative design and the 1.3 megapixel camera. The 65K color TFT display is small - 1.7 inches, and it has a lowly resolution of 128 x 160 pixels. The T280 does warm the hearts of low-price-tag fans with Bluetooth support and MP3 ringing. You would probably be let down by the fact that the T280 can be charged via USB cable but there is no USB support, meaning that your only way of transferring music and images to and from a computer is via Bluetooth.</paragraph>
+			<paragraph>The keypad of the Sony Ericsson T280 offers both nice tactility and ample space between the keys. The D-pad is comfortable enough to work with but the fact that there's no confirming center felt a bit awkward at first.</paragraph>
+			<paragraph>The backlighting of the keypad is a nice blue color and it's even all the way around.</paragraph>
+			<paragraph>The highlight on the back, which has a brushed metallic finish, is the 1.3 megapixel camera lens and the loudspeaker grill. The back cover is again the pry-it-open type, which is even harder with this one since the back has a metallic plate that doesn't allow it to flex that easily.</paragraph>
+			<paragraph>The Sony Ericsson T280 is equipped with a Sony Ericsson BST-36 Li-Po battery with a capacity of 780 mAh. The manufacturer rates it at up to 300 hours of standby time and up to 7 hours of talk time. Unfortunately, we can't comment on those figures.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The user interface fails to impress<subsectionTitle>
+			<paragraph>The Sony Ericsson T280 has a scaled-down version of the regular Sony Ericsson interface. It doesn't look nearly as good as the real thing and its functionality nowhere near the interface described briefly on the previous pages. It's also runs a lot more sluggish than the other user interface.</paragraph>
+			<paragraph>The file manager of T280 is really basic but it does the job alright. One thing we noticed about the pictures is that during browsing, the phone displays a downsampled variant of the images and only after you stop at an image it shows you the full-quality photo (with a significant delay though). Also there is no thumbnail view in the file browser.</paragraph>
+			<paragraph>The Sony Ericsson T280 1.3 megapixel camera is as simple as it possibly gets. There is even no dedicated camera key on the side of the T280.</paragraph>
+			<paragraph>The Sony Ericsson T280 also has FM radio with RDS support. You can save up to 20 radio stations, the radio can also be used as alarm sound, as long as you've plugged the wired headset, which serves as an antenna.</paragraph>
+			<paragraph>So that's about our hands-on experience with the Sony Ericsson T280. Jump to the next page for some comparative camera samples and our conclusion.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Comparative camera samples<subsectionTitle>
+			<paragraph>So here are the photos produced by the 1.3 megapixel cameras of all the four handsets in our Sony Ericsson roundup. We won't comment on the image quality as those models are still under development. They are prototypes and in the course of their fine tuning before they hit the market the cameras will surely see some changes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Sony Ericsson W380 left us with a really nice impression. The touch sensitive keys with haptic feedback, the gesture control and the overall design totally had us so we will be eagerly looking forward to following how it fares on the market once it's out.</paragraph>
+			<paragraph>The Sony Ericsson Z555 has a design that we find somewhat controversial, but we like its keypad layout better than the one of W380. It also offers much the same features as the W380, while the W380 will probably cost slightly more, we suppose that the Sony Ericsson Z555 might turn out to be a good deal for someone who is after the clamshell form factor and wants the gesture control feature at a best bargain.</paragraph>
+			<paragraph>The Sony Ericsson W350 explores a form factor that's hasn't been around for quite some time. In this sense it's a rather novel and fresh approach on behalf of Sony Ericsson and we definitely like the design. With the added Walkman functionality and the presumably affordable price tag, the Sony Ericsson W350 would have gotten all our admirations, if it wasn't for the awkward D-pad that ruined it for us.</paragraph>
+			<paragraph>The Sony Ericsson T280 has enough to revive the low-end market niche. Sony Ericsson have produced a great design and rock-solid construction, which would give anyone the impression that this handset is much more expensive than it really is. So given the right price tag, we really think the Sony Ericsson T280 might be a total success.</paragraph>
+		</subsection>
+	</page>
+</review>

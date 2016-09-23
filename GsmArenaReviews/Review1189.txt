@@ -1,0 +1,376 @@
+<review>
+	<title>HTC One S review</title>
+	<description>Onederful</description>
+	<link>http://www.gsmarena.com/htc_one_s-review-746.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Stunningly thin at 7.8mm, ceramic or anodized aluminum finish</paragraph>
+			<paragraph>Quad-band GSM and dual-band 3G support</paragraph>
+			<paragraph>4.3" 16M-color capacitive Super AMOLED touchscreen of qHD resolution (540 x 960 pixels); Gorilla glass</paragraph>
+			<paragraph>Android OS v4.0 Ice Cream Sandwich with HTC Sense 4.0</paragraph>
+			<paragraph>1.5 GHz dual core Krait CPU, Adreno 225 GPU, Qualcomm Snapdragon MSM8260A chipset</paragraph>
+			<paragraph>1 GB of RAM and 16 GB of storage</paragraph>
+			<paragraph>Beats audio enhancement</paragraph>
+			<paragraph>8 MP autofocus camera with LED flash; face detection, geotagging and continuous shooting</paragraph>
+			<paragraph>1080p video recording @ 30fps; Snapping photos while recording video</paragraph>
+			<paragraph>Wi-Fi b/g/n and DLNA</paragraph>
+			<paragraph>GPS with A-GPS</paragraph>
+			<paragraph>Stereo FM radio with RDS</paragraph>
+			<paragraph>Accelerometer, gyroscope, proximity and ambient light sensors</paragraph>
+			<paragraph>Front facing camera with video calls</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v4.0</paragraph>
+			<paragraph>MHL TV-out (requires a MHL-to-HDMI adapter)</paragraph>
+			<paragraph>Smart dialing, voice dialing</paragraph>
+			<paragraph>DivX/XviD video support</paragraph>
+			<paragraph>HTC Locations app</paragraph>
+			<paragraph>HTCSense.com integration</paragraph>
+			<paragraph>HTC Portable Hotspot</paragraph>
+			<paragraph>Splendid audio quality</paragraph>
+			<paragraph>Office document editor</paragraph>
+			<paragraph>1650mAh battery</paragraph>
+			<paragraph>25GB of free Dropbox storage for the first two years</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Pentile display</paragraph>
+			<paragraph>Non-expandable memory, just a single internal storage option</paragraph>
+			<paragraph>No dedicated camera key</paragraph>
+			<paragraph>microSIM only</paragraph>
+			<paragraph>Battery not user replaceable</paragraph>
+			<paragraph>Camera interface makes framing videos pretty hard</paragraph>
+			<paragraph>Incapable of 3G video calls without a 3rd party app</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The HTC One S is the middle child of the One family but it just might be the brightest and best looking too. Inside the slender metal case is a treasure chest of new technology - the brains behind the beauty in this piece of smartphone alchemy.</paragraph>
+			<paragraph>HTC use not one but two advanced processes to create the metal shell of the One S. The micro arc oxidation uses 10,000V of electricity to turn the aluminum surface into ceramic, which is said to be five times stronger than aerospace aluminum or stainless steel. That creates the black finish of the phone.</paragraph>
+			<paragraph>The second option is a more traditional anodized aluminum, but with a twist - it has a unique, subtle gradient from medium to dark grey.</paragraph>
+			<paragraph>Whichever bodywork you choose, the 7.8mm of thickness is even throughout - no cheating with bumps on the back. The HTC One S feels startlingly thin in the hand.</paragraph>
+			<paragraph>There was no compromise with the internals either - the two Krait cores in the new Snapdragon S4 chipset promise much more power than the old Scorpion cores. Early benchmarks show it could even rival a quad Cortex-A9 CPU.</paragraph>
+			<paragraph>Going by specs alone, HTC have created a true wonder phone with the One S. Here are the pros and cons, if you can take your eyes off the pictures.</paragraph>
+			<paragraph>The non-expandable memory is either a non-issue (you get 2GB for apps and 10GB for storage) or a deal-breaker, depending on how you use the phone. You do get 25GB of free Dropbox storage for 2 years though.</paragraph>
+			<paragraph>With the Beats logo on its back, you'd think the One S would attract music buffs. But then, there's no Beats headset included in the box and those are rather pricey to buy separately. You still get the Beats audio equalizer software, but you get a standard headset, so you might want to get your own.</paragraph>
+			<paragraph>Still, with the latest Android version, a much improved Sense UI, an 8MP camera that does 1080p video and full-res photos simultaneously (plus, it has continuous shooting and other cool stuff), the HTC One S is one of the best-equipped Android handsets we've laid our hands on lately.</paragraph>
+			<paragraph>Let's pop open the box and see what's inside before going back to the hardware. There's a lot to be said about the software too, so let's not waste any more time and jump straight in.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Retail package - Beats headset not included<subsectionTitle>
+			<paragraph>The HTC One S retail box feels rather empty compared to some other HTCs we've handled recently. You get the typical diminutively-sized charger that connects to the microUSB cable to charge the phone and a ordinary one-piece headset. That's it.</paragraph>
+			<paragraph>Phones like the Sensation XE and the Sensation XL got fancy in-ear iBeats headsets and pouches to go with them, but the One S wasn't as lucky.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC One S 360-degree spin<subsectionTitle>
+			<paragraph>The HTC One S measures 130.9 x 65 x 7.8 mm and weighs 119.5 g. That's a little taller, but noticeably thinner and lighter than the Sensation XE (which has the same screen size and aspect ratio).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The most prominent elements of the HTC One S design are the large Gorilla glass-covered screen and the aluminum back. The back can be had in two different flavors.</paragraph>
+			<paragraph>We have the anodized aluminum with gradient shades of medium to darker grey (note that this isn't paint, it's the result of the anodizing). The other option is based on an innovative process of giving the aluminum surface a distinct ceramic finish.</paragraph>
+			<paragraph>The back of the One S looks much more consistently designed than some previous incarnations (the Sensation's back looked patched-up together from different bits) and gets a blue highlight around the camera.</paragraph>
+			<paragraph>The HTC One S screen has familiar size and resolution - it's a 4.3" qHD (540x960) unit. That's the same specs as the Sensation XE, but HTC have gone with a Super AMOLED display instead of S-LCD this time around.</paragraph>
+			<paragraph>Yes, that means the matrix has a PenTile arrangement, which is offset slightly by the higher pixel density (256ppi), though it's still noticeable. It's one of those things that you can easily live with or be constantly annoyed by. Have a look at the screen in a store and you'll know in which camp you belong, if you don't already.</paragraph>
+			<paragraph>We've seen this display before on other phones (the Motorola RAZR XT910 is a good example) and we were sufficiently pleased with it. It offers deep blacks, rich colors and great viewing angles as other Super AMOLED screens do.</paragraph>
+			<paragraph>The display coating is quite reflective and the brightness isn't enough to overcome this on bright sunny days.</paragraph>
+			<paragraph>Our traditional display brightness and contrast test confirm our observations.</paragraph>
+			<paragraph>You can learn more about the test here.</paragraph>
+			<paragraph>Anyway, we have the proximity and ambient light sensors hidden in the black bezel above the screen. There's a tiny status LED under the earpiece grille and a VGA camera to the right of the earpiece itself.</paragraph>
+			<paragraph>Underneath the screen, we find three capacitive keys with haptic feedback. They are well spaced and very responsive. You might be thinking "What keys? This is an Ice Cream Sandwich device, right?"</paragraph>
+			<paragraph>Well, it is - but don't forget that the HTC Sense modifications run very deep. And Sense 4.0 doesn't use on-screen controls, it relies on physical Back, Home and Task switcher keys instead, the same set as the ICS on-screen controls.</paragraph>
+			<paragraph>There's no Menu key, as this is being phased out in ICS in favor of a drop down menu in the top right of the screen.</paragraph>
+			<paragraph>In case an app hasn't been updated to support the dropdown menu, a single on-screen menu key is displayed at the bottom of the screen. That's not a perfect solution though as you lose a line of the screen (on ICS it's displayed on the same line as the other on-screen controls, so you lose nothing).</paragraph>
+			<paragraph>Moving on, the left side of the One S features an exposed microUSB port. It serves multiple functions - data connection with a computer, charging and MHL connectivity. If you have an MHL to HDMI dongle, you can easily hook up the One S to a TV.</paragraph>
+			<paragraph>On the right there's the volume rocker. It's quite thin but it's also long, making it comfortable enough to use. No, there's no shutter key - HTC don't do that on their droids.</paragraph>
+			<paragraph>At the top we find the 3.5mm audio jack and the Power/Lock key, which is easy enough to press when needed but secure against accidental taps. There's also a small notch that helps you pop the top plastic cover open.</paragraph>
+			<paragraph>As usual, at the bottom of the phone, you will see the mouthpiece.</paragraph>
+			<paragraph>The back of the HTC One S features the 8MP camera (with a blue or red metallic trim) and an LED flash right next to it. The area around the camera protrudes slightly, so you have to be careful not to smudge or scratch it.</paragraph>
+			<paragraph>The loudspeaker is located on the second plastic panel. Since there's nothing to lift it up, it gets muffled when you place it on a level surface.</paragraph>
+			<paragraph>Beneath the top panel is the microSIM card slot. There's no memory card slot and you can't access the battery either.</paragraph>
+			<paragraph>The battery is a 1650mAh unit, but HTC didn't provide any official battery life numbers, but we ran our own battery test.</paragraph>
+			<paragraph>The endurance rating for the HTC One S works out to 35 hours. That means you have about a day and a half before you?ll need to recharge it, assuming you talk for one hour, browse the web for another hour and watch an hour of video each day.</paragraph>
+			<paragraph>Individually, you get 9 hours and 42 minutes of 3G calls, a bit over 4 hours of web browsing (phones with AMOLED screens rarely do good here) and and about 9 hours and a half of watching movies.</paragraph>
+			<paragraph>The rating doesn?t seem impressive, but that?s due to the relatively poor performance of the One S when it comes to web browsing. If talking and watching movies is all you do, it will last a good deal longer than a day and a half.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can read more on the One S battery test over at our blog.</paragraph>
+			<paragraph>The One S isn't a small phone, but the times have changed - compared to some of the other droids out there, the S is almost compact. The aluminum back scores coolness points but more importantly provides a pleasant, fingerprint-free and grippy surface.</paragraph>
+			<paragraph>The phone is easily pocketable and feels very nice in the hand.</paragraph>
+			<paragraph>The HTC One S has a true unibody design - besides the display glass on front, there are only two small panels, top and bottom at the back. They are necessary as antennas work much better behind a plastic panel than under metal - a lesson many companies learned the hard way.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Latest Sense on latest Android<subsectionTitle>
+			<paragraph>The HTC One S comes with Android 4.0.3 and Sense 4.0 - the newest software available from both Google and HTC. We've seen Android 4.0 Ice Cream Sandwich several times already, but not quite like this.</paragraph>
+			<paragraph>Here's a video demo with the highlights of the latest Sense:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>HTC are famous for their deep customizations of the interface of the host OS and the latest version of Sense is no exception, though the Taiwanese have taken user feedback to heart and worked hard to provide a much more unobtrusive experience.</paragraph>
+			<paragraph>The brilliant lockscreen has been further improved, sealing its position as the most functional, most customizable lockscreen on a smartphone. By default, it has four shortcuts and a ring at the bottom. You drag the ring towards the center of the screen to unlock the phone.</paragraph>
+			<paragraph>Or, you can drag any of the shortcuts into the ring to unlock the phone and launch the corresponding app. You can assign any four apps to the lockscreen.</paragraph>
+			<paragraph>But that's not the end of it - the HTC One S comes with eight different lockscreens preinstalled. You can access the others from the Personalize menu.</paragraph>
+			<paragraph>You get all the old ones - a photo album, Friend Stream, Weather, clock and stocks.</paragraph>
+			<paragraph>There are two new additions though and they're much more functional. The first is called Productivity and lists the latest missed calls, texts, emails and scheduled events.</paragraph>
+			<paragraph>The second one is People - you pick a group form your phonebook and a rectangular grid of their contact images will pop up on the lockscreen. Grab one of them and drop them on the ring to view their details. You can have more than one page of contacts too.</paragraph>
+			<paragraph>If you're using the music player, the playback controls show up on the lockscreen (as usual), and you can drag that onto the ring to jump straight into the music player too.</paragraph>
+			<paragraph>Unfortunately, you can't download new lockscreens off the HTC Hub.</paragraph>
+			<paragraph>HTC have done a lot to streamline the lockscreen and the same goes for the homescreen. Gone is the scrolling indicator arc, gone is the three button dock that wasn't very useful.</paragraph>
+			<paragraph>You get an auto-hiding indicator of which screen you're on and a brand new dock with five shortcuts - the middle one is locked to the app drawer, while the other four can be customized as you please (you can even put a folder there, if four shortcuts isn't enough).</paragraph>
+			<paragraph>Leap view is still here - tap the home key (while on the default homescreen) or do a pinch gesture to zoom out to display the thumbnails of all seven homescreen panes at once. Upon a press and hold you can drag to reposition the homescreen panes. A small "home" icon indicates the default homescreen.</paragraph>
+			<paragraph>You can have as many as seven homescreens - and with all the excellent preloaded widgets, you might want to keep all of them.</paragraph>
+			<paragraph>One of the biggest complaints was that the Personalize button was just taking up space in the dock at the bottom of the screen. And it was - it has since been moved to the app drawer, but it still offers plenty of customization options.</paragraph>
+			<paragraph>The proprietary Scenes is one of them - essentially five custom homescreen setups (Work, Travel, Social, Play and default). Each scene changes the wallpaper and the set of widgets. For instance, the Work scene has a Stocks widget, while the Social offers a Twitter widget. Those can be customized, of course, and you can download new ones.</paragraph>
+			<paragraph>Switching between scenes takes a couple of seconds, but they're a handy feature if you use your One S as both work and personal phone.</paragraph>
+			<paragraph>The HTC Sense has another customization option called Skins. Every skin changes the look and feel of most of the onscreen buttons, application screens, option menus, and other items. They also come with unique wallpaper each and use different colors for various UI elements.</paragraph>
+			<paragraph>The main menu has the typical grid layout, which is composed of horizontal pages with shortcuts sorted alphabetically. You can set different sorting options - alphabetical, most recent or oldest - but you can't rearrange them manually. There are Search and Play Store shortcuts along with a menu for some options.</paragraph>
+			<paragraph>The main menu has a tabbed layout similar to different Sense elements (such as the phonebook). There are three tabs available at the bottom - All apps, Frequent and Downloads. You can rearrange them or remove Frequent and Downloads if you don't need them.</paragraph>
+			<paragraph>The Personalize app also has Sound customizations - you can pick a Sound set or individual ringtone, notification and alarm sounds.</paragraph>
+			<paragraph>Adding widgets to the homescreen is done in similar fashion to Honeycomb and is one of the less successful changes.</paragraph>
+			<paragraph>You press and hold on the homescreen and everything zooms out so that the homescreen panes are visible as thumbnails on the top row of the screen. You tap a homescreen to select it and then select a widget to add to it (or you can just drag the widget).</paragraph>
+			<paragraph>There's a search option to speed things along or you can choose a widget from the dropdown menu and then select which size you like, but that still feels like an extra step.</paragraph>
+			<paragraph>The old setup of picking a widget and then picking the size (if any) seemed simpler.</paragraph>
+			<paragraph>Editing the homescreen is different from vanilla Android. You can tap and hold on a widget and you can drag across homescreen panes. While you're dragging a widget (or shortcut or whatever), two "buttons" appear at the top of the screen - Edit and Remove. You drop the widget on either button to perform the corresponding action.</paragraph>
+			<paragraph>Edit can be used to modify the settings of a widget - e.g. choose a different folder for the Photo Frame album or even choose a different version of the Clock widget. This saves you the trouble of first deleting a widget and then putting it on the screen again to choose a different version, setting and so on.</paragraph>
+			<paragraph>The second "button" is Remove, which deletes the widget as expected.</paragraph>
+			<paragraph>The notification area no longer has the list of recent apps - it's all available to notifications only. No more tabs and toggles either - you get a Settings shortcut here if you need to power something on or off. There's also a Clear button to dismiss all notification or you can swipe them off one by one.</paragraph>
+			<paragraph>HTC have remodeled the app switching interface - screenshots are displayed of the running apps, turned slightly to the side. They're ordered horizontally (instead of vertically as is the ICS standard) and you can swipe up to remove them. The not so-good news is that you can only see three of them at a time, even in landscape mode - a waste of screen estate.</paragraph>
+			<paragraph>You get the old task manager too. It's simple to use - each running app is listed with an indication of how much RAM it's using (no CPU usage reading though). You can terminate apps one by one and there's a Kill All button too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>We were very curious about the performance of the new generation of Snapdragon chipsets. The main competitor right now seems to be the NVIDIA Tegra 3, which uses four CPU cores (with an older architecture) and NVIDIA's own GPU technology.</paragraph>
+			<paragraph>So, how do two Krait cores running at 1.5GHz compare to four Cortex-A9 cores at the same frequency? Both our CPU benchmarks say that the new design is faster overall, even at half the cores.</paragraph>
+			<paragraph>Oddly enough, single-threaded performance wasn't that different as Benchmark Pi shows, but Linpack tested in multi-threaded mode showed that two Krait cores leave the Tegra 3 quartet well in their rear-view mirror. As far as raw CPU performance goes, Snapdragon S4 is the king right now - don't fall for the "bigger is always better" trap and think four cores always beat two.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The 3D graphics department is handled by an Adreno 225 GPU and it showed enviable performance. On the qHD screen of the HTC One S, it hit just over 60fps. The NVIDIA GPU inside the One X did a little better than the Adreno - the 720p screen on the X has 1.5x the number of pixels as the qHD screen, so the Adreno 225 would probably hit around 40fps on that resolution, while the NVIDIA GPU does 47+fps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>On SunSpider, the CPU-stressing JavaScript benchmark, the HTC One S posted a blazing fast result, beating all competitors. The HTML5 test, BrowserMark, however shows that HTC has some more work to do as the One S lost to an ICS-running Galaxy S II by about 10% (and the S II has a slower processor).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>All told, the HTC One S is the fastest phone on the market - there's no task in the mobile world it can't tackle. It will also throw a monkey wrench in the quad-core hype machine.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook keeps tabs on your social networking life<subsectionTitle>
+			<paragraph>The One S has HTC's all-knowing phonebook with deep social networking integration. It manages to keep things neatly in order, even though it's juggling everything from SMS to Facebook photo albums.</paragraph>
+			<paragraph>The entire People app (the phonebook) is tabbed - you have the dialer, all contacts, groups (including favorite contacts there), as well as a call log. Once again, you can reorder tabs and remove the ones that you don't need (Groups or Call history).</paragraph>
+			<paragraph>From a drop-down menu at the top, you can filter contacts based on where they came from - the phone's address book, Facebook, Twitter or your HTC Sense account. If an account has multiple subgroups (e.g. Gmail's groups), they can be toggled individually as well.</paragraph>
+			<paragraph>Selecting a contact displays the basic details: name and photo, numbers, emails and such. That's just the first tab - the other tabs hold further details and means of communication, including email and a call log.</paragraph>
+			<paragraph>The second tab holds the texts, emails and call history between you and the given contact. The next one displays social networking contact updates, and the fourth one called "Gallery" pulls the albums that contacts have created on Flickr and Facebook.</paragraph>
+			<paragraph>When editing a contact, you start off with just one of the essential fields but you can easily add more.</paragraph>
+			<paragraph>The transfer app is here to help you switch from your old phone. It supports many phones from major manufacturers and moves the data over Bluetooth. It's an old, but useful trick.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The HTC One S had no problems with reception and the in-call quality was clear and loud enough. There is no 3G video call support out of the box though, you have to install a third party app.</paragraph>
+			<paragraph>The dialer on the One S displays your recent calls and the list of favorite contacts underneath. Once you start typing on the keyboard, contacts will be filtered by name or by phone number.</paragraph>
+			<paragraph>The One S packs the standard set of accelerometer-based tricks - turning the phone in the middle of a call will enable the loudspeaker, Quiet ring on pickup will reduce the loudness of the ringtone when you move the phone and Pocket mode boosts ringtone volume if the phone is in your pocket or purse.</paragraph>
+			<paragraph>Here's how the HTC One S fares in our traditional loudspeaker performance test. It scored an Average mark placing just below the halfway point of our ranking.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Very good messaging<subsectionTitle>
+			<paragraph>Android and the HTC One S are capable of handling all sorts of messages - SMS, MMS, email. Social networking is covered by several apps and widgets, and there's Gtalk, which can connect you to Google's chat network and compatible networks too (like Ovi Chat).</paragraph>
+			<paragraph>SMS and MMS messages are displayed in threads - you see a list of all conversations, each one is listed with the contact's photo, name and the subject of the last message, as well as a part of the actual message (you can choose 1, 2 or 3 preview lines). Tapping a conversation brings up the entire message history with that contact.</paragraph>
+			<paragraph>To add recipients, just start typing a name or number and choose from the contacts offered - the phone will find the contact you want even if you misspell it (e.g. "drx" matches Dexter).</paragraph>
+			<paragraph>The compose box covers about a fifth of the screen in portrait mode or about a third in landscape. A tap-and-hold on the text box gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc. and vice versa.</paragraph>
+			<paragraph>Text input on the One S boils down to an on-screen custom-made HTC virtual QWERTY keyboard. While it's still not as good as a hardware one, it's the next best thing - the 4.3" screen has enough real estate for big, well-spaced keys, which are easy to hit.</paragraph>
+			<paragraph>Converting SMS into MMS is as simple as adding some multimedia content to the message. You can just add a photo or an audio file to go with the text, or you can get creative with several slides and photos.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Two email apps<subsectionTitle>
+			<paragraph>The HTC One S comes with two email apps - the traditional Gmail app and the generic HTC Mail app, which merges all your email accounts into a single inbox.</paragraph>
+			<paragraph>The Gmail app has the trademark conversation style view and can manage multiple Gmail accounts. Batch operations are supported too, in case you need to handle email messages in bulk.</paragraph>
+			<paragraph>The HTC Mail app features conversation view in an attempt to mimic the original Gmail client threaded view, which is otherwise missing in the generic inbox. Emails in a thread are grouped and a number of emails and a down arrow appear - tap the arrow to show/hide the messages in that group.</paragraph>
+			<paragraph>You can add multiple accounts (from multiple services) and view them individually or in a combined inbox. Each account is color coded, so you can quickly associate each message with its relevant account.</paragraph>
+			<paragraph>The Mail app has tabs, but they are hidden by default. You can choose Edit tabs from the menu and pull out the ones you want. You can choose from Favorites, Unread, Marked, Invites and Attached.</paragraph>
+			<paragraph>Email sorting is enabled (in either ascending or descending order) by date, subject, sender, priority and size. The currently applied filter is displayed in the top right corner of the display.</paragraph>
+			<paragraph>There's hardly anything we can think of that the HTC One S lacks in terms of email capabilities. The settings for popular email services are automatically configured. POP/IMAP accounts and Active Sync accounts are supported.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery for both offline and online images<subsectionTitle>
+			<paragraph>The HTC gallery is a custom job, but stacks photos just like the vanilla Android gallery (it used to display a list of thumbnails). The app automatically locates images and videos, no matter where they are stored. You can choose to show/hide camera shots, All photos or All videos.</paragraph>
+			<paragraph>A tap on the Albums dropdown lets you view local albums, albums on a network (DLNA) device or online albums. On the cloud side, you get Facebook, Flickr, Dropbox, Picasa or SkyDrive.</paragraph>
+			<paragraph>Ones you pick one of the "stacks" (each standing for a folder), you're presented with a grid of the photos inside. Some photos have an icon indicating it's not a single photo but a burst shot instead. You can later go back and pick the keep or the one to be used as a thumbnail.</paragraph>
+			<paragraph>You can also mass delete images, but you can't copy/paste images across folders - you'd need a proper file manager for that. There are some basic editing tools - crop, rotate and effects (auto enhance, sepia, vintage, etc.).</paragraph>
+			<paragraph>The HTC One S supports multi-touch and you can take full advantage of it while browsing your images. You can zoom to 100% with a simple double tap on the screen. The implementation here is extra smooth too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Capable video player<subsectionTitle>
+			<paragraph>There's no dedicated video player onboard the HTC One S, video files can be accessed in the All videos subfolder in the Gallery.</paragraph>
+			<paragraph>The video playing interface on the HTC One S offers a view mode toggle (full screen or best fit) and you can scrub through videos. There's a shortcut that lets you adjust screen brightness and another one to take screenshots of videos.</paragraph>
+			<paragraph>The One S played a lot of the files we threw at it - AVI, MP4, MKV alike. It chocked on some files though - either playing with a choppy framerate or not at all. Still, unless there's a problem all popular video codecs run at up to 1080p resolution. Sound turned out problematic though, as AC3 or DTS wouldn't play (that's true for most other phones though).</paragraph>
+			<paragraph>Speaking of audio, you can choose between Beats Audio, HTC enhancer or No effects (as long as you are using a pair of headphones).</paragraph>
+			<paragraph>Subtitle support is available, though you can't manually pick a subtitle file, so you have to name it the same as the video file.</paragraph>
+			<paragraph>DLNA connectivity comes handy too - the One S can stream the videos wirelessly to your TV.</paragraph>
+			<paragraph>There's the MHL port too - if you have the proper adapter, you can hook up your HDTV using an HDMI cable..</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player and Beats for all<subsectionTitle>
+			<paragraph>The Music app starts off by offering you several shortcuts - music library on the phone, SoundHound track recognition, TuneIn Radio or 7digital. Below is a line that shows a recently played song and further down is the currently playing song.</paragraph>
+			<paragraph>Once you get into the music library available on the phone you get a dropdown menu to browse it by artist, album, playlist or genre. There's a search tool too.</paragraph>
+			<paragraph>The now playing interface is a Cover-Flow-like visualization of the current playlist - you can swipe sideways to skip songs back or forward. You can opt to view the full playlist if you need to skip more than a few tracks.</paragraph>
+			<paragraph>You can tap the ellipsis to automatically fetch album art for a track or look it up on Google or YouTube. From the Menu you get a Select player option, which is how you can play the song on a DLNA-enabled sound system or over Bluetooth.</paragraph>
+			<paragraph>The One S offers the Beats Audio sound enhancement to boost the sonic experience - you can use it with any headset you want. You can choose between multiple presets - Beats audio, classical, bass boost and so on or turn the effects completely off (finally that option is available).</paragraph>
+			<paragraph>Even though the phone doesn't come with a Beats headset it supports several of them - iBeats/urBeats, Beats Solo, Beats Pro or Beats Studio. You should pick the correct one as it adjusts the equalizer according to the characteristics of the headset. There's an "Other" option too, but if you're not using Beats you can just pick the one that sounds best to you.</paragraph>
+			<paragraph>The lockscreen has a card that shows the album art and name of the song and artist along with playback controls. You can drag this card into the ring to unlock the phone and launch the music player.</paragraph>
+			<paragraph>SoundHound is the track recognition of choice for HTC and they've even integrated it into the music player UI. It easily ID's a song from just a short sample. Or you can say the name of the artist and song and SoundHound will find it for you, including lyrics. The free app however only offers a limited number of uses (99).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good FM radio<subsectionTitle>
+			<paragraph>The HTC One S is also equipped with an FM radio, which has a pretty simple interface. It automatically scans the area for the available stations and allows you to mark some of them as favorite. It also supports RDS and allows loudspeaker playback.</paragraph>
+			<paragraph>You can play the sound through the headphones or the loudspeaker. You can also choose Mono sound if the reception is poor. There's no Beats enhancement here though or a playback control card on the lockscreen.</paragraph>
+			<paragraph>If you have a data connection, you can use 7digital or TuneIn radio instead of relying on your local FM radio stations.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The cleanest audio output we have seen<subsectionTitle>
+			<paragraph>The HTC One S performance in our audio quality test came as a really pleasant surprise to us. It appears that the Beats influence hasn't been limited to a single equalizer preset this time as the smartphone delivers the cleanest output we have seen from any device so far.</paragraph>
+			<paragraph>When connected to an active external amplifier, the HTC One S audio is simply flawless - volume levels are a little above average and it got excellent scores on every part of our test.</paragraph>
+			<paragraph>What's most impressive though is the One S retains virtually the same performance when you plug in a pair of headphones. The stereo crosstalk takes the tiniest dip of any smartphone we've seen so far, while the rest of the readings are either totally unaffected or worsen by an undetectable amount. Volume levels remain the same too, so it's arguably the most impressive overall performance to date.</paragraph>
+			<paragraph>Here go the results so you can see how the One S did for yourselves.</paragraph>
+			<paragraph> HTC One S frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Shared camera interface<subsectionTitle>
+			<paragraph>The HTC One S packs an 8MP camera that does stills of up to 3264x2448 pixels and records 1080p video @ 30fps. There's an LED flash / video light too.</paragraph>
+			<paragraph>The camera interface is the same for both the still camera and the video camera - no they don't "look alike", the camera just has the UI shared between both functions.</paragraph>
+			<paragraph>The right-hand side features the Effects button, shutter key, camcorder record key and a shortcut to the gallery that shows the last photo taken. On the left is the flash setting toggle, general settings and shot mode (we'll get back to that in a moment).</paragraph>
+			<paragraph>To snap a photo, you tap the shutter key. To record video you tap the button below - and you can still tap the shutter key to snap a full-res photo, even while recording video. Another cool option is the burst mode, which we mentioned in the gallery - you press and hold on the shutter key and it will snap multiple photos and let you pick which one to keep (you can keep all of them of course).</paragraph>
+			<paragraph>All this is pretty cool, but we had one problem with this combined interface - if you want full 8MP resolution still shots, you have to disable the Widescreen option. But then it becomes hard to frame a 16:9 video in the 4:3 view finder. That's made even worse when shooting 720p video. The field of view in that mode is narrower than what the viewfinder shows and framing involves a lot of guesswork.</paragraph>
+			<paragraph>The HTC One S has touch focus and face detection; geotagging and smile shutter are also enabled.</paragraph>
+			<paragraph>Continuous autofocus is available too which is good to have on a phone like the One S with no hardware shutter key (the virtual shutter key cannot trigger autofocus either, it does burst mode). On the downside, the continuous autofocus may be way off in some shots - the only way to be certain you have the right focus is to tap and hold the desired focus point on the screen.</paragraph>
+			<paragraph>The effects button brings out a panel to the left with the usual set of color effects (sepia, solarize and so on). There are other image effects too. For example, Depth of field is another such effect - it adds a radius slider around the control point and will blur everything in the photo that falls outside the circle.</paragraph>
+			<paragraph>The shot mode button offers some more cool stuff - HDR photos, Panorama (with a gyro horizon), portrait, group portrait, landscape, whiteboard, close-up and, finally, low light.</paragraph>
+			<paragraph>Group portrait is quite cool - we've seen something like it before in the Scalado Rewind. It snaps multiple photos and for each face (and the One S can track many faces), the phone automatically picks the one where that person is smiling and didn't blink.</paragraph>
+			<paragraph>HTC didn't take any chances with the camera this time - an f/2.0 aperture and a dedicated image processing chip clearly show they mean business.</paragraph>
+			<paragraph>And it has worked - the camera on the One S is a notable improvement over previous HTC cameraphones. The noise is kept low and the post processing leaves a lot of fine detail in the shot. There are some signs of oversharpening though. Colors are accurate but a touch oversaturated.</paragraph>
+			<paragraph>Overall, the camera may not be the big deal HTC makes it up to be, but it is certainly decent. We've got a bunch of samples below for you to check out.</paragraph>
+			<paragraph>The One S offers HDR mode, so we took a few shots with that too. Here's a comparison of a scene with HDR off and on. The results are not bad the HDR look is a bit exaggerated .</paragraph>
+			<paragraph>We also snapped a photo in a dark room to see how the HTC One S performs. The results are decent, even if a bit low on contrast.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The HTC One S joins the other 8MP shooters in our Photo Compare Tool. The tool's page will give you enough info on how to use it and what to look for.</paragraph>
+			<paragraph>The first chart is simple and shows the One S is a good shooter, though we've seen 8MP cameras that do better. The second chart proved a big problem as most shots were out of focus, which showcased the disadvantages on relying only on continuous autofocus. Colors look okay save for the higher-than-it-should-be saturation. The third chart shows spot on color balance under artificial lighting and good details in a more realistic shot (that is, not a synthetic test).</paragraph>
+			<paragraph>   HTC One S in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video recording<subsectionTitle>
+			<paragraph>The One S records 1080p or 720p videos at 30fps and it can snap photos while at it. You can also use touch focus and even toggle the video light - that's during recording!</paragraph>
+			<paragraph>Videos are stored in MP4 files and use H.264 encoding. 1080p videos have a somewhat low bitrate of about 10Mbps, but manage to retain very good levels of detail. The colors are saturated over the top though.</paragraph>
+			<paragraph>The framerate hovers around the 29fps mark when the lighting is good, but when the lights go out the camera drops well below the 24fps threshold, which results in choppy videos.</paragraph>
+			<paragraph>The One S camera boasts stereo audio recording with a sampling rate of 44kHz and bitrate of 128Kbps.</paragraph>
+			<paragraph>The 720p videos captured by the Once S are good. They only use half the bitrate (makes sense since 720p is about half as many pixels as 1080p). You should keep in mind their field of view is narrower than the 1080p videos.</paragraph>
+			<paragraph>Here goes an untouched sample 1080p@30fps video clip and a 720p@30fps clip.</paragraph>
+			<paragraph>And here's a video uploaded to YouTube for convenience. Don't forget to click 1080p on the FullHD video sample and open the video fullscreen.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>The HTC One S also shoots slow-motion videos but the resolution drops significantly - you get 768x432 at 2.4Mbps bitrate. HTC didn't give an official number, but we measured it at a 3x slo-mo. Here's what these videos look like.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>We entered the HTC One S in our Video Compare Tool database too and put it head to head with other 1080p mobile camcorders.</paragraph>
+			<paragraph>One S videos retain a very good level of detail, though they have a noticeable yellow tint under artificial light. Low light performance is very good. The third chart shows good video resolution, though not the best. The relatively low bitrate might be to blame here.</paragraph>
+			<paragraph>   HTC One S in the Video Compare Tool </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity without death grip<subsectionTitle>
+			<paragraph>The HTC One S offers quad-band GSM/GPRS/EDGE and tri-band 3G with HSDPA and HSUPA, but unfortunately HTC didn't see fit to quote exact data speeds.</paragraph>
+			<paragraph>The local wireless connectivity has Wi-Fi b/g/n and full DLNA support (both client and server, for images, videos and music) and Bluetooth 4.0.</paragraph>
+			<paragraph>We tested the phone for death-grip and we didn't find any problems - Wi-Fi signal drops if you completely cover the top plastic panel on the back, but the reception still remains quite strong. Cell signal didn't budge.</paragraph>
+			<paragraph>You have a long list of options for connecting to a PC - Charge only, Disk drive (mass storage), HTC Sync, USB tethering (use the phone as a modem) and Internet pass-through (the phone uses the computer's Internet connection). The Charge only and Disk Drive have big, thumbable icons, which is great since they are most often used.</paragraph>
+			<paragraph>Last but not least is the HTC Portable Hotspot. It can support up to 8 devices, you can WEP, WPA or WPA2 encrypt the hotspot and you can enable "allowed users" only to connect or leave it open for all (unsecure, but the quickest setup).</paragraph>
+			<paragraph>The app can be set to power off automatically after 5 or 10 minutes of inactivity, saving your battery in case you forget to switch it off manually.</paragraph>
+			<paragraph>The HTC One S comes with an MHL port, so if you plug a MHL dongle in, you can output HD video over a standard HDMI connection. The phone's UI is mirrored on the TV - the qHD resolution has the perfect 16:9 aspect ratio for connecting to HDTVs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Capable ICS browser<subsectionTitle>
+			<paragraph>The HTC One S comes with the latest Android web browser, a high-res screen and plenty of processing power. Since this is Ice Cream Sandwich, you can also install Chrome for Android.</paragraph>
+			<paragraph>Anyway, the browser's interface keeps mostly out of sight, which leaves the entire screen to the web page. You get the standard Menu dropdown on the right, but HTC have thrown in some extra buttons at the bottom of the screen (you have to pan to reveal them, which is a little annoying).</paragraph>
+			<paragraph>They let you save a page in your bookmarks or reading list, view bookmarks, saved pages or tabs. You might want to enable Quick controls - they let you tap on any point on the edge of the screen and move your finger to select the desired option from a jog-dial menu.</paragraph>
+			<paragraph>Once you select some text, you can copy it, do a Google search with that text as the query or share the text over a message or social networking.</paragraph>
+			<paragraph>Tabs can be closed with an X button on their top right corner - they can't be swiped off the screen like you do in the app switcher. Incognito tabs are available if you want to bypass History, tracking cookies, form auto-fill stuff and so on.</paragraph>
+			<paragraph>The Menu options include a toggle to enable/disable Flash and another one to request the desktop version of a site, instead of the mobile one. Another ICS feature has the phone preload search results that it's confident you're going to open, speeding up the whole process.</paragraph>
+			<paragraph>The HTC One S has full Flash support and it played all YouTube videos without breaking a sweat. Flash games work like a charm too.</paragraph>
+			<paragraph>Mind you, the browser has support for HTML5 and its video tag but that is a few years (at best) away from becoming the norm.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer has both eye-candy and functionality<subsectionTitle>
+			<paragraph>The usual set of organizer apps are aboard the HTC One S, with a mobile Office app to boot, that can both view and edit documents.</paragraph>
+			<paragraph>The Polaris app has support for viewing Word, Excel, and PowerPoint, including the Office 2007 versions and it can create Office 2003 Word, Excel documents and presentations. There is also a PDF viewer on board.</paragraph>
+			<paragraph>You can format the text style and color, justify the text, do lists (numbered or bullet points) and that's about it for the Word editor. The Excel editor does support function editing, which some mobile editors don't.</paragraph>
+			<paragraph>The app also integrates with Dropbox and SkyDrive, which makes syncing documents between your computer and your phone a breeze.</paragraph>
+			<paragraph>The calendar has four different types of view: daily, monthly, agenda and invitation. Adding a new event is quite straightforward and you can also set an alarm to serve as a reminder.</paragraph>
+			<paragraph>The Agenda view shows a list of all the calendar entries from the recent past to the near future. Invitation only lists events with invitation info attached to them. The day view showing the weather forecast at the top of the screen is a nice touch.</paragraph>
+			<paragraph>The Calendar supports multiple online calendars (including Facebook) and one you sync with your computer. You can easily hide the ones you don't need at a specific moment for easier navigation.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized with big, easy to hit buttons. Flipping it horizontally enables some more advanced functions like logarithms.</paragraph>
+			<paragraph>The HTC One S features an alarm clock application, which can handle multiple alarms, each with its own start and repeat time. You also get a stopwatch and a timer in the same app.</paragraph>
+			<paragraph>The World clock (also part of the Clock app) is like a mini Google Earth - it shows a 3D globe and you can rotate and zoom in on it freely. You can add cities that are pinned to the globe (and also visible as a list below it).</paragraph>
+			<paragraph>The Stocks application gives you quotes from Yahoo finance. You can use the Stocks lockscreen too. The Voice recorder might be quite useful for making audio notes and the weather app brings Yahoo's weather forecast for your area a click away.</paragraph>
+			<paragraph>There's an HTC-branded flashlight app too - it uses the LED flash and you can set it to 3 levels of intensity. Nice and all, but the Android Market is full of this kind of apps already.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Play Store and HTC Hub<subsectionTitle>
+			<paragraph>The Google Play Store features several scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. Apps usually have several screenshots (some even offer a demo video) so you can get an idea of what the app looks like before installing it. You can also check out comments and ratings, as well as the number of downloads and so on, to help you decide if the app is worth it.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+			<paragraph>Not quite an app store, but the HTC Hub is a good source of wallpapers and sound customizations - ringtones, alarms and notification sounds and entire sound sets (a set is a whole package that brings together the other three categories).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and HTC Locations to navigate you<subsectionTitle>
+			<paragraph>The HTC One S has a built-in GPS receiver, which managed to get a lock in under a minute (with A-GPS switched off). If all you need is a rough idea of where you are (within 150 meters) you can use the Cell-ID and Wi-Fi network lock, which is very fast.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere. You can plan routes, search for nearby POI and go into the always cool Street View.</paragraph>
+			<paragraph>The HTC One S also comes with HTC Locations, an app developed in cooperation with TomTom (software provider) and Route66 (providing the maps).</paragraph>
+			<paragraph>With HTC Locations you can download country maps for free, or just cache maps as you browse (the size of the cache is adjustable). Google Maps has caching enabled too, but the best part about Locations is that it can even calculate new routes offline, while the Google Maps app only offers rerouting without internet connection.</paragraph>
+			<paragraph>It will do voice-guided navigation too, but you'll need a license for that. The One S comes with a trial version worth 30 days of free worldwide navigation. A license for Western Europe will set you back a hefty &#x20ac;40 for a life-time license, the US is $30. Annual and monthly subscriptions are available too. You can also get traffic information and speed camera alerts (&#x20ac;10 for a year for Western Europe, for example). Extra voices are free.</paragraph>
+			<paragraph>HTC Locations has a regular 2D view and a 3D view, which is convenient because it gives you a better look of what's ahead. It's just as easy to work with as Google Maps and has POI too (including your Footprints) and also 3D buildings.</paragraph>
+			<paragraph>Pinch zoom works in both 2D and 3D modes and you can turn on compass mode - at first it seems choppy, but that's only to avoid wobbling (digital compasses are not the most accurate things in the world). You could use two fingers to rotate the camera manually too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The HTC One S is one of the most impressive mobile phones we've handled recently - both in terms of hardware and software.</paragraph>
+			<paragraph>The slim metal unibody (with either ceramic or anodized finish) is brilliant, HTC have outdone themselves here - and that's easily said than done. The 4.3" qHD Super AMOLED screen is a welcome change from the LCD-only lineup HTC had for a while. They've done much to improve the photo quality and add advanced features to the camera too.</paragraph>
+			<paragraph>The Snapdragon S4 chipset with two powerful Krait cores and Adreno 225 graphics bested all current smartphones and will readily stand up to upcoming phones too - yes, even its quad-core sibling, the One X (and probably the rest of the quad-core phones that use Tegra 3).</paragraph>
+			<paragraph>Okay, some things about the HTC One S aren't quite perfect - we would have preferred a Super AMOLED Plus screen, non-expandable memory would be a deal breaker for some (though most people should be fine with 16GB of storage) and the problem with framing videos seems like an annoying oversight.</paragraph>
+			<paragraph>It's a shame the One S doesn't come with a Beats headset either, but the sound enhancement alone will keep most people happy.</paragraph>
+			<paragraph>One of the few phones that can pull attention away from the One S is its bigger brother - the One X. Some would prefer the 4.7" 720p Super IPS LCD screen (with a full set of subpixels) and the extra storage room. The polycarbonate unibody is impressive in its own right.</paragraph>
+			<paragraph>And if you're not sure the quad-core Tegra 3 chipset is for you (don't get us wrong, it's pretty awesome) you can wait a while for the HTC One XL - it's like a One S in a One X body - that includes the screen. Oh, and there's LTE too.</paragraph>
+			<paragraph>  HTC One X ? HTC One XL</paragraph>
+			<paragraph>Huawei has some interesting offerings too - the Huawei Ascend D quad has a 4.5" 720p IPS+ LCD screen and a quad-core processor of Huawei's design. If a 4.3" screen and a slender frame is what drew you to the One S, the Ascend P1 and P1 S are worth a look (the P1 S is just 6.7mm thick). They have the same screen as the HTC One S, but lag behind when it comes to performance. Another setback is that none of them is out yet.</paragraph>
+			<paragraph>The ZTE Era is another cool phone that will come out eventually - it uses a Tegra 3 chipset and offers a 4.3" qHD LCD, a 7.8mm body and Dolby sound enhancement, but not much else is known.</paragraph>
+			<paragraph>    Huawei Ascend D quad ? Huawei Ascend P1 ? Huawei Ascend P1 S ? ZTE Era</paragraph>
+			<paragraph>The Sony Xperia S has a pretty awesome 4.3" 720p LCD screen and a 12MP camera, but neither the body nor the previous generation Snapdragon chipset will earn you any bragging rights and it doesn't run ICS yet. You do get 32GB of storage, NFC and a standard microHDMI port, though.</paragraph>
+			<paragraph>The Samsung I9100 Galaxy S II has grown quite old, but is a very capable phone that can be found on the cheap, which is something to consider in case the One S is over your budget.</paragraph>
+			<paragraph>  Sony Xperia S ? Samsung I9100 Galaxy S II</paragraph>
+			<paragraph>So, most of the danger to the One S comes from friendly fire - the One X and One XL. At this moment competition simply doesn't have a smartphone to match the One S in terms of both aesthetics and performance and that really tells you what an excellent job HTC has done.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le grand jeu</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Le_grand_jeu/21033970</link>
+	<generalScore>6.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Survivre.</title>
+		<author>Queenie</author>
+		<date>2016-08-20</date>
+		<score>0.7</score>
+		<content>Après avoir fait construire un logement hi-tech et autonome, une femme s'installe au coeur des montagnes. Elle cherche à s'isoler du monde, à vivre en autarcie, dans une relation étroite à la nature, entre dangers et bienfaits. La première partie du livre s'intéresse à l'installation de cette femme, qui semble avoir tout prévu, longuement réfléchi avant de se lancer dans cette nouvelle vie. On ne saura rien de son ancienne existence avant de la rencontrere dans ces montagnes, et le lecteur la suivra dans ses journées, collé à ses pas arpentant la nature. Des coins de pêches au potager, des points de repos sous les rochers aux kerns qu'elle érige pour tracer ses chemins, la femme semble gérer au mieux sa survie. Le lecteur intrigué sentira la montagne et ses dangers, sera immergé dans une espèce de Koh Lanta ou Lost ultra réaliste. Céline Minard tient son lecteur dans un fin suspens, le perdant parfois à ne pas savoir qui est cette femme, où le récit se dirige, en le tenant en haleine à faire surgir soudainement un ermite étrange ou des situations sur la brèche, en l'interrogeant par des phrases réflexives glissées dans le texte au détour de la solitude du personnage. Par son écriture sèche et directe, et ses petites notes piquantes d'humour, Céline Minard délivre un récit à l'ambiance étrange, entre le thriller psychologique et philosophique. Reste que c'est un roman aride, parfois brumeux, qui détaille excessivement les excursions en montagne et tous les gestes que doit accomplir le personnage. C'est un style, qui fonctionne parfois, selon le moment, le thème, l'histoire. Là, moi, je suis souvent restée de côté.</content>
+	</review>
+	<review>
+		<title>Le grand jeu (et l'encore plus grande perte de temps passé à le lire)</title>
+		<author>RaphPec</author>
+		<date>2016-09-05</date>
+		<score>0.3</score>
+		<content>Grosse déception à la lecture de cet étrange objet. Tous les pitchs que vous pourrez lire sont justes: une femme achète un territoire sauvage et hostile pour s'y construire un refuge high tech dans lequel elle décide de s'isoler pour y vivre en autarcie. Elle consigne dans son journal de bord son quotidien et ses questions. Jusqu'au jour où elle découvre qu'une autre personne habite également sur son territoire... Mais attention, cette dernière phrase avec ces 3 points de suspension est trompeuse! Elle laisse imaginer un supsens lié à l’interaction entre les 2 humains isolés alors que cette rencontre, partie la plus intéressante du livre, a quand même beaucoup de mal à rythmer le récit. En effet, ce qu'on n'écrit pas dans les résumés et critiques que j'ai pu lire c'est que ce roman est ENNUYEUX A PLEURER ! Il y a des descriptions cliniques des faits et gestes de cette brave dame (passablement folle). Elle aime beaucoup l'escalade et elle en parle à longueur de pages avec des termes très techniques. Elle aime aussi planter des légumes et pécher des truites. Quand elle ne consigne pas ces passionnantes activités dans son journal de bord, l'héroïne (de plus en plus flippante) se pose des questions compliquées. Son palpitant récit d'escalade (sur quelle montagne va t elle grimper?) et maraîchage (quel légume va t elle planter?) est ainsi entrecoupé de paragraphes listant des interrogations dignes du bac philo: qu'est ce que vivre ? qu'est ce qu'une promesse ? qu'est ce qu'une menace ? qu'est ce que la panique ? le danger ? Puis quelques pages plus loin, on combine les concepts pour se demander si "vivre en autarcie, c'est refuser la menace que représente les autres, est-ce céder à la panique, ou est-ce nier toute promesse ?". Autant elle est douée pour poser des questions philosophiques grosses comme les montagnes qu'elle escalade, autant pour y répondre, il n'y a plus personne. Peut-être que Céline Minard s'attend à ce que l'on bricole une réponse à partir de la description fastidieuse et répétitive du quotidien de cette brave aventurière. Pour être heureux, il ne suffit pas de cultiver son jardin (#dejavu) il faut aussi [suspens] (voir le spoiler du dernier paragraphe) Quant à la rencontre avec l'autre humain qui partage son territoire, ne vous faites pas avoir par le quatrième de couverture. Ce n'est pas trépidant. C'est de loin la chose la plus intéressante du livre, mais elle ne justifie pas 18 euros et 2 heures de votre temps. On concèdera sans mal toutefois que Céline Minard écrit bien et qu'elle a du vocabulaire. J'ai relevé quelques jolies descriptions sensuelles de la nature, notamment sur l'odeur de la pluie en été. SPOILER = L'intérêt de l'autre humain semble être qu'il va faire découvrir l'équilibrisme à l'héroïne. Le gloubiboulga philosophique réussit alors à rejoindre la description de l'ascèse de la narratrice et le titre du livre, quand l'héroïne (qui est officiellement ravagée) nous explique en dernière page que le Grand Jeu, pour être heureux, c'est de faire du funambulisme (#véridique) parce que quand on est seul sur un fil au dessus du vide on vit en même temps une promesse et une menace tout en restant seul (#wtf). J'ose espérer qu'il s'agit d'une métaphore que je n'ai pas comprise...</content>
+	</review>
+	<review>
+		<title>Il manque cent pages ou il fallait en faire une nouvelle.</title>
+		<author>Shonagon</author>
+		<date>2016-08-25</date>
+		<score>0.5</score>
+		<content>Céline Minard écrit très bien, bon voilà, on le sait. Sans se forcer au-dessus du lot. Elle aime l’Asie, on avait noté. Aucun problème, au contraire. Mais là. Ça bloque un peu. Faisons court et regrettons l'absence de développement autre qu'une réflexion intérieure, assez répétitive et sans doute un peu complaisante, du personnage principal. Alors oui, certains passages sont habités. Le reste confine à une sorte d'hermétisme un peu poseur. La chose est dite sans remettre en cause la sincérité de l'auteur. Mais voilà... Le livre achevé, il vous poursuit un peu, c'est vrai. C'est tout de même vrai. Mais pas que pour les bonnes raisons. Regrets et frustration.</content>
+	</review>
+	<review>
+		<title>Le grand jeu</title>
+		<author>Kissed-by-fire</author>
+		<date>2016-08-24</date>
+		<score>0.7</score>
+		<content>Une femme décide de s’installer dans un abri high-tech en pleine montagne. Décidée à vivre en autarcie, elle se prépare pour vivre seule, cultivant un jardin, coupant des arbres, aménageant un vivier. Le reste du temps, elle parcourt la montagne, escalade les sommets, découvre l’univers qui l’entoure. Mais au bout de quelques temps, elle se rend compte qu’elle n’est pas seule. Ce roman alterne les descriptions de la vie de cette femme, ce qu’elle fait, ce qu’elle escalade; avec des extraits de son journal ou de ses pensées où elle s’interroge sur la Vie avec des thèmes comme le jeu, la solitude, la retraite, le secours… Le récit est assez immersif, mais comporte aussi de nombreux défauts. Premièrement les réflexions quasi métaphysiques sont à la fois parfois compliquées et coupent le récit. Dans les passages plus narratifs, on assiste à de grosses ellipses (par exemple, elle monte en haut d’un sommet durant plusieurs pages et la ligne suivante, elle est redescendue) ce qui rend le récit plus haché. De plus, on ne connait rien ni sur elle (son nom), son passé, les raisons qui l’ont poussée à venir là, où elle est (on parle d’un sommet de 2871m, ça a l’air d’être dans une faune et flore alpine (j’ai pensé au Mont de la Fouly, en Suisse où il y a trois lacs « pas loin » par exemple), etc. Si certains détails sont inutiles, d’autres auraient pu aider à comprendre et apprécier ce personnage qui ne se remet jamais en question et se comporte un peu comme si elle était seule dans l’univers. Au-delà de ça et d’un vocabulaire parfois très technique, la lecture est assez fluide et agréable. On atterrit en pleine haute montagne, on imagine assez bien son campement (où d’ailleurs elle a une sacré réserve de rhum pour quelqu’un qui veut vivre avec le strict minimum !), sa maison, son petit jardin et on l’accompagne dans toutes ces escalades. Les amateurs d’escalade y trouveront sûrement leur compte, et auront sans doute envie de se lancer à l’aventure eux aussi. Quant à la venue du deuxième mystérieux personnage, je pourrais dire un peu la même chose que pour le premier : on ne sait quasi rien, un peu trop rien du tout même. Mais dans l’ensemble c’est un roman qui se lit bien, qui donne une bonne bouffée d’oxygène et qui, par certains côtés, peut ressembler au Grand Marin de Catherine Poulain qui décrivait elle aussi une femme décidée à vivre dans des conditions extrêmes !</content>
+	</review>
+	<review>
+		<title>Le grand jeu</title>
+		<author>Pauline Bureau</author>
+		<date>2016-08-18</date>
+		<score>0.2</score>
+		<content>Abandonné au bout de 80 pages. Ennui profond malgré la scène de la marmotte.</content>
+	</review>
+</sensCritiqueEntity>

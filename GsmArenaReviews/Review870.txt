@@ -1,0 +1,76 @@
+<review>
+	<title>Lenovo Moto Z and Phab2 Pro hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/lenovo_moto_z-review-1450.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Lenovo Moto Z at a glance<subsectionTitle>
+			<paragraph>Body: 5.2mm with snap on modules</paragraph>
+			<paragraph>Screen: 5.5" AMOLED, 1,440 x 2,560px resolution (534ppi)</paragraph>
+			<paragraph>Chipset: Snapdragon 820, quad-core CPU (2x Kryo at 2GHz + 2x Kryo at 1.6GHz), 4GB of RAM, Adreno 530 GPU</paragraph>
+			<paragraph>Camera: 13MP sensor, optical image stabilization, Laser AF, 2160p @ 30fps video</paragraph>
+			<paragraph>Battery: 2,600mAh</paragraph>
+			<paragraph>Misc: Stereo speakers</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Lenovo Phab2 Pro at a glance<subsectionTitle>
+			<paragraph>Screen: 6.4" IPS LCD, 1,440 x 2,560px resolution (459ppi)</paragraph>
+			<paragraph>Chipset: Snapdragon 652, octa-core CPU (4x Cortex-A72 at 1.8GHz + 4x Cortex-A53 at 1.4GHz), 4GB of RAM, Adreno 510 GPU</paragraph>
+			<paragraph>Camera: 16MP main sensor (2160p @ 30fps video) and additional depth-sensing and wide-angle cameras</paragraph>
+			<paragraph>Battery: 4,050mAh</paragraph>
+			<paragraph>Misc: Stereo speakers</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>At its annual Tech World event, Lenovo revealed the next step in its mobile strategy. The new Lenovo Moto Z flagship shows Lenovo's own take on modular smartphones, something the search giant has been trying to get off the ground for a few years. Then there's the Project Tango pioneering smartphone Phab2 Pro, which is Google brains running on Lenovo brawn.</paragraph>
+			<paragraph>The Moto Z holds the most interest - not only for the MotoMods modules but also for continuing the legacy of the well-liked Moto X in spirit if not in name.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>MotoModding<subsectionTitle>
+			<paragraph>By the sound of it, Lenovo thinks modularity is the more practical way to customize a phone. The Moto X became known for the level of customization it gave users with Motomaker, but the need for fast shipping kept this option grounded in a limited number of markets and the phone never flew as high as its competition.</paragraph>
+			<paragraph>What the Moto Z offers is the option to purchase extra modules, which just snap on the back of the handset held by two strong magnets. These modules are called MotoMods.</paragraph>
+			<paragraph>The simplest modules, dubbed StyleMods, let you add leather, wood or other premium materials to the back - they don't add any new functionality. These are made in cooperation with popular case maker Incipio.</paragraph>
+			<paragraph>Then there are the more advanced MotoMods, which do more than just look good - they add extra functionality a la LG G5. You get just one module, but the advantage over LG's solution is that modules are external and you don't remove parts of the phone. You don't even have to reboot it when installing a new module.</paragraph>
+			<paragraph>The Moto Z measures just 5.2mm in thickness, so even after adding a few millimeters with a module, it remains reasonably thin. That said, probably the first module you might want to snap on there is a battery pack, as the Moto Z itself only has a 2600mAh battery.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Moto Z<subsectionTitle>
+			<paragraph>But even without any modules, the phone is quite capable on its own. We're looking at a 13MP/2160p camera, a Snapdragon 820 with 4GB of RAM and a 5.5" QHD AMOLED screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Lenovo Phab2 Pro<subsectionTitle>
+			<paragraph>As for the Lenovo Phab2 Pro, it's a 6.4" powerhouse with a metal unibody and an impressive array of cameras at the back helping Tango do its magic.</paragraph>
+			<paragraph>Let's get down to the nitty-gritty in our hands-on with the devices.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Moto Z hands-on<subsectionTitle>
+			<paragraph>The Moto Z is the company's flagship for 2016 and it bets big on modularity. Whereas LG does it by literally swapping parts of the phone body, Motorola goes about it with MotoMods - interchangeable back covers of the phone that add various functionality.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Before we get into them, here's what the Moto Z is all about. It's a 5.2mm thin smartphone that's extremely light at 136 grams. The thin profile means there's no 3.5mm headphone jack, though there's an included USB-C adapter to fix this.</paragraph>
+			<paragraph>The 13MP camera (1.12micrometer pixel size) at the back has f/1.8 lens, OIS and laser autofocus. At 5.2mm you could imagine that the hump at the back is quite big. Interestingly, the design of the camera department reminds us of the Moto 360 face, as the dual-LED flash is inside the camera ring.</paragraph>
+			<paragraph>At the front, there's a 5MP camera for selfies with LED flash on its side for dark conditions. Below the display, there's a fingerprint sensor, which was quite snappy to respond.</paragraph>
+			<paragraph>The screen itself is a 5.5" AMOLED panel with a QHD resolution. It's very sharp and offers vivid colors. Moto has two settings for displaying colors - normal and vibrant. We would've liked a third option akin to Samsung's Adaptive mode on its Super AMOLED screens.</paragraph>
+			<paragraph>Inside the metal body, there's a rather small 2,600mAh battery. We'd imagine it won't last too long on a single charge, but there's a neat MotoMods back that adds extra juice for when you need it.</paragraph>
+			<paragraph>Performance is great and everything is as snappy as a cheetah with the Snapdragon 820 in charge. The 4GB of RAM is plenty for any app and there are 32 and 64GB options, in addition to a microSD card slot. Moto Z runs almost stock Android 6.0.1 Marshmallow and we appreciate the cleanliness of it all though we did spot a Verizon app or two on our demo unit.</paragraph>
+			<paragraph>Now, for the MotoMods accessories. The MotoMods are magnetic covers that snap on the back of the Moto Z using sixteen pins and two strong magnets. We're not too fond of how the pins look on the back of the phone, though. Nevertheless, the end result is an additional back cover that's securely attached to the phone.</paragraph>
+			<paragraph>We tested the Power Pack Mod, which adds 2,220mAh battery and is conveniently displayed in the settings menu as an external source of energy. Currently, it comes in three different designs: Icipio, Kate Spade, and Tumi with more on the way.</paragraph>
+			<paragraph>There are, of course, cooler ones like the Insta-Share Mod, that adds a pico projector on the back. It can display an image of up to 70 inches in diameter at 480p resolution.</paragraph>
+			<paragraph>Other MotoMods include the SoundBoost Mod with 3-watt JBL speakers and additional 1,000mAh of battery. Moto promised future generations Z phones will remain the same size and shape to ensure future compatibility with MotoMods.</paragraph>
+			<paragraph>Lenovo extends an arm to developers and third-parties to offer their ideas of potentially cool ways to use them. The company has allocated a $1 million as part of a development program to help lure developers.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Lenovo Phab2 Pro hands-on<subsectionTitle>
+			<paragraph>Lenovo is the first to announce a Project Tango smartphone in the face of the Phab2 Pro. Officially, it's called Tango now, as this is a mature enough technology to drop the "project" moniker.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>But back to the Phab2 Pro, it's a serious piece of technology sporting a 6.4" IPS LCD display of QHD resolution wrapped around a solid metal body. It measures from 7mm at its thinnest to 10.7mm.</paragraph>
+			<paragraph>There's a lot cramped inside the phone, including a 4,050mAh battery and a Snapdragon 652 chipset with an octa-core CPU and 4GB of RAM. However, the main talking point are the three cameras at the back.</paragraph>
+			<paragraph>The main unit is a 16MP RGB camera, which is joined by a separate depth camera and a motion tracking one. There's an infra-red beamer as well as a fish-eye lens needed for Tango to do its magic. An 8MP selfie camera at the front wraps up the camera hardware.</paragraph>
+			<paragraph>The main sensor is capable of recording 4K video at 30fps, but we weren't able to test its prowess, as the software is far from final. Speaking of which, the Phab2 Pro will ship with almost untouched version of Android 6.0.1 Marshmallow (a good Moto influence right there).</paragraph>
+			<paragraph>Unfortunately, we couldn't play with any Tango-enabled apps ourselves, but the possibilities the platform offers are truly endless. From picking the perfect fitting furniture for your home, to navigating through a museum and playing games with your environment as a foundation is sure to be an awesome experience.</paragraph>
+		</subsection>
+	</page>
+</review>

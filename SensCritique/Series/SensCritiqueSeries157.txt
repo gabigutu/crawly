@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Vice Principals</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/serie/Vice_Principals/20946546</link>
+	<generalScore>6.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>20</numberOfVoters>
+		<numberOfVoters>28</numberOfVoters>
+		<numberOfVoters>61</numberOfVoters>
+		<numberOfVoters>28</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Retour au collège.</title>
+		<author>Heurt</author>
+		<date>2016-07-20</date>
+		<score>0.7</score>
+		<content>Le premier épisode annonce une série dans la même veine que eastbound & down. Il faut dire que se sont les mêmes qui sont aux commandes de vice principals. L'humour est le même, voir Danny McBride faire ces petites crises infantiles amuse toujours autant,c'est l'un des deux acteurs comiques qui m'amuse le plus actuellement avec Will Ferrell. L'action de vice principals se passe dans un collège,le principal en place doit abandonner son poste suite à la maladie de sa femme. Les deux vices principals convoitent la place laissée vacante,mais évidement tout ne va pas se passer comme ils le souhaitent. L’académie va nommer un principal extérieurs et les deux ennemis de toujours vont faire alliance pour mettre un maximum de bâtons dans les roues de cet empêcheur de tourner en rond. Tout cela promet une tonne de gags débiles et puérils c'est à n'en pas douter. On sent aussi que le ton va osciller comme l'a fait eastbound & down entre humour régressif est les passages plus lourds qui sont vecteurs de malaises.</content>
+	</review>
+	<review>
+		<title>Délire assuré</title>
+		<author>AMCHI</author>
+		<date>2016-07-29</date>
+		<score>0.7</score>
+		<content>Saison 1 : Épisode 1 : Je connais surtout de réputation Danny McBride car j'ai vu peu de choses avec lui, voici un 1er épisode qui nous met de suite dans le bain ce sera délirant, délirant et encore délirant en somme beaucoup de connerie avec des personnages un peu déjà vu et un humour pas forcément novateur mais le fait que l'on entre facilement dans l'univers de Vice Principals et qu'on a envie de regarder les prochains épisodes 7/10 PS : Apparition sympathique mais finalement peu exploité de Bill Murray dans ce 1er épisode. Épisode 2 : Sacré épisode ou nos 2 associés provisoires (les personnages que jouent Danny McBride et Walton Goggins (qui s'avère réellement démoniaque) veulent éjecter la nouvelle directrice de l'école) vont totalement péter un câble lors d'une scène titanesque. Ca s'annonce une série amusante à regarder bien que l'on sent qu'elle ne sera pas vraiment innovante. A la fin Neal Gamby fait une bêtise qu'il va surement regretter 7/10 payer sa dette avec le bijou volé à la directrice</content>
+	</review>
+</sensCritiqueEntity>

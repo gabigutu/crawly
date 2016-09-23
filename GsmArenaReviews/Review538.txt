@@ -1,0 +1,308 @@
+<review>
+	<title>Samsung Galaxy J7 review</title>
+	<description>Jeans &amp; jacket</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_j7-review-1307.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Dual-SIM phone with LTE connectivity</paragraph>
+			<paragraph>5.5" Super AMOLED of 720 x 1,280px resolution, ~267ppi</paragraph>
+			<paragraph>Snapdragon 615 version: 64-bit chipset, octa-core Cortex-A53 processor (four cores at 1.5GHz and four at 1GHz); Adreno 405 GPU; 1.5GB of RAM</paragraph>
+			<paragraph>Exynos 7580 version: 64-bit chipset, octa-core Cortex-A53 processor (eight cores at 1.5GHz); Mali-T720MP2 GPU; 1.5GB of RAM</paragraph>
+			<paragraph>Android 5.1 Lollipop with TouchWiz, theme support</paragraph>
+			<paragraph>13MP camera capable of 1080p video recording, 5MP front-facing camera, 1080p video</paragraph>
+			<paragraph>16GB of built-in storage</paragraph>
+			<paragraph>Wi-Fi b/g/n, GPS/GLONASS, Bluetooth 4.1, ANT+, NFC (Exynos version only)</paragraph>
+			<paragraph>3,000mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>720p resolution stretched a bit thin on the 5.5" screen</paragraph>
+			<paragraph>No fingerprint, no NFC on some models and certainly no Samsung Pay</paragraph>
+			<paragraph>No MHL (but USB OTG is supported)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The smartphone jungle can be confusing, but the Samsung Galaxy J7 is surprisingly easy to decipher: J for "affordable price" and 7 for "big screen". This is the lite version of the Galaxy A7, offering semi-premium features but confined to the midrange. Another way to look at it is as an E7 Plus.</paragraph>
+			<paragraph>The attention-grabbing features start at the 5.5" Super AMOLED screen (Samsung's latest units have all had accurate colors and great sunlight legibility). There's also a 64-bit octa-core processor, a selfie camera with a dedicated LED flash and a main camera with a wide f/1.9 aperture and Pro mode.</paragraph>
+			<paragraph>The Galaxy J7 is one of those phones that care more about the size of the screen than its resolution and so it settles for 720p. The difference to Galaxy A7's 1080p screen is for the most part cosmetic but the practical difference is quite big - you get 20% more space for apps and web pages on the A7.</paragraph>
+			<paragraph>The main camera is a 13MP unit - a pretty standard choice for the midrange - but the f/1.9 aperture elevates it above average and will make a difference at low-light scenes. The J7 is well-equipped for low-light selfies too, with a dedicated LED flash to help the 5MP front-facer.</paragraph>
+			<paragraph>The Galaxy J7 is a dual-SIM phone, Samsung didn't bother with a single-SIM version. No huge loss if you ask us, unlike the A-series this one has separate slots for two SIMs and a microSD. Fast LTE data can be used on either card, making the J7 practical for travel or getting the most out of two data plans.</paragraph>
+			<paragraph>The Galaxy J7 comes with one of two distinct chipset models - Snapdragon 615 in some regions, Exynos 7580 in others. Both versions run Android 5.1 Lollipop on 1.5GB RAM (a bit of a tight fit), but the Exynos has a CPU clock advantage. We'll also find out how the different GPUs perform, both are OpenGL ES 3.1-enabled though so they'll be ready for new games to come.</paragraph>
+			<paragraph>The Samsung Galaxy J7 will lose to the Galaxy A7 in a beauty pageant but, after the novelty wears off, the A7 will have a fight on its hand. Well, time to kick the Galaxy J7 out of the nest and see how well it flies.</paragraph>
+			<paragraph>Note that the Samsung Galaxy J7 comes with either an Exynos 7580 or a Snapdragon 615 chipset. We're reviewing the Exynos version.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Galaxy J7<subsectionTitle>
+			<paragraph>The Galaxy A series come in cyan box, while the J series come in orange boxes. That's a nice bit of color-coding to go with the letter codes. The box contents are fairly modest: a microUSB cable, a 5V 1.55A charger and a one-piece headset.</paragraph>
+			<paragraph>The charger isn't powerful enough for Quick Charge, but it's the same that the pricier A series got. The headset is clearly cheaper though, it only has one button and uses simple earbuds compared to the in-ear headset of an A series phone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 measures 152.2 x 78.7 x 7.5mm (7.9mm on some versions), that's a good 1.2mm (1.6mm) thicker than the A7. It's also 30g heavier at 171g. This all gives it a bulkier feel and the all-plastic exterior gives away its lower position in the pecking order.</paragraph>
+			<paragraph>Samsung has been stepping up its design game and with the latest premium devices it has reached a level most people will call "beautiful." The Galaxy J7, however, belongs to the previous era, the one favoring practicality over looks.</paragraph>
+			<paragraph>The ordinary design makes it a face in the crowd - is it a J7? E7? Some sort of Note Neo maybe? Grand something? The J7 does not aspire to individuality, instead it's content with helping the Galaxy line solidify the ranks in the midrange.</paragraph>
+			<paragraph>The hardware does have some standout features making this the smartphone equivalent of a sleeper car - you won't think much of it at the stoplight until it drives off with screeching tires. Well, okay with Cortex-A53 cores and 13MP camera it will only provide moderate amounts of squeal but you get the point - the Galaxy J7 performs better than it looks, it's the opposite of flame decals.</paragraph>
+			<paragraph>On the plus side, Samsung got ergonomics right haven't made major changes to the formula since. This will make upgrades from older Galaxys seamless while newcomers will adjust quickly.</paragraph>
+			<paragraph>The phone's side and back are smoothly rounded so there's nothing poking at your hand while you're holding it. Having handled the slender Galaxy A8, the J7 feels a little chunky though its weight contributes more to that than its thickness. 7.5mm is still very good, though note that some versions of the phone are slightly thicker (7.9mm).</paragraph>
+			<paragraph>The back panel is made of matte plastic, which offers good grip. It's not the best hand feel we've experienced but it wards off fingerprints with ease. It comes in a choice of White, Black and Gold paintjob.</paragraph>
+			<paragraph>The top and bottom side of the phone are indented so that the four corners rise slightly. This offers extra grip for your fingers as you hold the phone horizontally to take a photo. Otherwise the smooth chrome-finish sides can be quite slippery.</paragraph>
+			<paragraph>In portrait orientation your thumb has the hardware Home key and capacitive App switcher and Back keys to play with below the screen. There's no fingerprint reader on this Home key, that's still a premium feature.</paragraph>
+			<paragraph>Above the screen is a much more interesting setup. The 5MP selfie camera is on the right, while its LED flash is on the left. In the dark, one side of your face is illuminated a bit more, which gives better definition than if flash and camera were closer together.</paragraph>
+			<paragraph>Of course, the usual suspects are all there as well: earpiece, proximity and ambient light sensors.</paragraph>
+			<paragraph>The sides of the phone accommodate the Power key and the Volume rocker. The keys are a bit thin but solid to press.</paragraph>
+			<paragraph>The top side of the Samsung Galaxy J7 is bare, the interesting bits are all on the bottom - microUSB 2.0 port, audio jack and mouthpiece. The USB port does not support MHL TV out (leaving you with only wireless methods), but it does have USB On-The-Go.</paragraph>
+			<paragraph>The back panel is removable, giving you access to the three card slots and the battery. The SIM1 and microSD slots are stacked vertically (SIM on the bottom), while SIM2 is off to the side, this makes it easier to swap out. Both cards are microSIM by the way.</paragraph>
+			<paragraph>The battery packs 3,000mAh, putting it on par with the Galaxy Note5. Of course, its chipset isn't as efficient though it has the easy job of driving a 720p display so we'll see how the J7 does at that.</paragraph>
+			<paragraph>The back has the time-tested Galaxy S III arrangement of a slightly protruding camera (13MP), an LED flash on one side and loudspeaker grille on the other.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 comes with a large Super AMOLED display. In recent years, these have become known for their accurate colors, great sunlight legibility and excellent quality though this particular 5.5" screen has only 720p resolution.</paragraph>
+			<paragraph>The 267ppi is enough from a practical standpoint, text remains legible even with small, thin type. It helps that this is an RGB type matrix rather than PenTile. Most of the time you may not notice the slight jaggies on diagonal and curved lines though you will spot the difference.</paragraph>
+			<paragraph>The colors are very accurate and again you have a choice of Basic, AMOLED photo and AMOLED video modes. We found that Basic gives the most accurate results, though many will prefer the other two modes - they combine a boost in saturation with enhanced contrast, which makes any image pop.</paragraph>
+			<paragraph>Viewing angles are very good, though the typical blue/green tint at extreme angles can be seen.</paragraph>
+			<paragraph>In general use, the display is dimmer than the best Super AMOLEDs but matched the pricier Galaxy A8. The Galaxy J7 screen managed around 360nits in normal mode though outside you can boost that to a more impressive 500nits for a short period (it automatically turns off after a while to preserve the screen and the battery).</paragraph>
+			<paragraph>In broad daylight, the screen remains perfectly legible. It's as good as say a Galaxy Alpha or a Galaxy S4. You can boost that even higher with the Outdoors mode, which lifts the Galaxy J7 screen to one of the best we've tested in this category.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 only comes in a dual-SIM flavor and has 4G LTE. Both cards are the larger, microSIM standard. It's a dual-standby device.</paragraph>
+			<paragraph>Locally you get Wi-Fi b/g/n (on 2.4GHz only) and Bluetooth 4.1. You can also count on support for ANT+ sports trackers. NFC is region-dependent. However, even with NFC and KNOX on board you shouldn't expect Samsung Pay on the J7.</paragraph>
+			<paragraph>Interestingly, there's FM radio, which we don't see on many Galaxy phones these days.</paragraph>
+			<paragraph>Standard microUSB 2.0 handles the wired connectivity and charging. It does not have MHL or SlimPort TV out but you can attach USB accessories with USB On The Go.</paragraph>
+			<paragraph>Positioning is handled by GPS and GLONASS, Chinese Beidou is present on some versions as well (that system doesn't have worldwide coverage yet).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 comes with a solid 3,000mAh battery, that's the same capacity as the Galaxy Note5. Of course, there's no high-resolution screen to worry about and the Cortex-A53 processor cores are quite efficient.</paragraph>
+			<paragraph>Note that we're testing the Exynos 7580 version of the Galaxy J7 rather than the Snapdragon 615. Also, this is a dual-SIM phone.</paragraph>
+			<paragraph>With just one SIM card active, the J7 lasted an impressive 91 hours, essentially matching the Galaxy Note 4 and Note5. It also improves the Galaxy E7 time by quite a bit. With a second SIM active the standby power draw increases, but you still get just over three days of standby.</paragraph>
+			<paragraph>The 18 and a half hours of talk time were not very impressive - with this battery it could have easily been 25+. Web browsing is pretty solid at 9 hours, a couple of hours behind the last two generation of Note flagships but excellent for a midrange phone.</paragraph>
+			<paragraph>Finally, the video playback is highly impressive, one of the best we've tested. The screen was set at 150nits (darker than usual).</paragraph>
+			<paragraph>As a reminder, we test standby power draw, which is taken into account for the Endurance calculation.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface: familiar TouchWiz, no split-screen<subsectionTitle>
+			<paragraph>Samsung Galaxy J7 comes with Android 5.1.1 Lollipop and the latest incarnation of TouchWiz. The software is very similar to what the higher-end Galaxy A8 we reviewed recently was running, except some of the premium features have been removed (and some not so premium).</paragraph>
+			<paragraph>The lockscreen follows Android trends with a list of notifications and a couple of shortcuts - dialer and camera. Like the Galaxy S6, you can double tap the Home key to quickly launch the camera.</paragraph>
+			<paragraph>The added weather info on the lockscreen is perhaps not standard Android, but it's useful enough.</paragraph>
+			<paragraph>Unlike the new A8, the Galaxy J7 lacks a fingerprint reader so you get the traditional locking methods on - swipe, pattern, PIN and password. There's no Private mode either, even though Private mode can be set to use only a password.</paragraph>
+			<paragraph>Thanks to the new TouchWiz the Samsung Galaxy J7 can get new garbs at the theme store. The preloaded themes aren't that great, but the store has been progressively getting more variety lately. Themes can change the wallpaper and icons, but also some Samsung apps (dialer, contacts, messages) and the notification area. We wish there was a search function though finding a material theme wasn't too hard.</paragraph>
+			<paragraph>The homescreen is quite normal. You get the optional Briefing pane on the left, which pulls info from a selection of news sources on topics you find interesting. It's basically Flipboard in disguise. There's an option to change the screen grid between 4x4, 4x5 and 5x5, the smallest one is the default.</paragraph>
+			<paragraph>The notification area has one scrollable row of quick toggles with some have text underneath, like the name of the Wi-Fi network you are connected to. The only way to view all toggles is to hit the edit button.</paragraph>
+			<paragraph>The brightness slider is below the toggles. Instead of an Auto toggle it has an Outdoors mode that temporarily boosts the brightness (it will be switched off automatically later to preserve battery).</paragraph>
+			<paragraph>The Samsung Galaxy J7 had a screen worth of apps drawer. Samsung tucked away Google's mandatory apps in a folder and placed its home-brewed alternatives up front. You can disable apps you don't want (but can't uninstall the TouchWiz ones).</paragraph>
+			<paragraph>Samsung has partnered with Microsoft so you get OneDrive (you get 100GB free as a gift), along with OneNote and Skype pre-installed. The 16GB of pre-installed storage can be a little cramped since around 7GB are taken up by the system.</paragraph>
+			<paragraph>Unlike the higher-end Galaxys, the Galaxy J7 does not have split-screen multitasking. We don't know if that's just the product strategy or a technical limitation (the A8 with 2GB of RAM had it, the J7 has 1.5GB).</paragraph>
+			<paragraph>The Setting menu features Quick settings - a selection of the most used options you can use. Below that is the full list, though we prefer using the search function as the extensive features that Samsung has provided can be hard to track down among menus and submenus.</paragraph>
+			<paragraph>TouchWiz and Android were quite stable during testing, other than the Wi-Fi disconnects.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 is powered by a Snapdragon 615 chipset or a new-generation mid-range Exynos chipset. Both have 1.5GB of RAM. The Exynos chipset is a 7-series chip built on Cortex-A53 cores but with Mali-T720 graphics instead of Adreno 405. We have the Exynos version inside our review unit.</paragraph>
+			<paragraph>On paper, the A53 processor is clocked higher inside the Exynos chipset compared to the Snapdragon. In the Exynos chipset all 8 cores run at 1.5GHz, while the S615 version has them in a 2x1.4GHz + 2x1.0GHz setup.</paragraph>
+			<paragraph>On the GPU front, the Mali GPU should be faster, but both the Mali and the Adreno support OpenGL ES 3.1 for the latest graphics effects.</paragraph>
+			<paragraph>Our first benchmark, the AnTuTu 5, gives the Galaxy A8 a slight edge in performance. The Helio X10-based Xiaomi Redmi Note 2 also places higher, though not as high as its 2GHz octa-core A53 processor implies.</paragraph>
+			<paragraph>The Sony Xperia M4 Aqua is based on the Snapdragon 615 chipset and has a 720p screen, but is slightly behind the Galaxy J7 in this test. Basemark OS II 2.0 has the J7 and M4 Aqua swapping places - the speed advantage depends on the workload, apparently.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In raw CPU performance, the Galaxy J7 proved quite impressive, getting close to the multi-core speed of the Galaxy A8. That one has Cortex-A15 cores though, so it easily snatched the single-core test away from the A53 cores, which are geared towards power efficiency.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We had high hopes for the Mali-T720 MP2 graphics, but the scores were disappointing. It turns out that Qualcomm's entry-level 4th generation GPU is slightly faster - getting nearly 6fps more at the native 720p resolution than the Mali.</paragraph>
+			<paragraph>The advantage grows to nearly 50% when a newer engine is used (GFX 3.0). Basemark X concurs with these findings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>For the web tests we used the Samsung-tuned Internet app. It narrowly beats out the Xperia M4 Aqua in Javascript performance, but comes nowhere near the Galaxy A8. The Galaxy J7 handedly beats some affordable 5.5-or-so-inch devices like the Meizu m2 note and Lumia 640 XL and matches the mid-range Redmi Note 2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>After the Galaxy A8 tests we went into this review thinking that the Exynos chipset in the Galaxy J7 will outperform the Snapdragon 615. After all, the Exynos 5430 in the A8 made short work of it and this one is a 7-series Exynos but that's not the case. The Galaxy A8, apparently, has faster CPU cores and a beefier GPU.</paragraph>
+			<paragraph>So when it comes to the Galaxy J7, if you have a choice, get the Snapdragon 615 version - you're quite likely to see a difference in gaming performance, depending on the game it could be a significant one.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook and telephony<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 has a strong reception and good in-call audio. It comes with either one or two SIM cards (one micro, one nano), the Duos version has dual-standby. Only one card has access to 3G and 4G networks, the other is for 2G calls.</paragraph>
+			<paragraph>The call log is visible behind the keypad (you can hide that to view the full list) and it shows which SIM was used to place/take the call. You can also filter the log by which SIM was used. The other two tabs show your favorite contacts and all you contacts.</paragraph>
+			<paragraph>The Phonebook is a list of contacts with a search field and an alphabet index. The contact info card has been cleaned up and shows the contact image (you can swipe down to view it fully), below that are the phones and emails with quick buttons to call/send message.</paragraph>
+			<paragraph>Here you'll also find the latest messages and calls with that contact. The View more toggle displays all the additional info. You can swipe left to call a contact straight from the list, right to send them a message.</paragraph>
+			<paragraph>The built-in call rejection feature lets you block calls from certain numbers or all numbers not in your phonebook. Do not disturb mode can be scheduled on select days and during certain periods of the day. You can set it to make an exception for certain notifications, including allowing only calls from your favorite contacts.</paragraph>
+			<paragraph>The single loudspeaker on the Samsung Galaxy J7 proved rather unimpressive. It matched the Xperia M4 Aqua, but at least the Sony has its waterproofing to point to. The Galaxy J7 was quiet in all three tests, scoring a final Below Average mark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>The default messaging app is Samsung's own Messages. It has a clean looking UI and lets you can customize font size, backgrounds and speech bubble style. You can use pinch zoom to change the font size in a conversation thread. We didn't find the custom wallpaper/bubble styles though.</paragraph>
+			<paragraph>Receiving a new message displays a popup that lets you view or quickly reply to a message, a handy functionality that Hangouts lacks.</paragraph>
+			<paragraph>A built-in spam filter weeds out messages from select numbers or containing certain phrases. You can also schedule messages to be automatically sent later (so you don't forget).</paragraph>
+			<paragraph>The Samsung-modified Email app looks almost identical. The top row is a shortcut to show emails only from just priority contacts or you can view a combined inbox if you have multiple accounts added.</paragraph>
+			<paragraph>The Gmail app also handles multiple accounts - even ones not on Gmail - and adheres more strictly to Material design principles. Add push notifications and we end up using it more often than the Email app.</paragraph>
+			<paragraph>The Samsung keyboard features a dedicated numbers row. You can assign preset phrases to them so simple messages like "on my way" can be typed in a second. You can add text shortcuts (so 'brb' gets replaced with 'be right back') and there's predictive text.</paragraph>
+			<paragraph>You can tweak the size of the keyboard slightly, making it taller or shorter and if you are okay with a tiny keyboard, you can use the small floating one.</paragraph>
+			<paragraph>It can update its database with popular words weekly and learn from your messages and contacts. Swiping can be set to move the text cursor or as an input method. Unfortunately, there's no floating mini keyboard though, it used to come handy on bigger devices (comfy for thumb typing).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery sans wireless features<subsectionTitle>
+			<paragraph>The TouchWiz gallery has been borrowed from the Galaxy flagships (with a reduced feature set). The default view shows photos grouped based on time. Thumbnails are shown on a clean white background and you can change their size with a pinch zoom.</paragraph>
+			<paragraph>Editing tools include simple things like cropping and making collages, you can go into the Photo editor for more advanced editing options (note that you have to download those, they wasn't pre-installed). There's no support for online galleries though.</paragraph>
+			<paragraph>The Share button allows you to send a photo to a wireless printer, but the DLNA/TV sharing functionality is missing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Only Google Play Music<subsectionTitle>
+			<paragraph>Samsung's TouchWiz music player was one of the most feature-rich apps, but Samsung dropped it in favor of Google Play Music. This means no Sound Alive, not even an equalizer.</paragraph>
+			<paragraph>It's a capable player for offline music play, it does online streaming too. You can bolster your music collection with stuff from the Google store too.</paragraph>
+			<paragraph>The Samsung Galaxy J7 also features an FM radio, a rarity on Galaxy phones these days. It can record radio broadcast (subject to local laws) and provides an alternative to your music collection or internet "radio".</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The video player is similar to the gallery. It supports all kinds of video file types and codecs, up to 4K 2160p encoded with the new H.265/HEVC codec. As usual, multi-channel audio (AC-3, DTS) is not supported out of the box.</paragraph>
+			<paragraph>The pop-up video player is gone, but you can still beam can beam the audio over Bluetooth. There are extensive subtitle settings with adjustable font and text size, text color, edge and background. Multiple presets are available and you can make your own.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is mostly good<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 put in a very solid performance in the active external amplifier part of our audio quality test. The smartphone produced had perfectly clean output and above average volume levels here to round up a great showing.</paragraph>
+			<paragraph>Sadly, degradation when you plug in a pair of headphones is rather prominent so you are left with less than impressive results in that case. Some intermodulation distortion appears and we measured a fair amount of stereo crosstalk. It's not bad, mind you, it just won't win any awards -</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The camera UI is pretty unified among Galaxy phones, the Samsung Galaxy J7 even has Pro mode. It isn't as advanced as what you get on a Galaxy S or Note, all you get is sliders for ISO, exposure compensation and white balance but nothing on focus and shutter speed (the key settings for Pro mode, if you ask us).</paragraph>
+			<paragraph>Hitting the Mode button gives you access to other goodies like Panorama, Continuous shot, HDR, Sound &amp; shot and a couple of others. One the viewfinder you also get some additional options including color effects and metering.</paragraph>
+			<paragraph>The Galaxy J7 camera is a 13MP shooter and impressively features an f/1.9 aperture - just like the Galaxy S6, Note5 and A8. Of course, it doesn't have their sensors, but this is the "premium budget" version we're talking about here (between the Galaxy A end E series).</paragraph>
+			<paragraph>The front-facing camera is a 5MP/1080p shooter, which gets its own flash. While the Notes keep a more serious, business-like persona, the Galaxy J7 is down for some fun photography even in the dark.</paragraph>
+			<paragraph>The image quality of the main camera is quite good for a 13MP shooter, though photos have some blemishes. White balance is quite accurate (a bit cold), color saturation is a step above where it needs to be. The dynamic range is a bit short and photos tend to have either overexposed highlights or underexposed shadows.</paragraph>
+			<paragraph>The noise reduction does a good job of keeping images relatively noise-free and sharp, it even handles complicated detail like foliage quite well. The J7 photos aren't the sharpest 13MP shots we've seen but the camera shows excellent performance for the class.</paragraph>
+			<paragraph>The HDR mode did a good job of bringing more detail to the sunny sky, without smudging up the rest of the image. It even shot at full 13MP resolution, unlike the Galaxy A8 HDR, which went from 16MP to 8MP.</paragraph>
+			<paragraph>The panorama mode is okay, just nothing like what the flagships have. Vertical resolution is around 1,200px, which isn't much. At least the stitching is quite accurate even if the post-processing oversaturates colors worse than the still camera.</paragraph>
+			<paragraph>The 5MP selfie camera is a key feature of the Samsung Galaxy J7, unfortunately is a not in the same class as the main camera. The dynamic range is unimpressive and the sky gets overexposed even when the sun is not directly behind you. Colors appear dull and the captured detail is below the best 5MP selfie cameras.</paragraph>
+			<paragraph>You can use Samsung's Selfie Panorama mode to capture 120° of the scene, a single shot usually captures 85°.</paragraph>
+			<paragraph>We also tried the selfie flash in a completely dark room. It's not very strong but it only needs to work at arm's length. Still, the camera does not like the dark (it has an f/2.2 aperture and even at ISO 800 photos were quite noisy).</paragraph>
+			<paragraph>13MP is perhaps the most popular camera resolution in the mid-range market, here's how the Galaxy J7 holds up against some of the competition.</paragraph>
+			<paragraph>   Photo quality comparison camera</paragraph>
+			<paragraph>Both cameras on the Samsung Galaxy J7 top out at 1080p video at 30fps. The main camera lacks high-FPS modes, even 720p @ 60fps would have been appreciated as it makes a real difference in fast-paced scenes.</paragraph>
+			<paragraph>On the upside, the 1080p video form the main camera is very good quality. It suffers from oversaturated colors and narrowish dynamic range like the still camera, but the 17Mbps videos look sharp and play smoothly.</paragraph>
+			<paragraph>The microphones capture good quality sound and the phone saves the best of it at 256Kbps bitrate. The mics aren't flagship level, but still get above average audio.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download an untouched video sample here - 15 seconds, 31.7MB.</paragraph>
+			<paragraph>1080p is still the most popular choice, 2160p still hasn't made its way into the mid-range. Here's the Galaxy J7 against some other 1080p shooters.</paragraph>
+			<paragraph>   Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Browser and Chrome<subsectionTitle>
+			<paragraph>While Samsung dropped its music player, it kept its custom browser. It supports multiple tabs (including incognito ones), but the option to sync tabs between devices is gone. There's no fingerprint sign-in either (obviously, since there's no fingerprint reader).</paragraph>
+			<paragraph>Chrome comes on all Androids as part of the Play Services package. It can sync tabs (based on your Google account) and has the data-saving option of compressing pages before they are sent to the device. It will even automatically detect foreign language sites and offer to translate them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other preinstalled apps<subsectionTitle>
+			<paragraph>Samsung has partnered with Microsoft and offers three preinstalled apps (that you can't uninstall either). There's OneDrive to handle cloud-syncing needs (including photo backup). You get a free 100GB with your phone. OneNote for a more advanced note taking and syncing experience than the Memo app offers. Skype is also on board to handle instant messaging and Internet calling.</paragraph>
+			<paragraph>Smart Manager shows even more collaboration and is a one-stop shop for maintenance of your device. It's divided into four parts. Battery shows estimated battery life remaining/time until charged and will warn you of abnormal battery usage. The Power saving and Ultra power saving modes can be activated from here.</paragraph>
+			<paragraph>The Storage section leans on Clean Master to free up some storage by deleting unnecessary files. RAM closes running apps to free up RAM.</paragraph>
+			<paragraph>The fourth section is Device security. It offers My KNOX, which create separate working spaces for personal and work apps (think BlackBerry's Balance). KNOX Active Protection promises to safeguard you against hacks - it's disabled by default for casual users and enabled for enterprise users.</paragraph>
+			<paragraph>It slows down performance a bit and adds 1 second to the boot time. What you get is verification that the system apps haven't been tampered with and real-time kernel protection to avoid unauthorized access from apps to the core of the operating system. There's also a McAfee-powered malware scanner on board.</paragraph>
+			<paragraph>S Planner is the familiar Samsung replacement for the Google calendar. Tapping on a day shows in Month view a preview of the scheduled events for that date. You can add a 7-day weather forecast and multiple calendars.</paragraph>
+			<paragraph>The My Files app is the built-in file browser. It's beginner friendly with its Category view (e.g. view all photos), but you can browse the whole internal storage) There's no Google Drive integration like in other versions of this app and no OneDrive integration either (despite the 100 gig bonus).</paragraph>
+			<paragraph>The Voice recorder app features a single mode - voice notes. The option to automatically transcribe them has been cut. You can write down notes yourself with the Memo app, which lets you add checklists, images and voice memos.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>Sturdy build quality, but the Galaxy J7 is not design-oriented;</paragraph>
+			<paragraph>The screen has great colors, great maximum brightness and is very legible in all conditions, but the 720p resolution is spread a little thing on the large screen surface;</paragraph>
+			<paragraph>Battery life is excellent (we reviewed the Exynos version) with an endurance rating of 91h;</paragraph>
+			<paragraph>Samsung's TouchWiz functionality has been cut down - no split-screen multitasking and no advanced music player;</paragraph>
+			<paragraph>The system files take up a lot of the on-board storage (north of 6GB), it's a good thing there's a microSD slot;</paragraph>
+			<paragraph>Performance-wise, the Exynos version we're reviewing lags behind the Snapdragon 615 version in gaming;</paragraph>
+			<paragraph>Audio quality is relatively good with the headphones plugged in and even better with an external amplifier;</paragraph>
+			<paragraph>The single on-board speaker is somewhat on the quiet side;</paragraph>
+			<paragraph>The main camera is excellent for the price range, but the selfie camera (which seemed the focus of this device) could have been better;</paragraph>
+			<paragraph>No global availability makes this a niche offering;</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Samsung Galaxy J7 is a trusty workhorse, but a bit anonymous. It can get lost in the crowd of Galaxy phones, but given a choice we'd probably pick it before most of its lookalikes.</paragraph>
+			<paragraph>If you've fallen for AMOLED screens you'd scoff at the idea of going back to an LCD. Even after years of improvement, LCDs can look washed out compared to the rich, punchy image you get on an AMOLED. Unfortunately, there are very few options - it's Samsung and some up-and-coming makers that have picked up the slack from the established (and now struggling) makers.</paragraph>
+			<paragraph>The Galaxy J7 has optional dual-SIM (that has full use of its microSD card slot), a capable chipset and a good camera setup, with a penchant for selfies. The software is a bit more limited than what higher-end Galaxys get but is very comprehensive with Power saving modes and KNOX.</paragraph>
+			<paragraph>The Samsung Galaxy J7 is in the middle of the ?200-?300 price segment, the sweet spot for capable lower midrangers. Unfortunately, it may not see global availability, so far we've only found it in Asia. And there's a lot of tough competition there (from the aforementioned up-and-comers), but let's start with alternatives within the very Galaxy family.</paragraph>
+			<paragraph>The Samsung Galaxy E7 looks a great deal like the J7. In fact, you'll have to notice the lack of a front flash to tell them apart. The major difference is inside - the quad-core processor in the weak-ish Snapdragon 410 chipset is not in the same league as the J7 chipsets. Still, with a 5.5" 720p screen, 13MP + 5MP cameras, optional dual-SIM, the E7 has most of the same goodies (except for Android Lollipop).</paragraph>
+			<paragraph> Samsung Galaxy E7</paragraph>
+			<paragraph>If you want to go up a step the pricing ladder instead of down, the Samsung Galaxy A7 is thin (6.3mm) and with a lovely metal frame. The 5.5" Super AMOLED screen has 1080p resolution, it's noticeably sharper, and you can get this with the Exynos 5430 chipset that impressed in the Galaxy A8. It has the same camera setup as the J7, aside from the front flash.</paragraph>
+			<paragraph>  Samsung Galaxy A7 ? Samsung Galaxy A7 Duos</paragraph>
+			<paragraph>The Sony Xperia C4 boasts a 5MP flash-enabled selfie camera, plus a 13MP/1080p shooter on the back. Its 5.5" screen (IPS LCD) has 1080p resolution and the phone is powered by a MediaTek chipset that's roughly equivalent to the Exynos in the Galaxy J7 (but with slightly higher CPU clock).</paragraph>
+			<paragraph>  Sony Xperia C4 ? Sony Xperia C4 Dual</paragraph>
+			<paragraph>Another selfie-machine is the Asus Zenfone Selfie ZD551KL. It has a 13MP camera with dual-tone flash (!) on the front (same on the back, except with added laser autofocus).</paragraph>
+			<paragraph>The 5.5" 1080p IPS screen is sharper, while the Snapdragon 615 chipset and 3,000mAh battery match the Galaxy J7. This Zenfone is 10.8mm thick though.</paragraph>
+			<paragraph> Asus Zenfone Selfie ZD551KL</paragraph>
+			<paragraph>The Motorola Moto X Play is water resistant (IP52) unlike the Xperia above and has a 21MP/1080p main camera plus a 5MP selfie shooter. The 5.5" 1080p screen is flanked by stereo speakers, you get an even bigger battery (3,630mAh, but the phone is as thick as the Zenfone) and punctual Android updates.</paragraph>
+			<paragraph>  Motorola Moto X Play ? Motorola Moto X Play Dual SIM</paragraph>
+			<paragraph>The Meizu MX5 is another option for a 20+ MP main camera and a 5MP selfie shooter. It lacks a microSD card slot unfortunately, but you do get a 5.5" 1080p screen, metal unibody and a fingerprint sensor. Nice perks over the Galaxy J7, especially if you get the 32GB or 64GB versions.</paragraph>
+			<paragraph> Meizu MX5</paragraph>
+			<paragraph>The Huawei G8 also packs a 5.5" 1080p screen, but it has a beautiful metal body and a fingerprint sensor like the Meizu. Other than that it has Snapdragon 615 - the chipset of choice in this category - a 13MP/1080p main camera and a 5MP selfie camera. Note that this one may not be available near you just yet, it's set to launch this month.</paragraph>
+			<paragraph> Huawei G8</paragraph>
+			<paragraph>You can also try the Lenovo K3 Note - a 5.5" 1080p display, coupled to the same MediaTek chipset as the Xperia C4, plus a 13MP/1080p main camera and a 5MP selfie camera. The K3 Note boasts Dolby Atmos audio (single loudspeaker though) and a 3,000mAh battery and it's in a lower price segment than the Galaxy J7.</paragraph>
+			<paragraph> Lenovo K3 Note</paragraph>
+			<paragraph>The Samsung Galaxy J7 is perfectly geared for East Asia - they like their screens large (even if it's at the cost of lower resolution) and they like their selfies, dual-SIM is typically a must too. The J7 is competitively priced too, against the onslaught of local brands that target the mid-range, big screen segment.</paragraph>
+			<paragraph>But does it have potential in the West? We think so - it's a reliable, capable device though it lacks style. Even in the west the competition is quite heated though, even among Galaxys themselves so make sure you also have a look at the Galaxy A7 and E7 before committing to the J7.</paragraph>
+		</subsection>
+	</page>
+</review>

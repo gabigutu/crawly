@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Life</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2009</year>
+	<link>http://www.senscritique.com/serie/Life/444094</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>34</numberOfVoters>
+		<numberOfVoters>79</numberOfVoters>
+		<numberOfVoters>88</numberOfVoters>
+		<numberOfVoters>63</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Life, ou la perfection du documentaire animalier.</title>
+		<author>slowpress</author>
+		<date>2014-02-10</date>
+		<score>1.0</score>
+		<content>Life est une série de documentaire animalier certes, mais elle propose aussi des scènes de films d'action, de thriller, de comédie romantique, de films X, de drame historique, de films de science-fiction, de western, de films d'horreur, de films de kung-fu, de films d'aventure, de films catastrophe, de films policier, de films d'espionnage, de films expérimentaux, de comédies, de buddy-movie, de comédies musicales, de films de capes et d'épées et plus encore. (Pour ceux qui ne me croient pas, je suis sûre de trouver au moins un exemple à l'appui pour chaque genre). La musique est magistrale à chaque plan qui sont eux même merveilleux, l'anthropomorphisme est à son point culminant tant la réalisation adopte le point de vue de l'animal star au moment où il est capturé par la caméra. Entre paysages magnifiques et zoom comme on ne croit pas qu'il en existe de si près, Life nous donne envie de croire en Dieu, en la Nature et les maths et en Darwin. N'oublions pas la narration de David Attenboroug, un de mes nombreux amours de vieillards aux cheveux blancs, qui a la voix du grand-père rêvé.</content>
+	</review>
+	<review>
+		<title>Life</title>
+		<author>magyalmar</author>
+		<date>2014-03-02</date>
+		<score>1.0</score>
+		<content>C'est vraiment la perfection de A à Z, il n'y a rien à dire. Avec de petites équipes mais beaucoup de patience, de savoir-faire et de maîtrise technologique, scientifique et surtout cinématographique, chaque épisode fascine et captive, montrant que notre planète n'est et ne sera jamais à court de créatures et d'histoires surprenantes. Chaque plan est composé avec une précision sidérante, d'autant plus quand on garde à l'esprit qu'une grande part d'inattendu attendait les équipes de tournage. Pourtant, la maîtrise est telle que les animaux semblent jouer pour la caméra. L'esthétisme de la mise en scène rajoute à la magie, avec des séquences hallucinantes comme ces timelapses en mouvement montrant l'évolution de la flore dans une forêt, ou sous l'eau.</content>
+	</review>
+	<review>
+		<title>La Vie est Belle</title>
+		<author>Phenixy</author>
+		<date>2013-01-04</date>
+		<score>1.0</score>
+		<content>Digne héritière de la série Planet Earth sur la beauté des différents écosystèmes de notre planète, Life reflète ici les charmes et la richesse du monde animal. La série est également diffusée de façon thématique: les mammifères, les reptiles, les poissons, les oiseaux, etc. Comme à son habitude, la Natural History Unit de la BBC nous livre un chef d'oeuvre à la réalisation impeccable. Comme son aîné, on ne saurait le conseiller qu'en blu-ray, votre télé HD vous fera l'amour par les yeux.</content>
+	</review>
+	<review>
+		<title>Thank you Sir !</title>
+		<author>cinematod</author>
+		<date>2016-03-03</date>
+		<score>1.0</score>
+		<content>Sans doute le top niveau dans le genre. Avec David Attenborough, c'est toujours passionnant, instructif, propre à susciter l'intérêt, la curiosité et le respect. C'est aussi construit habilement, avec un souci de dérouler un fil d'informations scientifiques (abordables), sur un ton plaisant mais dans un souci de rigueur et de justesse. C'est dynamique même si le monsieur a je crois 50 ans de carrière derrière lui ! ... (On est très loin de ce que produisent les télés françaises, docus truffés d'erreurs, qui semblent davantage des clips touristes, vomis d'images sans approche pédagogique et commentaires qui semblent s'adresser à des débiles ! (sauf rares exceptions)).</content>
+	</review>
+	<review>
+		<title>Life</title>
+		<author>jose1209</author>
+		<date>2012-12-10</date>
+		<score>0.9</score>
+		<content>avec planet earth, la meilleur série sur la nature actuelle. il y a quelques erreurs de noms d'animaux dans la traduction française.</content>
+	</review>
+</sensCritiqueEntity>

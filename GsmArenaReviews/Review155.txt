@@ -1,0 +1,88 @@
+<review>
+	<title>Sony Ericsson Media Go review</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/sony_ericsson_media_go-review-334.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Now, what's with the software review on the GSM Arena homepage, you might ask. Well, last week you could have said that for Blackberry as well. We guess it's time for another first. Today however we're getting a closer look at Sony Ericsson's Media Go desktop multimedia management software.</paragraph>
+			<paragraph>Back in February Sony Ericsson promised to revolutionize the way users transfer and consume video on the company's feature phones. The newly announced Media Go multimedia manager not only keeps your music in order, but it also crunches every multimedia file you throw at it to a format that's easily digestible by a regular mobile phone.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Media Go did cause a lot of commotion in the comments section of our recently published Sony Ericsson W995 review. It's the first phone to come bundled with Media Go and some users felt that we didn't stress enough on the potentially overwhelming capabilities of this new software.</paragraph>
+			<paragraph>Well, truth be told, we didn't really think such software is the kind of feat to write home about, so we just didn't share that enthusiasm. But guess what what we did as soon as we acquired a working beta copy of Media Go. That's right, we went writing about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Getting started with Media Go<subsectionTitle>
+			<paragraph>Our first surprise with the new piece of software is that it's actually branded by Sony, and not Sony Ericsson. Perhaps, this will only be true for the beta version of the software, we are not really sure yet.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>On first launch Media Go surely felt like a Sony commercial product. Much like the other Sony commercial products we've seen, you have to enter the supplied serial number and register with the Sony, in order to use the application.</paragraph>
+			<paragraph>Once that we were beyond the registration process, the software loaded up and was ready to roll. We connected our Sony Ericsson W995 and we were presented by the last surprise for the day.</paragraph>
+			<paragraph>Media Go cannot connect to the phone straight out-of-the-box. As it turns out, Media Go won't be substituting the regular Sony Ericsson PC Suite despite our expectations. Instead, both applications should be installed on your desktop computer, as PC Suite is the application that actually takes care of the needed USB drivers, etc.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>After we sorted that out as well, it was time to finally take a deeper look at the new Media Go application and the way it's put to use by Sony Ericsson phones.</paragraph>
+			<paragraph>Join us on the next page, as we explore it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Starting Media Go for the first time<subsectionTitle>
+			<paragraph>When Media Go first loaded up, it quite nicely asked whether we'd like to import the current iTunes library directly to the Sony Ericsson software. That means that if you use iTunes to organize your multimedia collection, getting everything to Media Go will be extra easy.</paragraph>
+			<paragraph>For the rest of you, Media Go will just scan your entire hard drive for available multimedia files and will sort them by their type in its Library module. The initial scanning can take a while so be prepared.</paragraph>
+			<paragraph>Interestingly, Media Go is not just an organizer application - it's a full-featured music player as well - quite similar to iTunes or Windows Media Player for example. Here is how the mini mode of Media Go looks like - quite unobtrusive mini player actually.</paragraph>
+			<paragraph> Media Go mini mode</paragraph>
+			<paragraph>When we connected our Sony Ericsson W995, both its internal memory and its external memory appeared as library modules on the left side of the software interface. Multimedia files on the device are again sorted according to their type, plus playlists get listed as well so you can drag-and-drop them where you want.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Managing music<subsectionTitle>
+			<paragraph>Now that we got access to both our computer music library and the W995 library through the software interface, managing music was an easy task. So was creating playlists.</paragraph>
+			<paragraph>Media Go allows you to create custom playlists in the computer music library as a standard feature. Once the phone has been connected though, you can easily transfer those to its memory.</paragraph>
+			<paragraph>Transferring music tracks with Media Go was reasonably fast - the modest 80MB of music (15 MP3 tracks) took 40 seconds to copy to the Sony Ericsson W995 memory card - that's about 2MB/s of write speed.</paragraph>
+			<paragraph>Media Go also allows for creating SensMe playlists with your computer's music, so it essentially brings the Walkman goodies to the desktop.</paragraph>
+			<paragraph>In case you've missed it, SensMe is one of the differentiating music features of Sony Ericsson Walkman products. The principle behind SensMe is the following: a desktop application (previously Sony Ericsson Media Manager) automatically assigns a mood to every track based on tempo and style. Afterwards you transfer that music to the phone and you can use that embedded information to easily create quick playlists to match your mood.</paragraph>
+			<paragraph>On the phone SensMe has an innovative visual interface representing tracks as dots in a matrix and positioning them according to the mood they've been designated. Now with Media Go, Sony Ericsson are bringing that interface to the computer desktop - easily transferable to the handset as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Getting stuff from PlayNow Arena<subsectionTitle>
+			<paragraph>Another feature of Sony Ericsson Media Go is the integration of the Play Now Arena multimedia store (think iTunes store - if you have any experience with the Apple product).</paragraph>
+			<paragraph>Sony Ericsson Play Now Arena was launched this year and it allows users to buy music, games, ringtones, wallpapers and themes for Sony Ericsson mobiles. There is free content as well - but right now it only seems to be limited to ringtones and wallpapers.</paragraph>
+			<paragraph>Additionally Play Now Arena hopes to attract visitors by getting you access to what other users are checking out via TrackID - that way you can easily see which tracks are currently most popular.</paragraph>
+			<paragraph>The Media Go interface to PlayNow Arena is identical to the user experience form visiting their Flash-based website, so you can easily get the idea.</paragraph>
+			<paragraph>For now Play Now Arena is only available to Austria, Belgium, Denmark, Finland, Germany, Netherlands, Norway, Portugal, Spain, Sweden, Switzerland and the UK. Support for other countries will come in the future.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>There are podcasts as well<subsectionTitle>
+			<paragraph>Again, much like iTunes, Sony Ericsson Media Go gets you access to a large number of online podcasts that you can subscribe to. You can add custom ones as well.</paragraph>
+			<paragraph>Media Go will automatically download new episodes of the subscribed podcasts and if you choose, it can even automatically sync them to your phone.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>And finally, getting video to your mobile<subsectionTitle>
+			<paragraph>Probably one of the most hip and touted features of the Sony Ericsson Media Go application is that it can take any video you throw at it and transfer it to your mobile phone in a playable format by transcoding it on the go.</paragraph>
+			<paragraph>Most of our commenting users are quite enthusiastic about the fact that Media Go is a free video converter that will convert their desktop videos hassle-free and then transfer them to the cellphone all in one go.</paragraph>
+			<paragraph>Well, we didn't share that enthusiasm because we've seen other software take on the task of oversimplifying the matter of video conversion for mobile devices and the results are rarely nice to watch.</paragraph>
+			<paragraph>All that being said, converting and transferring videos with Media Go didn't manage to impress us too, and there are several reasons for that and we would gladly elaborate on them.</paragraph>
+			<paragraph>But first, let's take a look at the pros of having an application such as Media Go do your video conversions:</paragraph>
+			<paragraph>Media Go offers two levels of video quality (Space saving and High quality) and two types of audio encoding (AAC or MP3), both of which have their own three levels of quality (Space saving, high quality, and very high quality).</paragraph>
+			<paragraph>The Space saving setting for video indeed did what it's suppose do - it shrank our test video 40% down compared to the High quality converted video, however the quality did suffer quite obviously. According to us the compromise was just not worth it. The High quality video however looked flawless on the W995 screen and it still was not that big.</paragraph>
+			<paragraph>As for audio - we preferred the High quality setting for an optimal output. We were quite impressed by the Sony Ericsson W995 stereo speakers and how rich their sound is.</paragraph>
+			<paragraph>What we didn't like however is Sony Ericsson's idea of video-capable handset - the W995. It certainly lacks some key features that are important to a portable video player.</paragraph>
+			<paragraph>(1) You have to encode most videos to run on the phone. You cannot just throw one of the most popular video formats such as DivX or XviD and expect that it plays them. As you can guess the disadvantages of the Media Go video conversion fall under the first point.</paragraph>
+			<paragraph>a) First off, it's the logic of conversion that bugs us.</paragraph>
+			<paragraph>You certainly know the black bars displayed on the top and bottom of a video when you watch widescreen material on a non-widescreen display. Well, usually those black bars are not part of the video themselves; they just indicate the parts of the screen that have not been filled with video content. With the Media Go converted videos however, the black bars ARE part of the video.</paragraph>
+			<paragraph>b) Furthermore, the videos are encoded directly to QVGA resolution.</paragraph>
+			<paragraph>That means zooming in the video player (at the expense of side cropping) will in fact deteriorate the video quality. That leads us to the second main disadvantage of W995 as a portable video player.</paragraph>
+			<paragraph>c) And finally, conversion takes time.</paragraph>
+			<paragraph>Converting a 570MB XviD AVI video clip with 640 x 240 pixels resolution took us 30 minutes on a regular spec'd XP rig with 2MB RAM based on C2D E5200. If we were just copying the file to the handset, it would have taken us only 4 minutes.</paragraph>
+			<paragraph>(2) Then the second bugger is that the Sony Ericsson W995 screen doesn't have the widescreen ratio that most videos have. So in result the actual widescreen video feed can take up as little as 1/2 of the display size - quite insufficient.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Media Go seems like a capable application and its performance was flawless during our test. Managing music with it is fine, but videos and photos get scaled to agree with your handset. If you use regular aspect videos (4:3, the aspect of VGA-res clips), you would be quite happy with the output quality. Widescreen videos however turn quite small on that screen and zooming in only makes things worse.</paragraph>
+			<paragraph>On a different note, we couldn't help but wonder why Sony Ericsson decided to ditch their Media Manager, which was only around for a year or two. They could have just upgraded it to accommodate the new stuff such as the Play Now Arena integration and the Podcasts subscription service, but instead they've decided to go for a totally new app.</paragraph>
+			<paragraph>As a result in a few months time there will be not one but three applications that users will use for syncing various content to their Sony Ericsson phones - Media Go, Media Manager and PC Suite.</paragraph>
+			<paragraph>We would have really preferred it that Sony Ericsson went for the integration path - merging Media Manager and PC Suite instead so users can sync both their multimedia and PIM with one single application.</paragraph>
+			<paragraph>Leaving that nuisance aside, our final verdict, is that the combination of Sony Ericsson W995 and Media Go doesn't sound like the best portable video combo we've seen. If video on-the-go is important to you, our recommendation is to stick with powerful smartphones that both support a wide range of video formats and are capable enough to playback desktop videos without any conversion whatsoever.</paragraph>
+		</subsection>
+	</page>
+</review>

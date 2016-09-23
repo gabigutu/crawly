@@ -1,0 +1,282 @@
+<review>
+	<title>Xiaomi Redmi Note 3 review</title>
+	<description>In shiny armor</description>
+	<link>http://www.gsmarena.com/xiaomi_redmi_note_3-review-1356.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.5" IPS display of 1080p resolution; 403ppi</paragraph>
+			<paragraph>Mediatek Helio X10 chipset MT6795; octa-core 2.0GHz Cortex-A53; PowerVR G6200 GPU; 2GB (16GB model) or 3GB (32GB model) of RAM</paragraph>
+			<paragraph>13MP main camera with hybrid phase detect autofocus, dual-LED dual-tone flash</paragraph>
+			<paragraph>1080p video capture at 30fps</paragraph>
+			<paragraph>5MP front-facing camera, 1080p at 30fps video recording</paragraph>
+			<paragraph>MIUI v.7 based on Android 5.0.2 Lollipop</paragraph>
+			<paragraph>16GB or 32GB of built-in storage</paragraph>
+			<paragraph>4G LTE Cat.4 (150Mbps); Dual SIM; Wi-Fi a/b/g/n/ac; Bluetooth 4.1; GPS, GLONASS and Beidou; FM radio</paragraph>
+			<paragraph>IR port</paragraph>
+			<paragraph>Dual-microphone active noise canceling</paragraph>
+			<paragraph>4,000 mAh non-removable battery, fast charging</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No scratch resistant front glass</paragraph>
+			<paragraph>No NFC</paragraph>
+			<paragraph>Battery not removable</paragraph>
+			<paragraph>No microSD expansion</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Redmi Note 3 is a thoughtfully targeted device with a premium metal build, flagship-grade specs, and an iconic MIUI launcher. The third device of the series upgrades design of the Redmi Note 2 just three months after its premiere, while keeping the same specs, but improving the security with a fingerprint scanner.</paragraph>
+			<paragraph>Indeed the upgrades are not that many - a metal shell, a bigger battery, new dual-LED flash, and biometric security. But are those enough to justify a new device?</paragraph>
+			<paragraph>Xiaomi Redmi Note 2 hit the shelves in August 2015 and the dust from this launch didn't even had a chance of settling before the Redmi Note 3 got official.</paragraph>
+			<paragraph>It's an unexpected product strategy and we have no possible explanation other than the possibility that the two phones will be offered on different markets altogether.</paragraph>
+			<paragraph>Or perhaps we should be looking at the Redmi Note 3 as the Pro version of the Redmi Note 2 (or Prime as Xiaomi calls those) - it costs a few bucks more and improves on the usability. The metal shell boosts the aesthetics and handling, the fingerprint reader unlocks the screen faster than a PIN number, while the dual-LED dual-tone flash may help for a better white balance when taking flash photos. And there is the bigger battery to keep the phone running for longer.</paragraph>
+			<paragraph>The 5.5" 1080p screen seems as great as before, the snappy Helio X10 chip is promising a flagship-grade performance, while the 13MP camera seems adequately equipped. The MIUI 7 comes out of the box and we know it will deliver a smooth and unique experience.</paragraph>
+			<paragraph>It's as if the Redmi Note 3 follows in the steps of the Meizu m1 metal, which came with a similar range of upgrades over the Meizu m1 note.</paragraph>
+			<paragraph>Like most of the recent Xiaomi offers, the Redmi Note 3 omits memory expansion and removable battery, but this will hardy surprise anyone. The lack of a scratch resistant glass is what bothers us, but maybe Xiaomi just isn't advertising its presence - there is really no way to test that.</paragraph>
+			<paragraph>Special thanks to HonorBuy.com for providing the review unit.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Redmi Note 3<subsectionTitle>
+			<paragraph>Xiaomi Redmi Note 3 comes in a compact paper box, but unlike many other Mi phones, it's mostly white. The box isn't made of recycled paper as the previous ones, but comes with a reduced size.</paragraph>
+			<paragraph>Inside we found a regular 2A wall plug, a microUSB cable, and some paper work. As usual - Xiaomi leaves the choice of headphones up to you.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>360-degree spin<subsectionTitle>
+			<paragraph>The Redmi Note 3 shares a lot with the Redmi Note 2, including the same 5.5" 1080p screen. The sequel spreads at 150 x 75 x 8.7mm, which is 2mm shorter than the Note 2, but about the same width and thickness. The Note 3 is 4g heavier at 164g, but that's expected due to the new metal unibody.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Xiaomi kept the looks of the Redmi Note 2 for the new Redmi Note 3, but replaced the matte plastic with aluminum. The hardware upgrades are clearly visible, too, you can spot the dual-LED flash and the fingerprint scanner at the back.</paragraph>
+			<paragraph>The Redmi Note 3 indeed boosts the looks with its brand new shiny metal armor and it sure feels more metallic than the material Meizu used for the m1 metal. The premium material is a rarity among the mid-rangers and we sure are happy Xiaomi did choose it for a Redmi Note piece.</paragraph>
+			<paragraph>As usual the front is covered by an entire piece of black glass. The signature red accent on the capacitive keys is gone for good. Instead Xiaomi left those invisible blending into the black glass until they come alive with white backlighting.</paragraph>
+			<paragraph>The fingerprint sensor is placed just below the main camera, where your index finger rests perfectly. It's of the always on kind and will unlock the screen upon touching it. We really like this approach and hopefully we'll see more phones utilizing it.</paragraph>
+			<paragraph>Finally, we should mention the two plastic bands at the back's top and bottom. They are inevitable as they cover the phone's antennas (metal would have obstructed the signal), but on a positive note Xiaomi made them very well, styled with the same silver paint as the rest of the body, so you can barely spot them.</paragraph>
+			<paragraph>The metal on the Redmi Note 3 provides for a good handling, but not as great as on the matte Redmi Note 2. Opting for metal instead of matte plastic may have made the phone more slippery, but it boosted its looks by a mile. And we are okay with that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Little has changed since the Note 2 - the Note 3 introduces a pretty much identical control set. Above the screen is the earpiece flanked by a couple of sensors and the selfie camera. Below the 5.5" display is the capacitive Android trio, and you can assign those keys additional quick actions at double tap and tap&amp;hold.</paragraph>
+			<paragraph>The left of the Redmi Note 3 accommodates the ejectable SIM tray. You can put two microSIM cards inside, but there is no option for a microSD expansion. The volume rocker and power/lock key are on the right.</paragraph>
+			<paragraph>The Redmi Note 3 places the audio jack, the IR blaster, and the secondary microphone on top. The microUSB port and the primary mic are over at the bottom.</paragraph>
+			<paragraph>Finally, the back is where most of the upgrades reside - the metal cover, the dual-LED flash next to the old 13MP snapper, and the new fingerprint scanner. The loudspeaker grille is also around, close to the bottom antenna band.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Xiaomi Redmi Note 3 features a 5.5" Full HD IPS, the same as on the Redmi Note 2, which has 401ppi for pleasantly sharp imagery. Unfortunately, there is no information on the glass covering the display and there is a good change it isn't of the scratch-resistant kind.</paragraph>
+			<paragraph>Taking a closer look at it under our digital microscope reveals a standard RGB arrangement of the sub-pixels that make up the Xiaomi Redmi Note 3 LCD panel.</paragraph>
+			<paragraph>The display on the Xiaomi Redmi Note 3 seems to be identical with the one on the Redmi Note 2. It has the about the same maximum brightness.</paragraph>
+			<paragraph>The screen's contrast ratio is average at 953:1. The color rendition accuracy is average as well with an average deviation of DeltaE 6.8 and max deviation DeltaE 13. We managed to improve the color rendering by shifting the screen setting to a warmer preset (there is an option for changing the color temperature) and by doing so we got a more accurate color rendering with an Avg DeltaE of 5.2 and a Max DeltaE of 9.1. However at this setting the screen takes a 10% hit in the maximum brightness output.</paragraph>
+			<paragraph>The sunlight legibility is just average and pretty much about the same we measured on the previous Redmi Note. The screen glass is rather reflective and while you will be able to see what's happening on the screen under bright sunlight, you'll need the maximum brightness and all the colors will be washed out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Xiaomi Redmi Note 3 received 30% power upgrade over its predecessor as the company put a 4,000 mAh battery, quite a beefy unit for a 5.5" device. We ran our battery test and the Xiaomi Redmi Note 3 scored a 72h rating, which means you can count on the battery to last 3 full days if you do an hour each of calling, browsing the web and video playback a day. Adding a second SIM card cuts 2 hours from the total endurance down to 70 hours. That's a day boost over the Redmi Note 2's two-day rating.</paragraph>
+			<paragraph>The Redmi Note 3 did well across all tests - 3G talks, web browsing, video playback, and it posted above average scores on standby, which makes it a solid performer.</paragraph>
+			<paragraph>Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating. Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Xiaomi Redmi Note 3 supports 7 LTE bands and you can tap to an LTE network on either SIM, but once you do, the second one will be limited to GSM connectivity only. As for that, the Redmi Note 3 also offers tri-band GSM connectivity. There is quad-band 3G connectivity with HSPA support.</paragraph>
+			<paragraph>The rest of the connectivity features include dual-band Wi-Fi a/b/g/n/ac support and Wi-Fi Direct. There is also support for Bluetooth 4.1, GPS and GLONASS, plus an FM radio.</paragraph>
+			<paragraph>A microUSB 2.0 port handles charging and data connections. Media transfer mode is supported for accessing the phone's built-in memory over a USB connection. The microUSB port also supports USB On-the-go for connecting USB peripherals such as pen drives, keyboards or real USB hard drives.</paragraph>
+			<paragraph>Wireless screen mirroring is available via the Miracast protocol.</paragraph>
+			<paragraph>The IR blaster is located on the top and coupled with the right software, it can be used to operate pretty much any remotely controlled home appliance, turning the Xiaomi Redmi Note 3 into a universal remote. Xiaomi provides its own MiRemote app right out of the box.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Xiaomi Redmi Note 3 runs on MIUI 7, which utilizes an Android 5.0.2 Lollipop core. The MIUI 7 brings its own take at the interface and improves on its performance. According to Xiaomi's changelog, MIUI 7 is 30% faster and more responsive and 10% more energy efficient. It also adds a few new things as a baby album, child mode, new default themes and auto DND option.</paragraph>
+			<paragraph>As usual Xiaomi's customizations run very deep and replace everything including all Google services. In fact, the Mi phones sold in China don't have access to Google's services and those need to be sideloaded one way or the other (some resellers may even do that for you). The models sold officially on markets outside of China come with a preloaded Play Store app.</paragraph>
+			<paragraph>The lockscreen has a clock in the top left corner - gone are the lockscreen widgets. To unlock the phone you swipe upwards and if you want a quick access to the camera - just swipe from the right side.</paragraph>
+			<paragraph>Fingerprint unlock is available and is handled in our favorite way - you just put your finger on the sensor at the back and the Redmi Note 3 unlocks immediately. The scanner is always on and you can unlock even when the screen is asleep.</paragraph>
+			<paragraph>Beyond the lockscreen is the Android homescreen with four customizable shortcuts docked at the bottom by default, but you can dock up to five items. You can have any app there or even folders with multiple items if you will.</paragraph>
+			<paragraph>There is no app drawer - anything you install pops up on your homescreen, which can have unlimited panes. There're no shortcuts and the usual routine of removing icons (dragging them up to a recycle bin at the top of the screen) will uninstall the corresponding app. There is a pop-up for confirming the action though, so you can't accidentally uninstall apps.</paragraph>
+			<paragraph>Homescreen widgets are available, too - tap and hold on the homescreen, then choose Widgets. There are few options available, but of course, you can get even more from the Play Store.</paragraph>
+			<paragraph>Homescreen effects are available and you can change themes, too. A theme will change your homescreen wallpaper, lockscreen style, system icons, system font and the sound profile (you can disable changing the sound profile from settings).</paragraph>
+			<paragraph>MIUI v.7 introduces five default themes - MIUI, High Life, Pink Blush, Rose and Ocean Breeze. They've been handpicked by the MIUI team and you can choose your interface look right from the start, but you can always download new themes from the Mi Store.</paragraph>
+			<paragraph>The notification area has two semi-transparent tabs - the first one hosts all notifications, while the second one (swipe left to access) offers customizable quick toggles and a Settings shortcut.</paragraph>
+			<paragraph>An enhanced task switcher with Clear All option is available, too.</paragraph>
+			<paragraph>By the way, Xiaomi's proprietary Search widget does a similar job as iOS's Spotlight system-wide search. You can fire it up by swiping up anywhere on the homescreen. The tool searches through your apps, music, email, settings, among others.</paragraph>
+			<paragraph>Xiaomi provides its own cloud service for content syncing between devices. Each Mi Cloud account is granted 5GB of free storage. You can use it to backup contacts, messages, your entire gallery, calls log, notes, settings, voice recordings, Browser content (history, tabs, webapp data) and your music library.</paragraph>
+			<paragraph>Xiaomi's sync and backup service shares lots of similarities with the Apple iCloud. There is even a free Cloud Messaging option that allows you to exchange messages over the internet connection instead of being billed for SMS, but that only works between Xiaomi devices.</paragraph>
+			<paragraph>Finally, if you signed in with your Mi Cloud account, you can opt for the Find device feature - a handy feature in case you misplace your Xiaomi Redmi Note 3 or someone steals it.</paragraph>
+			<paragraph>MIUI 7 has a new Child mode, which once setup, allows the limited user to run only specific apps. This is nice if you have a kid, who likes playing with your phone occasionally and you are afraid it might delete some important data.</paragraph>
+			<paragraph>The Do Not Disturb mode has been enhanced too - it supports better customization and scheduling options.</paragraph>
+			<paragraph>We did get our review unit with pre-installed Google Play Store plus Google sync for app data, contacts, and browser data but perhaps they've been sideloaded by the reseller providing this review unit. Of course, you can sideload them yourself one way or the other if they don't come pre-installed on your unit. And once you have those, you can easily download all other Google apps such as Google Now straight from the Play Store.</paragraph>
+			<paragraph>Update, Dec. 28: The Redmi Note 3 is Xiaomi's first smartphone to come with a locked bootloader. According to a recent official statement, the company will be locking the bootloaders of all upcoming models as required by Google's CTS (Compatibility Test Suite).</paragraph>
+			<paragraph>Xiaomi will be providing a proper tool (if not already) for a proper and official unlocking of the bootloader for the users, who like to tweak their devices further. This may also require to switch your official 'stable' ROM to a developer one.</paragraph>
+			<paragraph>This is surely a bummer for those, who are used to install all kinds of ROMs on their Xiaomi phones. And while Xiaomi may be providing an unlocking tool, it's still unclear if it will be a fast or user-friendly process. Hopefully, things will play out in favor of the MIUI fans.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Just like its predecessor, the Xiaomi Redmi Note 3 powered by the MediaTek's MT6795 chipset, also known as Helio X10. Unlike what the name suggests, the processor is actually an octa-core 2GHz Cortex-A53, accompanied by a PowerVR G6200 (Rogue) GPU and 2GB of RAM.</paragraph>
+			<paragraph>If you'd prefer more RAM, you can opt for the 3GB RAM model, which also doubles the internal storage up to 32GB. Our review unit however is of the 16GB variety.</paragraph>
+			<paragraph>GeekBench 3 gauges the multi-core performance of the processor and the Redmi Note 3, unsurprisingly, is outing the same score as its Note 2 sibling. It's a flagship-grade one, though somewhat lower than the Meizu's MX5 and m1 metal, which are also running on the same chips.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The compound AnTuTu 5 bench deems the Redmi Note 3 equal to the rest of the Helio X10 handsets - the MX5, m1 metal, and Redmi Note 2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II 2.0 calculates CPU, GPU, memory, OS and web performance and mashes it all up into a single score. The Redmi Note 3 is on par with the Redmi Note 2 and Meizu m1 metal. It manages to beats the Xperia M5, but falls behind the MX5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Quite expectedly, a single Cortex-A53 processor core running at 2GHz is a real beast, while eight of those are indeed a blazing fast configuration.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>PowerVR G6200 GPU is perfectly capable of handling 1080p displays. Its raw offscreen performance is better than the widespread Adreno 405 within the Snapdragon 615, so we guess the Helio X10 is the smarter choice for the 1080p upper mid-rangers. The only threat comes from the Snapdragon 808's Adreno 418 (Xiaomi Mi 4c), which seems to be the better performer. The aging Adreno 330, once a royalty, is also better. And we still can't explain the MX5's win, which has identical specs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The GPU bench Basemark X confirms our findings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Helio X10 inside the Xiaomi Redmi Note 3 is a great performer for such an affordable device and a real powerhouse. There is nothing the Helio X10 can't handle on the Redmi Note 3's 1080p display and we are sure the Xiaomi fans will appreciate the choice of platform and all the software optimizations the company has done on the MIUI 7 launcher.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Contacts and telephony<subsectionTitle>
+			<paragraph>The dialer and the phonebook share a single app although there are two shortcuts, bringing you straight to the tab you need. The app has pleasant flat looks and it's about the same as we remember it. It uses a tabbed interface - recent with dialer on the first and the contact list on the second.</paragraph>
+			<paragraph>Xiaomi Redmi Note 3 supports voice call recording and it can do it automatically on each call if you like. You can also assign an answer gesture, pre-define quick responses upon reject, there is even support for internet calling.</paragraph>
+			<paragraph>There are even more call settings if you dig deeper into the menu - flip to mute the ringer, turn on/off the proximity sensor, lock automatically once slipped in a pocket, it can even mute calls from unknown numbers.</paragraph>
+			<paragraph>MIUI 7 also introduces Showtime Caller ID - it's a cloud service for Xiaomi owners and you can assign a short video recording to serve as your Caller ID when you are calling other Xiaomi owners.</paragraph>
+			<paragraph>Unfortunately, you have no control over the video Caller IDs you get of other people so you run the rick of getting an offensive or inappropriate video.</paragraph>
+			<paragraph>Also if the person who is calling you doesn't own a Xiaomi, or isn't running on MIUI 7 with enabled and configured Showtime Caller ID - this feature will be a no-go.</paragraph>
+			<paragraph>The Xiaomi Redmi Note 3 seems to feature the same speaker as the Note 2. It scored a Good mark on our loudness test, and outed pretty much the same results on all three tests as the Note 2. Produced sound is rather pleasant and deep enough. This means missed calls are unlikely in most environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Multimedia<subsectionTitle>
+			<paragraph>The gallery</paragraph>
+			<paragraph>The Xiaomi Redmi Note 3 comes with a custom Gallery app, slightly updated since the MIUI 6. It defaults to your camera roll, but it also supports Albums, Cloud and People. The People sorting, once chosen, sorts all of your photos by people's faces. Everything is automatic. Here you can also create a new baby album, to put your newborn pics inside.</paragraph>
+			<paragraph>The integrated editor offers various effects, frames, tools (crop, mirror, straighten, rotate, fisheye, doodle) plus light adjustments that let you bring out the shadows or the highlights.</paragraph>
+			<paragraph>Music player</paragraph>
+			<paragraph>The MIUI music player is a custom app with a well laid out, easy to navigate interface. It features two tabs - the first one is cloud music, similar to Google Music service provided by Xiaomi, while the second tab has your own local and cloud music.</paragraph>
+			<paragraph>The player has cool effects, transitions and transparent elements, especially on the expandable Now Playing section.</paragraph>
+			<paragraph>Xiaomi's Music app offers customizable equalizers with a few default presets already available for use. You can also try Xiaomi's MiSound enhancer, which comes into play when you use headphones, and especially, a Xiaomi-branded headset.</paragraph>
+			<paragraph>An FM radio app is also available. The Redmi Note 3 does not require a headset to use as an antenna, so you can listen FM radio without any additional accessories. FM recording is also available.</paragraph>
+			<paragraph>Video player</paragraph>
+			<paragraph>Xiaomi Redmi Note 3 features a separate video app, which offers a paid video service. Whether you will open your files from the Video app (Local setting) or File Explorer - it doesn't really matter.</paragraph>
+			<paragraph>The video player interface is very basic but there is rich video codec support. It managed to play everything we threw at it (including MKV and WMV files). The AC3 audio codec is surprisingly, supported too.</paragraph>
+			<paragraph>Subtitles and pop-up play are not supported by the MIUI's video player though, so you might want to look around the Play Store if you need a more capable alternative.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is mostly good<subsectionTitle>
+			<paragraph>The Xiaomi Redmi Note 3 started off great in our audio quality test. When connected to an active external amplifier, the smartphone showed high volume levels and perfectly clean output for one of the best showings out there.</paragraph>
+			<paragraph>When we plugged in a pair of headphones the stereo crosstalk rose only a moderate amount - unlike the Redmi Note 2, which saw a lot of damage in that case. Volume still dropped though and we got some intermodulation distortion and frequency response deviations. The overall results are still good and a notable step forward for the Xiaomi Redmi Note line, but not quite up there with the best.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A 13MP snapper with a dual-LED flash<subsectionTitle>
+			<paragraph>Xiaomi Redmi Note 3 features a 13MP camera, equipped with a new dual-tone dual-LED flash. The snapper also features a hybrid autofocus system utilizing phase-detection for faster and more accurate focus.</paragraph>
+			<paragraph>The camera interface is fairly simple and features toggles for the HDR mode, the flash and the video camera.</paragraph>
+			<paragraph>It has three panes - the default one shows the viewfinder with a virtual shutter, flash trigger and front camera key. A pull down from the top of the screen gets you a choice of 12 filters with live previews. A slide from the bottom displays the advanced modes such as Panorama, Beautify, Timer, Scenes, and Manual as well as the camera settings.</paragraph>
+			<paragraph>The Manual Mode offers you manual settings for white balance and ISO. The Face Detection switch is within the additional settings.</paragraph>
+			<paragraph>We found the Xiaomi Redmi Note 3 to perform equally well as its predecessor in terms of image quality. It resolves average amount of detail, and there is some corner softness, but the noise levels are kept reasonably low. The white balance is accurate and we like the lively color rendition. The foliage is better than expected from an average performer, while the dynamic range is slightly above average.</paragraph>
+			<paragraph>While the photos look excellent on the 5.5" display and downscaled on a monitor, the full 13MP images are nothing but average. The good news is most of you will probably use downscaled images anyway, so there is nothing to complain of, really - the Redmi Note 3 ticks the right boxes in such scenario - the colors and contrast are good, the dynamic range is good for the class as well.</paragraph>
+			<paragraph>The HDR mode is conservative enough and rescues both the highlights and shadows without making a flat contrastless mess out of the image. Those aren't the best HDR photos we've seen, but are definitely among the better ones.</paragraph>
+			<paragraph>Panorama shots are available too. You can capture both landscape and portrait panoramic photos with a 180 degree field of view. Shooting is easy but the stitching takes a while to complete. The end result is rather disappointing though - the resolution is about 2000x760px and the image quality is quite poor.</paragraph>
+			<paragraph>Xiaomi Redmi Note 3 features a 5MP front-facing camera for high-res selfies. The images come out soft with average detail, but will do for Facebook or similar social networks.</paragraph>
+			<paragraph>The Xiaomi Redmi Note 3 is more than capable of pulling its own weight in our Photo Comparison tool. You can see how it stacks against other 13MP snappers we've tested.</paragraph>
+			<paragraph>   Xiaomi Redmi Note 3 in our photo quality comparison tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video recording<subsectionTitle>
+			<paragraph>Xiaomi Redmi Note 3 camcorder has the same UI as the still camera. It supports slow-mo (the result is a 720p@16fps video) and time-lapse videos with customizable snapping interval.</paragraph>
+			<paragraph>The Xiaomi Redmi Note 3 is capable or recording up to 1080p@30fps. The bitrate of the video recordings is uninspiring at about 15 Mbps, while audio is captured at 128 Kbps with 2 channels (stereo).</paragraph>
+			<paragraph>The resolved detail in the videos is modest, just like the still images. The colors and contrast are good and the framerate is smooth and consistent at 30fps. The dynamic range is above average.</paragraph>
+			<paragraph>And here is a 1080p video we've uploaded on YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download the 1080p video sample (9s, 16.6MB) taken straight off the Xiaomi Redmi Note 3. And here is another sample (11s, 21MB) taken in a sunny, but windy day.</paragraph>
+			<paragraph>Here the Xiaomi Redmi Note 3 enters our video comparison tool. There are plenty of 1080p camcorders you can compare it against. It resolves an average level of detail, but contrast and colors are good.</paragraph>
+			<paragraph>   Xiaomi Redmi Note 3 in our Video quality comparison</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>MIUI Browser<subsectionTitle>
+			<paragraph>The Xiaomi Redmi Note 3 comes with the feature-rich MIUI Browser. It has flat looking UI elements and does a great job at browsing. There is a native ad-block add-on and a data saver, it supports downloads, there is a night mode as well. It is as almost as fast as Chrome, and now supports Find on Page.</paragraph>
+			<paragraph>It also offers a built-in Reading mode, which isn't available in Chrome. It enlarges the text font and strips away unneeded elements, leaving only the article you are reading in focus.</paragraph>
+			<paragraph>The aforementioned Night Mode, which is something we really miss in Chrome. It inverts the background and font colors and is easier on the eyes at dark rooms. Not that the Redmi Note 3 really needs it as its minimum brightness level.</paragraph>
+			<paragraph>Finally, the browser supports some very handy features as scrolling with the volume keys, quick tab switching from the edge of the display, you can opt for different search engines, among others.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The Xiaomi Redmi Note 3 offers a great file managing app called Explorer, which lets you browse the files in its internal storage and groups them by type.</paragraph>
+			<paragraph>The MIUI v7 also offers a Security app. It can scan your phone for malware, manage your blocklist, manage or restrict your data usage, configure battery behavior, clean some RAM, it can also manage the permissions of your installed apps.</paragraph>
+			<paragraph>The custom and now flat Calendar looks good, syncs with your accounts including Google, and offers Day and Month views.</paragraph>
+			<paragraph>There are also the standard sound recorder, notes, flashlight, calculator, clock, and weather apps, among others, that are a given in any self-respecting Android package nowadays.</paragraph>
+			<paragraph>We really liked the Compass app. It has very nice and clean interface, shows the magnetic directions and doubles as level meter. If you lift the phone up then you'll get a nice augmented reality view with real-time East/West/North/South overlay.</paragraph>
+			<paragraph>Once again, if Google Maps, Drive, or any other Google-related app isn't installed on your unit, you can get it for free from the Play Store.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Xiaomi Redmi Note 3 key test findings<subsectionTitle>
+			<paragraph>Build quality is top-notch, the metal shell is a welcome change.</paragraph>
+			<paragraph>The display is decent: it isn't among the brightest we've seen, but offers deep blacks, very good viewing angles and contrast. The sunlight legibility however is only average.</paragraph>
+			<paragraph>Battery life is very good with an endurance rating of 72h.</paragraph>
+			<paragraph>Rich wireless and wired connectivity options.</paragraph>
+			<paragraph>MIUI 7 is a clean and light Android Lollipop launcher but with rich customization options. Unfortunately the bootloader is locked and will require an official Xiaomi tool for unlocking, thus preventing the user from installing custom ROMs.</paragraph>
+			<paragraph>The Helio X10 chipset is doing alright, even though it's a little behind other Helio X10 powered smartphones.</paragraph>
+			<paragraph>Video player supports every common video codec and AC3 sound but has no subtitle support.</paragraph>
+			<paragraph>Audio quality is excellent with an external amplifier, but average with headphones plugged in.</paragraph>
+			<paragraph>Camera photos are good, with average resolved detail, but above average dynamic range.</paragraph>
+			<paragraph>The 1080p video samples are OK but not impressive.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Some of you will surely wonder about the purpose of the Xiaomi Redmi Note 3. Did Xiaomi really need to upgrade its most popular smartphone just three months later? Won't this make the early adopters angry? Maybe.</paragraph>
+			<paragraph>The Redmi Note 3 is more of a Prime version of the Note 2, instead of a direct successor. It has the same screen, system-on-chip, camera, and software package, but the Note 3 improves the looks with a premium metal build and adds a fingerprint scanner for enhanced security. Others will surely appreciate the bigger battery, which increases the overall rated battery life.</paragraph>
+			<paragraph>We suspect the release of the Meizu m1 metal may have sped up the launch of the Redmi Note 3, as those two seems like destined rivals since their inception.</paragraph>
+			<paragraph>Xiaomi Redmi Note 3 performs great - it is indeed one of the best-looking mid-rangers today, among the fastest, and will sure please lots of people with the attractive pricing. Its Redmi Note 2 parent keeps its place on the market with an even more affordable price for those who don't need a shiny armor and fingerprint unlocking.</paragraph>
+			<paragraph>We stand the same as we did three months ago. The Redmi Note 2 - and now the Redmi Note 3 - ticks almost all the right boxes of a perfect affordable mid-range device. There is a big, high-res, and lively display, a speedy Helio X10 chipset, plus a capable camera, and a unique MIUI 7 experience. The extra battery juice and metal shell come in handy as well.</paragraph>
+			<paragraph>As we mentioned earlier, if you don't need the metal upgrade and the extra battery juice, you can save up to $35 by opting for the equally capable Redmi Note 2. We suppose however that the two devices will be available on different markets so you may not have a straightforward choice. If it were us though, we'd go with the Redmi Note 3 as the price premium is quite small.</paragraph>
+			<paragraph>The Meizu m1 metal is Note 3's real threat. It has virtually the same 5.5" IPS 1080p display, it runs on the same Helio X10 chip, the camera is a similar 13MP snapper with a dual-LED flash, the shell is made of metal, and there is even a fingerprint sensor. Sounds familiar? The battery is the only real difference - 4,000 mAh for the Note 3 and 3,140 mAh for the m1 metal. Both phones cost the same for both their 2GB and 3GB RAM flavors, so you have to decide whether you prefer MIUI or Flyme.</paragraph>
+			<paragraph>By the way, if you are a fan of Meizu, and a proper camera is a must have - then the Meizu MX5 will give you a great camera, an AMOLED screen and even better design for extra $130.</paragraph>
+			<paragraph>Finally, the Lenovo K3 Note is cheaper because of its plastic design and the older MT chip with inferior graphics, but the rest is a good match for the Redmi Note 3.</paragraph>
+			<paragraph>We still don't know if Xiaomi was right to update the Redmi Note 2 so quickly, but at the end of the day - the more choice there is, the merrier. Competition stimulates the production of innovative features or more affordable pricing, so we welcome the Redmi Note 3 with our arms wide open. It's an affordable smartphone with a metal body, a big screen, fast hardware and a good camera - what's not to like?</paragraph>
+			<paragraph>Special thanks to HonorBuy.com for providing the review unit.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,302 @@
+<review>
+	<title>Oppo R7s review</title>
+	<description>Filling the gaps</description>
+	<link>http://www.gsmarena.com/oppo_r7s-review-1351.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Oppo R7s key features<subsectionTitle>
+			<paragraph>Magnesium-aluminum alloy unibody construction</paragraph>
+			<paragraph>Dual-SIM dual-standby capability</paragraph>
+			<paragraph>5.5" 1080p AMOLED capacitive touchscreen, 401ppi, Gorilla Glass 4</paragraph>
+			<paragraph>Octa-core Cortex-A53 CPU (4x 1.5GHz plus 4x 1.21GHz), 4GB of RAM, Adreno 405 GPU; Qualcomm Snapdragon 615 chipset</paragraph>
+			<paragraph>32GB of built-in storage</paragraph>
+			<paragraph>ColorOS 2.1 on top of Android 5.1.1 Lollipop</paragraph>
+			<paragraph>13MP phase detection autofocus camera, f/2.2 lens, single-LED flash; HDR, Expert, RAW, Panorama, Long exposure (up to 16s), Double exposure, 50MP UltraHD modes</paragraph>
+			<paragraph>1080@30fps, 2x-10x speed timelapse, 1/4x speed slow motion 720x480px resolution</paragraph>
+			<paragraph>8MP front camera, 1080p video recording</paragraph>
+			<paragraph>Cat. 4 LTE (150/50Mbps); dual-band Wi-Fi a/b/g/n/ac, hotspot, Wi-Fi direct; Bluetooth 4.0; GPS/GLONASS; microUSB</paragraph>
+			<paragraph>3,070mAh battery capacity; VOOC fast charging</paragraph>
+			<paragraph>3.5mm headphone jack, active noise cancellation with a dedicated mic</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Midrange chipset in a premium price handset</paragraph>
+			<paragraph>Sealed battery, microSD slot shared with second SIM</paragraph>
+			<paragraph>No NFC or FM radio</paragraph>
+			<paragraph>No fingerprint sensor</paragraph>
+			<paragraph>Pricey</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>There was a Plus, there was a Lite, and now there's an S - the Oppo R7s. Next in Oppo's line of premium built mid-rangers, the R7s borrows both the looks and the substance, and brings the so-far-missing 5.5-inch-screen phone size to bridge the distance between the R7 and the R7 Plus.</paragraph>
+			<paragraph>You'd have to be a true Oppo connoisseur to tell the R7s apart from its brethren, and that's more of a good thing, really. The R7s has the same sleek metal unibody, the gentle arcs towards its display edges, the exquisite fit and finish - an overall aura of superiority.</paragraph>
+			<paragraph>Beneath the surface little has changed. The only headline-worthy bump in the specsheet is the 4GB of RAM - it's still a pretty exclusive club and its members are mostly true flagships.</paragraph>
+			<paragraph>Aside from that, it's the tried and true Snapdragon 615 running the show, and we know how Oppo is capable of extracting the best out of it. The 13MP camera setup with phase detection autofocus is also familiar from the R7, as is the 8MP front-facer.</paragraph>
+			<paragraph>The increase in screen diagonal comes with a due growth of battery capacity, and you can top up the 3070mAh power pack blazing fast thanks to Oppo's home-engineered VOOC charging.</paragraph>
+			<paragraph>If you were to check back on the R7 Plus' review, you'd notice that we've listed the same disadvantages, with the lack of a fingerprint sensor the only addition here. Some of them are clashes of concepts - the gorgeous unibody and fast charging tech come at the expense of a non-removable battery. The chosen chip has reserved the R7s in the midrange, so Oppo has headroom for its proper flagship from the Find series, and the less than affordable price is par for the course in the R7 lineup.</paragraph>
+			<paragraph>Now, it's a whole different matter why Oppo keeps omitting the NFC antenna and the FM radio receiver. It's also odd to skip on a fingerprint reader - they are becoming mainstream in the midrange, the Plus has one, and the R7s is large enough for it to make perfect sense on the back.</paragraph>
+			<paragraph>Whatever the reasoning, it is what it is. We'll examine the Oppo R7s starting on the next page with unboxing and hardware overview.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Retail package rich as always<subsectionTitle>
+			<paragraph>Oppo's retail box customarily comes with everything you'd need and then some. You get a VOOC fast charger with a 5V/4A rating and a special USB cable that's needed for the delivery of all that power to the phone.</paragraph>
+			<paragraph>There's also a headset, and a clear plastic bumper cover, allowing you to show off that metal unibody, while keeping it ding-free.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Oppo R7s 360-degree spin<subsectionTitle>
+			<paragraph>The Oppo R7s measures 151.8 x 75.4 x 7 mm and its footprint is pretty standard. Oppo makes a big deal out of its 2.2mm bezels, but the LG G3, for instance, is nearly a millimeter narrower (okay, 0.8mm). The Samsung Galaxy A7 is 0.8 wider, so Oppo might have a point, but that's until you realize that the A7 (2016) is a mere 74.1mm wide (!). The Huawei Mate S is negligibly narrower than the Oppo R7s at 75.3mm.</paragraph>
+			<paragraph>Oppo's 5.5-incher is pleasantly (and premiumly) thin at 7mm, and while the outgoing A7 is 0.7mm thinner, next year's chief competitor from Samsung camp is still thicker with its 7.3mm waistline.</paragraph>
+			<paragraph>Tipping the scales at 155g, the Oppo R7s weighs just right. The Mate S is a gram heavier, and the R7s falls right in the middle of the 30-gram difference between the old (141g) and the new (172g) A7's. Both an LG G3 and an Xperia C4 are a few grams lighter (149g and 147g, respectively).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>The R's in Oppo's lineup stand for above-average hardware built into top-shelf casings, and such is the... case with the R7s. Oppo takes pride in the craftsmanship of the R7s and rightfully so - the phone looks and feels as expensive as it actually is.</paragraph>
+			<paragraph>In terms of design it is, indeed, little more than a scaled up version of the original R7. In fact, looking at it from the back, with nothing to give you a sense of scale, there's practically nothing to set the two apart. Okay, unless you're the type that spots that the secondary mic pinhole has disappeared from the rear.</paragraph>
+			<paragraph>Aside from that, it's the same metal unibody with a sparkly finish on top, in Golden attire for our review unit. The antenna inserts are present too, and depending on your stance, they're either an eye sore or a nice accent. Oppo's logo is etched in the panel, revealing a reflective strip underneath in a different shade of golden, if that's even possible.</paragraph>
+			<paragraph>The camera is in the top left corner halfway into the antenna strip, and sticking out by a fraction of a millimeter. We'd guess Oppo tried to stay afar from any legal battles with another particular brand with a double-P in the name by making the camera window square. A single LED flash is right below the camera lens.</paragraph>
+			<paragraph>Unfortunately, what you won't find here (or anywhere on the device, for that matter), is a fingerprint sensor. The R7s' smaller size, compared to the R7 Plus, is hardly an argument - after all the 5.5-inch Huawei Mate S has one and it's every bit as convenient to use as it is on 6-inchers. It baffles us why Oppo chose to omit it, when it's becoming less of a headline and more of a given.</paragraph>
+			<paragraph>Flip the device over, and while the similarities with the R7 are inevitably there, the R7s is quickly revealed - there are no touch keys below the screen. It's Oppo's second device without those after the R7 Plus, and we suspect Oppo is set on abandoning them in favor of onscreen buttons, at least in the midrange to high-end models.</paragraph>
+			<paragraph>So the facade is a lot like the one of the R7 Plus. Only here the side bezels have been painted white, so when the display is off, there still is a side frame visible. The R7 Plus, on the other hand, aims for that bezelless look, though firing up its display quickly reveals that not to be the case. The R7s also differs from its bigger brother in top and bottom bezels - both the chin and forehead are noticeably taller.</paragraph>
+			<paragraph>The 2.5D arced edges of the glass, or however you decide to call them, are sure telltale sign of a premium device.</paragraph>
+			<paragraph>Above the display there's the earpiece slit with the ambient light and proximity sensors on the right and the front-facing camera on the left. Further to the left, there's the notification LED, only it doesn't get a cutout in the white layer, it just lights up through it.</paragraph>
+			<paragraph>The frame of sorts, which is actually a one-piece unit together with the rear cover, has the same groove all along as the R7, making it look like a discrete element. The left side is home to the volume rocker, while on the right you'll find the power button and the SIM card/microSD card slot.</paragraph>
+			<paragraph>The secondary mic has been relocated to the top plate, where it sits dead center. The 3.5mm jack is here as well. On the bottom there's the VOOC-enhanced microUSB port and a couple of meshes - left one for the speaker, right one for the primary mic.</paragraph>
+			<paragraph>In the hand the Oppo R7s is a pleasure to handle. It's thin, the buttons are comfortably positioned for use with either hand and the gentle curves around the edges of the display mean that swiping is simply a joy.</paragraph>
+			<paragraph>On the other hand, the smartphone is quite slippery. Holding it securely shouldn't be an issue, but make a note not to leave it on sloping surfaces, as it will more than likely glide off onto the floor.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>5.5-inch AMOLED display<subsectionTitle>
+			<paragraph>The entire R7 lineup makes use of AMOLED displays and the R7s is no different. The screen is 5.5 inches in diagonal and the resolution is 1,080 x 1,920 pixels, which makes for a density of 401ppi.</paragraph>
+			<paragraph>Our microscope photo revealed a customary Diamond PenTile matrix. The green pixels are twice as many as any of the other two colors but they are smaller in overall size.</paragraph>
+			<paragraph>The Oppo R7s maximum brightness level is good for an AMOLED unit (365nits) but in terms of color accuracy, there is a lot left to be desired. With an Avg DeltaE of 8.2, it's certainly not the worst phone screen in this respect, but just so we're clear, if color accuracy is important to you, that's not the right phone to deliver it. There are also no options for adjusting the screen colors or white balance.</paragraph>
+			<paragraph>Of course, outside color critical applications, color accuracy is a largely subjective topic so we bet you wouldn't notice anything wrong with the screen's color rendition without a proper calibration reference.</paragraph>
+			<paragraph>The R7s aced our sunlight legibility test. It scores substantially higher than both the R7 and R7 Plus, but also outshines the Galaxy A7. And while the OnePlus 2 scores decently for an LCD, the LG G3 posts rather miserable numbers here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Oppo R7s carries the same set of connectivity options as its brethren. It's a dual-SIM dual-standby device with both cards supporting quad-band 2G, while SIM1 also supports quad-band 3G and a selection of LTE bands, which vary by region. The distinction between SIM1 and SIM2 is made in settings so it doesn't matter in which slot you put your primary card.</paragraph>
+			<paragraph>The smartphone has Wi-Fi 802.11 a/b/g/n/ac both in the 2.4GHz and 5GHz spectrums, and also Wi-Fi direct and hotspot support. There is a GPS receiver, Bluetooth is the 4.0 iteration, but there's no NFC, nor is there an FM radio.</paragraph>
+			<paragraph>The microUSB 2.0 port supports USB on-the-go to let you attach peripherals, though it's off by default and the option to enable it is buried deep in the settings. You also need to enable it before you actually attempt to connect the USB peripheral.</paragraph>
+			<paragraph>A standard 3.5mm jack completes the wired connectivity package.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Oppo R7s battery life<subsectionTitle>
+			<paragraph>The Oppo R7s packs a 3,070mAh battery, which like its display diagonal, puts it in between the R7 (2,320mAh) and R7 Plus (4,100mAh).</paragraph>
+			<paragraph>It would seem that for its 5.5-inch screen size, the R7s is more than adequately powered, the Huawei Mate S has a smaller 2,700mAh battery, the Xperia C4 and Galaxy A7 pack 2,600mAh worth of juice, while the LG G3 has a 3,000mAh powerpack. That said, next year's Galaxy A7 has an even larger 3,300mAh battery.</paragraph>
+			<paragraph>However, our R7s battery life test left us with mixed feelings. Much like the R7 and R7 Plus before it, the R7s excelled at 3G call endurance with just over 24 hours before it called it a day. In video playback the R7s was good for 14 straight hours before it ran out of power - another great score.</paragraph>
+			<paragraph>Not so in web browsing, however, where the R7s could only last for about 8 hours, regardless of whether you're using Oppo's custom browser or Google Chrome. This was also the case with the other R7's we tested - excellent call and video endurance and only average numbers in web browsing. It's either that the AMOLED screen is not that efficient in displaying our predominantly lightly colored test web pages or Oppo needs to put in a little more effort in optimizing battery life for this use case.</paragraph>
+			<paragraph>The Mate S showed a more balanced performance, with a little short of 10 hours on the web and 11 and a half hours in video playback, but a rather low 14 hours of 3G calls. The Galaxy A7 does 9 and a half hours on the web and 10 hours in our video test, and it also outlasts the R7s by an hour of voice calls.</paragraph>
+			<paragraph>Make note that our proprietary score also includes a standby battery draw test, which is not featured in our test scorecard but is calculated in the total endurance rating.</paragraph>
+			<paragraph>The battery testing procedure is described in detail in case you're interested in the nitty-gritties. You can also check out our complete battery test table, where you can see how all of the smartphones we've tested will compare under your own typical use.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>ColorOS 2.1 with Android 5.1.1 Lollipop underneath<subsectionTitle>
+			<paragraph>The R7s is one of a growing number of Oppo handsets, which are running on a Lollipop-based Color OS build. Better late than never, is Oppo's philosophy with OS versions, and the R7s has it better than the original R7 in this respect, which launched on KitKat.</paragraph>
+			<paragraph>As is customary for Oppo, ColorOS makes Android nearly unrecognizable, with a custom lockscreen, homescreens, icon packs, a custom task switcher and settings menu, as well as extensive theming support.</paragraph>
+			<paragraph>The Color OS default lockscreen uses swipe gesture for unlocking, though it only works with an upward swipe. You can set up pattern, PIN or password unlock protection, but fingerprint unlock is reserved for the Plus member of the R7 family. While side swipes on the R7 Plus brought up lockscreen widgets, there's no such thing on the R7s, and there's no camera shortcut either. Instead, to start the camera instantly from the homescreen, you only need to wake it and pinch on it with several fingers.</paragraph>
+			<paragraph>You have Lollipop's lockscreen notifications, but with a twist, and one that you'll need to get used to. Swiping a notification to the right will take you to the respective app, where the generally accepted behavior is to dismiss it. To get rid of a notification you need to swipe to the left and tap the X button that appear on the right - not the most straightforward implementation.</paragraph>
+			<paragraph>Color OS doesn't have an app drawer, as has become customary for Chinese manufacturers as of late, so all of your app shortcuts are available on the homescreen iOS-style. The dock takes up to four shortcuts, and folders too, although you need to create those in the open space of the homescreen and then drag them to the dock.</paragraph>
+			<paragraph>The apps above the dock are organized in a grid of 4x5, which works well for the display diagonal. You can't set different grid sizes, though. Group rearrangement is possible, meaning you can select up to 20 apps and move them around the homescreens together. Widgets are available as well, though there isn't a very rich selection of them.</paragraph>
+			<paragraph>Exclusive space is Oppo's custom homescreen page. Photo has been retired and now there's just Music. In essence, it's an always-available music player, which you can use instead of the standalone app. You can disable it altogether, if you want to keep your homescreen experience to the point.</paragraph>
+			<paragraph>The homescreen's contextual menu lists widgets, wallpapers, effects and themes. You drag widgets upwards to place them on the homescreen.</paragraph>
+			<paragraph>Oppo's Color OS supports themes, but comes with just the default one on board. However, there are plenty of themes available for free in Oppo's Theme Store, and some are better than others at skinning non-stock app icons.</paragraph>
+			<paragraph>By default the notification area will show one row of quick toggles, a brightness slider and a shortcut for enabling auto brightness mode, the current notifications plus a shortcut to go into settings. If you do a drag gesture from the quick toggles row you get two more lines of toggles.</paragraph>
+			<paragraph>A long press on a toggle will bring up its respective settings entry. By the way, you can access the notification area even if you slide down from any empty part of the homescreen (not just the top), which helps on such large diagonals. You can also set up app-by-app permissions for displaying notifications.</paragraph>
+			<paragraph>The task switcher is pretty close to the one in iOS in terms of looks. All your apps are shown in a horizontally-scrollable grid of thumbnails, which you either swipe up to close or tap to open. A downward swipe locks one or more apps, so they remain open even when you use the Kill all button to close all the others.</paragraph>
+			<paragraph>The R7s has some of the most comprehensive gesture controls out there. It picks up gestures with the display off, then others with the display on and it also recognizes motions to answer or mute incoming calls.</paragraph>
+			<paragraph>Among the screen-off gestures you get the obvious double-tap-to-wake, but also music control, which lets you play/pause/skip songs with distinct swipes. Drawing a circle launches the camera and you can set up a host of other gestures to launch an app or call a contact.</paragraph>
+			<paragraph>Moving on to screen-on gestures, you can swipe with three fingers across the screen to capture a screenshot or pinch with several (three or more) fingers to launch the camera.</paragraph>
+			<paragraph>The Smart call options are where motion goes into play and they are very useful, too - flipping the device will mute the ringer, raising the ringing phone to your ear will automatically answer the call and more.</paragraph>
+			<paragraph>One hand mode is available too, activated by an upward swipe from the bottom left or right corner. When done, this will minimize the UI into a more compact window, for an easier reach with just one hand. It's a lot like Samsung's feature in the Note series, though without the option for resizing. It also doesn't completely turn off the unused pixels to conserve energy, though the effect would probably be negligible.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Oppo R7s is powered by the Snapdragon 615, much like the R7, R7 Plus, R7 lite, R5, R5s and R1x in the company's own lineup, as well as countless other smartphones this year. Unlike any of these, the R7s comes with a whopping 4GB of RAM, so you'd have little trouble switching between apps, even if you tend to keep all of them open at the same time.</paragraph>
+			<paragraph>In the CPU-centric benchmark GeekBench the Oppo R7s scores virtually the same as the R7 Plus - meaning a top result for Snapdragon 615 devices. It's also a substantially better performer than the company's own R5, R7 and R1x, all of which were running KitKat at the time of testing (and likely for good).</paragraph>
+			<paragraph>The Samsung Galaxy A7 posts lower figures, and the Motorola Moto X Play is even further down the chart. The Samsung Galaxy A8 scores higher than the Oppo R7s here, but do note that we had the Exynos 5430 powered version for testing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In Antutu the R7s scores very close to its larger brother too. Again, you'd be hard pressed to find a better-performing Snapdragon 615 device. The R7s does lose to 800-series Snapdragons though, be they old or new. The Zenfone 2 with its Intel Atom inside is also superior, as far as Antutu goes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS 2.0 is more of the same - excellent results for the chipset, but not on par with the high-end offerings. Here the R7s trails the R7 Plus for the first time, but is again comfortably ahead of the Galaxy A7 and Moto X Play.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>It's graphics performance, where Qualcomm's uber popular midrange chip shows its weakness, even more notably so on FullHD displays like the one on the Oppo R7s. Still, the various R7's are yet again leading the pack ahead of similarly equipped devices. The Snapdragon 8xx devices are simply in a different league, with the S810-powered ones firmly on top.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GFX Bench reiterates what we already know from Basemark X - the Adreno 405 bundled with the Snapdragon 615 isn't quite up to the task to push FullHD resolution at high frame rates. The differences are almost non-existent among S615 phones in the offscreen test, and grow to marginal in the onscreen routine.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>JavaScript is also traditionally not the S615's forte, as indicated by the Kraken benchmark. And even so, Oppo's models are among the better ones at it. General web page handling, as measured by Browsermark, is another area where the Oppo R7s is an average performer. It's also the first test, where we see it lose to the Galaxy A7 and Moto X Play.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, nothing we didn't expect from the Oppo R7s. Top-notch CPU and general performance, mediocre frame rates in 3D gaming and average results in the web-related benchmarks. Oppo's got a knack for squeezing the best out of the Snapdragon 615, but even so it can't break out of the chip's inherent limitations.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>The phonebook uses a tabbed interface - it offers groups, contact list and favorites. The UI is pretty standard Android affair, customized to match Oppo's styling.</paragraph>
+			<paragraph>A tap on a contact's photo brings out Quick contacts - shortcuts for calling, texting, emailing a contact and a bit more (e.g. a Chrome shortcut to visit their web site).</paragraph>
+			<paragraph>Contact info is displayed as a list of all available details. Custom ringtones can be selected for each contact and duplicate contacts can be merged into a single entry.</paragraph>
+			<paragraph>Contact syncing tools are very powerful - contacts can be moved or copied between phone storage and a Google account, they can be synced with an Exchange server or Facebook, and you can send / import contacts over Bluetooth.</paragraph>
+			<paragraph>There's an Anti-harassment mode located in the contacts app, which is pretty powerful. You can put numbers in a blacklist, block messages and intercept spam calls.</paragraph>
+			<paragraph>The dialer supports Smart dialing just fine (looking up both names and phone numbers).</paragraph>
+			<paragraph>The Oppo R7s scored a Good mark in our loudspeaker test, beating the regular R7 but falling behind the R7 Plus. It continues a trend we've observed with Oppo devices - the larger, the louder.</paragraph>
+			<paragraph>The Oppo R7s is a dual-SIM device and as such offers you the choice to select which card to use for different tasks. You can also add a name for each card for easier distinguishing between the two.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and email<subsectionTitle>
+			<paragraph>The messaging department is pretty standard - there's a list of all bubble-styled conversations organized into threads, with a big New Message button at the bottom and a settings button next to it.</paragraph>
+			<paragraph>Attaching multimedia to a message will turn it into an MMS. You can add everything from photos, videos, audio to general files. There's even a full blown slide editor if you want to make full use of the MMS standard. The Attach location option is pretty nice too.</paragraph>
+			<paragraph>There is a heavily customized email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>The Oppo R7s offers a great Swype-enabled keyboard with big keys and they become even bigger when you switch to landscape mode. There is an option to change the individual key height in both portrait and landscape, which isn't found that often. Themes are available too. You can also have split or mini keyboard layouts.</paragraph>
+			<paragraph>Placing the device in landscape expands the keyboard immensely and replaces the layout of the original app with just a text box, so you have plenty of room to type.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery is basic<subsectionTitle>
+			<paragraph>Oppo's custom Gallery for the R7s prioritizes simplicity. The default view is a grid of folders, with a name and number of images for each folder labeled underneath. You can't filter images by location, time, people or tags like you would in the stock app. You can select multiple images (folders too) and then Share and Delete options become available.</paragraph>
+			<paragraph>The available features when viewing a single image are pretty standard - set image as wallpaper/contact image, share it, delete it or get a menu with more functions.</paragraph>
+			<paragraph>The image editor has also fallen victim to the trend for simplicity and offers one-touch color filters and image frames. Editing goes as serious as sharpening, blurring and applying a mosaic effect, which get a slider to control the intensity. You also get to crop rotate and mirror, and that's all.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The Oppo R7s comes with a pretty simple-looking video player with extensive codec support - DivX, AVI, MKV, MP4 files played without a hitch, as did MOV videos. AC3 sound was a no-go, but that's often the case, and here at least you get to watch the silent video, while other phones may refuse to play it back altogether.</paragraph>
+			<paragraph>The interface for video selection is pretty basic too - a list of all available files. The player supports subtitles too, but there's only an on/off toggle here, you can't manually pick the subtitle file (so it would have to be named the same as the video file to work, and it also should be hosted in the same directory).</paragraph>
+			<paragraph>While watching a video you get a timeline slider, play/pause along with forward/back controls, a lock option (which locks the display against accidental touches) and a pop up toggle. It's a small floating window that lets you have other apps working underneath. You can move it around and use a pinch gesture to change its size, but there's no transparency option.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with Dirac HD<subsectionTitle>
+			<paragraph>Oppo's music player is pretty straightforward too - your music library is organized into a local list of all music, favorites, artists, albums and folders. There's also an option to add a playlist.</paragraph>
+			<paragraph>The Now playing interface is split into two - the current playlist and the album art/music controls screen. You can swipe between the two. By default the player will look for lyrics and display them under the album art, which imitates a vinyl record. You can add album art if it's not built inside the tracks (but the player won't look for it automatically).</paragraph>
+			<paragraph>There's a playback mode button (normal, shuffle, repeat track) and a toggle for audio enhancement. That cycles through Dirac HD on and off, but it only works with headphones attached.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality doesn't disappoint<subsectionTitle>
+			<paragraph>When connected to an active external amplifier, the R7s posted excellent scores top to bottom and garnished them with nicely high volume levels - there's really not much to say here besides "Good job, Oppo".</paragraph>
+			<paragraph>Plugging in a pair of headphones lead to a moderate increase in stereo crosstalk and slight deviations in the frequency response. Some intermodulation distortion also appears but that?s hard to detect without dedicated equipment such as ours. Volume levels remain above average too, so it's a very good showing overall for the R7s.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP camera packs plenty of features<subsectionTitle>
+			<paragraph>The Oppo R7s comes with a 13MP camera, capable of capturing images up to 4,160 x 3,120 pixels in resolution. The lens has an f/2.2 aperture and for shots in the dark a single-LED flash can be of service.</paragraph>
+			<paragraph>Now, the plain R7 has a Samsung ISOCELL sensor and phase detection autofocus, while the R7 Plus is equipped with a Sony IMX278 imager and laser autofocus.</paragraph>
+			<paragraph>For the R7s the company has gone with the ISOCELL setup with phase detection from the R7, though we only dug this info up from Oppo's Taiwanese website.</paragraph>
+			<paragraph>One of the best things about the camera app is that you can switch from stills to video with a swipe to the side before you hit record. That solves a long-standing problem that many manufacturers choose to ignore, namely the different aspect ratio and coverage between still images and video. Oppo got it right on the R7 and here on the R7s you can also frame your subject correctly before actually starting to record.</paragraph>
+			<paragraph>The interface is straightforward with a shutter button, shortcut to the gallery and shooting mode button on one side, and flash mode selector and rear/front camera toggle on the other.</paragraph>
+			<paragraph>You get a plethora of shooting modes in the Camera shop, which you can install and add to your mode selector. You can alternatively leave only the ones you use for a less cluttered interface - who wants to scroll through two pages of shooting modes.</paragraph>
+			<paragraph>The R7s comes with the usual HDR and Panorama, but in typical Oppo fashion it also has an UltraHD mode, which outputs pictures in either 24MP or 50MP. RAW mode is another welcome feature for photography enthusiasts.</paragraph>
+			<paragraph>Those will also appreciate the Expert mode, where you get creative control over white balance (only presets, though, no temperature slider), shutter speed (as long as 16s), ISO and exposure compensation, as well as manual focus. The interface is a bit iffy when you hold the phone in landscape, rotating some elements and not others. It's been so for a while now, with Oppo stubbornly refusing to do something about in future releases. It doesn't get in the way of actual shooting, but it's annoying oversight.</paragraph>
+			<paragraph>When it comes to actual image quality, things aren't that great. The shots come out with average detail and uniform patches of color are often too noisy for our liking. There's a lot to improve in dynamic range as well.</paragraph>
+			<paragraph>Color rendition isn't exactly accurate, and the R7s tends to produce warm yellowish images. It's arguably the better side to err on, however, as consumers perhaps find warm photos more appealing.</paragraph>
+			<paragraph>The camera is quick to focus and does so accurately most of the time. It's also snappy overall, slowing down a bit when shooting RAW and HDR. UltraHD shots take while too, but they also require multiple exposures on top of the additional processing.</paragraph>
+			<paragraph>HDR mode works well to combat the limited dynamic range and brings out detail in the shadows as well as toning down highlights. The indoor sample shows a very conservative approach, but the shot from our balcony is a lot more dramatic.</paragraph>
+			<paragraph>Panoramas are well-stitched with only the occasional artefacts and have good resolution. Detail isn't spectacular, but is pretty good, and exposure is even across the frame.</paragraph>
+			<paragraph>The 8MP selfie camera captures plenty of detail, and reproduces skin tones more accurately. Not so great is the tendency for images to come out with somewhat unusually bright exposure and noise is high too. There's also a three-step beautification feature, which evens out skin blemishes and wrinkles, though it does sacrifice some detail in the process.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Still camera comparison<subsectionTitle>
+			<paragraph>You can check out how the Oppo R7s' primary camera stacks up against the competition in our Photo compare tool. We've chosen a couple of smartphones with 13MP cameras, but you can explore the tool and select other devices from the ones we've tested.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The Oppo R7s shoots video at up to 1080p/30fps. There's a time-lapse mode in the range of 2x-10x speed as well as 1/4x speed slow motion mode in the unusual resolution of 720x480 pixels.</paragraph>
+			<paragraph>The recorded regular videos weigh in at 20Mbps, and audio is saved in stereo with a bitrate of 96Kbps. The output is lacking in detail, it's certainly far from the best in business. Exposure is a little shaky at times, but there's no focus hunting, once you're past the initial scanning of the entire range.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download an untouched video sample here - 11 seconds, 27MB.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera comparison<subsectionTitle>
+			<paragraph>Be sure to head over to our video compare tool to check where the Oppo R7s stands against the rest.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Oppo browser and Chrome<subsectionTitle>
+			<paragraph>The Oppo R7s comes with a proprietary web browser, which has an address bar on top and a navigation bar on the bottom always visible when you scroll. There's a fullscreen mode, though, which hides both and replaces them with a single menu button that makes them reappear when desired.</paragraph>
+			<paragraph>Another handy feature is Night mode, which re-renders web pages so that black-on-white texts are displayed as light gray-on-darker gray to make it easier on the eyes in darker environments. It works half the time.</paragraph>
+			<paragraph>Google Chrome is also on board with all the familiar features we've come to like and take for granted like seamless integration with its desktop counterpart, data saver, extensive settings and overall uncluttered interface.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>Security Center is a do-it-all app that lets you control all sorts of features from call/message privacy and Quiet Time settings, to phone optimization and app permissions, app encryption, to network and battery usage. The phone's Guest Mode is also activated from within this app.</paragraph>
+			<paragraph>You get two tiers of power-saving modes. Normal power saving can reduce screen brightness and timeout, as well as limit CPU clock speed. Super power saving goes beyond, by only keeping basic functions like calls and messages operational.</paragraph>
+			<paragraph>The Oppo R7s comes with WPS Office preinstalled. It's a pretty powerful office editor, which can handle Word docs, PDFs, Spreadsheets and Presentations. It can link to cloud storage, email files, and create a shared view with other users and more. There's editing enabled, too, so you can get some work done on the go, if need be.</paragraph>
+			<paragraph>The calendar app has three views that you can switch with a toggle on top. First is the Year view, which is not a problem on this diagonal and resolution, yet some manufacturers omit it. Then comes month view, with little white dots for days with events. Week view frees more space for the agenda, which is a vertically scrollable grid of events.</paragraph>
+			<paragraph>The clock app supports multiple alarms, each with its own repeat time, ring tone, volume, and name. Snooze interval is set for all alarms at once. The app also offers a world clock, a stop watch and a timer.</paragraph>
+			<paragraph>The Tools folder is preloaded with a few apps that you usually get from the market. There's a sound recorder and a 3D compass, and a calculator app is also on board, but oddly no flashlight.</paragraph>
+			<paragraph>The phone comes with a capable file manager out of the box. Its interface is laid out over two tabs, the first one organizes files by category, while the second is a traditional folder browser.</paragraph>
+			<paragraph>Files and folders can be copied, moved, deleted, renamed and compressed to ZIP (and ZIP files can be extracted). Batch operations are supported. The folder browser has list and grid views and you can change the sorting method. The system can be encrypted and password protected too.</paragraph>
+			<paragraph>The file browser also has built in DLNA and FTP server support, which makes it easy to access multimedia and general files on another device.</paragraph>
+			<paragraph>Backup and restore can perform scheduled or on-demand backups of your contacts, messages and calendar. It doesn't stop there and can also save copies of your settings and launcher layout as well as apps, music and images, making it one of the most thorough manufacturer-supplied backup apps.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Oppo R7s key test findings<subsectionTitle>
+			<paragraph>Premium build, high-quality fit and finish.</paragraph>
+			<paragraph>Eye-pleasing 5.5-inch AMOLED display with average maximum brightness.</paragraph>
+			<paragraph>Overall dependable battery, with 14 hours of video playback and 24 hours of 3G calls possible. Web browsing endurance is a letdown at only 8 hours.</paragraph>
+			<paragraph>ColorOS is sleek and offers added functionality absent in stock Android - gestures are nice if you're into that and there are plenty of themes to choose from.</paragraph>
+			<paragraph>Top-class performance for the hardware.</paragraph>
+			<paragraph>Multimedia package gets the job done without many frills - the gallery is barebones; video player is low on features, but strong on codec support; music player has the basics covered, but lacks an equalizer.</paragraph>
+			<paragraph>Loudspeaker scored a Good rating in our proprietary loudness test.</paragraph>
+			<paragraph>Better 13MP cameras are available for the money, this one delivers average detail, noisy images and warm colors. On a positive note, it's packed with features and it's speedy too.</paragraph>
+			<paragraph>1080p video output not up to par</paragraph>
+			<paragraph>Very good front camera, detailed and more color accurate than the rear one.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Oppo R7s turned out all we expected it to be. A stunner to look at and a joy to handle, the smartphone does well to defend its premium price tag, even before you actually turn it on.</paragraph>
+			<paragraph>And when you do, it greets you with 5.5-inch AMOLED display with deep blacks and vibrant colors. Sure, it could have been brighter and more color accurate, but you'd be enjoying it nonetheless.</paragraph>
+			<paragraph>Good thing then that its battery can last you for as long as 14 straight hours of video playback. If you tend to spend most of your time browsing, however, you may find the R7s lacking in stamina, at just 8 hours.</paragraph>
+			<paragraph>We've seen Oppo do a great job of squeezing the most out of the Snapdragon 615 in the past, and it's done it again for the R7s. But there's no getting around its midrange nature and the chip is no graphics powerhouse.</paragraph>
+			<paragraph>You're likely going to enjoy Oppo's software build on top of Android Lollipop if you are ok with the fact that there is no app drawer. Color OS is stylish and functional, and the added screen gestures could be genuinely useful too. Certain menu items aren't where you'd expect them to be, but it shouldn't be an issue after a while.</paragraph>
+			<paragraph>The 13MP camera is a decent casual shooter and is quite rich in features, for those who appreciate it - Expert mode lets you tweak exposure, focus and white balance, and it can also save RAW files. The front facer captures very good 8MP selfies.</paragraph>
+			<paragraph>The R7s is in a very crowded segment and there's an abundance of capable opponents. But first - if you're drawn to the R7s, but are not entirely certain about the size, Oppo itself has options on either side. Both the 5-inch R7 and the 6-inch R7 Plus come with largely the same internals, but the Plus adds a fingerprint reader, laser autofocus, and better battery life, all for a $100 more. The R7 and R7s are equally priced, and you really need to insist on compactness to go for the overall inferior R7.</paragraph>
+			<paragraph>The Samsung Galaxy A7 is a very similar offering to the R7s - a metal build, a 5.5-inch display, a Snapdragon 615, and a 13MP camera. It only has half the RAM and storage of the R7s, but is more efficient despite its smaller battery and it lasts longer on the web. The R7s trumps it in video playback, and that may be worth keeping in mind. It is also the outgoing model, next year's A7 (2016) is yet to show up for review or in stores.</paragraph>
+			<paragraph>A top-specc'd OnePlus 2 can be had for a little more than the R7s in Europe, but it's actually cheaper in the US. It's a proper flagship too, if not really a killer of others, so it outperforms the R7s across the board. It does give you a fingerprint scanner, its camera has OIS and can shoot 2160p videos, and its output is generally superior to the R7s'. It's no match for the R7s' look and feel, though.</paragraph>
+			<paragraph>Motorola with its aggressive pricing has two viable alternatives to the R7s. The Moto X Style costs as much as the R7s and packs top-end hardware - 5.7-inch QHD display, Snapdragon 808 chipset, an excellent 21MP camera with 2160p video recording. Meanwhile the Moto X Play matches the R7s in chipset, display diagonal and resolution, but is $100 cheaper. It does come with half the RAM, but has the Style's camera, so it's again ahead in imaging. But the R7s is prettier and no Motomaker customization can offset that.</paragraph>
+			<paragraph>The LG G3 and G Flex2 are selling at bargain prices and are more affordable than the R7s in most markets. And in some places you can even grab a G4 for as much as Oppo is charging for the R7s. All three offer OIS cameras with better image quality, Snapdragon 800-series silicon (hence more powerful GPUs) and the G3 and G4 let you swap batteries, which remains important to some users. None of them matches the R7s in battery endurance though.</paragraph>
+			<paragraph>A tough crowd to be in if you're the Oppo R7s. It's a wonderful smartphone with killer looks and a premium vibe to it. But those come taxing on your wallet, and for the money you can get a more powerful chipset and a better camera. It's one of those looks versus smarts conundrums and it's one that you ultimately have to settle for yourselves.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,215 @@
+<review>
+	<title>Samsung Infuse 4G review</title>
+	<description>Extra legroom</description>
+	<link>http://www.gsmarena.com/samsung_i997_infuse_4g-review-599.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key Features<subsectionTitle>
+			<paragraph>Quad-band GSM and quad-band 3G support</paragraph>
+			<paragraph>21 Mbps HSDPA and 5.76 Mbps HSUPA support</paragraph>
+			<paragraph>4.5" 16M-color Super AMOLED Plus capacitive touchscreen of WVGA (480 x 800 pixel) resolution</paragraph>
+			<paragraph>1.2 GHz ARM Cortex A8 processor, 512 MB of RAM</paragraph>
+			<paragraph>8 MP wide-angle lens auto focus camera with LED flash, face, smile and blink detection</paragraph>
+			<paragraph>720p video recording at 30fps</paragraph>
+			<paragraph>Dual-band Wi-Fi 802.11 b, g and n support</paragraph>
+			<paragraph>GPS with A-GPS connectivity; Digital compass</paragraph>
+			<paragraph>16GB internal storage, microSD slot</paragraph>
+			<paragraph>Accelerometer, gyroscope and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Charging MHL microUSB port with USB host and TV-out (1080p) support</paragraph>
+			<paragraph>Stereo Bluetooth v3.0</paragraph>
+			<paragraph>FM radio with RDS</paragraph>
+			<paragraph>Great audio quality</paragraph>
+			<paragraph>Super slim and lightweight at 8.99mm and 139g</paragraph>
+			<paragraph>1.3MP secondary camera, video-call</paragraph>
+			<paragraph>Full Flash support and GPU-acceleration enable 1080p flash video playback in the web browser</paragraph>
+			<paragraph>Document editor</paragraph>
+			<paragraph>File manager preinstalled</paragraph>
+			<paragraph>The richest video format support we?ve seen</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>All-plastic build</paragraph>
+			<paragraph>No dedicated camera key</paragraph>
+			<paragraph>Super slim body has poor grip when taking pictures</paragraph>
+			<paragraph>Single-core processor</paragraph>
+			<paragraph>No 1080p video recording despite having the same camera unit as the Galaxy S2</paragraph>
+			<paragraph>Sheer size raises questions about single-handed use</paragraph>
+			<paragraph>Non-hot-swappable memory card slot</paragraph>
+			<paragraph>The device ships with Android 2.2 (Froyo), not the latest Gingerbread</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>In America, it is widely believed that bigger is better. Or so Samsung must have thought when they decided to launch the phone with the biggest and brightest screen first in the United States, and with the biggest network ? AT&amp;T. The Samsung Infuse 4G is definitely meant to stand out ? its 4.5? Super AMOLED Plus screen is nearly unmatched on the market, and a beauty to look at. It makes 4-inchers look petty and irrelevant.</paragraph>
+			<paragraph>Despite its humongous screen, the Samsung Infuse 4G has an impressively thin body. At 8.99 mm, it is only a tad thicker than a Galaxy S2. It does have an excuse though ? it?s packing a larger screen than the current Samsung flagship. That?s the spirit.</paragraph>
+			<paragraph>Certain comparisons are not in the Samsung Infuse 4G?s favor. It looks like a flagship, but it?s not quite there. The Infuse just doesn?t have the raw processing power of the Galaxy S2. What?s fair?s fair though ? it does look even more impressive.</paragraph>
+			<paragraph>Oddly enough, Samsung has decided to go with their older generation, single-core CPU which we know well from the Galaxy S line of phones. Is it going to be enough to power the Infuse 4G? We are about to find out.</paragraph>
+			<paragraph>Editorial: You might notice that this review is shorter than usual and doesn't include all of our proprietary tests. The reason is it has been prepared and written far away from our office and test lab. The Samsung Infuse 4G is a US-only phone, so it will probably never get to the shores of the Old Continent. Still, we think we've captured the essence of the phone in the same precise, informative and detailed way that's become our trademark. Enjoy the good read! </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing: all bases are covered<subsectionTitle>
+			<paragraph>The Samsung Infuse 4G comes in quite a small, AT&amp;T branded box. It almost makes you wonder how a device this big managed to fit in there.</paragraph>
+			<paragraph>The bundle includes a charger, microUSB cable, a headset, and a quick start guide. You also get an HDMI adaptor which is an essential aid even for the mighty Galaxy S2. The package is finished with a 2GB microSD card with an adapter. With an optional 32GB card supported, the storage you get is almost limitless.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and Display<subsectionTitle>
+			<paragraph>The Samsung Infuse 4G looks a lot like a stretched out Galaxy S2 save for the hardware button in the front of the device. It has the same chin on the back and a thin metal frame which goes around the device.</paragraph>
+			<paragraph>In terms of weight, the device is on the slimmer side of the Android offerings. At 139 grams, the Infuse 4G is heavier than the Galaxy S2 but most of the added weight is probably down to the larger screen.</paragraph>
+			<paragraph>The back of the phone is finely textured: exactly the same kind of surface as on the Galaxy S2. It is immune to fingerprints and pleasant to the touch.</paragraph>
+			<paragraph>Overall, the Infuse 4G feels plasticky in hand ? more metal would have certainly upped its appearance. It would however, have added weight so we are willing to compromise here.</paragraph>
+			<paragraph>Now, the screen ? the 4.5? Super AMOLED Plus display is nothing short but a thing of beauty. It uses a conventional matrix with three-subpixels per pixel instead of the PenTile matrix of the first-gen Super AMOLED displays. At 4.5 inches, the Infuse 4G screen is even more imposing than the one of the Galaxy S2. The mere .2 of an inch might not sound like much but if you put the two devices side by side, you will notice it does make a difference.</paragraph>
+			<paragraph>All in all, Super AMOLED Plus screens and mobile phones are really meant for each other. It?s a perfect match that reveals all the strengths (unrivaled image quality, perfect viewing angles, energy efficiency and great sunlight legibility), without suffering the traditional OLED weaknesses (higher production costs for larger units and shorter life).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls and Handling<subsectionTitle>
+			<paragraph>Aside from the screen, there is nothing revolutionary here. You get four capacitive buttons on the front of the Infuse 4G much like AT&amp;T?s own Samsung Captivate and the Galaxy S 4G for T-Mobile. There is an Options button, followed by Home, Back and Search keys respectively. A long press of the home button opens the recent applications along with an option to access the task manager.</paragraph>
+			<paragraph>Above the display we have the earpiece, as well as ambient light and proximity sensors. The front-facing camera supports video-calls and has 1.3 megapixel resolution.</paragraph>
+			<paragraph>There is nothing but a volume rocker on the left side of the Infuse 4G. The volume keys double as zoom lever in camera mode.</paragraph>
+			<paragraph>On the right side of the device, there is nothing but a power key. What the phone lacks is a dedicated camera button. Such a capable camera unit certainly deserves one but it?s hard a phone this slim probably .</paragraph>
+			<paragraph>One minor but particularly annoying design flaw of the original Galaxy S has been addressed. The power/lock button no longer falls on a sloped edge and is a lot easier to press without risking the phone slipping off your grip.</paragraph>
+			<paragraph>There is an unprotected 3.5 mm audio jack on top of the Infuse 4G.</paragraph>
+			<paragraph>The microUSB port at the bottom is used for both data connections and charging. Not only does it support USB host but it also comes with MHL enabling HD TV-out connectivity. MHL is a way of using both microUSB and HDMI through the same port. The downside is you need an adapter to use a regular HDMI cable with this one (at least it?s supplied here, unlike the Galaxy S II).</paragraph>
+			<paragraph>The last component at the bottom of the device is the mic.</paragraph>
+			<paragraph>The back of the Samsung Infuse 4G is where the 8 megapixel HD-capable camera lens is located. The LED flash is right under it is, which will probably see more use a flashlight and video-light than a still-camera assist.</paragraph>
+			<paragraph>The loudspeaker grill is at the back too ? right on the slightly elevated chin at the base of the device.</paragraph>
+			<paragraph>Removing the paper thin battery cover reveals the SIM compartment, the 1650 mAh battery and the microSD card slot. The card slot can take microSD cards of up to 32GB, which can give you a maximum total storage of 48GB. The bad news is the memory card isn?t hot-swappable.</paragraph>
+			<paragraph>Much to our surprise the SIM card was hot-swappable. Sure, the Infuse 4G will politely ask you to restart when you take out the active SIM, but if you ignore that, insert another card and then restart the radio by turning airplane mode on and back off, you will still have fully functional telephony with the new card. For the moment though, you can do this trick only with AT&amp;T cards because the phone is carrier locked .</paragraph>
+			<paragraph>The 1650 mAh battery is quoted to offer up to 400h of standby and up to 8h of talk time. Of course, those numbers are far from reality. In our experience, the Infuse 4G made through a day of heavy usage but by the end of it, it needed a charge badly. If used moderately, the device should make it through a couple of days of use ? much in line with the current top smartphone offerings today.</paragraph>
+			<paragraph>For a device that big, the Samsung Infuse 4G is fairly easy to handle. We must admit though, unless you have fairly large hands, operating the device with a single hand is extremely difficult. There is a significant chance that one might accidentally drop the phone. Given the size of the phone though, Samsung has done a commendable job with its ergonomics.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User Interface: hybrid TouchWiz<subsectionTitle>
+			<paragraph>Oddly enough, Samsung has not graced the beautiful screen of the device with the latest incarnation of its TouchWiz UI. Instead, the company has opted for a modified version of the interface, which has some of the features TouchWiz 4.0, but it still isn?t quite there. For example, the task manager of the Infuse 4G is the same as the one found in the Galaxy S2. You don?t however, get the same options to personalize the home screen, and gesture controls as found in the dual-core cousin. Our guess is that the new UI might require too much processing power which is why it was saved for the Galaxy S2.</paragraph>
+			<paragraph>The Android version on the Infuse 4G is 2.2 (Froyo). We are certain that an update to Gingerbread will be available in the future for the device, but also disappointed that it is not available for it out of the box.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>CPU performance: fine, but not dual-core fine<subsectionTitle>
+			<paragraph>The ARM Cortex A8 1.2 GHz processor is an overclocked version of the CPU, which we know too well from the line of Galaxy S phones and the Nexus S. Despite the added speed however, the Samsung Infuse 4G is far from being the fastest device out there.</paragraph>
+			<paragraph>With results like that the Infuse 4G will hardly have any trouble with the applications that are currently available for Android. However once developers start using the dual-core powers of the already existing crop of devices the Infuse 4G will lose its 100% compatibility ratio.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook: everything you need and more<subsectionTitle>
+			<paragraph>Samsung have moved a few things around but the phonebook is pretty much the same as it was in the original Galaxy S. It has a wide range of features and practically unlimited storage capacity.</paragraph>
+			<paragraph>One odd thing we noticed is that the Samsung Infuse 4G cannot display SIM contacts ? there?s simply no setting for that. You can import/export contacts to/from the SIM card but you can?t display them alongside the phone memory entries.</paragraph>
+			<paragraph>There are options to filter contacts that have phone numbers, show/hide some of the groups you?ve created (including groups from social networks) and change the sorting (by first or last name).</paragraph>
+			<paragraph>The phonebook keeps the Quick contacts feature, which lets you tap the contact photo for a popup menu with shortcuts to call, text, or email. The Samsung-specific swiping gesture is here too ? swipe a contact right to make a call and left to compose a message.</paragraph>
+			<paragraph>Of course, the real flexibility of the phonebook becomes apparent when you sign into your social networks. After syncing, the phonebook will automatically merge contacts (you can do it manually too), so that the contact details are pulled from the social networks too.</paragraph>
+			<paragraph>The contact info screen is tabbed. The first two tabs are pretty standard ? one displays the person?s contact information the other keeps call and message history. The third and fourth tabs handle the social stuff ? status updates and the contact?s online galleries.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony is sweet<subsectionTitle>
+			<paragraph>The Samsung Infuse 4G had great in-call quality and the sound was crisp and loud. Reception was good and we didn?t suffer dropped calls though in areas of very poor coverage the sound would break up.</paragraph>
+			<paragraph>The dialer and call log have been integrated into the phonebook, each with a separate tab. Smart Dial is available and works like a charm ? it searches names and numbers simultaneously. Only one contact is shown (with contact photo) and you can tap the down arrow to view the rest (the number above the arrow indicates how many contacts have matched your query).</paragraph>
+			<paragraph>The call log, as you can see above, is the tab next to the dial pad. It displays all the dialed, received and missed calls in one list sorting your call history by contacts.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging offers a complete package<subsectionTitle>
+			<paragraph>The messaging department is quite straightforward: there are no folders here, just a new message button. Under that button is a list of all your messages organized into threads.</paragraph>
+			<paragraph>When you add multimedia content to the message, it is automatically turned into an MMS. You can either quickly add a photo or an audio file to go with the text or compose an MMS using all the available features (like multiple slides, slide timing, layout, etc.). The multiple slides are all shown inside the compose box.</paragraph>
+			<paragraph>Moving on to email, the Gmail app supports batch operations, which allows multiple emails to be archived, labeled or deleted. Multiple Gmail accounts are also supported.</paragraph>
+			<paragraph>Text entry is handled by the standard Samsung QWERTY keyboard, which offers very big and comfortable keys ? it is definitely one of the features of the phone which benefits most from the large screen. In landscape mode, the keyboard takes up most of the display and the even bigger keys make it one of the most comfortable virtual mobile keyboards around.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery and file browser<subsectionTitle>
+			<paragraph>The Samsung Infuse 4G uses the standard Android gallery. The gallery automatically locates the images and videos no matter where they are stored. It even imports the online photos from your Google Picasa web albums.</paragraph>
+			<paragraph>Little about the Gallery should surprise you ? aside from displaying full-res images and the addition of the two-finger tilt zoom, there?s nothing new really. And don?t you worry, the double tap and pinch zoom are still there.</paragraph>
+			<paragraph>The My Files app is a simple to use but functional file manager. It can move, copy, lock and rename files in bulk, even send multiple files via Bluetooth. My files will only browse the memory card and the large internal storage (it can?t access the system drive).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>TouchWiz music player<subsectionTitle>
+			<paragraph>The Samsung Infuse 4G uses the standard TouchWiz music player. We guess it?s reserved for the Galaxy S lineup. Samsung has enabled equalizer presets (including a custom one) along with the sound-enhancing DNSe technology and 5.1 channel virtualization.</paragraph>
+			<paragraph>When playing music, you can easily access the player from the notification bar as well. Another feature of the player which is really cool, but unnecessary, is the disc view of the tracks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player is impressive<subsectionTitle>
+			<paragraph>The video player offers a simple list-based interface. It displays all video files stored on the phone and you can sort them by name, date, type or size. The video player also remembers the last viewed position of the video, so you can resume exactly where you left off.</paragraph>
+			<paragraph>The video player lets you choose between three crop modes for how the video fits the screen. There?s 5.1 channel virtualization and subtitle support. You can change font size and adjust subtitles sync (move them back or forward a few seconds) but there?s no option to manually load subtitles, they have to have the same filename as the video file to load.</paragraph>
+			<paragraph>The video player had absolutely no trouble with any of the files we threw at it ? starting with .WMV, through .AVI (DivX and XviD) and .MP4 to .MKV (H.264). Resolution wasn?t a problem either ? the Samsung Infuse 4G played FullHD files. Large files of over 2GB worked fine as well.</paragraph>
+			<paragraph>We can easily state that the video player is, hands down, one of the strongest features of the Samsung Infuse 4G. With a screen this big and bright, watching video content is nothing short of pleasurable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>There is a media hub too<subsectionTitle>
+			<paragraph>The Infuse 4G comes with Media Hub app preinstalled. It allows you to browse and purchase video content directly to your phone. There is also a ?rent? option where you have only temporary access to the multimedia of your choice.</paragraph>
+			<paragraph>In the retail package of the device, you will receive a $25 credit which you can use towards your first purchase. Given the fact that the Infuse 4G is a great device for multimedia, the app will probably become quite popular.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>8MP camera has solid quality<subsectionTitle>
+			<paragraph>The Samsung Infuse 4G comes with an 8MP auto-focus camera for photos of up to 3264 x 2448 pixel resolution. It comes with an LED flash but nothing in the way of lens protection or physical shutter key.</paragraph>
+			<paragraph>The interface looks pretty familiar with two shortcut bars on each side of the viewfinder. On the right you get the still camera / camcorder switch, virtual shutter key and the gallery shortcut (which is a thumbnail of the last photo taken).</paragraph>
+			<paragraph>In terms of features, the Samsung Infuse 4G offers pretty much everything ? touch focus, scene modes, face/blink/smile detection, effects, geotagging, digital image stabilization and manual controls for ISO, metering mode and so on. There are other features too; we?re just listing the most interesting ones.</paragraph>
+			<paragraph>The images captured with the 8MP camera of the Infuse 4G are very good ? low noise, plenty of fine detail and the color and contrast are good too. Colors are a smidge oversaturated but that?s how we like them. Keep in mind that the camera has a wide-angle lens ? our measurements suggest a focal length of about 30mm in 35mm equivalent.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good HD video<subsectionTitle>
+			<paragraph>The video camera interface is identical to the still one. It can record video using the front facing camera too (resolution is limited to VGA).</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The 720p videos from the video recorder are nice and smooth.</paragraph>
+			<paragraph>Here's a 720p video shot by the Infuse 4G.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Samsung Infuse 4G starts off with the basics ? quad-band GSM/GPRS/EDGE and quad-band 3G. There?s HSPA+ with 21Mbps downlink and 5.76Mbps uplink too, which AT&amp;T brands as ?4G? even though it?s not. The AWS 1700MHz band is missing so even if you get an Infuse 4G unlocked somehow, you won?t get 3G on T-Mobile.</paragraph>
+			<paragraph>Moving on, there?s Bluetooth 3.0 with High Speed, which promises transfer speeds up to 21Mbps The Wi-Fi support includes a/b/g/n versions, with both 2.4GHz and 5GHz band compatibility.</paragraph>
+			<paragraph>The AllShare app allows you to stream content to and from different kind of devices (TV or computer). We didn?t give it a proper run for its money, but we guess it works over DLNA.</paragraph>
+			<paragraph>And finally, for wired connectivity we have the MHL port. By all appearances it is a normal microUSB port and works as one (a charger port as well). But the MHL port enables video output by using a MHL-to-HDMI dongle. There is one included in the retail box, which is great since even the Galaxy S2 doesn?t have it in its retail package.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser is great<subsectionTitle>
+			<paragraph>Web browsing is another area where the humongous screen of the Infuse 4G is a great asset. While the interface of the browser has not changed, everything you view in it is bigger and better.</paragraph>
+			<paragraph>The browser supports both double tap and pinch zooming along with the new two-finger tilt zoom. There are niceties such as multiple tabs, text reflow, find on page and so on. A neat trick is to pinch zoom out beyond the minimum ? that opens up the tabs view.</paragraph>
+			<paragraph>Playing HD videos directly in the browser is not the greatest experience. The hardware of the Infuse 4G is obviously not powerful enough to seamlessly support this feature.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>You can edit office files out of the box<subsectionTitle>
+			<paragraph>The Infuse 4G comes with Quickoffice preinstalled. You can open and edit all popular office formats, including pdf right out of the box.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The organizer is comprehensive<subsectionTitle>
+			<paragraph>The calendar has four different types of view: list, daily, weekly and monthly. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>There is a nice alarm clock app which allows you to create a large number of alarms ? each with different starting time and recurrence.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GPS with Google Maps Navigation<subsectionTitle>
+			<paragraph>The Infuse 4G comes with Google Maps and Navigation. Voice-guided navigation has become a viable solution since the v5.0 update. Vector maps are smaller and easier on the data traffic and reroute is an option if you go off course without the need to connect to the Internet. In fact, the only time you need a data connection is when you initially plan the course ? Navigation will cache the needed maps.</paragraph>
+			<paragraph>Quite naturally, the app also supports the Street View mode. If it?s available in the area you're interested in, you can enjoy a 360-degree view of the surroundings. When the digital compass is turned on it feels like making a virtual tour of the location!</paragraph>
+			<paragraph>If Google Maps Navigation doesn?t do it for you, you can grab an alternative app from the Android Market ? there are both free and paid ones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Market keeps getting better<subsectionTitle>
+			<paragraph>With a 1.2GHz CPU, the Samsung Infuse 4G can run every Android app designed for phones. The structure of the Android Market is quite simple ? featured apps on top and above them, three sections (Applications, Games and Downloads). There is also a shortcut up there for initiating a search.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Applications and Games sections are divided into subsections (e.g. Communication, Entertainment etc.) so you can filter the apps that are relevant to you. Of course, there is also an option of displaying them all in bulk, but you?ll probably need days to browse them all that way.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final Words<subsectionTitle>
+			<paragraph>After spending quite a lot of time with the Samsung Infuse 4G, we are left with bitter sweet feelings towards it. Its screen is a technological marvel ? the best out there. Unfortunately, we cannot say the same about the rest of the hardware. The Infuse 4G looks by all means like a true flagship but fails to deliver in the performance section.</paragraph>
+			<paragraph>Currently it is the company?s most able model in the United States. Its tenure on top of the Samsung range will probably be short lived though. Samsung are bound to bring an US version of the I9100 Galaxy S II dual-core beast and when it happens the Infuse 4G will be instantly relegated from the star of the show to a support role.</paragraph>
+			<paragraph>So while the Samsung I997 Infuse 4G will probably do well in the short-term and will probably be snatched by a lot of people who are renewing their contracts right now we don?t see it as a long time success of the Galaxy S magnitude. But then again Samsung probably never expected it.</paragraph>
+			<paragraph>The company is fully aware that a smartphone with a year-old chipset at its heart will need more than a slight overclock to be a worthy flagship. But they also probably anticipated that with the current AMOLED shortages and huge demand the Galaxy S II will take quite some time to arrive across the ocean and the Infuse 4G is the handset that should buy that time.</paragraph>
+			<paragraph>Luckily for it, the rest of the smartphones in the AT&amp;T portfolio aren?t too far ahead either and with a screen like that the Samsung I997 will probably be able to stand its ground quite successfully. In fact the Motorola Atrix 4G is the only AT&amp;T handset to offer dual-core CPU, but if our experience with it is anything to go by, it needs some tuning before it can utilize its full potential. Besides the Atrix 4G has neither the slim waistline nor the impressive screen of the Infuse 4G.</paragraph>
+			<paragraph> Motorola Atrix 4G</paragraph>
+			<paragraph>Alternatively you can take a look at the HTC Inspire 4G, which at $100 comes at half the Infuse 4G price (contract charges not included, of course). The HTC smartphone is not technically better than the Samsung device at anything, but given the price difference it might be worth the few compromises. You will also be getting a metal construction with the Inspire 4G, a welcome change indeed but it comes at the price of weight increase.</paragraph>
+			<paragraph> HTC Inspire 4G</paragraph>
+			<paragraph>If you are willing to look beyond Android for your next AT&amp;T smartphone, then you should, of course, consider the Apple iPhone 4. The iOS-device hits the Infuse 4G with a better build quality and more compact size, but even the Retina screen cannot compare to the brilliance of a 4.5? Super AMOLED Plus screen. We are not going to dwell on the platform differences here, as you are probably all too familiar with them by now. Suffice to say that we consider the equal pricing of the Infuse 4G and the iPhone 4 fair.</paragraph>
+			<paragraph> Apple iPhone 4</paragraph>
+			<paragraph>Finally, AT&amp;T also has some interesting Windows Phone 7 smartphones on offer. Samsung Focus and LG Quantum come completely free on contract with a fresh-looking OS and seamless performance and social integration. However WP7 is still far from the maturity of Android or iOS so opting for any of those two will be a move to save money rather than gain in versatility.</paragraph>
+			<paragraph>  LG Quantum ? Samsung Focus</paragraph>
+			<paragraph>As it seems the Samsung I997 Infuse 4G has pretty good chance of completing its mission. It will ensure that those who want a new smartphone right now get plenty of bragging rights for a while and will still leave them with the largest Super AMOLED Plus display in the world when it imminently gets outdone by the AT&amp;T version of the Galaxy S II and perhaps even the iPhone 5 or 4s in a few months.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,332 @@
+<review>
+	<title>Huawei Nexus 6P review</title>
+	<description>Stepping it up</description>
+	<link>http://www.gsmarena.com/huawei_nexus_6p-review-1355.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key Features<subsectionTitle>
+			<paragraph>5.7" screen with 1440p resolution (518ppi)</paragraph>
+			<paragraph>Android 6.0 Marshmallow with quickest software updates from Google</paragraph>
+			<paragraph>Quad-core 1.55 GHz Cortex-A53 &amp; Quad-core 2.0 GHz Cortex-A57, 3GB of RAM, Adreno 430 GPU; Snapdragon 810 v2 chipset</paragraph>
+			<paragraph>32GB, 64GB, or 128GB of storage</paragraph>
+			<paragraph>12.3MP camera with laser autofocus and dual-LED flash; 1.55µm pixels; 8MP selfie camera</paragraph>
+			<paragraph>2160p video capture</paragraph>
+			<paragraph>Cat. 6 LTE (300Mbps); Wi-Fi 802.11 a/b/g/n/ac; Bluetooth 4.2; GPS/GLONASS; NFC; USB Type-C port with USB host</paragraph>
+			<paragraph>Fingerprint reader; Android Pay</paragraph>
+			<paragraph>3,450mAh Li-Po battery with fast charging</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Quite expensive outside the US and no major carrier-subsidized version in the US</paragraph>
+			<paragraph>No expandable storage</paragraph>
+			<paragraph>Lacks wireless charging</paragraph>
+			<paragraph>Lacks a cable TV out option</paragraph>
+			<paragraph>No Optical Image Stabilization (OIS) for the camera</paragraph>
+			<paragraph>No FM radio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Last year, a dramatic change came to Google's Nexus offering. The upper-mid range phone that was the Nexus 5 was replaced by a premium and much more expensive model made by Motorola. Skip time ahead about a year to this fall and we are offered a true premium package with a significantly lower price tag. The Nexus 6P is beautifully designed by Huawei to please both power users and average users alike.</paragraph>
+			<paragraph>Last year's Motorola Nexus 6 was a huge hit, literally. Unfortunately the phablet did not age well, the price of Motorola's offering was too high from the start then fell too low at the end of its life cycle. This year, Google decided to do two things differently with the Nexus release: launch and sell Nexus phones exclusively on the brand new Google Store, and release two Nexus phones offering the same experience in two different models of hardware, one larger and more powerful than the other, lower cost model.</paragraph>
+			<paragraph>Huawei and Google conceived a perfect sequel to the Nexus 6 - it's the first time Huawei is on board the Nexus program as well but their track record of excellent premium phones has positioned them as an ideal choice for a Google hardware partner.</paragraph>
+			<paragraph>The 6P offers a perfect balance of premium feel, software experience, and attention to detail without skimping out in other aspects (such as the camera experience or build quality).</paragraph>
+			<paragraph>Huawei's Nexus 6P improved where the Nexus 6 just barely make the mark. The 6P does manage to be a bit taller than the 6, but the narrower body of the 5.7" screen of the 6P makes it significantly manageable with one hand. The new camera experience yields much better than the 6 did. And the use of current generation Samsung's AMOLED panels proves to be a welcome improvement to Motorola's OLED displays.</paragraph>
+			<paragraph>USB Type-C was a sure choice, ensuring a nudge for other smartphone makers to adopt the new USB standard.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>In the past, every single Nexus device had some kind of compromise, however, we think this may be the first time a Nexus device has ever gotten every aspect about performance, camera, battery, and design just right. But we wouldn't know until we check that thoroughly first hand.</paragraph>
+			<paragraph>Update, Dec 30: The review has been updated with all the usual test results and samples you've come to expect from our trademark reviews.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Huawei Nexus 6P<subsectionTitle>
+			<paragraph>The retail packaging for the Nexus 6P is unlike that you'd find on say, a Galaxy S6 or an iPhone (with the phone resting on top with the booklets, charger and headphones all crammed in the space underneath it).</paragraph>
+			<paragraph>It's a soft white cardboard box that feels like printer paper to the touch, wrapped in a large sleeve that has all the branding. Google's "P" logo is the post prominent logo on the box, while the Nexus and Huawei logos are more subtly placed.</paragraph>
+			<paragraph>Once inside, a flap of paper covers the neatly arranged components: the handset on the left, with the USB Type-C cable on the upper right corner followed by the 15W charger block right below it. Once the phone is lifted from its holder, we are greeted with a little tab that houses the booklets and Google Play Music trial information.</paragraph>
+			<paragraph>Underneath this, still, is a 6-inch USB Type-A to USB Type-C cable that you can use for transferring files with a PC or for charging with a power bank or non-Type-C wall adapter. Note that any other charger besides a USB Type C charger with 5V @ 3A will not charge this device at the maximum charging speed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>The Huawei Nexus 6P measures 159.3 x 77.8 x 7.3 mm (6.27 x 3.06 x 0.29 in). A bit taller than the Nexus 6 but noticeably narrower on paper and in hand. The difference in width barely crosses the line to "large" from "huge". While the screen size was reduced by about 0.3 inches, the phone feels large enough.</paragraph>
+			<paragraph>The Nexus 6 had two raised grilles on the front, which we liked a lot because it let us place it down on a table without fear of debris getting in between the glass and the table, potentially scratching the display. The Nexus 6P does not have those raised speaker grilles and we kind of missed them.</paragraph>
+			<paragraph>While the Nexus 6P's front features dual speaker grilles very similar looking to the 5X and Moto Nexus 6, the metal unibody is very much Huawei's design language. The camera setup and round fingerprint sensor were mostly design collaborations with Google.</paragraph>
+			<paragraph>The LED notification light is located just to the left of the front facing camera lens. Much like the Nexus 6, the Nexus 6P's speaker grilles give the front of the screen a horizontal line of symmetry that can sometimes confuse us as to which way is up or down.</paragraph>
+			<paragraph>When first picking up the device, it felt a bit heavy at 178g, sturdy, and its weight is quite well distributed. Unlike the Moto Nexus 6, our first instinct was to cradle it like an expensive vase to conserve its beauty. It just seems as though the metal unibody would be really easy to dent.</paragraph>
+			<paragraph>It might be worth mentioning that some bend tests were put up on YouTube of the Nexus 6P bending in half like a waffle. It wouldn't be fair for someone to make a decision not to purchase this phone based solely on a few videos of people abusively bending the phone, unless your intention is to purposefully use the phone as a bridge.</paragraph>
+			<paragraph>The front of the device has not much pretty to look at. It's actually quite boring, however, turn it over and there are many subtle curves that give it character and lots of chamfered edges to give the handset a sense of depth. The camera hump's glass also features a chamfered edge going all the way around.</paragraph>
+			<paragraph>The right side of the device features a textured power key, and a volume rocker key right underneath it while the upper left side is home to the nanoSIM card tray.</paragraph>
+			<paragraph>The underside is where the USB Type-C connector resides and the top edge shows access to the 3.5 mm headphone jack.</paragraph>
+			<paragraph>The rear of the device really is the most exciting side. There are a plethora of sensors, antennas and goodies to talk about. The "camera hump" isn't really as large as it looks in some of the pictures. The shading and contour of the metal exaggerates the hump in photos. It has the new 12.3MP Sony sensor with extra-large pixels for better details, dual LED flash, laser focus transmitter, and the NFC antenna.</paragraph>
+			<paragraph>Right below the black slab of camera glass is a noise cancelling microphone, and the fingerprint sensor is a little further down.</paragraph>
+			<paragraph>Way below the Huawei and Nexus logos is a plastic cover that houses an access panel of screws to get into the phone.</paragraph>
+			<paragraph>All four corners have small plastic insert strips that serve as "windows" for antennas to get signal from outside the metal body.</paragraph>
+			<paragraph>The attention to detail does not go unnoticed with the Nexus 6P, a very nice touch is the cross pattern on the power key reminiscent of some industrial tools. Even the power and volume keys have chamfered edges around them as seen above.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Screen<subsectionTitle>
+			<paragraph>The Nexus 6p uses a 5.7 inch QHD AMOLED display - this makes for a pixel density of 515 ppi. During an AskMeAnything session on Reddit the Nexus team claimed that they've in fact sourced a current gen Samsung AMOLED panel for the Nexus 6p.</paragraph>
+			<paragraph>Under our digital microscope, you can clearly see the Diamond Pentile pixel arrangement.</paragraph>
+			<paragraph>At its maximum setting, the screen outputs 352nits of brightness, which is about average for an AMOLED screen. This means it's about as bright as the Moto Nexus 6, the Huawei Mate S, and the Meizu PRO 5. It's certainly bright enough for viewing during the day though it falls short of Samsung's flagship range.</paragraph>
+			<paragraph>On the positive side, at its minimum setting, it gets comfortably dim at only 5.4nits.</paragraph>
+			<paragraph>Color accuracy of the screen is not perfect and it's certainly far from the calibrated output of the LG Nexus 5X though this one comes with an LCD. It's got an average color deviation (DeltaE) of 6.5 and color calibrated output should have that under 3. The phone doesn't offer any sliders for adjusting the default color rendition.</paragraph>
+			<paragraph>The relatively low brightness didn't hamper the sunlight legibility though, in that respect, the Nexus 6P is one of the best phones we've seen. It essentially matches the Galaxy Note5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Indeed, the screen looks stunning, although, when viewed even at a slight angle, there is a noticeable color shift to a cooler tonality. This remains the case even when viewing the screen from the widest angle possible.</paragraph>
+			<paragraph>Speaking of colors, they are a little bit over saturated but not to the point of exaggeration. Upon digging through the developer settings, we found that you can turn off the punchy over saturated colors in favor of sRGB for a more natural looking color reproduction.</paragraph>
+			<paragraph>Our eyes feel a little relief when switching this option on. It really is a matter or preference, but it all boils down to personal preference. Unfortunately, however, this setting does not stick after a reboot.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>There are two different models for the Nexus 6P, a North American model and an international worldwide model with the only difference between the two is network compatibility.</paragraph>
+			<paragraph>Both models offer LTE Cat. 6 @ 300Mbps down and 50Mbps up, HSPA @ 42.2 down and 5.76 up, but the North American model has a CDMA radio on-board for compatibility with Verizon, Sprint, and Google's own Project Fi MVNO. All of this of course comes besides the regular GSM/EDGE connectivity.</paragraph>
+			<paragraph>The Nexus 6P offers 2.4GHz and 5GHz dual-band Wi-Fi, Bluetooth 4.2, and NFC, which is needed for Google's new Android Pay service.</paragraph>
+			<paragraph>Unfortunately, the Nexus 6P only supports data transferring at USB 2.0 speeds despite using the new USB-Type C connection.</paragraph>
+			<paragraph>Remember that 6-inch cable that came in the packaging with the phone? It can be plugged into a PC for file transfer but a minor annoyance is the connection will default to "Charge Only" and you need to manually switch to "File Transfer" in order to access the phone's files every time you plug it in.</paragraph>
+			<paragraph>If you want standard HDMI output there is a Type-C to HDMI adapter you can buy (Type-C monitors are still rare).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Huawei Nexus 6P battery life test<subsectionTitle>
+			<paragraph>The Nexus 6p battery capacity has received a modest capacity bump of 200 mAh from the Nexus 6's 3250 mAh to a 3450 mAh battery. Android's new Doze feature allows Android to use data from the device's motion chip to detect when a phone has been lying on a table for a while without being used. In this case it will automatically reduce email polling and social media notifications, which are two potentially battery hogs.</paragraph>
+			<paragraph>Our tests found that the Nexus 6P has excellent idle battery drain thanks to Marshmallow's Doze feature. Our call test scored generous 20:50h and the video test also did quite well at 9:59h, which comes out to losing about 10% for every hour of video. We feel, however, that the browser test could have performed a bit better, it scored lower than the video test at 8:35h.</paragraph>
+			<paragraph>Thanks to the fast-charging USB-Type C adapter. The Nexus 6P can get a full charge from under 15 to 100 in a little over an hour. This phone charges pretty fast. Even a 5 minute charge can make the difference between the phone staying alive when going out for a late night vs. running out of juice by the time you get home.</paragraph>
+			<paragraph>For either of these cases, the battery saver feature built into Android can help squeeze every last bit of juice. The Nexus 6P does an excellent job of keeping battery life overnight.</paragraph>
+			<paragraph>The Nexus 6P is finally the first time a Nexus device performed exceptionally well in the battery department, while the Nexus 6 has very similar battery life, Lollipop's lack of optimization didn't let the battery last as long as it does now with Marshmallow.</paragraph>
+			<paragraph>Our proprietary rating denotes the number of hours the phone will be operational if you are to make an hour of 3G talks, web browsing and video playback per day. Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+			<paragraph>The proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating. Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface: security and privacy get a boost<subsectionTitle>
+			<paragraph>Early on in Android's life phone makers and app developers took over the role of innovators, adding cool new functionality that the base OS did not have. Google has been incorporating the best ideas, but stock Android these days serves as a stable base on which value-added features are added by makers.</paragraph>
+			<paragraph>Google's innovation in Android mostly takes place in the internals, things like Doze that change how the fundamentals of the OS works. Even there Google is not without competition as basically every phone maker has its own power-saving implementation.</paragraph>
+			<paragraph>On the plus side, there's no bloat of features that may or may not prove useful, stock Android is a "Best of" album.</paragraph>
+			<paragraph>One of the niceties uses motion sensing to dimly light up a monochrome version of the lockscreen - just enough to see the time and any new notifications when you pick up the phone or take it out of your pocket. You can tap the screen to get the full color picture.</paragraph>
+			<paragraph>This feature is called Ambient Display and also triggers when a new notification comes in. There's no tap to wake though. The responsiveness of Ambient Display is just as inconsistent and unpredictable as ever. We personally prefer to use the LED notification.</paragraph>
+			<paragraph>The lockscreen itself is very familiar - a clock, notifications and a couple of shortcuts (voice assistant and camera, instead of the usual phone and camera, camera can also be triggered by double pressing the power button). Swiping down shows the quick toggles and the brightness slider.</paragraph>
+			<paragraph>The one thing we wish stock Android would bring from the skinned implementations is the Auto brightness toggle. You'll have to dig through settings for that.</paragraph>
+			<paragraph>Other than that you can pick the large-size toggles, the ones you'll use most often (Wi-Fi and Bluetooth by default). Long-pressing a toggle or hitting its down arrow brings out additional details, e.g. Wi-Fi settings and detected Wi-Fi networks respectively.</paragraph>
+			<paragraph>Nexus Imprint is the native implementation of fingerprint reader support on Android. We've seen makers already roll their own, but this one will make a common base for all apps. Imprint can be used to authorize purchases and sign you into apps, not just unlock the phone.</paragraph>
+			<paragraph>The fingerprint reader on the Huawei Nexus 6P is excellent. The setup was very quick and painless, you place your finger on the reader 5-6 times and you're done (some phones make you do it a dozen times and then want the tip of your finger).</paragraph>
+			<paragraph>The reader is active even when the screen is off, just place any finger you've set up and less than a second later the phone is ready (having skipped the lockscreen altogether).</paragraph>
+			<paragraph>Google has developed a number of ways to reduce the hassle. Secure locks can be disabled in trusted situations. This can be anything from a trusted place, through a trusted device (e.g. your smartwatch) to three biometric options: your face (susceptible to doppelgangers), your voice and even your body (unlock the device once and it stays unlocked while it's on your person).</paragraph>
+			<paragraph>After all this talk about locking options, we're finally at the homescreen and there's not much here - the Nexus 6P has one of the leanest app packages we've seen. This is the result of Google's promise to reduce the number of pre-installed apps for Marshmallow. At first it has just a single homescreen pane and most of it is empty. Even the list of all apps fits on one screen.</paragraph>
+			<paragraph>One thing, perhaps the biggest that the Google team continues to push back is the launch of multi-window support. Lollipop had the basics, but was never enabled in practice, same goes for Marshmallow. Several smartphone makers - even Apple! - have working, even good multi-window solutions but not stock Android.</paragraph>
+			<paragraph>Multitasking is done through the app switcher, a 3D rolodex menu. You can swipe apps to dismiss them. You can also check how much RAM was used by any app in the last few hours so memory hogs are immediately visible.</paragraph>
+			<paragraph>Another thing that has gained popularity, but is absent from the Nexus 6P, is theming support. To be fair, some of the most popular themes just make TouchWiz/Optimus/Sense/Whatever look like stock Android, but there are some fun themes out there too.</paragraph>
+			<paragraph>Multiple users are supported, you get an Owner and a Guest account to start you off. You can add more users, each with their own apps, their own wallpaper and so on. It's not a total division though, some settings (like Wi-Fi or app updates) affect all accounts.</paragraph>
+			<paragraph>While the experience of Android on the 5X was not to where we would have hoped, this is not the case with the Nexus 6P. The fusion of the Snapdragon 810, 3GB of RAM, and the Adreno 430 GPU result in a wonderful UI experience, absolutely free of hiccups or stutters.</paragraph>
+			<paragraph>With the announcement of Marshmallow at Google I/O, Google promised to cut back even more bloatware that comes preinstalled in the OS. We have to say, Google really delivered on this promise.</paragraph>
+			<paragraph>The App drawer is populated by only 29 pre-installed app icons, and many of the non-essential apps (like Play Games or News &amp; Weather) can be uninstalled from the device. This may come in handy if you got the 32GB model and need to squeeze out every megabyte you possibly can.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Permissions<subsectionTitle>
+			<paragraph>Permissions finally landed on Android. Each app - even the pre-installed ones - will ask permission before accessing your data. Permissions will only work assuming the developers have updated the apps to take advantage of permissions meaning that older or abandoned apps will use the old permissions Once you hit "Allow" they won't ask again (you can revoke the permission from the settings). To save you from spammy apps, the Deny option comes with a handy checkbox to make the denial permanent.</paragraph>
+			<paragraph>In the settings there's an App permissions option where you can see how many apps have been granted specific permissions or which permission have been granted to a specific app.</paragraph>
+			<paragraph>Also here is the Battery optimization feature. It lists which apps are not being optimized for minimal battery usage to make it easier to track down memory hogs. If this feature causes problems with some older apps, you can disable it individually.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Pay<subsectionTitle>
+			<paragraph>Google Marshmallow introduces Android Pay for the very first time. The Tap &amp; pay option in the settings menu helps you set up your mobile payment solution of choice. The default is the new Android Pay, but you can pick another one if you have it installed.</paragraph>
+			<paragraph>Google has further made sure that different payment options can co-exist peacefully by giving you the option to use the default payment option (say, Android Pay), unless you have another payment app open.</paragraph>
+			<paragraph>Naturally, any such app can use the fingerprint reader to ensure that people can't just pick up your phone and pay for stuff.</paragraph>
+			<paragraph>We tried using Android Pay at a Duane-Reade pharmacy. Unlock the phone and open the Android Pay app, choose your card, then tap the camera hump to the NFC terminal.</paragraph>
+			<paragraph>When using a debit card, sometimes the pay terminal will ask you for that card's PIN number. This feels counter intuitive to the whole tap-and-go experience. If you would like a smoother transaction experience, we recommend you use a credit card as your default fund source.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Nexus 6P packs a hefty punch with a top-of-the-line Snapdragon 810 v2.1 chipset. The Adreno 430 pairs very nicely with the latter for a perfect UI experience with velvety-smooth animations with absolutely no hiccups when switching back and forth between apps and performing basic tasks like opening apps and transitioning between windows.</paragraph>
+			<paragraph>As for gaming performance, particularly with Asphalt 8, the performance was less than perfect. Just remember, Asphalt 8 is quite a heavy application requiring a lot of horsepower. We simply wish it ran as smoothly as it did on the iPhone 6S, but we could be looking at it the wrong way.</paragraph>
+			<paragraph>Other, more casual games like Candy Crush, Subway Surfer, Granny Smith, and Temple Run 2 all ran perfectly without hiccups or dropped frames. Games look super fluid visually stunning thanks to the punchy colors of the Samsung-made AMOLED panel.</paragraph>
+			<paragraph>GeekBench 3 scores show the Nexus 6P just ahead of Apple A9 chip performance. Samsung's Exynos chipset still beat the Snapdragon 810 on the GeekBench test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Nexus 6P scored placed similarly in the Antutu test when comparing the scores to the GeekBench test above. The Exynos lineup beats the Snapdragon 810 setup just past the iPhone 6S's A9 chip.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>This is where we see that Android's graphics power is still not to par with iOS's custom GPU chip, even with Google's flagship phone packed with top-of-the-line CPU and graphics.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Our onscreen graphics test scored the same as the Nexus 5X, most likely due to the increase in pixels (1440p vs 1080p) despite the increased horsepower.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Nexus 6P was able to beat out the competition in our second offscreen graphics processing test. The Nexus 5X only pumped out 11fps in the same test while the Nexus 6P scored 17 fps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>It looks like Marshmallow has made some performance optimizations that were able to beat even the Exynos processors when it comes to the graphics department. Both the Nexus 6P and the 5X scored the same 11fps in this on screen test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The browser tests were done directly in the Chrome browser. The Nexus 6P scored best as a non-Samsung contender. The Exynos team did slightly better in browser performance while the iPhone 6S Plus blew all Android away in the browser tests.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>When using a separate browser test, the results don't reflect the outcome of the Kraken browser test. Browsermark ranked the Nexus 6P right in the middle of the other Exynos performers. The Nexus 6P performed even better than the Note5 did.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Not all benchmarks are created equally, which is why these benchmarks show the 6P ahead of all the other Exynos competitors but placed just behind the iPhone 6S Plus.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Our singe-core test revealed that the Nexus 6P is more capable of running everyday tasks quickly (since oftentimes the CPU will only be running one or two cores). The single-core test is designed to stress only one core in order to see how every day tasks (opening apps, sending SMS, loading webpages) will affect the CPU before it has to ramp up two or more cores for multitasking.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The multi-core test is used to measure the CPUs ability to perform multiple calculations at the same time. The Nexus 6P, however, scored lower than the Nexus 6 did, this could be due to the different CPU infrastructures: higher speed quad-core vs lower speed octa-ctore. The Exynos processors did better in these multicore tests. Whatever Samsung is doing, they are doing it right.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Basemark ES 3.1 placed the Nexus 6P above the other competitors but still not a match for the iPhone 6S Plus. It's still unbelievable how Apple has managed to optimize the software for these A9 processors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Nexus 6P overall did very well in our benchmark tests and scored consistently and comparably to the other Samsung competitors. The Nexus 6P was often at or just below the scores of Exynos-powered Samsung devices. With that being said, the Snapdragon 810 proves worthy of being a direct competitor to the Exynos processors and we hope to see them defeated with the first wave of devices powered by the Snapdragon 820.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The Nexus 6P's phone calls sound great with VoLTE on the T-Mobile network in New York City and greater Miami. VoLTE may not be available in most regions, although, HD Voice (used over 3G) is also an available feature with compatible carriers. Your service provider and the recipient you are calling must both have compatible carriers and hardware in order to take advantage of HD Voice or VoLTE.</paragraph>
+			<paragraph>Wi-Fi calls placed on the T-Mobile network are comparable to HD Voice quality and calls are able to carry over from Wi-Fi to LTE. This transition, though, is not very graceful. There are about 5 seconds of silence or stuttering on both ends while the call becomes rerouted through LTE upon leaving a Wi-Fi area.</paragraph>
+			<paragraph>Thanks to Smart Dialing finding contacts is super easy. Looking for "Taz" in your contacts? Dial 8-2-9 and the dialer finds a match. You can also tap the contacts tab to scroll through or manually type a name from your list of contacts (if you'd rather do it that way).</paragraph>
+			<paragraph>The stock dialer is also capable of finding local listings by typing in a search term, though, you are required to go into the dialer's setting and enable the location permission so it knows what area to look in.</paragraph>
+			<paragraph>Although the Nexus 6P features in-call noise cancellation, a few users have reported a noise cancellation bug which was causing audio inconsistencies on the recipient's end. Users suggest it's a software issue that's existed since the previous two Nexus iterations and puts the blame on Google's software team. Google has officially acknowledged the bug and promised to look into it.</paragraph>
+			<paragraph>The Nexus 6P received a "Very Good" rating in our sound tests and it's even borderline "Excellent". A smartphone with a speaker this loud is not too common these days. You shouldn't be missing any calls with it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Messenger, Not Hangouts<subsectionTitle>
+			<paragraph>Google's own Messenger app is the default SMS handler for the Nexus 6P. It's a very simple and minimally designed app with many features and customizations. The Messenger app lets you set individual notification sounds for specific contacts, as well as assign a color for the conversation bubbles on a per-contact basis.</paragraph>
+			<paragraph>The Messenger app lets you snap an MMS image or video clip directly in a mini-viewfinder that pops up over the input box. You can also attach existing images and videos, Google's stickers, voice notes, and a location pin-drop.</paragraph>
+			<paragraph>Google Messenger also allows for quick replies directly from the notification shade, expanding an SMS notification from the shade will give you the option to "Reply" from whatever screen you may be in.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Photos, still not a proper Gallery app<subsectionTitle>
+			<paragraph>Google Photos comes as the default gallery app that doubles as the photos backup, editing, and sharing tool all in one.</paragraph>
+			<paragraph>The gallery is so important to us and we really wish it had a better experience. Ever since the Nexus 6, the app's default view for photos is by throwing them all into one timeline. From here, you can hit the burger-menu and switch to "device photos" to see each individual folder.</paragraph>
+			<paragraph>We really wish this was the default view of the photos app. While it really depends on the user's preference, it is still rather annoying to have to dig through menus to find the last screenshot you took of a funny conversation. Though it's perhaps easier this way for the average Joe to find a photo he snapped at the lake so he can shoot it over to his buddy.</paragraph>
+			<paragraph>I guess it makes it more like an iPhone's camera roll in order to make it simpler for the average person. We just wish there was an option to change the default view.</paragraph>
+			<paragraph>Google Photos comes with unlimited cloud storage for all photos and videos. You can then access these from a PC, or you can use one link to share an album to anyone. All they have to do is open the link, and they can see all the pictures you've sent, no app required.</paragraph>
+			<paragraph>Google states that the uploaded photos will be uploaded in up to 16MP resolution and videos will be up to 1080p resolution. The better news, you can even use Google Photos on your desktop and combine all of your old (or new) digital camera photos with your mobile photos so you can technically carry your entire library of photos around with you (wherever you have an internet connection).</paragraph>
+			<paragraph>You can search by location, date, landmarks, objects (such as sunglasses or cats), and people. Though, people may not be properly grouped together and you may get Fred that appears under David even though they may not look the same. Besides that, it does an okay job of figuring out who is who and what is what.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Music - two options: free or the opposite<subsectionTitle>
+			<paragraph>Google Music is the default music player on the Nexus 6P. Free features include: the ability to upload and access up to 50,000 music tracks from your own cloud library, curated playlists powered by Google-owned Songza, and access to stream music from Google's extensive music library.</paragraph>
+			<paragraph>The free version does have ads however, and you are not able to cache online music for a later offline playback. You can, however, store your own uploaded music tracks for offline use. The free version also does not let you skip tracks when listening to curated playlists.</paragraph>
+			<paragraph>All Access, which the Nexus 6P offers 3 free months free for new users, removes ads and skip restrictions, lets you store music libraries and playlists for offline playback, and costs $9.99 per month for individuals and $14.99 per month for up to 6 separate users.</paragraph>
+			<paragraph>Google music does a great job of also opening little audio clips you may receive via email or SMS. A miniature player pops up allowing you to play, pause, and scroll through different parts of the clip. Hitting the back button will close the preview player.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output fails to impress<subsectionTitle>
+			<paragraph>The Huawei Nexus 6P went off to a good start in the audio quality test. The smartphone?s output was excellently clear when connected to an active external amplifier and it if wasn?t for its below average loudness we?d have called this a perfect showing.</paragraph>
+			<paragraph>Unfortunately plugging in a pair of headphones sends the stereo crosstalk sky high and results in even lower loudness. Dynamic range also falls a bit even if it still remains very good. Still with that kind of stereo we can?t really be happy with the Nexus 6P performance here ? not in the day and age when smartphones that cost half as much can beat it.</paragraph>
+			<paragraph>Anyway, here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The Nexus camera we wish we always had<subsectionTitle>
+			<paragraph>Google took a while to figure out the camera situation on a Nexus device and finally got it right this time.</paragraph>
+			<paragraph>Just like the Nexus 5X, the Nexus 6P has a 12.3 MP Sony sensor, a dual-LED flash, and laser autofocus. The differences between the two setups are at the mercy of the CPU's processing power which comes down to the Nexus 6P capable of 240fps @720p while the Nexus 5X is only capable of 120fps @720p.</paragraph>
+			<paragraph>The Nexus team has dropped OIS with the (lame) excuse they now have much larger pixels, which should help capture more detail and improve performance in low-light conditions. The truth is OIS is always a welcome addition even on professional cameras, so Google is essentially pulling wool over our eyes hoping people wouldn't mind the downgrade as much. While almost nothing can compensate for the lack of OIS, we still think Google has come up with one excellent camera setup.</paragraph>
+			<paragraph>To begin with, starting the camera from standby with a double press of the power key takes 1.1 seconds, which won't score any records, but is subjectively quite fast.</paragraph>
+			<paragraph>The camera UI is newly refined and features a minimalistic viewfinder without too many settings and options that can overwhelm some users. The photosphere and panorama modes are tucked away in the burger-menu while the video camera is just a swipe away.</paragraph>
+			<paragraph>The viewfinder itself offers two toggles - one for the LED flash and another for HDR+. Finding a combination between the two can be tricky. You can't set HDR+ On at the same time as flash, so the flash will switch to auto when you turn HDR+ on.</paragraph>
+			<paragraph>One thing we found out is that the automatic focus is not as accurate as we would have liked so we focused manually on the subject to get the best picture every time. The laser auto focus probably does a fine job in the dark, but an inherent limitation of this technology is that it works only at a maximum distance of 50cm and we didn't have many shots of this type.</paragraph>
+			<paragraph>Images come out clean and crisp for most of the time. If you want to have a nice looking photo every time, we recommend leaving the HDR+ mode turned on. Just know that pictures will take a little bit longer to capture and process this way. It's a bit of a tradeoff but it's worth it when taking pictures in low light or when exposures are not even. We definitely don't recommend using HDR+ on the front facing camera though, it doesn't work correctly and ends up lowering the overall exposure of the shot.</paragraph>
+			<paragraph>Pictures that were taken from a bit farther away made leaf-less trees appear "feathery". We feel like the images could be just a touch sharper. Sometimes our subjects appear to be soft when looking at these images on a larger screen. Viewing photos on the handset's screen, however, is a very pleasant experience.</paragraph>
+			<paragraph>HDR+ takes the highlights and/or shadows of the image and adjusts them to lighten up the darker areas and soften the harsher highlights of the image. The Nexus 6P's HDR+ only adjusts these subtly as to still keep the image looking natural. HDR+ sometimes makes highlights a little more saturated, notice the sky looks bluer in the second image with the waterfall than the first one with no HDR at all.</paragraph>
+			<paragraph>Sometimes HDR+ might darken spots that are already dark, notice the underside of the scaffolding in the first two images. Also, the rocks in the water are better lit in the one without HDR+ than the one taken with HDR+.</paragraph>
+			<paragraph>The camera performs quite well in low light situations with most of the photos coming out sharp. The camera does a good job of keeping the digital noise out of the final product and doesn't over process images either.</paragraph>
+			<paragraph>We took this photo at night at the Rockefeller Center Christmas tree. HDR+ lifts shadows out of the dark with minimal blurring. This is where those larger pixels in the sensor are really let the camera take great pictures and the laser autofocus lets also helps to produce minimal blurring.</paragraph>
+			<paragraph>The panorama we took blended different exposures quite well, we just wish it was able to stitch the photos properly. The photo became misaligned when the camera sees too many vertical lines and doesn't know where to stitch them.</paragraph>
+			<paragraph>The front-facing camera is a generous 8MP and takes above average images for a front camera. HDR+ didn't seem to work to an advantage. The selfies taken with HDR+ turned off had better exposure than those with HDR+ on. All the HDR+ did was darken the overall exposure.</paragraph>
+			<paragraph>Here's how the Nexus 6P compares with its predecessor, the Nexus 6, and its sibling, the Huawei G8, in our Photo quality comparison tool.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video Mode<subsectionTitle>
+			<paragraph>Swiping to the left in the camera app will switch the camera to Video mode. From here, you can tap the clock icon in the corner and switch to slow-motion capture. You can tap the button once more to switch to 240 fps capture, just remember the video quality will not be as good as the 120 fps mode.</paragraph>
+			<paragraph>Once captured, you can select the range of footage that you'd like to be in slow-motion. You are limited to only choosing one snippet for slow-motion, we kind of wish we were able to do multiple slow-motion selections from the same clip.</paragraph>
+			<paragraph>The Nexus 6P took great looking video, though, in our samples, when a bus drove past us at a diagonal, the camera had trouble figuring out where to focus. In other cases though continuous focus while shooting videos was smooth and transitioned from one object to the other without hesitation or jerkiness. So your experience with this may vary depending on the subject.</paragraph>
+			<paragraph>Otherwise, footage was well exposed and details were pretty clear. At this lighting just before sunset, we didn't notice any graininess in the video.</paragraph>
+			<paragraph>Once we dug through the settings, we were able to switch the video camera into 4K (UHD) video recording. While 4K recordings show more detail, our video samples reveal a slight, but noticeable oscillation throughout the video. This issue was not seen in 1080p recording, so it seems like 4K is still half-baked and we hope this issue gets resolved in a future software update.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download the following video samples directly:  -  1080p@30fps video (10s ~ 25MB) -  2160p@30fps video (10s ~ 51MB) -  1080p@30fps video (10s ~ 25MB) -  2160p@30fps video (10s ~ 53MB)</paragraph>
+			<paragraph>The front-facing camera did pretty well with 1080p videos and does a good job of keeping the correct exposure on the main subject. However, in the video sample, my voice was just barely audible over the sound of running water.</paragraph>
+			<paragraph>You can download this  1080p@30fps video (20s ~ 45MB) taken with the front facing camera.</paragraph>
+			<paragraph>The Video quality comparison tool gives a quick look at how video recording in the Nexus 6P has progressed since the Moto Nexus 6. The Huawei G8 tops out at 1080p so we replaced it with Apple's flagship phablet for this comparison.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Huawei Nexus 6P key test findings<subsectionTitle>
+			<paragraph>The hardware is beautifully designed with excellent attention to detail, though, front is boring to look at;</paragraph>
+			<paragraph>The AMOLED screen is gorgeous and dims to a comfortable level in pitch darkness, but color rendition is not on a calibrated level like it is on the Nexus 5X;</paragraph>
+			<paragraph>The fingerprint scanner is blazing fast and a welcome addition;</paragraph>
+			<paragraph>USB Type-C is convenient and offers fast-charging but the lack of OTG and TV-out support is a bummer;</paragraph>
+			<paragraph>Optimizations to Marshmallow allow for excellent standby battery life and we give it an endurance rating of 74h;</paragraph>
+			<paragraph>Excellent performer with no stutters or dropped frames in everyday tasks;</paragraph>
+			<paragraph>The loudspeaker is pleasantly loud and scores a Very Good mark;</paragraph>
+			<paragraph>The audio output quality through the 3.5mm jack, however, is on the quiet side and stereo performance is far from great, but the dynamic range and frequency response are very good.</paragraph>
+			<paragraph>The camera experience is finally comparable to other top cameraphones, low light shots are quite good;</paragraph>
+			<paragraph>1080p videos look good, 4K - not so much, auto focus in video is less than stellar.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final Words<subsectionTitle>
+			<paragraph>The Nexus 6P doesn't cut any corners and delivers well as this year's Google flagship. The price is considerably cheaper than an iPhone 6S Plus and still cheaper than the Nexus 6 was when it came out last year. The improvements and hardware updates make this Nexus the one to beat for the next iteration.</paragraph>
+			<paragraph>Huawei has done a wonderful job with the hardware and we applaud them. The release of the Nexus 6P will give them root to enter the US market and we hope to see more of Huawei on the State's side very soon.</paragraph>
+			<paragraph>The Nexus 6P truly feels like a flagship more than worth its price. The Nexus 6 was just too expensive for its own good, and those who are still holding onto their Nexus 5 for dear life now have two amazing devices to look at upgrading to. Google has hit the bull's eye with what we wanted in a Nexus device: a great software experience, a great camera, an eye-catching display, and beautiful hardware that holds it all together.</paragraph>
+			<paragraph>The Nexus 6P definitely gets our approval as one of the best Android phones of the year.</paragraph>
+			<paragraph>Starting at $500, it's some $250 less than the price of a 16GB iPhone 6S Plus. This amount gets you an Android, which is first in line for updates with twice as much memory, a larger screen and a great camera, loud front firing speakers, and a beautifully designed outer shell worthy of the price.</paragraph>
+			<paragraph>On top of all that, Google has done a superb job of relaunching its own payment system with Android Pay. Also, the stellar implementation of the fingerprint scanner authentication, now baked into Android, is a great addition to the Nexus family of devices.</paragraph>
+			<paragraph>The most obvious rival to the Nexus 6P is the predecessor separated with a large price gap. You can buy a brand new Nexus 6 32GB for $249.99 or a 64GB for $299.99 these days. It's still a steal at that price and Marshmallow offers new battery optimizations that'll keep your phone lasting longer.</paragraph>
+			<paragraph>If you are trying to choose between the 5X and the 6P, chances are you might be coming from a Nexus 5. The Nexus 5X is just about an upgrade from the Nexus 5, but you can upgrade to a Nexus 6P for the premium experience that you've been holding off for. Unless you don't want your screen to be too large, then you might as well go with the Nexus 5X, the problem is, you won't get anything larger than 32GB.</paragraph>
+			<paragraph>The Galaxy Note 5 and S6 Edge+ feature a 5.7-inch display, just like the Nexus 6P. These Galaxy devices also have great cameras and wide angle front shooters. They offer built-in wireless charging and Samsung Pay. Just remember that Samsung is one of the worst manufacturers when it comes to timely software updates. While they do promise to release security updates every month, you will be waiting several months before getting the latest Android release.</paragraph>
+			<paragraph>The LG V10 is LG's new flagship that's a beast of a phone. It offers everything we want in a sleek and modern package. The V10 has a removable battery, expandable memory, 4GB of RAM, a secondary screen for notifications and a dual front camera setup. The Nexus 6's fingerprint scanner works much better, also, the V10 has a Snapdragon 808 vs the 6P's 810 V2.1.</paragraph>
+			<paragraph>The 64GB iPhone 6S Plus is a full $200 more expensive than the 128GB Nexus 6P. It really depends on your OS preference and how much you are willing to spend. The 16GB iPhone will eat through memory quickly with Live Photos and 4K recording. We really wish Apple stopped offering the 16GB model since you can barely store anything on it. On all other levels, though, the iPhone 6S plus offers everything the Nexus 6P does, only at a much higher price.</paragraph>
+			<paragraph>About the same price as the Nexus 6P 64GB, the Moto X goes for $499.99 for the 64GB model. It offers the best of stock android with a bunch of Motorola's added features like Moto Voice, Moto Display, and Twist to launch the camera. These added features slapped onto near-stock Android offer quicker than usual updates and you can purchase or finance the device directly from Motorola so you can go right past your carrier.</paragraph>
+			<paragraph>These devices are almost out of their product cycle, but we figure people might have trouble choosing between these devices. The S6 and S6 Edge are around the same price but you may be able to snag yourself a deal on this phone over the holiday season. The Galaxy S6 and S6 Edge both offer Samsung's best, but just like the Note and S6 Edge+, you'll be waiting a while for the next Android update.</paragraph>
+			<paragraph>Google really made the mark with the Nexus 6P, we couldn't really find any faults with the phone, just maybe that the hardware was too nice looking and that made it feel pretty delicate. We feel like Huawei did a better job of making sturdy hardware that feels like it can take a beating. This phone is great news for both Huawei and Google. Google has been advertising the Nexus 6P much more than they ever promoted the Nexus 6. Also, Huawei finally made it's US debut as a premium smartphone maker and we can't wait to see what Huawei will bring to the flagship table in the future.</paragraph>
+		</subsection>
+	</page>
+</review>

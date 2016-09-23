@@ -1,0 +1,70 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Les Contes macabres</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2009</year>
+	<link>http://www.senscritique.com/livre/Les_Contes_macabres/449387</link>
+	<generalScore>8.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>34</numberOfVoters>
+		<numberOfVoters>94</numberOfVoters>
+		<numberOfVoters>108</numberOfVoters>
+		<numberOfVoters>60</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Il y a Burton, Malzieu et...Lacombe.</title>
+		<author>Wilane</author>
+		<date>2013-03-16</date>
+		<score>1.0</score>
+		<content>Entre horreur de Burton et poésie de Malzieu, le petit monde de Benjamin Lacombe n'en finit pas de me fasciner. Un illustrateur qu'on ne présente plus, qui fait son chemin sereinement entre plusieurs très beaux ouvrages notamment sur Blanche Neige et Alice. Alors une collaboration Edgar Alan Poe et Benjamin Lacombe, ça donne…un ouvrage parfait. La mise en page très clean, gothique, blanc et noir, l'aspect photo ancienne…Le terrifiant Char Noir, Le Coeur Révélateur tout aussi inquiétant…on nage dans un univers sombre et effrayant à lire le soir avant de se coucher pour écouter le moindre bruit étrange de la maison et se faire ses propres contes macabres. C'est terrifiant, efficace, beau.</content>
+	</review>
+	<review>
+		<title>Les contes de pas Noël sur les radios de l'Arc jurassien</title>
+		<author>Mei-mei</author>
+		<date>2010-12-17</date>
+		<score>1.0</score>
+		<content>À quelques semaines des contes de Noël racontés sous le sapin, Mei-mei et Fabrice prennent le contre-pied avec ce recueil de contes macabres, superbement illustrés par Benjamin Lacombe, jeune homme montant dans l'illustration pour enfants et adolescents.</content>
+	</review>
+	<review>
+		<title>Un sombre bonheur.</title>
+		<author>Darkian</author>
+		<date>2011-01-10</date>
+		<score>1.0</score>
+		<content>10 étoiles bien méritées, pour une édition sublime, délicatement réalisée. Replongez dans l'univers mélancolique, glauque, fataliste et délicieusement triste de Poe qui trouve un compagnon idéal en la personne de Benjamin Lacombe, illustrateur de talent dont le spleen est au bout de chaque coup de crayon.</content>
+	</review>
+	<review>
+		<title>Les Contes macabres</title>
+		<author>Plume</author>
+		<date>2010-06-17</date>
+		<score>0.9</score>
+		<content>Bienvenue dans le monde terrifiant de Poe ! A travers sept nouvelles du maître de la peur traduites par Baudelaire (Bérénice, le Chat noir, L'ile de la Fée, Le Coeur Révélateur, La Chute de la Maison Usher, Le Portrait Ovale et Morella) Lacombe célèbre le bi-centenaire de l'auteur par ses talentueuses illustrations : un livre magnifiquement sombre... Pas besoin d'ouvrir longtemps ce très beau livre pour déjà être sous le charme : la mise en page, le soin minutieux de la couverture et le sens du détail en font déjà un livre rare. Ajoutez à cela quelques nouvelles à la fois sombres et géniales de Poe, illustrées de main de maître et vous aurez une idée du résultat. On plonge littéralement dans l'univers de Poe, un monde à la fois étrangement terrifiant et beau... [Critique complète et illustrations sur le lien]</content>
+	</review>
+	<review>
+		<title>Les Contes macabres</title>
+		<author>FéeLé</author>
+		<date>2010-10-11</date>
+		<score>1.0</score>
+		<content>Sublimissime ! Les oeuvres d'Edgar A. Poe illustré par Benjamin Lacombe = Un cocktail merveilleux !!! J'ai pris un plaisir immense a relire les oeuvres de poe avec ces visuels magique !!!</content>
+	</review>
+	<review>
+		<title>Les Contes macabres</title>
+		<author>Gzavié</author>
+		<date>2012-05-20</date>
+		<score>0.8</score>
+		<content>Pour qui ne connait pas trop Sir Edgar Allan Poe ce livre est la pour ça ! Bien illustré , couleur sombre , macabre , ... du Allan Poe en fin de compte ! Joli à lire et regarder.</content>
+	</review>
+	<review>
+		<title>E-A POE</title>
+		<author>Ronan_LB</author>
+		<date>2015-07-17</date>
+		<score>0.9</score>
+		<content>L'art de l'étrange</content>
+	</review>
+</sensCritiqueEntity>

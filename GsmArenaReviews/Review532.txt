@@ -1,0 +1,266 @@
+<review>
+	<title>Oppo F1s review</title>
+	<description>A second take</description>
+	<link>http://www.gsmarena.com/oppo_f1s-review-1476.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Oppo F1s key features<subsectionTitle>
+			<paragraph>Beefed-up selfie camera: 16MP, 1/3.1" sensor size</paragraph>
+			<paragraph>154.5 x 76 x 7.4 mm, 160g body</paragraph>
+			<paragraph>5.5" 720 x 1,080px LCD with 267 ppi; 2.5D scratch-resistant glass</paragraph>
+			<paragraph>ColorOS V3.0.0i , based on Android 5.1 Lollipop</paragraph>
+			<paragraph>Very quick and accurate fingerprint reader in the home button</paragraph>
+			<paragraph>MediaTek MT6750 chipset, octa-core 1.5GHz Cortex-A53 CPU; Mali-T860MP2 GPU; 3GB RAM</paragraph>
+			<paragraph>13MP, f/2.2 camera with 1/3" sensor size; 1080p@30fps video recording and phase detection autofocus; Single LED flash</paragraph>
+			<paragraph>32GB of built-in storage and a dedicated microSD card slot</paragraph>
+			<paragraph>Dual-SIM connectivity</paragraph>
+			<paragraph>LTE Cat.6 (300Mbps); Wi-Fi a/b/g/n; A-GPS/GLONASS receiver, Bluetooth v4.0, FM radio with RDS</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>3,075mAh non-removable battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main shortcomings<subsectionTitle>
+			<paragraph>No OIS</paragraph>
+			<paragraph>No VOOC fast charging support</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Oppo has always had its own way of standing out among the growing crowds of Chinese phone manufacturers and judging by sales reports and fan approval, the OEM seems to be doing at least something right.</paragraph>
+			<paragraph>The F-series of affordable, camera-centric devices has played a vital part in this success formula since the beginning of 2016. The Oppo F1, the original "selfie-expert", managed to appeal to a surprisingly broad user base. Its obvious selling-point aside, the F1 proved to be a quite decent all-round mid-ranger with fast performance, great build quality, excellent display and nicely sounding speaker.</paragraph>
+			<paragraph>But it was the F1 Plus, the follow-up that came a couple of months later, that really got the series popular. It ushered in a design change and addressed many of the weak points of its predecessor, with additions like a bigger, 1080p AMOLED panel, MediaTek Helio P10 SoC, 4GB of RAM and an even better 13MP selfie shooter. Naturally, the price point was changed as well, almost doubling the $250 or so asking price of its predecessor. Despite the price hike, however, the F1 Plus sold quite well helped by a successful marketing campaign. At one point Oppo even claimed it is shipping an R9 unit (its model name in China) every 1.1 seconds for a total of over 7 millions about two months ago.</paragraph>
+			<paragraph>With such numbers, it is only natural for the Chinese OEM to do the best it can to keep the ball rolling. Enter the F1s. It is a rather controversial step that could either make or break Oppo's next few quarters. Instead of leaning on the popularity of the F1 Plus formula, Oppo apparently decided to bring its prices back down again and re-focus on the budget segment. This has resulted in a device that is in the original F1 price league with a $270-ish price tag, but also way too close to it specs-wise for anyone looking for an upgrade.</paragraph>
+			<paragraph>It looks like Oppo tried to make a cheaper version of the F1 Plus, but they might have just gone a step too far in slimming down the specs of their new proposal. What this means is that performance-wise, the F1s positions itself dangerously close to the original "Selfie expert," which is far from ideal when you are spending close to $300.</paragraph>
+			<paragraph>This all sounds quite gloomy, but at least the F1s has the stylish and slick new exterior design going for it. Follow along in the next section for a more in-depth look.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Oppo F1s<subsectionTitle>
+			<paragraph>Similar to previous "F" family devices, Oppo hasn't cut any corners when it comes to presentation. The F1s arrives in a pretty solid two piece cardboard box, with an extra sleeve on top.</paragraph>
+			<paragraph>Inside the box, we find a plastic tray for the unit and underneath it, a sturdy cardboard box, containing some leaflets and a bonus transparent soft silicone case for the phone.</paragraph>
+			<paragraph>Underneath it, a piece of plastic is designed to hold a pair of nice-looking Oppo earbuds. Right next to them is the wall charger, which sadly doesn't have any green coloring on the USB port. That means that just like the original F1, the F1s doesn't support Oppo's excellent VOOC fast charging technology. This is another major step away from the F1 Plus, which does come with VOOC support and the necessary power brick and cable. All you get here is an ordinary 2A charger and a simple white USB cable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Oppo F1s 360-degree spin<subsectionTitle>
+			<paragraph>The Oppo F1s measures 154.5 x 76 x 7.4mm, keeping its metal shell surprisingly thin. It tips the scales at 160g, which is a bit more than the original F1 and even the F1 Plus. However, the extra weight has gone towards a battery capacity increase to 3075 mAh (vs. 2500 mAh on the F1). That's a trade-off we would gladly take any day of the week.</paragraph>
+			<paragraph>As far as bezels go, Oppo has reduced them quite a bit compared to the F1, but the F1 Plus still has the upper hand when it comes to slim bezels.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>Other than that, the Oppo F1s has taken a lot of design cues from the F1 Plus, and we don't object as the latter is a great role model. There's the familiar slick metal exterior, as well as the nice finish and the 2.5D effect on the front glass edges.</paragraph>
+			<paragraph>The substitution of the AMOLED panel from the Plus model with a simpler LCD has also had its adverse effects on the side bezels. The F1s can't come close to the 1.66mm thin bezels of the F1 Plus but still looks more refined than the original F1. The 2.5D glass finish also ties the whole design nicely together. There is also a factory pre-installed screen protector on the phone (they haven't done the best job out of fitting it on our specific unit, but it's a freebie so we don't mind.</paragraph>
+			<paragraph>Other than that, the front of the phone looks incredibly clean - there is no branding whatsoever. The only elements that can be seen here are the rounded home button and two subtly backlit navigation keys next to it. The front should also be quite sturdy too as it comes covered with a front glass made of Gorilla Glass 4.</paragraph>
+			<paragraph>The button is not only a design trait carried over from the F1 Plus but also brings along the older model's excellent fingerprint reader. It is one of the fastest we have seen. Clicking the button near instantaneously lands you on the homescreen, which feels more like the backlight just turned on than what happens, where the phone scans your print and then unlocks the phone.</paragraph>
+			<paragraph>Oppo has also cleverly eliminated any homescreen animation, so the icons don't waste any time, and the homescreen just appears instantly as soon as you press the home button. And the sensor is not just fast but also accurate, with next to no failed attempts despite the lightning fast scanning rate.</paragraph>
+			<paragraph>Unlike the F1 Plus, however, the reader isn't always on. That means that simply putting your finger on it won't wake and unlock the device; you have to push the button - much like you would on an iPhone. The good news is that once you get into the habit of pressing the control, you won't even notice the absence.</paragraph>
+			<paragraph>The back is also a looker. It appears to be made out of metal for the most part. There are plastic antenna strips on the top and bottom, colored in a slightly different shade. Unlike the F1 Plus, Oppo didn't boast about the metallic ratio or manufacturing process of the F1s, but going by looks and feel alone, we would say the F1s is made from materials of the same grade of quality. However, it is worth noting that the device is still pretty slippery without a case.</paragraph>
+			<paragraph>The back gently curves upwards and then turns flat along the sides, ending in a mirror-finish chamfer. But the sides don't quite blend into the display; instead, the display is slightly raised, which gives the glass a slight edge that you can feel with your thumb.</paragraph>
+			<paragraph>The sides of the Oppo F1s are quite clutter-free. There is nothing on top, beside a small secondary noise-canceling microphone.</paragraph>
+			<paragraph>The bottom is a bit busier and houses: the 3.5mm audio jack, the primary microphone, the microUSB port, then finally, the speaker (a single one).</paragraph>
+			<paragraph>The left side only features a pair of volume buttons, near the very top of the frame. The buttons are conveniently located while holding the phone in hand but accessing them while the phone is lying flat on a table is a bit difficult due to their shape and location.</paragraph>
+			<paragraph>On the opposite side, we find the power button, positioned within perfect reach of your index finger or thumb. The only other thing present is the Dual SIM card tray, which also has a slot for a microSD card. It is worth noting that the slot in question is dedicated, which is a first for the "F" family and oddly still a rarity as a whole.</paragraph>
+			<paragraph>We appreciate the convenience of not having to choose between a second SIM card or extra microSD storage on the F1s. Instead of a hybrid DualSIM slot, this one comes with a tray that can house both two SIM cards as well as a microSD card.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>5.5-inches currently seems to be the sweet spot for a smartphone and Oppo has picked up on that. This is one aspect of the best-selling F1 Plus that has been preserved, however, size is only one part of the equation that makes for a good display. To keep costs down, the Chinese OEM has cut back on both technology and resolution.</paragraph>
+			<paragraph>The Oppo F1s ditches the superior AMOLED panel of the F1 Plus and relies on a much simpler LCD one, just like the original. While there is nothing wrong about that, the 720p resolution is stretched a little thin on the large area making for a noticeable decrease in quality compared to the original. There is still no pixelation or any noticeable fuzziness unless you look close, but there is a slight bump down in sharpness.</paragraph>
+			<paragraph>The panel used in the F1s also seems to be pretty close regarding performance to that in the original F1. It gets fairly bright at 420 nits, and the contrast is decent at 933:1. When showing an all black image, there is almost no light bleeding from the backlight either.</paragraph>
+			<paragraph>So overall, the screen may not be the best one we have seen, but it's still decent with the low resolution being our only serious grudge with it.</paragraph>
+			<paragraph>The same goes for sunlight legibility.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Color accuracy is also about average, nothing special or impressive. The average deltaE being around 6.9 with the maximum drifting all the way out to 14.8. Overall, the panel on the F1s is about what you would get out of the original F1, only half an inch bigger in diagonal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>As already mentioned, the Oppo F1s conveniently offers two separate nano SIM card slots, neither of which gets in the way of the microSD. As for speed, you get Cat. 6 LTE with a theoretical maximum of 300 Mbps downstream and HSPA+. Other Internet connectivity options include Wi-Fi a/b/g/n (150Mbps speed, there's no ac).</paragraph>
+			<paragraph>Local connectivity includes Bluetooth 4.0, sadly not 4.1. You don't get NFC either, but this seems to be the trend with Oppo's devices. This omission may not be a big deal for you but it means you can't use your phone with a contactless payment solution, so this may or may not be an issue depending where you are coming from.</paragraph>
+			<paragraph>The microUSB 2.0 port handles charging and data, but it also supports USB OTG so you can hook up external hardware to the phone. However, to use this feature, you need to switch its toggle, which is 'hidden' in the Settings menu.</paragraph>
+			<paragraph>You do get FM radio as well, as a more old-school source of music and entertainment. However, there is no added functionality here such as RDS, broadcast recording or track recognition.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery<subsectionTitle>
+			<paragraph>If we had to point out one aspect in which the Oppo F1s feels like an upgrade over its predecessors it would have to be the battery capacity (oh and the front-facing camera of course, but more on that later).</paragraph>
+			<paragraph>The new smartphone offers a 3075 mAh battery (sealed in), which is higher than both what the F1 (2,500 mAh) or the F1 Plus (2,850 mAh) have. Also, if there is a silver lining to using a lower resolution screen and an underclocked processor, battery endurance has to be it.</paragraph>
+			<paragraph>The Oppo F1s managed a respectable 75-hour endurance rating in our battery test, which is marginally better than what the F1 Plus got. The individual call, web browsing and standby times have all been improved compared to the F1 Plus. Video playback, however, appears to be a bit more power-hungry this time around - likely an issue with optimization.</paragraph>
+			<paragraph>The F1s behaves better with two active SIM cards as well, so the marginally thicker profile needed to accommodate the bigger battery seems to be well worth it. However, we have to admit we expected the difference compared to the F1 Plus to be somewhat bigger.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>In typical Oppo fashion, the Oppo F1s is running the company's deeply customized ColorOS. Like the majority of platforms out of China, ColorOS is based on Android (in this case 5.1 Lollipop), which still allows it to take full advantage of Google's ever-growing ecosystem of apps and services, although it is becoming increasingly dated. The model to be sold outside China has the Google Play services pre-loaded, along with the full set of the search giant's apps.</paragraph>
+			<paragraph>Yet this is about where any similarities with AOSP end. ColorOS has always had its own approach to Android, which more often than not is similar to the iOS approach to things. This fact is probably truer than ever with the new ColorOS V3.0.0i, powering the Oppo F1s. Its visuals are notably different than those of v2.1.0i which the original Oppo F1 was running when we reviewed it.</paragraph>
+			<paragraph>The UI is flat, vibrant and colorful. It's a playful look that we find fitting, but that certainly won't be to everyone's tastes.</paragraph>
+			<paragraph>The first thing that greets you when you pick it up is the stylish lock screen interface, which is never boring thanks to what Oppo calls Lockscreen magazine (we first saw that feature on Huawei's phones, and we love it). You get a new lockscreen image every time you wake up the phone. It sources the photos from an online database automatically, and you can pick your favorite categories of images from a list.</paragraph>
+			<paragraph>Scrolling left or right on the lock screen cycles through your current image feed, so you can always find that image you dismissed a bit too quick. You can also pin images so they will stay there until further notice.</paragraph>
+			<paragraph>The fingerprint reader integrated into the home button, provides an easy-to-use extra layer of security. It can be employed to limit access to certain apps or even files, but most people are typically going to use it for unlocking the phone.</paragraph>
+			<paragraph>Unfortunately, the reader on the Oppo F1s is not always on, so you have to tap the button before you can use the reader. Other than that, it works impressively fast and is quite accurate, and if you get into the habit of pressing it every time you need it to start reading, you won't even know its there. Oppo has also added the ability to map specific fingerprints to apps and launch them quickly. Neat!</paragraph>
+			<paragraph>Moving on to the Launcher we see once again Oppo has skipped the app drawer. You get a home screen with digital date and time near the top and a variable number of other screens to the right of it. You can use folders to group the apps on your home screen.</paragraph>
+			<paragraph>And, if you fancy a new look, Oppo has included a powerful theming engine, that can tweak any part of the interface for you with many styles, which are available for download through the provided repository.</paragraph>
+			<paragraph>A swipe from the top shows the notification shade, which has two sideswipe-able tabs. The first showing the actual notifications, along a per-app notification management option, while the second is reserved for quick toggles.</paragraph>
+			<paragraph>There isn't much else going on in the home interface and probably for the better. ColorOS V3.0.0i offers a hassle-free, de-cluttered experience, which the majority of people will probably appreciate.</paragraph>
+			<paragraph>However, things get a bit weirder once you get to the Settings menu. Perhaps, in an effort to over-simplify things, Oppo might have made them rather chaotic. The thing we are referring to in particular is the large section of the settings menu dedicated to the Oppo stock apps. While having access to these settings is a good thing, most of them arguably belong within the settings of their corresponding apps. It is not convenient at all to lack access to things like viewer grids or location tags from withing the camera app and have to go to the setting menu to change it.</paragraph>
+			<paragraph>As with many other Oppo devices, the F1s is big on gesture controls. There is a vast array of things to choose from, including some industry standards, like taking screenshots, enabling one-handed mode or auto answer and flip to mute.</paragraph>
+			<paragraph>However, there is also a whole other section of swipe gestures that work when the screen is off. Here you can even define swipes of your own. Oppo has found a way to keep gestures going while the phone is asleep, which makes the fact that the fingerprint reader got no such treatment even more disappointing.</paragraph>
+			<paragraph>The final thing worth mentioning is a power saving feature in this version of ColorOS, which works somewhat similarly to Doze. Unfortunately, it is far too aggressive and tends to suspend apps in the background, including messaging apps, which means you often miss your messages. It's not uncommon to open Hangouts or WhatsApp and get all your messages at once. There is an option in the Settings to freeze individual apps and not allow them to run in the background but even with it disabled the OS still heavily controls app's background activity. This does help the phone in the battery life department, but there is a tradeoff at hand.</paragraph>
+			<paragraph>Circling back to where we started, Oppo seems to have taken inspiration from iOS. It's not uncommon to see Chinese OEMs go down this route, but there's usually some originality whereas Oppo has chosen to copy quite slavishly and rather brazenly. The iOS influence can be seen everywhere in the UI - whether it is the iOS style homescreen layout, the default app icons, the multitasking app screen, the way you can swipe down on the homescreen to bring search (Google Search, in this case), the volume popups, the Settings app, the Camera app, the power-off dialogue, or even the wallpapers, it's certainly there for good or bad.</paragraph>
+			<paragraph>For Oppo's sake, however, the user experience after the last redesign is vastly improved over its previous versions of ColorOS and this version is significantly cleaner and easier to use, so from a user's perspective things are looking as good as ever.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The original Oppo F1 got a mid-range chipset courtesy of Qualcomm. However, the Chinese OEM decided to follow up with MediaTek chips on the F1 Plus and the F1s. That definitely isn't a bad thing in itself, however, while the former got some decent, although not too powerful Helio P10 silicon, the latter is stuck with a downgraded version.</paragraph>
+			<paragraph>Compared to the MT6755, the MT6750 isn't true octa-core and has a lower clock speed on both the CPU and GPU. Plus, it also lacks the benefits of the 16nm production process. Performance-wise this all leaves the F1s at pretty much the same level as the original F1 if not worse. And that is not ideal for a proper successor smartphone, isn't it?</paragraph>
+			<paragraph>At least you still get 3GB of RAM, which is plenty for multitasking, and the 720p resolution is quite easy on the silicone when it comes to gaming performance. But overall, synthetic benchmarks look disappointing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>When given a multi-threaded task, the strength in numbers shines through, but individually, the Cortex-A53 cores fail to impress. At least the phone always runs cool and even under pressure it never gets warm.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GPU performance tells the same sad story. The 720p display resolution does help the F1s to some extent with on-screen performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X (medium)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Putting numbers aside, we are satisfied with the real-life performance especially at this price point. There are some dropped frames occasionally while navigating the UI or scrolling through apps but in general, the phone behaves itself and is no problem to use.</paragraph>
+			<paragraph>However, if you are looking for a strong performer for heavy workloads, the Oppo F1s is perhaps not the best option.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Contacts and telephony, messaging<subsectionTitle>
+			<paragraph>The Oppo F1s and ColorOS V3.0.0i offer a very straight-forward approach to telephony. You get a single app that incorporates the dialer and contacts directory on two separate pages.</paragraph>
+			<paragraph>The former is about as clean as they come. There is nothing fancy to play around with and even the few options that are available for the interface are in their own sub-menu inside the phone settings. Still, we never found anything vital missing from the app. There is even smart dial out of the box.</paragraph>
+			<paragraph>The contacts segment of the app follows the same minimalist ideology. Still, available fields and customization options per contact are plentiful, and again, nothing is missing, it just looks slick and clean.</paragraph>
+			<paragraph>Pretty much the same goes for the Messages app. Even the attachment options look kind of bare-bone.</paragraph>
+			<paragraph>The loudspeaker of the Oppo F1s won't blow you away, but it does appear to be refined. It might not be a major leap forward, but the F1s did manage to pass narrowly into the "Good" grade window.</paragraph>
+			<paragraph>Still, other company offers like the R7 Plus have proven the Chinese OEM can do even better.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>App package<subsectionTitle>
+			<paragraph>As for pre-loaded apps, we already mentioned that the Oppo F1s comes with all Google apps already on board. The company also brings you a few notable Oppo apps as well. You get a fully-featured file browser, including FTP. There is also a calculator, a sound recorder and a compass, all done with the same minimalistic approach.</paragraph>
+			<paragraph>The Calendar, Clock, and Weather apps all stick to the "less is more" philosophy as well.</paragraph>
+			<paragraph>WPS office is also pre-loaded to handle all your document needs.</paragraph>
+			<paragraph>For browsing the web, there is a default browser courtesy of Oppo. It bears a striking visual and functional resemblance to Opera for Android and even has a "Powered by Opera" loading screen. It not only works great but also has the benefit of Opera's signature data-saving technology.</paragraph>
+			<paragraph>And, of course, there are default apps for handling video and audio playback as well, but more on that in the multimedia section.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The gallery<subsectionTitle>
+			<paragraph>The default Gallery on the Oppo F1s is also straightforward to the extreme. You get a total of two interfaces, the first being a photo stream and the other - a split up view, organized in convenient image sets.</paragraph>
+			<paragraph>There is a bit more functionality, hidden under the hood. The edit option, for one, offers a pretty decent number of tools. You can quickly crop an image or doodle on it. There are also filters available.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The default music player is just that - a music player, nothing more, nothing less. You get all the basics, like categorized browsing (track, artist, album) and a very clean playback interface with some default animations as well as album art support.</paragraph>
+			<paragraph>You also get playlists and even favorites. You can also apply an equalizer by enabling Dirac Sound option which, however, is buried in the settings menu.</paragraph>
+			<paragraph>You get an FM radio app as well. It works fine, but is also pretty basic seeing how the receiver does not support RDS and there are no extras like TrackID or recording.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The video player is a basic app as well, which offers clean looks but almost nothing in terms of advanced features. There is one notable exception - you can play clips in a hover window. The video player supports playback of DTS audio codec but not AC3 audio codec.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output not very clean<subsectionTitle>
+			<paragraph>The Oppo F1s did poorly in the active external amplifier part of our audio quality test, which is not a good start. While its volume levels were very high, the clarity just wasn?t there, and we recorded poor dynamic range and signal-to-noise ratio as well as plenty of distortion. The stereo crosstalk was higher than most competitors manage with headphones.</paragraph>
+			<paragraph>With that serving as a base, we didn?t have very high expectations for the headphones test. It brought more of the same only this time loudness also fell to below average and frequency response got even shakier. A poor showing no matter how you look at it.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP on the back, 16MP on the front<subsectionTitle>
+			<paragraph>"Selfie Expert" has been the official slogan of Oppo's "F" family devices for a third iteration now and that claim is clearly supported by the numbers. The highlight of the F1s is the impressive camera setup that makes for the lofty title of 'Selfie expert'. This is one aspect in which the new model matches its more expensive sibling and outshines the original F1, at least on paper that is.</paragraph>
+			<paragraph>What we'd normally call the primary camera on the back uses a 13MP sensor as opposed to the 16MP of the front-facing cam. The rear camera also gets a slower lens - f/2.2 versus f/2.0 on the front.</paragraph>
+			<paragraph>A Type 1/3.1" sensor is pretty large as selfie cameras go but the primary camera on the back is still larger. The rear cam also gets a LED flash (single diode) while the front resorts to lighting up the screen to show your smile.</paragraph>
+			<paragraph>The 13MP shooter on the back also has phase detection autofocus, while fixed focus is all you get on the front. Other powerful selfie handsets like the Sony Xperia XA and XA Ultra have auto focus for the front camera as well, but this feature, in particular, is not paramount for taking good selfies at an arm's length.</paragraph>
+			<paragraph>The camera app is similar to the one on previous Oppo devices, only simplified. Side swiping on the viewfinder lets you switch between stills and video recording, as well as Time-lapse, Panorama and Beauty modes. The flash and HDR buttons aren't toggles - instead, they pop open a menu to select the relevant option.</paragraph>
+			<paragraph>The button which resembles aperture blades gives you the option to select what acts as shutter release - Normal means only the virtual shutter button does the job, Touch takes a shot when you tap anywhere on the viewfinder, while Voice will capture an image when you say "Cheese." Alternatively, you can wave your hand at the camera to capture a selfie photo.</paragraph>
+			<paragraph>Going into the shooting modes, you get Ultra HD, which produces 51MP images through some clever image stacking. Regardless of the cheesy name, the resulting photo is nice even if it's similar to what you would get by upscaling the image on your computer.</paragraph>
+			<paragraph>Filters is the shooting mode for sharing on social media, while Double exposure can create interesting effects with moving subjects. There's also a dedicated GIF mode.</paragraph>
+			<paragraph>However, it's the Expert mode that got our interest as it gives you proper manual control over shooting parameters. You get to choose between 7 white balance presets, exposure compensation can be set in the -3EV/+3EV in half-stop increments, and ISO can be manually set anywhere between 100 and 1600. Manual shutter speed can only be set from 1s to 16s, or Auto, so you don't get to pick fast shutter speeds. There's also the option to record RAW images.</paragraph>
+			<paragraph>Overall image quality is good. The Oppo F1s produces shots with an acceptable level of detail, but sadly it is far from the level of precision we saw from the F1 Plus. The hardware looks to be the same on paper, but something went wrong with the whole camera experience. Unlike its more expensive sibling, the F1s struggles to maintain sharpness around the corners. Also, instead of oversaturating colors, this time around they are quite toned down, perhaps even a bit dull.</paragraph>
+			<paragraph>But probably the biggest issues the F1s has is its unreliable auto exposure. This is an area in which we praised the F1 Plus, but this phone often struggles with exposure and can't seem to make up its mind for subsequent shots. You can still get the perfect shot in Expert mode, but in Auto you occasionally end up with a series of different looking shots of the same thing because of the way the Auto setting vary from shot to shot.</paragraph>
+			<paragraph>As for the positives, HDR mode seems to work quite well. The shift in exposition can be seen in the shots below taken seconds apart under the same conditions in Auto mode.</paragraph>
+			<paragraph>The Oppo F1s still has the same issues with Panorama as its predecessors did. The overall exposure is good and so are colors and the stitching is near perfect, which all makes the shots look really nice on the phone's screen itself. However, Oppo has decided to provide a rather ambitiously high resolution, and once you zoom in on a bigger screen, the lack of fine details is readily apparent.</paragraph>
+			<paragraph>You can take a look at how the Oppo F1s stacks up against the competition in our Photo Compare Tool.</paragraph>
+			<paragraph>   Oppo F1s: photo quality comparison</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>16 MP selfie camera isn't amazing, but looks improved<subsectionTitle>
+			<paragraph>Back when the F1 Plus originally brought about the upgraded 16MP front-facing camera, we had high hopes. However, the shooter in question got a rather disappointing implementation back then. This time around there seem to be some improvements, but there is still a lot to be desired.</paragraph>
+			<paragraph>Still, there isn't all that much of competition when we compare the selfie samples with that of the aforementioned Sony Xperia XA and even more so the XA Ultra - both of which are notably superior in this respect.</paragraph>
+			<paragraph>Oppo advertises a new Beautify algorithm in the F1s and it does subjectively look sort of better than previous iterations, but the level of weirdness in the end results is still a bit too high for us. All samples were taken with a medium amount of the "rosiness" effect applied in case you were wondering.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The Oppo F1s shares the video recording interface of its sibling as well. It is as simple as they come. You get a dedicated viewfinder which unlike the F1 Plus is accurate - great for proper framing and you get a total of three toggles - one flips to the front camera and back, the other toggles the LED and finally there is a selection between 720p and 1080p mode.</paragraph>
+			<paragraph>Video recording is nothing special on the Oppo F1s - it tops out at 1080p/30fps, there's no 4K recording. The videos have a bitrate of 17Mbps, which is on the low side of average. Audio is recorded in stereo with a 128Kbps bit rate.</paragraph>
+			<paragraph>Video quality is nothing special. The output is soft and could use some extra detail. However, samples tend to subjectively look a bit better than those from the F1 Plus. The autofocus works well and isn't prone to hunting. Interestingly enough, the F1s seems to do a much better job in choosing proper exposure in video mode than when capturing stills.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download an untouched video sample here - 10 seconds, 20.1MB.</paragraph>
+			<paragraph>Finally, you can check out our Video Compare Tool to see how the Oppo F1s fares against the competition when it comes to video capturing.</paragraph>
+			<paragraph>   Oppo F1s: video compare tool (1080p)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>Build quality is superb, fit and finish is exemplary, though the design isn't exactly original.</paragraph>
+			<paragraph>The screen could've been brighter, colors are a good compromise between punch and accuracy; sunlight legibility is decent.</paragraph>
+			<paragraph>Battery life is very good across the board, except in video playback where the F1s is only about average.</paragraph>
+			<paragraph>The user interface is heavily influenced by iOS, bordering on plain copying. There's hardly any bloatware pre-installed though, which is always nice.</paragraph>
+			<paragraph>Performance is average all around. The CPU and GPU are both underpowered, and overall the handset tends to fall slightly short even of the original F1 performance level.</paragraph>
+			<paragraph>The loudspeaker falls in the Good category in our test, which is good news.</paragraph>
+			<paragraph>The 13MP rear camera captures detailed images, but has trouble with the edge-to-edge sharpness and auto exposure control.</paragraph>
+			<paragraph>The 16MP selfie camera doesn't quite live up to the expectations, images are not as detailed as the resolution would suggest and they are a bit on the soft side.</paragraph>
+			<paragraph>1080p video quality is subpar.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>It seems the idea behind the F1s was to make an F1 with a bigger screen or a more affordable version of the best-selling F1 Plus. It seems they've succeeded in both goals.</paragraph>
+			<paragraph>Deciding whether the Oppo F1s is worth it or not depends on your expectations and point of view. On the outside, the handset is quite polished and good looking with a fast fingerprint reader and easy-to-use software. The 720p LCD and the Mediatek MT6750 SoC mean acceptable but otherwise unremarkable performance.</paragraph>
+			<paragraph>The price premium of $70 over the F1 gets you a bigger screen, a bigger battery, an excellent fingerprint reader plus a nice metal build and design, which sounds like a nice deal overall. The ambitious 16MP front camera is far from perfect, but currently, there aren't any powerful selfie experiences up on offer below the $300 mark that we can instantly think of.</paragraph>
+			<paragraph>It is hard to say whether or not all this would be enough to make users look past the handset's imperfections. One way to gauge it properly is to check what the competition has to offer under USD $300.</paragraph>
+			<paragraph>If a clean Android experience is what you are after, then the LG Nexus 5X is a prime candidate. It has been going down in price quite rapidly lately and now sits around the $250 mark. That buys you a 5.2-inch FullHD display, Snapdragon 808 SOC, 2GB of RAM and 16GB of storage, sadly not expandable. Lenovo's Moto G lineup is also an excellent choice. You can even get the Moto G4 Plus and not sacrifice on a fingerprint reader, while still staying within budget. And while we are on the topic of Lenovo, there is the ZUK Z2 with quite a bit of extra "oomph" - it's got a Snapdragon 820 plus 4GB of RAM for only USD $50 extra.</paragraph>
+			<paragraph>Asus also has a few interesting offers within the given budget, like the Zenfone Max with its 5000 mAh battery or perhaps one of the myriad of Zenfone 2 models. Provided you manage to navigate your way through the naming mess, they provide great value.</paragraph>
+			<paragraph>Of course, we can't fail to mention Xiaomi with the Redmi Note 3. On certain markets the Oppo F1s will be competing with another Chinese manufacturer - LeEco. The LeEco Le 2 is a good alternative to the Oppo F1s and one that costs nearly half as much. Then there is the slightly bigger and also more powerful Le Max 2, which can be found online around the $400 mark.</paragraph>
+			<paragraph>All things considered, the Oppo F1s does have its own unique angle and potential user market of people who are looking for the same qualities found in the original F1 but on a bigger screen diagonal. The small hike in price is more than worth the upgrade and the F1s is indeed a true expert in providing great value at a bargain price point.</paragraph>
+		</subsection>
+	</page>
+</review>

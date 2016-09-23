@@ -1,0 +1,120 @@
+<review>
+	<title>Samsung Galaxy J5 preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_j5-review-1303.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy J5 at a glance<subsectionTitle>
+			<paragraph>5.0-inch 1280x720 resolution Super AMOLED display</paragraph>
+			<paragraph>Qualcomm Snapdragon 410 chipset</paragraph>
+			<paragraph>1.5GB RAM</paragraph>
+			<paragraph>8GB storage with microSD and USB OTG support</paragraph>
+			<paragraph>13 megapixel rear camera with LED flash and 1080p video recording</paragraph>
+			<paragraph>5 megapixel front camera with LED flash and 1080p video recording</paragraph>
+			<paragraph>Wi-Fi 802.11b/g/n, Bluetooth 4.1, GPS, 4G LTE</paragraph>
+			<paragraph>Dual SIM support</paragraph>
+			<paragraph>FM Radio</paragraph>
+			<paragraph>2600mAh removable battery</paragraph>
+			<paragraph>Android 5.1.1 Lollipop</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Samsung Galaxy J5 is one of Samsung's two new budget offerings, the other being the J7. The two phones undercut the previous launched E-series devices with more aggressive pricing while offering nearly identical specifications.</paragraph>
+			<paragraph>The J5 is a typical budget smartphone with its compact dimensions and low-end specifications. The phone will be competing against the likes of the new Moto G in various emerging markets.</paragraph>
+			<paragraph>The Galaxy J5 seems to check all the key boxes and is reasonably well-equipped for a Samsung device in this price range. We'll have to see how that translates to real-world usage.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design<subsectionTitle>
+			<paragraph>Samsung stepped up its industrial design game at the top end of its device portfolio but the low and mid-range devices are yet to follow suit, with the Galaxy J5 looking fairly similar to the other Samsung phones since 2013. The design wasn't particularly striking back then when it was introduced with the S III and is decidedly long in the tooth now. This is not a phone you are going to buy for its looks, that's for sure.</paragraph>
+			<paragraph>On the front of the device is the 5.0" 720p display surrounded by a fair amount of bezel. Above the display is the earpiece, with the front facing camera next to it along with the proximity sensor. The J5 does not have an ambient light sensor to control display brightness automatically, and there is also no notification LED. What you do get instead is a powerful front facing LED flash, which we'll get to later.</paragraph>
+			<paragraph>Below the display is the physical Home button in the middle flanked by the multitasking and back buttons, neither of which are backlit or even have any kind of vibration feedback when pressed.</paragraph>
+			<paragraph>The sides of the phone are covered in shiny plastic that tries to pass off as chrome but ends up looking a bit tacky. On the right side is the power button, on the left the volume controls. The buttons are easy to access and provide good feedback. On the bottom is the microUSB port, the headphone jack and the primary microphone.</paragraph>
+			<paragraph>On the back is the 13 megapixel main camera with single LED flash and single loudspeaker. The camera lens is slightly raised to not muffle the speaker and that ends up working surprisingly well with nominal drop in speaker volume even when the phone is kept flat on its back.</paragraph>
+			<paragraph>The back cover is removable and underneath is the removable battery, two micro SIM card slots and one microSD card slot. The microUSB slot can be accessed without having to remove the battery. The back cover comes off fairly easily and snaps back into place securely.</paragraph>
+			<paragraph>The build quality is par for the course for a Samsung device. Despite the overwhelming plasticky feel of it, the phone seems solidly built with no audible creaking of the body when pressed. The body isn't dust or water resistant like the new Moto G but the phone feels like it could take the rough and tumble of daily life.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Galaxy J5 has a 5.0-inch 1280x720 pixel Super AMOLED display, which is surprisingly good for a phone in this price range. The colors are quite natural for an AMOLED unit and almost make it look like an LCD. The J5 does not have the color profile picker from more expensive Samsung phones so you are stuck with the one display color setting, but in this case that's not really a problem.</paragraph>
+			<paragraph>The display has good viewing angles and sunlight legibility. The colors also don't shift with brightness level, which is a problem with some of the AMOLED displays.</paragraph>
+			<paragraph>As mentioned before, there is no ambient light sensor so you have to adjust brightness manually. Samsung has included an Outdoors mode, which boosts the brightness beyond the normal max brightness and also increases the gamma level to make the display more visible outdoors. The touchscreen works perfectly fine but has only two point multi-touch support, which is perfectly fine for most use cases.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery Life<subsectionTitle>
+			<paragraph>The Galaxy J5 offers impressive battery life from its 2,600mAh battery. Even with two SIM cards you can expect to get around 5-6 hours of on-screen time with upwards of 20 hours of total battery life.</paragraph>
+			<paragraph>It's one phone you can forget to take your external battery pack with and not have to worry about dying out on you before you get home at the end of the day. Unfortunately, charging the phone takes painfully long, with 1% to 100% taking exactly three full hours with a standard 5V/2A charger.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The Galaxy J5 runs on Android 5.1.1 with Samsung's TouchWiz UI on top. The UI looks similar to the one on newer Galaxy devices post the S6. You get some of the functionality of the more expensive Galaxy devices, including double tap Home button to launch the camera app system-wide, but there is no S Voice or multi window mode.</paragraph>
+			<paragraph>As is often the case with Samsung low-end offerings lately, there is no Samsung music player and you get the Google Play Music app instead. There is an FM Radio however.</paragraph>
+			<paragraph>The phone does come with some bloatware, including a bunch of games really poor and outdated Gameloft games, which are not even full games but simply demos and cannot be uninstalled, and Microsoft apps like Skype, OneDrive, OneNote, and Office apps. The Google Apps, on the other hand, are at a bare minimum, and Samsung does not even include Google+, Newsstand, or Play Books apps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>The Galaxy J5 runs on the Qualcomm Snapdragon 410 MSM8916, with quad-core Cortex-A53 CPU clocked at 1.2GHz and Adreno 306 GPU. The phone also has 1.5GB RAM and 8GB storage, with support for microSD and USB OTG devices.</paragraph>
+			<paragraph>In synthetic benchmarks, the performance of the Galaxy J5 is on par with other devices running the Snapdragon 410 chipset. Only the new Moto G pulls slightly ahead due to its 1.4GHz clock speed, which gives it a slight advantage.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In real world performance, the Galaxy J5 feels perfectly usable for a budget device. Most of the UI flows smoothly, and even scrolling through apps works remarkably well most of the times.</paragraph>
+			<paragraph>App launch and switching times are also quite good and it's only when you start running more than 5-6 apps with a few tabs of Chrome that the device starts hitting its 1.5GB RAM limit, which causes some delay when you switch apps as the phone has to draw them from scratch.</paragraph>
+			<paragraph>In terms of gaming, the phone can handle 2D and simple 3D games perfectly fine. The Snapdragon 410 does not have enough power under the hood to run heavy 3D games smoothly at 720p and that's the only place where you feel the need for more power. As is also typical for Snapdragon 410 devices however, the Galaxy J5 never gets even warm, let alone hot.</paragraph>
+			<paragraph>In terms of connectivity, the J5 has Wi-Fi 802.11b/g/n, Bluetooth 4.1, A-GPS, GLONASS and LTE. The radio performance was fine but it must be noted that there is no magnetometer on the device, which means you can't use the compass feature in navigation apps. There is also no gyroscope, so you can't make 3D panoramas or use VR apps.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Galaxy J5 has a 13 megapixel camera on the back with autofocus and single LED flash. The image quality is quite decent with natural colors, good contrast, accurate white balance, and a good amount of detail. There is some over sharpening and noise, but neither is particularly bothersome.</paragraph>
+			<paragraph>The dynamic range isn't great, however, and there is no HDR support. The autofocus can also be quite slow and unreliable at times, especially while shooting macros. The flash at the back works well with decent brightness and coverage.</paragraph>
+			<paragraph>The front camera quality isn't great. There is a beauty mode setting, which is adjustable but even at its lowest setting it never truly gets disabled, making all images look unnecessarily soft. This also carries over to other apps, such as Snapchat, that also get affected from excessively softened skin.</paragraph>
+			<paragraph>The phone has an LED light on the front that is blindingly bright. It's more of a flashlight since it tends to stay on once enabled and not exactly a flash. It's only really useful in pitch dark environments but you can't really stare at it for more than a few seconds. The flash is not available in third party apps, though.</paragraph>
+			<paragraph>Video recording quality is average. Both cameras record 1080p video, but neither is particularly good at it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>The Samsung Galaxy J5 is a fine budget smartphone. Samsung has done a good job of cutting the right corners to achieve the low price and while you will have to make some compromises as will all devices in this range the overall experience is surprisingly good. All the important bits are covered and in the end that's what really matters when shopping bargain phones.</paragraph>
+			<paragraph>It's a solid, dependable phone with a good display, good performance, good camera, and exceptional battery life. The new Moto G might still be a better option for those who want the stock Android experience with a waterproof body, but the Galaxy J5 is also a solid choice.</paragraph>
+		</subsection>
+	</page>
+</review>

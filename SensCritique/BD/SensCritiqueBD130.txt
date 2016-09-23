@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>Batman: The Dark Knight Vol. 4: Clay</nameEn>
+	<nameFr>De l'argile - Batman : Le Chevalier Noir, tome 4</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/De_l_argile_Batman_Le_Chevalier_Noir_tome_4/16775621</link>
+	<generalScore>6.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

@@ -1,5 +1,6 @@
 package crawlers;
 
+import main.java.crawlers.Review;
 import java.io.IOException;
 import java.util.ArrayList;
 

@@ -1,0 +1,48 @@
+<movie>
+	<title>Force majeure</title>
+	<link>http://www.imdb.com/title/tt0097376/?ref_=fn_al_tt_4</link>
+	<year>1989</year>
+	<generalScore>0.63</generalScore>
+	<review>
+		<date>1999-03-25</date>
+		<username>Phroggy</username>
+		<score>1.0</score>
+		<shortDescription>Strong, moving and clever !</shortDescription>
+		<fullReview>This one really caught me by surprise. The plot is marvelous, the characters extremely well-drawn, and everything is strong enough to be suspenseful without relying on cheap effects. Chock-full of humanity, this is not politically correct stuff, nor a Midnight Express rip-off (I like this one better !). The idea of putting together two mirror-image character (One has everything to win through his ordeal, the other one everything to lose) is unforgettable. When you reach this level of gut-wrenching quality, one wonder halfway through : will the end be worth it ? AND the last minutes are even better than the movie itself.</fullReview>
+	</review>
+	<review>
+		<date>2003-01-06</date>
+		<username>pnay75-1</username>
+		<score>1.0</score>
+		<shortDescription>truly excellent</shortDescription>
+		<fullReview>This film benefits from an extremely intelligent story and a faultless direction, both by by Pierre Jolivet, and excellent acting, especially by François Cluzet. It inspired a few years later the American movie " Return to Paradise "( qv ), which is quite good, though perhaps not totally up to par with the original.</fullReview>
+	</review>
+	<review>
+		<date>1999-03-24</date>
+		<username>alex-187</username>
+		<score>1.0</score>
+		<shortDescription>Thrilling and thought-provoking</shortDescription>
+		<fullReview>This is what it takes to spend the night with a rodent devouring your ugly, dirty occidental conscience. Would you leave family, study, anything to save a friend's life in a faraway land? A strong look at youth, at the clash between the wish of experiencing everything and that of avoiding any responsibility. The film is great in depicting the inner struggle of both the boys involved, never giving the audience any assurance about who's going to leave and save a life and who's going to give up. Thrilling and thought-provoking.</fullReview>
+	</review>
+	<review>
+		<date>2006-07-28</date>
+		<username>demers-mcleod</username>
+		<score>1.0</score>
+		<shortDescription>Enticing!</shortDescription>
+		<fullReview>One of the best movies I've seen in years. A great debate on personal ethics. You can not avoid putting yourself in that situation and ask yourself, "What would I do?". The main 2 characters bring such different perspective to the story. Both actors play them to the perfection, they ring very true. They even take a shot at the media; how it can exploit such stories irregardless of the human side of it. Very suspenseful, more than its rotten American remake, that's for sure. The movie is very well structured. It sets up the characters and the situation in a timely manner, and it progresses very well, with an escalation of the suspense. I RECOMMEND it highly (if you can find it)</fullReview>
+	</review>
+	<review>
+		<date>1998-12-26</date>
+		<username>Fifi</username>
+		<score>0.9</score>
+		<shortDescription>Une question d'ethique</shortDescription>
+		<fullReview>Philippe (Patrick Bruel) and Daniel (the wonderful Francois Cluzet) are being asked to give up their freedom to help an acquaintance, whose predicament they are partly responsible for. Wonderful film!</fullReview>
+	</review>
+	<review>
+		<date>2006-03-12</date>
+		<username>dbdumonteil</username>
+		<score>-1.0</score>
+		<shortDescription>Force majeure</shortDescription>
+		<fullReview>"Force majeure" is a good example of a film which asks the right questions,takes big chances ,does not try to charm or appeal ....but finally takes the easy way out! Such an ending ruins all that came before.Also handicapped by "actor" Patrick Bruel's"performance" ,by no means the partner it takes to match François Cluzet.He is completely incredible as a mathematician discussing differential calculus with mum!!! You had better choose Pierre Jolivet's "simple mortel" ,one of the few French sci-fi flicks the screenplay of which does not fall apart after thirty minutes:and that one has a satisfying disturbing ending.</fullReview>
+	</review>
+</movie>

@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>Preacher: Book Three</nameEn>
+	<nameFr>Preacher : Livre 3</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Preacher_Livre_3/17846607</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>34</numberOfVoters>
+		<numberOfVoters>79</numberOfVoters>
+		<numberOfVoters>52</numberOfVoters>
+		<numberOfVoters>26</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>SHEBAM ! POW ! BLOP ! WIZZ !</title>
+		<author>Valerie Freefou</author>
+		<date>2016-08-27</date>
+		<score>1.0</score>
+		<content>ça vous dit quelque chose ??? Mdr ! Un livre III qui déchire sa mémé, encore une fois, même si elle n'est qu'évoquée... (Ceux qui liront cette série comprendront ! héhé...) L'histoire du saint des tueurs est juste géniale, quant à la suite de la course-poursuite de Dieu par Jesse, elle est bourrée de rebondissements "grâce à" Cassidy, qui s'avère être un fieffé saligaud, quand même... En fait tout reste bien dans le ton anti politiquement correct, un vrai régal pernicieux ! Le livre4 vient de sortir, il va sans doute assez vite arriver dans ma pal, celui-là... Muarf !</content>
+	</review>
+	<review>
+		<title>Le saint des tueurs!</title>
+		<author>deadpoolette</author>
+		<date>2016-04-11</date>
+		<score>0.8</score>
+		<content>La seule critique négative que l'on peut faire sur Preacher, c'est que les parutions sont trop longues. Va falloir tenir jusqu'à la sortie du Tome 4. Passé la surprise du tome 1, ce tome 3 est moins violent, plus dans le psychologique et la profondeur des personnages. S'il est moins dans l'action, il n'en est pas pour autant mauvais. On en apprend un peu plus sur le saint des tueurs (et on attend sa venue avec impatience), les relations entre nos 3 amis se développent (pas forcément dans le bon sens du terme), et de nouveaux groupes de méchants font leur apparition. Un bon tome qui présage de bons moments à venir.</content>
+	</review>
+	<review>
+		<title>Preacher : Livre 3</title>
+		<author>Mr-Vladdy_Crane</author>
+		<date>2016-05-06</date>
+		<score>1.0</score>
+		<content>Après un livre 2 que j'avais beaucoup aimé mais que j'avais quand même trouvé un tout petit peu un ton en dessous du livre 1, c'est avec plaisir que je me suis plongé dans ce livre 3. Verdict, il égal le côté jouissif que j'ai pu avoir dans le livre 1. C'est toujours le pied de retrouver nos héros, c'est toujours gratuit et plaisant et j'ai vraiment hâte de découvrir la suite pour voir comment tout ceci va se finir. A noter que certaines cases sont vraiment pas mal du tout et que j'ai énormément aimé le passage sur le Saint des Tueurs qui commence enfin à gagner en consistance et à avoir la place qu'il mérite dans ce récit :-)</content>
+	</review>
+</sensCritiqueEntity>

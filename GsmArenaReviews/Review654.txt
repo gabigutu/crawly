@@ -1,0 +1,418 @@
+<review>
+	<title>Samsung Galaxy S6 review</title>
+	<description>Subject Zero</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_s6-review-1227.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Thin (6.8mm) profile, premium dual-glass design reinforced by a metal frame</paragraph>
+			<paragraph>5.1" Super AMOLED of QHD (1440 x 2560) resolution, class-leading ~577ppi, Corning Gorilla Glass 4</paragraph>
+			<paragraph>Exynos 7420 64-bit chipset, octa core processor with four 2.1GHz Cortex-A57's and four 1.5GHz Cortex-A53 cores, Mali-T760 MP8 GPU, 3GB of RAM</paragraph>
+			<paragraph>Android 5.0.2 Lollipop with TouchWiz and Samsung Pay</paragraph>
+			<paragraph>16MP camera, f/1.9 aperture, 4K video recording, LED flash, optical image stabilization</paragraph>
+			<paragraph>5MP front-facing camera, f/1.9 aperture, QHD video, HDR</paragraph>
+			<paragraph>32/64/128 GB of built-in storage</paragraph>
+			<paragraph>Active noise cancellation via dedicated mic</paragraph>
+			<paragraph>Fingerprint scanner</paragraph>
+			<paragraph>LTE Cat.6, Wi-Fi a/b/g/n/ac, GPS/GLONASS/Beidou, NFC, IR port, Bluetooth 4.1, ANT+</paragraph>
+			<paragraph>Heart-rate sensor, barometer, SpO2</paragraph>
+			<paragraph>Wireless charging (Qi/PMA)</paragraph>
+			<paragraph>2,550mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No water or dust protection</paragraph>
+			<paragraph>Rather pricey at launch, including really steep memory upgrade premiums</paragraph>
+			<paragraph>No user-replaceable battery</paragraph>
+			<paragraph>No microSD slot</paragraph>
+			<paragraph>No FM radio</paragraph>
+			<paragraph>No stereo speakers</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Choose one word to describe the Samsung Galaxy S6. Gorgeous. Powerful. Special. Different. Thank you. That will do. Galaxy S5 has only one of these under its belt and hint... it starts with a P.</paragraph>
+			<paragraph>The Samsung Galaxy S6 is not the next big thing. It's "project zero". The reboot. But was there really anything wrong with the S-line - the standard-setter, the home of the super droids? OK, design needed looking at for sure. But hey, other brands do facelifts - Samsung goes for a complete overhaul.</paragraph>
+			<paragraph>This must've been the message they wanted to send.</paragraph>
+			<paragraph>And if it means giving up the memory card slot, the removable battery and the waterproofing, so be it. That's part of the message too.</paragraph>
+			<paragraph>Anyway, the Galaxy S6 was redone from scratch and bids farewell to plastic. Glass and metal is a critically acclaimed combination. Another way of saying it is - depending on how upset you are with the missing card slot and sealed battery - they're copying Apple and Sony. Alright, memory, battery and waterproofing are easy things to get upset about, so let's see what the Samsung Galaxy S6 offers in exchange.</paragraph>
+			<paragraph>The new look is impressive and exciting and Samsung's trademark AMOLED is the perfect match. It's an immersive 5.1 incher of QHD resolution, for the amazing 577ppi - though "amazing" doesn't work for Samsung. They'll call it "the best ever" - and will be right. And that's just the beginning.</paragraph>
+			<paragraph>For the first time in a couple of generations, Samsung is relying solely on its own Exynos platform. This seemed like of nick-of-time decision amid rumors of cooling issues and thermal throttling plaguing the Snapdragon 810 chipset but the fact is the Exynos 7420 (7 Octa) is simply better. The only reason Qualcomm were in the story at all was the uncertainty whether Samsung would be ready for mass production with its own chipset.</paragraph>
+			<paragraph>Built on a 14nm process, Samsung's chipset allows similar or higher clockspeeds (hence performance) with less power consumption, which by the way means it's easier to cool as well. In the end, the Galaxy S6 is powered by a beastly octa-core processor with four Cortex-A57 cores ticking at 2.1GHz and four Cortex-A53 "efficiency" cores at 1.5GHz. An octa-core Mali-T760 GPU and 3GB of RAM complete the tally.</paragraph>
+			<paragraph>Samsung worked on the camera department too, equipping the Galaxy S6 with a 16MP rear camera with optical image stabilization and a wide f/1.9 aperture. The 5MP selfie cam also got a f/1.9 aperture for superior low-light capabilities.</paragraph>
+			<paragraph>The connectivity package is better than ever with dual-standard wireless charging support out of the box, Samsung Pay, a better and faster fingerprint scanner and LTE Cat.6 connectivity. Let's get into the details, shall we?</paragraph>
+			<paragraph>Last season, the water and dust protection was a direct response to Sony's Xperia Z line. The Galaxy S6 gives it up, defying a natural Samsung instinct to match and beat every feature a potential rival may have. A Galaxy S6 Active will likely quell some of the disappointment.</paragraph>
+			<paragraph>But will there be an S6 version with a removable battery and one with a microSD card slot? Of course, Samsung will tell you the Galaxy S6 has the new UFS 2.0 storage, with the "Command Queue" tech used in SSDs. The end-result is 2.7x faster response than that memory found in the previous crop of flagships. A microSD card, regardless of specs, would have compromised the user experience. Plus, the base model starts at 32GB, the other options being 64GB and 128GB.</paragraph>
+			<paragraph>So, Samsung gave up features that used to give them a competitive edge and decided not to necessarily compete for every spec. Over-confidence or lack thereof? New deal or a knee jerk reaction? There are so many things to discover about the new Galaxy S6 and we are done teasing.</paragraph>
+			<paragraph>Update, March 16: You've probably already checked out our Samsung Galaxy S6 review over the weekend. By popular request, we've updated a number of section in the review today. Most notably, we've added more daylight camera samples and numerous low-light samples; we've tested how the new UFS 2.0 storage performs; we've revised our Galaxy S6 screen brightness measurement and our loudspeaker loudness measurement. There is more where all that came from, stay tuned for a detailed camera comparison against the Galaxy S5 and Galaxy Note 4 later this week.</paragraph>
+			<paragraph>Update, April 3: We received a retail unit and retested it. We've updated the battery life and the performance benchmarks (both improved). Our tests showed that the camera, loudspeaker and audio quality are essentially the same as on the pre-release unit we had initially.</paragraph>
+			<paragraph>Update, April 28: Don't miss the companion video for this review. In case you don't feel like reading this 11-page review, it should get you through the most important points about the Galaxy S6 and the Galaxy S6 edge in under 6 minutes.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Galaxy S6<subsectionTitle>
+			<paragraph>The Samsung Galaxy S6's retail package only contains the essential accessories. The solid, white box packs a microUSB cable, a fast-charging-capable A/C adapter and the company's latest set of headphones. All these are white to match the color of the handset itself.</paragraph>
+			<paragraph>There is no wireless charging plate - these are a rare catch in phone bundles (the Lumia 930 is the only one that comes to mind). Fast chargers are a bit more common but by no means widespread. The Galaxy S6 has one in the box so you don't have to spend extra.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S6 360-degree view<subsectionTitle>
+			<paragraph>The Samsung Galaxy S6 has a brand new design but the same screen size as its predecessor. Keeping the same level of comfort of handling and portability aside, the 5.1" diagonal allowed them to get the highest ppi on the market. The lack of enhanced protection and the new materials employed helped a much thinner profile than the predecessor. The Galaxy S6 is just 6.8mm thin against the 8.1mm of the Galaxy S5. It's hardly a coincidence either that it's a fraction of a millimeter slimmer than the iPhone 6.</paragraph>
+			<paragraph>The overall size of the Galaxy S6 is very close to the previous generation: 143.4 x 70.5 x 6.8mm, and 8g lighter at 138g. Not much bigger than the iPhone either considering the difference in screen size.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Samsung went way beyond its comfort zone to design an entirely new Galaxy species from scratch. And this time around, saving some money wasn't on the agenda. We don't know if that's the change everyone was hoping for but the S6 is the sexiest flagship yet.</paragraph>
+			<paragraph>The Samsung Galaxy S6 body consists of a brushed metal frame holding together a pair of glass panels. This doesn't even begin to tell the story. You can read anyone's impressions but you will only know what it's all about if you get to unbox one.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Plastic is durable while glass cracks and metal dents. There's more value in a removable battery than premium design. A memory card slot... All that. The Galaxy S6 will not try and deny the facts. We call them facts - to the Galaxy S6 they're the predecessors' excuses for not quite looking their best.</paragraph>
+			<paragraph>Samsung introduces glass to the Galaxy S series for the first time - two sheets of Corning Gorilla Glass 4, front and rear. It's not a combination Samsung invented but we are glad they ditched the plastic and kept the trademark shape and look.</paragraph>
+			<paragraph>Arguably it's the easiest way to achieve the upmarket feel while keeping weight down. Adding to the high-quality appeal, the body is a mere 6.8mm for a proper balance between handling, appearance and battery capacity.</paragraph>
+			<paragraph>Such a sea-change came at a cost and indeed the Galaxy S6 is losing the removable battery for good. What's odd is the lack of water and dust protection, which was a key selling feature for the previous generation Galaxy S5.</paragraph>
+			<paragraph>There is the camera hump too, which was just inevitable - Samsung added so much tech and yet trimmed the body down. The new sensor, lens and optical image stabilization more than make up for it.</paragraph>
+			<paragraph>Handling the Galaxy S6 is nothing short of pleasure and it isn't compromised by the dual-glass design. The metal frame and its flattened sides improve the grip and the glass is not terribly slippery either - it gets smudged though. Sure, the Galaxy S6 doesn't offer the most secure grip, but it does get the best out of the combination of materials.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above the gorgeous 5.1" Super AMOLED display we find the earpiece, a couple of sensors and the 5MP F/1.9 selfie cam.</paragraph>
+			<paragraph>The ever-present home key remains a key point in the interaction with the smartphone and doubles as a fingerprint scanner. At its sides are the capacitive Task Switcher and Back buttons.</paragraph>
+			<paragraph>The left side of the Galaxy S6 has the two metal volume keys, while on the right there are the power/lock key and the pop-out SIM tray.</paragraph>
+			<paragraph>The bottom on the Galaxy S6 is pretty crowded featuring the USB port, a 3.5mm headphone jack, microphone and speaker. The top is cleaner, with only an IR blaster and a pinhole for a secondary microphone.</paragraph>
+			<paragraph>The back of the phone is where the slightly protruding 16MP f/1.9 main camera/4K camcorder resides. It features optical image stabilization, so the expectations for its low light performance are high. Next to the lens you'll notice the LED flash and the heartrate sensor.</paragraph>
+			<paragraph>The rear panel is not removable and doesn't allow access to the 2,550 mAh battery. There is no microSD slot either.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Quad HD display<subsectionTitle>
+			<paragraph>The display of the Samsung Galaxy S6 is the highlight feature alongside the new design and chipset. The diagonal remains unchanged at 5.1", but the resolution got a massive boost to QHD - 2560 x 1440 pixels. This means that despite its ample surface, the Super AMOLED panel offers a mind-blowing 577ppi.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Samsung has again went for the diamond-shaped PenTile matrix, although given the sheer number of pixels the sub-pixel arrangement will hardly affect the perceivable sharpness of the screen.</paragraph>
+			<paragraph>Here's how the layout looks under a microscope. The diamond-shaped PenTile uses OLED sub-pixels of different sizes as each color has different levels of power efficiency and longevity. Sub-pixel rendering is employed to properly distribute each of the primary colors.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The default screen mode comes to underline the Super AMOLED panel's key strength, high contrast, by producing overly saturated colors that make every image look like it's about to pop out of the frame. Yet if you are a professional that requires the color accuracy or simply dislike the unrealistic images, the professional photo mode gets colors as true to life as possible.</paragraph>
+			<paragraph>The Samsung AMOLED panels have been improving with each new generation and this latest effort is further proof of that. Giving you a choice between saturation and accuracy, and comfortably beating its rivals at either end is an impressive achievement, but with the inherent AMOLED strengths in the equation, you get arguably the most impressive screen in the market.</paragraph>
+			<paragraph>Yep, the practically infinite native contrast and the low reflectivity that makes sure you enjoy most of it in brighter environments are still here, alongside the impeccable viewing angles. There isn't much else one can wish for.</paragraph>
+			<paragraph>But enough words, let's look at the numbers. The Samsung Galaxy S6 has a practically unlimited contrast ratio, as it's capable of displaying black by simply turning off individual pixels - AMOLEDs light up only the parts of the screen that display a color different than black.</paragraph>
+			<paragraph>The Super AMOLED panel on the Galaxy S6 isn't particularly bright, especially compared to some LCDs, but it can go higher than the Galaxy Note 4.</paragraph>
+			<paragraph>Update, March 16: As it turns out the Auto Brightness mode can push the brightness higher than manually adjusting the brightness slider would allow you to. It's not something limited to the Galaxy S6 but it's customary for Galaxy smartphones with AMOLED screens. We confirmed that under bright light the Galaxy S6 display can light up to 70% brighter than the maximum allowed by the slider.</paragraph>
+			<paragraph>Under direct sunlight, the Galaxy S6 retains excellent contrast and stays legible even in the most brightly lit environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>You can find all about our display testing routines here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The battery life was a bit of a question mark hanging over the Samsung Galaxy S6, considering the screen resolution has nearly doubled and the battery capacity was downgraded to 2,550 mAh. It still sounds like a pretty ample battery, but we were curious how it compares to the stellar Lollipop endurance of its predecessor.</paragraph>
+			<paragraph>As it turns out, we were right to be worried as the Galaxy S6 posted lesser performance on all of our test compared to the Galaxy S5.</paragraph>
+			<paragraph>The battery scores aren't that bad and are in fact higher than average. The S6's battery had enough juice to last just under 20 hours on 3G calls. That's less than the Galaxy S5 managed, however the new model beats it at both web browsing and video playback.</paragraph>
+			<paragraph>In the end the new flagship managed to achieve of respectable rating of 73h, which might not be as impressive as the 83h mark of Galaxy S5, but it still means your Galaxy S6 will last three days if you are using it for an hour of calls, web and video playback each day.</paragraph>
+			<paragraph>Our testing procedure includes a standby battery endurance test, which is not shown in the scorecard above, but is a part of the overall rating. You can learn more about our standardized routine here.</paragraph>
+			<paragraph>Update, April 3: We received a retail unit and re-ran the benchmark. The numbers improved noticeably compared to the initial tests with the pre-production unit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Samsung Galaxy S6 is armed to the teeth in connectivity terms. The mandatory 2G/3G/4G LTE is present with Cat. 6 downlinks thanks to Samsung's latest Exynos 7420 chipset. This gives you download speeds of up to 300Mbps, with 50Mbps worth of uploads. If you missed it in the specs section, the Galaxy S6 uses nano-SIM cards.</paragraph>
+			<paragraph>In terms of local connectivity, there's dual-band Wi-Fi a/b/g/n/ac, so you can make the best of your home's Internet connection. DLNA is supported in multimedia apps for sharing content across compatible devices.</paragraph>
+			<paragraph>Speaking of, the Galaxy S6 makes it easy to share the Wi-Fi hotspot info with nearby devices (detected via Bluetooth) using the Quick Connect feature. This saves you the trouble of typing in the Wi-Fi password.</paragraph>
+			<paragraph>Bluetooth has been bumped up to version 4.1. There aren't any easily noticeable changes since 4.0 but, among the more important ones, Low Energy mode is now supported for connecting to smart watches and some sport sensors. ANT+ is available for such sensors too, so the Galaxy S6 will happily talk to whatever sports sensor you have.</paragraph>
+			<paragraph>NFC is on board for quick pairing and sharing and there's an IR blaster for controlling home appliances. Samsung's default app mostly handles your AV setup, but third party apps can be used for a wider range of devices.</paragraph>
+			<paragraph>The Samsung Galaxy S6 features a microUSB 2.0 port. It's slower at transferring data than the USB 3.0 port used in a few Samsung devices, but it has a standard size plug and it offers Quick Charge 2.0 and MHL 3.0. With the right adapter, you get 2160p@30fps output so you can watch videos you shot with the phone in their full resolution. There's 7.1 surround sound output, if the video player supports it (sadly, the pre-installed one does not).</paragraph>
+			<paragraph>Finally, there's a GPS/GLONASS/Beidou SatNav receiver on board. GPS alone is enough on its own but GLONASS provides extra precision, especially in dense urban settings as it also uses Russian satellites. Beidou is currently available only in China and neighboring regions, but China is an important market for Samsung so it's a nice thing to have on board.</paragraph>
+			<paragraph>Samsung Pay is available by default on the Galaxy S6. The new service works with NFC and a newly developed technology called MST - Magnetic Secure Transmission. The MST will allow the Galaxy S6 owners to use their phones on most of the existing terminals and merchants won't need to upgrade their payment solution.</paragraph>
+			<paragraph>Samsung has acknowledged the mobile wallet adoption is going very slowly and the company has built-in a new solution to this problem inside the Galaxy S6 with the MST tech that requires little to no upgrade from current card readers already installed at retailers.</paragraph>
+			<paragraph>Samsung Pay has already been certified by Visa and MasterCard. Samsung is teaming up with key financial institutions around the world such as American Express, Bank of America, Citi, JPMorgan Chase, and U.S. Bank, in order to provide more flexible services and coverage.</paragraph>
+			<paragraph>Samsung Pay is KNOX-secured, which means the Galaxy S6 users should be getting government-grade protection of their personal data.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>Samsung Galaxy S6 comes with Android 5.0.2 Lollipop and the latest incarnation of TouchWiz.</paragraph>
+			<paragraph>Samsung has been on a mission to simplify its software recently, but there are brand new features too. Most of the new stuff is now available to the Galaxy S5 as well via the recent update to Android Lollipop, but there are still features available only on the Galaxy S6.</paragraph>
+			<paragraph>You can have a look at the user interface in action on the video below:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>One thing's for sure, the lockscreen is quite busy. It shows two notifications, any more get collapsed and you only see their icons. You can tap the down arrow to see the full list. If an app gets too pushy, you can hide its notifications from the lockscreen. There is also a weather information for your location and pedometer stats.</paragraph>
+			<paragraph>Private mode returns and this time the fingerprint reader is much better. After you've trained it, you only need to place your finger for half a second to activate. It's quite lax when it comes to finger positions too, no more struggling to swipe just the right way.</paragraph>
+			<paragraph>Private mode creates a secure folder that disappears when the mode is disabled. You can have Private mode automatically disabled every time you lock the phone.</paragraph>
+			<paragraph>The lockscreen can also use the fingerprint reader as a locking mechanism. It's quicker and more convenient than swiping and more secure than simple patterns and PINs too.</paragraph>
+			<paragraph>A nice feature allows you to hide the content of the lockscreen notifications or disable them altogether so people can't snoop on your received messages and emails.</paragraph>
+			<paragraph>Themes are not just graphical either, a theme can add new ringtones, notification tones, alarm sounds and more.</paragraph>
+			<paragraph>The homescreen itself is quite normal. You get the optional Briefing pane on the left, which pulls info from a selection of news sources on topics you find interesting. There's an option to change the screen grid between 4x4, 4x5 and 5x5, the smallest one is the default.</paragraph>
+			<paragraph>The notification area hasn't changed much, but it has lost the view that shows all quick toggles - neither a second pull nor a two-finger pull works. You just get one scrollable row of quick toggles, but now some have text underneath, like the name of the Wi-Fi network you are connected to.</paragraph>
+			<paragraph>The brightness slider is below that and then the S Finder and Quick connect buttons. One cool feature is that while adjusting the slider, the notification area fades away so you can see the app you were using before.</paragraph>
+			<paragraph>None of these elements can be disabled, but you can rearrange the quick toggles by tapping the Edit button. This screen shows all quick toggles and you can tap them to enable/disable, but the old way felt more intuitive.</paragraph>
+			<paragraph>The Samsung Galaxy S6 comes with a page and a half of icons in its app drawer, but several folders conceal the actual number of pre-installed apps. There's a Social folder with Instagram, Facebook Messenger and WhatsApp and more interestingly the Microsoft folder.</paragraph>
+			<paragraph>Multi Window is now part of the app switcher. TouchWiz uses the Lollipop-style 3D rolodex of apps, but next to the X button is a button that opens the app across half the screen. The other half is filled in with a similar rolodex with only apps that support Multi Window.</paragraph>
+			<paragraph>Not all work with it, but the three social networking apps, the two browsers and several other key apps work just fine.</paragraph>
+			<paragraph>Another way to launch Multi Window is to long press the App switcher key. If the current app supports Multi Window it will shrink to half the screen, the other half will be taken up by the icons of supported apps. If not, you just get the list of apps.</paragraph>
+			<paragraph>The Setting menu features Quick settings - a selection of the most used options you can use. Below that is the full list, though we prefer using the search function as the extensive features that Samsung has provided can be hard to track down among menus and submenus.</paragraph>
+			<paragraph>The TouchWiz software on the new Samsung Galaxy S6 is silky smooth with no slowdowns. TouchWiz gets a lot of hate over perceived lag, but there is none on the Galaxy S6 and it features smooth Lollipop-like animated transitions, which makes the experience even better.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S6 system performance tests<subsectionTitle>
+			<paragraph>With the Samsung Galaxy S6 the company went its own way, meaning it used the in-house Exynos 7420. It's the first mobile chipset to be built on a 14nm fabrication process (Snapdragon 810 is on 20nm), which should reduce power usage. That in turn reduces the dreaded thermal throttling that was a major issue in the Exynos vs. Snapdragon debate recently.</paragraph>
+			<paragraph>The Exynos 7420 and Snapdragon 810 are not that different in terms of processor, both use a big.LITTLE setup with four Cortex-A57 cores at 2.1GHz and four Cortex-A53 cores at 1.5GHz. The GPU is a Mali-T760 from ARM and it shares 3GB of RAM with the processor.</paragraph>
+			<paragraph>Update, April 3: We received a retail unit and reran the benchmarks. Some results improved slightly (noticeably the 3D graphics performance) compared to the pre-release unit we used initially. </paragraph>
+			<paragraph>The Galaxy S6 runs a 64-bit version of Android 5.0.2 and all eight of its cores are 64-bit capable. This is good for the future, but for now 32-bit apps run just fine - in fact, AnTuTu 5 offered both options. It returned equal scores in both 32-bit and 64-bit modes, crushing the Snapdragon opposition (805 for the Nexus 6 and Galaxy Note 4, 810 for the LG G Flex2).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS 2.0 tips the scales the other way and narrowly gives the win to the LG G Flex2, with the Galaxy S6 trailing by less than 5%.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Looking at just the CPU performance at GeekBench 3, we see a massive advantage in multicore performance. The Snapdragon 810 runs its CPU cores a little slower (0.1GHz), but that's far too little to account for the difference. Basemark OS 2.0 confirms both the single-core and multi-core difference.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Samsung Galaxy S6 has a QHD screen - 1,440 x 2,560px - which is around 80% more pixels than a 1080p screen (like the LG G Flex2 and Moto X have). Offscreen tests normalize resolution at 1080p so you can compare raw performance, while on-screen tests predict real-world gaming performance.</paragraph>
+			<paragraph>The Mali-T760 proved faster in general than the Adreno 430 found in the curved LG phone and even the beefy PowerVR GX6450 in the Apple iPhone 6. Depending on the graphics level playable framerates are achievable at native resolution, though more complicated graphics (like in GFX 3.0) push it well under the treshold.</paragraph>
+			<paragraph>Basemark X considers only off-screen results and predictably gives the win to the Galaxy S6.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>For web browsing performance we used the Internet app (stock web browser) as Samsung sprinkles proprietary optimization magic that's not available in Chrome or the vanilla Android browser. The Galaxy S6 wins the JavaScript race in Kraken 1.1 with a slight margin, less than we expected from the large lead in CPU performance.</paragraph>
+			<paragraph>For general web browsing BrowserMark 2.1 puts the Samsung flagship on par with Apple's iPhone 6 (and far ahead of the rest) despite having to render pages at QHD while the iPhone screen is barely over 720p.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Samsung Galaxy S6 (and S6 edge for that matter) is the fastest mobile phone you can have at the moment and with 64-bit support in place this should remain the case for some time to come. The flagship offers top notch performance for any use case and may not be surpassed in 2015, looking at just the 5" size (obviously the Note 5 is coming and should be a bit faster).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S6 storage performance test<subsectionTitle>
+			<paragraph>Samsung Galaxy S6 is the company's first flagship not to offer microSD expansion. Until the S6 and S6 edge duo all Galaxy Note and Galaxy S smartphones had memory expansion, and, in fact, it was one of the highlights of both series.</paragraph>
+			<paragraph>Samsung even supported moving App to SD card even when Google disabled the feature - a rarity these days. So, what happened with Samsung's love of external storage?</paragraph>
+			<paragraph>Well, the company came up with its own UFS 2.0 storage, which uses "Command Queue" tech (as seen in Solid State Drives) for accelerating the speed of command execution. The new technology promises 2.7x faster performance than the eMMC 5.0 memory found in the previous crop of flagships and yes, the Galaxy S6 has one.</paragraph>
+			<paragraph>There lies to the key to the lack of a microSD slot. If you were to put an SD card on your Galaxy S6, you'd have compromised this blazing-fast performance. This is actually true for all 2014 high-end phones, but it seems Samsung wanted users to truly feel the difference this time around and has decided on not including the storage expansion on the feature list even if it made a lot of users sad.</paragraph>
+			<paragraph>Let's see how fast it really is.</paragraph>
+			<paragraph>We ran AndroBench - a popular storage benchmark, which gauges the read and write performance of sequential and random operations. Samsung promised the new UFC 2.0 storage in Galaxy S6 and S6 edge is 2.7x faster in random read than the one used on the Galaxy S5. We found it to be even better - the Galaxy S6 did 20000+ IOPS (input-output operations per second) at random read compared to 4800 IOPS of the Galaxy S5 on the same test. That's 3.25x times better.</paragraph>
+			<paragraph>We also put the microSD slot to test, using the fastest microSD card we had around - a Transcend Premium 300x microSDHC UHS-1 Class 10 16GB. We tested the microSD read/write performance on both the Galaxy S5 and Galaxy Note 4. This should give you the idea of the performance drop you get when apps are accessing the microSD card instead of the fast internal storage.</paragraph>
+			<paragraph>The test results clearly put the Galaxy S6 on top of the sequential and random read, with massive lead over the competition. It was also the champ in random read and write operations with small variations between it and the Galaxy S6 edge.</paragraph>
+			<paragraph>And before you ask, all tested devices were on Android Lollipop. Also all tests were ran with h/w encryption turned off - which is the default setting under Android Lollipop.</paragraph>
+			<paragraph>Update, April 3: We retested the storage with the retail unit we received. The pre-release unit had some issues with sequential write speeds, which have been resolved in the retail unit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sequential Read, MB/s<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sequential Write, MB/s<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Random Read, MB/s<subsectionTitle>
+			<paragraph>MB/s, Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Random Write, MB/s<subsectionTitle>
+			<paragraph>MB/s, Higher is better</paragraph>
+			<paragraph>The Samsung Galaxy S6 edge (and S6 for that matter) is the fastest mobile phone you can have at the moment and with 64-bit support in place this should remain the case for some time to come. The flagship offers top notch performance for any use case and may not be surpassed in 2015, looking at just the 5" size (obviously the Note 5 is coming and should be a bit faster).</paragraph>
+			<paragraph>Cloud storage can be just as effective for backups - being equally seamless when running in the background. And you do get 115GB worth of free OneDrive storage with each Galaxy S6, so that's a start, isn't it?</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook and telephony<subsectionTitle>
+			<paragraph>The Samsung Galaxy S6 has a strong reception and good in-call audio. If you run the Adapt sound feature you it can tune the call sound when you use a headset. The in-call equalizer for the phone's earpiece is gone though.</paragraph>
+			<paragraph>The dialer has a Material Design paintjob. Smart dialing (searching through contacts by using the keypad) and speed dialing (assigning a contact to a number on the keypad) are on board. Video calling is also natively supported, not that many people use it.</paragraph>
+			<paragraph>Additional tabs in the app show the call log, favorite contacts and a list of all contacts. You can use the separate Phonebook app for that.</paragraph>
+			<paragraph>The Phonebook is a list of contacts with a search field and an alphabet index. The contact info card has been cleaned up and shows the contact image (you can swipe down to view it fully), below that are the phones and emails with quick buttons to call/send message.</paragraph>
+			<paragraph>Here you'll also find the latest messages and calls with that contact. The View more toggle displays all the additional info. You can swipe left to call a contact straight from the list, right to send them a message.</paragraph>
+			<paragraph>The built-in call rejection feature lets you block calls from certain numbers or all numbers not in your phonebook. Do not disturb mode can be scheduled on select days and during certain periods of the day. You can set it to make an exception for certain notifications, including allowing only calls from your favorite contacts.</paragraph>
+			<paragraph>Samsung is sticking to a single loudspeaker with this generation of the Galaxy S flagship, but it has audibly improved in quality. It's not very loud though, overall a bit quieter than the Galaxy S5, but it falls under the Average category with similar results as the dual-speaker HTC One (M8).</paragraph>
+			<paragraph>Update, March 16: Following much controversy regarding the loudspeaker performance of the Galaxy S6 in the review comments, we ran our loudspeaker test again on both the Galaxy S6 and Galaxy S5.</paragraph>
+			<paragraph>Update, April 3: We received a retail unit and retested the loudspeaker. The numbers came out similar to the March 16 scores with small changes. The Galaxy S6 keeps its Good rating.</paragraph>
+			<paragraph>This time the Galaxy S6 managed a better result, especially when it comes to ringing - it turned out the culprit for the less than stellar result of last week was a mere equalizer setting. Yes, those affect the loudspeaker too, not only the headphone sound.</paragraph>
+			<paragraph>Unfortunately, the Galaxy S5 running on Lollipop scored higher as well thus once again outperforming our Galaxy S6 test unit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>By default the Messages app has a clean looking UI, but you can customize font size, backgrounds and speech bubble style. The app shows a row of priority contacts, below that is the list of all conversation threads. You can use pinch zoom to change the font size in a conversation thread.</paragraph>
+			<paragraph>A built-in spam filter weeds out messages from select numbers or containing certain phrases. You can also schedule messages to be automatically sent later (so you don't forget).</paragraph>
+			<paragraph>The Samsung-modified Email app looks almost identical. The top row is a shortcut to show emails only from just priority contacts or you can view a combined inbox if you have multiple accounts added.</paragraph>
+			<paragraph>The Gmail app also handles multiple accounts - even ones not on Gmail - and adheres more strictly to Material design principles. Add push notifications and we end up using it more often than the Email app.</paragraph>
+			<paragraph>The Samsung keyboard features a dedicated numbers row. You can tweak the size of the keyboard slightly, making it taller or shorter and if you are okay with a tiny keyboard, you can use the small floating one. You can add text shortcuts (so 'brb' gets replaced with 'be right back') and there's predictive text.</paragraph>
+			<paragraph>It can update its database with popular words weekly and learn from your messages and contacts. Swiping can be set to move the text cursor or as an input method.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The latest TouchWiz gallery app draws inspiration from Apple's iOS and HTC's Sense. The default view shows photos grouped based on time. Thumbnails are shown on a clean white background and you can change their size with a pinch zoom.</paragraph>
+			<paragraph>Speaking of, the Gallery app can view your Picasa online folders but not Facebook.</paragraph>
+			<paragraph>The Categories view groups multimedia by type - pictures, videos, slow-mo videos, Virtual shots and so on. The People category groups photos based on the faces in them. There's also a Documents category. You can use the Search shortcut to look for photos based on category, people, time, event, location and so on.</paragraph>
+			<paragraph>Batch operations are gone, but you can easily move photos to Private mode (this requires activating the mode). Editing tools include simple things like Auto adjust, crop and rotate, but you can also do collages and go into the Photo editor, which is the usual Android editor with more advanced crop and rotate tools, color adjustment, effects and dedicated portrait enhancements (slim face, large eyes, you get the idea).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>Samsung's TouchWiz music player was one of the most feature-rich apps, but the company has done some work to trim the fat. The app looks very clean now, essentially it has just two screens.</paragraph>
+			<paragraph>One lets you browse tracks and playlists, with a dropdown menu to switch between views including Folder view. The Music square is gone. The other screen is the Now playing with album art and a few playback controls. You can transfer playback to a Bluetooth or a DLNA device.</paragraph>
+			<paragraph>SoundAlive has gotten rid of the square view too, now it has two dials - one changes the balance between bass and treble, the other between instrumental and vocals. You can tap the Details button for a manual 7-band equalizer. Audiophiles should know 16-bit and 24-bit FLAC audio works out of the box.</paragraph>
+			<paragraph>Adapt Sound is available to automatically tune the equalizer based on your headphones and your hearing. Additional options include SoundAlive+ (creates a surround sound effect) and Tube Amp. There's also Smart volume to balance the volume between tracks and playback speed if you want to slow down or speed up the playback (useful for audio books we guess).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The video player has been simplified too and the DLNA view is gone. You can still send video files to DLNA players or use screen mirroring. Alternative you can beam just the audio over Bluetooth, the Play audio only option is useful for music videos - playback continues, while you use the phone as normal.</paragraph>
+			<paragraph>The video player supports all kinds of video file types and codecs, up to 4K 2160p encoded with the new H.265/HEVC codec. As usual multi-channel audio (AC-3, DTS) is not supported. Pop up mode puts the video in a small floating window so you can keep watching while using the phone.</paragraph>
+			<paragraph>There are extensive subtitle settings with adjustable font and text size, text color, edge and background. Multiple presets are available and you can make your own.</paragraph>
+			<paragraph>There are built-in video editing options including trimming, video color effects and adding background music (with sliders to control the audio volume from both the video and the background music). A more advanced video editor can be downloaded. It can assemble multiple videos and audio tracks together.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Top-notch audio quality<subsectionTitle>
+			<paragraph>The Samsung Galaxy S6 audio output is easily among the cleanest we have seen a smartphone produce. Posting excellent scores top to bottom in the first part of our test, the Samsung flagship barely let its stereo crosstalk spike in the second one. In fact the stereo quality with headphones is the best in the class as you can see from the result table below.</paragraph>
+			<paragraph>Overall this is some of the most accurate audio reproduction you can find on the market and one that should be good enough for even the most demanding audiophiles.</paragraph>
+			<paragraph>On the other hand volume levels, while good, are not quite among the best we've encountered. The Samsung Galaxy S6 is still going to be loud enough for the majority of users, but the HTC lineup holds a lead in that department.</paragraph>
+			<paragraph> Samsung Galaxy S6 response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+			<paragraph>Update, April 3: we retested the audio quality with a retail unit and we got the same numbers as the pre-release unit we used initially. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera<subsectionTitle>
+			<paragraph>The camera on the Samsung Galaxy S6 borrows the 16MP Sony IMX240 sensor that the Galaxy Note 4 uses, but puts it behind a lens with a wider, f/1.9 aperture. This lets more light in and makes for much improved bokeh effects. The camera software is highly sophisticated too.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>One of our favorite features is the quick launch - double press the Home key from anywhere in the UI and the camera pops up in less than a second.</paragraph>
+			<paragraph>The UI is pretty simple, most settings are available on the viewfinder. The selection changes as you go between the different shooting modes. You can download new shooting modes, but currently only Sports shot is available.</paragraph>
+			<paragraph>In Auto mode casual users can skip tapping the HDR icon altogether. There's an auto HDR option so you don't have to turn it on and off each time.</paragraph>
+			<paragraph>There's also an automatic night mode that fights handshake in the dark. Several color effects are available with a few more in the download section.</paragraph>
+			<paragraph>Tracking autofocus automatically follows moving subjects, making sure they stay in focus. This can't be used in for 2160p video though.</paragraph>
+			<paragraph>Selective focus makes a comeback - it snaps two photos and then lets you chose near focus, far focus or everything in focus. The Galaxy S6 camera is quite good at macro shots and creates a great soft focus on its own, so with some experience you don't need this software trickery.</paragraph>
+			<paragraph>The software guesswork is not particularly accurate, so we tried some macro shots. The wide f/1.9 aperture creates a great lens bokeh in macro shots to begin with. The Selective focus mode lets you soften the background even further, but the quality doesn't do the camera justice.</paragraph>
+			<paragraph>Galaxy S6 image quality</paragraph>
+			<paragraph>Samsung not only has changed the lens compared to the Galaxy Note 4, but has also fine tuned the image processing. As a result the Samsung Galaxy S6 photos look even better when observed at 1:1 magnification.</paragraph>
+			<paragraph>Detail is impressively sharp. Noise is kept in check, while processing artifacts from noise reduction are hard to spot, foliage in particular looks great. Software sharpening is moderate too, Samsung has been known to dial it up in the past. White balance is spot on even in tricky conditions and the color saturation has been brought even further down from the already toned down setting in the 2014 generation.</paragraph>
+			<paragraph>The dynamic range is quite wide and you can improve it further with HDR mode. It's very fast so you can just leave it on auto without slowing down the shot to shot time. The HDR mode has a light touch, brightening shadows and recovering highlights, but the changes might be too small for some.</paragraph>
+			<paragraph>The Samsung Galaxy S6 shoots panoramas with very high resolution - 3,200px tall if you hold the phone upright, 1,800px if you hold it on its side. The software and fast chipset make shooting very simple, you just start panning in one direction.</paragraph>
+			<paragraph>The resulting images are rich in detail and aside from the moving cars and the ledge that was too close, there are no major stitching artifacts.</paragraph>
+			<paragraph>The selfie camera can also take HDR photos (good when the sun is at your back) and can do Virtual shot. The wide selfie mode works kind of like a panorama - it stitches three photos for a wider field of view. You get instructions (e.g. tilt phone forward) to keep you on track.</paragraph>
+			<paragraph>The 5MP selfie camera is of pretty good quality and captures photos with plenty of detail and little noise. Color rendering is comparable to the main camera, slightly less saturated. It's a 4:3 camera though, unlike the 16:9 main camera.</paragraph>
+			<paragraph>You can enable Wide selfie to make a photo more suitable for widescreens. The stitching is as good as panoramas shot with the main camera.</paragraph>
+			<paragraph>Finally, Interval shot is a like a photo booth, snapping four shots with a few seconds between each.</paragraph>
+			<paragraph>Here's the Samsung Galaxy S6 in our Photo quality comparison tool, where you can pit it against its predecessor, the Galaxy S5, and the Galaxy Note 4. The Galaxy S6 camera is noticeably better than that of the Galaxy S5. As for the Note 4 - the jury is still out on this one. In certain cases it's the Galaxy Note 4 that comes out with the more detailed images, while in other - it's the Galaxy S6.</paragraph>
+			<paragraph>   Samsung Galaxy S6 in our Photo comparison tool</paragraph>
+			<paragraph>Low light test shots: Galaxy S6 vs. iPhone 6</paragraph>
+			<paragraph>Update, March 16: By popular request from our readers, after the review was published, we took the time over the weekend to try the Galaxy S6 in low light shooting. We brought an iPhone 6 along for comparison this time around, but rest assured, we'll be bringing you a dedicated camera shootout between the Galaxy S6 and the Galaxy S5 and Galaxy Note 4 in the following days.</paragraph>
+			<paragraph>Our general hands-on impression is that the Galaxy S6 is better suited for low light shooting than the iPhone 6. The Samsung Galaxy S6 camera is higher-res to begin with. Its wider aperture allows more light to reach the sensor, while the built-in optical stabilization makes it easy to shoot at lower speeds than the iPhone 6. Noise performance of the two is about the same. The Galaxy S6 almost invariably picked a much pleasant white balance setting, and it produced more natural and generally, better looking colors, while the iPhone 6 tends to desaturate low light shots.</paragraph>
+			<paragraph>The only caveat in the excellent low light performance of the Galaxy S6 is the low shutter speeds that the camera picks - it's not uncommon to see it shoot with a shutter speed as low as 1/10s (not unlike the iPhone 6 Plus). The OIS certainly wards off camera shake from ruining the shots, but it won't be of any use if your subjects are moving - they would come out as blurry in this case.</paragraph>
+			<paragraph>The last camera sample is shot in almost pitch dark. The Galaxy S6 employed its Auto Night Mode, while the iPhone 6 went for ISO2000. Looking from up close, the Galaxy S6 again did much better here.</paragraph>
+			<paragraph>Here's a quick comparison of how the flash on the two devices operates in almost pitch dark. The scene is really dark to begin with, forcing the Galaxy S6 to activate its Auto Night mode. The iPhone 6 sensor sensitivity went as high as ISO2000 for this one. As far as resolved detail is concerned, the Galaxy S6 is much better.</paragraph>
+			<paragraph>When the LED flashes went off, the Galaxy S6 still retained the upper hand, producing a brighter, more detailed image, along with more natural white balance and colors, despite the iPhone 6 boasting a Dual Tone flash, which should supposedly help in such conditions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>There's no dedicated video mode because most settings work for videos too. Even Pro mode, though you can't adjust the settings during recording and the autofocus will override your setting as soon as the video starts.</paragraph>
+			<paragraph>Anyway, the Samsung Galaxy S6 tops out at 2160p resolution, but it can also do 1080p at both 30fps and 60fps and 720p video at up to 120fps (that's handled by the Slow Motion mode). The front camera shoots only at 30fps, but goes over 1080p - it maxes out at QHD video to match the phone's screen.</paragraph>
+			<paragraph>HDR and color effects are available for video, though 2160p disables them, taking pictures while shooting video, the tracking autofocus and the additional software stabilization.</paragraph>
+			<paragraph>The 2160p videos are shot at the usual 48Mpbs total bitrate, all videos from the Galaxy S6 have 256Kbps/48kHz audio. The videos nail 30fps and a still frame has a good enough quality to pass for an 8MP photo. The videos are sharp, have practically no noise and accurate colors, good dynamic range too.</paragraph>
+			<paragraph>The 2160p videos can't make use of the digital image stabilization but the optical one is quite good on its own.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Moving on to 1080p at 30fps, we drop to 17Mbps bitrate. The quality remains high and there's as much detail as possible at this resolution. There's HDR mode at this resolution, which brings in more detail in the shadows and improves the highlights. The HDR effect is barely noticeable though. In this mode both the OIS and the digital image stabilization are available.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>We're not done with 1080p, the Galaxy S6 can go up to 60fps. This takes up more storage (28Mbps bitrate) and causes a slight drop in sharpness, but it's worth it for the smoother motion. 30fps has inherent limitations when shooting fast-moving objects and while 4K UHD TVs are still fairly rare (but quickly growing in popularity), practically all TVs can handle 60fps. Digital image stabilization is not available in this mode.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Finally, in Slow motion mode the camera goes back up to 48Mbps but is now shooting 720p @ 120fps. Videos are actually recorded at 120fps, but you can edit them on the phone - trim beginning and end and choose between half, quarter and eighth playback speed. Here's how it looks when we drop to 30fps (playing at a quarter of real time speed).</paragraph>
+			<paragraph></paragraph>
+			<paragraph>As usual, you can check the untouched 2160p@30fps video sample, 1080p@60fps video and a 1080p@30fps video sample  straight off the device.</paragraph>
+			<paragraph>If you want to compare still frames from the videos, our Video quality comparison tool makes that easy. Here's how the Samsung Galaxy S6 compares against other 2160p shooters.</paragraph>
+			<paragraph>   Samsung Galaxy S6 4K in our Video comparison tool</paragraph>
+			<paragraph>And here's another similar comparison, but this time for the 1080p video.</paragraph>
+			<paragraph>   Samsung Galaxy S6 1080p in our Video comparison tool</paragraph>
+			<paragraph>Low light 1080p video: Galaxy S6 vs. iPhone 6</paragraph>
+			<paragraph>Update, March 16: Besides our dedicated low light camera comparison to the iPhone 6, we also attempted an impromptu low light video comparison between the two devices.</paragraph>
+			<paragraph>Since 30fps videos cannot use shutter speeds lower than 1/30s, that's one area where the Galaxy S6 clearly has the upper hand with its wider aperture as it captures more light for one and the same shutter speed. As a result, the Galaxy S6 captures the night scene with much better overall exposure, even if the level of resolved detail in the iPhone 6 video seems to be somewhat higher.</paragraph>
+			<paragraph>Here is a set of single frame captures taken from the 1080p video footage, which demonstrates our findings.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Browser and Chrome<subsectionTitle>
+			<paragraph>The Internet app is the Android browser modified by Samsung. It supports multiple tabs (including incognito ones) and if you sign into your Samsung account, it will sync open tabs and bookmarks with other devices on that account.</paragraph>
+			<paragraph>A cool features lets you use your fingerprints to sign into web sites. The first time you enter username and password as normal and then select the option to remember the login using fingerprints. Then when the website asks for a login the phone will prompt you to put your finger on the Home key and a second later the info is filled in and submitted. We found that this doesn't work with all types of login pages, but it should work on most.</paragraph>
+			<paragraph>Chrome comes on all Androids as part of the Play Services package. It can sync tabs too (based on your Google account) and has the data-saving option of compressing pages before they are sent to the device. It will even automatically detect foreign language sites and offer to translate them.</paragraph>
+			<paragraph>Both the Internet app and Chrome support Multi Window.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other preinstalled apps<subsectionTitle>
+			<paragraph>Samsung has partnered with Microsoft and offers three preinstalled apps (that you can't uninstall either). There's OneDrive to handle cloud-syncing needs (including photo backup). You get a free 100GB with your phone. There's also OneNote for a more advanced note taking and syncing experience than the Memo app offers and finally Skype.</paragraph>
+			<paragraph>There are also WhatsApp, Instagram and Facebook Messenger and no ChatOn. Samsung has eased off on doing everything itself and with three apps has covered the majority of social networking users. Not that you can't install those apps yourself, but it sends a message that the Galaxy S6 is a phone for the hundreds of millions that use those apps.</paragraph>
+			<paragraph>The Storage section leans on Clean Master to free up some storage by deleting unnecessary files. RAM closes running apps to free up RAM. Other than misbehaving apps, we can't think of a reason to manually close apps on a 3GB device.</paragraph>
+			<paragraph>S Health has been polished. It can sync your health data with your Samsung Account (optionally via Wi-Fi only). The new UI uses simple cards that count your steps, offer to measure your heart rate, track what you eat and drink, your sleep and various exercises.</paragraph>
+			<paragraph>The phone has the hardware to do spot measurements of your heart rate and blood oxygen saturation and estimate stress. You can add external sensors for continuous tracking. The app comes with three built-in programs that will train you, building up to a 10K run. It's not all about exercise, S Health can help you eat healthier or make sure you get proper rest.</paragraph>
+			<paragraph>The Voice recorder app has Interview mode, which uses the mic array to suppress sounds from the sides. You can also mute one side of the conversation so only the answers of your interviewee are audible. The other mode is Voice memo, which automatically transcribes the note into text.</paragraph>
+			<paragraph>The Peel Smart Remote app uses the IR blaster on the top of the Samsung Galaxy S6 to control your TV and media setup. It also doubles as a TV Guide so you can see what's on, flip directly to that channel or set a reminder if it airs later. The app can handle TVs, disc players, AV receivers, streaming boxes (Apple TV and Roku) as well as air conditioners.</paragraph>
+			<paragraph>S Planner is the familiar Samsung replacement for the Google calendar. It defaults to a Month and agenda view, and has a clean Material Design interface. You can add a 7-day weather forecast and multiple calendars.</paragraph>
+			<paragraph>The My Files app is the built-in file browser. It's beginner friendly with its Category view (e.g. view all photos), but you can browse the whole internal storage). The app also integrates Google Drive so you can seamlessly handle files in the Google cloud.</paragraph>
+			<paragraph>S Voice is still on board, even though it had to relinquish its traditional shortcut. It can handle a wide variety of voice commands - call or text someone, take down memos and calendar notes, check the weather or read the news, answer spoken questions and so on.</paragraph>
+			<paragraph>The app has no UI, it just needs an initial training (you say an activation phrase four times). Then from anywhere in the UI you speak the phrase and your command, all you'll see is a small graphical equalizer at the bottom of the screen as you speak. Google Now can do plenty of these things (even if it's not as conversational).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>If you are not sure what to think and how to feel about the Samsung Galaxy S6, you came to the right place. We'll do it for you. Here's the deal. You're free to feel any way you like. Impressed. Upset. Confused? Sounds familiar.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We've come to take it for granted that every new Galaxy S generation will add new features and beef up specs. The Galaxy S6 takes away. It's been encoded in Samsung's DNA to try and beat every spec of any rival. The Galaxy S6 omits the very features that, presumably, kept Samsung at the top.</paragraph>
+			<paragraph>Is this their way of saying we'll beat you even with one arm tied behind our back? We didn't become the market leader because the competition was stupid enough to not care about memory expansion and removable batteries.</paragraph>
+			<paragraph>Who knows, they may be this arrogant. Or maybe the Galaxy S6 is trying to say that the S-line can change and still be better than most.</paragraph>
+			<paragraph>But can it be the best Galaxy S smartphone yet without a memory card slot, removable battery and water-proofing? The best screen and chipset in business might as well help.</paragraph>
+			<paragraph>Key test findings</paragraph>
+			<paragraph>Last couple of seasons, the Galaxy S to get was the one powered by a Snapdragon chipset. The Galaxy S6 leaves nothing to chance... and goes all out with Exynos. The 14nm Octa 7 is quite a feat and the Qualcomm's Snapdragon 820 is months away at best.</paragraph>
+			<paragraph>Samsung has always insisted on the best available hardware for the Galaxy S-line and that's one thing that hopefully will never change. The QHD AMOLED screen and the Exynos 7420 chip are Samsung-made components, the 16MP sensor with optical image stabilization courtesy of Sony.</paragraph>
+			<paragraph>Wireless charging support right out of the box, LTE Cat.6, a much improved fingerprint scanner and heart-rate monitor round of a proper flagship package. The simplified and polished TouchWiz adds better theming support to the familiar solid multi-tasking features. The Galaxy S6 comes with 32, 64 or 128 GB of the super-fast UFC 2.0 storage and 3GB of new generation LPDDR4 RAM. You will be also getting 115GB of OneDrive storage out of the box, which is great. Other Microsoft goodies are OneNote and Skype.</paragraph>
+			<paragraph>The bad? Well, no memory expansion and no access to the battery are big no's in our book and that won't change overnight. The lack of water-proofing isn't a deal-breaker, but even if it was, Samsung would kindly point you to the Galaxy S6 Active, which is just around the corner.</paragraph>
+			<paragraph>Very few real competitors offer a user-replaceable battery. Expandable memory is a different story - probably the biggest risk the Galaxy S6 is undertaking. If that steers more customers to the Note 4 though we don't think Samsung will mind.</paragraph>
+			<paragraph>The Snapdragon 805-powered Galaxy Note 4 also offers a Quad HD Super AMOLED screen, just bigger. It has the same camera sensor but the old-gen fingerprint scanner. The S-Pen and its dedicated apps are hard to say no to at about ?150 less than the expected launch price of the Galaxy S6.</paragraph>
+			<paragraph> Samsung Galaxy Note 4</paragraph>
+			<paragraph>That said, the Galaxy S6 Edge is probably the toughest in-house competitor - if you're on an unlimited budget. That curved display makes an already premium phone absolutely unique and we understand those who think it should've been the one and only flagship. Yep, we've seen it and if it doesn't help you get over the missing card slot we don't know what will. It's an extra ?150 for the double-edged screen, take it or leave it.</paragraph>
+			<paragraph> Samsung Galaxy S6 edge</paragraph>
+			<paragraph>The HTC One M9 is the only flagship by a major manufacturer that debuted right along the Galaxy S6 - and may even beat it to market. It's stuck at a 1080p screen - but the probable upside is faster performance by the S810 chip. It has the familiar all-metal unibody, graced with BoomSound speakers and the camera sounds quite promising on paper. It omits a fingerprint scanner but has expandable memory and costs about the same as the Galaxy S6, which we don't think is doing the M9 any favors.</paragraph>
+			<paragraph> HTC One M9</paragraph>
+			<paragraph>The LG G Flex2 with its curved P-OLED 1080p display, self-healing rear cover and Snapdragon 810 chip is worth checking out, especially considering it costs less than the Galaxy S6. The unique design is complemented by a capable OIS 13MP camera and although the curved body rules out a removable battery, a microSD card slot is available.</paragraph>
+			<paragraph> LG G Flex2</paragraph>
+			<paragraph>Finally, Apple. The most likely rival to push Samsung out of their comfort zone. The one to prove a point to. The one that does not compete for specs and benchmarks - and therefore the one that's hardest to beat. The Galaxy S6 is a couple of generations ahead in the numbers game but clearly learning from Apple in terms of design. So much so that if it wasn't for the Edge, Samsung would've had trouble responding to allegations of copying this time around.</paragraph>
+			<paragraph>  Apple iPhone 6 ? Apple iPhone 6 Plus</paragraph>
+			<paragraph>Anyway, another pair of flagships will make things even more interesting. The Sony Xperia Z4 and the LG G4 will eventually challenge the Samsung Galaxy S6 for the Android top spot. Sounds just like last season. But it's different. It almost looks like Samsung is breaking their own rules just to make it more exciting. Wrong. They darn sure want to win again.</paragraph>
+		</subsection>
+	</page>
+</review>

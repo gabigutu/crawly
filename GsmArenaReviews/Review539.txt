@@ -1,0 +1,352 @@
+<review>
+	<title>Sony Xperia M5 review</title>
+	<description>Changing swim lanes</description>
+	<link>http://www.gsmarena.com/sony_xperia_m5-review-1306.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Optional Dual SIM support (Xperia M5 Dual)</paragraph>
+			<paragraph>5.0" 16M-color 1080 x 1920 IPS LCD capacitive touchscreen with Mobile BRAVIA Engine 2</paragraph>
+			<paragraph>Android OS v5.0 Lollipop</paragraph>
+			<paragraph>Octa-core 2.0GHz Cortex-A53; Mediatek MT6795 Helio X10, PowerVR G6200, 3GB RAM</paragraph>
+			<paragraph>21.5MP camera with 2160p@30fps video and Hybrid Phase Detection auto focus; 13MP front-facing camera with 1080p@30fps video</paragraph>
+			<paragraph>16GB of built-in storage and a microSD card slot</paragraph>
+			<paragraph>LTE Cat.4 (150Mbps); Dual-band Wi-Fi a/b/g/n; A-GPS/GLONASS receiver, Bluetooth v4.1, FM radio with RDS, USB host</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>2,600mAh non-removable battery</paragraph>
+			<paragraph>IP68 certified - dust and water proof up to 1.5 meter and 30 minutes</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non-removable battery</paragraph>
+			<paragraph>Wi-Fi lacks a/c support</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Sony's tight flagship release schedule went in overdrive this season with the Z3+, Z4v and the Z5 all right on each other's heels. Making no attempt to slow down, the Japanese are taking that spirit to the midrange as well. What are you waiting for? Upgrade.</paragraph>
+			<paragraph>Now, assuming that you did what any sane person would do and skipped the so-called flagship Z3+, what about people who got an M4 Aqua and were preparing to enjoy a pretty solid package for at least a year? Shall we all sympathize or is the Sony Xperia M5 a whole different kind of phone?</paragraph>
+			<paragraph>Sony would at least like you to believe so by getting rid of the Aqua moniker. Understanding how it can cause plenty of confusion, let's get it straight. The Xperia M5 has the very same IP68 certification for dust resistance and water proofing, letting it withstand submersion in up to 1.5 meters of water for up to half an hour.</paragraph>
+			<paragraph>Another thing the M4 and M5 have in common is the wide range of modifications: each has a Dual SIM variant, the one we're actually reviewing, as well as plenty of regional editions that mostly differ in terms of LTE band compatibility. And as long as we're on the subject, it is quite important to note that the M5 will have limited availability as it gets released, meaning that at least initially, it won't get in the way of the M4 Aqua in any way.</paragraph>
+			<paragraph>The overall shape, size and look are virtually the same, both built around a 5.0-inch screen. Yet, despite the visual similarities, the M5 is an all-round upgrade: screen resolution is bumped up to FullHD, RAM is 3GB and both cameras have about doubled the resolution: 21.5MP on the back and an impressive 13MP unit up front. But perhaps the biggest change of all is the chipset, which no longer comes from Qualcomm's factories.</paragraph>
+			<paragraph>It's not the first time that Sony is partnering with MediaTek, Taiwanese silicon powering quite a few Xperias in the C series and the entry-level E-series. This time around though, it's the top-of-the-line Helio X10 - a step up from the Snapdragon 615 inside the Xperia M4 Aqua.</paragraph>
+			<paragraph>The powerful eight cores, each running at 2.0GHz and the PowerVR G6200 GPU, put the M5 in a different league. The spec sheet is taking a stab at flagship performance, all while trying to stay within a midrange budget. Well, upper-midrange at most.</paragraph>
+			<paragraph>The M5 currently costs a good $100 more than the M4 Aqua, at a little over $400, but it looks like the upgrades it offers are worth the extra cash. The Xperia M5 has a potent CPU / GPU combo, an impressive camera setup, plenty of RAM for multitasking and a crisp 5.0 inch FullHD display.</paragraph>
+			<paragraph>Design-wise, the phone is almost identical to the M4 Aqua with only a few details giving it away. The M5 is actually executed following Sony's old "Omni-Balance" design, cautiously revised by the Z5 line but by no means completely redone. Anyway, if you are still into the classic Xperia look, the M5 will not disappoint.</paragraph>
+			<paragraph>Follow us to the next page for some close-ups. Then we'll see the Sony Xperia M5 in real action.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Sony Xperia M5 is an imposing five-incher but the general impression is toned down by the clean lines of the classic Sony design and the reasonably slim profile.</paragraph>
+			<paragraph>There's little to set the Xperia M5 apart from the M4 Aqua, which in turn is quite reminiscent of the ex-flagship Xperia Z3. Even the dimensions are almost identical: 145 x 72 x 7.6mm for the M5, as opposed to 145.5 x 72.6 x 7.3mm for the M4 Aqua.</paragraph>
+			<paragraph>So, the M5 is a tiny bit smaller, but slightly thicker and heavier, weighing in at 142.5 grams. The new camera setup surely accounts for some of the extra heft.</paragraph>
+			<paragraph>The M5 has the same overall appearance, as its predecessor, down to every corner and groove of the device. Build quality seems to be comparable as well. Everything on the M5 Aqua is nicely put together and fits tightly, it's an IP68-certified device after all.</paragraph>
+			<paragraph>Expensive finish like glass and metal reserved for the high-rolling Z series, the Xperia M5 has been treated to plastic but still manages a stylish appearance. The back cover also seems to be sturdier this time around - there is almost no give when pushed, which we noticed on the M4 Aqua.</paragraph>
+			<paragraph>Sony has really got the most out of the available materials. The body feels nice to the touch and the finish does not look cheap in any way. The M5 comes in two classic colors and, just like the M4 Aqua, has a flashier third option - in this case bright gold. This is exactly the unit we have and the gold paintjob is a touch too much bling to our taste.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The M5 is undoubtedly based on the M4 Aqua, but a few notable changes in the hardware and control layout were inevitable. The phone is equipped with a 5.0-inch IPS display, just like its sibling, but now with a seriously improved resolution of 1080p. That makes for a respectable 441ppi, up from 294ppi on the M4. Bezels have been slightly slimmed down compared to the M4 Aqua but, with a screen to body ratio of 66%, the M5 still has a little too much of those.</paragraph>
+			<paragraph>Above the screen, the front camera has kept its place to the right of the Sony logo but the lens is noticeably bigger - no surprise, considering it's now 13MP instead of 5MP. The phone does not feature any physical buttons at the front, so the area below the display is mostly empty, except for the mouthpiece, which mirrors the earpiece.</paragraph>
+			<paragraph>Going around the device, we find the left side now somewhat less cluttered. The microUSB port which resided there on the M4 Aqua is now moved back to the bottom of the handset, where it simply feels more natural. The only thing left on the left is a flap covering the card slots. Depending on the version you get, the upper compartments fits one or two Nano-SIM cards. The lower tray is for a microSD card, with a theoretical cap of 200GB.</paragraph>
+			<paragraph>The right-hand side is a little bit more crowded, but still better than the M4 Aqua. Moving the SIM slots on the left has freed up some extra space for the signature round Power/Lock button, conveniently placed slightly above the middle of the device and, below it, a slim volume rocker. Near the bottom, there is a very thin and almost unnoticeable shutter button. It makes taking photos all that more-convenient, especially underwater where the capacitive touchscreen would be of little use.</paragraph>
+			<paragraph>The 3.5mm headphone jack is placed on the top of the device, in the right corner. Next to it is the secondary noise-canceling microphone.</paragraph>
+			<paragraph>The bottom of the Xperia M5 houses a speaker on the left and the microUSB port. Just like on the M4 Aqua, the USB is exposed, no flap to undo to charge or connect the M5. Sony has applied some additional waterproof coating to the microUSB port, making it is just as waterproof as its old solution.</paragraph>
+			<paragraph>Around the back, the the finish is also Corning glass, just like on the front and is equally prone to smudging. It only features the new 21.5MP main camera and a single LED flash.</paragraph>
+			<paragraph>Other than that, there is both Sony and Xperia branding near the bottom and a tiny NFC logo. Actually, the only real difference between the back of the M4 Aqua and the M5 is in the position of the flash, but you really have to know what to look for.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Sony Xperia M5 is equipped with an IPS LCD panel with a resolution of 1080 x 1920 pixels and the in-house Triluminos and Bravia tech to enhance colors and contrast by clever processing.</paragraph>
+			<paragraph>The Sony Xperia M5's IPS LCD has an RGB matrix and, although it doesn't look all that impressive on paper, our test revealed that it is a pretty decent panel, albeit not particularly bright. Viewing angles are superb, with almost no washout and only a slight loss of brightness.</paragraph>
+			<paragraph>The maximum display brightness is quite good (520nits), but interestingly, it's only achievable in manual brightness mode. The Auto mode can only deliver a brightness of up to 470nits or so. The achieved contrast ratio of 839:1 is not bad at all, but is far from stellar - probably hurt to an extent by the fairly bright blacks.</paragraph>
+			<paragraph>Sunlight legibility is about average and it undoubtedly suffers from the lower contrast at full brightness. Still, it is slightly better than the M4 Aqua, but during our test, we did find it to be difficult to read outside.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Color rendering without image enhancements is fairly accurate (Avg deltaE 5.8 for the primary colors plus black and white), with the reds being the worse (deltaE 11.6). Color accuracy of course takes a hit as soon as you turn on any of the image enhancements.</paragraph>
+			<paragraph>The Mobile BRAVIA mode is not that bad at all, but as expected, the Vivid mode produces quite unrealistic colors and contrast.</paragraph>
+			<paragraph>As usual, display colors are a matter of personal taste and perception so if you don't need calibrated color output, you will probably be quite happy with the default settings of the Xperia M5 display.</paragraph>
+			<paragraph>You can fine tune the display color rendering to an extent as it gives you fine grain sliders for adjusting the Red, Green and Blue channel, but the UI is far from user friendly and unlikely to produce any serious results without a reference point sitting side by side with the display. Even worse, as soon as you start fiddling with those sliders, the maximum brightness goes down to about what you get in Auto Brightness mode.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia M5 battery life<subsectionTitle>
+			<paragraph>Sony has a 2,600mAh battery inside the Xperia M5, which is some 200mAh more than the M4 Aqua, but the extra capacity may not be enough for the more powerful Helio X10 chip and the higher res screen. That said, a comparison would definitely be interesting between the M5 and the Snapdragon 615-powered M4 Aqua.</paragraph>
+			<paragraph>The battery pack itself is not user-removable, which is where the industry has been heading for some time now. At least, the M5 has a better reason than most for keeping a tight seal on the back.</paragraph>
+			<paragraph>We ran our battery test but the test results we got seem way out of check, so we promise to retest the battery once we get a retail review unit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Sony Xperia M5 comes in single and dual SIM flavors. Both the M5 and the M5 Dual offer quad-band GSM/GPRS/EDGE/HSDPA support, with the small exception of the single-SIM E5606 model, which supports five bands. LTE is enabled and Sony has multiple regional models to make sure the Xperia M5 will work with the most widespread 4G networks.</paragraph>
+			<paragraph>Local connectivity features dual-band Wi-Fi b/g/n and Wi-Fi Direct. There is also support for Bluetooth 4.1 with A2DP. Satellite navigation is also a given, with additional A-GPS and GLONASS support. The Xperia M5 also has an FM radio with RDS. It doesn't offer an IR port, but it does come with NFC.</paragraph>
+			<paragraph>There is a microUSB 2.0 port for charging and data connections and now, thanks to special coating, it is no longer covered by a flap. Media transfer mode is supported for accessing the phone's built-in memory and microSD card over the USB cable. USB host functionality is present, but requires a little more work than simply plugging in a device. There is a special menu under Xperia Connectivity in the setting that allows you to discover a plugged USB device.</paragraph>
+			<paragraph>The microUSB port doesn't have any wired TV-out, but if you own a compatible HDTV, you can output your phone's screen wirelessly via the Miracast protocol or Sony's Xperia Connectivity Throw option.</paragraph>
+			<paragraph>The app also lets you share your media over DLNA by creating a media server, as well as connect to a PlayStation DUALSHOCK 3 (or 4) wireless controller.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android Lollipop with a pinch of Xperia<subsectionTitle>
+			<paragraph>After a slightly hesitant transition into Android Lollipop, Sony is now fairly comfortable with the new platform and is spreading it across as many devices possible. We are happy to report that the M5 comes with Android 5.0 right out-of-the-box.</paragraph>
+			<paragraph>As far as the launcher goes, Sony has gone to great lengths to preserve its signature look and feel. If you are transitioning from a KitKat Xperia, you will instantly feel that almost everything is right where you remember, just with a fresher material-design look.</paragraph>
+			<paragraph>This even extends to the bundled applications. Most of them are also practically untouched as far as navigation and UX goes, but now employ all the extra visual eye-candy of Android Lollipop. This kind of transition really takes effort and is definitely worth noting.</paragraph>
+			<paragraph>The lockscreen has undergone some changes with Android 5.0. There are no more lockscreen widgets available, apart, of course, from a selection of clocks.</paragraph>
+			<paragraph>The multiple panes have been removed as well. There are still quick shortcuts to launch the dialer and camera, which are now at the bottom left and right corners, respectively.</paragraph>
+			<paragraph>Naturally, you can protect your lockscreen by Face, Pattern, PIN or Password unlock, in ascending order of security.</paragraph>
+			<paragraph>There are five homescreen panels by default and you can set any of them as your primary one. You can't have more than seven panes at any given time though, nor can you change the order they're in.</paragraph>
+			<paragraph>You can set various live and static wallpapers, add widgets and shortcut, or change the UI theme. You can also choose which icons will be visible on the status bar, and which should remain hidden.</paragraph>
+			<paragraph>The notification area uses the standard Lollipop-style pull-down effect with multiple levels. Quick settings are on the top and notifications on the bottom. The aforementioned can be accessed by swiping from the top twice, but Sony has also preserved its two-finger swipe gesture, which extends the full shade in one stroke.</paragraph>
+			<paragraph>The toggles are customizable and you can choose between a total of 13 and have up to 9 of them visible. Their order can be adjusted manually, or you can leave that to Lollipop, which will automatically rearrange them according to frequency of use.</paragraph>
+			<paragraph>The app drawer is laid out across multiple pages and you can sort the apps in various ways. The settings for that are accessible via a swipe from the left edge of the screen and you can also search and even uninstall apps from there, as well as download new ones.</paragraph>
+			<paragraph>The Xperia M5 uses the stock Android task manager that lets you switch between the recently opened apps, as well as terminate any of them with a side-swipe.</paragraph>
+			<paragraph>The so-called "small apps" are also available in the Xperia M5 and are accessible via the task manager. They are similar to Samsung's Mini Apps, and pop up tiny widget-like applications on your homescreen, which you can move around and use without having to open the full-fledged app.</paragraph>
+			<paragraph>The list of small apps really tends to differ from one Sony to another for some reason and on our unit we found a default set of eight of those available: Active Clip, Browser, Calculator, Calendar, Timer, Touch Block, Bookmarks and Gmail. The latter two seem to come courtesy of the Chrome and Gmail apps presumably through implementing some special interface, but oddly enough they don't appear on all Xperia's with the corresponding apps installed.</paragraph>
+			<paragraph>You can launch only one instance of a Small App, but you can open multiple Small Apps simultaneously.</paragraph>
+			<paragraph>Sadly, you can't disable the small apps entirely and will always have them cramming your recent apps whether you use them or not.</paragraph>
+			<paragraph>Finally, Google Now integrates with your Google account and can access your daily routine, internet searches, email, etc. and give you information relevant to your interests and daily needs.</paragraph>
+			<paragraph>Sony has finally come to its senses and has ditched the 8GB storage option that was available for the M4 Aqua. With the M5 you get a lot more usable 16GB, but considering a lot of apps still refuse to install on external storage, you better get a card to unload your media to, just in case. Plus, an 8GB or even 16GB one is now in the sub $10 range.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmarks<subsectionTitle>
+			<paragraph>Sony's "M" series has traditionally been the definitive mid-range tier in the company's lineup. As such, the endeavor has always been to deliver premium design and style, coupled with slightly toned-down hardware and materials to keep costs low. With the M5, however, things look slightly different. The intention is practically the same, but with the introduction of more and more powerful silicon at affordable prices, Sony has managed to really pack some serious computing power inside the M5 without seriously affecting its price. The chip in question is the Mediatek MT6795 Helio X10, which packs a total of eight Cortex-A53 cores, all clocked at 2.0 GHz and is definitely unfamiliar ground for Sony, which has generally stuck with Qualcomm hardware.</paragraph>
+			<paragraph>This is exactly what we mean when describing the M5 as a toned-down flagship, as the Helio X10 does offer roughly about 30% more CPU speed than the Snapdragon 615 inside the M4 Aqua, as well as twice the number of CPU threads (eight instead of four) and faster RAM and eMMC speeds. Even Qualcomm's legendary big.LITTLE load balancing technology doesn't outshine the MediaTek's chip, which has an arguably more-advanced, albeit definitely less known version of the technology - called HMP.</paragraph>
+			<paragraph>This difference is less clear-cut when looking at the respective GPU's inside the Snapdragon 615 and the MediaTek Helio X10. The PowerVR G6200 inside the M5, arguably has more row horsepower, but the Adreno 405 inside the M4 Aqua is newer and supports more recent technologies. Neither is really a powerhouse for graphics performance, but then again, you rarely need anything more for casual gaming on Android. Still, the M5 should shine above its predecessor in this department as well, at least as far as benchmarks are concerned.</paragraph>
+			<paragraph>Overall, with a better chipset and 3GB of RAM the Xperia M5 offers a substantial hardware upgrade over the M4 Aqua, the real question is whether it can put the extra number-crunching power to good use. Let's dive into the benchmarks, but first a few words about the competition.</paragraph>
+			<paragraph>Finding suitable devices to test how well the Helio X10 was implemented wasn't exactly an easy task. The SoC is still not particularly wide-spread. However, the Meizu MX5 appears to be a prime candidate with the exact same silico, 3GB of RAM and pretty much the same display. Interestingly enough, it also costs around what the M5 goes for, so they are textbook rivals.</paragraph>
+			<paragraph>The Xiaomi Redmi Note 2 offers another implementation of the same chip with the same display resolution and slightly less RAM at 2GB, so, naturally, we threw it into the mix as well. As a major side note, the Redmi Note 2 Is currently shattering sales records in China and rightfully so, as I does cost about $160 there, which is a ridiculously good deal, but more on that in the conclusion.</paragraph>
+			<paragraph>First up, we have the raw CPU performance test with GeekBench 3 and this is where the eight 2.0 GHz Cortex-A53 cores really get to shine. If it is raw performance you are after then the Helio X10 definitely doesn't disappoint and the M5 gets a good 1000 points on top of the M4 Aqua.</paragraph>
+			<paragraph>Still, there is an interesting observation to be made and it sets the tone for a trend that persists throughout the benchmarks - we can clearly see that the Helio X10 inside the Xperia is definitely powerful, but also capable of quite more. This is evident by both the Meizu MX5 and the Xiaomi Redmi Note 2, both of which have managed to squeeze a lot more power out of the chip.</paragraph>
+			<paragraph>Sony's implementation of the MediaTek hardware doesn't really seem that optimal and this is understandable to some extent, considering this is unfamiliar ground. It could also be a software optimization issues that will be cleared up, at least to some extent, with future software releases. However, currently these are the numbers we have and we'll just leave the issue at that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu is a compound benchmark, which also takes into account RAM and GPU performance. The Xperia M5 has definitely managed to outshine its sibling and the Galaxy A7, both powered by the Snapdragon 615, but as far as the rest of the competition goes, we are looking at some less than stellar results again. Hopefully, this will change with future OS updates, as the potential is clearly there, judging by how the MX5 and Redmi Note 2 are scoring.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II is another all-round benchmark. It gives an overall score along with single, multi-core performance, math performance and more. Our M5 unit had quite a hard time running the app properly. It kept crashing and restarting and the end result, once we finally managed to get one, was unreasonably low. Naturally, we won't be taking it into account in any way, but we will point out that stability seems to be an issues with the current build we are running and some apps did experience "hiccups".</paragraph>
+			<paragraph>Moving on to pure graphics tests, which, as previously mentioned, offer quite an interesting race between the older, but more-powerful PowerVR G6200 inside the M5 and the technologically fresher Adreno 405 of the M4 Aqua. Bear in mind that since the M4 Aqua has a 720p, unlike the FullHD screen of the M5, only the offscreen tests could be a basis for judging how much Sony has improved graphic performance in one generation time.</paragraph>
+			<paragraph>The result is pretty conclusive - the M5 outshines its predecessor in power, but on the other hand, thanks to its lower resolution, the M4 Aqua does, in fact, offer better frame rates, which is arguably a lot more-important in a real-life scenario of playing an actual game.</paragraph>
+			<paragraph>Otherwise, as far as graphics are concerned, the M5 is pretty up to par with Meizu and Xiaomi, sharing the same chipset, so not much more can be squeezed out of the chip in this respect.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>On a positive note, the M5 does support OpenGL ES 3.1, but the low frame rates render it all but unusable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Xperia M5 really failed to impress in terms of browser performance. Chrome is bundled as a default browser, so one would expect at least a decent level of performance and yet, the app didn't seem to run smoothly at all. Perhaps it's more of the same software issues.</paragraph>
+			<paragraph>The M5 did manage to best its predecessor in BrowserMark, although barely, but on the other hand showed ridiculously low JavaScript performance. We are reluctant to point a finger at Chrome, which has proven itself time and time again, which only means that Sony really has some more work to do.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, at this stage of development, the Xperia M5 is quite an "underachiever". The specs sheet definitely shows a great amount of effort from Sony to really boost the "M" series in terms of performance, but the software fails to deliver on that big promise.</paragraph>
+			<paragraph>In all fairness, such problems are to be expected with our pre-production review unit, but we still feel sad for all the unutilized potential of the M5 when looking at what Xiaomi and Meizu have managed to do with the same hardware platform. Hopefully Sony will mend the situation as soon as possible and unleash the M5's true potential.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great phonebook<subsectionTitle>
+			<paragraph>The contacts app uses a tabbed interface, consisting of Contacts, Favorites and Groups. It is no longer bundled with the phone app, but you can still quickly jump to it from the dialer. The contact list has a dedicated search filed plus it offers a very nicely animated alphabetical scroll bar.</paragraph>
+			<paragraph>If you are using two SIM cards, every time you want to make a call you'll be asked to choose which SIM card to use.</paragraph>
+			<paragraph>Editing a contact is pretty straight-forward and the Xperia offers a wide variety of additional fields you can append to your acquaintances.</paragraph>
+			<paragraph>Linking contacts is available, the quick contact feature is here too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The Sony Xperia M5 was able to hold onto signal very well. Calls remained uninterrupted and the sound quality was okay. Voices came out loud enough. Clarity was also quite good.</paragraph>
+			<paragraph>The dialer supports smart dialing, so you can seamlessly search for a number or a name using the corresponding keypad buttons.</paragraph>
+			<paragraph>The noise cancelation system is also pulling its own weight ensuring pretty good background noise suppression, as reported by the other side.</paragraph>
+			<paragraph>The Sony Xperia M5 isn't particularly loud and scored a Below Average mark in out loudspeaker tests. The score was achieved with Sony's Clear Audio optimization turned off, as it does take away some of the loudness.</paragraph>
+			<paragraph>On a positive note, however, the speaker is conveniently located on the bottom frame of the phone, so accidentally covering it shouldn't be an issue.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>Messaging hasn't really changed and is the same familiar Xperia experience (yeah it does sound weird), but now with a prettier Material design interface. Text messages and MMS use standard thread layout. Adding multimedia (photos, videos, sounds, etc.) will convert the message automatically into an MMS.</paragraph>
+			<paragraph>Naturally, the Gmail client and the default Email apps are onboard. Gmail can sync only with (multiple) Google accounts, while the generic Email app can handle POP and IMAP and offers a Combined inbox.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Text input<subsectionTitle>
+			<paragraph>As for text input, the Xperia M5 offers a customizable full QWERTY keyboard. You can choose a different layout (keypad, QWERTY, QWERTY with extra symbols), add/remove the coma and period button, the smiley and voice input buttons and also enable things like bilingual word suggestions if you have more than one language enabled. Different keyboard skins are available too.</paragraph>
+			<paragraph>You can also try the so-called Gesture input if hitting those keys individually doesn't give you the desired typing speed. It's similar to what Swype offers, and even if you've never used a Swype-like input before, you'll quickly get used to it.</paragraph>
+			<paragraph>Single-hand size keyboard is available too. If enabled, it squeezes the onscreen keyboard to the left or right side of the screen so it gets more comfortable for single handed text input.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Album photo gallery<subsectionTitle>
+			<paragraph>If you've read any of our previous Xperia reviews, you should be all be familiar with Sony's custom gallery Album by now. It organizes images into groups of thumbnails and sorts them by date. You can change the thumbnails size by pinching.</paragraph>
+			<paragraph>Unlike previous versions there isn't a homepage that hosts all of your albums, instead you get the same navigation drawer as the app drawer is offering. There you can find a selector of all of your online and offline albums.</paragraph>
+			<paragraph>The gallery can connect to online albums (Facebook, Picasa, Flickr) and also to other devices on the local network. Maps and Globe albums are also available, which use the geotagging info to sort photos by the location at which they were taken, and faces, which groups photos by the faces of the people in them.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Filters and effects are also abundant. Quick sharing via Picasa, Email apps, Facebook, Bluetooth or MMS is also available.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Walkman music player<subsectionTitle>
+			<paragraph>The Walkman music player is part of the equipment of all recent Xperia smartphones. The Walkman interface is based on a swipe-able menu that sort your music collection by Artist, Albums, Playlists, all songs and even the songs your friends are listening to (but you need to connect the player to your Facebook account). You can pop up the menu the same way you'd do it in the app drawer or the gallery - just swipe from the left edge of the screen.</paragraph>
+			<paragraph>The Infinite button is available in the Now Playing screen (just tap the album art) - it will help you find the track's video on YouTube, look up info about the artist on Wikipedia and search for lyrics on Google. Gracenote is used here too and it can automatically download information about your tracks and album art.</paragraph>
+			<paragraph>The Walkman player offers a variety of audio settings - ClearAudio+ option is here, which determines the best audio quality settings depending on the song you're listening to. We liked how it changed the music and carefully accentuated various details.</paragraph>
+			<paragraph>Dynamic normalizer evens out the differences in the volume between tracks, which is great if you've mixed multiple albums from multiple sources.</paragraph>
+			<paragraph>The Sound enhancements contain yet more settings. There's an equalizer with presets and manual settings (including tweaking Clear Bass). Then there's Surround sound mode, which imitates the Studio, Club or Concert Hall experience.</paragraph>
+			<paragraph>Another new entry is the media server option. When turned on it allows your phone to act like a DLNA server, presenting its multimedia (music, photos and videos) to other DLNA clients in your network - really nifty. Also, you might notice that there is now Spotify integration inside the Walkman app, it can be enabled or disabled inside the settings menu.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio<subsectionTitle>
+			<paragraph>There's also an FM radio tuner with RDS. The app features multiple visualizations and integrates with TrackID to recognize the currently playing song. You can even directly send an "I'm listening to..." post to Facebook. The interface is very intuitive and complete with stunning animations. Possibly one of the best FM radio apps out there.</paragraph>
+			<paragraph>Of course, you would need to have your headset plugged in for the FM radio to pick up any signal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Movies<subsectionTitle>
+			<paragraph>The video playing app is dubbed Movies and it too has a great custom UI. It's connected to Gracenote, which helps you find additional information about the movies and TVs you have on the phone. It will even download posters for them and for movies, it will download metadata like genre, synopsis, director and cast. As for individual episodes of series, the service is still dodgy, but you might get lucky and find the info you are looking for.</paragraph>
+			<paragraph>Movies also minimized your current clip and leaves it in a small window in your bottom right corner when you back out into the menu, just like the YouTube app. This is really convenient and lets you quickly return back to your content.</paragraph>
+			<paragraph>The M5 is powerful enough to breeze through 1080p videos. It had issues with the AC-3 audio codec and failed to load sound in videos carrying it but that's mostly normal for smartphones these days. MKV movies went through, but without sound because of their AC-3 audio codec.</paragraph>
+			<paragraph>The video player comes with subtitle support by default, the only requirement is both file names (video and subtitles) to be identical.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is impressively loud, decently clear<subsectionTitle>
+			<paragraph>The Sony Xperia M5 did a very good job in the first part of our audio quality test, where it's connected to an active external amplifier. The scores it got were great top to bottom and it matched them with excellently high volume for an impressive performance.</paragraph>
+			<paragraph>Plugging in a pair of headphones did harm the stereo crosstalk and frequency response, while also adding some intermodulation distortion. None of the readings are too bad, but we are used to seeing less degradation in this case. Volume levels dropped significantly too, but they were so high at the start that we are still left with very good loudness.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph>Sony Xperia M5 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Capable 21.5MP camera<subsectionTitle>
+			<paragraph>The camera is another department where Sony has made some major strides forward with the M5, at least on paper that is. The M5's front-facing shooter is now capable of delivering the same 13MP resolution as the main camera of the M4 Aqua - it is a pretty high-def selfie shooter that delivers an impressive level of detail.</paragraph>
+			<paragraph>The main camera on the M5 is now a whopping 21.5MP. You don't usually see halves of a megapixel in a mobile shooter, well not in the official specs sheets at least, but is seems the closest Sony felt comfortable rounding up to was this.</paragraph>
+			<paragraph>It is quite an impressive camera, equipped with phase detection autofocus and capable of delivering resolutions of up to 5312 x 3984 pixels in 4:3 (21.1MP) and 5334 x 3008 pixels in 16:9 (16MP). The wider horizontal resolution in 16:9 aspect ratio mean the sensor is actually bigger than what we see in 4:3 aspect, but that still doesn't work out to 21,5MP, but rather 21.25MP. Anyway, we're sure Sony knows its way around its own sensors so let's leave it at that.</paragraph>
+			<paragraph>The impressive hardware, in combination with the capable MediaTek Helio X10 chip makes it possible to shoot UHD 2160p videos at 30fps with the main camera and up to 1080p@30fps with the front-facing one.</paragraph>
+			<paragraph>The phone has a dedicated two-stage shutter button, which makes precise focus a whole lot easier. It is a shame that there is no dual-tone flash, but just a plain single LED one.</paragraph>
+			<paragraph>The camera viewfinder is the usual affair, nothing has changed on Android Lollipop. In Superior Auto mode stills and videos share it and you can snap a photo or shoot a video without changing modes beforehand. While this is convenient, framing your videos correctly is nearly impossible as they have a different field of view and you only get to see the actual framing only once you've started recording.</paragraph>
+			<paragraph>In Manual mode you can switch between stills and video capture so that you can see the framing of your images and videos correctly (each with its own field of view) before you've pressed the shutter.</paragraph>
+			<paragraph>In Manual mode you also get access to "manual controls" on the viewfinder, which sounds more impressive than it really is. There's an exposure compensation slider and a white balance selector. You can also control the ISO, metering and focus modes, turn on/off image stabilization, but those are buried in the settings menu.</paragraph>
+			<paragraph>You do, however, get a dedicated video mode, with a proper viewfinder with manual control, which is nice to have.</paragraph>
+			<paragraph>The Superior Auto shooting mode is what we've already seen in other Xperia phones. There are no settings you can change, everything here is done automagically.</paragraph>
+			<paragraph>Manual and Superior Auto aside, the Xperia M5 offers several other interesting shooting modes.</paragraph>
+			<paragraph>There's Sweep panorama but, it's not really all that great. Stitching is not horrible, but till clearly visible.</paragraph>
+			<paragraph>Then, there are the Augmented Reality effects, which stamp one of several virtual worlds over your scene and you can even move around in this world thanks to some intriguing motion tracking effect (note that it needs real-life visual cues in the scene to track your motion). Children will love this mode, but us bitter adults are unimpressed.</paragraph>
+			<paragraph>Other modes include the regular Picture effect mode, which creates a 3 x 3 grid that shows all the available effects in real time.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image quality<subsectionTitle>
+			<paragraph>As already mentioned, Sony's new camera of choice for the M5 marks a huge step forward compared to the 13MP unit on the M4 Aqua. The camera on the M5 looks mightily impressive, at least on paper that is.</paragraph>
+			<paragraph>However, despite all the success Sony's been enjoying with developing and selling camera sensors to almost everybody in the smartphone business, the Japanese tech giant own products are far from perfect. The M5 is still plagued by the typical for Sony non-even edge-to-edge sharpness. This means that the image sharpness is not even across the frame and only the central part of the image is tack sharp.</paragraph>
+			<paragraph>On the other hand, colors are great and so is contrast and dynamic range. The M5 also offers nice detail definition and even great pixel level processing. But, that can only go so far in balancing the blurriness along the edges of each shot.</paragraph>
+			<paragraph>Also as soon as it gets darker, or even when part of the scene turns out to be in the shadows, the digital noise in those regions spikes up and the noise suppression clearly squashes a lot of the fine detail.</paragraph>
+			<paragraph>Here are some camera samples form the 21MP camera:</paragraph>
+			<paragraph>On a more positive note, however, the new faster hardware seems to have cured the sluggishness of past "M" models. The camera is now nice and responsive and Sony's legendary Superior Auto mode seems to have gotten better as well. It still has its hiccups and can sometimes toggle to an odd shooting mode, but it generally manages to produce far better photos than a zero-confing manual approach. Here are some samples taken with Superior Auto on and off.</paragraph>
+			<paragraph>While Superior Auto would occasionally activate the HDR mode, if you really want to force it, you'd have to go to Manual mode and select Backlight Correction (HDR) from the Scenes menu.</paragraph>
+			<paragraph>Here are a few HDR samples:</paragraph>
+			<paragraph>Last, but not least, we also tested out the 13MP front-facing camera. Photos came out with nice colors and a lot of detail, as one would expect. Here are a couple of samples at slightly different lighting.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Still camera comparison<subsectionTitle>
+			<paragraph>We uploaded the full resolution (21.5MP) photos to our photo quality comparison database to compare against other high-resolution smartphones.</paragraph>
+			<paragraph>   Sony Xperia M5 in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>4K video recording<subsectionTitle>
+			<paragraph>If we have to point out one reason why the M5 offers a hugely improved camera experience, it would definitely be video recording. The MediaTek Helio X10 has the muscle and the 21MP camera has more than enough pixels, which added together equal a splendid 4K video experience.</paragraph>
+			<paragraph>The camcorder shares the same UI as the still camera, unless you go into manual mode. In manual mode you can set a timer and fiddle with settings like exposure, metering, focus mode, etc.</paragraph>
+			<paragraph>For videos the Xperia M5 features digital image stabilization - SteadyShot, but there's a price to pay - the field of view (FoV) is reduced (it's how all digital stabilization systems work). Also, it takes a huge toll on the quality. The phone is smart enough to detect whether you are shooting hand-held or you have rested it on something stable but you get the reduced FoV either way if the option is turned on.</paragraph>
+			<paragraph>If you go into video mode from the Manual shooting mode, you get an HDR option, as well as various preset scenes to pick from.</paragraph>
+			<paragraph>The M5 shoots truly gorgeous 4K videos with a resolution of 3840 x 2176 pixels and a steady framerate of 30 fps. The bitrate is also quite impressive at 54 to 55 Mbps, coupled with a 48 kHz audio sampling rate. Resolve detail is really impressive. Overall, the M5 offers 4K video fit for a flagship.</paragraph>
+			<paragraph>Rather surprisingly, autofocus was pretty laid back unlike most other Xperia phones we have reviewed and hardly hunted for focus while video recording. Setting the autofocus to a single focus per video remedies the issue entirely.</paragraph>
+			<paragraph>Naturally, the M5 can also do 1080p videos as well and does a pretty impressive job of it. Furthermore, there is even a 60fps option that also produces impressive results, smoothing out the motion. Below is a 1080p sample at 30fps you can check out.</paragraph>
+			<paragraph>Sadly, YouTube has issues with the H.265 video codec used for the 4K and the 1080p@60fps videos, so we couldn';t upload those there. You can still download short camera samples further down below.</paragraph>
+			<paragraph>And here are the untouched video samples:</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera comparison<subsectionTitle>
+			<paragraph>The Sony Xperia M5 captures gorgeous 4K videos. It managed to resolve a lot of detail in our resolution chart test and under good light conditions, but there is lots of noise and artefacts when shooting in low-light rooms.</paragraph>
+			<paragraph>   Sony Xperia M5 in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Chrome<subsectionTitle>
+			<paragraph>The Sony Xperia M5 comes with Google Chrome as the default web browser out of box instead of the generic Android browser. While the minimalist interface hasn't changed since Chrome launched on Android, the browser is being constantly refined by Google, and this has resulted in one of the smoothest and most powerful browsing experiences we've encountered on a mobile.</paragraph>
+			<paragraph>Of course, one of Chrome's strengths is its ability to seamlessly sync with the desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The calendar has three different types of view - daily, weekly and monthly. The lower section of the screen is reserved for a list of upcoming events. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>Sony Xperia M5 also features the Office Suite 8, which allows for creating, viewing and editing office files (docs, xls, ppt), and it can also read PDFs.</paragraph>
+			<paragraph>Calculator, Clock app (with stopwatch, world clock and timer), Sketch and File Manager apps are available on board the device by default.</paragraph>
+			<paragraph>The Socialife app comes pre-installed too. It is a service similar to Samsung's My Magazine and HTC One's Blinkfeed. The interface is clean and simple yet beautiful, and there are lots of preloaded feeds. You can add your own RSS links too.</paragraph>
+			<paragraph>What's New app has very beautiful UI and will show you the hottest apps and multimedia today.</paragraph>
+			<paragraph>The Power Saver - now part of the settings menu - helps you extend your battery life by toggling things like Wi-Fi, GPS, Bluetooth, screen brightness, auto sync and background data on and off automatically when the battery charge falls below a certain user-defined threshold. You can also turn off the Wi-Fi if there are no known Wi-Fi networks in range or turn off mobile data when the screen is off, etc.</paragraph>
+			<paragraph>Sony also provides a Backup &amp; restore app, which can use the internal storage, a microSD card or even an attached USB mass storage device. You can backup the system and downloaded apps and their data along with any media files.</paragraph>
+			<paragraph>The Xperia Lounge is a sort of custom-tailored deal and promotion aggregator. It gives users the opportunity to participate in various Sony promotions and win prizes. Another interesting little feature is the Movie Creator. Its name is pretty much says it all. It has a really nifty "Best Moments" feature that endeavors to create a highlights-only version form a given video.</paragraph>
+			<paragraph>The Xperia M5 is also fully equipped as a PlayStation sidekick with access to the PS Network, store and even remote connection to your console and access to its multimedia - movies and music.</paragraph>
+			<paragraph>You bet Google Maps and Navigation are also part of the app package to utilize the built-in GPS receiver (now complete with GLONASS support). Offline maps are available, again, since the last update, so you can save some data traffic too.</paragraph>
+			<paragraph>Whatever you may be missing, there is the always-growing Google Play Store for you.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia M5 key test findings<subsectionTitle>
+			<paragraph>The M5 is very well-made and durable. Build-quality is superb and even though the finish is hardly top-of-the-line, the phone looks neat and to-the-point, resembling the flagship Xperia Z3. The new control layout also seems more convenient.</paragraph>
+			<paragraph>The display on the M5 gets great marks in terms of maximum brightness and has fairly accurate color rendition. It's harder to see in direct sun than the M4 Aqua, but it offers FullHD resolution, so it's crisper and can fit more content.</paragraph>
+			<paragraph>Battery life isn't all that spectacular. However, this is somewhat justified by the higher resolution display and more powerful chipset. The OS is far from final, so we will retest the M5, once Sony has a cleaner build.</paragraph>
+			<paragraph>The Xperia launcher runs quite nicely on the M5 and is packed with a lot of interesting features. The phone is definitely not lacking on the software side.</paragraph>
+			<paragraph>Performance-wise, our pre-production Xperia M5 is perhaps not ready for prime time as it fares worse than competing Xelio X10 smartphones. The hardware has lots of horsepower and shows great promise.</paragraph>
+			<paragraph>The speaker is somewhat quiet wih only a Below Average mark in out tests.</paragraph>
+			<paragraph>The camera setup on the M5 is truly impressive with 21MP on the back and 13MP on the front. It offers accurate colors and good dynamic range, but sadly, there's noticeable corner softness and a lots of low-light noise.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>There must be something on Sony's mind. Model variations multiply with every generation. Just look at the 2's in their portfolio and the 4's. We're on number five now and the flagship alone has five versions. Before we know it, Sony's portfolio will look like Samsung's - for all the good and bad of it. Domination through saturation - and scores of phones that look the same.</paragraph>
+			<paragraph>Back to the point though, the Sony Xperia M5. One way to look at it is an upgrade of the M4 Aqua and we can't see anything wrong there, except if you just bought the M4. Or maybe Sony is busy building a strong midrange base for its brand new flagship.</paragraph>
+			<paragraph>Either way, it's setting a whole new direction for the mid-range "M" line. Now that 4K is the new flagship standard, it only makes sense for Sony to go back and update its midrange lineup to 1080p. Not least because up and coming Asian makers have been pushing FullHD screens at a bargain price for quite a while now.</paragraph>
+			<paragraph>So, we think there's no coincidence in the powerful MediaTek Helio X10 SoC, a hefty 3GB of RAM and an impressive camera setup.</paragraph>
+			<paragraph>Dual-SIM support and Cat.4 LTE have long become must-haves rather than would-likes, so water-proofing is a welcome perk that gives the Xperia M5 an extra edge. That package will cost you a good ?400, which is still within safe distance from the asking price of a Z5 and even a Z5 Compact. However, it's also a ?100 more than an Xperia M4 Aqua. We think the upgrades are worth the price premium but it's a welcome cushion too. A cheaper Xperia M5 would've instantly killed the M4 Aqua - and it would've been a shame, a mere 3 months after its release.</paragraph>
+			<paragraph>A new flagship in charge has inevitably sent ripples down the ecosystem. The potential rivals we just saw, and many more like them, must also have pushed Sony to rethink their midrange portfolio.</paragraph>
+			<paragraph>First, let's look at what else Sony has to offer. We already cleared things up regarding price groups and the M5 does sit comfortably within the company's current lineup. However, if you feel like you have to own a more premium Z model, then at ?400 you might not qualify for the new Z5 Compact, at least not off contract, but the Z3 Compact fits the bill perfectly.</paragraph>
+			<paragraph>It comes with a Snapdragon 801 SoC and 2GB of RAM, which despite being slightly dated is still quite snappy, perhaps even faster than the MediaTek Helio X10, at least has way Sony has implemented it. You also get a pretty good 20.7MP camera, Wi-Fi ac and a few other goodies typical of the higher end models, like MHL for example. But, there are a few notable tradeoffs - mostly the smaller 4.6-inch display with HD resolution.</paragraph>
+			<paragraph> Sony Xperia Z3 Compact</paragraph>
+			<paragraph>Moving on to Samsung, ?400 might actually be enough to get you a Galaxy S5 and last-year's flagship is definitely still an awesome device. In terms of specs it is pretty close to the aforementioned Xperia Z3 Compact with a Snapdragon 801 SoC and 2GB of RAM, but this time around there are no compromises with the display - 5.1 inch, FullHD and of the Super AMOLED variety none the less. The camera setup might not be quite as impressive on paper with a 16MP main unit and only 2MP on the front, but it takes splendid photos. Plus, the already stated little bonuses you get with a flagship device apply here as well.</paragraph>
+			<paragraph>And if you want something newer, the Korean giant's new metal-laden "A" series might also be worth considering, but only if you are aiming mostly for looks, as at this price point you will have to settle with the Galaxy A7. Still, it is not a bad option, perhaps even better than the Galaxy Alpha, as it does have a large 5.5-inch FullHD display.</paragraph>
+			<paragraph>  Samsung Galaxy S5 ? Samsung Galaxy A7</paragraph>
+			<paragraph>As it turns out ?400 is quite enough to get you other ex-flagships as well, like the HTC One (M8). It is also quite comparable to the Xperia Z3 Compact and the Galaxy S5 in terms of specs and the legendary metal device still has a lot to impress with. The situation is exactly the same with the Xiaomi Mi 4. Also worth checking out for the very same reasons is the LG Nexus 5, which has the added benefit of stock Android, if you are into that. Another viable candidate is the LG G3 - also a year old flagship, but one with a huge 5.5-inch QHD screen. ?400 is currently enough for it as well.</paragraph>
+			<paragraph>    HTC One (M8) ? Xiaomi Mi 4 ? LG Nexus 5 ? LG G3</paragraph>
+			<paragraph>As for something more recent, it turns out that the Moto X Play is a viable choice. It is actually in the same position as the M5 - a slightly toned-down version of the high-end Moto X Style, although it does rely on slightly weaker tech - Snapdragon 615 SoC and 2GB of RAM. Still, the display and camera setup are quite impressive.</paragraph>
+			<paragraph>The Asus Zenfone 2 also deserves a mention. Its capable Intel Atom processor sets it apart from the bunch and with at least 5 version now out in the open, you are sure to find one you like.</paragraph>
+			<paragraph>  Motorola Moto X Play ? Asus Zenfone 2 ZE551ML</paragraph>
+			<paragraph>Last, but not least, if you've really taken a liking to the new MediaTek Helio X10 setup inside the Xperia M5, Sony isn't the only one that has it and as we have pointed out throughout the review - others seem to be utilizing the capable platform a lot better. These include the Meizu MX5, which also happens to be quite equally priced to the Xperia, also the Xiaomi Redmi Note 2, which goes for quite a lot less.</paragraph>
+			<paragraph>  Meizu MX5 ? Xiaomi Redmi Note 2</paragraph>
+			<paragraph>The Sony Xperia M5 is not called Aqua anymore most likely because it doesn't need any extra labels to set it apart from the rest of its midrange siblings. And the M5 is definitely taking the "M" family in a new direction. If this is where the new midrange is going, we can't argue. FullHD screen resolution, a high-res camera on each side, 3 gigs of RAM and a potent chipset. Even if not everything is picture-perfect, the Xperia M5 is good news. Except that it won't be available as widely as the M4 Aqua. Which may even be considered as good news as well - but only by recent Xperia M4 buyers. Well, that's life. Sometimes you don't know what you're winning when you're losing something.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>Thirteen</nameEn>
+	<nameFr>Thirteen</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/serie/Thirteen/19499092</link>
+	<generalScore>6.7</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>19</numberOfVoters>
+		<numberOfVoters>31</numberOfVoters>
+		<numberOfVoters>65</numberOfVoters>
+		<numberOfVoters>43</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>13 à la douzaine</title>
+		<author>Commeellevient</author>
+		<date>2016-05-31</date>
+		<score>0.8</score>
+		<content>Nouvelle mini-série anglaise, prévue pour être diffusée sur BBC Three mais passée directement par la case de la diffusion en ligne. Ça sent pas forcément bon. Et pourtant… Ivy Moxam parvient à s’échapper de son kidnappeur après 13 années retenues captives. Mais le retour à la vie de famille est compliquée surtout quand elle doit en plus aider les enquêteurs à tenter d’arrêter son kidnappeur. J’aurais eu envie de dire que le pitch est sacrément peu novateur. Oui mais voilà, on est en face d’une série anglaise avec tout les bons atouts dont elles savent se servir. Des personnages qui ressentent tous profondément le retour d’Ivy, en l’exprimant ouvertement, sur leurs proches ou envers Ivy directement. Et que dire de la prestation superbe de Jodie Comer dans le rôle d’Ivy, nous manipulant malgré elle comme elle manipule ses proches, policiers et famille. Qui dit série anglaise, dit un charme désuet de villes britanniques qui se retrouvent magnifiés entre classicisme et modernisme. Et Bristol n’échappe pas à cette règle qui m’a marquée dans le Londres de Misfits ou de Luther par exemple. Qui dit, enfin, série anglaise, dit saison courte mais qui prend son temps. Car oui, l’histoire aurait pu tenir sur deux épisodes mais ressentir les vies de chacun par petites touches successives permet de s’immerger dans chaque personnage. Ah non, j’ai oublié un point important des séries anglaise: la musique. Et la réussite tient en deux titres de The Shins et de Dark Dark Dark que je n’arrive plus à écouter sans penser à la série. Thirteen est une grande série qui ne tombe pas dans la simplicité d’un scénario bâclé et ne tombe pas dans une complexité lourdingue. C’est aussi un délice de suivre des acteurs investis (je mets un petit bémol au duo de flics en fait) et une série qui te donne envie de cliquer sur Next dès que l’épisode se termine est plutôt bon signe non? Lien sur mon site avec vidéo et tout et tout</content>
+	</review>
+	<review>
+		<title>Un drama qui aurait pu être beaucoup mieux modelé</title>
+		<author>claroushh</author>
+		<date>2016-05-01</date>
+		<score>0.6</score>
+		<content>Thirteen est une série efficace. Chaque épisode ouvre la porte du suivant en nous révélant petit à petit les clés de l'intrigue. Forcément, on a toujours envie d'aller plus loin, de savoir si Ivy nous dit bien toute la vérité ou non. Le problème, c'est que la série ne nous dit vraiment rien de particulier. Elle ne fait que survoler son récit. D'un côté on a l'enquête policière, et de l'autre la réinsertion d'Ivy dans la société. Aucun des deux sujets ne sont approfondis. Le processus de l'enquête n'est pas très crédible, ni les personnages secondaires dont les voix sont toutes très monotones (la mère, Lisa, l'ancien petit copain). Bref, ça ne sonne pas très juste. Le ton y est froid, mélancolique, presque glauque, et cela marche normalement bien dans les séries anglaises du style (What Remains, Misfits...) mais pas sur celle là. C'est dommage car notre personnage principale joue plutôt bien et le rythme de l'intrigue se tient. Mais on a tous en tête d'autres scénarios de kidnapping comme Room et Hatufim qui traitent aussi bien de la période de captivité que de la période de réinsertion dans la société, et c'est là que Thirteen ne passe pas.</content>
+	</review>
+	<review>
+		<title>Thirteen</title>
+		<author>sharghan</author>
+		<date>2016-08-24</date>
+		<score>0.7</score>
+		<content>Sans doute basée sur un fait divers comme celui de Natascha Kampusch, cette nouvelle mini-série anglaise de 5 épisodes est vraiment de bonne qualité et tient en haleine jusqu'au bout, avec son lot de dramaturgie et de fausses pistes. Celle qui incarne la jeune captive, Jodie Comer, n'est pas loin d'être bluffante dans son rôle. La réalisation est soignée, voire novatrice par moment. A voir !</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,41 @@
+<review>
+	<title>Motorola overview</title>
+	<description>MWC 2011</description>
+	<link>http://www.gsmarena.com/mwc_2011_motorola-review-571.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>Motorola had the Atrix and the Pro at their booth and we were eager to try them both. We even managed to get our hands on the multimedia dock for the Atrix and take it for a spin. The dock connects a monitor, a keyboard and a mouse - this could be the future of computing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Motorola Atrix<subsectionTitle>
+			<paragraph>The Atrix is Motorola?s latest addition to the droid ranks. It?s the fastest and most capable Moto smartphone to date and sure to haunt many a geek?s dreams. The gadget has almost 30% daily interest in our database, which just proves how special it is.</paragraph>
+			<paragraph>Don?t let the Atrix's familiar exterior fool you ? it?s all new under the hood. The phone is based on the Tegra2 platform and boasts a 1GHz dual-core processor, ultra low powered GeForce GPU and 1GB of RAM. There's also a 5 megapixel camera with 1080p video recording. 16GB of internal storage and impressive connectivity package are also part of the deal on this Froyo-powered smartphone.</paragraph>
+			<paragraph>The qHD (960x540 pixels) screen is the other key feature of the Motorola Atrix. That?s the higher pixel count that we have seen on an Android smartphone and that's certain to benefit image quality. Sharpness is splendid and contrast is pretty decent.</paragraph>
+			<paragraph>As far as LCD screens go, the Motorola Atrix display is one of the best we have ever seen.</paragraph>
+			<paragraph>Finally, we also got to see the two coolest Atrix accessories ? the Webtop and the Multimedia dock.</paragraph>
+			<paragraph>The Webtop looks much like a laptop, but only starts to behave like one when you insert the Atrix. See, the Webtop is actually nothing more than an 11.6? foldable screen, complete with a full hardware QWERTY keyboard, a touchpad and lots of battery power.</paragraph>
+			<paragraph>There?s no processing hardware inside so it's up to the Atrix to do that.</paragraph>
+			<paragraph>The smaller multimedia dock does basically the same thing, but you need to provide the monitor and the Bluetooth mouse/keyboard by yourself. You can see that one in action in the video below. We've also included a brief UI overview.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Motorola PRO<subsectionTitle>
+			<paragraph>The Motorola Pro was already announced for the US market as the Droid Pro XT610, which is a CDMA phone. The Motorola PRO has the same features and form factor and is compatible with European networks.</paragraph>
+			<paragraph>Unfortunately the Motorola PRO units exhibited at the Motorola booth were just early prototypes. We even had trouble using the lock slider so we cannot say much about the software here.</paragraph>
+			<paragraph>What we can tell you is the keyboard feels pretty comfortable and the device isn't intolerably big, considering the screen size. Plus, the whole things is pretty well put together.</paragraph>
+			<paragraph>Strangely enough though, the PRO feels much thicker than the 11.7mm Motorola claims it measures.</paragraph>
+			<paragraph>Still, the candybar QWERTY messenger niche is relatively vacant and Motorola does well to try and get some business done there.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Motorola XOOM<subsectionTitle>
+			<paragraph>Motorola?s first tablet runs the tablet-optimized version of Android 3.0 Honeycomb and under the hood it?s got a 1GHz NVIDIA Tegra 2 dual-core processor with 1GB of RAM and 32GB built-in memory, expandable by 32GB more via a microSD card.</paragraph>
+			<paragraph>The XOOM measures 249.1mm x 167.8mm x 12.9mm, which is decent for a tablet that sports a 10.1-inch capacitive touchscreen with a resolution of 1280x800 pixels. As a result of all this power and screen estate however, the tablet weighs 730grams ? right on par with the Apple iPad.</paragraph>
+			<paragraph>At the back, the XOOM features a 5MP snapper with dual LED flash, capable of capturing 720p HD video, and at the front there?s a front-facing 2MP camera for video calling.</paragraph>
+			<paragraph>Connectivity is broadly covered with support of Wireless N with Personal Hotspot, Bluetooth 2.1 + EDR, A-GPS, 3G. A LTE 4G variant will be coming out by the end of Q2 2011 too. As far as ports go, there?s an HDMI out, microUSB and a 3.5mm audio port.</paragraph>
+			<paragraph>The Motorola XOOM is expected to cost around $800 (~590 euro) for a 3G and Wi-Fi version and $600 (~444 euro) for a Wi-Fi version only. The XOOM is going to be available in Europe in 3G and Wi-Fi versions as well.</paragraph>
+		</subsection>
+	</page>
+</review>

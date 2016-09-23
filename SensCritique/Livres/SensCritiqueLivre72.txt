@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>PhonePlay</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Phone_Play/18921365</link>
+	<generalScore>5.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Un délice !</title>
+		<author>mespetiteslectures</author>
+		<date>2016-06-10</date>
+		<score>0.8</score>
+		<content>Particulièrement au goût d'aujourd'hui, ce livre montre comment deux personnes ne se connaissant pas vont apprendre à ce connaître et tomber amoureux à travers des envoies de messages sur leur téléphone. Enfin plus exactement, leur rapprochement va se faire sur la base d'un jeu qu'un garçon lance à Alyssa. Il lui propose à travers une série de questions de trouver qui il est. Mais un autre garçon tourne autour d'Alyssa ... Est ce le même garçon ? La vérité est souvent simple pourtant elle est toujours faussé quand il s'agit d'amour ! Les sentiments ou la raison ? La vérité la plus simple ou Alyssa creusera-t-elle plus loin ?</content>
+	</review>
+</sensCritiqueEntity>

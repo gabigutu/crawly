@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Ô vous , frères humains</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/O_vous_freres_humains/20014542</link>
+	<generalScore>7.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>14</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Une œuvre déchirante</title>
+		<author>Graffiti</author>
+		<date>2016-04-16</date>
+		<score>0.9</score>
+		<content>Pour en savoir plus, lisez ma critique sur mon blog Le tourneur de pages https://tourneurdepages.wordpress.com/2016/04/12/o-vous-freres-humains/</content>
+	</review>
+</sensCritiqueEntity>

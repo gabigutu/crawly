@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>The Guardians of the Lost Library</nameEn>
+	<nameFr>La Bibliothèque perdue</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1993</year>
+	<link>http://www.senscritique.com/bd/La_Bibliotheque_perdue/418390</link>
+	<generalScore>8.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>28</numberOfVoters>
+		<numberOfVoters>76</numberOfVoters>
+		<numberOfVoters>86</numberOfVoters>
+		<numberOfVoters>30</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Internet ça ne sert à rien puisqu'il y a le manuel des Castors Juniors</title>
+		<author>Hypérion</author>
+		<date>2012-05-25</date>
+		<score>0.8</score>
+		<content>"La Bibliothèque perdue" est une perle de bande dessinée, une des meilleures bande dessinées de Don Rosa (Derrière son exceptionnelle "Jeunesse de Picsou" il s'entend). L'histoire débute alors que Picsou tente sans succès de mettre la main sur le fameux manuel des castors juniors, encyclopédie de poche capable de répondre à TOUTES les questions possibles et inimaginables. Pourquoi Picsou souhaite pouvoir y accéder ? Pour trouver encore plus de trésors perdus bien entendu... Problème, il faut être membre des castors juniors pour avoir un exemplaire, et Picsou est bien trop vieux pour postuler. Picsou décide alors de partir en quête de la bibliothèque perdue d'Alexandrie, seule corpus d'œuvres capable de réunir autant d'informations que le livre qui lui est interdit. Il s'embarque dans cette aventure accompagné de ses neveux Riri, Fifi et Loulou mais sans Donald (qui restera un élément comique majeur de l'histoire malgré tout). Le scénario est excellent (notamment le retournement de situation final) et nous fait voyager de part le monde, dans l'espace et dans le temps puisque de nombreux personnages historiques (Christophe Colomb ; Drake, etc) seront évoqués... Côté dessin, c'est toujours un vrai bonheur de déceler toutes les histoires dans l'histoire, les gags visuels, etc. Don Rosa est un maitre. Point. Un petit bijou.</content>
+	</review>
+	<review>
+		<title>La Bibliothèque perdue</title>
+		<author>Lonewolf</author>
+		<date>2011-05-15</date>
+		<score>0.9</score>
+		<content>La fine équipe de Donaldville, la Bibliothèque d'Alexandrie, un peu d'Histoire, de l'aventure, et le talent de Keno Don Rosa. Ca donne quoi ? La Bibliothèque Perdue. Une très grande histoire (une de plus) où l'on découvre, grâce à une folle quête, les origines d'un élément particulièrement important dans la mythologie donaldvilloise, origines insérées dans l'Histoire connue au sujet de la Bibliothèque. Bien sûr, il y a toujours l'humour de Don Rosa, notamment les petits apartés à chercher dans les cases. Et les interventions de Donald (très rares, ici) sont pliantes. Et on se laisse porter dans cette grande aventure, jusqu'à sa fin ironique. Une fois de plus, Don Rosa a magnifiquement enrichi l'univers de Barks, et c'est incontournable.</content>
+	</review>
+</sensCritiqueEntity>

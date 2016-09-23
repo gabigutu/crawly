@@ -1,0 +1,358 @@
+<review>
+	<title>Samsung I8000 Omnia II review</title>
+	<description>A surprising experience</description>
+	<link>http://www.gsmarena.com/samsung_i8000_omnia_ii-review-388.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>3.7-inch 65K-color resistive AMOLED touchscreen, 480 x 800 pixels</paragraph>
+			<paragraph>Windows Mobile 6.5 with TouchWiz UI 2.0 and Media Gate 3D</paragraph>
+			<paragraph>Samsung S3C6410 800MHz processor; HW Graphic Accelerator</paragraph>
+			<paragraph>256MB RAM</paragraph>
+			<paragraph>5 megapixel auto focus camera with LED flash, geotagging, face detection, smile shot, image stabilizer, Wide Dynamic Range (WDR)</paragraph>
+			<paragraph>Records video in D1@30fps, QVGA slow-mo video recording</paragraph>
+			<paragraph>Tri-band 3G with HSDPA (7.2Mbps) and HSUPA (5.76 Mbps) support</paragraph>
+			<paragraph>Quad-band GSM support</paragraph>
+			<paragraph>Smart dialing</paragraph>
+			<paragraph>Wi-Fi with DLNA technology</paragraph>
+			<paragraph>Built-in GPS with A-GPS functionality</paragraph>
+			<paragraph>2/8/16GB internal memory</paragraph>
+			<paragraph>microSD card slot (up to 32GB)</paragraph>
+			<paragraph>FM radio with RDS</paragraph>
+			<paragraph>Bluetooth and USB v2.0</paragraph>
+			<paragraph>3.5mm standard audio jack</paragraph>
+			<paragraph>TV-out functionality</paragraph>
+			<paragraph>DNSe audio technology and SRS sound effect</paragraph>
+			<paragraph>DivX/XviD video playback</paragraph>
+			<paragraph>Proximity sensor for screen auto turn-off and ambient light sensor</paragraph>
+			<paragraph>Accelerometer sensor for automatic UI rotation, turn-to-mute and motion-based gaming</paragraph>
+			<paragraph>Office document editor</paragraph>
+			<paragraph>Full Flash support in the web browser</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>No xenon flash</paragraph>
+			<paragraph>No camera lens cover</paragraph>
+			<paragraph>65K color limitation of display results in banding in color gradients</paragraph>
+			<paragraph>microSD slot is under the back cover</paragraph>
+			<paragraph>Browser has issues with Flash support</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>Samsung's top tier of Omnia devices is populated by some seriously heavy-hitters - first the 720p video recording Omnia HD and now the Omnia II - with its best-in-the-business display, WM 6.5, zippy processor and preloaded software galore, it will certainly win the hearts and minds of Windows Mobile fans.</paragraph>
+			<paragraph>It's no secret that the Samsung Omnia II has the HTC Touch Diamond2 in its sights. The Omnia II has several advantages, not the least of which is the amazing 3.7" AMOLED WVGA display. For the acronym-allergic - WVGA means 480 x 800 pixels resolution, which several years ago might have been considered acceptable for a computer monitor. That resolution is not so uncommon today, the exciting part here is "AMOLED" - active matrix organic LED. Or in plain English - brilliant picture quality.</paragraph>
+			<paragraph>It doesn't end there - the 800MHz CPU is one of the speediest around and the available capacities of up to 16GB built-in memory and up to 32GB external storage via microSD card offer more than enough memory expansion. There's Wi-Fi and GPS, the autofocus camera shoots 5MP stills and D1 video at 30fps and has dual-LED flash, there's DivX playback out of the box and HSDPA and HSUPA push the phone to great wireless speeds.</paragraph>
+			<paragraph>We can spend a lot of time talking about the features of the Omnia II but here they are in a bullet list, which should be easier to read.</paragraph>
+			<paragraph>The Omnia II sample used for this review runs Windows Mobile 6.5, while the units that are currently available on the market run Windows Mobile 6.1. Those however will be eligible for a free upgrade to ver. 6.5 as soon as Micorsoft release the final build of the new OS (rumored late September or early October). All Omnia II units that will ship after that will run the Windows Mobile 6.5 out of the box.</paragraph>
+			<paragraph>Now that we've taken that off our chest, jump to the next page while you catch your breath after reading that long specs list. We continue with the Omnia II doing a 360 pirouette and then look at the hardware side of this multimedia Goliath.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Omnia II<subsectionTitle>
+			<paragraph>We didn't get the retail package so the contents of the box might be different from what we have here. We got a charger, which plugs into the microUSB port, a microUSB cable and a headset.</paragraph>
+			<paragraph>The two-piece headset has its remote ending on a 3.5 mm jack so you have quite a choice of alternative headphones to use with the phone. Or you can bypass the remote entirely thanks to the 3.5mm audio jack on the phone itself.</paragraph>
+			<paragraph>The retail box will also include manuals and a disk with software as well as a carrying pouch, though as we didn't get one, we can't really comment on its quality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung I8000 Omnia II 360-degree view<subsectionTitle>
+			<paragraph>It measures 118 x 59.6 x 11.9 mm and weighs in at 117 grams. Tiny it isn't, but the 3.7" touchscreen takes up most of the real estate on the front with very little spared for the bezel. But when you consider just how many features are packed into the phone, that size and weight seem pretty damn good.</paragraph>
+			<paragraph>The Samsung I8000 Omnia II might seem big at first sight but it isn't really. It's noticeably smaller than the Omnia HD and not much bigger than the iPhone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>From a distance all touchscreen bars look practically the same - a huge touchscreen display with perhaps a few buttons below it and that's it. Still, the Omnia II preserves the spirit of Samsung styling and is very easily recognizable as a Samsung device. Maybe their devices are becoming a little too samey - if it weren't for the size difference and the red Samsung styling of the Jet back, the Omnia II and the Samsung Jet would be indistinguishable even to our trained eyes.</paragraph>
+			<paragraph>Things haven't changed much overall since the pre-release version we used in the preview, there's mainly been just a little polishing and tweaking of the design.</paragraph>
+			<paragraph>The Samsung I8000 Omnia II front is quite sleek with black glass framing the display, while the surface of the buttons has a "brushed" appearance that helps keep fingerprints away.</paragraph>
+			<paragraph>There used to be a silver strip edging the front of the device in the pre-release unit, but that has now been replaced with the same black plastic that covers the rest of the phone. We quite liked that strip, as it gave the device some individuality.</paragraph>
+			<paragraph>The front, much like the front of a TV set, is dominated by the display. It's an AMOLED unit, 3.7 inches in size and is at the limits of one hand usability. With a WVGA resolution of 480 x 800 pixels, it's among the highest resolution examples on the market and it's certainly the highest resolution AMOLED display on a mobile phone.</paragraph>
+			<paragraph>As far as sensitivity goes, Samsung showed that even resistive touchscreens can be very sensitive and we're happy to report that the touchscreen on the Omnia II is almost as sensitive as the one on the Jet.</paragraph>
+			<paragraph>The display is supposed to use Samsung's Advanced Resistive touchscreen technology and though you can't really spot the difference without a direct comparison to other devices, it seems to do its job very well, reacting to even very light touches. Plus sticking to the resistive type of display has the added bonus of being able to use it with anything you want - stylus, pencil, nails, gloves, etc. Writing, scrolling, typing, zooming - everything is as easy as on the capacitive screens of Samsung's M7600 and S8300.</paragraph>
+			<paragraph>The only things that stop it from being perfect are the limited number of colors - 65K - and, of course, the disappointing sunlight legibility. The limited number of colors is quite a downer as banding ruins almost every color gradient.</paragraph>
+			<paragraph>There's also no slot for a stylus. So, in the original Omnia tradition the I8000 Omnia II users will have to do with an attached one on a lanyard if they insist on having one.</paragraph>
+			<paragraph>A stylus is not really needed most of the time thanks to the touch-friendly TouchWiz interface and even the Windows Mobile 6.5 OS, which shows through occasionally, is trying to shed the need for a stylus. Handwriting recognition is about the only place where a stylus is a must. But then, there are many people that prefer using a stylus to a finger - so those are definitely catered for.</paragraph>
+			<paragraph>There are three hardware buttons on the front - the Call and End keys obviously and the center button. The center Cube button has changed quite a bit - it's transparent with some sort of 3D effect which looks cool but it no longer glows. Glowing was better - the light pulsed smoothly, which looked great, and also notified you of events such as the battery going low.</paragraph>
+			<paragraph>Another change to the Cube key is that it no longer launches the Cube menu. Instead, it brings up Samsung's four-section menu. That change is for the better as the Cube menu is pure eye-candy and serves no practical purpose. The newly assigned four sections of the menu keep things organized slightly better than the standard WinMo menu does.</paragraph>
+			<paragraph>The video call camera, a proximity and ambient light sensors are crammed in above the display.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and construction (continued)<subsectionTitle>
+			<paragraph>On the left you get the volume rocker and on the right are the hardware Lock key and the back key / shutter key combo. The latter is a rocker-styled control where the shutter key is tangibly raised. It can be half-pressed too to handle auto-focus.</paragraph>
+			<paragraph>All the above-mentioned controls seem quite easy to use in both single and two-handed use scenarios.</paragraph>
+			<paragraph>A press and hold on the back key launches the Cube menu, while a press and hold on the Cube brings up the Task Switcher. A press and hold on the Lock key is an alternate way to lock the phone - to unlock it, you'd have to press the Lock key, which brings up a screen showing the time and date, and then there's a peg you have to slide to fully unlock the phone.</paragraph>
+			<paragraph>That's not how the buttons on the right were originally placed - the top key was the back key and the rocker combined the shutter key with the lock key. The top key has the advantage of being easier to press than the top part of the rocker and "back" is used much more often than locking the device.</paragraph>
+			<paragraph>The new arrangement is not as comfortable but Windows Mobile does give you some tweaking room in customizing which button does what (though you can't change the functionality of the lock key so simply swapping the keys' functions in the Settings is out of the question).</paragraph>
+			<paragraph>The top houses a 3.5 mm audio jack and a microUSB port that is protected by a cover. The phone charges via the microUSB port, which is quite useful as you can skip the charger when traveling if you have a computer with you.</paragraph>
+			<paragraph>The 3.5mm audio jack is definitely a nice feature despite lacking a protective cap to hide it from dirt and grime when it's not used. There also used to be a power button on the top of the phone, but now turning it on and off is done by the End key and locking is handled by the dedicated lock key.</paragraph>
+			<paragraph>The bottom is not very interesting - only the microphone pinhole is there.</paragraph>
+			<paragraph>The back is rather plain with its simple black plastic - no fancy looking back cover like the one on the Samsung S8000 Jet. The back houses the camera lens and the flash plus the loudspeaker grill, which has a small nub so the speaker isn't muffled when you put the handset flat on a desk.</paragraph>
+			<paragraph>The 5 megapixel camera lens is unprotected from smudges and scratches as it has only a slightly raised edge surrounding it and the dual-LED flash just below it.</paragraph>
+			<paragraph>Both the camera and the nub are on one side making the device rock side to side when laid on a flat surface. The lack of stereo speakers is a shame, especially given that otherwise the device is a very capable portable media player.</paragraph>
+			<paragraph>Under the back cover, you'll find a 1440 mAh battery like the one in the original Samsung Omnia and the SIM card slot as well as the microSD card slot. However, the ample internal storage does go some way to make up for not having the memory card slot placed externally on the device.</paragraph>
+			<paragraph>The build quality is quite solid. The back cover is not held by any complicated release systems but is still quite stable and there are no audible creaks or unusual sounds. The front buttons don't wobble and have very satisfying feedback.</paragraph>
+			<paragraph>The Samsung I8000 weighs in at 117 grams and its rounded edges make it seem thinner than it really is. Overall, the top edges of the display may be a little hard to reach if your fingers are not very long, but the device is still reasonably pocketable and perfectly ok to handle.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>What we have on our hands here is the first Windows Mobile 6.5 device that has ever come to the office. Depending on when Micorsoft decide to release the new OS on the market, the Omnia II will ship with either 6.1 (with a guaranteed free upgrade) or it will come with 6.5 straight out of the factory (like our unit).</paragraph>
+			<paragraph>So we guess if you are among the early adopters, you may or may not have the chance to enjoy 6.5 from Day 1. Still, Windows Mobile 6.5 is supposed to be made available in late September or October so there shouldn't be a long wait involved.</paragraph>
+			<paragraph>But back to our test Omnia II. If you just took a brief look at the device you probably wouldn't know that it is running Windows Mobile anyway. Samsung have installed the latest reincarnation of their proprietary TouchWiz UI on top and have done an amazing job of customizing all WinMo screens and options below it.</paragraph>
+			<paragraph>That's why we will first concentrate on the proprietary TouchWix interface. The scoop on the goodies brought by Windows Mobile 6.5 will follow closely afterwards.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Widget Plus<subsectionTitle>
+			<paragraph>The changes made by TouchWiz this time around run so deep that if you don't turn the overlay off you will barely realize what kind of Windows device you are holding in your hands. Unlike the pre-release unit that we previewed back in the day, the underlying OS is nowhere to be seen this time (except for the telltale Start button up in the left corner).</paragraph>
+			<paragraph>If you are familiar with the TouchWiz UI you wouldn't be surprised to find that the Samsung i8000 Omnia II actually has three different homescreens. They can be alternated by finger sweeps going from one side to the other.</paragraph>
+			<paragraph>All three screens are there for the user to fill up with widgets. You can also assign different wallpapers to each homescreen to tell them apart more easily.</paragraph>
+			<paragraph>The widgets are numerous mini applications or shortcuts to different parts of the user interface, sitting in the tray on the left side until dragged to the screen.</paragraph>
+			<paragraph>The available widgets vary quite a lot - from digital clock, through a mini image browser and profile manager to the CNN news application. You can also download additional widgets via the - yeah you guessed that right - the Download Widget.</paragraph>
+			<paragraph>Even the shortcuts bar you will notce at the screen bottom down here is a widget itself.</paragraph>
+			<paragraph>The customized Samsung "main menu" (that you open through either the Start button or the Cube key) is spread over several different screens that you can alternate between via sweep gestures. The total number of screens is limited to 10 but you can freely reorder icons around just like you would on an iPhone.</paragraph>
+			<paragraph>Speaking of which, this whole Main menu has a really flat iPhone-like structure, in unison with Samsung's recently released feature-phones. This approach gives you a simpler what-you-see-is-what you get interface but at the price of complicating the navigation a bit.</paragraph>
+			<paragraph>The colorful interface offers two sets of icons, with the default one being the better-looking in our opinion. You can of course also change the color scheme if you like.</paragraph>
+			<paragraph>Touching the status icons top of the screen opens a set of large thumbable graphical buttons that give you quick access to the connectivity manager, the battery status detailed info and the system volume control. Of course toggling volume levels by pressing the volume rocker on the left but it doesn't hurt to have it here too.</paragraph>
+			<paragraph>Samsung have also preloaded the device with a nice and thumbable TaskSwitcher that obviously allows you to switch among applications and end some or all of them should you need so.</paragraph>
+			<paragraph>If we've got you interested, here's a short video demo of the TouchWiz UI running on top of WinMo 6.5 on our test Omnia II:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Samsung i8000 Omnia II has another novel software feature, which is also a key element of the external design of the handset - it's the Cube that has inspired the big 3D key below the display.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Samsung 3D Media gate<subsectionTitle>
+			<paragraph>What is it with phone manufacturers and cubes? They seem to think this is the pinnacle of UI design on touchscreens and Samsung have unsurprisingly jumped on the bandwagon. Back in the day, the cube interface of the HTC Touch received pretty positive reviews (ours included) and they've been the fad ever since.</paragraph>
+			<paragraph>Unlike the original HTC cube however, the one on the i8000 Omnia II is mostly in charge of the multimedia features on the handset.</paragraph>
+			<paragraph>The Samsung 3D Media gate is an intuitive six-sided cube UI that you flick on screen for quick and easy access to six key features, such as Main menu, Camera, Photo album, Music player, Video player, Games or web browser.</paragraph>
+			<paragraph>The Cube rolls smoothly and usability is on a very good level indeed, reminding us of the responsiveness of the LG S-class user interface. But if you are not into flipping cubes, all the shortcuts to the content you're looking for are available as small icons at the bottom of the screen.</paragraph>
+			<paragraph>The music and video player have been nicely revamped. The browser button displays your bookmarks in an innovative "card-flipping" manner and starts the default web browser (whichever that is) once you have made a selection.</paragraph>
+			<paragraph>The Favorite Contacts app allows you to place shortcuts to all your favorite numbers and make them easier and quicker to dial. To be honest though, launching the cube, flipping it to the favorite contacts side and touching a contact doesn't seem all that quick way to dial to us.</paragraph>
+			<paragraph>Strangely enough the motion-conrolled multimedia UI Motion Gate isn't present on the Omnia II. It was present on our pre-release unit and it was present with the 3D Media gate on every device we've seen with it so far. We guess it came time for them to part ways.</paragraph>
+			<paragraph>Bear in mind though that the actions of the Cube key and the back button are programmable so you can set them to activate any application or even scroll one way or the other instead of their intended purpose. You get two actions per key - one activated by a short press and the other triggered by a press-and-hold.</paragraph>
+			<paragraph>You can also choose whether the lock key should be the only one used to turn on the phone's display. The alternative option is to use any of the hardware keys for the purpose.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows Mobile 6.5 runs smoothly<subsectionTitle>
+			<paragraph>As we mentioned, only after you switch off the TouchWiz customization you can get to the underlying Windows OS. Normally, we wouldn't attempt doing that at all, but this time it's Windows Mobile 6.5 we're talking about here. We just had to get to it.</paragraph>
+			<paragraph>A new homescreen</paragraph>
+			<paragraph>You probably know from all those screenshots that have appeared online that the default WinMo 6.5 homescreen consists of a scrollable list. What you may not know, unless you've watched a bunch of demo videos, is that some items of that list are in fact side-scrollable.</paragraph>
+			<paragraph>By scrolling sideways you gain access to different phone features from one single item. For example scrolling the Getting started item sideways allows you to set the clock, email account, device password, Bluetooth, custom wallpaper, custom ringtone, upload music or finally even remove the Getting started item for good once you're ready setting up the essentials.</paragraph>
+			<paragraph>Another example is is Pictures, which allows you to browse the thumbnails of the photos in your gallery by side sweeps. Touching a photo opens it fullscreen in the photo album.</paragraph>
+			<paragraph>Tapping on the music tab will start the media player. We would have preferred it to launch the Samsung Touch player instead as this is certainly our weapon of choice for listening to music on the Omnia II, but we guess that could be tweaked by Samsung later on.</paragraph>
+			<paragraph>The Clock item provides you with information about the current time and date as well as displaying the operator logo. Clicking over it brings you to the default windows alarms screen. Once again we are sorry that it doesn't open the proprietary Samsung application instead as it is a whole lot nicer.</paragraph>
+			<paragraph>The Text and email tabs display an indication if you have received a new message or an email, while at the same time providing you with a one-click access to the message composer and the inbox respectively. You can scroll previous messages or other mailboxes by the usual side sweeping routine.</paragraph>
+			<paragraph>Calendar tab monitors your appointments for the day and allows you to quickly set a new one. The today screen in the calendar gets opened if you press it.</paragraph>
+			<paragraph>The final tab is reserved for the Internet Explorer Mobile favorites. Just as one might expect pressing any of the bookmarks opens it in the web browser.</paragraph>
+			<paragraph>Moving on to the main menu</paragraph>
+			<paragraph>Pressing the Start menu icon at the top right no longer opens a drop down menu full of shortcuts. Instead it opens what we like to call the new Windows Mobile "Main menu". It's got icons ordered in that oh-so-popular honeycomb pattern that so many people can easily recognize as pure WinMo 6.5 stuff thanks to numerous official and leaked screenshots.</paragraph>
+			<paragraph>In the new main menu you've got all the installed programs plus shortcuts to the settings menu. That Settings menu has also received a facelift and displays icons in the same honeycomb structure.</paragraph>
+			<paragraph>The perfectly flat structure of the Main menu can surely get a bit clumsy in time due to the huge number of icons piling up (iPhone users with loads of apps installed will know what we mean) but still we'd prefer that over the confusing experience that so many Widows Mobile new adopters have enjoyed in the past.</paragraph>
+			<paragraph>Check out our quick demo video of Windows Mobile 6.5 running on Omnia II:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And there's those other bits and pieces</paragraph>
+			<paragraph>Further on, all menus have a larger font that allows for more thumbable operation.</paragraph>
+			<paragraph>Another nice change brought by the new version of the OS is the option to alternate tabs by simple finger sweeps wherever Windows offers you tabbed screens. You no longer need to aim for the tiny titles at the bottom of the screen as on the WinMo 6.1 handsets - you just swipe your finger across the screen and the next tab opens instantaneously.</paragraph>
+			<paragraph>Not so revolutionary as evolutionary</paragraph>
+			<paragraph>This is the first time that we meet Windows Mobile 6.5 in person - preloaded on a real device, lock'n'loaded, ready for work. It's true that it's hardly the overhaul the Microsoft OS calls for. But until Windows Mobile 7 arrives, the v.6.5 should do it for the end user. Especially with the kind of help the cellphone manufacturers give by heavily customizing the user experience.</paragraph>
+			<paragraph>The response of Windows Mobile 6.5 as presented by Omnia II to us is surprisingly top-notch - we might even dare call it among the best of touch-UI-class. Scrolling and generally going through all the menus is a wonderful experience.</paragraph>
+			<paragraph>It's not that the TouchWiz UI is any different, but with this one everything is practically instantaneous - just as a comparison to the old Windows Mobile we all know and "love".</paragraph>
+			<paragraph>The 800MHz CPU that the Omnia II has on board does a marvelous job offering performance unthinkable for WinMo devices no more than three generations ago. The speed should no longer be considered one of the key disadvantages of the Microsoft OS and looking at the 6.5 revamp neither should looks. To sum it up, the Omnia II is probably the most responsive and fast ticking WinMo device we've seen to date.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Limitless phonebook<subsectionTitle>
+			<paragraph>Even back in the days when the WinMo phonebook was one of the ugliest applications one could imagine, it still did an excellent job. Contact management has always been one of the strong points of the OS having its roots heavily in PDAs with the unlimited phonebook capacity and brilliant synchronization options - but it's all the more sweeter now that it has the looks to match.</paragraph>
+			<paragraph>The phonebook application of the Samsung Omnia II has a nice and simple interface and although we would have preferred a smaller font and thus more content on the screen, we have to admit that it was done with touch-operation in mind. The graphics are nice and the navigating around is intuitive enough to make sure your work with it is trouble-free.</paragraph>
+			<paragraph>You can opt for the Omnia II displaying either the SIM card or the phone memory contacts or both at the same time. Moving, copying and deleting contacts is available both one by one or by bulk. It goes without saying that you are practically unlimited as far as the number of contacts or fields for each contact are concerned.</paragraph>
+			<paragraph>You can search you contact by either dragging the really responsive slider at the right, using the kinetic scrolling of the list itself or by gradual typing though the virtual keypad. The last one, of course, was our least preferable option, with the other two having an advantage over each other depending on the size of your phonebook.</paragraph>
+			<paragraph>Unlike the HTC offerings, the editing of the contacts is also completely covered by the TouchWiz UI. It gives you a nice and simple interface, similar to the one found in the company's feature phones. You have a plethora of available info fields but no option to rename one in case something has been missed - not that there was ever an occasion when we felt that was the case.</paragraph>
+			<paragraph>When viewing a contact there is a key that takes you to your recent calls with the person in question. You can also add it to the reject list or the speed dial numbers straight from there.</paragraph>
+			<paragraph>Finally, if you are into grouping your contacts - the i8000 Omnia II has that covered too. The first four groups are pre-configured for you with the rest left to your imagination and particular needs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony: nothing missing<subsectionTitle>
+			<paragraph>Having talked so much about the Omnia II's extra functionality (or is that main functionality already?) we are glad that Samsung also covered the i8000 Omnia's telephony capabilities perfectly.</paragraph>
+			<paragraph>The phone application offers Smart dialing, which means that you will hardly ever need to go to the Contacts list in order to dial a number.</paragraph>
+			<paragraph>The built-in accelerometer gives the Omnia II the cool mute feature where you can turn off the ringer by simply turning the phone face down on the table.</paragraph>
+			<paragraph>There is also a built-in proximity sensor which switches the display off when you hold the handset next to you ear. Once you take it away however it turns back on in case you need to access a keypad or the in-call options.</paragraph>
+			<paragraph>Basically there is hardly anything that we can think of that Samsung omitted here, so there is no reason not to give the Omnia II an excellent mark for telephony.</paragraph>
+			<paragraph>The Calls log on Windows Mobile devices offers practically unlimited entries. Samsung also pimped up the looks and added the nice extra sorting options. You can sort the entries alphabetically by name or by frequency of occurrence.</paragraph>
+			<paragraph>We also conducted our traditional speakerphone test to round off the phone part of the Omnia II review. You aren't likely to miss many calls with it, as it scored a Very good mark, ranking pretty high on our list of tested devices. .</paragraph>
+			<paragraph>More info on our test can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>A proper messaging tool<subsectionTitle>
+			<paragraph>The Samsung i8000 Omnia II handles messaging excellently. It supports SMS, MMS and email. SMS and MMS share an inbox and a nicely intuitive message editor.</paragraph>
+			<paragraph>As we mentioned the email inbox is easily accesisble from the homescreen through one of the tabs. The email editor will hold no surprises for experienced WinMo users as it has not changed at all.</paragraph>
+			<paragraph>Setting up your email is easy as it is on most of the latest mid or high range phones. You type your email and password and all the other fiddly options are configured automatically.</paragraph>
+			<paragraph>We now come to the available text input options on the Omnia II. Samsung have equipped the device with a proprietary thumbable virtual keyboard. It's a commendable feature since the default Windows Mobile keyboards are fit for stylus use only (and even more so on the higher-res screen for which it is obviously unfit).</paragraph>
+			<paragraph>Working in both portrait and landscape mode the full QWERTY keyboard is pretty decent to use on the generously sized screen and the haptic feedback is a big help here.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>All of the other three input options for the Omnia II include handwriting recognition. We have to say that the phone does a marvelous job of recognizing the letters and symbols we threw at it even when we used nothing but our fingers for the purpose. Yet we don't see this as a very convenient input option without the stylus.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>File manager<subsectionTitle>
+			<paragraph>The Samsung i8000 Omnia II has generous built-in storage - 8 GB in our case but there will also be a 16 GB version. We also found info on a 2GB one but there's no user report yet to confirm its existence.</paragraph>
+			<paragraph>The file explorer is the standard Windows Mobile one, but it's got itself a new color scheme and slightly larger buttons to make it more finger-friendly. It also offers an alternative tree-like view mode, much like the desktop Windows. The functionality of both applications is of course top notch, allowing you to do anything you might want to with your files - moving, copying, deleting or renaming - you name it.</paragraph>
+			<paragraph>The final nice touch is the added kinetic scrolling which makes going through medium-sized lists a lot easier. Though we still prefer to use the now much more thumbable scroller for those extra long ones.</paragraph>
+			<paragraph>Finally the Samsung I8000 Omnia II offers a search option for its file manager, in case you cannot remember the location of the file you are looking for.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great gallery<subsectionTitle>
+			<paragraph>The Samsung i8000 Omnia II is equipped with an elaborate picture viewing application called Photo Album. It sorts the photos by month and offers a nicely customizable slideshow. You get to pick the transition effect, the direction and the time for each separate photo to stay on the screen. Naturally scrolling through the images is easily done with finger sweeps.</paragraph>
+			<paragraph>Alternatively you can opt for a folder grouping of the images on your phone, where each folder containing an image appears on screen, alphabetically ordered and with an automatically assigned thumbnail.</paragraph>
+			<paragraph>Turning the phone sideways brings the third viewing mode available. All your photos are collected into a 3D arc and they slightly overlap one another much like cards. You scroll through them with a sweeping finger gesture.</paragraph>
+			<paragraph>The second arc of thumbnails crossing the current one represents the photo folders instead the individual shots. Dragging them up or down changes the current folder quite naturally.</paragraph>
+			<paragraph>Overall, the gallery is perfectly smooth and responsive and is definitely one of the coolest ones we have seen lately (though perhaps not as practical as attractive).</paragraph>
+			<paragraph>Selecting an image loads it in a single view where you can zoom or slide to the next one. Zooming in is extra easy thanks to the one-finger zooming that is now becoming customary on Samsung touchscreen handsets.</paragraph>
+			<paragraph>You simply have to hold your finger over the part you want to zoom in for a second on and drag your finger upwards. A similar gesture downwards will zoom out. You can also zoom in and out through double tapping but you have no control over the magnification that gets applied that way.</paragraph>
+			<paragraph>Naturally going from portrait to landscape mode is automatic thanks to the built-in accelerometer.</paragraph>
+			<paragraph>Just like with the Omnia HD, Samsung have taken a very interesting approach with the gallery of the Omnia II. The handset boosts the contrast and saturation of the photos when browsed fullscreen, which makes them look amazingly cool on the large AMOLED display. This time however the more powerful CPU means that the color corrections are not causing any lagging despite the higher display resolution, easily granting you the best of both worlds.</paragraph>
+			<paragraph>In this way the photos look stunning on the display, while at the same time if you download them to a computer they retain more information, giving you more freedom for post-processing.</paragraph>
+			<paragraph>So to summarize, Samsung have succeeded in create a superior photo browsing experience with the help of 3D graphics and an innovative interface for their Omnia II. Undoubtedly the fluid interface and the great responsiveness are its two other key features.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Two in one - the Touch Player<subsectionTitle>
+			<paragraph>Samsung have wisely decided to give users a new touch-friendly media player and spare them the inconvenience of installing a third-party one to substitute for the poor default WMPlayer. The Samsung Touch Player handles both video and audio files, supports playlists and has the standard album/artist/tracks sections.</paragraph>
+			<paragraph>There are two main views available in the i8000 Omnia II player. The first one is the Library - at the top you have six tabs: all music, albums, artists, genres, videos plus Now Playing. When you switch into play mode, you see a simple and clean interface. It has the standard music buttons you would expect - volume, next/previous track, play/pause and shuffle, while the album art fills most of the screen above them.</paragraph>
+			<paragraph>The options menu offers the ability to play the music faster/slower or to set the track as a ringtone. Audio effects can be applied to both videos and audio tracks.</paragraph>
+			<paragraph>Playing video is very simple - it's done the same way as an audio file. The player interface looks the same, but tapping twice turns on the fullscreen mode. It has the same control buttons as the standard one, but everything is changed for landscape orientation and there is no taskbar at the top or empty black spaces.</paragraph>
+			<paragraph>The Touch Player could easily handle DivX and XviD videos we threw at it, showing that all codec issues we witnessed in the pre-release samples are now solved. However it refused to play any videos with a resolution greater than D1 (720 x 480 pixels).</paragraph>
+			<paragraph>It's not that we upload HD content to our handsets every day but with the kind of processing power it was probably possible for Samsung to enable it. After all, coupled with the TV out and even the wireless DLNA you can certainly think of a few scenarios where that would be welcomed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio is nice and easy<subsectionTitle>
+			<paragraph>The FM radio on the Samsung i8000 Omnia II has a really neat and simple interface and can automatically scan and save the available stations in your area. It also has RDS support and automatic scanning for an alternative frequency. This means that if you travel the Omnia II will take care of auto-switching to the frequencies of your selected radio station.</paragraph>
+			<paragraph>There is also room for six shortcuts for your favorite stations on the radio app screen. The handset also supports radio broadcast recording and of course can be minimized to play in the background.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality led down by the stereo crosstalk<subsectionTitle>
+			<paragraph>The Samsung I8000 Omnia II generally has pretty good audio quality, save for the one major weakness. The stereo crosstalk reading in our test was disastrously high suggesting quite a lot of signal leakage between the two channels.</paragraph>
+			<paragraph>The noise level and the dynamic range on the other hand are excellent and so is the intermodulation distortion. The total harmonic distortion reading is also pretty good, although we have seen better.</paragraph>
+			<paragraph>The frequency response of the Omnia II is very good for most of the range but the bass frequencies have been cut off resulting in the big numbers in the table.</paragraph>
+			<paragraph> Samsung I8000 Omnia II vs HTC Touch Diamond2 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A really decent camera<subsectionTitle>
+			<paragraph>The Samsung i8000 Omnia II is capable of taking 5 megapixel photos with a maximum image resolution of 2560 x 1920 pixels. There is a dual LED flash to assist with low-light pictures and videos but as always with such units you shouldn't set your hopes too high.</paragraph>
+			<paragraph>The i8000 camera viewfinder is familiar to us from the Omnia HD, Beat DJ, 8300 UltraTouch etc. The comfortable interface is nicely touch-optimized and has all you need in the two vertical taskbars on each side of the viewfinder.</paragraph>
+			<paragraph>There are a vast amount of configurable options here - ISO, white balance, default storage, stabilizer, etc. You can see the presence of WDR, which continues to makes its way into many recent Samsung cameraphones. You can switch the default storage between the main memory, the built-in 8 gig flash and the microSD card.</paragraph>
+			<paragraph>The geo-tagging support on the Omnia II allows you to record you current location in the EXIF of your images.</paragraph>
+			<paragraph>The image quality is also pretty decent with a nice amount of resolved detail and the noise levels kept well under control. There are also no traces of image-processing algorithm issues - no oversharpening or too-aggressive noise reduction and that has resulted in some nicely balanced images with no major flaws. The only thing we are not particularly happy about is the contrast which is slightly lower than we would have liked. Of course the Omnia II cannot compare to the best cameraphones on the market but as far as processing goes, it's getting pretty close.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic resolution<subsectionTitle>
+			<paragraph>We also snapped our resolution chart with the Samsung I8000 Omnia II. You can check out what that test is all about here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>D1 video recording<subsectionTitle>
+			<paragraph>As far as video recording is concerned, the Omnia II can offer D1 resolution (720 x 480 pixels) at 30fps. There is also support for 120 fps slow-motion videos in QVGA resolution.</paragraph>
+			<paragraph>The camcorder interface is identical to the one of the still camera, except for the fact that some options have been disabled. Unluckily one of them is the anti-shake which would have been really useful here.</paragraph>
+			<paragraph>Unfortunately, the videos are not as nice as we expected. Though contrast and color saturation are quite good, the videos suffer from some excessive compression.</paragraph>
+			<paragraph>Still D1 resolution video recording is quite rare in WinMo devices so we're willing to let that one go without serious grudges.</paragraph>
+			<paragraph>Here is a sample video for you to check out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Supreme connectivity<subsectionTitle>
+			<paragraph>When it comes to connectivity the Samsung I8000 Omnia II is as well geared as a handset can be - HSDPA 7.2Mbps, HSUPA 5.76Mbps, Wi-Fi, stereo Bluetooth.</paragraph>
+			<paragraph>The network connectivity of the touchscreen handset relies on quad-band GSM support and tri-band 3G (900/1900/2100 MHz). In case you are wondering if the 3rd generation network in your country is covered you can check out our Worldwide Network Bands distribution database.</paragraph>
+			<paragraph>USB 2.0 also comes is supported as well through a miniUSB adaptor. When connected to a computer, the Omnia II automatically connects in either ActiveSync or Mass Storage mode - whatever you preset in the Settings menu. Unfortunately, there's not an option to be prompted every time you connect the handset as HTC handsets do it.</paragraph>
+			<paragraph>The Omnia II offers the card slot which provided that you have a microSD card and a card ready at hand will certainly give you the fastest data transfer rates. Unfortunately, you have to remove the back cover to access that.</paragraph>
+			<paragraph>And finally, you also get a standard 3.5mm audio jack. The jack also doubles as TV-out port and when you plug in any peripheral in the jack you get automatically prompted whether you're plugging a headphone, a headset, or a TV-out cable. However, we don't think that Samsung will be supplying a TV-out cable along with the phone. You probably would have to buy that separately.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browsing: Internet Explorer revamped<subsectionTitle>
+			<paragraph>The Samsung I8000 Omnia II comes with a couple of excellent browsers preinstalled to make best use of its rich connectivity. You get the new version of Internet Explorer Mobile with the WinMo 6.5 update, plus the Opera Mobile v9.5 which is also preinstalled. The IE Mobile this time actually good for something unlike its long outdated predecessor.</paragraph>
+			<paragraph>Opera Mobile v9.5</paragraph>
+			<paragraph>If you have been keeping track you would know that the Opera browser is extensively touch-optimized and draws inspiration from the iPhone's Safari. The browser has matured since its first reincarnations and now exhibits no rendering bugs.</paragraph>
+			<paragraph>Opera Mobile v9.5 is heavily optimized towards vertical scrolling you can scroll through complex pages without missing a beat. Panning sideways is a little slower - a checkerboard pattern appears for a moment before the content is drawn, but this lasts for only a moment so it's no big issue.</paragraph>
+			<paragraph>Zooming in and out is also very fast. You can use the one-finger zooming pattern that we described in the gallery and it works like a charm much like it did on the original Omnia. Double tapping is also very accurate as it zooms in to where you tapped, eliminating the need for much panning.</paragraph>
+			<paragraph>The WVGA resolution of the ample display helps navigation a great deal - at the minimum zoom level text is readable enough for you to find the section of the text you're interested in and double tapping takes you straight there.</paragraph>
+			<paragraph>In landscape mode, the minimum zoom fits most pages, which is extremely convenient as it give you a nice overview of the site, while the fine text still remains readable.</paragraph>
+			<paragraph>The browser orientation is changed automatically of course, thanks to the built-in accelerometer.</paragraph>
+			<paragraph>There's also Flash support including Flash video. There were some issues with YouTube on our first unit but the more finalized version we received later on handles regular YouTube videos just fine.</paragraph>
+			<paragraph>Internet Explorer Mobile</paragraph>
+			<paragraph>Now this is the really interesting part - the new version of the Internet Explorer Mobile web browser has received a nicer touch-optimized interface and a way cooler design. It shares most of the treats of the Opera Mobile, including kinetic scrolling and Flash support.</paragraph>
+			<paragraph>There are five available setting for the text size and there is a mobile view mode. Still with the high-res screen we are far more comfortable using the desktop mode as web pages look much more natural that way.</paragraph>
+			<paragraph>Zooming though is best done with the double tapping on the IE. It works like a charm on the retail unit, unlike what we had on the pre-release one and is certainly more comfortable than the alternative.</paragraph>
+			<paragraph>You other option is to go through the menu or hold you finger over the screen and go through the context menu to make a slider appear. You can then use it for controlling the zoom but there is no Fit-to-screen mode.</paragraph>
+			<paragraph>A flaw of the IE browser is the fact that it doesn't automatically rotate the pages with the built-in accelerometer. One would think that this is the easiest thing for the developers to do but they obviously saved themselves the effort here. There isn't a setting for manually switching to landscape mode either so like it or not - portrait is all you get. We guess that and the handicapped zooming is exactly what dooms the Internet Explorer Mobile of remaining second best to the Opera Mobile even after the major overhaul it has received.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Getting yourself organized<subsectionTitle>
+			<paragraph>Windows Mobile offers several time-management features and all of them are easily syncable with Outlook. In the Omnia II you mostly get the standard Windows interface for the calendar. It has been slightly modified in the new version of the OS and doesn't look as repulsive now but there aren't too many changes in the functionality.</paragraph>
+			<paragraph>The Calendar offers daily, weekly, monthly and even yearly and agenda views but there are no different appointments available for setting up. Instead you get a single appointment item that you can place in different categories but you always get the same fields.</paragraph>
+			<paragraph>There is support for cutting, copying and pasting of events and you also filter them by categories if you wish. Any of the available view modes can be set as default and you can choose the first day of the week to be either Monday or Sunday.</paragraph>
+			<paragraph>You also get the Touch calendar with the Omnia II, which has much better looks and is better optimized for finger use but slightly lags behind in terms of functionality.</paragraph>
+			<paragraph>The Tasks application allows you to add tasks and assign them priority. The Notes also come in handy, as you can either type or directly write the text down on the screen. The Audio Note and the Calculator need no explanation - their interface is only slightly polished, compared to previous-generation WinMo devices.</paragraph>
+			<paragraph>Smart Memo is an application that allows you to take notes by writing directly to the phone's screen. You get different colors and brush sizes plus you can zoom in and out of those notes. You can even save them as JPEG files or send them over MMS, email or Bluetooth if you want to.</paragraph>
+			<paragraph>The Alarm clock allows you to set a vast number of alarms to act as either wake-up or reminders. The dedicated wake-up alarm has three slots, which should allow you to wake up at different time in the different days of the week.</paragraph>
+			<paragraph>You can however set as many additional alarms as you want, each with its own name, repeat pattern, snooze time and ringtone. You also get to pick the volume and whether or not the alarm should power on the phone if it happens to be switched off.</paragraph>
+			<paragraph>The other extra features of the clock application are World clock application that can keep you updated with the time in as many time zones as you want, a stopwatch and an anniversary list. In the latter you can enter as many anniversaries as you want and optionally set up an alarm for each one to act as a reminder on either the day of the event or up to 7 days before it.</paragraph>
+			<paragraph>The final item in the organizing package is the neat and simple converter (fancily named Smart converter) that offers weight, length, area, volume and temperature conversions. There is also a currency converter and a neat Tip calculator.</paragraph>
+			<paragraph>Document editor is at your disposal</paragraph>
+			<paragraph>Among the other WM core applications is the Office Mobile package featuring support for viewing and editing Word, Excel, and PowerPoint files. With the latest version of Office Mobile, you also have the OneNote application.</paragraph>
+			<paragraph>Not only are their very good for viewing your office documents straight from the phone, but they also offer editing too. There are no extra charges - you are good to go straight out of the box.</paragraph>
+			<paragraph>Once again, the WVGA display of the Omnia II proves superior in fitting as much of the documents contents on the screen as possible - especially in portrait mode.</paragraph>
+			<paragraph>Thanks to Adobe Reader LE, there is also support for viewing PDF documents. We are extremely pleased with the performance of the Omnia II in this area, as opening and handling PDF documents is usually rather slow on most handsets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>There's also some extra apps<subsectionTitle>
+			<paragraph>The Samsung I8000 Omnia II has got preinstalled applications, outside its organizing and multimedia packages too. It comes with plenty of preloaded applications - the essentials are already installed, which means you can start using it straight away. There's the regular stuff such as an RSS Reader and a Streaming Media manager for a start but there's some new cool stuff also.</paragraph>
+			<paragraph>The RSS Reader application is rather self explanatory. It gives you quick access to RSS feeds for staying on top of the latest news and content on your favorite websites. The Podcasts application allows you to subscribe and download video and audio podcasts of your choice.</paragraph>
+			<paragraph>The Picture Frame application allows you to use the I8000 Omnia II as a digital picture frame with content of your own and highly customizable styles.</paragraph>
+			<paragraph>You can have music playing in the background too and, if needed, event alerts such as incoming message or alarms can be suppressed when the Digital Frame is running.</paragraph>
+			<paragraph>Another application is the rather handy Search Phone, capable of searching throughout applications and the whole file system. You have the option to set filters so that the application searches only in the places you need.</paragraph>
+			<paragraph>In fact the Omnia II is equipped with two search applications - the other is named Smart search and adds some nice graphics and transition effects to the whole searching thingy. Oh and it's pretty good at actually finding what you are looking for too.</paragraph>
+			<paragraph>The MSN duo of applications - Money and Weather - is also here. Those are convinent tools for retrieving weather and stocks updates straight from you handset.</paragraph>
+			<paragraph>The Smart reader is an impressively accurate business card/document reader which works in English and French on our unit. It can be set to shoot automatically once it detects a business card within the frame. All the contact details can also be stored in your Phonebook should you choose so.</paragraph>
+			<paragraph>The Midomi app a music recognition software, which however comes with a twist. You are not limited to recording the song from the radio any more - you can just sing it yourself or even simply hum it to the microphone and in most cases it will recognize the track. After that Midomi allows you to find lyriucs and even video of the track in question.</paragraph>
+			<paragraph>The Omnia II also comes with a video editor that allows you to make your own videos with up to VGA resolution. You can insert photos, video clips, audio tracks and even custom text through the nicely designed interface.</paragraph>
+			<paragraph>The Samsung I8000 Omnia II arrived with a pre-loaded app called Application Download, granting you access to Samsung's app store. Of course, there's the inevitable comparison to the App Store as the structure and concept is quite close.</paragraph>
+			<paragraph>Applications are displayed into several tabs - Recommended, Hot and Category. You can also see all downloaded items or to search for new ones. Before you download an app you can read its detailed description and check its rating.</paragraph>
+			<paragraph>We also found the Microsoft's own Marketplace in the Main menu but the service is not yet ready to launch so it was inactive with a Coming Soon tag.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still waiting to become a GPS navigator<subsectionTitle>
+			<paragraph>The Samsung I8000 Omnia II features a built-in GPS receiver with A-GPS support. The assisted GPS allows for much faster satellite lock upon cold start thanks to current satellite data downloaded over Wi-Fi or the 2G/3G network. It does however achieve great results without it too - the warm start time being less than fifteen seconds and the cold start hardly exceeding a couple of minutes.</paragraph>
+			<paragraph>With its huge 3.7" display the I8000 Omnia II has the potential to be a very cool GPS navigator. Unfortunately there is no navigation software preinstalled on our Omnia II, but as far as the official Samsung specs go, they shoud be offering that at least as an option if not as a standard feature (we guess their Samsung Mobile Navigator by Route66).</paragraph>
+			<paragraph>We downloaded and tested the free Google Maps app just to see if the GPS would have any issues with a third party app. Google Maps had no issues recognizing the receiver also we guess using it with a third-party app of your choice will be as easy as cake.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Motion gaming is on board as well<subsectionTitle>
+			<paragraph>There are four games onboard the Samsung I8000 Omnia II. The first two are the all too familiar Windows Mobile Solitare and Bubble Breaker, while the other two are quite more interesting.</paragraph>
+			<paragraph>The Asphalt 4 racing simulator is one of the 3D games the Omnia II is marketed for having. Asphalt 4 offers accelerometer based-controls - you tilt the phone for the car to turn. The controls are responsive enough to provide decent gaming experience. And if motion-gaming isn't your cup of tea you can still control your car by simply tapping on the screen.</paragraph>
+			<paragraph>Crayon Physics is a 2D physics puzzle game, in which you get to experience what it would be like if your drawings would be magically transformed into real physical objects. You need to solve a series of puzzles, showing good knowledge of the physics laws.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Samsung I8000 Omnia II is certainly a device that is hard to match, let alone beat and that much is clear with just a cursory glance at its specs. It also carries the aura of a new OS version pioneer, which in itself is enough to generate excitement. But that can hardly be a selling point as all recent HTC devices have also been promised free WinMo 6.5 updates one the things gets out.</paragraph>
+			<paragraph>The thing that caught our attention the most is that the handset has the performance to cash all the checks that its specs are writing for. Virtually every part of the once sluggish and boring looking WinMo interface has been overhauled: it is now pleasantly designed, fluid and responsive to such a degree that it might rival most of the other touch-centric platforms out there.</paragraph>
+			<paragraph>Now add the vast amount of software available, which has always been one of the strongest selling points of the devices powered by the Microsoft OS, and you get yourselves a really nice package. And let's not forget the smooth design, by no means a small issue in this handset's many features.</paragraph>
+			<paragraph>The closest that the market has to offer to the Samsung i8000 Omnia II is the HTC Touch HD. It packs a slightly larger screen but some users might still prefer the AMOLED charm of the Omnia II. Besides, the Touch HD runs on a slower 528 MHz CPU and it isn't yet cleared for a WinMo 6.5 update. And truth be told, the Samsung Omnia II is just on the verge of becoming the burden for single-handed usage that the Touch HD already is.</paragraph>
+			<paragraph> HTC Touch HD</paragraph>
+			<paragraph>No one should forget the HTC Touch Diamond2 either, though it doesn't even come close to a 3.7" AMOLED screen or an 800MHz CPU. However at this stage the HTC champ has a more attractive price tag and that combined with the time-tested TouchFLO 3D UI might be enough to keep users interested. HTC devices usually have a wide user base and there are some quite strong communities of HTC users always ready to give you a tip or help you tweak your gadget.</paragraph>
+			<paragraph>Another pretty interesting Windows Mobile offering is the Toshiba TG01. It packs an amazing 1GHz Snapdragon CPU and a huge 4.1" touchscreen. Yet somehow we feel that its dimensions (except for the thickness) have crossed a certain line and make usability a problem. The higher price and the relatively limited market availability are also hurting the TG01 chances in this battle.</paragraph>
+			<paragraph> Toshiba TG01</paragraph>
+			<paragraph>Looking outside the WinMo world for a moment shows us some more competitors to the Omnia II. The Symbian-powered Samsung i8910 Omnia HD offers an almost identically-sized screen, although of lower resolution, but makes up for it with impressive imaging and mostly video recording performance. However the touch experience provided by the Omnia II seems quite better than the one that of its Symbian cousin.</paragraph>
+			<paragraph> Samsung i8910 Omnia HD</paragraph>
+			<paragraph>Finally, we come to the omnipresent iPhone 3GS. Packing a less impressive camera and some peculiar limitations such as no Bluetooth file transfers, for instance, the Apple device still remains THE thing to beat when talking touchscreen experience. Its applications database is also pretty impressive.</paragraph>
+			<paragraph> Apple iPhone 3GS</paragraph>
+			<paragraph>We guess that once the Samsung Omnia II price settles down there will hardly be any serious contender to its looks and performance. Samsung are clearly targeting a large chunk of the HTC market share and from what we are seeing it might just have the resources to get it. The original Omnia was the first bullet in this war but now the South Korean company is bringing out the big guns.</paragraph>
+			<paragraph>The Samsung i8000 Omnia II and the Samsung B7610 OmniaPro match and even exceed what's out there right now, and along with their lower-end Omnia siblings look set to make the next step to achieving domination in a territory where Samsung traditionally didn't venture. Now we might not be the greatest of prophets but if the rapid improvement continues we cannot see anyone stopping them.</paragraph>
+		</subsection>
+	</page>
+</review>

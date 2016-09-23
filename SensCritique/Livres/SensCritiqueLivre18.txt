@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Bain de lune</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2014</year>
+	<link>http://www.senscritique.com/livre/Bain_de_lune/11880943</link>
+	<generalScore>6.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Bain de lune</title>
+		<author>MarieDmarais</author>
+		<date>2015-04-26</date>
+		<score>0.5</score>
+		<content>Le premier chapitre est souvent assez décisif quant au reste du bouquin. On accroche ou pas. Toute fois, il peut arriver, et fort heureusement, que la suite de la lecture nous fasse renouer avec les personnages, l'histoire, l'auteur qui semblaient mal barrés au prime abord. Malheureusement Bain de lune n'entrera pas dans cette catégorie. Certes c'est bien écrit, le style est travaillé et poétique mais justement, la part de rêve ou de sur-naturel (ça dépend de quel côté on se place) est trop importante pour les non initiés à la culture créole. L'auteur maîtrise cette langue. Son lectorat pas forcément. Le parti pris de le mêler aussi souvent que possible et de manière toute naturelle perturbe car s'il y a bien une traduction et explication, elles se situent dans un glossaire à la fin du bouquin... Et au vu du nombre de mot en italique, le lecteur non averti passe plus de temps à faire des aller-retour entre l'histoire et le glossaire (une fois qu'il a compris qu'il y en a un...) qu'à avancer dans sa lecture. Oui je chipote mais j'ai trouvé ça très très chiant. D'autant plus que je ne l'ai vu qu'à la moitié du bouquin ce d!f,nbetoùuhb de glossaire. Non, ça ne m'a pas du tout énervé de ne pas comprendre la moitié des phrases... ! Ca n'aide pas pour rentrer dans l'histoire et l'apprécier. Ensuite, l'histoire en elle même est une saga familiale sur trois générations. Des pauvres, des riches, des pauvres qui veulent s'en sortir et des riches qui les piétinent pour les laisser dans leur fange. C'est Dallas ? Heu... un peu mais version haïtienne, les stetson et les verres de scotch en moins. Je me moque, je me moque mais je pense que c'est un très joli récit que nous fait là Yanick Lahens à qui sait l'apprécier. Elle dépeint une réalité qui est loin des cartes postales de sa voisine dominicaine qui, elle, cache une réalité dérangeante sous le sable de ses plages aménagées pour des touristes en mal de soleil. Les passionnés du genre se régaleront, les autres essayeront de s'y intéresser... comme moi ;)</content>
+	</review>
+	<review>
+		<title>L'avis d'une lectrice (L.H.) de la Médiathèque de l'Orangerie de Claye-Souilly</title>
+		<author>LeMédiathécaire_DeCl</author>
+		<date>2014-12-18</date>
+		<score>0.7</score>
+		<content>Très beau livre d'une grande poésie. On traverse presque un siècle d'histoire haïtienne avec ses rites et ses croyances ainsi qu'un arrière-plan politique et social tout juste suggéré. L'auteure a su créer des personnages d'une grande richesse malgré une vie dans un dénuement quasi total. L.H.</content>
+	</review>
+	<review>
+		<title>Bain de Lune</title>
+		<author>Kissed-by-fire</author>
+		<date>2015-02-28</date>
+		<score>0.7</score>
+		<content>Après un terrible ouragan sur Haïti, une jeune fille est retrouvée échouée sur une plage. Son corps porte les traces d’une rare violence, elle est incapable de parler, mais son esprit s’adresse aux anciennes divinités, tente de se souvenir, supplie l’homme qui l’a trouvée de lui venir en l’aide. On ne sait pas qui est cette jeune femme, c’est au fur et mesure des autres chapitres que nous découvrons toute l’histoire qui se cache derrière le drame. Quelques années auparavant, les Lafleur ont été dépouillé de leurs richesses et de leurs terres par les Mésidor qui sont devenus, eux, extrêmement riches. Mais Olmène, toute jeune fille, beauté paysanne, ravit le cœur du puissant Tertulien. Un lien entre les deux familles est créé, qui unira leurs destins sur plusieurs générations. Au travers de ces deux familles, des sœurs et frères, des parents, enfants et petits-enfants, on découvre l’histoire de l’île d’Haïti, les rebellions, les répressions, la misère, et la puissance des éléments. La voix de la jeune fille blessée permet de réunir le passé et le présent et de nous faire découvrir l’histoire et l’Histoire, ces deux familles prisent dans les tourbillons d’un peuple qui se cherchent. Le texte est émaillé de passage en créole et de références (j’aurais préféré avoir les traductions en bas de page plutôt qu’un lexique à la fin), et si le premier chapitre est un peu laborieux afin de mettre en place les histoires des deux familles, la suite se lit toute seule. Les passages dans l’esprit de la jeune fille sont très poétiques, ont ressent toute la fascination de ce peuple de pêcheurs pour l’eau, contrairement aux autres chapitres où on est plus terre à terre avec les paysans et les histoires d’argent et d’amour qu’elles soient charnelles ou filiales. Un bon petit roman, une jolie découverte sur un pays qui n’est au final que peu représenté en littérature.</content>
+	</review>
+</sensCritiqueEntity>

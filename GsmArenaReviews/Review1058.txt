@@ -1,0 +1,50 @@
+<review>
+	<title>Various brands overview</title>
+	<description>CES 2013</description>
+	<link>http://www.gsmarena.com/various_brands_ces_2013-review-871.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>This year's Consumer Electronics Show had a few prominent absentees from among the key players in the mobile industry. While some may've been busy celebrating record years or wondering what went wrong after poor Q4's, others are already getting their ducks in a row for trade shows later in the year - or even their own events - to announce their latest devices.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Whatever the case may be, this year's CES had the door wide open to many of the lesser-known manufacturers, some of which enjoyed the spotlight with impressive announcements of their own.</paragraph>
+			<paragraph>ZTE chimed in from China with a surprisingly impressive 1080p smartphone, looking to grab some market share in what is shaping up as the new standard for flagship devices in 2013 ? FullHD smartphones with quad-core processors.</paragraph>
+			<paragraph>We also saw a wide variety of tablets from an equally wide variety of manufacturers. The Archos 97 Platinum features a high resolution screen backed by a quad-core engine at a mouth-watering price, while the Panasonic Toughpad JT-B1 is a great tablet for the extreme outdoors.</paragraph>
+			<paragraph>You can discover more about each of these devices in the upcoming pages, as we take a look at the unlikely headliners at CES 2013.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>ZTE Grand S<subsectionTitle>
+			<paragraph>The ZTE Grand S is the Chinese company's new smartphone flagship device, and looks to put ZTE on the map with its thin profile and 1080p screen.</paragraph>
+			<paragraph>Design-wise, the Grand S offers simple and straightforward lines, although the all-plastic construction is not as solid as some of the aluminum unibody designs we've seen here at CES, such as on the recently-introduced Huawei Ascend D2.</paragraph>
+			<paragraph>The Grand S is a super-thin device at just under 7mm. It doesn't take the thinnest smartphone crown from Alcatel's new Idol Ultra, but the device is very thin in-hand, which lends to its slick design.</paragraph>
+			<paragraph>The display has a pixel density of 440ppi, and the fullHD screen looks impressive. We're not sure how well the battery will hold up. It has been whittled down to 1780 mAh in order to fit within the small frame, but here's hoping that it will last at least one full day on a charge. After all, the quad-core 1.7GHz processor provides a nicely smooth ride around the OS, but it's a hungry beast, too.</paragraph>
+			<paragraph>We've also made a hands-on video so you can see the device in action:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>No price is available yet for the Grand S, but ZTE is eyeing a Q1 release in China.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Archos 97 Platinum<subsectionTitle>
+			<paragraph>There are quite a lot of tablets here at CES 2013, but probably very few of them will catch the consumer's attention as much as the Archos 97 Platinum.</paragraph>
+			<paragraph>Built around a 9.7" IPS display, pushing an iPad-eqsue resolution of 2048 x 1536 pixels (264 PPI), the Archos 97 Platinum packs a 1.2GHz quad-core processor and 2GB of RAM, which help the slate run Android 4.1 Jelly Bean very decently.</paragraph>
+			<paragraph> The Archos 97 has some great display fidelity</paragraph>
+			<paragraph>And if the quad-core processor and Retina-like display didn't sound great already, the Archos 97 Platinum is going to retail for the very un-Apple-like $329. Sounds like a great deal indeed.</paragraph>
+			<paragraph>With such price, however, you have to sacrifice something and in the 97 Platinum's case that's the build quality. The slate doesn't feel too bad in your hands, but the lock/power and volume rocker buttons feel really cheap.</paragraph>
+			<paragraph>There are two 2MP camera at the front and back of the slate. We think Archos could have saved the trouble of placing a main camera at the back and slash the price even further. Built-in storage is quite limited at 8GB, but luckily it's expandable via the microSD slot.</paragraph>
+			<paragraph>The Archos 97 Platinum is expected to hit US and Europe shores in March.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Panasonic Toughpad JT-B1<subsectionTitle>
+			<paragraph>As suggested by those official images and the specs sheet, the thing is built like a tank and feels every bit as rugged as you would expect from just such a device.</paragraph>
+			<paragraph>The screen isn't anything special, though, and we did notice that it's not as responsive as we would have liked. It could be due to the pre-release status of the units available at the Panasonic booth, but we suspect the extra tough glass protection has something to do with that too.</paragraph>
+			<paragraph>The whole tablet feels much larger than your typical 7-incher and is very thick, but that's hardly shocking news. The weight is also pretty badly affected by the added armor, making it one of the 7-inchers that's hardest to wield.</paragraph>
+			<paragraph>We like the rubbery accents to the cold metallic body as they allow a better grip and will undoubtedly prove priceless if you happen to drop the tablet.</paragraph>
+			<paragraph>We suggest you don't drop the JT-B1, however, as it does start at $1199 and you know, it could even hurt someone's leg.</paragraph>
+		</subsection>
+	</page>
+</review>

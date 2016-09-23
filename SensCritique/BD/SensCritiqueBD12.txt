@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Et c'est là que mes ennuis ont commencé - Maus, tome 2</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1992</year>
+	<link>http://www.senscritique.com/bd/Et_c_est_la_que_mes_ennuis_ont_commence_Maus_tome_2/11202355</link>
+	<generalScore>8.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>14</numberOfVoters>
+		<numberOfVoters>65</numberOfVoters>
+		<numberOfVoters>266</numberOfVoters>
+		<numberOfVoters>476</numberOfVoters>
+		<numberOfVoters>343</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Et c'est là que mes ennuis ont commencé - Maus,...</title>
+		<author>Loeso</author>
+		<date>2016-04-12</date>
+		<score>0.8</score>
+		<content>Une merveille de sentiment et de tristesse. Un chef d'oeuvre incontesté de la bande dessinée et de l'écriture des mémoires de la Shoah. Maus doit être un modèle, une œuvre que l'on retrouverait dans les manuels scolaires.</content>
+	</review>
+	<review>
+		<title>Une suite digne du premier tome, avec de (très) légeres scories</title>
+		<author>Jopopoe</author>
+		<date>2016-03-06</date>
+		<score>0.9</score>
+		<content>Je trouve que l'équilibre entre histoire et narration qui rendait si parfait le premier tome est parfois perdu, sans doute à cause des errements dont nous fait part l'auteur en début de tome. Le poids de l’œuvre sur Art Spiegelman amène sans doute celui-ci à un questionnement constant sur sa démarche, ce qui emmène les circonstances de la narration à prendre parfois un poil trop le dessus sur ce qui est narré. Mais franchement, je pinaille, c'est très très très bien quand même ! 19/20</content>
+	</review>
+</sensCritiqueEntity>

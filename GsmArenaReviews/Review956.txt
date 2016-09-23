@@ -1,0 +1,319 @@
+<review>
+	<title>Meizu Pro 6 review</title>
+	<description>Changing lanes</description>
+	<link>http://www.gsmarena.com/meizu_pro_6-review-1442.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.2" 1080p AMOLED display of 423ppi; 3D Press</paragraph>
+			<paragraph>Heavily customized Flyme OS 5.6 on top of Android 6.0 Marshmallow</paragraph>
+			<paragraph>MediaTek Helio X25: deca-core processor with 2x 2.5GHz Cortex-A72, 4x 2.0GHz Cortex-A53, and 4x 1.4GHz Cortex-A53; Mali-T880MP4 GPU; 4GB of RAM</paragraph>
+			<paragraph>21MP Sony Exmor RS IMX230 camera sensor with two-tone 10-LED ring flash, 2160p video recording @30fps</paragraph>
+			<paragraph>5MP front-facing camera with 1080p@30fps video recording</paragraph>
+			<paragraph>32GB or 64GB of built-in storage</paragraph>
+			<paragraph>Cat. 6 LTE (300/50Mbps); Dual SIM; Wi-Fi a/b/g/n/ac; Bluetooth 4.1; NFC; GPS/GLONASS/Beidou; USB Type-C port, USB On-The-Go</paragraph>
+			<paragraph>mTouch Home button with a fingerprint scanner</paragraph>
+			<paragraph>Active noise cancellation via a dedicated mic</paragraph>
+			<paragraph>2,560mAh battery with 24W mCharge 2.0 (Up to 65% charge in 30min)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Underwhelming GPU</paragraph>
+			<paragraph>Smaller screen compared to predecessor</paragraph>
+			<paragraph>Sealed battery</paragraph>
+			<paragraph>No memory expansion option</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Meizu's Pro series has always been about the full flagship experience. Big high-res screens, top-notch chipsets and advanced imaging all wrapped in a fancy package with a teasing price tag.</paragraph>
+			<paragraph>The MX4 Pro was perhaps the pinnacle of the Pro lineup with its 1536p display and high-end camera setup. The Pro 5 got a slight haircut, trading the near-WQXGA screen resolution for an AMOLED panel and a smoother user experience. The Pro 6 chose to pursue 3D Press and boasts the latest 10-core chipset by MediaTek in an attempt to demonstrate some muscle.</paragraph>
+			<paragraph>Muscle-flexing is probably the right way to go if you're mostly going to compete against big and powerful phablets of all kinds of makes. The Meizu Pro 6 does have the smallest screen of the last three Pro generations but otherwise takes many cues from its Pro 5 sibling, including the design, storage options and camera department. The big news is the Helio X25 chip but we've yet to see how that compares against the Exynos 7420 Octa that powers the Pro 5.</paragraph>
+			<paragraph>So, we are going to kick off with that - the Meizu Pro 6s is the first mainstream flagship we meet with the latest Helio X25 chipset. The advanced MediaTek engine employs a deca-core processor with a couple of 2.5GHz Cortex-A72 cores, four 2GHz Cortex-A53's and four 1.4GHz Cortex-A53's. There is also a Mali-T880 MP4 GPU and 4GB of RAM. The Pro 6 is also the first popular Android smartphone to give 3D Touch a go after Apple's attempt in iOS 9 didn't quite make a big splash out of it.</paragraph>
+			<paragraph>Comparing the Meizu Pro 6 to its Pro 5 sibling, the newer generation has a smaller display leading to a higher pixel density but the battery capacity took a hit due to the more compact body. The two camera units are identical, but the quad-core Mali-T880 GPU might raise questions - we're going to pay special attention comparing it to the Meizu Pro 5's previous gen octa-core unit. On the plus side, the Pro 6 offers 3D Press, which the predecessor doesn't and is generally hard to come by in the Android world.</paragraph>
+			<paragraph>So, is there enough to draw upgraders and lure switchers? We are going to try and find out. But first, let's check the complete feature list.</paragraph>
+			<paragraph>The sealed battery is far from unexpected coming from a company whose designs are clearly influenced by Apple's. The cap on memory is a downgrade of sorts compared to the preceding Pro 5. At minimum 32GB and a 64GB version as an alternative, this is something most users can probably live with.</paragraph>
+			<paragraph>To us, the more interesting question is how much of a powerhouse the Pro 6 is. We'll run the benchmarks in the dedicated chapter and analyze the results. The 3D Press will get due attention as well.</paragraph>
+			<paragraph>Of course, the Pro 6 isn't going to only target upgraders - we bet Meizu is keen to bring new customers in as well. So, let's see if their latest phablet is really up to the task.</paragraph>
+			<paragraph>Special thanks to HonorBuy.com and Meizu for providing review units.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Meizu Pro 6<subsectionTitle>
+			<paragraph>The Meizu Pro 6 comes in a big black box made of matte plastic, which contains the USB Type-C cable and the charger. In our unit, the dedicated headphone compartment contained just an Earphone Not Included note.</paragraph>
+			<paragraph>The USB cable is packed quite nicely, while the charger is a 24W one for fast charging the Pro 6.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>360-degree view<subsectionTitle>
+			<paragraph>The Meizu Pro 6 stands at 147.7 x 70.8 x 7.3mm and weighs 160g. Its screen diagonal is half an inch smaller than the Pro 5's, which results in the Pro 6 being a centimeter shorter and narrower than its predecessor. The difference in terms of thickness and weight is negligible.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Meizu Pro 6 sticks to the established design of the series, not without trying to refine some of the details. The Meizu Pro 6 is made of metal, while its AMOLED screen is protected by a piece of Gorilla Glass 4.</paragraph>
+			<paragraph>The seamless aluminum unibody is, as usual, interrupted by two antenna strips but this time around those are a little less prominent and go close to the top and bottom. Even better, they feature some kind of convincingly metal-like cover and the curved line turns them in a good design accent. Indeed, this has made the Pro 6 a little more stylish.</paragraph>
+			<paragraph>The curved sides and subtly chamfered edges nicely complement the 2.5D glass.</paragraph>
+			<paragraph>It's good to see manufacturers trying to do something about the compromised design of plastic antenna strips and blending them into the metal unibody. This complicates the manufacturing process but produces a more stylish and complete design.</paragraph>
+			<paragraph>Meizu couldn't fit the entire camera setup into the body and our only issue with the Pro 6 design is the tiny camera hump on the back. On the other hand - the 10-LED ring flash looks just great.</paragraph>
+			<paragraph>The Meizu Pro 6's handling is by the book: the solid feel is matched in terms of construction, the body allows a secure grip thanks to the matte finish and the overall experience in hand is quite pleasing. The reduced footprint due to the smaller screen definitely helps too. There is nothing we'd change in the Pro 6 (well, maybe the camera hump), and we easily give it an excellent mark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above the screen, the 5MP selfie snapper and a couple of sensors are placed on either side of the earpiece. Below the screen is the mTouch 2.1 sensor embedded in the Home key.</paragraph>
+			<paragraph>The Pro 6 has just a single UI control, the 3-in-1 Home button. On tap it acts as Back, while on press it doubles as a Home button. Finally, when the phone is locked, it acts as a fingerprint scanner. It's a setup we love and once you get used to it, you may never want to go to a different key configuration.</paragraph>
+			<paragraph>The left side of the Pro 6 houses a SIM tray, which takes two nano SIM cards for dual-SIM telephony. The right side features the volume rocker and the power/lock key, both made of metal.</paragraph>
+			<paragraph>The Meizu Pro 6's top has nothing but the secondary mic. The bottom is quite busy though - here we find the audio jack, the primary mic, the USB Type-C port, and the loudspeaker grille.</paragraph>
+			<paragraph>Finally, the 21MP Sony IMX230 camera lens is on the back, righ above the dual-tone 10-LED ring flash. The 10 LEDs circle the focus-assist laser.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Meizu Pro 6 packs a 5.2" Super AMOLED screen of 1080p resolution, which results in 423ppi. The images are crystal clear and sharp, the viewing angles are excellent, as is the contrast.</paragraph>
+			<paragraph>The screen of the Pro 6 is half an inch smaller than the Pro 5's, but in its defense it improves the pixel density, helps the handling and, most importantly, brings 3D Press capabilities. We'll explore these in detail in due time.</paragraph>
+			<paragraph>The pixel arrangement is the usual Diamond PenTile. According to Meizu, the Pro 6 uses a 5.5 generation Samsung AMOLED panel.</paragraph>
+			<paragraph>The colors provided by the Meizu Pro 6 are good, but not perfect, just like it was with the Pro 5. The two displays are tuned slightly differently as the average DeltaE of the Pro 6 is slightly lower at 5.3 (for the primaries, plus black and white), but the max DeltaE is higher at 10.2. What it means is the Pro 6 screen is well calibrated (Avg DeltaE of 5.3, anything below 4 is considered perfectly calibrated), but the white color (DeltaE of 10.2) is way off, which explains the less than perfect score.</paragraph>
+			<paragraph>The white color came out bluish in all of the display modes, but we were able to get better calibration by moving the color slider midway into the Warm option.</paragraph>
+			<paragraph>??he contrast is as good as an AMOLED screen can offer and the brightness, at 360 nits, is slightly better than the promised 350 nits. The AMOLED units aren't known to be very bright to begin with - the Pro 5 is slightly dimmer (322nits), while the Galaxy S6 display (363nits) is on par with the Pro 6.</paragraph>
+			<paragraph>A definite positive point is that the minimum level of brightness is only 3 nits, which would make for an extremely comfortable reading experience in pitch dark environments.</paragraph>
+			<paragraph>You will probably notice the screen is not completely dim at pitch black color. It turns out lots of the AMOLEDs out there can't go completely dark, but we can only guess about the reasons. Some suggest this is to prevent screen burn-in, while others point to backlight leaks - the current passing through the LEDs to sustain the screen refresh rate. Anyway, this shouldn't bother you, but it gives a better explanation of the results below.</paragraph>
+			<paragraph>The sunlight legibility is great and you'll have no problem seeing what's happening on the screen even under bright sunlight.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Pro 6 has 500mAh less battery capacity compared to the Pro 5 - for a total of 2,550 mAh. But unlike the energy-efficient Exynos chipset, we didn't quite know what to expect of the new Helio X25 chip.</paragraph>
+			<paragraph>We ran our battery test and it outed mixed-bag results. The smartphone does average across all of our tests, including the single-SIM and dual-SIM standby.</paragraph>
+			<paragraph>The rating of 57 hours isn't bad at all - it means you can use the Pro 6 for two full days and then some if you are to make an hour of 3G talks, web browsing and video playback each day. Putting a second SIM card drops the rating down to 54 hours. Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+			<paragraph>Obviously the new MediaTek Helio X25 is far from an energy efficient hardware, just like the rest of the MT chipsets we've met so far. Naturally, we've tested the phone on Performance Power Mode. You can save a few more hours on the Balanced Plan, if you like. We surely miss the Exynos chip on the new generation.</paragraph>
+			<paragraph>This is how long a single battery charge will last you if you use the Meizu Pro 6 for an hour each of telephony, web browsing, and video playback daily. Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Meizu Pro 6 supports LTE Cat.6 connectivity and you can tap into an LTE network on either SIM, but the other will default to a GSM network. The LTE bands our review unit supports include 1(2100), 3(1800), 7(2600), 38(2600), 39(1900), 40(2300), 41(2500). Dual SIM telephony is also supported, but the slot isn't hybrid and you can't put a microSD card inside.</paragraph>
+			<paragraph>The rest of the wireless connectivity features include dual-band Wi-Fi a/b/g/n/ac support and Wi-Fi Direct. There is also support for Bluetooth 4.1, NFC, and GPS and GLONASS. Wireless screen mirroring is available via the Miracast protocol.</paragraph>
+			<paragraph>The Pro 6 supports USB Type-C and fast charging. If you have a proper USB OTG adapter, you can attach peripherals and thumb drives. You should be able to charge other devices, but you'd need to get a special adapter as Meizu hasn't included one in the package.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Flyme OS 5.2 with Marshmallow foundation<subsectionTitle>
+			<paragraph>The Meizu Pro 6 runs on the latest Flyme 5.2 OS, which was built on top of an Android 6.0 Marshmallow core. The Chinese models comes with the so-called Yun OS, which is a forked version of Android with Chinese-exclusive services to replace everything Google's. The international models come with all must-have Google APIs and apps, though.</paragraph>
+			<paragraph>The Flyme OS 5 lockscreen is a pretty simple affair - you drag upwards to unlock and have the option of securing it with a passcode, an unlock pattern, or use the fingerprint reader (it's not always-on, sorry). There are no shortcuts on the lockscreen, but you get a quick access to the camera.</paragraph>
+			<paragraph>Gesture wake up is available - you can use pre-defined gestures to launch different apps while your phone is asleep - double tap to wake and swipe to unlock work by default, but you can also use swipe down, or other gestures such as Z, M, U, W, among others to launch apps of your choosing.</paragraph>
+			<paragraph>Holding down the home button will launch Meizu's Voice Search, but you can change this quick action if you want.</paragraph>
+			<paragraph>The homescreen is simple - you get two panes by default but you can add more later on. The homescreen gathers all of your app icons and you can add widgets into the mix.</paragraph>
+			<paragraph>The notification area pulls down the whole way. You get a set of four circular toggles for various settings and you can expand them with a swipe down or with the dedicated virtual button in the top right.</paragraph>
+			<paragraph>The rest of the notification area is a basic list or expandable, actionable notifications.</paragraph>
+			<paragraph>Switching between tasks is done with a pull up menu from the bottom of the screen. The task switcher has been completely overhauled in Flyme 5 - it's now a 3D scrollable carousel and there is an option to close all active/suspended apps. The option to pin an app (tap and hold) is here to stay - the pinned app will stay always in recent apps at the state you closed it.</paragraph>
+			<paragraph>Flyme 5 supports multi-view, which is also managed via the task switching interface. The supported apps have a 'Multi' button and you can activate a split-screen app right away. Unfortunately, the apps to support multi-view are only four - News, Video, Settings, Documents and Smart Voice. Hopefully this list will grow bigger with the upcoming firmware updates.</paragraph>
+			<paragraph>You can customize the UI with various themes. You can browse the App Center for themes - some of them are paid but there are many free and a lot to choose from. There's also a variety of built in wallpapers.</paragraph>
+			<paragraph>There's a Do Not Disturb mode that will block notifications and calls and you can choose a white list of numbers that can get through. It can be scheduled to run at specific time intervals or be set manually.</paragraph>
+			<paragraph>There is one more option - Scheduled Power On and Off - you can setup your Meizu m1 metal to shut down and boot up at a specific time on specific week days - just like alarms.</paragraph>
+			<paragraph>The Pro 6 isn't as big as its Pro 5 sibling, but Meizu still provides a way for single-handed operations with the so-called Smart Touch. It's a movable virtual 4-way key, like a D-Pad, and you can assign functionalities to each of the directions, tap and hold, tap, and double tap. For example, moving the key downwards brings down the notification area, moving it towards right acts as Back. If configured properly, it can very much allow you to control the metal with just one hand, while you are on the move.</paragraph>
+			<paragraph>Flyme OS can be tough to get around at first but once you've gotten your bearings it becomes a treat to work with. Meizu is keeping things as simple as possible and everything works seamlessly without any hiccups.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>3D Press makes its way on Android<subsectionTitle>
+			<paragraph>Apple was the first to bring the long-rumored and highly anticipated Force Touch on a smartphone that you can actually buy. It's an additional pressure-sensitive layer of sensors above the display and it can detect different levels of pressure. Its main purpose is to allow for new interactions with the operating system and hopefully add a new dimension to the user experience.</paragraph>
+			<paragraph>Apple calls its Force Touch feature 3D Touch, while Meizu named it 3D Press. Gionee, Huawei and ZTE are also offering Force Touch-enabled smartphones, but only in a very limited premium editions of an otherwise mass-market smartphones. So, the Pro 6 is the first Android smartphone we meet with a 3D Press screen.</paragraph>
+			<paragraph>Meizu learnt from Apple most of the tricks it has added on its Flyme launcher, but that's not necessarily a bad thing. Before we start checking the 3D Touch gestures, you should know you can turn it on/off from settings and you can choose its intensity. The available options are String, Normal, and Soft, with the latter being the level of sensitivity we've used to operate on the iPhone 6s series.</paragraph>
+			<paragraph>So, 3D Press, just like on the iOS, provides some handy shortcuts on a variety of system apps. You can get pop ups for new messages on the Messages icon, a shortcut for new alarm on the Clock app, a new Memo options on the Memo icon, and so on.</paragraph>
+			<paragraph>If you press hard on an email within the Mail app, it will pop a preview into a balloon for you to see it. From there you can swipe it upwards for more option, or downwards to mark it as read.</paragraph>
+			<paragraph>You can do the same in Messages and the Gallery - a firm press opens a preview of the message/picture and you can get more options or dismiss it.</paragraph>
+			<paragraph>The Browser app in addition to the new pop-up shortcuts (New Tab, Search, Bookmarks) gets a very useful pop-up link preview. You just need to force press on a clickable link and you'll get a preview of the page it's linked to. Then you can go up for open in new window/in the background, or dismiss it by swiping it down.</paragraph>
+			<paragraph>Those are pretty much the use cases for the 3D Press. Some apps offer pop-up shortcuts on their homescreen icons and you can preview various content in bubbles within selected system apps (News, Messages, Gallery, Browser, Memos). That's it.</paragraph>
+			<paragraph>Since Android does not officially support Force Touch screens, if you change the Flyme launcher with something else you'll lose those features altogether. What's even worse is the chance of Android developers embracing the company's custom SDK seems very low. Until Google brings official support functionality will likely remain limited to what Meizu itself delivers.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Meizu Pro 6 is a departure from the previous Pro models (Pro 5, MX4 Pro) and instead of relying on Samsung's Exynos chips it goes for the latest MediaTek Helio X25. The X25 is a refined X20 chip with faster deca-core processor and GPU. The rumored Meizu MX6 is expected to run on the Helio X20, while the Pro 6 will be having an edge with the X25 model.</paragraph>
+			<paragraph>Helio X25 packs a deca-core tri-cluster processor with 2x Cortex-A72 at 2.5GHz, 4x Cortex-A53 at 2.0GHz, and 4x Cortex-A53 at 1.4GHz. The insane number of cores aside, the GPU is often MediaTek's Achilles's heel and the Mali-T880 MP 4 (read quad-core) may indeed throttle the overall performance.</paragraph>
+			<paragraph>First things first, lest see how this monstrous CPU setup stacks against the competition.</paragraph>
+			<paragraph>The single-core performance of a Cortex-A72 core is far from chart-topping - the custom Kryo (Snapdragon 820 within the G5, HTC 10, Mi 5), Mongoose (Galaxy S7 edge), and Twister (iPhone 6s Plus) can edge anything the Cortex series can offer.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>But the MediaTek mantra is pretty much the more the merrier, so we'd expect 10 cores to beat all others processors we've tested so far. And they almost did, but were bested by the Huawei P9 and the Galaxy S7 edge.</paragraph>
+			<paragraph>The P9 has a very fast CPU with 4x Cortex-A72 at 2.5GHz and 4x Cortex-A53 at 1.8GHz, which explains why its 8 cores out a similar score to the 10 cores of the Helio X20 - the extra two high-performance A72 units made the difference. The same goes for the Galaxy S7 edge and its 4x high-performance Mongoose + 4x A53 cores.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Meizu Pro 5 offered an octa-core Mali-T760 MP8 GPU, while the Meizu Pro 6 goes for a quad-core Mali-T880 MP4 clocked at 850MHz. Even though the newer generation graphics, we expect a drop in the performance because of the halved GPU cores. The Huawei P9 uses the same GPU (Mali-T880 MP4), but it runs on a slightly higher clock at 900MHz.</paragraph>
+			<paragraph>While many tests show the Huawei P9's GPU sufficient for games and battery-friendly, our one-month usage demonstrated a frustrating number of graphic bottlenecks. They can be related to poor multi-task handling, but we can't be sure.</paragraph>
+			<paragraph>We played a bit with the Meizu Pro 6 and we saw some similar problems with Angry Birds Pop. They are rare, but still rather annoying from a flagship.</paragraph>
+			<paragraph>Now about those raw benchmarks. The higher GPU clock of the P9 made a tiny difference and it has beaten the Meizu Pro 6 on some tests by a frame or less. The Pro 5 predecessor shows much better results due to the better GPU. And the Pro 6 graphics can't even come close to the flagship GPUs on the market today used by the HTC 10, Galaxy S7, and iPhone 6s.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Due to the subpar GPU performance the compound test AnTuTu 6 shows a rather uninspiring result.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The other compound test - the BaseMark OS II 2.0 - puts the Meizu Pro 6 on par with the HTC 10 and close to the Galaxy S7 edge. The benchmark gauges not only CPU, GPU and UX, but also memory and browser performance, so the final scores bodes well for day-to-day performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Meizu Pro 6 definitely delivers on processing performance with its 10-core processor. It's nothing revolutionary and far from the best solution you can get on the market, but you will rarely feel any sort of difference. Hopefully the developers will be able to fully utilize its power in the upcoming months.</paragraph>
+			<paragraph>The GPU is where the Pro 6 underperforms compared to the competition. Sure, the games will run smoothly most of the time, but bottlenecks are expected to occur sometimes. And while the heat isn't such an issue, the Pro 6 becomes rather warm under stress.</paragraph>
+			<paragraph>So in a way the Pro 5, its predecessor, seems a more balanced fella - while it loses on CPU tests, it beats the Pro 6 in graphics. That said, the Pro 6 is still a very capable performer and if it wasn't in the sort of elite company the flagship tag warrants we would have been very happy with it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>At its core, the phonebook on the Meizu Pro 6 is a list of all contacts but you can view only a specific group or filter where contracts come from - phone contacts, email account or a Meizu account.</paragraph>
+			<paragraph>The dialer features smart dialing, which is nice. Otherwise it doesn't differ from any other in functionality. Both the dialer and phonebook tabs does not support 3D Press.</paragraph>
+			<paragraph>The Meizu Pro 6 has all reception bars full and held onto signal great even in tighter spots. Call quality is very good. A dedicated mic for active noise cancellation makes sure the other party hears you loud and clear.</paragraph>
+			<paragraph>The phone supports dual-SIM with dual-standby. The second SIM supports GSM networks only, while the primary works on 3G and LTE. Managing the SIM cards is very easy as is initiating calls and sending texts.</paragraph>
+			<paragraph>The Meizu Pro 6 scored a Very Good mark at our loudspeaker test. The speaker sound quality is very good for a single-speaker setup with deep sound.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>The messaging department is quite straightforward: there are no folders here, just New message, Search and Settings buttons. Above is a list of all your messages organized into threads.</paragraph>
+			<paragraph>Meizu has tweaked the generic email client. It supports multiple Exchange, POP or IMAP inboxes and you have access to the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The gallery<subsectionTitle>
+			<paragraph>The Flyme gallery has two viewing modes - photo and gallery. The photo stacks images into months while the gallery puts them into folders. You can add or remove folders from the gallery and also search through it. 3D Press preview for pictures is available.</paragraph>
+			<paragraph>There's also a built-in editor that offers filters and all the basic controls for contrast, brightness and you can even add blur or vignette. You cannot use different editors from the stock gallery and would need to install a third-party gallery (like Google's Photos) to have different editors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The music player can only find tracks located in the Music folder. You can browse your collection the traditional way or you can select to have it filtered by folders.</paragraph>
+			<paragraph>In the first case tracks are sorted into several playlists like All songs, Recently added, Folders and you have the option to create custom playlists. When viewing All songs you can choose between three types of sorting in a tabbed layout: song name, artist and album.</paragraph>
+			<paragraph>You can access the equalizer from the advanced menu. It features several presets, which you can edit manually - but you need to insert the headphones first.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great video player<subsectionTitle>
+			<paragraph>The Meizu Pro 6 comes with a dedicated Video app, but it expects videos to be placed in the video folder. You can use the file browser or gallery to get videos to play from elsewhere - it offers thumbnails and everything so we ended up using it more often than the Video app itself.</paragraph>
+			<paragraph>There's a pop-out option that allows you to view the video as an overlay to the OS.</paragraph>
+			<paragraph>The Meizu Pro 6 played everything we threw at it - Xvid, DivX, MP4, MOV, WMV and it supports the AC3 audio codec, too. Subtitles are supported, but it recognizes only Latin and Chinese characters.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Solid audio output<subsectionTitle>
+			<paragraph>The Meizu Pro 6 delivered excellent output when used with an active external amplifier, getting top marks for clarity and garnishing them with above average volume levels.</paragraph>
+			<paragraph>Degradation caused by headphones is minimal too with a moderate hike in stereo crosstalk being the only notable change. Volume remained higher than the majority of competitors putting the Pro 6 in a great position here.</paragraph>
+			<paragraph>And now here go the results so you can do your comparison.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>21MP camera with a dual-tone 10-LED flash<subsectionTitle>
+			<paragraph>The Meizu Pro 6 utilizes the same Sony IMX 230 sensor with 21MP resolution we saw on the Pro 5. It is capable of 5312x3984px snaps in 4:3 aspect. The auto focus uses a hybrid system, incorporating phase detect auto focus in addition to the regular contrast detect system. The camera also features a laser-assisted auto-focus, which should help the sensor take snapshots in the dark.</paragraph>
+			<paragraph>Meizu offers what it calls Super high ISO that would allow the phone to shoot at up to 1600 ISO in low light conditions. There's also a dual-tone ring flash with 10 LEDs, which should produce more natural flash photos. While it looks very beautiful and looks promising on paper, in reality the tiny 10 LEDs produce as much light as the dual-LED flash on the iPhone 6s or the Huawei P9 (if not less). SO if you had high hopes for the flash, you'd be disappointed.</paragraph>
+			<paragraph>The camera interface by default launches into Auto mode where the camera determines the shooting parameters. You have the option to turn on HDR (but no automatic HDR), gridlines for the viewfinder and a level gauge so that your pics are perfectly leveled compared to the horizon. There's also an option to enable a timer of either 3, 5 or 10 seconds.</paragraph>
+			<paragraph>These are Auto, Manual (where you can set the shutter speed up to 20s, ISO, exposure compensation and even the focus - from macro to infinity), Beauty (which can make eyes bigger, faces slimmer, skin smoother and whiter), Panorama, Light field (which is Meizu's refocus app allowing you to put the focus in any part of the image or have it entirely in focus), Slowmotion, GIF, Macro and Video.</paragraph>
+			<paragraph>The samples have excellent dynamic range and very good detail. Contrast, white balance and colors are also well handled. The only problem is the Pro 5 camera was doing a bit better both in terms of detail and noise handling.</paragraph>
+			<paragraph>Given that the two have identical hardware chances are that the Pro 6 will be brought on par with its predecessor via a firmaware update, but it's a bit disappointing having to go through that at all. In isolation however, the Pro 6 is a very capable shooter.</paragraph>
+			<paragraph>While there is no Auto HDR mode, the great dynamic range more than made up for it and we resorted to the HDR option rarely.</paragraph>
+			<paragraph>The HDR mode is meant to get an even wider exposure of a scene - bringing back detail in both the highlights and the shadows. The Meizu Pro 6 it does a very good job of bringing back detail in tricky scenes, but if there is enough light, it will turn out a rather unrealistic looking overexposed picture. The camera sensor seems to have a great native dynamic range, so we'd suggest turning the HDR on only if you are unsatisfied by the auto mode.</paragraph>
+			<paragraph>Panoramas aren't too impressive on the Meizu Pro 6. There is plenty of resolution (as in number of pixels), but not enough resolved detail to go with that. At least colors and exposure are nicely handled.</paragraph>
+			<paragraph>So, we've tried the Meizu Pro 6 flash and it didn't turn out as impressive as it sounds. The produced light is pretty much as any other dual-tone dual-LED flash (such as the iPhone SE), because the LEDs used on the Pro 6 are much smaller.</paragraph>
+			<paragraph>We've also played with faces - but instead of getting the skin color right, most of the samples turned out of focus. The one that were OK didn't shine with any tone corrections any other smartphone couldn't offer.</paragraph>
+			<paragraph>While the 10-ring LED flash sounds great on paper - its best function is to look pretty. It doesn't offer more light than the competition and hence there is no real advantage.</paragraph>
+			<paragraph>Finally, you can check out a 5MP image taken with the front-facing camera of the device. It offers a great deal of detail for a selfie camera, the colors are great as is the contrast.</paragraph>
+			<paragraph>We've uploaded full resolution (21MP) photos to our photo quality comparison database to compare against other high-resolution smartphones. You can see the Pro 6 images are softer and noisier than the Pro 5's (bottom left) and Moto X Force (bottom right). The low-light test puts the Pro 6 behind those two. Oddly, the Pro 6 didn't want to shoot at ISO 100 even in brightest of the rooms, it always chose ISO 300. Setting manually to ISO 100 did the trick, but the results were absolutely the same as on ISO 300.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>2160p video recording at 30 fps<subsectionTitle>
+			<paragraph>The Meizu Pro 6 shoots videos up to 4K resolution (3840 x 2160px) at 30fps and 1080p videos at 30fps. There's no 60fps smooth motion option but you do get a 720p@100fps slow motion shooting mode that renders and plays back at 25fps.</paragraph>
+			<paragraph>The UHD videos of the Meizu Pro 6 are recorded in the HEVC format, which is essentially the next-generation H.265 mode that has a much smaller storage footprint. While this advancement makes sense because it helps you reduce the storage requirements it means that most of your media players will need an additional codec download in order to play the videos you shot with the Meizu Pro 6. YouTube doesn't support it either. The smartphone itself has no issues with the videos, though.</paragraph>
+			<paragraph>The 4K videos (43Mbps bitrate) produced by the Meizu Pro 6 have average levels of detail, and the phone often loses focus because of the constant focus hunting. In fact, the AF is so jumpy, it may ruin the videos entirely on occasion.The contrast is good and so are the colors. The audio recording is stereo at 128Kbps bitrate.</paragraph>
+			<paragraph>Here is a short 4K video (9s, 50MB) for download.</paragraph>
+			<paragraph>The 1080p videos offer a wider field of view - their bitrate is also about 17Mbps, and the audio is stereo, but the detail can't compare to the high-res clips. The AF is still overreacting way too much unfortunately.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here goes the 1080p@30fps (9s, 20MB) as a direct download too.</paragraph>
+			<paragraph>Head to our Video quality comparison tool for a comparative look at the Pro 6 video recording capabilities. The Pro 6 does slightly better in good light conditions than it's Pro 5 sibling, but fails at low-light scenes. The Moto X Force is the obvious winner here.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The MX browser<subsectionTitle>
+			<paragraph>The latest version of the MX web browser utilizes almost the entire screen real estate to the web page, save for the status bar on top and a tiny bar on the bottom for Refresh, Tabs and Bookmarks. Choosing Tabs opens a quick pop up preview of your open tabs instead of bringing up an entirely new screen, which is great as it still leaves the website your on in plain view.</paragraph>
+			<paragraph>The browser comes with an integrated ad-blocker. Oddly, it advertised Flash support, too, but we weren't able to run Adobe Flash content after all.</paragraph>
+			<paragraph>There's even a Reading mode and our favorite Night mode, which inverts the background and text colors and makes it really easy to read at night.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>The Meizu Pro 6 features a calendar that supports multiple online accounts. It offers monthly, weekly, daily and agenda views and is pretty straightforward to work with. Creating a new event lets you set which calendar to store it in, along with a reminder.</paragraph>
+			<paragraph>The Calendar has a very minimal, clean look but retains all the functionality you'd expect. You can also go for the Google Calendar - it's available for download as a separate app from the Play Store.</paragraph>
+			<paragraph>Moving on, we have the Clock app that will handle multiple alarms with custom repeat times, ringtones, snooze time and labels. There are also a stopwatch and timer integrated within the Clock app.</paragraph>
+			<paragraph>A calculator app is also on board. Interestingly you can use it as am pop-up app over the homescreen and other apps, such as MX browser. It offers a currency, length, weight and volume converter, too.</paragraph>
+			<paragraph>There is a very helpful Toolbox app, which provides a flashlight, a mirror, compass, level, ruler and magnifying functions.</paragraph>
+			<paragraph>The Memos app is clean and simple. You can add notes, images and even check lists into it.</paragraph>
+			<paragraph>The App Center works with only Chinese content but you can still use it, if you can read Chinese, that is. Thankfully, the Google Play store came preinstalled on our device so we got our apps from there.</paragraph>
+			<paragraph>The preinstalled file manager lets you browse through the memory of the Meizu m1 metal or through Recent, or through different media types - music, videos, pictures, etc. It allows copy, cut and paste and also sharing of files on your device.</paragraph>
+			<paragraph>Perhaps the highlight of Meizu's homebrewed apps is the Security app. It lets you scan for viruses, clean junk files, keep an eye on your large files, manage your data traffic, and most importantly - control the permissions for each app you install.</paragraph>
+			<paragraph>Finally, there is a News app, which aggregates stories from sources by your choosing. It's highly customizable and is able to give you push notifications of stories as they are coming.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Meizu Pro 6 key test findings<subsectionTitle>
+			<paragraph>The refined design of an all-metal unibody, stylish antenna strips, and subtly curved sides, make the Pro 6 one of the most beautiful smartphones in the market.</paragraph>
+			<paragraph>The mTouch home button is quite a smart set-up: it odes fingerprint scanning and responds to both presses and taps.</paragraph>
+			<paragraph>The 5.2" display is smaller than the predecessor's but overall a good Super AMOLED unit with adequate brightness, contrast, and color rendering. The 2.5D protective glass is welcome, too. Oh, and it's 3D Press-enabled, which is a first on a mainstream Android smartphone.</paragraph>
+			<paragraph>The battery endurance rating of 57h is usable, but pretty mediocre</paragraph>
+			<paragraph>Flyme OS is fluid and responsive, unlocking gestures are just as good here, the mTouch button has some great added functionality (closing apps, going a step back). Great theming options;</paragraph>
+			<paragraph>The Helio X25 chipset sounds great on paper, but is a rather underwhelming performer. The 10-core processor is a power-hungry monster, while the GPU is weaker than the one used on the Pro 5.</paragraph>
+			<paragraph>Video player has very good codec support and seamless 4K video playback;</paragraph>
+			<paragraph>Solid audio quality with above average loudness;</paragraph>
+			<paragraph>Excellent still camera performance, but falls short of the the Meizu Pro 5. Given the fact both phones use the same camera sensors and software, we expected at least a tie.</paragraph>
+			<paragraph>Disappointing panoramic images, the selfies are very good though.</paragraph>
+			<paragraph>The 2160p videos have average levels of detail, and the over-sensitive auto-focus can become an annoyance. In fact, the AF is so jumpy, it may ruin the videos entirely. The HEVC codec is not compatible with YouTube and most of the common players.;</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Meizu is hardly the largest manufacturer in the world but its Pro series has always been easy to get excited about. Uniting the latest hardware, design tendencies, and powerful yet simplistic Flyme launcher. Whether you are a power user or a competitor on the verge of releasing your next big thing, the current Meizu Pro device has always been a good reference point.</paragraph>
+			<paragraph>This year the Meizu Pro 6 caught us by surprise. By bringing the screen size down and switching from an Exynos to a MediaTek chipset the company really raised a few eyebrows, and so did betting on 3D Press screen as a key selling point at a moment when even Apple omitted it from its latest iPhone SE.</paragraph>
+			<paragraph>The Pro 6 certainly gets a lot of things right - the 5.2" 1080p AMOLED display, the great imaging capabilities and premium design make it a tempting option for a number of users.</paragraph>
+			<paragraph>However the 3D press usefulness is questionable and we doubt it will be enough to justify the shrunk screen for the majority of users. The camera quality also came surprisingly short of what the Pro 5 offered, but we guess Meizu will address that with a firmware update. We are not sure anything can be done about the underwhelming GPU though.</paragraph>
+			<paragraph>So, not all bad after all. Actually, the Pro 6 is a well-rounded package but it just doesn't feel like an outright update to its predecessor Perhaps that wasn't intended to begin with and the Pro 6 was just meant to be an alternative rather than a replacement. After all 3D Press is an exciting route to explore - it's just not making enough of a difference yet.</paragraph>
+			<paragraph>Anyway... the Meizu Pro 5 from last year is cheaper, offers a bigger screen, a little more GPU power, slightly better camera quality, and even superior battery life. It hasn't got 3D Press, but that honestly is still far from a game-changer. It does come down to your preference of screen size then.</paragraph>
+			<paragraph>Then there is the 5" Xiaomi Mi 5, which also costs less but offers a compelling design and screen, an OIS-enabled camera, and a Snapdragon 820 chipset. There are lots of storage and color options for the Mi 5, and you can have it in a ceramic shell too. It is quite an easy device to break though and not one widely available so it's not an option for everyone.</paragraph>
+			<paragraph>The OnePlus 2 is hardly breaking news but its Oxygen OS and moddable nature are a personal favorite for many. The OnePlus 2 has a rather good screen and camera too. The fingerprint/home key turned out its Achilles's heel, so you should look into that.</paragraph>
+			<paragraph>The recently unleashed Huawei P9 is more expensive, but instead of the 3D Press stuff it offers a clearly superior camera experience thanks to the dual setup co-developed with Leica. The screen and design are great too, but the GPU is doubtful - just as it is on the Pro 6.</paragraph>
+			<paragraph>Some of last year's flagships will easily get the nod too, ahead of a still relatively obscure brand. The cool Galaxy S6, the water-proof Xperia Z5, or the LG G4 that is available with a genuine leather back. They have all been placed on the discount shelf, so you may want to check them out.</paragraph>
+			<paragraph>The Meizu Pro 6 isn't for everyone, that's for sure. The Pro 5 owners will hardly find a reason to "upgrade", but the MX5 users might. A rumored MX6 with a massive battery and phablet-sized 5.5" screen may however tip the scales further in the wrong direction for those still weighing up the pros and cons of adding 3D Press on a smaller screen and debuting a deca-core chipset.</paragraph>
+			<paragraph>Special thanks to HonorBuy.com and Meizu for providing review units.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le sang n'oublie jamais - Les Mystères de Larispem, tome 1</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Le_sang_n_oublie_jamais_Les_Mysteres_de_Larispem_tome_1/20296412</link>
+	<generalScore>7.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Paris s'est éveillée</title>
+		<author>marquise</author>
+		<date>2016-04-23</date>
+		<score>0.8</score>
+		<content>Larispem, c'est Paris en 1899. Oubliez l'Histoire telle que vous la connaissez : dans cet univers, les insurgés ont pris le pouvoir lors des événements de la Commune, et la classe dominante est désormais celle des louchébems, ou bouchers. C'est dans ce monde que vivent Carmine, apprentie louchébem, et Liberté, mécanicienne, toutes deux amies et maraudeuses la nuit tombée, à la recherche de trésors de l'Ancien Régime à revendre. Lors d'une de leurs sorties nocturnes, elles découvrent un livre qui semble être convoité par les Frères de Sang, qui, à la veille du siècle nouveau, complotent pour prendre leur revanche sur ce nouveau régime qu'ils ont refusé d'adopter. Cela aurait-il un rapport avec la maladie étrange qui touche les pensionnaires de l'orphelinat dans lequel a grandi Nathanaël ? Lui aussi décide de mener l'enquête ! Lucie Pierrat-Pajot réinvente l'Histoire tout en nous la faisant redécouvrir. Elle mélange l'argot – bien réel ! des bouchers du XIXème siècle ainsi que ses grandes figures, notamment Jules Verne, avec des éléments historiques complètement imaginaires, qui vont des inventions révolutionnaires aux discours politiques qui auraient pu exister si l'histoire avait eu lieu autrement. Elle met en scène des héroïnes fortes, de vraies aventurières qui, dans une société qui prône l'égalité en toute chose, essaient de faire valoir l'égalité des sexes autant que celle des classes, en montrant qu'elle ne valent pas moins que les hommes bien qu'elles évoluent dans des univers typiquement masculins – un sujet remarquablement d'actualité pour un roman qui se passe il y a plus d'un siècle. Loin de faire de Larispem une société utopique, Lucie Pierrat-Pajot nous donne à réfléchir sur notre propre Histoire ; elle a l'art d'inventer un autre monde, tout en faisant que celui-ci reste profondément ancré dans notre réalité. Enfin, je suis particulièrement fière que la gagnante du concours Gallimard du premier roman soit bourguignonne ! Et d'après une source très très fiable, elle serait en pleine écriture du deuxième tome...</content>
+	</review>
+	<review>
+		<title>Formidable dystopie</title>
+		<author>frisson_squirrel</author>
+		<date>2016-09-11</date>
+		<score>0.8</score>
+		<content>Le roman se déroule en 1899 soit environ trente ans après la Commune. Un nouveau régime a été instauré et les aristocrates ont dû fuir vers la France. Paris est devenu Larispem, bastion de la technologie où Jules Vernes est reconnu comme un génie. Mais la malédiction des anciens aristocrates ne va peut-être pas tarder à s'abattre sur Larispem... J'ai adoré le roman pour le monde où l'on est transporté. Je trouve qu'il fourmille de détails géniaux. Pour ce qui est de l'action, c'est un premier tome et cela se ressent. On découvre peu à peu les personnages, les rouages se mettent en place... Et paf c'est la fin. C'est très frustrant de devoir attendre le deuxième tome !</content>
+	</review>
+</sensCritiqueEntity>

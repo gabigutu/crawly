@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Tebori, tome 1</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Tebori_tome_1/19460714</link>
+	<generalScore>7.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>33</numberOfVoters>
+		<numberOfVoters>33</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Tebori, tome 1</title>
+		<author>Marco</author>
+		<date>2016-08-05</date>
+		<score>1.0</score>
+		<content>C'est superbe visuellement et surtout, l'histoire est prenante! Ce n'est pas ma première BD qui aborde le thème des tatouages (Lire Little Tulip) mais elle reste originale et il me tarde carrément de lire la suite!</content>
+	</review>
+</sensCritiqueEntity>

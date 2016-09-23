@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Death Note, tome 2</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2007</year>
+	<link>http://www.senscritique.com/bd/Death_Note_tome_2/13426576</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>37</numberOfVoters>
+		<numberOfVoters>126</numberOfVoters>
+		<numberOfVoters>88</numberOfVoters>
+		<numberOfVoters>30</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

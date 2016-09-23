@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Nausicaä de la vallée du vent, tome 3</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2001</year>
+	<link>http://www.senscritique.com/bd/Nausicaae_de_la_vallee_du_vent_tome_3/12845661</link>
+	<generalScore>8.8</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>21</numberOfVoters>
+		<numberOfVoters>45</numberOfVoters>
+		<numberOfVoters>60</numberOfVoters>
+		<numberOfVoters>68</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Champs de batailles</title>
+		<author>Wirage</author>
+		<date>2015-09-14</date>
+		<score>1.0</score>
+		<content>Un Tome sur un champ de bataille, plein de stratégie, de violence et de cavaliers. Un Tome où le fantastique prend un aspect réalistique. On suit les stratégies de guerre de briants combattants. Et de Naussica au milieu de tout ça, qui fait au mieux pour éviter des morts. Comme elle le dis "Si je me reposai maintenant, je tomberai en dépression."</content>
+	</review>
+	<review>
+		<title>Nausicaä de la vallée du vent (1984)</title>
+		<author>Muffinman</author>
+		<date>2015-01-31</date>
+		<score>0.8</score>
+		<content>La lisibilité immédiate n'est certes pas toujours excellente dans des cases parfois trop petites, mais l'histoire est palpitante de bout en bout. Je persiste dans mon idée que NAUSICAÄ est une grande histoire d'heroïc-fantasy dans laquelle on retrouve, notamment à la fin de ce tome 3 (une quarantaine de pages), une bataille épique qui n'a absolument rien à envier à celle du Gouffre de Helm dans LE SEIGNEUR DES ANNEAUX (je parle du livre, bien sûr). La personnalité des protagonistes continue à s'enrichir au fur et à mesure tandis que de nouveaux personnages prometteurs apparaissent, également avec un fort potentiel. On n'est visiblement pas prêt de s'ennuyer dans les suites qui ne peuvent être que captivantes.</content>
+	</review>
+</sensCritiqueEntity>

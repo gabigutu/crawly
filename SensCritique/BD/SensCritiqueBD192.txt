@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Kobane calling</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Kobane_calling/22456555</link>
+	<generalScore>8.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Superbe BD documentaire!</title>
+		<author>Daniel Dupont</author>
+		<date>2016-09-18</date>
+		<score>0.8</score>
+		<content>Les dessins simples et naïfs contrebalancent la gravité des scènes décrites. L'auteur est d'une honneté scrupuleuse (je ne dis pas impartial): il justifie son voyage, n'est pas fanfaron ni casse-cou, ni un monsieur je-sais-tout. On s'identifie facilement à lui :-) Sur le fond, Zerocalcare essaie de voir la société que certains kurdes veulent créer: égalité homme-femme, respect des religions, mais aussi problèmes qu'ils rencontrent: société mise à l'index et donc peu aidée par la communauté internationle. Erdogan en mettant Daech et le PKK sur le même plan nous donne une bien mauvaise image de la Turquie: Quelque soit l'opinion qu'on ait sur les Kurdes, ils ne pratiquent pas l'esclavage, décapitation sur youtube et attentats contre des civils en France ou autres pays.... Point négatif: le lettrage...je trouve qu'il faut faire parfois des efforts pour lire le texte, pas une question de taille mais de choix de police. Dommage!</content>
+	</review>
+</sensCritiqueEntity>

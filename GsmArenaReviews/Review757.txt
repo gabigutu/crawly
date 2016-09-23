@@ -1,0 +1,113 @@
+<review>
+	<title>HTC Desire Eye hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/htc_desire_eye-review-1146.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Portrait photography used to be something people dress up for, now teens snap a few "selfies" before breakfast. HTC goes all-in on the selfie craze with the new HTC Desire Eye where front and back cameras pack equally impressive 13MP sensors. They also have a dual-LED flash each, so now photos of you get the same treatment as photos of other people.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>HTC is continuing to experiment with camera setups - the Duo Camera of the HTC One (M8) was unique and the Desire Eye setup is even more remarkable. The front-facing camera appears massive, a cyclopic eye right above the screen. It's a 13MP unit with its own pair of two-color LEDs, making it probably the most impressive selfie camera we've seen.</paragraph>
+			<paragraph>HTC says it's more than just selfies - plenty of 18-26-year-olds spend a lot of time video chatting, not counting professionals who can use the potent front cam for video conferencing. There's a good deal of proprietary software to back up that claim and the same imagination that spawned Zoe is here with a new twist on dual-camera photos (dual as in front and rear, not two at the back).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC Desire Eye at a glance:<subsectionTitle>
+			<paragraph>Beyond that the HTC Desire Eye is the new flagship of the Desire family line. With its plastic exterior it can't rub shoulders with the One elite, but the Eye has a bigger screen (5.2") than the One (M8) and the same Snapdragon 801 chipset.</paragraph>
+			<paragraph>It's water resistant too - IPX7 for submersion up to 1 meter for half an hour - and HTC pulled it off without any flaps. The Desire Eye keeps the BoomSound stereo speakers, the LTE connectivity, the microSD card slot, the Sense-enhanced KitKat, basically all the best features of the latest One flagship aside from the metal unibody.</paragraph>
+			<paragraph>We've not heard anything on pricing yet but HTC is well aware of how market segments and pricing work and we'll be very surprised if a Desire gets priced higher than the One. Time to market was another talking point so the launch date should be close.</paragraph>
+			<paragraph>The Desire Eye wasn't the only camera on stage in New York, HTC is entering the action camera segment. The RE camera has a unique periscope shape and a simple interface. Gyro and grip sensors work together to automatically turn the camera on as soon as you grab it and off when you put it down. There are a total of two buttons on the camera and you can use an Android app to control it remotely.</paragraph>
+			<paragraph>The RE camera itself shoots 16MP stills and 1080p videos. While HTC isn't going after the GoPro with video resolution, the company bets on digital stabilization and IPX7 water resistance with no cases (it goes up to IPX8 with a special waterproof cap).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Desire Eye hardware<subsectionTitle>
+			<paragraph>The HTC Desire Eye has a unique face - the 13MP front-facing camera takes up nearly the entire bezel above the screen. The sheer size indicates just how important the front-camera is here - you're no longer peering down a tiny pinhole.</paragraph>
+			<paragraph>The dual-LED flash feels equally strange above the screen, it's as if someone took the top part of the phone and twisted it 180° around. But it too sends the message that selfies are as important as general photos, the motto of the Desire Eye.</paragraph>
+			<paragraph>The phone has three microphones - one at the bottom for calls as usual and then one for each camera. Selfies are not the only focus of the Desire Eye, videos of your handsome mug are equally important.</paragraph>
+			<paragraph>It doesn't look like it in the photos (you can barely tell in person too) but there are front-facing stereo speakers, HTC's trademark BoomSound setup, on the front around the screen. HTC's newfound focus on photography doesn't mean the company is backing away from their music-centric image.</paragraph>
+			<paragraph>Still, with a large camera and two speakers on the front the phone is rather large. It measures 151.7 x 73.8 x 8.5mm, that's taller than the 5.5" LG G3 and nearly as wide and thick too. At 154g it's heavier than the LG flagship as well. Here's how it stacks up against the HTC One (M8) for Windows.</paragraph>
+			<paragraph>The design of the HTC Desire Eye divides the body into three segments. It's clearly seen in the blue version - the front is white, there's a light blue trim around the phone and a dark blue back. The other version we got to see is white on the front and back with a bright red in between.</paragraph>
+			<paragraph>We like the front and middle plastic, it's Nokia-style polycarbonate that are great to touch. The back quickly becomes a smudgy mess though - taking some points off the overall feel.</paragraph>
+			<paragraph>The camera setup on the back is less crowded since there's plenty of room and little else besides the HTC logo. The lens is in the upper left corner, the dual-LED flash below it and there's a microphone a bit to the side.</paragraph>
+			<paragraph>The Desire Eye is IPX7-rated but you can't tell just by looking at it. The audio jack and even the microUSB port are left uncovered, meaning nothing will get in your way when charging the phone or connecting it to a PC.</paragraph>
+			<paragraph>A small giveaway is the hardware shutter key on the right side of the phone - touchscreens don't work underwater so water-resistant phones often have hardware keys to let you snap underwater images. On the same side is the volume rocker and the Power key.</paragraph>
+			<paragraph>The opposite side houses the two card slots - nanoSIM and microSD. The phone comes with 16GB of built-in storage and you can add up to 128GB more with a memory card.</paragraph>
+			<paragraph>With all this talk about cameras, we almost forgot about screen - and given how good it is we really shouldn't have. It's HTC's first 5.2" screen and at 1080p resolution it has 423ppi pixel density, which in practice looks as good as the 441ppi screen of the HTC One (M8).</paragraph>
+			<paragraph>See a quick video walkthrough of the HTC Desire Eye and its key features below.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Desire Eye benchmarks<subsectionTitle>
+			<paragraph>We managed to run a couple of benchmarks on the Desire Eye and it scored impressive results. It performs virtually on the same level as the HTC Butterfly 2 (even though that one has the overclocked Snapdragon 801 version) and it easily stands up to flagships like the Samsung Galaxy S5, Sony Xperia Z3 and LG G3.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Desire Eye Camera<subsectionTitle>
+			<paragraph>We called the front and back cameras identical but that's not entirely true. The back camera has an f/2.0 aperture and 28mm field of view, while the front camera has a 22mm f/2.2 lens. Either way, the cameras are very fast, photos are snapped with impressive speed.</paragraph>
+			<paragraph>To further highlight its importance, the front camera is the one that launches by when you press the hardware shutter key. The HTC Desire Eye also has multiple camera modes designed around using the front camera or both. Some of those are useful, others are gimmicks good for one or two photos.</paragraph>
+			<paragraph>Here's a video of the camera UI of the HTC Desire Eye in action.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Split capture divides the screen in half, one piece for each camera, and lets you snap photos or record videos. You can shoot simultaneously with both cameras but you don't have to, you can capture each side in turn, which makes good framing easier and more comfortable.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If the split-screen effect is too jarring, the Crop-me-in feature can also try to composite you into the shot - cut you out of the image taken with the front camera and paste you into the image with the back camera. In our (admittedly limited) experience with this feature the software isn't perfect in tracing your outline but does kind of okay for an automatic process. Like Split capture, this feature works for both photos and videos.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Face fusion is another attempt at an automatic Photoshop job - it takes two faces (one from each camera) and melds them together. You get a slider that controls how closely the final result will resemble each of the faces.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>A decidedly more useful feature is Video Chat Control. It can track up to 4 face at once and keep them consistently centered in their frame, which is good for teleconferencing. You can also share a video of the phone's screen during conference calls.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We managed to snap several samples with both the front and back cameras. Yes, HTC took us a helicopter ride, so note that the aerial shots are through glass, which mucks up the image quality a bit.</paragraph>
+			<paragraph>We made comparison shots with the front and back cameras. The front-facing camera is noticeably wider than the back camera, which puts it at a bit of a disadvantage but the overall image quality between the two cameras is very closely matched.</paragraph>
+			<paragraph>Finally, here's a quick video sample we shot. At the end you can see the digital zoom in action, the result looks pretty good.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We have some good news for current HTC owners: the company promised to distribute some of the custom camera modes to existing devices, though obviously the results won't be as good even on the 5MP selfie cameras that HTC is employing lately.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC RE hands-on<subsectionTitle>
+			<paragraph>The RE is HTC's foray into the action camera field. The company went for a unique design that you sort of hold and point like a gun when shooting handheld. The camera can be propped up on a level surface but at the bottom there's a standard tripod mount that can be used with a wide array of accessories.</paragraph>
+			<paragraph>The overall shape of the device is like a periscope - a 26.5mm wide cylinder that's curved 90° on the top. The whole thing is a bit under 10cm tall and weight 65.5g. The camera is at the end of the curved bit and features a 1/2.3" 16MP sensor behind an f/2.8 aperture and 146° lens.</paragraph>
+			<paragraph>Such wide lenses naturally create a fisheye effect, but you can set the camera to automatically correct it. Of course you can choose to keep the fish eye look (which captures a bit more of the scene). You can also go for the crop mode (which reduces the field of view but produces geometrically correct result by default.</paragraph>
+			<paragraph>The HTC RE camera records 1080p@30fps videos or 720p 4x slow-motion videos (that's 120fps). Slow-motion mode is triggered with the button in the front, the one below the camera. Audio is captured via the single microphone on top of the camera. We're no fans of mono sound, but at least HTC used a high 170Kbps bitrate and 48kHz sampling rate.</paragraph>
+			<paragraph>The camera has no interface really, you just grab the camera and it activates (thanks to the grip and gyro sensors). Then you press the mirror key on the back - short press for photo, long press for video. A small, hard to see LED blinks when you press the shutter key and the speaker produces a sound to assure you that you're recording.</paragraph>
+			<paragraph>A wide number of accessories and mounts will be available for the HTC Re camera at launch. See them below alongside the retail package of the gadget.</paragraph>
+			<paragraph>The RE can connect to Android (v4.3+) or iOS (v7+) smartphones for remote viewfinder and controls. The iOS app will only be available next year, though.</paragraph>
+			<paragraph>Besides the usual shooting modes, the app also enables time lapse photography. Photos can be viewed on the phone and while connected the RE camera, the app can share photos and videos on your favorite social network and automatically back up the files on a cloud account for safe keeping.</paragraph>
+			<paragraph>Another way to get at your images is through the microUSB port on the bottom. Photos and videos are stored on a microSD card hidden in the slot at the bottom. There's an 8GB card out of the box but you can use up to 128GB cards.</paragraph>
+			<paragraph>The microUSB port and microSD card slot have been sealed well enough to earn an IPX7 rating - water resistance up to 1m for half an hour. Keep in mind that this is for fresh water and chemicals (even soap can damage the microUSB port). There's protective lens cap and a screw on cap for the bottom that covers the port and card slot and bumps the water resistance to IPX8 (up to 3 meters of water for two hours).</paragraph>
+			<paragraph>In the box you get a wrist lanyard that also screws in the tripod mount. Additional accessories include various mounts (suction cups, bike mounts, etc.), an extended battery pack (prolongs capture times by 4 times) and a charging stand. The stand keeps the RE camera upright, making it suitable for time-lapse videos.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>By itself the camera's 820mAh battery is rated at 1,200 photos or 1 hour and 40 minutes of straight video shooting. There's an LED on the front that shows the battery status - when you pick up the camera it will glow green if the battery has 25% or more charge, orange if less.</paragraph>
+			<paragraph>Here are a few sample shots we took with the HTC RE camera.</paragraph>
+			<paragraph>We had a brand new GoPro Hero4 Black, the top of the line model announced just a week ago. We took a quick shot with each - unfortunately we didn't have time for more and the weather wasn't great but here's a first head to head shot. The GoPro is noticeably wider (170° in ultra wide angle mode) but you can easily see the distortion in close by objects.</paragraph>
+			<paragraph>The RE uses a digital stabilization (only available in the crop mode) that works quite well. We quite like how it works compared to a GoPro camera (which lacks any stabilization options). HTC still has work to do on the RE camera so we'll leave video comparisons for when it is ready.</paragraph>
+			<paragraph>Until then, here's a video sample shot with the RE camera for you to enjoy.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We also set up for a quick time lapse, though strangely it came out at 720p resolution.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>Other manufacturers have tried to chip in the selfie craze but most attempts we've seen have been halfhearted, some don't even go up to 5MP and almost none have a front-facing flash (electing to use the screen as a source of light instead). Last year Oppo introduced the N1 with a rotating 13MP camera with a dual-LED flash that services both regular and selfie photos but the phone never quite took off in Europe and the US.</paragraph>
+			<paragraph>This makes the HTC Desire Eye the first proper selfie phone likely to reach the western audience. And we think it's clever of HTC to slip it under the Desire brand - the plastic body may elicit a sneer from One owners but you can shut them up by sticking the Eye underwater.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Feature-wise the Desire Eye is every bit as good as the HTC One (M8). Better even, since the Duo Camera was a bit of a gimmick. Not that some of the camera modes on the Desire Eye aren't gimmicky but most will be much more useful if the phone is in the right hands.</paragraph>
+			<paragraph>Don't let the "selfie" buzzword get all the attention, the HTC Desire Eye will do great for video calls thanks to its high-resolution camera and video light if it's too dark. The same goes about filming yourself, this has the potential to become a favorite among budding YouTube stars.</paragraph>
+			<paragraph>As for the HTC RE camera, the current electronics market sees companies jump on the smartwatch bandwagon so an action cam was a bit unexpected. However, it's one of the most user-friendly action cams out there and it starts off at the reasonable price of $200 (but you'll also need a few accessories for the full experience).</paragraph>
+			<paragraph>While we like it as a product, we don't think the RE camera will become a hero product for the company. Certainly not if HTC puts out more water-resistant phones like the Desire Eye and Butterfly 2. And pros and semi-pros consider high-frame rates a must, resolutions over 1080p would be considered a welcome bonus too and the HTC RE has neither.</paragraph>
+			<paragraph>While the event wasn't all bathed in limelight like MWC and IFA typically are, what we saw was actually much better. The Desire 816 at MWC and Desire 820 were interesting but strictly midrange. The HTC Desire Eye is a flagship in disguise and the most innovative HTC handset since the wave of One (M8), (E8), (M8) Windows clones.</paragraph>
+		</subsection>
+	</page>
+</review>

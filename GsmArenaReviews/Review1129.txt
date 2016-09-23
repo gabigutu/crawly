@@ -1,0 +1,106 @@
+<review>
+	<title>Samsung overview</title>
+	<description>IFA 2012</description>
+	<link>http://www.gsmarena.com/samsung_ifa_2012-review-804.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>The Samsung Pre-IFA 2012 press conferences in Berlin brought a whole bunch of smartphones and tablets from the world's largest smartphone manufacturer.</paragraph>
+			<paragraph>Samsung?s Unpacked event at the IFA 2012 expo in Berlin was one of the most anticipated, mainly because of the Galaxy Note II announcement and, unsurprisingly, the second generation of the phablet spent the most time in the spotlight. However, Samsung also released several other pretty interesting devices.</paragraph>
+			<paragraph>We got to see Samsung's first Android-powered digital camera. It's early to be passing any final verdicts, but the Galaxy S III-based Samsung Galaxy Camera is certainly one of the most interesting devices we have seen recently. </paragraph>
+			<paragraph>The other announcements were somewhat unexpected, but they are quite exciting nonetheless. The Samsung ATIV S is the first Windows Phone 8-powered handset to go official and it was accompanied by a trio of Windows 8-running tablets.</paragraph>
+			<paragraph>Sadly the Microsoft-powered devices weren't available at the event, but we managed to spend some quality time with the Android couple. Join us after the break for the Galaxy Note II hands-on, complete with lots of live photos, benchmarks and camera samples.</paragraph>
+			<paragraph>Update, August 31: Hands-on with the Samsung Ativ Tab on Page 5 and Samsung Ativ S on Page 6.</paragraph>
+			<paragraph>Update, August 30: Hands-on video with the Samsung Galaxy Note II on the next page and a couple of videos with the Galaxy Camera on Page 4.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note II hands-on<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note II draws inspiration from both the original Note and the Galaxy S III. It feels like an upscaled S III, but it's not much bigger than the original Note even though the screen size went up by 0.2".</paragraph>
+			<paragraph>What did change (and you can feel it) is the screen's aspect ratio - Samsung went from 16:10 to 16:9, so the Note II is now narrower and that makes it slightly more comfortable to hold. Other than that, it's still a PenTile Super AMOLED screen as we're used to from the original Note and the Galaxy S III.</paragraph>
+			<paragraph>Kudos to Samsung for keeping the weight in check (it's virtually the same) and the thickness (the Note II is actually a hair thinner, but it's not something you'd easily feel). The battery capacity has increased to 3,100mAh, which is good news too.</paragraph>
+			<paragraph>The biggest changes in the Samsung Galaxy Note II relate to the S Pen - more things revolve around it now as it has learned some really cool new tricks.</paragraph>
+			<paragraph>When you pull out the stylus, the Note II brings up a dedicated interface, which offers quick shortcuts to various S Pen features. Better still, the device keeps track of you and the stylus and if you walk away while the stylus is out, it will alert you. It does this by detecting your movements with the accelerometer, but we didn't have the time to check if the Note II can get confused if you walk and write with the S Pen.</paragraph>
+			<paragraph>Anyway, the new S Pen is slightly thicker than the previous one and has a rubberized tip, which improves the feel as you draw (it's no longer plastic sliding over plastic). The digitizer is also more accurate, sensing four times as many pressure levels as the original Note did.</paragraph>
+			<paragraph>It also supports the hover feature like we saw on the big Galaxy Note 10.1. A cursor follows the S Pen and can activate things - e.g. in the gallery where folders are displayed as stacks of photos, if you hover over them, they fan out to give you a better look at what's in the folder.</paragraph>
+			<paragraph>Similar to the Note 10.1, the Note 2 screen would also discard the touch of your palm resting on the screen while you draw with the stylus.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Galaxy Note II hands-on video<subsectionTitle>
+			<paragraph>We took the Samsung Galaxy Note II for a quick spin, check out the video below to see how the updated hardware and software handle:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera and video samples<subsectionTitle>
+			<paragraph>We also managed to snap a few sample photos with the camera and even a video. As you can see, the lighting conditions are far from perfect, so the Note II didn't get a chance to show its full potential.</paragraph>
+			<paragraph>And here's the sample video (don't forget to choose 1080p and view it in fullscreen):</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>It's time to see how the Galaxy Note II handles some of our traditional synthetic benchmark tests. We stress-tested the GPU NenaMark 2, while Quadrant was our pick for an overall performance benchmark.</paragraph>
+			<paragraph>Within the Galaxy Note II operates the same Mali-400 GPU as in the Galaxy S III. Despite this, however, the Note II scored a tad less than its smaller brother, which we suspect is due to the pre-release software that it runs.</paragraph>
+			<paragraph>Still, it outperformed its GeForce-powered rivals by a wide margin and even managed to beat the Meizu MX 4-core in NenaMark 2, despite the shared chipset and the pixel count disadvantage (NenaMark is rendered at native resolution).</paragraph>
+			<paragraph>We've also included the benchmark results for the Samsung Galaxy Camera. The results seem rather low (quad-core CPU at 1.4GHz should have matched Galaxy S III). Keep in mind that the Camera is running Jelly Bean and Samsung is still working on it, so it's not final yet - we will rerun the benchmarks as soon as we can get our hands on a Camera with a software closer to completion. Even in its current state, the Galaxy Camera is the fastest camera around, for what that's worth.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Considering the 1.6GHz quad-core Exynos 4 Quad that's powering the Note II, it's no surprise it easily beat the competition come the overall benchmarks. Running Android 4.1 Jelly Bean doesn't hurt either and it's visible in the results below.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Camera hands-on<subsectionTitle>
+			<paragraph>The Samsung Galaxy Camera is one of the most exciting devices to come out of IFA. It's not the first Android-powered camera, but even if it manages a tiniest fraction of the Galaxy S III sales, it will give Android solid footing in the point-and-shoot market.</paragraph>
+			<paragraph>Guts-wise, the Galaxy Camera is based on the Galaxy S III. It has a 4.8" 720p screen, though it's an Super Clear LCD instead of S III's Super AMOLED screen, which had excellent sunlight legibility (an important feature for a camera). Unfortunately, we couldn't test how this screen handles sunlight (it's quite late here in Berlin), but Super Clear LCDs have pretty decent record, too.</paragraph>
+			<paragraph>To give you a feel for the size of the camera, it's actually a bit shorter than the S III - 128.7mm vs. 136.6mm. This is because Samsung cut out the hardware controls and moved the Android keys on screen.</paragraph>
+			<paragraph>Make no mistake, the Samsung Galaxy Camera is a big digicam and handling it doesn't feel anything close to handling a smartphone. At 19.1mm in its thinnest point, it's rather thick, and at 305g, it's rather heavy, too. The extra thickness was needed to enable goodies like a pop-up Xenon flash and 21x optical zoom lens.</paragraph>
+			<paragraph>The top of the device features a standard hardware shutter key with a zoom control around it. The control serves as a volume rocker when the camera is not active. A longer press on the shutter key activates the camera.</paragraph>
+			<paragraph>The bottom of the device is pretty standard fare for point-and-shoots - you get a standard tripod mount and a big flap that covers the microSD and SIM card slots and the removable battery.</paragraph>
+			<paragraph>There are two things we wish were different here - having a regular-sized SD card and a battery with a bit more juice than 1,650mAh (even the Galaxy S III battery is 27% bigger).</paragraph>
+			<paragraph>The right side of the camera has a traditional grip, which adds to the thickness, but really improves your hold of the device.</paragraph>
+			<paragraph>We quite liked the Expert mode on the camera. It presents a user interface that's modeled after a DSLR lens - you get several spinners that can adjust things like aperture, shutter speed, ISO and exposure compensation. The max aperture of the camera is F/2.8, which isn't quite ideal. There is full manual mode as well as Av (aperture-priority) and Tv (shutter speed priority) modes.</paragraph>
+			<paragraph>Even though the devices present at the event are not finalized, we managed to run some benchmarks and snap a few sample shots. You can find the benchmarks on the previous page, here are the camera samples (they were shot in 16:9 mode, so their resolution is 12MP):</paragraph>
+			<paragraph>The good news is you're not limited to using Samsung's camera app if you find it too confusing (some of us did). You can use Instagram, or any other camera launcher from the market, but chances are it won't give you the kind of control the default app does. The optical zoom doesn't work with other apps just yet, but there's an update coming that should fix it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Camera hands-on video<subsectionTitle>
+			<paragraph>We also shot a video of the Galaxy Camera in action, to give you a better feel for device itself, the gallery app and the camera interface.</paragraph>
+			<paragraph>First, let's take a look at the device:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And here's the highly-customized camera interface:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Ativ Tab hands-on<subsectionTitle>
+			<paragraph>Samsung looks to be keen to point out its commitment to the Windows 8 platform with its freshly-announced Ativ Tab. And by the looks of it this isn't just PR talk. What's more, based on our first impressions of the slate, the company might become a major player in the Windows tablet game.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Ativ Tab is built around a 10.1" IPS LCD display with a resolution of 1366 x 768 pixels and 400-nits of brightness. It's powered by a Snapdragon S4 APQ8060a chipset, featuring a 1.5GHz dual-core Krait CPU and 2GB of RAM.</paragraph>
+			<paragraph>The Samsung Ativ Tabs weighs just 570 grams, which is a decent achievement for tablet of this size. Thanks to that and its 8.9mm slim waistline, the Ativ Tab handles quite nicely as far as 10" slates go.</paragraph>
+			<paragraph>In terms of connectivity, the Samsung Ativ Tab offers NFC, Wi-Fi a/b/g/n, Bluetooth 4.0, microHDMI and a full USB 2.0 port, as well as a microSD card slot. On the back, there's a 5MP camera with LED flash, while a 1.9MP snapper at the front takes care of video-chatting.</paragraph>
+			<paragraph>Overall, the Ativ Tab looks very slick with a plastic back that resembles the hyperglaze material of the Galaxy S III. We like what Samsung has done this time better though, and the good impressions continue when you move to the front which contains only one button - the Windows key. Just like the Galaxy Note 10.1, the stereo speakers are situated at the front on either side of the display, which we find to be the best solution in terms of user experience.</paragraph>
+			<paragraph>Windows 8 is expected to be released at the end of October, but our experience with the Consumer Preview running on the Ativ Tab was positive. The new UI is quick and looks sharp, and the navigation is drastically different from previous Windows releases - even Windows Phone, despite the similar styling. You will most likely need some time to learn your way around the OS, but once you do you'll really appreciate what Microsoft has done with the place.</paragraph>
+			<paragraph>Here's our hands-on video of the Samsung Ativ Tab's user interface.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Ativ S hands-on<subsectionTitle>
+			<paragraph>The smartphone member of Samsung's new Ativ family, the Ativ S, is the first Windows Phone 8 device to go official. Unfortunately, a Microsoft embargo forbid us from being able to get any pictures of the device turned on, so we'll have to share our impressions of the Ativ S purely from a hardware perspective.</paragraph>
+			<paragraph>In hand, the Samsung Ativ S is surprisingly light, but in a good way. It comes in at right around the weight of the Galaxy S III, but the Ativ S has a brushed aluminum body. The slightly-curved back panel makes it very comfortable to hold. The thickness is just 8.7 mm, which certainly contributes, too.</paragraph>
+			<paragraph>The Samsung Ativ S runs a dual-core 1.5 GHz Krait CPU with either 16 GB or 32 GB of storage and 1 GB of RAM. Its 8 MP camera is capable of recording 1080p video at 30 fps, while the front-facing unit is of the 1.9 MP variety.</paragraph>
+			<paragraph>Along the lower part of the back panel runs a faux-grille, which is mostly aesthetic but does hide the rear speaker along the left side.</paragraph>
+			<paragraph>We were able to snap a few pictures next to the Samsung Galaxy S III. As you can see, the two devices are very similar in terms of dimensions, but the brushed aluminum on the Ativ S feels better in-hand.</paragraph>
+		</subsection>
+	</page>
+</review>

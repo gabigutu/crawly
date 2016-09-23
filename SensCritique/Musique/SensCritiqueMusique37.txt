@@ -1,0 +1,49 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Death of a Bachelor</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Death_of_a_Bachelor/17915742</link>
+	<generalScore>6.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>22</numberOfVoters>
+		<numberOfVoters>22</numberOfVoters>
+		<numberOfVoters>43</numberOfVoters>
+		<numberOfVoters>24</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Peu inspiré</title>
+		<author>desperatehero</author>
+		<date>2016-01-15</date>
+		<score>0.6</score>
+		<content>Déception pour cet opus qui n'est pas franchement inspiré. Ce n'est pas mauvais pour autant, mais il n'y a pas de quoi fouetter un chat. Seulement 11 pistes, et aucune de vraiment mémorable. On reste sur notre faim car Panic! At the Disco nous sert ici du réchauffé. Le manque de folie ou d'originalité se fait ressentir, rendant l'album juste correct.</content>
+	</review>
+	<review>
+		<title>Whouah</title>
+		<author>Alfredius</author>
+		<date>2016-06-29</date>
+		<score>0.9</score>
+		<content>J'ai découvert PatD avec "The Ballad of Mona-Lisa", le coté rock avec une iconographie très rétro me plaisait énormément. Là c'est un peu la même recette, c'est un peu moins rock plus électro mais toujours très rétro. Brandon Urie a vraiment un coté crooner moderne et l'ensemble de l'album tourne autour de ça. Il y a du bien et du moins bien mais dans l'ensemble ça s'écoute avec plaisir. Chaque piste a une mélodie facile à retenir et qui reste en tête ce qui fait qu'on les réécoute. Je recommande fortement !</content>
+	</review>
+	<review>
+		<title>Death of a Bachelor</title>
+		<author>Simon Grolleau</author>
+		<date>2016-01-21</date>
+		<score>0.5</score>
+		<content>Des compositions vraiment intéressantes, mais l'orchestration et la production manquent de soutien à un tel point qu'on se demande si on écoute vraiment un album de Rock. En découle un album mélodiquement et harmoniquement excellent quelque peu gâché par un manque de solidité sonore. Ajoutez une guitare, une distorsion et des powerchords, ce disque deviendrait mémorable. Dommage.</content>
+	</review>
+	<review>
+		<title>Death of a Bachelor</title>
+		<author>Victor Blutch</author>
+		<date>2016-01-16</date>
+		<score>0.7</score>
+		<content>Symphonique (écoutez la Sinatra-like "Impossible Year"), la pop punk californienne rencontre le baroque, pour le meilleur ("Don't Threaten Me With A Good Time"), et multiplie des tubes en puissance, sans rien céder à la vraie compo.</content>
+	</review>
+</sensCritiqueEntity>

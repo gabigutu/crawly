@@ -1,0 +1,105 @@
+<review>
+	<title>HTC One hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/htc_one-review-889.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The United States have already had the pleasure to meet HTC's DROID DNA, while certain Asian countries and Russia have got the HTC Butterfly. It's now time for the rest of the world to be treated to a 1080p smartphone by HTC with the company's new flagship, dubbed simply One.</paragraph>
+			<paragraph>The HTC One</paragraph>
+			<paragraph>Running on a Qualcomm Snapdragon 600 chipset with four Krait 300 cores clocked at 1.7 GHz, 2 GB of RAM and Adreno 320 the One has a serious stake as one of the best-powered around.</paragraph>
+			<paragraph>The display is a 4.7" 1080p unit backed by the Super LCD3 technology and offering the whopping 469 ppi pixel density. The bezels are very thin, making for smartphone notably smaller than the DROID DNA / Butterfly.</paragraph>
+			<paragraph>Either side of the screen lie stereo speakers, which are allegedly pretty loud. According to HTC they output 93 dB of sound.</paragraph>
+			<paragraph>The HTC One is set to premiere Sense 5 - the latest version of the company's custom launcher. The homescreen has been redesigned into something of a mix between Sony?s Timescape and Windows Phone?s live tiles with social networking updates and news feed populating a vertically scrollable screen.</paragraph>
+			<paragraph>Inside the phone is a 2,300mAh non-removable battery (that?s nearly 300 mAh more than the Butterfly has).</paragraph>
+			<paragraph>Of course, the biggest innovation on the HTC One is the camera ? behind the bright F/2.0 lens sits a 4MP sensor with Ultrapixels, which are much larger than the ones found in most other smartphones and should have much better per-pixel quality and low-light performance.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Design-wise the HTC One looks somewhat like a BlackBerry Z10 but uses an aluminum unibody, which looks really impressively.</paragraph>
+			<paragraph>We're now going out hunting for live photos of the HTC One and we will be posting them on the following pages soon. Stick around.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC One hands-on<subsectionTitle>
+			<paragraph>The HTC One packs a 4.7" Super LCD 3. The resolution is 1920 x 1080 resulting in an impressive 469 pixels per inch. When you add up the full RGB matrix of the LCD screen and the typical for the company's recent flagships good contrast and vibrant colors you really get an amazing screen.</paragraph>
+			<paragraph>The display is also pretty bright, which makes it even punchier. It's not the least reflective screen around and it does tend to attract lots of fingerprints, but we think the image quality more than makes up for that. On top of the screen HTC has implemented the so-called Infinity Glass, which is resistant to scratches and eliminates glare for a better outdoor experience.</paragraph>
+			<paragraph>The HTC One features a full metal zero gap unibody. The body frame is made out of aluminum and inside the casing HTC has crammed all the different bits and pieces of technology. It feels rock solid and great to the touch - the smartphone is generally build like something that came out of a jewelry rather than a smartphone factory. The sloping edges give it a slim feel towards the edges while the thickness builds up towards the center of the back, much like with the Windows Phone 8X.</paragraph>
+			<paragraph>At its thickest part the HTC One measures 9 mm but the overall feel of the device is slimmer. Weighing in at 143 g the HTC One feels even more solid. We guess we can attribute the heft of it to the metal casing used.</paragraph>
+			<paragraph>On the back there's the impressive 4 MP camera with HTC's newly developed Ultrapixels. The bright F/2.0 lens is rather big and on its left there's a single LED flash. In the upper right corner of the back panel there's a noise-reducing microphone. HTC claims you can talk effortlessly with people even in extremely loud conditions thanks to its Sense Voice technology, which lets the other end focus only on your voice. Given our experience with the HTC Butterfly we are inclined to believe that this is actually true.</paragraph>
+			<paragraph>HTC's two microphones use a dual-membrane design, which should improve the sonic experience further.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC One hands-on<subsectionTitle>
+			<paragraph>The battery inside is a 2300 Li-Po unit and is embedded in the device, meaning it cannot be user replaced.</paragraph>
+			<paragraph>HTC has gone with a two-button layout with the One. Under the display on both sides of the HTC logo there are now a back and home buttons - gone is the usual task switcher key.</paragraph>
+			<paragraph>You can access the recent apps by performing a double tap on the home button, a long press will take you to Google Now, while pressing the back button does as advertised. The task manager is activated by a long press on the back button.</paragraph>
+			<paragraph>On the right side of the phone you get a prolonged rectangular volume rocker with a brushed surface. The power button, located on the top of the phone, doubles as an IR sensor. There will be a TV app that will let you set up the HTC One as an extremely expensive remote control.</paragraph>
+			<paragraph>Above and under the display we find two loudspeaker grilles. HTC says that each loudspeaker has been assigned an amplifier of its own to reduce distortion. HTC's BoomSound technology is behind the stereo speakers and they really do deliver incredibly loud sound.</paragraph>
+			<paragraph>We haven't got the chance to get all scientific with them yet but the HTC One loudspeakers should output around 93 dB sound, which is more than any smartphone we've tested here in the office. The headphones sound experience benefits from the Beats Audio. Watching a movie or playing a game on the HTC One will be a really enjoyable experience compared to other smartphones.</paragraph>
+			<paragraph>We also got to check out some of the HTC One's accessories. Below you'll see a flip cover that moonlights as a docking station. Next there's a case that adds a little extra battery juice and the double charge accessory.</paragraph>
+			<paragraph>HTC has made a car AUX extension so you can connect the HTC One's sound to any car stereo with an AUX-in. The stereo headset looks really nice and features a microphone. and finally we come to the docking station, which can be adjusted depending on your taste.</paragraph>
+			<paragraph>And here's the leather pouch and the stereo headset.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC One benchmark performance<subsectionTitle>
+			<paragraph>The HTC One comes with a brand new Snapdragon 600 chipset, which is the first to offer four 1.7GHz Krait 300 CPU cores and we were pretty curious to find how much of a performance boost it brings.</paragraph>
+			<paragraph>To be honest we were taken by surprise by the HTC One processing prowess. We did expect it to deliver some of the best performance out there, but some of the scores were simply amazing.</paragraph>
+			<paragraph>The BenchmarkPi score that the HTC One posted made us want to pinch ourselves. The smartphone topped the previous best result (courtesy of Sony Xperia Z) by more than 100ms.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The HTC One also took the first place in the multi-threaded Linpack test, although the margin of its victory wasn't as big here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The all-in-one Quadrant and AnTuTu benchmark scores were as impressive as it gets - HTC One continued its clean sweep, comfortably beating the other devices we have tested so far.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We also run some browser test with the stock web browser - the HTC One took the second place in the BrowserMark 2 test, while a few phones turned out to be better on the Java-script SunSpider benchmark. Obviously HTC still needs to work on optimizing its browser, but even so the performance is close to the best out there.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>It seems the HTC One and the Snapdragon 600 platform are the new Benchmark champion, topping even the just released Xperia Z flagship. If raw power is what you are after, this should be the smartphone to look forward to.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC One camera samples<subsectionTitle>
+			<paragraph>In one of the bravest moves in smartphone history, HTC gave up on the megapixel war and decided to equip its latest smartphone with a 4 MP snapper at the back. The low resolution allowed each individual pixel to be much larger, which improves per-pixel detail and low-light performance significantly. So even though the HTC One sensor measures a modest 1/3&#x2033; in diagonal, each of its 4 million Ultrapixels (as HTC calls them) is much larger than that of the average smartphone (by about 300%).</paragraph>
+			<paragraph>So in theory, while you will be sacrificing some detail in well-lit environments, you should be getting better low-light results. Add the super bright F/2.0 lens and you should be getting the smartphone with the best low-light performance in business. And since you would be downsizing many of your images anyway, this seems like a fair trade to us. As long as the HTC One delivers on those promises, that is.</paragraph>
+			<paragraph>As it turns out the shots are pretty good, considering the less than perfect environment and their per-pixel detail is much better than any of the smartphones we have recently reviewed. It?s not quite able to come close to the performance of the Nokia 808 PureView, but that one has a sensor 6 times as big as the HTC flagship.</paragraph>
+			<paragraph>And here come the actual photos. Keep in mind that the demo units aren?t quite finalized yet, so you should be seeing even better performance from the market-ready HTC One.</paragraph>
+			<paragraph>Overall we?d like to see more manufacturers join HTC and turn this into a trend. Ideally, we?d also like to see them put bigger sensors inside their smartphones as 1/3&#x2033; is rather modest even for a flagship device, where slim waistline is essential.</paragraph>
+			<paragraph>Before we parted ways with the HTC One we were also able to make a couple of videos, demonstrating the smartphone's innovative UI. Check them out on the next page.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The HTC One boots Android 4.1.2 Jelly Bean out of the box. Google?s mobile OS has been given a brand new HTC Sense 5 UI, which brings a host of improvements over its predecessors, while still remaining familiar and easy to get a hang of.</paragraph>
+			<paragraph>Here?s a quick look at the smartphone in action.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The most prominent changes which HTC Sense brings to the table are Blinkfeed and Zoe. Blinkfeed feeds relevant news and social network updates to the user directly on the device?s homescreen. Zoe on the other hand, utilizes the camera to take short clips, which it automatically combines into entire stories.</paragraph>
+			<paragraph>Check out Blinkfeed and Zoe and action below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Overall, after spending some time playing around with the HTC One, we found the latest Sense 5 quite likeable. The UI will likely appeal to both long-time HTC users and new adopters alike. We are also looking forward to digging deeper into the new HTC Sense.</paragraph>
+		</subsection>
+	</page>
+</review>

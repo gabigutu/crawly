@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>The Follower</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/The_Follower/20084774</link>
+	<generalScore>7.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>14</numberOfVoters>
+		<numberOfVoters>25</numberOfVoters>
+		<numberOfVoters>37</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>The Follower</title>
+		<author>Victor Blutch</author>
+		<date>2016-08-03</date>
+		<score>0.4</score>
+		<content>Cet album de The Field aurait pu être un excellent LP d'ambient, tendance krautrock et hypno. Sauf que, et c'est toute la difficulté des boucles musicales, le jeu d'échelles et de variations marchent trop peu et que ça finit, catastrophe !, par tourner en rond.</content>
+	</review>
+</sensCritiqueEntity>

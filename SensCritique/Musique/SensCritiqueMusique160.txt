@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Giant Steps</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1959</year>
+	<link>http://www.senscritique.com/album/Giant_Steps/1372810</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>17</numberOfVoters>
+		<numberOfVoters>100</numberOfVoters>
+		<numberOfVoters>204</numberOfVoters>
+		<numberOfVoters>202</numberOfVoters>
+		<numberOfVoters>89</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Giant Steps</title>
+		<author>taboun</author>
+		<date>2016-02-05</date>
+		<score>1.0</score>
+		<content>Cet album est une énigme quoi qu'on en dise. J'ai beau l'avoir écouté encore et encore pendant des années et ce, dans des conditions radicalement différentes, j'en tire toujours quelque chose certes d'exceptionnel à chaque fois, mais cette qualification d'intensité est bien insuffisante par elle-même. Ce qui est plus intéressant c'est qu'au sortir de chaque écoute, une sensation multiple, colorée et complexe prédomine et pourtant ça n'est jamais la même, paradoxalement. Parfois une joie explosive, parfois une confusion solitaire, parfois une tristesse unique... et un peu de tout ça s'entremêle d'ailleurs... Si bien qu'après avoir tant écouté cet album je ne serais pas foutu d'en décrire ni motif principal ni thème central alors que pourtant la musique reste cohérente et ne se découd jamais. Je serais curieux d'ailleurs qu'on m'avance une interprétation ou une théorie capable d'englober tout l'album et tout son spectre, mais je me demande si tout ça ne serait pas voué d'avance à voir Coltrane et cet album en particulier par un certain petit bout de la lorgnette, sans pour autant être faux d'ailleurs. Il me semble en tout cas que c'est la magie des grandes oeuvres comme celle-ci d'entremêler tant de sensations, d'expériences et de sentiments en une seule matrice cohérente sans que l'on en comprenne ni le comment ni le pourquoi.</content>
+	</review>
+</sensCritiqueEntity>

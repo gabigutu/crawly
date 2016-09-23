@@ -1,0 +1,213 @@
+<review>
+	<title>Microsoft Lumia 640 review</title>
+	<description>Outgrowing the mold</description>
+	<link>http://www.gsmarena.com/nokia_lumia_640-review-1252.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5" 16M-color ClearBlack IPS LCD display of 720p resolution, Gorilla Glass 3</paragraph>
+			<paragraph>Qualcomm Snapdragon 400 chipset with quad-core 1.2 GHz Cortex-A7 processor, Adreno 305 GPU and 1GB of RAM</paragraph>
+			<paragraph>Windows Phone 8.1 OS with Lumia Denim; updateable to Windows 10</paragraph>
+			<paragraph>Optional dual-SIM; optional LTE</paragraph>
+			<paragraph>8MP autofocus camera with 1080p@30fps video recording; 1MP/720p selfie camera</paragraph>
+			<paragraph>8GB of inbuilt storage, expandable via a microSD card slot up to 128GB</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>FM Radio with RDS</paragraph>
+			<paragraph>Li-Ion 2,500mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No headset included in the retail package</paragraph>
+			<paragraph>Cheaper Lumias get the same Snapdragon 400 chipset</paragraph>
+			<paragraph>Only 3GB of internal storage left for the user</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Low-end Lumias dominate the Windows Phone market but aren't prestigious. To fix this, Microsoft crafted the Lumia 640 Trojan horse - a capable mid-ranger hiding behind an undeservedly low model number. It comes with pick-and-choose LTE and dual-SIM connectivity, a camera that punches above its weight and a quality screen. Slowly but steadily, Microsoft is commencing its push into the mid-range, which for now is owned by Android.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Lumia 6-series began life as the lowest rung of the ladder. Since then Microsoft has extended the ladder with the 5 and 4 series. To live up to its new standing in life, the Lumia 640 brings an HD screen and a 1080p video camera, which were traditional weak spots for the sixes - WVGA screen and 480p video was the norm.</paragraph>
+			<paragraph>Those are indeed the highlights of this phone. The 5" IPS panel is nearly as sharp as an iPhone Retina display and boasts ClearBlack (a filter that reduces glare) and Gorilla Glass 3. The 8MP camera with 1080p video matches the iPhone 6 on paper, though we'll see if the tiny sensor lives up to that promise.</paragraph>
+			<paragraph>The comparisons to the iPhone are more aspirational than anything, a more realistic comparison will be with the likes of Moto E (2015) and Moto G (2014). The Microsoft Lumia 640 is in their price bracket (depending on the connectivity setup) and has the edge in screen, camera and battery challenges.</paragraph>
+			<paragraph>Despite its popularity, the Snapdragon 400 chipset is clearly showing its age. Windows Phone isn't as demanding as Android though, the one area that will really strain the chipset is games - Adreno 305 on a 720p screen is a bit of a stretch. We'll see what the benchmarks have to say about that.</paragraph>
+			<paragraph>The "Lumia 640" is really three different devices. The base device has two SIM slots and 3G connectivity, but there are LTE-enabled versions with one or two SIM slots. We have the single-SIM LTE version with us, but connectivity aside the review covers all 5" 640s.</paragraph>
+			<paragraph>The Microsoft Lumia 640 is shaping up as a capable, lower-cost alternative to the Lumia 730 and 830. Those boast Carl Zeiss optics and finer bodies, but the lines between Lumia lines have blurred.</paragraph>
+			<paragraph>The phone it comes to replace, the Lumia 630/635, looks quite plain in comparison - smaller, sub-HD screen, no 1080p video capture or selfie camera, just 512MB RAM and no option for both LTE and dual-SIM. So, if you had any impressions of Lumia's 6-series you need to put them aside, the Lumia 640 is a big step forward.</paragraph>
+			<paragraph>Last week you may have read our Lumia 640 XL review. If the 13MP camera with Zeiss optics and 5MP selfie camera sold you on the 5.7" affordable phablet, you should note that this smaller model is more modest in the imaging department.</paragraph>
+			<paragraph>Navigating the Lumia 6-series maze just leads to more corridors, but we'll guide you through all things Lumia 640 starting with what's in the box.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Microsoft Lumia 640<subsectionTitle>
+			<paragraph>The Microsoft Lumia 640 retail package is a bit barren - the phone itself, some guides to get you started and a charger with a detachable microUSB cable. Pretty standard so far, but there's no headset.</paragraph>
+			<paragraph>While most in-box headsets are not high-quality and get tossed in a drawer somewhere, considering the price range of the 640 any headset would have been nice to have. Not everyone has a quality pair available, especially one with a mic.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Microsoft Lumia 640 360° spin<subsectionTitle>
+			<paragraph>The Nokia Lumia 640 measures 141.3 x 72.2 x 8.8mm and weighs 145g. That's a bit tall for a 5" device (considering no hardware keys or front stereo speakers), a touch wide too. The phone is pleasingly thin though, considering its price point and 2,500mAh battery.</paragraph>
+			<paragraph>The higher-end Lumia 830 (better camera mostly) is 139.4 x 70.7 x 8.5mm, while the iPhone 6 is 138.1 x 67 x 6.9mm (with a smaller 4.7" screen). Note that there's a Lumia 640 XL with 5.7" screen, though that's a separate device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>The Lumia family has two basic designs - one with smoothly arched back and sides and one with flat top and bottom. The Lumia 640 is of the first kind like most phones Microsoft has produced. This offers familiarity but will not excite with any novelty. Not that we expected design wonders for an affordable handset, most of its budget is spent on getting the screen and camera.</paragraph>
+			<paragraph>The design dictates a glass front - Gorilla Glass 3 for added scratch resistance in this case - and a polycarbonate shell on the back that comes off. This shell has either a matte or glossy finish, depending on which color you pick. There's Glossy Cyan, Orange, White, Matte Black to choose from and wrap around the side to spruce up the dull black of the front.</paragraph>
+			<paragraph>The material is not the top quality material we've seen in the Lumia 9 series and fingerprints are fairly visible on the Matte Black version we have in the office. Still, the shell feels pretty durable and you can swap it out easily to keep the look of your phone fresh.</paragraph>
+			<paragraph>The Lumia 640 is a bit large for a 5" phone, with glaring bezels around the screen. It's not much taller or wider than an iPhone 6 though, so most people should manage it just fine. However, if you were looking for a compact phone you'll have to head over to the 5-series. At 145g the phone feels the right weight for its volume.</paragraph>
+			<paragraph>Anyway, the bezels only look empty. Above the screen is a 1MP camera that shoots 720p video - the presence of a camera is an upgrade over the Lumia 630/635. It may not be that great for selfies, but enough good Skype videos.</paragraph>
+			<paragraph>There's also a proximity sensor, the Lumia 630/635 doesn't have one, for example.</paragraph>
+			<paragraph>The earpiece and mouthpiece are notched out of the front glass. There's an ambient light sensor in the upper right too.</paragraph>
+			<paragraph>The only hardware buttons on the phone are on the right side, a part of the color shell. The Volume rocker is fairly comfy to use though the Power button is a bit low, especially if you try to push it with the thumb of your right hand. There's no shutter key here and we miss the times when Microsoft mandated those.</paragraph>
+			<paragraph>The wired ports on the Lumia 640 are split between the top and the bottom - the 3.5mm audio jack goes above, the microUSB 2.0 port goes below.</paragraph>
+			<paragraph>The 8MP camera is positioned on the mid-line on the back, but it's some distance off the top edge. This leaves you enough room to put your finger there to hold the phone steady, without covering the camera and smudging its lens. A single-LED flash is next to the camera to be used for low-light shots and torch, something previous generations of 6-series Lumias lacked. It's a very cheap addition, considering how annoying it is to not have a flash.</paragraph>
+			<paragraph>The small round grill for the loudspeaker is in the lower right corner. The camera and speaker are pretty flush with the back, which is good design-wise, but leaves the camera lens open to scratches and muffles the speaker. The back cover comes off, giving you access to the battery and card slots - one or two microSIMs and a microSD.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Nokia Lumia 640 has a 5" LCD screen with 720 x 1,280px resolution. That works out to 297ppi, which doesn't exactly qualify for Retina grade (300+ppi), but it's quite close nonetheless.</paragraph>
+			<paragraph>The Lumia 640 screen renders text and images smoothly. Text is not flagship sharp, but even small or thin fonts are readable, lacking the jaggies visible on older 5 and 6-series Lumia phones.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>This is an IPS screen so the viewing angles are quite good with no color shifting, but the colors themselves are a bit dull. Luckily, you can go into the screen settings and adjust both the brightness (low/mid/high tones) and the color temperature and saturation.</paragraph>
+			<paragraph>The screen is brighter than similarly priced Androids and the black levels have improved since the Lumia 630, making for 1,000:1 contrast ratio. The screen performs almost identically to that of the higher-end Lumia 830, the bigger Lumia 640 XL was even more impressive.</paragraph>
+			<paragraph>The screen features what used to be Nokia's ClearBlack tech - a polarization filter that's used to reduced glare (something like how polarized sunglasses work). The lower brightness means the screen isn't as readable as that of the 640 XL, but the ClearBlack filter makes it almost as legible as an Xperia Z3 screen or that of the original HTC One.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>We mentioned in the nitro that the "Lumia 640" really is an umbrella name for three devices. There's optional LTE and optional dual-SIM, you can have both but you can't turn down both. That is there's no single-SIM, non-LTE version.</paragraph>
+			<paragraph>The Lumia 640 XL has such a version, the only reason we can think of why Microsoft would skip this one is that pricing would clash with the Lumia 5xx phones.</paragraph>
+			<paragraph>Anyway, the Microsoft Lumia 640 has 150Mbps/50Mbps LTE and 42Mbps/5.76Mbps 3G HSPA+. If you get the base model you won't have LTE, but 3G is still fast enough.</paragraph>
+			<paragraph>The multitude of connectivity versions points to Microsoft's ambitions. The 640s are headed to countries that are yet to roll out 4G networks, but pricy carrier plans make the second-SIM a cost-saving measure. The single-SIM LTE model is for markets with LTE coverage - a capable, affordable phone. Finally, the dual-SIM LTE is for those who just want to check all the boxes.</paragraph>
+			<paragraph>The rest of the story is pretty familiar. Wi-Fi supports b/g/n networks, dual-band would have been appreciated but is almost entirely missing from this price segment. Bluetooth version 4.0 with A2DP is supported and there's NFC too.</paragraph>
+			<paragraph>For positioning, the Lumia 640 calls on GPS, GLONASS and Beidou. It also has a built-in compass.</paragraph>
+			<paragraph>FM radio is on board, a nice alternative source of news and music that many Androids have been dropping recently in favor of its online streaming alternative.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery<subsectionTitle>
+			<paragraph>Some 5" phones think they can get away with 2,000mAh batteries, but the Microsoft Lumia 640 knows better. At 2,500mAh it has as much juice as a Galaxy S6 and the results speak for themselves - you can go through three days of moderate usage before you need a charger.</paragraph>
+			<paragraph>The web browsing and video playback times, both at nearly 10 hours, were particularly impressive. We've seen plenty of phones run out of steam hours sooner, both affordable phones and flagships. The talk time is lower than on the Lumia 640 XL but you won't run into problems even if you're on the phone all day.</paragraph>
+			<paragraph>Note that we tested the LTE-enabled, single-SIM version. However, the Lumia 640 XL Dual SIM showed no noticeable difference in standby power draw with one or two SIM cards.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Our routine also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating.</paragraph>
+			<paragraph>Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Tiled user interface<subsectionTitle>
+			<paragraph>The Lumia 640 is running the latest available Windows Phone 8.1 (Update 2) out of box. The latest Lumia Denim software expansion package comes pre-installed, too. The Lumia 640 lineup was introduced together with the Windows 10, but the new OS isn't ready yet for commercial release. Microsoft promises the Lumia 640 smartphones to be the first to get the Windows 10 firmware update though.</paragraph>
+			<paragraph>The latest release of Windows Phone 8.1 (Update 2) offers better organized Settings menu, customizable snooze alarms, more powerful Cortana and expanded reach.</paragraph>
+			<paragraph>Glance Screen is available on the Lumia 640, featuring some cool features. In addition to showing just the clock, it also supports notifications - the same ones you've configured to show on your lockscreen. The Glance Screen is basically a monochrome representation of your lockscreen. You can opt for the Glance to be always on, timing out after predefined interval, or to light up when you pick up the phone.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen itself looks the same as the Glance screen, but with colors. Double tap to wake and additional security are available as options.</paragraph>
+			<paragraph>The familiar interface with resizable live tiles is your Start page, you can group tiles into folders if you like. Almost every app within the Store comes with its own tile and you can see useful info live at your homescreen. Tile background is available and while it looks great, still not all live tiles are transparent, which can detract from the overall effect.</paragraph>
+			<paragraph>The Action Center is your place for four customizable toggles and all notifications in Windows. It works just like on Android OS - you access it by pulling down from the top of the screen, dismiss all notifications key is available.</paragraph>
+			<paragraph>Microsoft likes Apple's way of handling apps running in background - most of the apps are suspended upon hitting the Windows key and will be resumed once you bring them back. There are others, of course, such as Navigation, Cortana and Battery apps, which will continue to run in background unless you specifically kill them.</paragraph>
+			<paragraph>Quiet Hours mode is Windows Phone's take on the Do Not Disturb feature - it can be set to block calls and messages over pre-defined time interval, plus it can also go on automatically during events you have marked in your calendar. Naturally, exceptions are available.</paragraph>
+			<paragraph>Microsoft's Cortana is available and it does what Apple's Siri and Google Now do - recognizes your voice commands and questions in natural human language and provides voice feedback. Cortana can fully interact with your phone and carry out all kind or commands related to it. Cortana can also track various news topics, makes suggestions for cooking and dinner, plan trips, find places, make jokes, among other things.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Microsoft Lumia 640 is powered by the widely used but also rather dated Snapdragon 400 chipset. It has four Cortex-A7 processor cores clocked at 1.2GHz, Adreno 305 graphics common for most of the Windows Phone gang and 1GB RAM. The chipset is a staple in low-end Android phones - we consider it the minimum for decent smartphone user experience. Under Windows Phone it's better, as the OS has been carefully optimized to run on that specific hardware. Still, it's not a powerhouse and you can clearly see a performance advantage in Windows Phone with better chipsets - of course, they do cost more.</paragraph>
+			<paragraph>The AnTuTu for Windows Phone puts the Lumia 640 LTE among the rest if its Snapdragon 400 siblings - the Lumia 640 XL, Lumia 830 and 735.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 4<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We also ran the JavaScript-centric Kraken benchmark and the compound BrowserMark 2.1 on the Internet Explorer 11 browser. Unfortunately, the Internet Explorer browser isn't on par with today's mobile competition - it isn't even close to Chrome and Safari. The raw performance isn't bad, it's just unimpressive. Oddly enough, our real life impressions of the speed of the web browser are more than positive so don't let that low benchmark score put you off.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Lumia 640 LTE won't be topping any charts, but it isn't its purpose. Windows Phone devices were never meant to compete on a benchmark basis, instead they focus on smooth, hassle-free and rich Windows experience. It's the real-world performance that matters.</paragraph>
+			<paragraph>Indeed the Lumia 640 LTE offers a lag-free experience and didn't stutter in every day usage. Some of the more heavy apps opened with a slight delay, but that's about as slow as the phone goes. The Lumia 640 LTE offers pleasing performance that would be more than enough for non-power users.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony and contact management<subsectionTitle>
+			<paragraph>People Hub is the phonebook that you'll find on any Windows Phone device. It supports multiple accounts, including social ones, and has multiple pages like the rest of the WP interface. The first page is your contacts list, the second one is What's New with all of your friends' social updates, then come (chat) Rooms, and Groups.</paragraph>
+			<paragraph>Just like the People app, viewing a single contact also allows you to check this specific person's social updates plus you can view the complete history of exchange with this contact in one place, displayed chronologically. Everything but status updates is listed here: calls, texts (actually threads from the Messaging hub) and emails.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test and the Lumia 640 LTE scored a Good mark. The loudspeaker isn't the loudest around and you should keep in mind that you may miss few calls or notifications in louder environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Multimedia<subsectionTitle>
+			<paragraph>In Windows Phone 8.1 the Photo Hub has lost the magazine UI in favor of the traditional WP page view. You get three swipe-able pages - all, albums and favorites - all pretty much self-explanatory. Automatic OneDrive backup is available, you just need to enable it from the settings. Microsoft gives you 30GB for free plus 3GB for the each device on which you turn on the automatic OneDrive camera upload.</paragraph>
+			<paragraph>The default Music player in Windows Phone 8.1 uses the familiar page layout - you get Now Playing page; Collection view with shortcuts to artists, albums, songs, genres, playlists, and Music Store highlights. It also allows you to create, edit and delete playlists straight from your phone.</paragraph>
+			<paragraph>The player is compatible with your Xbox Music account and can stream your songs if you have active connection without saving them on the phone.</paragraph>
+			<paragraph>Unfortunately, the Music app doesn't support FLAC playback. Equalizer options are available from Settings -&gt; Audio. You can either user presets or customize your own.</paragraph>
+			<paragraph>There's an FM radio with RDS support on board the Lumia 640 LTE. You can use the loudspeaker for the FM radio, though you still need the headset connected as it doubles as an antenna.</paragraph>
+			<paragraph>The video player is a separate app called Video. It has a four-page layout - your collection, movie store, TV store and spotlight. It supports XviD, DivX, MOV, WMV and H.264 videos up to 1080p resolution. It won't play videos using the AC3 audio codec though (often found in MKV containers). There is a limited subtitles support.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is very good<subsectionTitle>
+			<paragraph>The Microsoft Lumia 640 did well when plugged into an active external amplifier, showing very clean output. Its volume levels are pleasingly high too, to cap a great performance om the first trial.</paragraph>
+			<paragraph>Performance with headphones was pretty solid too - volume levels drop slightly but still remain decent, while stereo crosstalk rises, but is not much worse than average. It's not the best performance we've seen, but it should more than suffice for the majority of users.</paragraph>
+			<paragraph> Microsoft Lumia 640 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The 8MP camera is OK<subsectionTitle>
+			<paragraph>Microsoft Lumia 640 LTE comes with an 8MP auto-focus camera, coupled with an LED flash though it lacks a dedicated camera key. The Lumia camera interface is very familiar - it offers white balance, focus, ISO, shutter speed up to 4s and exposure settings. You can choose between 8MP 4:3 mode and 6.7MP 16:9 samples, there are no other resolution options.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Additionally, you can get more camera functionality via Lenses, such as Cinemagraph (animated photos), Panorama, Refocus, Selfie, etc.</paragraph>
+			<paragraph>The 8MP images taken with the Lumia 640 LTE turned out good, with reasonable amount of resolved detail. Contrast is good as is the color rendering, although often the white balance is off. Noise is kept well under control and we are happy with the overall processing.</paragraph>
+			<paragraph>There is a noticeable yellowish tint on the resolution chart, while the color poster came out with wrong white balance half of the time. Still, the 8MP snapper is behaving very well and shows some respectable performance in our photo comparison tool.</paragraph>
+			<paragraph>   Microsoft Lumia 640 LTE in our photo quality comparison tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video recording<subsectionTitle>
+			<paragraph>The Lumia 640 LTE camcorder can record video at 1080p@30fps, with a solid 17Mbps bitrate and an unwavering 30fps. Sadly, videos are recorded in a single channel AAC mode with a 160Kbps bitrate and 48KHz.</paragraph>
+			<paragraph>The camcorder interface is pretty much the same as the still camera. It offers only white balance and manual focus settings, and also allows you to choose the audio bass filter (off, 100 Hz or 200 Hz). Opting for 200 Hz (Strong) will capture much better sound in concerts or clubs.</paragraph>
+			<paragraph>In video recording, the Lumia 640 performs similarly to its still photography shooting chops. White balance is off and the dynamic range could be better. The level of detail is decent, though.</paragraph>
+			<paragraph>Here is a 30s sample we've uploaded on YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Also here is an untouched 1080p@30fps video for you to download.</paragraph>
+			<paragraph>The Lumia 640 LTE is ready to stand up against the competition in our video comparison tool. Its page will give you information on what to look for.</paragraph>
+			<paragraph>   Microsoft Lumia 640 in our video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Apps<subsectionTitle>
+			<paragraph>Internet Explorer 11 is the newest version of the Microsoft's mobile web browser. It supports private browsing, Reader mode, unlimited tab support, tab and bookmark sync across devices, among others. Back and Forward iOS-like gestures work too - just swipe from the left or right edge of the screen.</paragraph>
+			<paragraph>Office is one of the key selling points of Windows Phone. Document/Excel/PowerPoint viewing and editing is absolutely free and integrated into the OS. OneDrive integration is available as well. Docs are automatically synced between the phone and your computer through OneDrive.</paragraph>
+			<paragraph>Microsoft's OneNote note making tool comes preinstalled as well.</paragraph>
+			<paragraph>All other organizing tools are available at first run - there are Calendar, Alarms, Calculator and Weather apps.</paragraph>
+			<paragraph>Microsoft's Travel, Sports, Finance, Food &amp; Drinks and News apps are available, too.</paragraph>
+			<paragraph>With the Lumia 640 you get a few Lumia exclusive apps - Storyteller interactive diary, Creative Studio for advanced photo enhancements, and, of course, HERE Maps and HERE Drive+.</paragraph>
+			<paragraph>HERE Drive+ offers free, life-time voice-guided navigation anywhere in the world. All you have to do is download a voice in your language of choice and you're good to go. Of course, to make use of the key selling point of Drive - offline navigation - you have to download a map for a country of your choice, too.</paragraph>
+			<paragraph>Windows Phone's traditional Games app is present - it carries over many features from the similar Xbox profile - from your avatar to your scores and achievements. It is also your gaming hub - here you can find all of your pre-installed games, spotlight news and store links.</paragraph>
+			<paragraph>Finally, Windows Phone now features a dedicated and feature-rich file manager. It's called Files, developed by Microsoft and you can get it for free from the Store.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Microsoft Lumia 640 LTE ticks all the right boxes making it an easy to recommend pickup. There is a mid-sized IPS 720p display enhanced with ClearBlack, the Snapdragon 400 chip handles Windows hassle-free, the 8MP camera turned out way above average and there are various connectivity and color options. Just like the XL model, you can get the Lumia 640 in a single-SIM LTE flavor, dual SIM 3G or dual SIM LTE. It seems Microsoft thought a single-SIM 3G model is unnecessary for the smaller Lumia 640, probably because of the insignificant price difference, and we agree.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>As we've discovered throughout review the Lumia 640 LTE isn't the fastest smartphone around, yet Windows does its magic again and works excellent on a dated SoC. The OS is snappy and lag-free, the Internet Explorer is impressively fast in search and page loading, as are all default system apps. You get all this at the price of slightly longer loading times for heavier apps.</paragraph>
+			<paragraph>Microsoft Lumia 640 LTE key test findings:</paragraph>
+			<paragraph>Sharing the same DNA with Lumia 640 XL means lots of common competitors. Naturally, if you want a bigger display, you should take a look at the 5.5" Lumia 640 XL series, which is available in 3G (single and dual SIM) and LTE (single and dual SIM) flavors. The screen bump and the higher-res 13MP snapper may be worth the extra ?50 to some.</paragraph>
+			<paragraph>    Microsoft Lumia 640 XL ? Microsoft Lumia 640 XL Dual SIM ? Microsoft Lumia 640 XL LTE ? Microsoft Lumia 640 XL LTE Dual SIM</paragraph>
+			<paragraph>The Lumia 535 is even cheaper and yet it retains most of the key features and specs but the premium camera and LTE connectivity. If that's OK with you, then you get to save some ?50. Or you can go for the premium Lumia 735/730 which matches all Lumia 640 specs but as a better 4.7" OLED screen with Retina-grade pixel density.</paragraph>
+			<paragraph>    Microsoft Lumia 535 ? Microsoft Lumia 535 Dual SIM ? Nokia Lumia 735 ? Nokia Lumia 730 Dual SIM</paragraph>
+			<paragraph>Moving on, the Xiaomi Redmi 2 is a great Android specimen with 4.7" IPS 720p display, snappy 64-bit chipset, capable 8MP camera and above average battery life. It runs on the popular MIUI and offers great performance for about the same cash.</paragraph>
+			<paragraph> Xiaomi Redmi 2</paragraph>
+			<paragraph>Meizu m1 has a 5" HD screen, fast 64-bit quad-core processor, a 13MP rear cam and a big battery n bargain price nearly half the Lumia 640 LTE tag. It runs on a lightweight skinned KitKat and is available in a variety of colors.</paragraph>
+			<paragraph> Meizu m1</paragraph>
+			<paragraph>The Motorola Moto G 4G costs about the same as the Lumia 640, offers competitive screen resolution and performance, but if you can forgive the inferior camera it has the unique position to offer vanilla Android experience and on-time updates. Its Moto G 2nd Gen successor (add some extra ?25) matches the screen size of the Lumia 640, bumps the camera megapixels and keeps the premium Android treatment.</paragraph>
+			<paragraph>  Nokia Lumia 630 Dual SIM ? Motorola Moto G (2nd gen)</paragraph>
+			<paragraph>Microsoft did right with the Lumia 640 series. The LTE/3G Dual SIM/LTE Dual SIM phones are priced right and the hardware and software options are great. The company has done a good job in terms of user experience, too, delivering a UI that works well for both smartphone beginners and more experienced users. Microsoft is now working on bringing crucial apps to Windows and the Store is getting bigger and better by the day as many popular developers are finally boarding the Windows train. It's not quite there yet, but it's not like Androids in this price range get much dev love in terms of optimizations, so even if they can run more apps, the performance is not always there. So if you feel like stranding off the beaten path, the Lumia 640 seems like a great starting point.</paragraph>
+		</subsection>
+	</page>
+</review>

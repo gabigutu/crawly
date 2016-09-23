@@ -1,0 +1,64 @@
+<review>
+	<title>Sony Ericsson overview</title>
+	<description>MWC 2008</description>
+	<link>http://www.gsmarena.com/sony_ericsson_mwc_08-review-214.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>The Barcelona early birds Sony Ericsson were the first to get the info-hungry press crowd busy. We joined the throngs flocking to the press conference, at which their latest models were presented.</paragraph>
+			<paragraph>The highlight of the evening was undoubtedly the Sony Ericsson XPERIA X1. It's got a 3" touch sensitive widescreen display, a hardware QWERTY keyboard plus a touch-sensitive trackball - a combo that seems great for your multimedia purposes. Oh, did we mention that it's based on Windows Mobile 6 Pro? Doesn't sound that great now, does it?</paragraph>
+			<paragraph>Update 18 Feb: As it turned out the Sony Ericsson XPERIA X1 is in fact running on the yet unannounced Windows Mobile 6.1 OS.</paragraph>
+			<paragraph>Well, the truth is Sony Ericsson's XPERIA X1 is a sleek gadget - compact, yet powerful. We didn't have a chance of giving it a test drive, since at this early production stage (release is due in more than 6 months) the showcased devices were rather limited in their functionality. No one but the Sony Ericsson folks was allowed to touch the units.</paragraph>
+			<paragraph>Nevertheless, we got a good glimpse of it and we were quite satisfied with the rich graphical experience the Sony Ericsson UI offers. We are yet to see though how deep it goes - we can't help the feeling that the ugly Windows Mobile interface would take over once you dig deeper in the menu system. We've seen that happen both on LG KS20 and HTC Touch.</paragraph>
+			<paragraph>Exciting as it sound, the XPERIA X1 is yet to see a full-fledged appearance. For now, Sony Ericsson representatives are reluctant to go into detail about the Windows platform that powers the whole thing. We do suspect though that HTC in supplying the internals.</paragraph>
+			<paragraph>Sony Ericsson are also adding two new UIQ devices to their portfolio. The new G-series include the G700 and G900 smartphones. They have a rather conservative (did anybody say boring?) design and construction. You would be surprised to know that Sony Ericsson are in fact extremely proud of this repetitive rectangular design. Can't help but love those guys and their persistency.</paragraph>
+			<paragraph>Strangely enough, the G700 and the G900 are not being pitched as "smartphones", much like the XPERIA X1 is not marketed as a Pocket PC. Instead, the G700 and the G900 are viewed more as "devices that help you organise your daily life better".</paragraph>
+			<paragraph>Sony Ericsson G900 is in charge of the duo with a 5 megapixel camera and Wi-Fi. Both devices come with the StickyNotes application that is supposed to ease up your daily tasks with handwritten notes and tasks in the shape of the all-popular sticky notes.</paragraph>
+			<paragraph>The next new player in the Sony Ericsson camp is Sony Ericsson W980 Walkman. It managed to win our team's hearts with its 8 gigs worth of memory, large touch sensitive music keys, cool light effects, and Shake control.</paragraph>
+			<paragraph>The W980 is also equipped with a FM transmitter so you can stream your music library to your car or home FM radio receiver. You can also listen to the radio without plugging headphones in to use as an antenna - now that's a first!</paragraph>
+			<paragraph>The new Cyber-shot family comprises of the Sony Ericsson C702 and C902. You probably remember the C702 from a photo leak on a Chinese website that we wrote of. Many of you suspected it of being fake, as it seemed almost too ugly to be true. Well, it is true and, thank God!, Sony Ericsson are offering a color alternative (black) to that cyan original.</paragraph>
+			<paragraph>Turns out the Sony Ericsson C702 also offers camera face detection, plus it can use its built-in GPS receiver to geotag your images.</paragraph>
+			<paragraph>The Sony Ericsson C902 has a 5 megapixel camera with face detection and a very interesting sliding top. Once you slide it up, the camera is revealed and you are ready to shoot. We didn't exactly like the flimsy sliding mechanism (no spring assist or anything), but we really dig the touch-sensitive camera shortcut keys laid out around the display.</paragraph>
+			<paragraph>The Sony Ericsson Z770 is the last of the bunch and the least impressive, too. The Z770 seems as the clamshell alternative to the web centric Sony Ericsson K660, which we previewed earlier.</paragraph>
+			<paragraph>It's definitely got a RAZR style keypad and it's a sleek looking all-metal chap. Powered by the NetFront 3.4 web browser, it offers a "magnetic" mouse pointer, landscape browsing, webpage minimap and hopefully, even faster panning and scrolling.</paragraph>
+			<paragraph>Well, that's all about this pleasant evening warm-up to all the major announcements by the other manufacturers tomorrow. Stay tuned and enjoy our live photos, while we head to a "tapas" bar night - those traditional Spanish appetizers make the sangria even better.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Ericsson XPERIA X1 on video<subsectionTitle>
+			<paragraph>Meet the XPERIA X1. Sony Ericsson presented XPERIA as a brand of its own and they intend to develop it in parallel with their other devices. XPERIA X1, with the "arc slider" form factor, is the device to usher in the new lineup. This is also the first Sony Ericsson phone that is running on Windows Mobile OS.</paragraph>
+			<paragraph>
+showVideo("http://cdn.gsmarena.com/vv/reviewsimg/mwc08-se/video_/", "se-x1.flv", 426, 240);
+</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson W980 on video<subsectionTitle>
+			<paragraph>Sony Ericsson W980 is the latest addition to the Walkman lineup. W980 sports quite a number of interesting features, such as an FM transmitter, 8GB user memory and built-in antenna for the FM radio.</paragraph>
+			<paragraph>
+showVideo("http://cdn.gsmarena.com/vv/reviewsimg/mwc08-se/video_/", "se-w980.flv", 426, 240);
+</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson C902 on video<subsectionTitle>
+			<paragraph>The other phone from the Cyber-shot family is the high-end Sony Ericsson C902, which has unique slide-out lens cover that slides open to reveal the camera.</paragraph>
+			<paragraph>
+showVideo("http://cdn.gsmarena.com/vv/reviewsimg/mwc08-se/video_/", "se-c902.flv", 426, 240);
+</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson C702 on video<subsectionTitle>
+			<paragraph>The Sony Ericsson C702 is designed to shoot in the hardest of environments. It is splash and dust resistant and has quad-band GSM support. The 3.2 megapixel autofocus camera has a mechanical sliding cover, but unfortunately there is no xenon flash.</paragraph>
+			<paragraph>
+showVideo("http://cdn.gsmarena.com/vv/reviewsimg/mwc08-se/video_/", "se-c702.flv", 426, 240);
+</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson G900 on video<subsectionTitle>
+			<paragraph>Sony Ericsson G900 is a Symbian UIQ smartphone of conservative looks. It is notable for its 5 megapixel autofocus camera, Wi-Fi and the Sticky Notes application.</paragraph>
+			<paragraph>
+showVideo("http://cdn.gsmarena.com/vv/reviewsimg/mwc08-se/video_/", "se-g900.flv", 426, 240);
+</paragraph>
+		</subsection>
+	</page>
+</review>

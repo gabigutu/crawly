@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Ravage, tome 1</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Ravage_tome_1/21773518</link>
+	<generalScore>6.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Trop tôt pour se faire un réel avis ...</title>
+		<author>Gzaltan</author>
+		<date>2016-09-09</date>
+		<score>0.6</score>
+		<content>J'en avais envie, et j'ai pu la lire. Et mon premier commentaire fut que ... c'était trop court. Certes, ce n'est que le tome un, mais j'ignore comment dans les deux prochains tomes, l'auteur parviendra à faire tenir toute l'intrigue tenue dans le roman de Barjavel. Pour ce qui est du contenu de ce premier tome, ça se lit très bien. Après une courte introduction, l'auteur nous dévoile les personnages principaux, et nous donne l'occasion d'en savoir suffisamment sur eux pour les apprécier, ou non, dans toute leur apparente candeur (pour certains). Si les connaisseurs du récit d'anticipation s'attendent à la fin, je ne m'attendais pas à la révélation précédente. La vérité autour du métier de Blanche et les lourdes conséquences encourues dans ce choix donne une idée du sacrifice qu'elle a fait en acceptant de signer le contrat. Ce premier tome nous permet donc d'avoir un aperçu en surface, mais suffisant sur le fonctionnement de la société du future. L'auteur y associe une vision moderne du présent (portables et tablettes améliorées) et une idée vintage de ce que pourrait être le futur (voitures volantes, toujours). Parti-pris intéressant. Mais mon attention s'est surtout arrêtée sur le dessin. C'est franchement beau. Très coloré et réaliste, sans se perdre dans une multitude de détails. Nous croyons à cette société du futur en la regardant. Et la dynamique est là. Les batailles de l'introduction, ou les débuts de l'apocalypse : nous les vivons en regardant les vignettes. Oui, le dessin est une force de cette version de Ravage. Malgré tout, un seul tome est trop court pour se faire une idée réelle de l'oeuvre entière. Vivement la trilogie complète, et une belle version intégrale qui ne nous laissera pas sur notre faim (j'espère).</content>
+	</review>
+	<review>
+		<title>A suivre...</title>
+		<author>mesmer</author>
+		<date>2016-09-09</date>
+		<score>0.6</score>
+		<content>Ayant lu (et apprécié !) le roman de Barjavel, c'est donc d'un certain point de vue que je découvre cette oeuvre. "Relecture" du roman de Barjavel ? En pointilleux que je suis, j'ai par exemple été déçu de l'apparence physique de Seita (qui n'est pas du tout comme ça dans le livre) l'intro, si elle est intéressante en certains points (après, un mec de 129 ans qui dézingue une armée à l'épée a lui tout seul ? sérieusement ? et philosophe tranquillou durant un combat épique ?) Inégal. C'est le mot qui me vient à l'esprit. Les dialogues sont très intéressants, l'intrigue est correcte, mais... le fait d'avoir lu le roman, et toutes les divergences vis a vis de celui ci m'ont un peu cassé le plaisir (et la fameuse Blanche, que je m'imaginais bien plus sexy...) du potentiel, avec quelques écarts par rapport a l'histoire originelle qui sont (selon moi) un peu génants. A suivre, donc.</content>
+	</review>
+</sensCritiqueEntity>

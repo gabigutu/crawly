@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Jumalten aika</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Jumalten_aika/19175327</link>
+	<generalScore>7.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>24</numberOfVoters>
+		<numberOfVoters>19</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Jumalten aika</title>
+		<author>Simon Grolleau</author>
+		<date>2016-03-31</date>
+		<score>0.7</score>
+		<content>Digne héritier de Bathory, Moonsorrow est connu pour son Viking Metal épique, sombre, torturé et mélodique. À l'instar de Thyrfing, mon autre groupe favori du genre, Moonsorrow semble confirmer son choix de se tourner vers plus de froideur et de noirceur. On ne trouvera pas de surprise concernant la qualité des compositions : les morceaux sont longs, élaborés, avec l'utilisation de fils rouges qui permettent à la progression d'être intelligente et rassurante. Pourtant l'album n'est pas parfait si l'on a particulièrement affectionné la période aujourd'hui révolue du Moonsorrow mélodique. La flûte se raréfie et ne vient que pour renforcer l'angoisse des pistes. La tonalité reste mélancolique et grave. Ceux qui aiment à embrasser la noirceur en apprécieront cet album à sa juste valeur, les autres auront la nostalgie de la lumière qu'apportait Moonsorrow au cœur des ténèbres. Les teintes d'espoir sont toujours présentes, mais la peur domine. Mais je n'ai pas tout dit, car s'il y a une chose que l'on peut souligner chez Moonsorrow, et que l'on retrouve toujours dans Jumalten Aika, c'est ce torrent incompressible d'émotion dans lequel on se laisse entraîner. Incontrôlable, profond, sensé, l'album plonge dans une introspection douloureuse et salvatrice.</content>
+	</review>
+</sensCritiqueEntity>

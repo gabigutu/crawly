@@ -1,0 +1,246 @@
+<review>
+	<title>Samsung Galaxy Note II N7100</title>
+	<description>A closer look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_note_ii-review-811.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note II is the epitome of the "go big or go home" mantra. From the screen, processing power, through the software package and the revival of the stylus, everything has been pushed right to the very edge of current technology.</paragraph>
+			<paragraph>The big Galaxy Note 10.1 slate took a lot of time getting to market and, for all its cool features, it probably won't be able to sort the Android tablet problem. The Note II will ride on the success of the original, not to mention that it actually beats its tablet namesake in some aspects - and no, we're not just talking portability.</paragraph>
+			<paragraph>Samsung threw everything but the kitchen sink in. If you don't believe us - just check out the following list.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note II N7100 at a glance:<subsectionTitle>
+			<paragraph>We've already seen the overclocked Exynos 4212 Quad chipset come out on top in a head-to-head with current high-end Androids and it will probably keep its lead at least until the arrival of Qualcomm S4 Pro with its four Krait cores.</paragraph>
+			<paragraph>Samsung has also packed the Galaxy Note II with so many various tricks and features and gestures that it gets hard to keep track. And while keeping things simple is generally a good thing, we can't help but love the gazillion or so tweaks to the user experience that the Note II brings.</paragraph>
+			<paragraph>We can't talk about the Note II without mentioning the signature feature of the series - the S Pen. The advanced stylus has been nicely integrated throughout the interface, sprinkling cool features all over the place and we'll do our best to cover them all.</paragraph>
+			<paragraph>Enough small talk, big things await on the following pages - like the brand new 5.5" 720p Super AMOLED screen.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The original Galaxy Note's design was inspired by the Galaxy S II, the second iteration of the phablet takes after the current smartphone flagship - the Galaxy S III. And while many are less than impressed with the S III aesthetics, we have to say the rounded lines look great on the larger Galaxy Note II.</paragraph>
+			<paragraph>The Samsung Galaxy Note II is actually a couple of millimeters narrower and 0.3mm slimmer than the original Note, which we found to benefit handling quite a lot. Even though its height has grown by nearly half a centimeter compared its predecessor, we generally found the Note II to be easier to manage.</paragraph>
+			<paragraph>The front of the Galaxy Note II is dedicated almost entirely to the display. Since it and the S Pen are the most interesting hardware features, they will get their own chapters.</paragraph>
+			<paragraph>The front does have quite a few interesting elements other than the screen. On top is the earpiece (as the Note II has full voice call support), with the 1.9MP front-facing camera and proximity sensor to the right.</paragraph>
+			<paragraph>The ambient light sensor and the status LED are on the left side of the phablet. From the settings you can choose the types of events that light up the LED - charging and low battery, missed calls and during voice recording (only if the screen is off). You can add even more events or customize the colors for the preset events, but you'll need a suitable app from the Play Store or rely on the ever knowledgeable guys over at the XDA-developers' forum to come up with a tweak.</paragraph>
+			<paragraph>Speaking of the ambient light sensor, we have to mention that the Samsung Galaxy Note II got the same treatment as the Galaxy S III before it and got a RGB sensor (i.e. one that's capable of detecting the full spectrum of the ambient light, rather than just its green channel. This leads to improved performance under some types of artificial lighting.</paragraph>
+			<paragraph>Also, Samsung has implemented a new way of controlling brightness, allowing you to fine-tweak the brightness without disabling its automatic mode. You set an offset, so your Galaxy Note II screen will always be slightly brighter or dimmer than the automatically selected level.</paragraph>
+			<paragraph>Below the screen is the classic arrangement of physical hardware home key flanked by the capacitive Menu and Back keys. This setup has been in use since the early days of the Galaxy line and Samsung decided not to put the Android keys on-screen (as Google suggests) even on a screen this big.</paragraph>
+			<paragraph>The Home key has a very soft press, but it's not unpleasant to use.</paragraph>
+			<paragraph>The sides of the Note II hold no surprises either, a volume rocker on the left and a Power/Lock key on the right.</paragraph>
+			<paragraph>The top of the Samsung Galaxy Note II features the 3.5mm audio jack along with the secondary microphone, which handles noise reduction and stereo sound recording.</paragraph>
+			<paragraph>The primary mic is at the bottom, exactly opposite the secondary one. The microUSB port handles charging and data connection with a computer. It's MHL-enabled, so you can output HD video through an HDMI adapter or enable USB Host via another adapter.</paragraph>
+			<paragraph>The stylus slot is at the bottom too, with the top of the S Pen curved to fit the shape of the Note II. The stylus itself isn't perfectly round like the original stylus, so it doesn't rotate in the slot, making it easier to put back in.</paragraph>
+			<paragraph>The back of the phablet looks pretty barren - it houses an 8MP camera and a single-LED flash near the top and the loudspeaker near the bottom. The camera lens protrudes slightly, so the Note II rests on it when placed on a level surface, but judging from the original Note its hardened glass is not too easy to scratch.</paragraph>
+			<paragraph>Samsung used the same hyperglazed plastic on the exterior of the Galaxy Note II as on the Galaxy S III. It comes in Marble White and Titanium Grey flavors, but if the S III is anything to go by, new color options should arrive in the following months.</paragraph>
+			<paragraph>The back cover is removable and below it you'll find the beefy 3100mAh battery along with the microSIM and microSD card slots. The SIM card is blocked by the battery, so hot-swapping it is out of the question.</paragraph>
+			<paragraph>There will be a flip cover for the Note II. It's the same as the one the original Note and the Galaxy S III got. It replaces the back cover and provides protection for the screen. The flap is made of leather.</paragraph>
+			<paragraph>After using the Note II for a while, even the sizable S III feels small (the flagship smartphone being 1cm narrower than the phablet). The difference in screen size is quite notable too - we were quite reluctant to switch back to the smaller screen. However, this is not to say the Samsung Galaxy Note II is impossible to pocket - tight jeans might not make it feel at home, but with average or larger pockets it's entirely possible to carry it around like any other phone.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display - PenTile begone<subsectionTitle>
+			<paragraph>Plenty of people must've been hoping Samsung would fit a non-PenTile screen on the Galaxy Note II and the Koreans delivered. They changed other features of the screen too, like the surface on top, which is now Gorilla Glass 2.</paragraph>
+			<paragraph>Also, the diagonal grew to 5.55" (up from 5.3") and the aspect ratio changed - the Galaxy Note II uses a 720p screen (16:9) instead of WXGA (16:10).</paragraph>
+			<paragraph>What this amounts to is a taller, narrower screen (and consequently taller, narrower device) and a slightly increased surface area - the Galaxy Note II screen has about 2% more surface area than the original Note.</paragraph>
+			<paragraph>The removal of that 80-pixel wide strip resulted in a slightly lower pixel density - 267ppi vs. 285ppi. The new matrix, however, makes up for that easily and the perceivable sharpness of the screen is actually higher.</paragraph>
+			<paragraph>It's no longer a PenTile matrix like on the original Note (which had a slight crosshatch patter noticeable, but only if you look really close). Perhaps these photos snapped with a digital microscope will help clear up the differences in pixel arrangements.</paragraph>
+			<paragraph> Samsung Galaxy Note screen ? Samsung Galaxy Note II screen</paragraph>
+			<paragraph>The pixels of the Note II have one tall Blue sub-pixel on the left and smaller Green and Red pixels stacked one on top of the other. It's an odd arrangement, but it has three subpixels per pixel. The reason for the different Blue pixel size is that Blue AMOLEDs typically have a shorter life and making them bigger balances things out. Being bigger, the Blue pixel doesn't emit as much light, which helps it last longer, but color balance isn't affected (because of its size).</paragraph>
+			<paragraph>To illustrate how the different arrangement improves sharpness we used our microscope to snap a picture of very small font - the line width here is 1px, the font is white.</paragraph>
+			<paragraph> Samsung Galaxy Note screen ? Samsung Galaxy Note II screen</paragraph>
+			<paragraph>As you can see, the Galaxy Note II screen lights up individual pixels to display the 1px-wide lines. The old Galaxy Note, however, can't use a single pixel to make white, as it only has two of the three needed colors.</paragraph>
+			<paragraph>To fix that, the screen uses sub-pixel rendering, which "borrows" a subpixel from a neighboring pixel to make white. But now the line has become 1 2/3px wide.</paragraph>
+			<paragraph>Another thing we noticed was that the sub-pixels of the new matrix are actually using more of their allotted space and there's less left to be wasted. Notice that the distance between individual pixels is far closer here, compared to the original note and that also improves the image quality.</paragraph>
+			<paragraph>This new arrangement seems to result in some very slight color aberrations around sharp edges, but it takes a great deal of eye-strain to try and see it.</paragraph>
+			<paragraph>One cool addition to the display settings is that even with Automatic brightness turned on, the brightness slider remains active. This allows you to fine-tune the brightness, but still have it automatically adjust to the ambient light.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Bigger, more comfortable S Pen<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note II grew in size over the original and so did the new S Pen. The old one is about 10.4cm tall and 5mm thick, while the new one measures 11.3cm in length and 7mm in thickness.</paragraph>
+			<paragraph>While nowhere near as comfortable as the S Pen on the Galaxy Note 10.1, the one that comes with the Note II feels more like a pen and less than a stylus, compared to the one inside the original Note.</paragraph>
+			<paragraph>The button on the S Pen now has a ribbed pattern, making it easier to locate by touch (the old one is flat and flush against the surface.</paragraph>
+			<paragraph>The Galaxy Note II can detect when you pull the S Pen out and brings you to a contextual page, which offers shortcuts (with preview thumbnails) of your recent S Notes.</paragraph>
+			<paragraph>Since there's no lanyard linking the S Pen and the Galaxy Note II, the phablet uses its accelerometer to detect you walking away and will alert you if the stylus isn't in its slot. The feature won't trigger unless you're several steps away - so you can walk and write without it bothering you, but if you really forgot it and walked away it will start beeping.</paragraph>
+			<paragraph>The new Samsung Galaxy Note II screen can detect the S Pen from a distance, similar to how the Galaxy Note 10.1 worked. The hover feature, called Air View, is not part of the stylus though, we tested the S Pen from the original Note and it worked just fine.</paragraph>
+			<paragraph>The Note II also features a more sensitive digitizer compared to the original. It can distinguish between 1024 different levels of pressure (quadruple what the original managed) and you can really feel the difference in the drawing apps - you get fine-grained control between thin and thick lines.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>TouchWiz has received support for yet another Android release. The Samsung Galaxy Note II runs on Android 4.1.1 Jelly Bean and while the UI differences over ICS aren't too easy to spot, there are some cool new features that improve the overall experience quite notably.</paragraph>
+			<paragraph>You can see the interface in action here, captured with the screen recording function of the Note II:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The interface is very much like what the Galaxy S III uses, though there are a handful of new tricks enabled by Jelly Bean or by the newer version of TouchWiz.</paragraph>
+			<paragraph>The lockscreen is a standard "tap and drag in any direction to unlock" deal and there're ripples accompanied by water-drop sound as you drag your finger. Five customizable shortcuts are available at the bottom of the screen - drag one up to launch the app without going through the homescreen.</paragraph>
+			<paragraph>There are several options for the unlock screen. You can enable a news ticker at the bottom of the lockscreen, which is a great way to stay up to date on current events. The ticker can be expanded to view all news items.</paragraph>
+			<paragraph>There are alternative unlock methods as well - Face unlock, Face and voice unlock, unlocking the phone by touching the screen and tilting the phone and starting the camera from the lockscreen by touching the screen and rotating the phone horizontally.</paragraph>
+			<paragraph>There are voice-based wakeup commands that can just start S Voice or launch a preselected app. You can also enable a second clock on the lockscreen, which shows up when you're roaming or switch most of these features off.</paragraph>
+			<paragraph>Quick glance is a new feature that presents at-a-glance info of the basic things - while the phone is locked, you can cover the top of the Galaxy Note II (just trigger the proximity sensor, really) and the screen will light up and display the status bar, counters for missed calls and new messages, a battery percentage, music track info and upcoming alarms. In our unit, this would trigger even if the phablet is face down, so it might prove to be a battery drain of a feature.</paragraph>
+			<paragraph>Once you make it past the lockscreen, you'll notice that the dock at the bottom of the screen now fits five custom shortcuts or folders. The rightmost one opens the app drawer as usual, but you can change the other four to any shortcut you like or even folders if you want.</paragraph>
+			<paragraph>The notification area looks similar, but there are a few new things that make good use of the big screen. On top is a clock with the date and a Settings shortcut. Below that are the usual toggles - Wi-Fi, GPS, Silent mode, Screen rotation and Power saving. There are five more toggles just off screen - Notifications (toggles icons in the top row of the screen), Mobile data, Bluetooth, Driving mode and Sync.</paragraph>
+			<paragraph>Further down we get the Brightness slider with an Auto checkbox. Strangely, the Auto mode gets disabled if you move the slider - it doesn't let you fine tune the automatically selected brightness like the toggle in the Settings does. Maybe this is just a bug with our unit.</paragraph>
+			<paragraph>The notifications are one of the big changes in Jelly Bean. Notifications can now take more than a single row to display more information and they can also have more advanced controls on them (e.g. a reply button). The top notification is expanded by default and you can expand/collapse notifications with a two finger swipe up or down (not all notifications can be expanded though, only those that support it).</paragraph>
+			<paragraph>Finally, at the very bottom of the screen you get a line for the carrier ID, which turns into "No service" if there's no mobile network available and "No internet connection" when there isn't even Wi-Fi.</paragraph>
+			<paragraph>Even though the dock at the bottom fits five icons and the Note II has a bigger screen than the Galaxy S III, the homescreen and the app drawer fit only four on a row. However, there are now five rows in the drawer so you still get more shortcuts per page.</paragraph>
+			<paragraph>Following convention from stock Android, the app drawer has a tab that lets you easily pull out widgets to the homescreen. Unlike the stock app drawer, you cannot move between tabs by swiping through the pages - you have to explicitly hit the tab. There's a download shortcut on the right, which brings you to a screen with only the downloaded apps.</paragraph>
+			<paragraph>The app drawer has three view modes - Customizable grid (where you can freely rearrange icons), Alphabetical grid (if you think you can find apps quicker if they're alphabetized) and Alphabetical list (this one makes shortcuts easy to hit, but isn't very space efficient).</paragraph>
+			<paragraph>The app drawer has a zoomed-out overview too that lets you rearrange pages, but you can't create blanks. Hitting the menu key reveals some more options, including hiding apps or enabling tap to uninstall mode.</paragraph>
+			<paragraph>Once you get several apps running, you can use the task switcher to go back and forth between them. It's a vertical list with a screenshot and a name for each app. Swiping an app sideways removes it from the list.</paragraph>
+			<paragraph>There are a few Samsung-made tweaks here - a button at the bottom of the list to bring out the home-brewed task manager, a button to end all apps at once and a shortcut to Google Now. By the way, you can also bring up Now by pressing and holding the Menu key.</paragraph>
+			<paragraph>Let's go back to the homescreen and the widgets. Jelly Bean comes with various widgets and Samsung has added more still. With JB, the widgets will move out of the way if you try and put something over them, which makes reorganizing the homescreen so much easier. Some widgets are resizable too.</paragraph>
+			<paragraph>As usual, you can pinch to zoom out and easily manage homescreen panes - add, delete (but you can't have more than seven) or just reorder them. You can have 7 panes at most, which are enough to fit plenty of content even if you use full-screen widgets. One of these panes is marked "default" and that will be the one you're taken to when you press the Home button.</paragraph>
+			<paragraph>Live wallpapers are a great way to prettify your homescreen, but also make it useful too. The News wall creates an attractive slideshow of headlines, while Stock wall does the same for quotes and Music Hub for album art from your music library. Photo wall creates a collage of photos from your Gallery.</paragraph>
+			<paragraph>There is a setting called Mode change - basically, it gives you two separate homescreen setups, Standard and Easy. Samsung's idea is to give you big, easy to use widgets that cover most of the functionality with Easy mode.</paragraph>
+			<paragraph>There's nothing stopping you from adding back the regular widgets in Easy mode, so you can use Mode change to toggle between personal and work widget setups. You can't rename the modes or have more than two, but it's a potentially useful feature if your precious few homescreens are usually cluttered with a widget for your work email, work calendar and so on, and you want your personal email and photo widget instead.</paragraph>
+			<paragraph>One of the features that debuted on the Galaxy S III is Smart Stay - it uses the front-facing camera to detect if the user is looking at the screen, so that it never dims or locks while you're reading. This makes reading web pages and ebooks very comfortable, even if you've set the screen timeout low to preserve the battery.</paragraph>
+			<paragraph>With the latest TouchWiz comes another clever camera trick - Smart rotation. When enabled, the Galaxy Note II will try to orient its screen in relation to your eyes, not the accelerometer. So, if you're lying on your side and hold the phone vertically (in relation to the ground), Smart rotation will keep the screen in landscape mode. Note that for these last two features to work, the front-facing camera needs to see your face, so too dark environments might turn out to be a problem.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note II is powered by a homebrewed chipset - Exynos 4412 Quad. It has a quartet of Cortex-A9 cores clocked at 1.6GHz along with 2GB of RAM and Mali-400 GPU. We'll hold off on the analysis of the benchmarks, we think the results speak for themselves.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>A quick note about the GPU benchmarks - all phones here besides the Meizu have a 720p screen, while MX 4-core has a qHD screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.1 Pro (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.1 Egypt (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The benchmarks on the Galaxy Note II were run in the native browser in Android Jelly Bean - it's blazing fast! The others were run with Chrome on Ice Cream Sandwich, which is faster than the stock ICS browser.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Text input - keyboard, S Pen or something else?<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note II comes with several text input options. Yes, there is handwriting recognition using the S Pen, but even the standard on-screen QWERTY has several different layouts.</paragraph>
+			<paragraph>The big screen makes for a comfortable portrait typing, and we really appreciate the extra row just for the numbers. Two finger typing is comfortable on the Note II in portrait mode, but becomes a pain in landscape. The landscape QWERTY also obscures too much of the screen, so we ended up sticking to portrait orientation for text input.</paragraph>
+			<paragraph>Here are a handful of clever tricks that this keyboard can offer. You can swipe left and right on the keyboard to position the cursor. Okay, this isn't new but this is - you can hover over a text field with the S Pen and a cursor appears. You have to tap to position it there.</paragraph>
+			<paragraph>You can also enable "Continuous input", which lets you input words by swiping over the keyboard (yes, like Swype). This is available on the Galaxy S III too.</paragraph>
+			<paragraph>Moving on to handwriting recognition, it's very accurate (even with our awful penmanship) and the thicker, longer S Pen helps quite a bit to improve the experience.</paragraph>
+			<paragraph>The Samsung Galaxy Note II has very advanced text prediction features to minimize typos. If you allow it, it will scan through your emails, Facebook posts and Twitter posts and learn how you write (which words you use more often and so on).</paragraph>
+			<paragraph>We move on to the non-keyboard text input methods. You can, of course, use voice input and since the Galaxy Note II is running Android 4.1 Jelly Bean, this will work even if the phablet is offline as long as you have downloaded the required language package.</paragraph>
+			<paragraph>Finally, there's the camera - yes, the camera. You can snap a photo of text and the Galaxy Note II will run OCR on it and enter it automatically. The great thing about this is that you don't need an Internet connection for this either. You can fit an entire A4 page and the Note II will transcribe it in a matter of seconds. You'll need to proof-read the text though.</paragraph>
+			<paragraph>By the way, the Galaxy Note II is smart about picking which text input method to show you. If you tap a field with you finger, it will bring up the QWERTY keyboard. If you tap a field with the S Pen instead, it will launch the handwriting recognition.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>S pen features<subsectionTitle>
+			<paragraph>The S Pen truly is pivotal to the Samsung Galaxy Note II experience. It has a large array of new features that considerably boost its usability over what you can do with just your finger tips.</paragraph>
+			<paragraph>We already covered the contextual page, which comes up automatically when you pull out the S Pen. It's only visible when the stylus is out and it's icon is a little pencil, while regular homescreens are still indicated by dots.</paragraph>
+			<paragraph>Anyway, there's another way to launch apps - with gestures. You press the S Pen button and swipe up to access Quick command. Here you can draw a "@" sign to launch email, or "?" to do a quick search. Besides the symbol you can add a keyword - what to search for with the "?" or define search range for the "@": recipient, message body or both.</paragraph>
+			<paragraph>You can also hover the S Pen over various things to get a better look at them - expand S Planner events, preview emails and text, preview videos and even a position in the video timeline.</paragraph>
+			<paragraph>The S Pen also lets you quickly snap a portion of the screen and use it in an app - email, S Note, etc. Speaking of S Note, you can launch it by double tapping with the S Pen while holding down its button.</paragraph>
+			<paragraph>Here's a video from Samsung that does a great job of showcasing all the S Pen features.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Feature-rich camera<subsectionTitle>
+			<paragraph>The Samsung Note II's main camera can capture stills of up to 3264 x 2448 pixels and 1080p videos, while the one on the front snaps 1.9MP pictures and 720p video.</paragraph>
+			<paragraph>The camera app offers geotagging, touch focus, HDR mode, burst shot (with Best photo), Share shot, face and smile detection and digital image stabilization.</paragraph>
+			<paragraph>Thanks to the fast quad-core processor, it can also simultaneously record HD (1080p or 720p) video and take near full-resolution pictures (those are cropped to an aspect ratio of 16:9 to match that of the videos and what's seen in the viewfinder).</paragraph>
+			<paragraph>Samsung Galaxy Note II also has a feature called Best faces - it snaps a burst of 5 photos, keeping track of people's faces. Later, you can pick any of the 5 photos for each person's face individually.</paragraph>
+			<paragraph>The Samsung Galaxy Note II offers other cool features for after you've snapped the photo. It can automatically detect faces and if you link those to people in your contact list, it will be able to recognize them from then on.</paragraph>
+			<paragraph>Each face tagged in a photo has a little speech bubble next to it with the person's name, which you can tap to get a popup menu with options to call, text or email that person (Buddy Photo Share works here too).</paragraph>
+			<paragraph>Cooler still are the "contextual tags". When you turn them on, each photo will be labeled with the location, people in the photo (automatically recognized) and date. This is non-distracting and you can always switch it off. You can also add hand-written notes on each photo (also non-distracting).</paragraph>
+			<paragraph>You can also snap a photo of a document and use the Get text option to OCR the document and convert it into regular text, ready to be copied and pasted anywhere you want.</paragraph>
+			<paragraph>Here are some camera samples:</paragraph>
+			<paragraph>The video camera uses an identical user interface. It can apply various effects to the video and there are slow-motion (1/2x) and fast motion (2x) modes. Touch focus during recording is available, with an AF button to switch back to regular continuous autofocus.</paragraph>
+			<paragraph>Check out this 1080p video sample we shot with the Galaxy Note II:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note II is a connectivity powerhouse. Let's start off with the basics - quad-band GSM/GPRS/EDGE and quad-band 3G (AWS is missing though). The 3G connectivity is backed by HSPA (21Mbps downlink, 5.76Mbps uplink).</paragraph>
+			<paragraph>The Note II has an LTE-enabled version too, which uses the same Exynos 4412 Quad chipset (rather than moving to a Qualcomm chipset like some other models), it just has an extra modem. The LTE speeds are 100Mbps down and 50Mbps up.</paragraph>
+			<paragraph>The Wi-Fi support covers a/b/g/n, with both 2.4GHz and 5GHz band compatibility. Wi-Fi Direct and DLNA are part of the package, of course.</paragraph>
+			<paragraph>The second-generation phablet also has Bluetooth 4.0 LE. It incorporates Bluetooth 3.0, but also includes the efficient Low Energy mode. It also supports the high-quality Apt-X audio codec.</paragraph>
+			<paragraph>The Note II lets you share all sorts of media via NFC by simply touching the devices back-to-back. You'd need two S Beam-enabled devices to get this to work - while not many models support it, there are plenty of Galaxy S III's around.</paragraph>
+			<paragraph>You can share with other NFC devices as well, but the functionality is limited to what is provided by the stock Android Beam.</paragraph>
+			<paragraph>The AllShare functionality is now split into two: AllShare Play and AllShare Cast. The first is for transferring and sharing data and multimedia files to your notebook or PC. AllShare Cast on the other hand provides streaming content to and from different kind of devices (TV or computer) over DLNA.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser<subsectionTitle>
+			<paragraph>A new Android version always comes with an improved web browser and the Jelly Bean browser running on the Samsung Galaxy Note II is no exception. Samsung has put its own spin to it too.</paragraph>
+			<paragraph>The browser interface is almost non-existent - just a row at the top of the screen for the back and forward buttons, the URL bar with a refresh button in there too, the tab switching key and the bookmarks key.</paragraph>
+			<paragraph>The browser supports both double tap and pinch zooming along with the two-finger tilt zoom. There are niceties such as text reflow, find on page, save page for offline viewing, request desktop site and so on. A neat trick is to pinch zoom out beyond the minimum - that opens up the tabs view.</paragraph>
+			<paragraph>The Web browser comes with Incognito mode, which lets you surf the web without the browser keeping track of your history or storing cookies.</paragraph>
+			<paragraph>As you can expect, the S Pen also comes into play when using the browser. With it, you can hover over elements of the page as you would with a mouse (very, very few smartphones can do this and this is the first to do it properly). This comes in quite convenient for all those sites that haven't updated their interface yet to work well on a touchscreen (where you can tap something, but not hover over it).</paragraph>
+			<paragraph>You can also use the S Pen to do quick web searches - just swipe up with the S Pen button pressed to launch Quick command and then scribble your query.</paragraph>
+			<paragraph>Another Samsung feature in the browser is the Print option, which lets you print out web pages straight from your phone. Unfortunately, this only works only with Samsung printers.</paragraph>
+			<paragraph>Quick controls are our favorite feature of the Android browser and they've gotten even better with Android 4.1 Jelly Bean. In case you've missed it, Quick Controls are basically a jog-dial menu that replaces the buttons on the top and appears when you place your finger near the left or right edge of the screen. It's even more minimalist than the regular UI and it's very comfortable to use single-handed.</paragraph>
+			<paragraph>You get five cotrols, but as you highlight one with your finger, it fans out into further options. The tabs, for example, brings out the tab switcher by default, but it also brings out options to open a new tab, a new incognito tab or close the current tab.</paragraph>
+			<paragraph>Brightness and colors gives you four different presets to adjust the display. Automatic brightness is an option, too, and works only within the browser.</paragraph>
+			<paragraph>Adobe do not officially support Flash on Jelly Bean, but you can side-load it if you like. Still, you'd be better off sticking to the HTML5 versions of web sites - YouTube works and there are even a number of HTML5 games.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>App overview<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note II comes with a number of cool apps preinstalled. A lot of them are centered around the S Pen, but there are some other nice additions as well.</paragraph>
+			<paragraph>One thing that is not strictly an app, but a cool feature nonetheless, is Smart rotation. It builds on the Smart stay feature introduced with the Galaxy S III - it keeps track of your eyes and will rotate the screen accordingly.</paragraph>
+			<paragraph>This is great for situations where you're lying down and the accelerometer will try to rotate the screen the wrong way. Smart rotation keeps the screen oriented properly.</paragraph>
+			<paragraph>The Gallery app got more updates, not just the Air View features. It now uses a split screen interface - when you go into a folder, the contents of the folder is displayed on the right, while neighboring folders are displayed on the left. It's similar to how the file browser in Windows works, for example.</paragraph>
+			<paragraph>The My Files app has a similar split-screen interface, though that one is available only in landscape mode.</paragraph>
+			<paragraph>There's an app called Point&amp;, which uses the Galaxy Note II's camera to scan text. You can translate that text, you can use it to read printed web links or look up the definitions of single printed words (there are English, German, French and Italian dictionaries preloaded).</paragraph>
+			<paragraph>You already saw Paper Artist in the video in the previous chapter. It imports a photo and runs a filter over it (there are plenty to choose from). Then you can go in with the S Pen and color certain areas.</paragraph>
+			<paragraph>S Note should already be familiar to you from the original Note and Note 10.1. It offers several templates and you can enter handwritten notes, regular text with the on-screen keyboard (or handwriting recognition), complex mathematical formulas along with images and voice notes. There's also a floating window version of the app.</paragraph>
+			<paragraph>The S Planner is a skinned calendar that is equally easy to use with fingers and with the S Pen. The tabbed interface lets you easily toggle between year, moth, week, day list and task views.</paragraph>
+			<paragraph>Finally, a really cool feature is the screen recording. It's activated by pressing and holding the Home and Volume up buttons and it records what's happening on the screen (including what you draw with the S Pen) and captures your audio commentary.</paragraph>
+			<paragraph>If you haven't, go back and watch the videos in the previous chapters - both ours and the official Samsung clip.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Wrap up<subsectionTitle>
+			<paragraph>Every big maker out there is talking about the future of computing and coming up with exciting new hardware and software.</paragraph>
+			<paragraph>The Samsung Galaxy Note II seems like a device that's ready to meet the future. The Cortex-A9 may not be the newest CPU core design, but four of them at 1.6GHz with 2GB of RAM and a beefed up Mali-400 GPU make for the fastest pocketable hardware at the moment - certainly fast enough to run Android Jelly Bean and whatever comes after it.</paragraph>
+			<paragraph>Google Now is pretty advanced with its intelligent guesses and it will only get better. Samsung has done its fair share with the Smart stay and rotation features, the variety of motion gestures and S Pen commands and shortcuts.</paragraph>
+			<paragraph>While, the phablet is tightly bound with the S Pen stylus, fingertip usability is as good as on other devices, if not better (all that screen real estate sure helps). So, no matter which trend prevails - the simpler use of fingers or the more accurate stylus (not to mention hovering and pressure sensitivity) - the Galaxy Note II is ready for it.</paragraph>
+			<paragraph>Actually, the Note II might be the trendsetter - it certainly is a prominent - and logical - milestone as far as the constantly growing screen size of Android devices is concerned.</paragraph>
+			<paragraph>The set of connectivity features is also praiseworthy. The optional 100Mbps LTE makes sure you'll be able to squeeze out the most out of mobile networks for a while and with NFC, MHL, dual-band Wi-Fi, wireless TV-Out, S Beam and others, it's very hard to throw a curve ball at the Galaxy Note II as far as connectivity is concerned.</paragraph>
+			<paragraph>The competition in the phablet market is going to get stiffer over the coming months, but the Samsung Galaxy Note II doesn't seem too worried about it. After all, it comes to succeed the device that basically carved the niche and it brings enough novelties and upgrades to be a worthy heir.</paragraph>
+			<paragraph>We just can't wait to get a finalized hardware and run the few remaining tests that our pre-release unit didn't allow us to. Stay tuned for the full review.</paragraph>
+		</subsection>
+	</page>
+</review>

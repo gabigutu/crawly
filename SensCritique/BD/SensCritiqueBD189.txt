@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Pereira prétend</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Pereira_pretend/22125505</link>
+	<generalScore>8.8</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Pereira prétend</title>
+		<author>jerome60</author>
+		<date>2016-09-21</date>
+		<score>0.7</score>
+		<content>Pereira est journaliste culturel dans un quotidien conservateur à la botte du dictateur Salazar. Il vit à Lisbonne et passe ses journées seul, avec pour passions sa femme décédée, à qui il parle quotidiennement, et la traduction des grands auteurs français. Bedonnant, flegmatique, sans véritable conviction politique, Pereira se contente de sa petite vie bien rangée jusqu’au jour où il rencontre un étudiant et sa compagne proches des milieux révolutionnaires antifascistes. Un couple pour lequel il va se prendre d’affection et qui va peu à peu faire évoluer sa perception des choses et de la vie en général. Adapté d’un roman d’Antonio Tabucchi, cet album déroule le cheminement personnel et la métamorphose intime d’un apathique un peu falot. Pierre-Henry Gomont a eu l’intelligence de se libérer du texte original tout en en respectant l’esprit. Avec son trait nerveux, ses couleurs écrasées par la chaleur lisboète, sa lumière parfois glaciale, il restitue un Portugal où le temps semble être suspendu. L’ensemble est fluide, croqué sur le vif à la manière d’un carnet de voyage avec des trouvailles graphiques aussi audacieuses que réussies, notamment l’incarnation des doutes et des hésitations du héros par des ombres rouges symbolisant la dualité de ses sentiments entre bonne et mauvaise conscience. Après Rouge Karma et Les nuits de Saturne, Pierre-Henry Gomont m’enchante à nouveau, avec un album totalement différent de ses deux illustres prédécesseurs, tant au niveau du contenu que de l’ambiance. Il confirme ici son immense talent et se classe parmi les talents incontournables de la BD actuelle.</content>
+	</review>
+</sensCritiqueEntity>

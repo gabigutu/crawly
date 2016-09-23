@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>IV</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/IV/19882987</link>
+	<generalScore>6.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>22</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>11</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>IV</title>
+		<author>Victor Blutch</author>
+		<date>2016-06-24</date>
+		<score>0.7</score>
+		<content>Album exaltant de diversité, entre un hypnotisme post-punk et une pop cold wave, la "Black Mountain" qui a accouché de cet album sort, pour moi de nulle part, et fait résonner un des meilleurs LP de l'année 2016.</content>
+	</review>
+	<review>
+		<title>Redressage de barre (mi-molle, quoi)</title>
+		<author>MathieuCan</author>
+		<date>2016-06-02</date>
+		<score>0.7</score>
+		<content>Pour tous ceux qui, comme moi, sont tombés sous le charme du groupe en 2008 avec le merveilleux In the future, la déception de l'album précédent ne l'emportait pas encore sur l'impatience d'en écouter un nouveau. En effet, l'erreur ou plutôt le manque d'inspiration ça peut arriver même aux meilleurs. Nous voici donc avec ce IV chargé de promesses et comme toutes grandes expectatives, la déception peut l'emporter. Tel n'est pas tant le cas ici même si quelques chansons pêchent par simplicité et/ou répétition, quelques belle pépites viennent vous emporter dans un léger voyage astral digne des meilleurs groupes du style space-rock-psyché. Bref, nous n'avons pas affaire au meilleur album du groupe, mais celui-ci a quelques mérites qui induisent une écoute attentive.</content>
+	</review>
+</sensCritiqueEntity>

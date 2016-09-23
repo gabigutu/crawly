@@ -1,0 +1,51 @@
+<review>
+	<title>LG Optimus Black display shootout</title>
+	<description>NOVA on trial</description>
+	<link>http://www.gsmarena.com/nova_display_test-review-593.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>There?s a new kid on the mobile display block, LG?s NOVA LCD display. It promises to be the dream screen ? it?s super bright, energy efficient, with great colors, viewing angles and outdoor visibility. We?ll be running our usual battery of tests on the new guy to see if it can deliver on those promises.</paragraph>
+			<paragraph>LG isn't just throwing superlatives around ? they?ve have hard numbers to back up their claims. They bill the NOVA display as the brightest smartphone screen around ? 700 nits of brightness. Also, keep in mind that bigger screens are harder to light up, so at 4? big the NOVA display of the LG Optimus Black P970 will be well ahead of the competition if it can pull it off, as other 4-inchers don?t even come close to 700 nits.</paragraph>
+			<paragraph>NOVA uses In-Plane Switching technology, which greatly reduces color distortion and contrast loss when viewed at an angle. This is vital on mobile devices as you rarely hold the phone so that you view the display head on.</paragraph>
+			<paragraph>But LG has done more to enhance the viewing experience ? they?ve worked harder on reaching what they call ?pure white tones?. LCD and AMOLED screens usually have a slight tint to them, so greys are not quite neutral and even the white is not perfectly white. Your eyes get used to it pretty quick, but it?s always there ? unless your phone has a NOVA display that is.</paragraph>
+			<paragraph>What else? Ah, ?clearest? and ?most readable? are being thrown around in relation to the NOVA display too ? but how is a 4? WVGA screen better in sharpness and resolution than another 4? WVGA screen? It could be possible, not all pixels are created equal. But we?ll need to get pretty close and personal with the Optimus Black to find that out. We?ll pit it against some of the best in the business ? the Samsung Galaxy S and S II, the Apple iPhone 4 and LG?s own Optimus 2X (for good measure) to find out which one is the best.</paragraph>
+			<paragraph>Energy efficiency is also on the menu ? LG claims 50% less energy used to display a pure white screen than AMOLED displays and also 50% less energy during general usage than regular LCD displays.</paragraph>
+			<paragraph>So welcome to the display lab! Put your safety goggles on and hit the next page for the LG NOVA display test.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>NOVA display eyes-on<subsectionTitle>
+			<paragraph>Our goal today is to test the new NOVA display technology from LG ? we?ll be using the LG Optimus Black P970 as our specimen. The only other NOVA-packing phone, the Optimus Big, is sold in South Korea only.</paragraph>
+			<paragraph>We have an assortment of displays on the phones we have laying around our office to use as measuring sticks. We have the Retina display of the iPhone 4, the SuperAMOLED and SuperAMOLED Plus displays of the old and new Galaxy S phones and one 4? IPS LCD in the face of the LG Optimus 2X.</paragraph>
+			<paragraph>Let?s start with what we can measure with the naked eye. Putting the five phones side to side, the Optimus Black display does shine brighter than the rest ? we?ll measure the exact values later on.</paragraph>
+			<paragraph>Putting our test image on the screen, the black-to-white gradient makes LG?s claim of pure whites obvious to prove ? check out these photos and you?ll see for yourselves. In all but the NOVA display, the gradient has a tinge of color and it?s not our camera to blame.</paragraph>
+			<paragraph>Looking at the displays at an angle is the other test that can be done with a naked eye ? most of the time, the image degradation is very visible.</paragraph>
+			<paragraph>The Retina display of the iPhone proved the best in viewing angles among the LCDs yet again. As for the image on AMOLED displays, it is almost perfectly constant, regardless of viewing angle ? a benefit of the underlying technology.</paragraph>
+			<paragraph>And how did the NOVA display do? Not much better than the Optimus 2X ? color distortion was relatively low but the loss of contrast was easy to spot when you tilt both phones at an angle.</paragraph>
+			<paragraph>The NOVA screen did slightly better than the 2X display ? the photos here don?t give a clear cut answer but holding both phones in our hands, we?re going to judge this in favor of the Optimus Black P970.</paragraph>
+			<paragraph>As far as color goes, the NOVA display doesn?t have the saturation of the SuperAMOLED but by comparison, the LCD unit on the Optimus 2X appears dull. Color rendering is very impressive on the NOVA, making the display a joy to use.</paragraph>
+			<paragraph>Outdoor visibility is very good for the NOVA display too, largely thanks to its high brightness. The display is pretty reflective however so bright light makes text harder (but still possible) to read.</paragraph>
+			<paragraph>Time to break out the more scientific measurements and test LG?s claim of the NOVA display being the brightest. Of the three phones we?ve already reviewed, the iPhone 4 has the brightest (and also smallest) display, but the Optimus Black and its NOVA display beats it hands down (it even surpasses the 700nits promised by LG) and is about two times brighter than the SuperAMOLED Plus display of the Samsung Galaxy S II.</paragraph>
+			<paragraph>Unfortunately, deep blacks are not exactly the strength of the NOVA display ? the backlight does shine through the black, more so than it does on the Retina display. Both are no match for the perfect black of the SuperAMOLEDs.</paragraph>
+			<paragraph>The less than perfect blacks take their toll on the contrast ratio of the NOVA display but it still managed to post one of the best contrast ratios we?ve measured.</paragraph>
+			<paragraph>As far as sharpness goes, the iPhone 4?s miniscule pixels put it well in the lead but also at the edge of human perception ? at arms length the advantage isn't as big as it is on paper.</paragraph>
+			<paragraph>The 4? WVGA SuperAMOLED of the Samsung Galaxy S loses out here since it has 30% fewer subpixels. The 4? WVGA NOVA display produces a sharper image and it even manages to beat the 4.3? WVGA SuperAMOLED Plus of the Galaxy S II, which has the exact same number of subpixels as the NOVA display. We attribute this to the size disparity, but the difference in sharpness is there to notice.</paragraph>
+			<paragraph>Finally, the IPS LCD of the Optimus 2X has the same size and number of subpixels as the NOVA ? and not surprisingly sharpness is very similar, though the Optimus Black does have an advantage due to its higher contrast ratio.</paragraph>
+			<paragraph>We?ve also prepared a collage of the five displays ? the image has been zoomed so that it?s the same size and it?s easier to judge the relative sizes of the pixels. The Optimus 2X and Optimus Black screen matrices look identical, while the SuperAMOLED Plus matrix has more spacing between vertical columns of pixels than the rest.</paragraph>
+			<paragraph>In this photo it?s also clear how much smaller the pixels are on a Retina display and the structure of the original SuperAMOLED matrix, which has only two subpixels per pixel instead of three. This causes a crosshatch pattern visible even from a distance.</paragraph>
+			<paragraph>You have to be careful when comparing sharpness ? for example, we found that the Gallery apps on the Galaxy S duo cleverly sharpen pics additionally, giving the impression of a much sharper screen. We used another image viewer to work around that and do a fair comparison.</paragraph>
+			<paragraph>Energy consumption of the display is hard to decouple from the rest of the phone, so we won?t have enough time to test LGs energy efficiency claims in this short display test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Time for a verdict on the new display ? the 4? NOVA display of the LG Optimus Black P970. As far as LCD displays go, it?s easily among the best ? its brightness is unmatched and the other characteristics are very good as well.</paragraph>
+			<paragraph>But it?s not the best ? Retina display is still the best LCD around. And despite being featured on a phone called ?Optimus Black?, displaying black is not among the strengths of the NOVA screen.</paragraph>
+			<paragraph>Still, the NOVA display is very thin and that has allowed LG to slim the Optimus Black down to just 9.2mm of thickness. The high brightness makes it a great choice for outdoor viewing too and the popping colors are second only to a SuperAMOLED screen.</paragraph>
+			<paragraph>We didn?t have time to test the energy efficiency of the NOVA display but LG?s numbers sound a bit exaggerated.</paragraph>
+			<paragraph>Anyway, the NOVA display stacks up well against some of the best mobile screens on the market ? average displays are well behind it in our book.</paragraph>
+			<paragraph>That?s it for now, we?re going back to work on the full review ? coming soon!</paragraph>
+		</subsection>
+	</page>
+</review>

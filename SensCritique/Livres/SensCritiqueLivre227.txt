@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Tropique de la violence</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Tropique_de_la_violence/21031570</link>
+	<generalScore>8.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Tropique de la violence</title>
+		<author>Kissed-by-fire</author>
+		<date>2016-08-28</date>
+		<score>0.6</score>
+		<content>Quelques années plus tard, Moïse est devenu un adolescent rebelle qui se cherche. Un jour, il se rend à la police, expliquant qu’il a tué un jeune homme. Le récit se construit sur plusieurs voix, Moïse, Marie, Bruce, etc, dont plusieurs sont d’outre-tombe. Elles reconstituent l’histoire, la manière dont Moïse, élevé en bon petit français par une mère célibataire, s’éloigne de celle-ci à l’adolescence jusqu’à rencontrer les gangs d’ados gérés par Bruce. L’histoire est donc très sombre, sans beaucoup d’espoir, et montre toute la misère et la violence qui règne sur un territoire pourtant officiellement français. Le roman est plutôt bien écrit et bien construit, malgré un ton un peu nostalgique (?) qui ne met pas vraiment de bonne humeur. J’ai trouvé dommage que l’écriture des différentes voix ne diffèrent pas plus, en effet Bruce, sans éducation, à quasiment le même niveau de langue que Moïse ou sa mère. Le sujet est intéressant, l’écriture fluide, le roman assez court, mais je n’ai pas été totalement conquise par cette histoire trop sombre (peut-être trop réaliste ?) où les espoirs des personnages semblent n’être voués qu’à être détruits.</content>
+	</review>
+	<review>
+		<title>Mayotte, ce petit bout de France, d'Europe, dont tout le monde se fout, ou presque.</title>
+		<author>Auguste Bourrain de Lexocet</author>
+		<date>2016-09-20</date>
+		<score>0.8</score>
+		<content>Comme beaucoup d’autres avant lui, Moïse a débarqué à Mayotte, en France, à bord d’un kwassa (embarcation de fortune) sur la plage de Bandrakouni. Il venait probablement d’Anjouan, une île des Comores. Sa mère, qui envisageait ce petit bout d’Europe au milieu de l’ocean indien comme un eldorado, l’avait précaucieusement emmailloté dans un tissu rouge et jaune pour qu’il survive à la traversée. Mais Moïse a un oeil noir et un oeil vert. Il a les yeux vairons. L’oeil du djinn. Il est donc un mauvais présage. Sa mère l’abandonne à Marie, une infirmière blanche, une muzungu en mal d’amour, qui l’élèvera comme le fils qu’elle n’a pas eu. Comme l’enfant que son bel amant Chamseddine n’a pas voulu lui offrir, lui préférant une jeune comorienne. Jusqu’à ses quinze ans, Moïse vit comme beaucoup d’enfants d’expatriés. Il va à l’école, fait des pique-niques au lac Dziani, lit mille fois l’Enfant et la Rivière jusqu’à nommer son chien Bosco. Il est cet enfant noir élevé par une femme blanche, seule, qui lui prépare des bols de céréales. Et il ne pose que très peu de questions. Peu après qu’il eut appris la vérité sur ses origines, Moïse voit mourir Marie brusquement. Hagard, il erre dans Mayotte accompagné de son fidèle Bosco, arborant son éternelle sacoche marron en bandoulière, qui contient le livre qu’il chérit tant. Dans une motivation probablement inconsciente de renouer avec ses origines et les enfants dont il aurait pu faire partie, il gagne Kaweni, un ghetto à la lisière de Mamoudzou, où il rencontre La Teigne, Rico, Nasse et surtout Bruce, qui règne du haut de ses quinze ans en maître sur le quartier qu’il aime à renommer Gaza. Moïse est désormais un de ces innombrables enfants des rues, que les associatifs et humanitaires blancs appellent « mineurs isolés ». Il fume du chimique, vole des savates à la mosquée, se baigne dans la ravine, participe à des mourengués, entretient avec Bruce une relation toxique, faite de tensions et de rivalité… Lire la suite de la chronique sur L'ombre sur la mesure : http://ombresurlamesure.com/tropique-de-la-violence-nathacha-appanah/</content>
+	</review>
+	<review>
+		<title>Une île d'une violence paradisiaque</title>
+		<author>salomouche</author>
+		<date>2016-09-08</date>
+		<score>1.0</score>
+		<content>Ce nouveau roman de Nathacha Appanah raconte l’adolescence de Moise, jeune mahorais arrivé sur l’île clandestinement quelques jours après sa naissance et adopté par une infirmière de l’hôpital. Malgré le décor paradisiaque, la réalité à laquelle se confrontent Moise et les quatre autres narrateurs de ce récit, est tout autre. Mayotte, une île française perdue entre l’immigration, le racisme, la pauvreté et Gaza, bidonville où règne le chaos. Dès le début, on sait qu’il y a eu un drame, le tout étant de comprendre comment cela a pu arriver. L’écriture étant fluide et voire même poétique la dureté décrite renvoie à une réalité d’une violence inconnue et brut. L’auteure souligne les émotions de chaque personnage avec beaucoup de justesse, ils en deviennent attachants. Aucun d’eux n’est que bourreau ou que victime et Nathacha Appanah crée une certaine forme de compréhension, le tout sans aucun jugement. Ce roman et ce que vivent ces personnages donnent des frissons, un réalisme à couper le souffle sans pour autant être lourd ou moralisateur.</content>
+	</review>
+</sensCritiqueEntity>

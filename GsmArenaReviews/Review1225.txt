@@ -1,0 +1,125 @@
+<review>
+	<title>Samsung Galaxy R vs. LG Optimus 2X</title>
+	<description>Affordable dual-cores</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_r_vs_lg_optimus_2x-review-713.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Yep, you read that right. Affordable and dual core wouldn't normally belong in the same sentence. In 2011. And you don't need to press fast forward. Just sit back and enjoy. There's a lot stewing in the industry's pot and we think the place smells of quad core already.</paragraph>
+			<paragraph>So, two affordable dual-core Android smartphones it is. The Samsung Galaxy R and the LG Optimus 2X have been duly and thoroughly reviewed but we thought a head-to-head comparison wouldn't hurt - we've certainly been asked plenty of times which one is better.</paragraph>
+			<paragraph>The LG Optimus 2X prides itself in being the first dual-core smartphone. The Samsung Galaxy R follows at quite some distance but runs on the same chipset - the NVIDIA Tegra 2. Both have comparable screens too: 4" of WVGA IPS LCD on the Optimus and a 4.2" WVGA SC-LCD on the Galaxy R.</paragraph>
+			<paragraph>What sets them apart is imaging - the Optimus 2X is in line with the current flagships with an 8MP still camera and 1080p video, while the Galaxy R stops at 5MP/720p.</paragraph>
+			<paragraph>Here's a quick summary of the ups and downs of the two phones in direct comparison.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung I9103 Galaxy R over LG Optimus 2X:<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG Optimus 2X over Samsung I9103 Galaxy R:<subsectionTitle>
+			<paragraph>The Optimus 2X has fewer wins in its column, but they're all major victories. At least on paper - we'll see if the difference holds up in our tests or if the Samsung camera can make up for the lower resolution with better detail.</paragraph>
+			<paragraph>There are, of course, other differences too. It's between Samsung's TouchWiz and LG's custom skin on top of Android Gingerbread. And there's the design and build quality too: both have metal inlays on the back but the Galaxy R is more than a millimeter thinner.</paragraph>
+			<paragraph>Other than that, the two phones are close enough in terms of specs to make this a fair and square fight. And exciting too. Let's get started with an overview of the hardware and software. Later, we'll move on to more specific tests.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software and Hardware overview<subsectionTitle>
+			<paragraph>The Samsung Galaxy R is the thinner of the two at 9.5mm (the Optimus 2X is 10.9mm thick).</paragraph>
+			<paragraph>The 2X is just a tad smaller, though the actual difference in both width and height is negligible. And it's down to the screen size. The R has a 4.2" screen, while the 2X has a 4" diagonal. The relative difference is about 10% of screen real estate but the resolution is the same.</paragraph>
+			<paragraph>We'll have a look at the performance of the displays in more detail further on.</paragraph>
+			<paragraph>As far as weight goes, the two are practically impossible to tell apart - 139g vs. 135g. The thing to note is the Samsung Galaxy R weighs less despite having a larger brushed metal inlay on the back cover.</paragraph>
+			<paragraph>It has a slightly bigger battery than the LG Optimus 2X too - 1650mAh vs. 1500mAh - but we'll see whether that makes any difference in our battery test, since the power consumption is important too.</paragraph>
+			<paragraph>The loudspeaker performance is another area where those two differ. They actually ended up even on one of the three tests, but the Samsung Galaxy R was noticeably louder in the other two. Here's how they did and how that compares with other phones we've tested.</paragraph>
+			<paragraph>As far as software goes, both phones are currently running Android 2.3 Gingerbread with both manufacturers committed to an Ice Cream Sandwich update. LG is expected to release ICS for the Optimus 2X in Q2, while Samsung's time table is yet to be confirmed.</paragraph>
+			<paragraph>We won't dig into the Samsung and LG custom launchers for Android. We've found that this is a personal preference and it's something you'll have to decide on for yourself. It appears the differences between TouchWiz and LG Home are mostly aesthetic.</paragraph>
+			<paragraph>The video player on the LG Optimus 2X handled 1080p videos (FullHD MP4 videos were problematic and MKV a straight no-go) and the Samsung Galaxy R matched it in FullHD video playback (with MP4 videos presenting problems again).</paragraph>
+			<paragraph>The LG Optimus 2X has a key advantage though - the Optimus 2X has a microHDMI port, which allows it to actually play those FullHD videos on an HDTV. There's a microHDMI cable included in the box too, so you don't have to worry about getting one. Depending on how you plan to use the phone, this might be one of the deciders.</paragraph>
+			<paragraph>The Galaxy R has only DLNA to rely on for connecting to TVs, but the Optimus 2X has that covered too.</paragraph>
+			<paragraph>One the thing that the Galaxy R has over the Optimus 2X in wired connectivity is USB On-The-Go. With it, you can hook up some external storage and and manage files on it. You'll need an OTG cable though, which isn't included in the box.</paragraph>
+			<paragraph>That aside, both phones have very similar software features. Both offer Flash-capable web browsers, come with Office document editors out of the box and offer social networking integration.</paragraph>
+			<paragraph>It's hard to pick a winner in this category. The Galaxy R is thinner and with a bigger screen, and with a slight advantage in loudspeaker performance. However, no TV-Out is a deal breaker for some. The standard microHDMI port of the Optimus 2X can save you some hassle (no MHL adapters or proprietary cables needed).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Screen comparison<subsectionTitle>
+			<paragraph>The LG Optimus 2X and the Samsung Galaxy R use LCD screens with their own proprietary technology to improve the image quality.</paragraph>
+			<paragraph>Slight color and contrast loss when viewed at an angle is observed in both, although the problem is less prominent in the Galaxy R.</paragraph>
+			<paragraph>Identical resolution and a slightly smaller screen means the Optimus 2X has an edge when it comes to sharpness. It beats the Galaxy R with a pixel density of 233ppi vs. 222ppi. It's not enough though to make a difference to the naked eye.</paragraph>
+			<paragraph>The LG Optimus 2X offers much better black levels - even at 100% brightness, the blacks were darker than what the Samsung Galaxy R managed at 50%. The 2X leads in contrast too, as the table below shows.</paragraph>
+			<paragraph>Where the Galaxy R wins out however is brightness - it's more than twice as bright. Here are the hard numbers:</paragraph>
+			<paragraph>In conclusion, let's say it again. The Samsung Galaxy R has a 4.2" screen, which has 10% more surface area than the 4" screen of the LG Optimus 2X. It means though that the WVGA resolution is stretched a little thin on the Galaxy R - it has a 222 ppi against 233 on the Optimus 2X. The Optimus 2X display has better blacks but the Galaxy R display is brighter and has slightly better viewing angles.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera comparison<subsectionTitle>
+			<paragraph>Comparing photos of different resolution can be hard, so we turned to our Photo Compare Tool. We chose to look at both photos at 8MP resolution (so, the Galaxy R photo was upscaled and the Optimus 2X photo was left untouched). This way the resolution superiority of a higher megapixel camera would be easier to spot and measure.</paragraph>
+			<paragraph>You can use the tool too, via those links. Also, we've prepared custom crops that focus on the key areas of the chart.</paragraph>
+			<paragraph>   Samsung Galaxy R vs. LG Optimus 2X in our Photo Compare Tool</paragraph>
+			<paragraph>Let's start with synthetic resolution, the first chart we have. It will set the ceiling of the resolution we can expect.</paragraph>
+			<paragraph>Looking at the horizontal resolution, the two come surprisingly close. In vertical resolution, however, the Optimus 2X has a clear advantage. It's not big - if you look at the third phone, which we used as a yardstick (the iPhone 4S), you can see there are 8MP cameras that perform much better.</paragraph>
+			<paragraph>Still, it's a win for the Optimus 2X, though not by a large margin. The downscaled images of both photos reveal a slight pink spot in the Galaxy R photo.</paragraph>
+			<paragraph>The second chart shows a difference in processing. The LG Optimus 2X photos are a lot grainier (but no color noise), and that's because the Samsung Galaxy R sacrifices more fine detail.</paragraph>
+			<paragraph>The color patches show more saturated colors in the Optimus 2X, but they are actually closer (if a little oversaturated) to the colors on the chart than the duller colors of the Galaxy R photo.</paragraph>
+			<paragraph>The third chart shows natural objects and while the Galaxy R offers a respectable quality, the Optimus 2X packs more fine detail in its photos. This chart is shot under artificial lighting and it's a good tell of faulty white balance - the R is spot on, but the 2X has a very strong blue tint.</paragraph>
+			<paragraph>Summing it up, the Optimus 2X has the upper hand in still imaging in almost all scenarios except under artifical lighting where the white balance is a hit and miss.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording comparison<subsectionTitle>
+			<paragraph>Because of the big difference in resolution, we'll be using our Video Compare Tool setup. The LG Optimus 2X and its FullHD videos offer double the resolution that the Samsung Galaxy R manages. For the yardstick, we'll use the Nokia Lumia 800 this time - an excellent 720p shooter - to show that resolution and captured detail aren't always the same thing.</paragraph>
+			<paragraph>Here are the links to the Video Compare Tool. We've prepared relevant crops again, upscaled to 1080p.</paragraph>
+			<paragraph>   Samsung Galaxy R vs. LG Optimus 2X (1080p) in our Video Compare Tool</paragraph>
+			<paragraph>Let's start with the synthetic resolution chart again (it's the third image in the Tool). The Optimus 2X has a very clear advantage when it comes to horizontal resolution, but the advantage in vertical resolution isn't as clear cut. The 720p footage of the Lumia 800, however, shows a sharper image than either of those, despite the upscaling to 1080p.</paragraph>
+			<paragraph>Let's go to the more realistic setup. Under good light, the LG Optimus 2X has a clear advantage in detail (notice the grass and the flooring, as well as the small type). Color rendering is also more accurate, but there's the familiar bluish tint from artificial lighting.</paragraph>
+			<paragraph>The Galaxy R keeps almost none of the fine detail due to heavy compression. Even the relatively large "RIDE THE" label is nearly illegible. The Lumia 800 again shows that lower resolution doesn't necessarily mean lower quality.</paragraph>
+			<paragraph>In poor lighting, the LG Optimus 2X maintains its advantage over the Galaxy R in resolved detail and color accuracy.</paragraph>
+			<paragraph>We decided to put the Optimus 2X in 720p mode and see if there's any change in the performance. The viewing angle is wider in this mode (a nice option to have since you can, say, fit more people in the shot), the 2X still had an advantage in resolution.</paragraph>
+			<paragraph>The difference in viewing angles is pretty obvious in our ferris wheel setup. Even though it was on equal footing in terms of resolution and having a narrower viewing angle (which makes it easier to capture fine detail), the Galaxy R still lost (check the "RIDE THE" sign again).</paragraph>
+			<paragraph>Dropping the resolution to 720p didn't improve the low-light performance of the LG Optimus 2X, but it managed to keep a marginal lead on the Galaxy R.</paragraph>
+			<paragraph>You can look at the full frames that were used to make the crops too:</paragraph>
+			<paragraph>   Samsung Galaxy R vs. LG Optimus 2X (1080p) in our Video Compare Tool</paragraph>
+			<paragraph>The Samsung Galaxy R has an annoying issue - there's no autofocus in video recording - you can't focus on your subject prior to recording and continuous auto-focus is not availble during recording. It also records mono sound, but at least it hits a smooth 30fps framerate.</paragraph>
+			<paragraph>The framerate of the LG Optimus 2X videos hovers a little under 24fps in 1080p mode and there's slight choppiness noticeable. It does do 30fps 720p mode though. It records stereo sound with the videos and autofocus works correctly.</paragraph>
+			<paragraph>To sum the video recording section, the Opimus 2X is a clear winner between the two, however the comparison to the Nokia Lumia 800 clearly shows 1080p is not always better than 720p in terms of resolved detail.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Both the Samsung Galaxy R and the LG Optimus 2X are powered by Tegra 2 chipsets, but they are not completely identical. The Galaxy R has double the amount of RAM - 1GB.</paragraph>
+			<paragraph>We don't expect to see a vast divergence in CPU-oriented benchmarks, but it should make a difference to overall performance. We should note that the tests were done with both phones running Gingerbread.</paragraph>
+			<paragraph>BenchmarkPi and Linpack focus on the processor cores and the two phones end up trading victories. The Galaxy R takes the BenchmarkPi round by a slight margin, while the Optimus 2X surprisingly comes ahead with a decent lead in Linpack.</paragraph>
+			<paragraph>Both phones have the same NVIDIA-made GPU and render graphics to the same resolution. The Samsung Galaxy R however manages to come ahead in this test - maybe we're finally seeing the advantage of the extra RAM kick in.</paragraph>
+			<paragraph>The browser tests show a complicated relationship between hardware performance and finely tuned software. Our two tests unanimously show the LG Optimus 2X as the winner. SunSpider exhibits a slight advantage in pure JavaScript performance, while adding HTML5 to the mix extends the 2X's lead.</paragraph>
+			<paragraph>We expected the Galaxy R to be the clear winner here, since both phones are powered by the same chipset except for the R having twice the amount of RAM. Yet the only test that the Optimus 2X lost was the 3D rendering test. Still, both phones held up admirably when compared to some high-end dual-cores.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output quality<subsectionTitle>
+			<paragraph>The two smartphones are virtually identical in terms of audio output when no headphones are attached. The differences are so small that they are barely detectable even in lab conditions, let alone by ear. The volume levels of the two are quite similar, too, so you should know that both the Samsung Galaxy R and the Optimus 2X will do an equally great job of streaming to your car audio or home stereo.</paragraph>
+			<paragraph>Differences do appear when you plug in a pair of headphones, though. The LG Optimus 2X still manages to get a lot of good readings, including a flawless frequency response, but its stereo crosstalk increases quite dramatically. The Samsung Galaxy R on the other hand got more intermodulation distortion and a few very minor issues with its frequency response, but retained better stereo performance. Once again it's quite hard to pick a winner, but we give the Galaxy R our preference due to its better balanced output.</paragraph>
+			<paragraph>You should know that the two will sound identical more often than not though, so you probably shouldn't base your purchasing decision on audio output alone.</paragraph>
+			<paragraph> Samsung I9103 Galaxy R frequency response  LG Optimus 2X frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+			<paragraph>To sum it up, the two phones are almost tie when it comes to their audio reproduction quality.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>We didn't run full battery tests; we concentrated on two key areas instead - web browsing and video playback. The Galaxy R has an extra 150mAh of battery capacity, but we had to see if the Optimus 2X could make up for it with higher power efficiency, mainly due to the smaller screen.</paragraph>
+			<paragraph>We conducted our usual web browsing test - the phones connect over Wi-Fi, with the screen set at 50% brightness and we have them open an automated test page that loads various real-life web pages (local copies, to avoid third-party server issues).</paragraph>
+			<paragraph>Surprisingly, the two phones ran out of juice within 15 minutes of each other. The LG Optimus 2X lasted 4 hours and 54 minutes, while the Samsung Galaxy R barely outdid it with 5 hours and 7 minutes.</paragraph>
+			<paragraph>We charged both phones back up and fired their video players. We made sure we put them in Airplane mode to avoid network connection issues affecting the battery results. We ran the test until both hit 10% reaming charge, which is where most phones stop their media players.</paragraph>
+			<paragraph>This time the Galaxy R enjoyed a more decisive victory - it lasted a full hour longer than the Optimus 2X. It was 5 hours and 20 minutes before the Optimus 2X called it quits, while the Galaxy R went on for 6 hours and 21 minutes.</paragraph>
+			<paragraph>Both phones were in the middle of the pack in terms of battery life and either one of them can help you kill time for five hours straight. But for people who like to catch up with their favorite shows or watch a movie on the go, the Samsung Galaxy R can give you an extra hour despite its bigger, brighter screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>The LG Optimus 2X was a flagship in its heyday while the Samsung I9103 Galaxy R was simply meant as a more affordable version of the Galaxy S II. Nearly half a year sets the two apart, but they demonstrated very similar performance in our quick shootout.</paragraph>
+			<paragraph>The biggest differentiating factor between the two seems to be TV-Out - if you want to pair your phone with the TV, the LG Optimus 2X offers FullHD playback over HDMI with mirroring, whereas the Galaxy R has only the wireless DLNA option (also available on the 2X).</paragraph>
+			<paragraph>Other than that, the Optimus 2X has the better camera, but not by as much as the numbers suggest (8MP vs. 5MP, 1080p vs. 720p). The 10% bigger screen of the Galaxy R is much brighter than the 2X's display, but you'll have to settle for poorer black levels.</paragraph>
+			<paragraph>The tradeoffs go on - if you want to watch videos on the go, the Samsung phone offers a full hour more of battery life, but if you browse more than you watch video, then the LG will probably offer a smoother experience due to its better performance.</paragraph>
+			<paragraph>Then there are the subjective differences like styling, custom Android UIs and so on. These are matters of personal taste and we shouldn't be telling you which one is better.</paragraph>
+			<paragraph>It all boils down to what you use your mobile phone for. Any of the phones in this comparison would be more than happy to serve. And although the LG Optimus 2X clearly has the upper hand in imaging and connectivity, the bottom line is that both phones are hard to beat for their performance to price.</paragraph>
+		</subsection>
+	</page>
+</review>

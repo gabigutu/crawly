@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Rubrique-à-Brac, t(au)ome 3</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1972</year>
+	<link>http://www.senscritique.com/bd/Rubrique_a_Brac_t_au_ome_3/497436</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>33</numberOfVoters>
+		<numberOfVoters>147</numberOfVoters>
+		<numberOfVoters>376</numberOfVoters>
+		<numberOfVoters>298</numberOfVoters>
+		<numberOfVoters>135</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Les passionnantes enquêtes du commissaire B.O. et de son adjoint, le fidèle inspecteur F.H.</title>
+		<author>-Piero-</author>
+		<date>2014-07-19</date>
+		<score>0.9</score>
+		<content>_F.H. : alors, patron, vous avez vu ce Boeing abattu à côté de chez les russkofs. Sale affaire, chef, et en plus les indices sont maigres... _B.O. : pas de problème mon petit F.H., on va tirer ça au clair. Tu vas m'amener tous les suspects au poste et me les cuisiner fissa. (le lendemain) _F.H. : eh ben, patron, faut reconnaître que ce coup ci les indices sont maigres : les deux suspects PP et VP reconnaissent qu'ils sont armés jusqu'aux dents, mais quand même pas assez bêtes pour abattre un avion civil et se mettre tout le monde à dos... _B.O. : une chose semble t'avoir échappé, mon bon vieux F.H. ! A-t-on retrouvé des traces de missile sur le Boeing abattu ? _F.H. Pas la moindre patron, c'est bien ce qui complique tout ! _B.O. Au contraire, c'est bien la preuve éclatante que c'est V.P. le coupable : il est le seul assez méchant pour utiliser des missiles qui ne laissent pas de trace ! D'ailleurs, je l'ai serré : le fourbe vient de cracher le morceau ! _F.H. Bon sang, mais c'est bien sûr ! Quand même, les copains, le patron, quel type ! _B.O. Elémentaire, mon bon F.H., et en route pour de nouvelles aventures !</content>
+	</review>
+	<review>
+		<title>Rubrique-à-Brac, t(au)ome 3</title>
+		<author>caiuspupus</author>
+		<date>2014-03-12</date>
+		<score>0.8</score>
+		<content>J'ai adoré les 2 premiers taumes, et je me suis rué sur le troisième. L'humour est toujours là, loufoque, imprévisible, et Gotlib apporte deux nouveaux personnages hilarant : Charolles et Bougret, qui enquêtent sur des meurtres totalement improbables, avec les deux mêmes suspects, le même coupable, et des indices..."un peu maigres". Une seule déception : que l'album soit plus court que les précédents, je n'aurais pas été contre quelques gags de plus!</content>
+	</review>
+	<review>
+		<title>Gott liebt Gotlib</title>
+		<author>Zedbahr</author>
+		<date>2013-11-01</date>
+		<score>0.7</score>
+		<content>Caustique, drôle, toujours bien vu. Rubrique-à-Brac, c'est tout le talent de Gotlib et c'est succulent.</content>
+	</review>
+</sensCritiqueEntity>

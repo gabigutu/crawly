@@ -1,0 +1,76 @@
+<review>
+	<title>Nexus 5X and Nexus 6P hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/nexus_5x_nexus_6p_hands_on-review-1312.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>This year we get double the Nexus phone action - the 5.2" Nexus 5X and the 5.7" Nexus 6P, brought by LG and Huawei respectively. They come to replace the two-year old Nexus 5 and the fresher Nexus 6. There's a new Android tablet too, but it's not a Nexus!</paragraph>
+			<paragraph>Both Nexus phones solidify Google's ideal for an Android phone even if they don't break new ground. They share an adopted security focus with a fingerprint sensor for Android Pay and Google Play purchase notifications. Also both agree that USB Type-C is the way forward.</paragraph>
+			<paragraph>Naturally, the new models launch with Android 6.0 Marshmallow. Older models will get it soon too. What Marshmallow brings is Google Now on Tap, turning Now's ambient intelligence into a full-on digital assistant, and Doze - the new power-saving feature.</paragraph>
+			<paragraph>Android Pay is a big focus, but it has a lot of catching up to do, launching after Apple's and Samsung's solutions. Oh, and Android is finally getting a more meaningful control over app permissions. Instead of asking all sorts of permissions before installing, apps will now ask for each permission individually only when needed making the process more transparent.</paragraph>
+			<paragraph>Both phones come with a motion co-processor, which is what Google calls Sensor hub. It's used for sensor data processing and allows your phone to monitor sensor data thus offloading the main processor and enabling stuff such as activity recognition or gesture recognition with a minimal power overhead all while your phone's screen is off. For instance, this motion co-processor detects that you pick up the phone and activates the Ambient display.</paragraph>
+			<paragraph>The Nexus 6P is built by Huawei and is the premium model, which is reflected in its pricing and specifications. It's more compact than the Motorola-built Nexus 6 (5.96" AMOLED) and upgrades to a 64-bit processor (a refreshed Snapdragon 810 chipset). The other major changes are the fingerprint reader and the reversible USB Type-C connector.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nexus 6P by Huawei at a glance:<subsectionTitle>
+			<paragraph>LG sat out last year's Nexus refresh and so the new model brings more significant improvements. The larger screen is just the start; the camera goes up in photo resolution and joins the 2160p race and the battery has also been given a needed bump. The fingerprint sensor and Type-C connector are on board too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nexus 5X by LG at a glance<subsectionTitle>
+			<paragraph>Google also unveiled the Pixel C tablet - and Android device, not Chrome OS! - along with a new Chromecast plus Chromecast Audio. Unfortunately, the tablet wasn't around for some hands-on action.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nexus 6P hands-on<subsectionTitle>
+			<paragraph>P is for phablet, and it's Google's second one. The company stepped back from the massive 6" screen and repositioned the Nexus 6P closer to the Galaxy Note5 and iPhone 6 Plus competition with a 5.7" screen. It's an AMOLED with QHD resolution, putting it even closer to the Note5 (and pleasing AMOLED aficionados everywhere).</paragraph>
+			<paragraph>The Nexus 6P features a metal unibody (a first for a Nexus), which contributes to its premium looks. It's thin too, 7.3mm, noticeably thinner than the Moto Nexus. It's slightly taller than an iPhone 6 Plus (5.5" screen), which is quite impressive when you remember the two front-facing speakers flanking the screen.</paragraph>
+			<paragraph>What's best about it however is how amazingly light it feels for such a big phone.</paragraph>
+			<paragraph>A new addition is the fingerprint reader. It's on the back, which many will find more comfortable to use - reaching it with your index finger feels very natural. Using other fingers is quite awkward, but you probably won't need to do it anyway.</paragraph>
+			<paragraph>The new fingerprint sensor support is baked into Android Marshmallow and it can be used for authentication by all apps, should their developers decide to enable it. As for unlocking the phone, the fingerprint sensor does its job brilliantly and it's instantaneous even of the screen is off in standby.</paragraph>
+			<paragraph>The Nexus 6P had many worried that the camera hump was excessively big, but it looks very minimal in person. The phone is fairly thin and the hump doesn't add much to that.</paragraph>
+			<paragraph>The camera itself is a more serious effort with special attention to low-light shooting. The 12.3MP sensor bets on large pixels, 1.55µm, wide aperture, f/2.0, and Laser autofocus. Optical image stabilization has been cut. It does have a dual-LED flash (but none of Motorola's ring flash gimmick). The camera also records 2160p 4K video.</paragraph>
+			<paragraph>The front-facing camera on the bigger Nexus phone is a 8MP unit with 1.4µm pixels and an f/2.2 lens and it also records 1080p video.</paragraph>
+			<paragraph>The new phablet has a very good battery capacity for its size. It packs a bit more juice than its predecessor and a 450mAh more than the Note5. The phone supports Quick charging and it's supposed to last some good 8 hours extra after as little as a 10-minute top up.</paragraph>
+			<paragraph>Google has done more to improve the battery life too. The new Doze feature is aptly named - the longer the phone is inactive, the less often it allows apps to do background updates. That means that at night there will be little power draw (you won't notice the updates anyway). The feature is called "doze" rather than "sleep" since the phone is quick to come out of Doze mode and reach full performance.</paragraph>
+			<paragraph>Check out some camera samples from the new Nexus 6P camera.</paragraph>
+			<paragraph>The comparison to Motorola's Nexus 6 is unavoidable, especially since the price for that one was cut to $500. The fingerprint functionality is great as consumers become more and more concerned about privacy protection and people who have been clamoring for a premium Nexus will enjoy the metal unibody. The new GPU will have a positive effect on gaming too.</paragraph>
+			<paragraph>Here's a quick list of wins the Nexus 6P scores over its predecessor, keep in mind the Moto can be had for $350 (and that we may see further price drops for the old model when the new one hits the shelves).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nexus 6P vs. Nexus 6:<subsectionTitle>
+			<paragraph>The formerly Google-owned Motorola recently launched the Moto X Pure Edition, one of the best "value for money" phones thanks to its $400 price point and advanced features (it's essentially the US name for the Moto X Style).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nexus 6P vs. Moto X Pure Edition<subsectionTitle>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nexus 5X hands-on<subsectionTitle>
+			<paragraph>While current Nexus 6 owners may be cautiously wondering if the upgrade is worth it, Nexus 5 owners have plenty to be excited about. LG returns to build the new-generation 5" Nexus - 5.2" actually - and it brings it up to par with 2015 expectations.</paragraph>
+			<paragraph>True, it's a bit late to win the flagship game, but they've kept it aggressively priced against the various "flagship killers" coming from young companies. Also, it comes at just the right time for people looking to upgrade from their 2013 Nexus 5.</paragraph>
+			<paragraph>With a competitive price tag, LG and Google settled on a polycarbonate unibody. The phone has grown taller than its 5" predecessor. Unlike the 6P the Nexus 5X can't point to stereo speakers as the reason for the size increase. Nevertheless, it feels amazingly light and thin.</paragraph>
+			<paragraph>The camera has moved to the centerline on the back and it sits on a slight hump. Since it's only the camera lens rather than a ridge like on the Nexus 6P, it's not much of a bother.</paragraph>
+			<paragraph>The focus on low-light shooting continues with the Laser autofocus. Specs-wise, the camera is quite like the one on the 6P - a big update over the old Nexus 5 though we still don't understand why they cut OIS. The camera can record 2160p 4K video as well. The front snapper however is only 5MP instead of 8MP.</paragraph>
+			<paragraph>The fingerprint reader is below the camera and it's paired with Google's new security software. Until now makers had to implement their own APIs for fingerprint readers, but now that Android supports them natively we may see wide-spread adoption by developers. To start it will be used to secure Android Pay and Google Play transactions.</paragraph>
+			<paragraph>The old Nexus punched above its weight with a Snapdragon 800, the new one moves into the 64-bit computing era with a Snapdragon 808. The chipset was chosen by LG for its G4 flagship too and in certain circumstances it gets within striking distance of the more powerful 810. Either way, compared to the old model there will be a definite speed bump, especially in graphics. The RAM stays at 2GB, though, which is a little disappointing.</paragraph>
+			<paragraph>The 808 is built on a more advanced process (20nm vs. 28nm) and it has CPU cores designed specifically for low-power use. Combined with Doze we expect to see improved battery life - the 2,700mAh battery helps too. Let's be honest, the old Nexus 5 was never known for its great battery life.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nexus 5X vs. Nexus 5<subsectionTitle>
+			<paragraph>We snagged a few camera samples with the Nexus 5X.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Nexus 6P and 5X video hands-on<subsectionTitle>
+			<paragraph>We had a bit of face time with both the Google Nexus 6P and 5X at the event and put together a quick hands-on with both.</paragraph>
+			<paragraph>Undoubtedly the bigger announcement today (literally and figuratively) was the Huawei-made Nexus 6P. Here it is in front of the camera.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>While not the specs champ of its bigger counterpart the LG-made Nexus 5X was just as anticipated by diehard Nexus 5 fans long overdue for an upgrade. Here goes the LG Nexus 5X hands-on.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+</review>

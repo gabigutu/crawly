@@ -1,0 +1,170 @@
+<review>
+	<title>iOS for beginners</title>
+	<description>Setting up your iPhone</description>
+	<link>http://www.gsmarena.com/set_up_your_iphone-review-867.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Love it or loathe it, Apple's smartphone remains a desirable piece of tech for many. And whether you have it, are saving to get one, or looking for reasons not to, it's important to find out what makes it stand apart.</paragraph>
+			<paragraph>There are several aspects of a smartphone that shouldn't be overlooked while contemplating a purchase. We all love the big screen, the resolution, the processing power and, so Apple of them, the brilliant design, but that doesn't paint the full picture.</paragraph>
+			<paragraph>Captivated by the looks, we forget that it is also a small personal computer capable of much more than it says on the tin. Easing into your daily routine, it will help you get organized or create cool content - music, home movies, and art - and turn those long flights into hours of fun.</paragraph>
+			<paragraph>At this point, choosing a smartphone is a choice between ecosystems. And despite some self-imposed limitations, iOS currently has the richest catalog of content and the joint best apps selection in the handheld game.</paragraph>
+			<paragraph>A smartphone purchase also leads to investments in apps and with them - services. It's important to make the right choice at the right time, because what you get is likely to stick with you for a while. It's kind of like choosing between Nikon and Canon, only in this case you cannot sell your entire kit and jump ship.</paragraph>
+			<paragraph>What type of user are you? Where do you come from? Are you a newcomer to the smartphone game entirely, or an iPhone veteran just getting the latest generation? And finally, are you coming from another smartphone platform? If that's the case we're guessing you gave Android a go and just didn't feel at home. If you fall into any of the categories above, then this guide is exactly what you're looking for in your increasingly connected lifestyle.</paragraph>
+			<paragraph>As we delve into this review we're going to share some of our knowledge, tell you how to set up your iPhone the right way, and give you a starting point for the apps you should try and why. We'll get into jailbreaking and why it can be helpful or hurtful, and tell you how to squeeze the most out of your smartphone so it's much more than a style statement.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Setting up your sync and backup<subsectionTitle>
+			<paragraph>If you're coming from a device that stores contacts and organizational data locally then you'll need to do some work for your iPhone to feel like your own. If you're coming from an Android device then don't sweat it as all of your contacts are waiting for you just a username and password away.</paragraph>
+			<paragraph>Activating your iPhone used to be a tedious task prior to iOS 5 - it just couldn't be done without a computer at hand. Now things are a whole lot easier. You just start up the device, hook it up to a Wi-Fi network and type in your desired Apple ID, select whether to have Location services on and the feature that helps you recover the device in case you misplace it - Find My iPhone.</paragraph>
+			<paragraph>Apple's restore feature is outstanding - once you've synced your device with iTunes and now iCloud then you'll have the same phone you've always had after you've restored it. iCloud and iTunes restore your text messages, apps, mail, photos (optional), settings and just about everything you can think of. Think of the iPhone as a hardware holster for your organized software clutter. It's something not many Android devices offer and something stock Android hasn't gotten around to feature.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Importing and exporting files to or from apps<subsectionTitle>
+			<paragraph>The iPhone doesn't allow access to its file system (apart from photos) but many apps have a drag and drop feature, which can be accessed through iTunes.</paragraph>
+			<paragraph>Filer for instance is an all-round multi-purpose app with a file explorer and manager and a wide range of supported formats. It can open Word, Excel, archive files (ZIP, TAR, RAR), mp3s, etc.</paragraph>
+			<paragraph>If you want to upload files to an app like Filer you need to plug the iPhone into iTunes and open up Apps. Scrolling down will reveal all apps with local storage, which you can access. You can then drag stuff from any given folder on your PC and drop them into Filer.</paragraph>
+			<paragraph>Here's how to get custom ringtones onto your iPhone if you're not keen on buying them directly from iTunes (let's face it, no one is).</paragraph>
+			<paragraph>Download an app which can create iPhone ringtone files (either on your PC or the phone itself). iRingtones is a good choice as it has a clean interface and can create both ringtones and message tones. Once you've cropped your desired ringtone hook the iPhone up to iTunes and open up the iRingtones app in Apps. Inside you'll find the files you need, ready for export.</paragraph>
+			<paragraph>The iPhone cannot directly communicate with the app's storage so you'll need to export the ringtones to your PC and then import them to iTunes. From there you can load them on the iPhone itself and select them from the menu.</paragraph>
+			<paragraph>Download Filer</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Multimedia<subsectionTitle>
+			<paragraph>Speaking of iTunes, it is the place to go to get your movies, pictures and music into the iPhone. We've held a grudge against this totalitarian way of uploading content for eons now, but seeing as how Apple doesn't look intent on changing it we're just going to postpone the rant for another time or place.</paragraph>
+			<paragraph>Once you've hooked up the iPhone to iTunes and gotten around to uploading your music, it's important to select one of two settings - 'Manually manage music' and videos if you want to selectively create a music library in iTunes from which to upload, or 'Sync only checked songs and videos' if you want iTunes to organize your music library but still prefer to keep the right to upload only the stuff you like.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contacts<subsectionTitle>
+			<paragraph>Next come contacts - here you'll need to decide which online service you want to keep an eye on your address book. If you're used to syncing your contacts with Google or Microsoft's Outlook then you'll need to set up either an Exchange or Google account on your iPhone.</paragraph>
+			<paragraph>You can do this through Mail, Contacts, Calendars in the settings menu.</paragraph>
+			<paragraph>Of course you can also use the less popular AOL, Yahoo or Hotmail accounts too.</paragraph>
+			<paragraph>You can always set up more than one account with which to sync your contacts, like for example with iCloud and Exchange. You can also have those accounts present but opt out of syncing your contacts with either service.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Calendar<subsectionTitle>
+			<paragraph>Calendar works in the same way as your contacts do. You can choose with which account you want to sync the Calendar, and when creating an event you can choose the Calendar it's saved to. You can even preselect the type of Calendar. For instance the default Calendar can feature different labels - Home, Work, Birthdays, etc. and you can even select what colors those will be - purple for birthdays, blue for work, etc.</paragraph>
+			<paragraph>Once you've gotten used to the color-coded layout it's easier to keep track of your duties, both leisure and professional ones. iDevices even allow you to share your calendars with different people. For example, you can share your work schedule with your loved one so those dinner plans can be easily synchronized between one another.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other sync services<subsectionTitle>
+			<paragraph>Nowadays users get to choose between so many different services for keeping their files at arm's length. If iCloud isn't your thing the iPhone gives you access to Google Drive, Dropbox, Microsoft SkyDrive, SugarSync, etc. So, if you've invested in a paid storage plan with any of the above-mentioned services than the iPhone will still let you use them. But there's a catch. If you choose to sync files with a service other than iCloud, Apple's restrictive filesystem will only grant limited access to your local storage.</paragraph>
+			<paragraph>On Android devices Dropbox can immediately upload a photo after you've taken it, while on the iPhone it can only be done once you've opened the app itself. In other words it won't run automatically .</paragraph>
+			<paragraph>The same goes for integration. If you download a PDF file on the iPhone and try to open it the iPhone will oblige through its default app - either iBooks or Mail. Even if you have Adove Reader, Dropbox, Google Drive or some sort of Office app the iPhone won't recognize it can open the said file and will disregard it entirely.</paragraph>
+			<paragraph>To open a PDF file through Dropbox you'd need to go to the app and open it through there.</paragraph>
+			<paragraph>It's annoying but it's the Apple way - get over it or move on to a more open operating system.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Accessories<subsectionTitle>
+			<paragraph>Apple products are among the most accessorized devices in the mobile game. The market is flooded with cases, bumpers, battery packs, screen protectors, satnav car holders, Bluetooth dongles, hands-frees, radio, audio docks, and many more.</paragraph>
+			<paragraph>On one hand given the iPhone's high price tag and relatively high resale value it's important to keep it in as good condition as possible. On the other design is on of the most important assets of the smartphone, so concealing it is not that great of an idea.</paragraph>
+			<paragraph>Depending on which side of the barrier your stand on , you can get all sorts of protection, which is both useful and stylish. A bumper is great because it doesn't mask the phone's beautiful front and back and still allows you to lay it flat on any surface without worrying it will get scuffed and scratched.</paragraph>
+			<paragraph>The iPhone is also popular with audiophiles as it offers high-quality output and, depending on the storage option, ample room for music. The bundled earphones aren't the best way to the experience the iPhone audio talents, so if music playback's your thing, we suggest investing in a proper headphone set.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Setting up your Springboard<subsectionTitle>
+			<paragraph>The iPhone's homescreen is called Springboard and it's the place (read: the only place) where you'll see your apps - there isn't a menu here like on Android.</paragraph>
+			<paragraph>Also, the iPhone's homescreen will prevent you from leaving blank spaces between your icons - they will always appear as if magnetically strapped together. You can change this by jailbreaking and using one of the various hacks.</paragraph>
+			<paragraph>You should always try to maximize space on your iPhone's homescreen so that you have access to the most apps without the need to perform endless scrolls from left to right. Try organizing your apps into folders as well and keep them as upfront as possible so they're always within reach.</paragraph>
+			<paragraph>The iPhone has four docked icons at the bottom of the screen - those won't move no matter which homescreen you've landed on. You can place folders on the dock too, something not everyone knows. This means that instead of the four icons you can have almost as many as you want down there, hassle and jailbreak-free.</paragraph>
+			<paragraph>Apple isn't big on stuffing the iPhone with bloatware but it does have an annoying Stocks app that you have to live with. Seriously, who uses that? Ok, moving right along, smile and wave boys!</paragraph>
+			<paragraph>Built-in apps cannot be deleted however there is a way to hide unwanted ones from your homescreen. This trick doesn't require a jailbreak but will lose effect whenever you reboot your iDevice. Open up http://rag3hack.no-ip.org/ from your iPhone and tap the Hide Apps without Jailbreak bit. Then you have to choose the apps you want to hide and install a new app certificate. After the installation fails (breathe, it's supposed to happen), tap done.</paragraph>
+			<paragraph>Now all you have to do to hide the previously marked apps is to enter app jiggle mode by holding down an icon and find the apps you want to hide. They will appear blank and hitting the X will hide them until the next reboot. Pretty nifty.</paragraph>
+			<paragraph>If you're the untrusting type that doubts Apple's signal bars ever since the whole Antennagate debacle there is a way to get the device to tell the truth and nothing but. You'll need to dial and call *3001#12345#* - thus you'll enter Field Test mode. Notice how the signal bars are now replaced by dBm figures.</paragraph>
+			<paragraph>Now if you want the setting to stick you'll need to hold down the power button until the Slide to power off pops up at the top of your screen. Now hold down the home button until the phone exits the app and goes back to the homescreen. It still works! And even better a tap on the signal will quickly toggle between signal bars and decibels.</paragraph>
+			<paragraph>If you want to reverse the changes just dial *3001#12345#* once again and press the home button once.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Apps you should check out<subsectionTitle>
+			<paragraph>We'll now delve into the apps you should definitely have, as well as those worth having either way. The Apple App Store is full of apps for just about every occasion with most of the popular services duly covered.</paragraph>
+			<paragraph>The iPhone has many traits that the OS itself doesn't exploit fully. For instance the flashlight can be used for more than just nighttime photography, the built-in GPS receiver can turn it into a full-fledged nav unit, various apps can make the device a full-featured phrasebook with built-in POI search, etc.</paragraph>
+			<paragraph>And it's our job now to highlight the most used and useful apps you can find that will turn your iPhone into a more capable tool and not just a smartphone.</paragraph>
+			<paragraph>There are many flashlight apps on the App Store. We find Flashlight to be one of the best. You can adjust the brightness of the light and toggle between a constant beam and a strobe.</paragraph>
+			<paragraph>Download Flashlight</paragraph>
+			<paragraph>Naturally you should get the official Facebook app if you're the social media buff. It's also natively integrated with the OS so you can post on Facebook through Siri, the notification area and many apps. You can also post photos, and your Facebook contacts can be integrated into iOS as well.</paragraph>
+			<paragraph>Download Facebook</paragraph>
+			<paragraph>Twitter was the first social tool to receive iOS integration. You can tweet from apps, upload photos, ask Siri to tweet for you and the app itself is well designed and fast. If you want a Twitter experience that even the service itself can't give you you should try Tweetcaster. It lets you organize your Twitter feed into lists (e.g. Technology, Social, Friends, etc.), tweet and post to Facebook simultaneously, organize two accounts at once, and more.</paragraph>
+			<paragraph>Download Twitter | Tweetcaster</paragraph>
+			<paragraph>Viber is a cross-platform app that gives you the chance to text and call anyone using the service over an internet connection so those huge phone bills can be cut down significantly. Since recently WhatsApp is also free on the iPhone - the app lets you text only but has a more customizable experience than Viber and is generally a bit more reliable.</paragraph>
+			<paragraph>Download Viber | WhatsApp</paragraph>
+			<paragraph>Skype is a quite self explanatory - everybody and their grandmother is using the service, it's free and besides text you can call other people and even regular phones (the last one is paid for, though). The app now features ads, which sucks but we'll still take it for video calling over everything besides FaceTime.</paragraph>
+			<paragraph>Download Skype</paragraph>
+			<paragraph>iOS Reminders is a pretty decent app but lacks true online syncing - iCloud.com doesn't really count. With Any.DO you can set up and organize your reminders with ease. It has voice recognition (so you don't always have to type), put different reminders into folders, take notes, view notes in calendar mode set up a location-based reminder, etc.</paragraph>
+			<paragraph>Download Any.DO</paragraph>
+			<paragraph>The iOS built-in Notes app is pretty simple to use and syncs with iCloud, meaning your notes are available on all iCloud-supported Apple devices. But if that's not enough for you Evernote is a pretty safe bet. It's cross-platform and even has a PC app. But if you want the full set of services you'd need to either go for the $5 a month or $45 a year subscription or choose Springpad, which doesn't disappoint feature-wise and is free.</paragraph>
+			<paragraph>Download Evernote | Springpad</paragraph>
+			<paragraph>Apple's Maps aren't all bad (just mostly) but they are still no match for Google's offering of the same name. They offer voice-guided navigation in many countries around the world, have the best points of interest database possible and offer the awesome virtual tour view dubbed Street View.</paragraph>
+			<paragraph>Download Google Maps</paragraph>
+			<paragraph>Apple have never put much emphasis on a built-in FM radio receiver in their products and naturally the iPhone doesn't have one. But that doesn't mean you should enjoy internet radio where you have coverage. TuneIn Radio is a great app with location-based search and thousands upon thousands of stations readily available. The free version comes with ads, though, so if you can't stand those and don't want to cash in you can give Slacker Radio a look.</paragraph>
+			<paragraph>Download TuneIn Radio | Slacker Radio</paragraph>
+			<paragraph>Dropbox, SkyDrive and Google Drive are all good cross-platform substitutes to the solely-iOS iCloud service.</paragraph>
+			<paragraph>Download Dropbox | SkyDrive | Google Drive</paragraph>
+			<paragraph>If you're listening to a song and don't know who's it is SoundHound and Shazam have got your back. Both apps have free versions and both integrate with iTunes so upon finding a track you're immediately presented with the link to go and purchase it.</paragraph>
+			<paragraph>Download SoundHound | Shazam</paragraph>
+			<paragraph>We've already mentioned iRingtone- it helps crop your music into 40 second ringtones. It's free and does the job well.</paragraph>
+			<paragraph>Download iRingtone</paragraph>
+			<paragraph>The YouTube app was among the first built-in services on the pioneer iPhone 2G but has since been pulled and re-released. It features the richest collection of videos the World Wide Web has ever seen. If you're into more artsy videos you can also try out Vimeo.</paragraph>
+			<paragraph>Download YouTube | Vimeo</paragraph>
+			<paragraph>The Internet Movie database (IMDb) is the Wikipedia for films and TV shows. The app is nice and basically a revamped mobile version of the full-fledged IMDb website.</paragraph>
+			<paragraph>Download IMDb</paragraph>
+			<paragraph>Pocket (Formerly Read it Later)is an awesome service that lets you save articles, videos or otherwise everything online for later.</paragraph>
+			<paragraph>Download Pocket (Formerly Read it Later)</paragraph>
+			<paragraph>Scan is the way to go if there's a barcode or QR code that need scanning. It's free and a must-have app in the progressively-digital world we're living in.</paragraph>
+			<paragraph>Download Scan</paragraph>
+			<paragraph>Finding places around you is very important, especially if you live in a larger city. Google (once again) has your back. Formerly Places is now called Google+ Local. Yelp is another popular app for POIs and it's integrated into Apple Maps.</paragraph>
+			<paragraph>Download Goole+ Local | Yelp</paragraph>
+			<paragraph>LogMeIn and TeamViewer are both great apps if you want to communicate remotely with a PC. It's great for those moments when grandpa and grandma need Skype set up on their PC and you happen to be on the other side of the world.</paragraph>
+			<paragraph>Download TeamViewer | LogMeIn</paragraph>
+			<paragraph>Epicurious is an app filled with recipes. It contains pictures, tutorials and can give you great and fast recipes for every occasion.</paragraph>
+			<paragraph>Download Epicurious</paragraph>
+			<paragraph>Apps like Flipboard and Pulse can organize the internet's clutter into a more beautiful interface and help you browse the articles around the web without the banners and unnecessary distractions. Flipboard gets points for being among the most easy to use and beautiful apps available on a smartphone or tablet and Pulse gets its points for being as organized as you'd ever need to be.</paragraph>
+			<paragraph>Download Flipboard | Pulse</paragraph>
+			<paragraph>If you're into cameraphone photography the App Store is filled to the rafters with viable replacement apps for the sort off limited default Camera on iOS. We found Top Camera's slow shutter to be excellent and HDR 3 to cover the most needs. Camera Awesome is great too as it's free and gives the option to separate focus and exposure points (Top Camera does it too, but for a fee). Panoramatic is a replacement for the built-in Panorama mode on iPhone. You can shoot panoramas in either landscape or portrait and the exported files are BMPs instead of the lower image info JPG.</paragraph>
+			<paragraph>iLapse can create time lapse movies, which are incredible fun once you get past the pesky set up procedure.</paragraph>
+			<paragraph>Download Top Camera | HDR 3 | Camera Awesome | Panoramatic | iLapse</paragraph>
+			<paragraph>If photo editing's your thing then Snapseed is a good way to go. It offers an Auto Correct option and various filters. It's also free at the moment. For a more professional approach to editing and photo organizing you can turn to the paid (and Apple-made) iPhoto. It's an excellent app with support for images of up to 36 MP resolution.</paragraph>
+			<paragraph>Download Snapseed | iPhoto</paragraph>
+			<paragraph>Safari isn't the best browser on the iPhone anymore. If you don't own a Mac then you probably don't use iCloud to sync your opened pages across devices. You can do this with Chrome for iPhone, which is also very fast and offers an intuitive swipe interface that outclasses Safari in every way.</paragraph>
+			<paragraph>Download Chrome</paragraph>
+			<paragraph>iOS Mail has gone a long way but if you're looking for that extra mile than you should check out Sparrow. It's beautiful, has a swipe-driven interface and more intuitive than iOS Mail and it has all the important features like Unified Mailbox, IMAP and POP support, attachments, etc.</paragraph>
+			<paragraph>Download Sparrow</paragraph>
+			<paragraph>Think of the App Store as a marketplace with constant discounts. It's a mess to search each time to see if an app has received a price cut a discount or, better yet, gone free for a day or two. AppTicker can do this for you. Just choose the games you want to keep an eye out and AppTicker will even notify you should the game pass a preset threshold or become free.</paragraph>
+			<paragraph>Download AppTicker</paragraph>
+			<paragraph>There are many more apps around that are worth a look, but we felt these are among those most worth having.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Jailbreaking - yay or nay<subsectionTitle>
+			<paragraph>Jailbreaking can unleash a lot of the iPhone hidden potential. It can even turn it into a whole other device that looks and feels like a Windows Phone or, if you're that mischievous, Android.</paragraph>
+			<paragraph>But jailbreaking your iPhone has its consequences and Apple is doing whatever it can to prevent devs from hacking their software and hardware. They've gone as far as to void your warranty if they catch you red handed.</paragraph>
+			<paragraph>What essentially is jailbreaking then? What types of jailbreak are there?</paragraph>
+			<paragraph>Jailbreaking is granting the user full access to the file system and the ability to modify and change various settings, functions and looks of the entire package (read hardware and software combo). There are two types of jailbreak - tethered and untethered.</paragraph>
+			<paragraph>Tethered means that a jailbroken device will only remain that way until the next reboot, in which case you'll have to "tether" it (hook it up to a computer) again. An untethered jailbreak means that even if you've rebooted your device the jailbreak will stick.</paragraph>
+			<paragraph>Jailbreaking has been done for many years now and is the main byproduct of Apple being as closed as it is. Many people do it to change the appearance of the OS or to make up for all the software shortcomings it has.</paragraph>
+			<paragraph>For instance if you want quick toggles for Wi-Fi, Bluetooh, Mobile Data, etc. when you swipe down the notification area like you would have on so many Android smartphones, jailbreaking is the way to go. If you want to change the look of your icons, or use the volume keys to change songs via a long press you can do it through jailbreaking.</paragraph>
+			<paragraph>It's not the easiest thing to do and there are risks - for instance bricking your device isn't impossible, though not as easy as on Android. And unlike Android jailbreaking isn't so tightly related to boosting performance - that's much harder to do on an iPhone. More often than not jailbreaking will actually slow down the iPhone instead of speeding it up. And there is the issue with downgraded battery performance too as the OS becomes loaded on additional software.</paragraph>
+			<paragraph>It's also common for jailbroken iPhones to not restore properly, meaning loss of valuable data.</paragraph>
+			<paragraph>But the benefits are all there. By jailbreaking the iPhone you could turn it into pretty much anything you wish, overriding many (if not all) of the pesky limitations Apple (and some regional carriers) impose on it.</paragraph>
+			<paragraph>Currently the iPhone 5 remains out of the dev community's reach as Apple has tightened its security more than ever. Also every iOS 6 version released closes all the loopholes that developers exploit so its very hard for the iPhone 5 to be jailbroken.</paragraph>
+			<paragraph>iOS 6 on the iPhone 4S is almost as hard too. Currently iOS 6 cannot be jailbroken on A5-powered devices, meaning the iPhone 4S, iPad 2 and 3 are a no go.</paragraph>
+			<paragraph>If you're running your iPhone 4S on iOS 5 then you can gain an untethered jailbreak via a tool dubbed Absinthe. Here's a tutorial for just that.</paragraph>
+			<paragraph>The iPhone 4 is more privileged due to its A4 chipset. It can be jailbroken untethered on iOS 5 and below and there is a tethered option for iOS 6. Here's another tutorial using Redsn0w to jailbreak A4 devices running iOS 6.</paragraph>
+			<paragraph>For those of you wanting SBSettings and the likes on your precious new 4" Retina iPhone 5 you'll just have to wait. Sooner or later the developer community will be able to crack Apple's defenses, even if only for a tethered jailbreak.</paragraph>
+			<paragraph>So to sum up - if you're the tinkerer and not the quiet user then jailbreaking is something worth trying. It's not easy but it will open up all the doors for you to overhaul your tech and turn it into something much more powerful than Apple intended.</paragraph>
+			<paragraph>But if you'd rather not take the risk and instead are used to just operating your smartphone the way Tim Cook and company have always intended it to be operated, then move along.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We don't think of ourselves as the only ones that know their way around an iPhone but we do have quite a lot of experience with it so hopefully we've found a few things that you weren't aware of so and made this article useful to you.</paragraph>
+			<paragraph>The iPhone is an incredible piece of technology, and there's tons of things you can do with it in addition to what's shown in this guide. We hope that we were able to open some doors, and maybe even open some minds as to what's possible, and urge you to explore and share what you find with us.</paragraph>
+			<paragraph>Who knows perhaps in a couple of years we'll revisit this article and things will look a lot different, thanks to you.</paragraph>
+		</subsection>
+	</page>
+</review>

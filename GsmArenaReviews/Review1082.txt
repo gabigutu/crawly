@@ -1,0 +1,97 @@
+<review>
+	<title>HTC DROID DNA preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/htc_droid_dna-review-849.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>HTC is having a hard time competing at the highest level of the smartphone market lately, but its latest smartphone might be what was needed to turn the tables. The all-caps name of the HTC DROID DNA is, for once, well deserved as this is certainly one of the most exciting smartphones we have seen lately.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>On paper the DROID DNA is the strongest candidate for the smartphone of the season title.</paragraph>
+			<paragraph>The defining feature of the DROID DNA is the 1080p resolution of the display - that's over double the pixels of an HD screen. This pushes the pixel density to the insane 440ppi, leaving the 326ppi Retina display in the dust.</paragraph>
+			<paragraph>The 5" screen of the HTC DROID DNA uses Super LCD 3 tech - the One X used the previous generation of this tech, so we expect nothing but the best. We'll be taking a closer look at it soon enough as we're at HTC and Verizon's New York event.</paragraph>
+			<paragraph>The rest of the phone is nothing to frown at either - it's powered by the same Snapdragon S4 Pro chipset as the Google Nexus 4, which has four Krait cores, 2GB RAM and Adreno 320 on board. It has wireless charging too.</paragraph>
+			<paragraph>Two crucial differences between the DNA and the Nexus (aside from the screen, of course) are the LTE connectivity, supported by the Verizon 4G network.</paragraph>
+			<paragraph>HTC didn't stop there - they added some of their signature features to the phone. Sure, the latest Sense UI is present, on top of Android 4.1 Jelly Bean, but there's also the 8MP camera with F/2.0 aperture and ImageChip (which handles the advanced camera features) and Beats Audio with their 2.55v amplifier.</paragraph>
+			<paragraph>The only worry is that all of this is running off a 2,020mAh battery, which is smaller than what the HTC One X+ got.</paragraph>
+			<paragraph>There will be a lot to test when the HTC DROID DNA gets in our lab, but we'll start with an on-site hands-on. Stay tuned - the live photos garnished with our first impressions should appear on the following pages shortly.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC DROID DNA hands-on<subsectionTitle>
+			<paragraph>The HTC DROID DNA is the company's first 5" Android smartphone - it can almost qualify as a phablet. Still, the designers and engineers have taken care to keep the device as compact as the monstrous screen allows, reducing the bezel size to a minimum.</paragraph>
+			<paragraph>The screen is nothing short of amazing. The lighting in the event room isn't perfect, but we're impressed by what we're seeing. The One X screen was one of the best we've seen, but this one is even better. And it's not just the pixel count (though that certainly helps a great deal) - the new Super LCD3 tech seems to provide even nicer colors.</paragraph>
+			<paragraph>The bezel around the 5" screen is as skinny as it gets (especially on the left and right) and as a result, the phone isn't much bigger than the One X. The DROID DNA is also very light in the hand, virtually the same weight as the former flagship.</paragraph>
+			<paragraph>The DROID DNA is slightly thicker than its predecessor though - 9.7mm vs. 8.9mm - but the body shape with tapered edges successfully hides that extra girth. The back has a soft plastic feel, similar to the polycarbonate designs we've seen from HTC recently.</paragraph>
+			<paragraph>Something that sets it apart are the red strips that runs on either side of the phone. The red accents are present on other parts of the smartphone like the red Power/Lock key on top, the red ring around the camera at the back and the red earpiece strip. The three capacitive keys below the display are white though, unlike the One X+ keys.</paragraph>
+			<paragraph>By the way, the red strips on the side of the phone have a grill-like pattern, but do not actually cover loudspeakers. The DROID DNA has two amps built in - one for the headset jack and one for the loudspeaker (which is on the back).</paragraph>
+			<paragraph>The microUSB port on the bottom of the HTC DROID DNA is covered with a small plastic cover, but the 3.5mm audio jack is left exposed.</paragraph>
+			<paragraph>Sadly, there's no microSD card slot on board the DROID DNA so you are limited to the 16GB of preinstalled storage the smartphone comes with. You should also keep in mind that only 11GB of those are user-available, so it might get tight faster than you expect.</paragraph>
+			<paragraph>The HTC DROID DNA results await you on the next page. Also make sure to stop by Page 5 for more high quality photos of the smartphone from our studio.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC DROID DNA benchmark performance<subsectionTitle>
+			<paragraph>We managed our usual set of benchmarks on the HTC DROID DNA and its Snapdragon S4 Pro chipset. We were curious to see how the four Krait cores and the Adreno 320 GPU handle the FullHD screen resolution.</paragraph>
+			<paragraph>We started with the BenchmarkPi test, which reflects per-core CPU performance. As expected the Krait architecture helped the DROID DNA beat its quad-core rivals. More impressively, though, it managed to beat the LG Optimus G despite packing identical CPU cores as the LG flagship.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Linpack is another CPU-testing benchmark, but it supports multi-threading and thus brings a better idea of the quad-core architecture overall processing power. Here the HTC DROID DNA lost to the Optimus G by a very small margin, but blew the rest of the competitors out of the water.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Quadrant benchmark tries to evaluate the overall processing power of the chipset - CPU, GPU and memory performance. The HTC DROID DNA managed to top the competition here, which is a really impressive achievement given that its screen resolution poses a bigger challenge to the graphical power.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The HTC DROID DNA didn?t do as well in AnTuTu, which is our other all-round benchmark. The smartphone did beat the LG Optimus G, but came behind the rest of the quad-core top dogs .</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The 3D graphics department is handled by the Adreno 320 GPU. The first test we ran was NenaMark 2, but just like its competitors the HTC DROID DNA managed to hit the 60fps limit of the screen, rendering the results moot. GLBenchmark let us get a better idea of the graphics power of the DROID DNA ? the smartphone got the highest score of any smartphone we have tested so far. Given that its screen resolution is much higher than its competitors, though it?s can?t compete as successfully in on-screen tests.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The HTC DROID DNA is a stunning performer and while it doesn't have the graphics power advantage to fully compensate for it vastly higher screen resolution that shouldn't be an issue in most of the real-life scenarios.</paragraph>
+			<paragraph>We'll take a closer look at the HTC DROID DNA camera capabilities after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera and video recording<subsectionTitle>
+			<paragraph>We were able to take the HTC DROID DNA camera out for a spin and see if the beastly smartphone can also double as a proper cameraphone. The 8MP camera of the smartphone is operated in a way very similar to that of the HTC One X+, which we just reviewed.</paragraph>
+			<paragraph>This means that the still camera and the camcorder interface share the same screen with the two shutter keys located on the right side.</paragraph>
+			<paragraph>The image quality of the HTC DROID DNA still shots wasn?t all that different from the HTC One X+ either. The noise levels are moderately high and the resolved detail is good, if unspectacular. The color reproduction seems slightly better on the DROID DNA though.</paragraph>
+			<paragraph>Here go the samples so you can judge them for yourselves. Keep in mind that the conditions aren?t as good as they usually are on our samples photos as the weather was pretty cloudy today.</paragraph>
+			<paragraph>Video recording turned out to be the better part of the HTC DROID DNA camera performance. The 1080p clip we recorded has a solid 30fps framerate and plenty of fine detail. Colors are pretty accurate too, while noise is kept well under control.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC DROID DNA studio shots<subsectionTitle>
+			<paragraph>We were able to bring the HTC DROID DNA back to our studio where we managed to produce some higher-quality photos of the smartphone.</paragraph>
+			<paragraph>We tried hard to zoom in enough to see individual pixels, but on a screen with this kind of density this proved to be impossible.</paragraph>
+			<paragraph>Putting the DROID DNA side by side with the Samsung Galaxy Note II and the Nokia Lumia 920 highlights that HTC has used the available space very efficiently. While we can?t give the Taiwanese company too much credit for making the DROID DNA notably more compact than the Note II, which has a 0.5? larger display, we have to congratulate it for making it about as easy to handle as the Nokia Lumia 920 and its 4.55? screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Here go the rest of the HTC DROID DNA studio photos for you to enjoy<subsectionTitle>
+			<paragraph>And here goes the smartphone in action.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>We really like what we see from the HTC DROID DNA so far. The smartphone is shaping up to be a very well rounded package that has all bases covered (save for expandable storage). What?s even more it has a unique feature in its arsenal that should help make you choose it over any of its powerful rivals.</paragraph>
+			<paragraph>We are, of course, talking about the 1080p screen, which is shaping up to be way more than just a fancy item on the DROID DNA specs sheet. The 440 ppi density might be an overkill, but there?s a visible difference when you compare the screen of the new HTC flagship to the current crop of Android top dogs and their 720p screens. Videos and photos looks really impressive on the S-LCD3 unit and web browsing is taken to a whole new level by the higher pixel count.</paragraph>
+			<paragraph>Let?s hope the great impressions stand by the time we complete our full review of the HTC DROID DNA.</paragraph>
+		</subsection>
+	</page>
+</review>

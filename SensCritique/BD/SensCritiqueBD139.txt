@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Juliette</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Juliette/19548599</link>
+	<generalScore>7.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>27</numberOfVoters>
+		<numberOfVoters>58</numberOfVoters>
+		<numberOfVoters>34</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Juliette</title>
+		<author>arnonaud</author>
+		<date>2016-05-28</date>
+		<score>0.9</score>
+		<content>J'avais entendu du bien de Rosalie Blum (la précédente série de l'autrice) mais je n'avais pas encore pris le temps de me procurer cette oeuvre et de la lire, du coup je découvre le travaille de Camille Jourdy avec cet album et c'est un vrai coup de cœur. Cet ouvrage est une véritable pépite, qui malgré sa forte pagination, se dévore d'une traite. C'est une histoire toute bête de tranche-de-vie, où l'on suit une jeune parisienne qui prend un congé pour retourner voir sa famille dans sa ville natale, et l'on découvre petit à petit tout une galerie de personnages : les membres de sa famille, d'autres habitants du quartier, etc. Et ça forme quasiment un récit chorale où les destinées des uns et des autres s'entrechoquent (même si ça reste surtout concentré sur Juliette, sa sœur et un gars du village, les autres persos demeurent plus secondaires). Ce que j'ai adoré, c'est la justesse avec laquelle Camille Jourdy traite son histoire et ses personnages. C'est rempli de petits détails dans le dessin (les tapisseries, les habits, le look de la ville, les attitudes des personnages...) qui sonnent toujours vrais, et c'est renforcé par un scénar' très ancré dans la réalité, avec des dialogues hyper soignés et une narration qui se permet de prendre le temps de poser des ambiances. Et y a une sincérité qui sort des pages qui est assez folle, ça sonne juste tout le temps, y a pleins de séquences, de petits riens qui sonnent comme des écho plus ou moins prononcés de ce que nous ou nos proches (amis/familles) ont pu vivre, et du coup ça donne une empathie hyper prononcée pour les personnages et l'histoire. En plus c'est plein de poésie et le dessin est super mignon... En outre, c'est pas tout les jours que je lis des histoires avec des protagonistes féminins en personnages principaux, et ça, c'est toujours bienvenue, encore plus quand ça s'intéresse aux mères de famille qui sont à mon avis trop souvent délaissés aux rôles de personnages d'arrière-plan (et c'est bien pour ça que j'avais également adoré Lulu Femme Nue). Bref, excellente surprise. Je m'attendais à quelque chose de bien à la vue de la moyenne SC, mais c'était encore mieux.</content>
+	</review>
+	<review>
+		<title>Juliette</title>
+		<author>MadameBovary</author>
+		<date>2016-04-29</date>
+		<score>0.9</score>
+		<content>Un gros coup de coeur pour cette BD ! C'est très coloré, ça donne du peps, et très régulièrement on quitte le registre de la BD pour entrer dans celui de la peinture. C'est frais, c'est gai, (même si l'histoire ne l'est pas vraiment) et je décerne une mention spéciale au canard ! On reste un peu sur sa faim, sûrement parce qu'il y aura un tome 2...</content>
+	</review>
+	<review>
+		<title>Juliette</title>
+		<author>Médiathèque de Villepinte</author>
+		<date>2016-06-29</date>
+		<score>0.9</score>
+		<content>Juliette quitte Paris pour passer quelques jours avec sa famille. Elle sera confrontée aux souvenirs de son enfance. Un vaudeville familial sous forme de roman graphique. Avis d’Agnès Bajard : Ce qui fait la force de cette auteure, c’est qu’elle arrive à cerner et retranscrire des petits moments de la vie ou du quotidien qui, pris individuellement, paraissent insignifiants mais font pourtant beaucoup et dans lesquels on se retrouve forcément. C’est très juste dans les sentiments décrits, l’atmosphère, le ressenti et le dessin y participe beaucoup. Elle oscille toujours entre humour et mélancolie et ça fait du bien !</content>
+	</review>
+</sensCritiqueEntity>

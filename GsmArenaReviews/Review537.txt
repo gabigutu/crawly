@@ -1,0 +1,51 @@
+<review>
+	<title>Meizu Pro 5 hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/meizu_pro_5_handson-review-1309.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Meizu Pro 5 at a glance:<subsectionTitle>
+			<paragraph>Dimensions: 156.7 x 78 x 7.5 mm, 168g;</paragraph>
+			<paragraph>Display: 5.7-inch AMOLED display, 1920x1080px, 386ppi;</paragraph>
+			<paragraph>Chipset: Samsung Exynos 7420 chipset with a 64-bit 14nm octa-core (A57+A53) CPU, Mali-T760 MP8 GPU, 3GB or 4GB LPDDR4 RAM;</paragraph>
+			<paragraph>OS: Android 5.1 Lollipop; Flyme 5.0</paragraph>
+			<paragraph>Main camera: 21MP Sony IMX230 Exmor RS sensor with phase detection and laser auto-focus; dual-tone dual-LED flash; 2160p video recording;</paragraph>
+			<paragraph>Selfie camera: 5MP fixed-focus camera, 1080p video recording;</paragraph>
+			<paragraph>Storage options: 32GB UFS 2.0 flash storage (3GB RAM) and 64GB UFS 2.0 flash storage (4GB RAM); microSD expansion available on the second SIM slot;</paragraph>
+			<paragraph>Connectivity: Cat. 6 LTE (300Mbps down, 50Mbps up), Dual-SIM, Wi-Fi a/b/g/n/ac, Bluetooth 4.1; USB Type-C 1.0 reversible connector;</paragraph>
+			<paragraph>Misc: Fingerprint sensor; 3,050mAh battery; Fast charging support (mCharge 2.0);</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>At an event held in Beijing, Meizu today announced its new series of flagship devices, the Meizu Pro, and the first phone to be launched under the new series is the Meizu Pro 5. We were able to witness the whole thing in person and here comes our scoop of the event.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Pro 5 represents the very best of what Meizu has to offer right now in terms of both hardware and software. It has a unibody aluminum design, a 5.7-inch FullHD display, an octa-core Samsung Exynos 7420 chipset, a 21 megapixel camera with phase detection and laser autofocus, a fingerprint sensor, and a reversible USB Type-C port.</paragraph>
+			<paragraph>As you can see, the specs list is long and Meizu is definitely shooting high with this one.</paragraph>
+			<paragraph>Join us on the next page where we'll show you what the Meizu Pro 5 looks and feels like.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>There are no two way about that - the Meizu Pro 5 is a big phone. The 5.7-inch display gives it an imposing presence in hand. The screen has a 2.5D glass that curves on the sides into the metal, which has polished chamfered edges.</paragraph>
+			<paragraph>The front of the phone is dominated by the display - it's a 1080p SuperAMOLED display. Meizu mentioned that the advantages of going with a QHD display were outweighed by the disadvantages, namely the performance and battery life penalty, so they decided to stick with 1080p as most people reportedly can?t tell the difference anyway.</paragraph>
+			<paragraph>Seeing the display in person, it?s hard to find fault with that logic as it still looks great, with adequate sharpness and bright, vivid colors that aren?t too saturated as AMOLED displays usually tend to and optimized more for a natural look. Of course, as usual with this sort of things, component pricing plays a great deal in the feature set.</paragraph>
+			<paragraph>As with previous Meizu phones, the Pro 5 does not have traditional back and multitasking buttons. The home button below doubles up as the back button and the fingerprint sensor. You tap the home button for the Back action and you swipe up from the bottom for opening the list of currently running apps.</paragraph>
+			<paragraph>The back and sides are one piece of metal, with antenna strips on the top and bottom. Then there?s the 21 megapixel camera sensor on the back with laser autofocus and LED flash. Below that is the new rounded Meizu logo, which is being introduced with this device.</paragraph>
+			<paragraph>The top of the phone has the headphone jack and at the bottom is the new USB Type-C connector with machined holes for the speaker and microphone.</paragraph>
+			<paragraph>While the design is great, it?s also hard to shake off the undeniable influence of the iPhone 6 design. Unless held side by side, most people would find it hard to distinguish the two phones from the front. Even the little details like the speaker grilles at the bottom and the polished carved out section for the buttons on the side all look heavily inspired. But that has been the case with a lot of phones coming from China.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Flyme OS 4.5 is what skins Android 5.1 below<subsectionTitle>
+			<paragraph>On the software side there wasn?t much to see as the devices were running an early version of the software with Flyme OS 4.5 on top, which we are already familiar with on current Meizu devices and it is identical on the Pro 5. The phone will be launching with 4.5 out of the box in October and the 5.0 update will be released in November.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The performance was very good, and Pro 5 was really fast in opening and switching apps and even scrolling was quite good.</paragraph>
+			<paragraph>The new camera is also quick to launch and take pictures and the autofocus performance is good too. So speed is really not an issue with this device, thanks to the powerful Samsung Exynos 7 chipset inside, the same as the one on the Galaxy S6 and other Samsung flagship devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Wrap-up<subsectionTitle>
+			<paragraph>So there you have it - our short take on what the Meizu Pro 5 is like. What we didn't mention so far is the pricing of the device. The smartphone is now available in China in four color versions and it will cost you CNY2,799 (USD $440) for the 32GB/3GB version and CNY3,099 (USD $485) for the 64GB/4GB version.</paragraph>
+			<paragraph>Unfortunately, our hands-on time with the device was brief, but we will be taking a closer look at it once it launches.</paragraph>
+		</subsection>
+	</page>
+</review>

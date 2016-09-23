@@ -1,0 +1,48 @@
+<review>
+	<title>Samsung overview</title>
+	<description>MWC 2012</description>
+	<link>http://www.gsmarena.com/samsung_at_mwc_2012-review-726.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>There was no Galaxy S III from Samsung, contrary to expectations, but they did show a new phone - the Samsung Galaxy Beam, with (you guessed it) a built-in projector. It shared the spotlight with two 10.1-inch tablets, the Samsung Galaxy Note 10.1 and the Tab 2 10.1.</paragraph>
+			<paragraph>The Galaxy Note 10.1 brings Samsung's S Pen stylus where it belongs - a big screen. We've no talent for painting whatsoever, but couldn't wait to try and sketch something on the Android version of Photoshop Touch.</paragraph>
+			<paragraph>The Galaxy Tab 2 10.1 should be a more affordable tablet (though pricing isn't revealed yet), with specs comparable to those of the original Tab 10.1. The Tab 2, however, tops the old version with Android 4.0 Ice Cream Sandwich out of the box and records FullHD video.</paragraph>
+			<paragraph>Samsung's earlier attempts to combine a phone and a portable microprojector fizzled out, but they're at it again. The Samsung Galaxy Beam is a fairly standard dual-core droid, with the notable exception of the nHD projector. It can project an image with a 50" diagonal.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note 10.1 hands-on<subsectionTitle>
+			<paragraph>We got a chance to see the Samsung Galaxy Note 10.1 in person. It uses the same screen as the other new 10.1-inch tablet (the Tab 2 10.1) but with a different digitizer to support S Pen.</paragraph>
+			<paragraph>The Note 10.1 is pretty cool, but its screen and back quickly became a fingerprint mess. Despite its size, the tablet has proper voice calling functionality.</paragraph>
+			<paragraph>The 3MP camera on the back shoots 1080p video and you get a front-facing camera for video calls too. The loudspeakers are placed on the left and right sides of the screen so you get proper stereo when watching a video.</paragraph>
+			<paragraph>We tried out the S Pen on the new Galaxy Note 10.1 and it felt a lot faster and more accurate than it is on the smaller model. It also senses different levels of pressure more accurately. One cool thing about it (for those who can't draw well) is that the tablet will recognize certain shapes (squares, circles, arrows, etc.) and will replace the one you drew with a better, straight version.</paragraph>
+			<paragraph>The Samsung Galaxy Note 10.1 also comes with Photoshop Touch for Android, which was quite cool. Oddly, it worked only with S Pen and wouldn't let us draw with our fingers.</paragraph>
+			<paragraph>Here's the Samsung Galaxy Note 10.1 in action:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Beam hands-on<subsectionTitle>
+			<paragraph>The Samsung Galaxy Beam is the thinnest portable projector phone, Samsung claim, and they just might be right - it's 12.5mm thick at its slimmest point and bulges where the projector is. It's a bit chunky.</paragraph>
+			<paragraph>The optimal distance for the projector is 2 meters and in a dark room the quality is actually pretty good. The beamed image has nHD resolution (640x360). The Galaxy Beam is expected to have 3 hours of battery backup in projection mode.</paragraph>
+			<paragraph>There are a couple of features that weren't working in the demo unit - you'll be able to focus the projector lens with an app (currently, this is done with the volume rocker and isn't very user-friendly) and the projected image will be autorotated just like the screen.</paragraph>
+			<paragraph>Here's a hands-on video with the Galaxy Beam:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Tab 2 7.0 hands-on<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note 10.1 is the one getting all the attention at the Samsung booth, but the company is actually using the event to showcase two other slates it introduced recently - the Galaxy Tab 2 duo.</paragraph>
+			<paragraph>Samsung Galaxy Tab 2 7.0 is meant to be the most affordable ICS-running tablet that the Koreans will offer. It comes with a 1GHz dual-core CPU and a 7" screen with a resolution of 1024 x 600 pixels.</paragraph>
+			<paragraph>The Galaxy Tab 2 7.0 certainly feels smooth, but it doesn't have the performance punch offered by the quad-core chipsets of some competitors, nor the cool extra fucntionality provided by the S Pen on the Galaxy Note 10.1. It's pricing should reflect that, though, so it's should all be cool.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Tab 2 10.1 hands-on<subsectionTitle>
+			<paragraph>We had the chance to welcome the Samsung Galaxy Tab 2 10.1 to our office right before the MWC kicked off, so we knew what that one was all about. Still, here's another batch of live photos of the slate, coming straight from the MWC floor.</paragraph>
+		</subsection>
+	</page>
+</review>

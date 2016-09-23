@@ -1,0 +1,116 @@
+<review>
+	<title>Asus hands-ons</title>
+	<description>IFA 2013</description>
+	<link>http://www.gsmarena.com/asus_ifa_2013-review-979.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Asus team was thinking big when they planned their IFA lineup - and by that we mean they brought only phablets and tablets, all powered by Android. They cover the high-end with a brand new Transformer Pad, but also a number of smaller and more affordable devices.</paragraph>
+			<paragraph>The Transformer Pad TF701T continues the line's tablet-laptop duality with a refreshed version of the QWERTY dock. The new Pad really is a +1 compared to the TF700T - it has a higher resolution screen (2560 x 1600) and faster chipset (Tegra 3).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Transformer Pad TF701T at a glance<subsectionTitle>
+			<paragraph>Then there are the MeMO Pad twins - 10" and 8" tablets - which offer a more accessible alternative to the Transformer Pad. They share most of their specs, except the screen, battery and back camera. All you have to decide when choosing between the two is how big a tablet you want.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus MeMO Pad 8 and 10 at a glance<subsectionTitle>
+			<paragraph>Then there's the smallest tablet today, the Fonepad 7. As the name suggests, it supports full voice call functionality. Other than that, it's a 7" Android 4.2 tablet powered by an Intel Atom chipset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Fonepad 7 at a glance<subsectionTitle>
+			<paragraph>The Asus Fonepad Note 6 phablet also made an appearance, though technically it's not new. It has a sharp 6" 1080p screen and shoots 1080p video with its 8MP camera. It also packs a stylus and two front speakers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Fonepad Note 6 at a glance<subsectionTitle>
+			<paragraph>Phew, that's a lot of devices. Let's start from the top - the Asus Transformer Pad TF701T - and we'll work our way down the chain.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Transformer Pad TF701T<subsectionTitle>
+			<paragraph>The Asus Transformer Pad TF701T continues the tradition of Android hybrids - it's a 10.1" tablet, but the Mobile Dock transforms it into an ultrabook. The Transformer family was doing this before the Windows 8 devices picked it up.</paragraph>
+			<paragraph>It really feels like an ultrabook - the TF701T has a metal back with the circular brushed metal look that Asus has used on previous iteration of the device and weighs 585g. Obviously the keyboard dock adds to that weight, but you're still in ultrabook territory.</paragraph>
+			<paragraph>Without the dock, the new Transformer Pad measures 8.9mm thick, a hair thicker than the TF700T but you wouldn't feel it. We'll cover the dock in a minute.</paragraph>
+			<paragraph>The screen is quite impressive - it's built on the power-efficient IGZO tech with IPS for great viewing angles. The sharpness is great too - 2,560 x 1,600 resolution and a hair under 300ppi pixel density. That's not a record or anything (the Nexus 10 has the same resolution), but it still looks great. The white balance and saturation of the screen can be tuned to your liking thanks to Asus modifications.</paragraph>
+			<paragraph>The Asus Transformer Pad TF701T is powered by NVIDIA's Tegra 4. That chipset isn't as popular as Tegra 3 was, but the four Cortex-A15 cores and 72-core GeForce GPU offer heaps of power and the Android 4.2 ran smoothly. Better still, the chipset is powerful enough to render and output UHD (3,840 x 2,160) video over HDMI - and most people don't even have a UHD TV yet!</paragraph>
+			<paragraph>The back camera on the Transformer Pad is a 5MP shooter with F/2.4 aperture and 1080p video recording. Not that we condone using tablets to take photos. So, the 1.2MP / 720p front-facing camera will be of more use for video chat apps that support HD video (like Skype).</paragraph>
+			<paragraph>The 5MP camera on the back is on a plastic strip (the RF window as the metal blocks signals). Also on that strip is the power button - the placement is a bit awkward since it's on the sloped back, but you can still press it fairly easy. The button has a charging light.</paragraph>
+			<paragraph>Anyway, also on the back is the single Sonic Master speaker. This was a little disappointing - the other tablets Asus showed today had two speakers, some of them on the front too. That beautiful screen would make for a great movie watching experience but the sound is pointed away from you.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Mobile Dock for TF701T<subsectionTitle>
+			<paragraph>Two holes at the bottom of the Transformer Pad are used to mate it to the Mobile Dock. The dock features a full size QWERTY keyboard and a big touchpad. Polaris Office (compatible with Microsoft Office) is pre-installed, of course, so you get to document editing as soon as you pull the TF701T out of the box.</paragraph>
+			<paragraph>The Mobile Dock is 7mm thick (sort of) and weighs 570g. That means that when you plug in the Transformer Pad TF701T the total weight becomes 1.15kg and the thickness becomes 17.9mm - about the same as you would get from the top Windows 8/x86 ultrabooks. The bottom of the dock has four rubber legs that add to the thickness but it's well worth it as it makes the device very stable on a table.</paragraph>
+			<paragraph>The dock also packs an extra battery - a 16Wh Li-Po battery that adds 4 hours of battery life to the 13 hours provided by the 31Wh battery in the Pad itself.</paragraph>
+			<paragraph>There's a full-size SDXC memory card slot in the dock to further expand the storage and a full-size USB 3.0 (support for the new standard is rare on mobile devices).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus MeMO Pad 8 and 10 hands-on<subsectionTitle>
+			<paragraph>ASUS has a stake in the midrage tablet segment and its frontcourt is assembled by the MeMO Pad 8 and 10 tablets. Both feature 800 x 1280 resolution screens, quad-core processors and expandable storage.</paragraph>
+			<paragraph>Staying well out the bigger Transformer's business the two will aim affordability and wide availability.</paragraph>
+			<paragraph>The smaller of the bunch, MeMO Pad 8, tips the scales at a modest 350 g while the bigger 10-incher carries 522 g. Both devices deliver LED-backlit IPS LCDs.</paragraph>
+			<paragraph>The smaller MeMO Pad 8 opts for a 5 MP camera on the back, while the MeMO Pad 10 has a 2 MP snapper there. Both rear cameras can capture 720p video, while the front cameras are 1.2 MP units.</paragraph>
+			<paragraph>ASUS has incorporated its SonicMaster technology to get the clearest possible sound coming from the two speakers on board each of the tablets.</paragraph>
+			<paragraph>The quad-core chips have four cores with a clock speed of 1.6 GHz, on-board storage is 8 gigs on the MeMO Pad 8, while the bigger 10-incher has either 8 or 16 GB. Both have microSDXC support for storage expansion.</paragraph>
+			<paragraph>ASUS states the MeMO Pad 8 can run for 8 hours on a single charge, while the bigger one goes for 9.5 hours.</paragraph>
+			<paragraph>You can also go for the TriCover case, which is available in three colors and will protect both tablets' front and back.</paragraph>
+			<paragraph>Expect both tablets before the end of the year, hopefully around the holiday season.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>Both MeMO Pad tablets come in all-plastic bodies with the finish depending on the color option. The red and gray versions feature a matte finish, while the white one is very glossy and prone to smudging.</paragraph>
+			<paragraph>The MeMO Pad 8 is very light and its display, despite not exhibiting the highest pixel density around, offers great viewing angles and a very nice level of brightness.</paragraph>
+			<paragraph>The front features the 8" screen, the ASUS logo and front facing camera.</paragraph>
+			<paragraph>The back is where the loudspeaker grille lies along the bottom, while the 5 MP camera lens sits on top. To complete the tally there's an embedded ASUS logo in the middle.</paragraph>
+			<paragraph>The top of the device hosts the 3.5 mm headphone jack and a microUSB port with the power button and volume rocker on the right side.</paragraph>
+			<paragraph>We prefer the back with the matte finish as its way easier to handle and doesn't get oily and smudged as easily as the glossy white variant.</paragraph>
+			<paragraph>The great viewing angles and bright panel goes for the bigger ASUS MeMO Pad 10 as well. The display loses some of its sharpness over the 8-incher as the resolution gets significantly stretched but it isn't a deal-breaker.</paragraph>
+			<paragraph>Held at arm's length the 10-inch panel is crisp enough for browsing or enjoying multimedia content.</paragraph>
+			<paragraph>The power button and microphone are located at the top of the MeMO Pad 10, while on the right sits the microSD card slot along with the 3.5 mm headphone jack.</paragraph>
+			<paragraph>The MeMO Pad 10 shares the build materials of its little brother with the grey version being the preferable matte finish.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Fonepad 7 hands-on<subsectionTitle>
+			<paragraph>Asus Fonepad 7 is the successor of the huge 7" Fonepad phablet announced at the MWC in Barcelona in February. It bumps the specs of the Fonepad with a faster processor, a better camera and a newer Android version, but axes the battery capacity.</paragraph>
+			<paragraph>The Fonepad 7 comes with the same 7" 1280x800px IPS display used in the original Fonepad. It's really nice with accurate colors, very good contrast and viewing angles.</paragraph>
+			<paragraph>The new Fonepad 7 runs on a slightly faster Intel Atom Z2560 platform with a dual-core 1.6GHz processor with hyper-threading, PowerVR SGX544MP2 @400MHz dual-core graphics and 1GB of LPDDR2 RAM. This isn't a very powerful chipset either, but the Fonepad 7's isn't that demanding since it's required to run the Android OS on only an HD display, not a FullHD one. Once again, the hardware turned to be enough to handle the Jelly Bean OS and provides snappy performance.</paragraph>
+			<paragraph>The Asus Fonepad 7's entire back is made of metal, just like its predecessor. It provides a great grip and feels really solid in hand. Unlike the glossy plastic used on the Fonepad 6 Note, the Fonepad 7 body is not that susceptible to fingerprints and smudges.</paragraph>
+			<paragraph>Just like the Fonepad Note 6, the Fonepad 7 comes with dual front speakers flanking the 7" display. There is also a 1.2MP front camera around for video chats.</paragraph>
+			<paragraph>On the sides of the Fonepad 7 we find the usual controls such as the Power/Lock key and the Volume Rocker on the right and the micro-SIM bed on the left.</paragraph>
+			<paragraph>The top of the phablet has the lonely 3.5mm audio jack, while the microUSB connectivity port is at the bottom.</paragraph>
+			<paragraph>The 5MP camera lens is on the metallic back.</paragraph>
+			<paragraph>The Asus Fonepad 7 also runs on Android 4.2.2 Jelly Bean skinned with Asus's own launcher.</paragraph>
+			<paragraph>There is no pricing and availability for the new Fonepad 7 just yet, but we guess it will hit the shelves by the end of the year.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Fonepad 6 Note hands-on<subsectionTitle>
+			<paragraph>Asus announced the Fonepad Note 6 back in June with quite a scarce specs sheet and almost no information on the software features and stylus compatibility. And here we are, at IFA in Berlin, witnessing the thing going official for the second time. This time around though, we get to know more details and even try the phablet ourselves.</paragraph>
+			<paragraph>The Asus Fonepad Note 6 is built around a 6.0" Super IPS+ display with 1080p resolution and 450 nits brightness. Its 367ppi density might not be that close to the mightiest flagships out there, but is more than enough to pass as what has been established as a retina-like level of sharpness.</paragraph>
+			<paragraph>Even though the Fonepad 6 Note is going to compete with the upcoming Galaxy Note III flagship and other well-known phablets such as the Sony Xperia Z Ultra, LG Optimus G Pro and even the old-gen Galaxy Note II, the Asus gadget isn't running on a top-notch chipset.</paragraph>
+			<paragraph>The Fonepad 6 Note is powered by Intel's Atom Z2580 platform with a dual-core 2.0 GHz processor capable of hyper-threading, PowerVR SGX544MP2 @533MHz dual-core graphics and 2GB of LPDDR2 RAM. It's still a really capable chipset that runs the Android Jelly Bean hassle-free. What's even better is the Fonepad 6 will cost a lot cheaper than some of its rivals making it a great alternative for those on the budget.</paragraph>
+			<paragraph>The Asus Fonepad 6 Note is made entirely of glossy plastic and that's the reason its black flavor gets smudged with fingerprints all over in just a minute. The white Note is quite the opposite, it's really beautiful and we'd opt for it in a heartbeat.</paragraph>
+			<paragraph>Almost the entire front is occupied by the 6" 1080p display. The stereo speakers really stand out though and we suspect they are among the key features of the device. The Fonepad 6 Note's screen offers lively colors, good viewing angles with little contrast loss, and is very bright at those 450 nits.</paragraph>
+			<paragraph>Asus Fonepad 6 Note bets on the unibody design so the battery is non-removable as is the rear panel. The microSIM and microSD slots are on the left side of the Fonepad 6 Memo, while all the hardware controls - the Power/Lock key and the Volume rocker - are on the right.</paragraph>
+			<paragraph>The top of the Fonepad 6 has the lonely 3.5mm audio jack, while the bottom houses the microUSB connectivity port and the stylus. When you pull out the stylus, a specially-designed widget will pop up on the display allowing you to take quick notes.</paragraph>
+			<paragraph>Fonepad 6 Note's back is where the lonely 8MP camera is. It uses Sony's BSI sensor. Unfortunately, we weren't able to take some camera samples.</paragraph>
+			<paragraph>The Asus Fonepad 6 is running on Android 4.2.2 Jelly Bean with a very lightly customized Asus launcher on top of it. It comes with a few pre-installed stylus compatible apps that should come in handy. The stylus input is good and does the job, though it can't even come close to the support Samsung is offering on its Galaxy Note lineup.</paragraph>
+			<paragraph>There is no official pricing and availability, though previous info suggests the Fonepad 6 Note will be hitting the market by the end of the month at price of about ?300-?350.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Transformer Book Trio hands-on<subsectionTitle>
+			<paragraph>Asus were among the first to use the hybrid design that has become so popular lately - a laptop with a detachable screen that turns into a tablet. However, that leaves the QWERTY keyboard to just do nothing more than pack a battery and a few ports and slots.</paragraph>
+			<paragraph>Not so with the Transformer Book Trio - the keyboard dock, called "PC Station," packs a 4th get Intel Core i5 or i7 processor (Haswell), up to 1TB HDD, a 33Whr battery and runs Windows 8. Using microHDMI or mini DisplayPort you can hook it up to an external monitor and use it while someone else is using the tablet.</paragraph>
+			<paragraph>The tablet has an 11.6" IPS LCD touchscreen with 1080p resolution and it's powered by an Intel Atom Z2760 (Clover Trail) chipset with the dual-core processor at 1.6GHz and runs Android 4.2 when it's separated from the PC Station. It has its own 19.5Whr battery and storage is up to 64GB. The tablet also has two cameras - one 5MP on the back and one 1.2MP on the front.</paragraph>
+			<paragraph>If you have the two halves put together, you can choose between Windows 8 and Android 4.2.</paragraph>
+			<paragraph>The whole thing is surprisingly light for something this size, especially since it's two separate devices in one. The build quality feels decent though we have to say we liked the Transformer Pad TF701T better.</paragraph>
+			<paragraph>As for the separate parts, the screen on the tablet is good without being spectacular (again the Transformer Pad has it beaten). At least the keyboard is pretty comfortable.</paragraph>
+		</subsection>
+	</page>
+</review>

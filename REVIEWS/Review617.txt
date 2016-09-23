@@ -1,0 +1,13 @@
+<movie>
+	<title>Zoom</title>
+	<link>http://www.imdb.com/title/tt3763866/?ref_=adv_li_tt</link>
+	<year>2015</year>
+	<generalScore>0.64</generalScore>
+	<review>
+		<date>2015-09-18</date>
+		<username>clarkj-565-161336</username>
+		<score>0.7</score>
+		<shortDescription>Art Influencing Life Influencing Art</shortDescription>
+		<fullReview>Just saw this at TIFF several nights ago. It was a welcome change as the movies I had seen up to that point were excellent, but very heavy. In math there is this concept of a complex number consisting of a real part and an imaginary part. Many things in nature cannot be modelled by a real number alone, but need complex numbers. So the analogy in life is that we have our imaginary life and visions and these in turn influence are real lives which in turn generate more visions etc. They both exist together and not separately. The movie is a mixture of film and animation and it works very well. Emma draws a character who directs a movie who's actor is writing a novel. They all interact and involve each other. Very amusing, nice mixture of Canadian and Brazilian humour.</fullReview>
+	</review>
+</movie>

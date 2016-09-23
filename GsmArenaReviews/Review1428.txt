@@ -1,0 +1,283 @@
+<review>
+	<title>Motorola Flipout review</title>
+	<description>Fair and square</description>
+	<link>http://www.gsmarena.com/motorola_flipout-review-518.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Exceptionally compact QWERTY messenger</paragraph>
+			<paragraph>Quad-band GSM and quad-band 3G support (7.2 Mbps HSDPA; 2Mbps HSUPA)</paragraph>
+			<paragraph>2.8" 256K-color 320x240 pixel capacitive touchscreen; multitouch support</paragraph>
+			<paragraph>Android OS v2.1 with MOTOBLUR UI v1.5</paragraph>
+			<paragraph>Excellent social networking integration</paragraph>
+			<paragraph>Five-row QWERTY keyboard</paragraph>
+			<paragraph>TI OMAP 3410 600MHz processor; 512 MB of RAM</paragraph>
+			<paragraph>3 MP camera with geotagging</paragraph>
+			<paragraph>CIF (352 x 288 pixel) video recording @ 30fps</paragraph>
+			<paragraph>Wi-Fi b/g/n; stereo Bluetooth v2.1</paragraph>
+			<paragraph>GPS chip, A-GPS</paragraph>
+			<paragraph>microSD slot, bundled with a 2GB card</paragraph>
+			<paragraph>Accelerometer, proximity and ambient light sensors</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB port (charging)</paragraph>
+			<paragraph>CrystalTalk PLUS noise-cancellation with a dedicated microphone</paragraph>
+			<paragraph>Office document viewer</paragraph>
+			<paragraph>Flash support in the web browser</paragraph>
+			<paragraph>XviD support (but no DivX)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Poor display quality</paragraph>
+			<paragraph>QVGA resolution limits the choice of apps</paragraph>
+			<paragraph>Unacceptable camera issues from a retail test unit</paragraph>
+			<paragraph>Uncomfortable grip for taking pictures</paragraph>
+			<paragraph>17mm thick is a bit much</paragraph>
+			<paragraph>No smart and voice dialing</paragraph>
+			<paragraph>microSD slot under the battery cover</paragraph>
+			<paragraph>No secondary video-call camera</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Motorola is banking heavily on QWERTY droids. The Motorola Flipout does look a bit of a shocker but fits squarely into the lineup. It?s tiny, yet offers better features than the Backflip, and social networking is its element.</paragraph>
+			<paragraph>The first thing to notice about the Flipout is just how small it is ? a square 67mm on its side but no compromises were made when it comes to features. There?s a five row QWERTY keyboard (most big side-sliders have just 3 or 4 rows), a faster CPU than the Backflip and double the RAM.</paragraph>
+			<paragraph>Rather than ramble on with specs, here?s the list of pros and cons.</paragraph>
+			<paragraph>The Motorola Flipout uses the latest MOTOBLUR UI and after playing with it for a while, we could barely find a place where the stock Android features didn?t receive some sort of SNS integration.</paragraph>
+			<paragraph>The phonebook wipes out any difference between phone contacts and online contacts. Even the music player does SNS: TuneWiki integration, Top 50 generated from Facebook and Twitter ?blips? (you can send your own) and location-aware features too.</paragraph>
+			<paragraph>A really cool feature of the music player is that it will automatically find the lyrics of the song playing and keeps them in sync like a karaoke machine.</paragraph>
+			<paragraph>The Motorola Flipout will be quick to find an audience. It offers great audio and some of the most impressive social networking we?ve seen in a package so small, it can make even the Sony Ericsson XPERIA X10 mini pro jealous.</paragraph>
+			<paragraph>It?s got a bigger screen than the X10 mini pro too ? unlikely to impress owners of 4.3? monsters ? but it?s actually the same size and resolution as the HTC Tattoo.</paragraph>
+			<paragraph>In a nutshell, the Motorola Flipout has impressive internals, so it?s the hardware that can make or break it ? jump to the next page to see what we thought of it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Flipout<subsectionTitle>
+			<paragraph>The Motorola Flipout comes in a box that?s seemingly too big for the phone itself. But the good news is that it?s well stuffed. You get a compact charger that uses the long microUSB cable. There?s also a one-piece headset with foam tips and a tiny alligator clip to attach to your clothing.</paragraph>
+			<paragraph>There?s a 2GB microSD card pre-installed too and, of course, a couple of manuals. Our test unit came with some extra exchangeable covers but we fear they won?t be part of the standard package.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Motorola Flipout 360-degree spin<subsectionTitle>
+			<paragraph>The Motorola Flipout is tinier than it appears in photos. It?s a small square measuring just 67x67 mm. The 17mm of thickness though have a negative impact on portability. There?s a pivoting point in the lower right corner, around which the screen and keyboard half rotate.</paragraph>
+			<paragraph>When you open it up, a five row QWERTY keyboard is revealed ? more than any slider of this size could?ve fit. The hinge is solid, allowing still a smooth and effortless folding motion.</paragraph>
+			<paragraph>Opening the phone is spring assisted, so it requires only a light push, but it?s balanced so it doesn?t open accidentally. Three small nubs at the bottom left corner provide extra grip to make opening even easier ? but you?ll still have to spend some time getting used to opening the Flipout without it feeling awkward or risking it slipping off your grip.</paragraph>
+			<paragraph>The Flipout weighs a hefty 120 grams ? more than you would have guessed judging by its size. Still, the solid feel is not entirely unpleasant.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The form factor of the Motorola Flipout is not nearly as unusual as the Backflip, but it?s still a very clever design. The phone is tiny, yet it has room for a 5-row QWERTY keyboard ? with decently-sized buttons too.</paragraph>
+			<paragraph>A sliding mechanism would have probably taken up too much space ? the pivot joint takes only the bottom right corner of the Flipout. Despite being the only joint between the two halves, it feels sturdy and you can use the phone without fearing you?ll snap it in two.</paragraph>
+			<paragraph>The thing about sliders, or in this case ?flipouts?, is that they can accommodate a big screen and a roomy keyboard. And we?re talking a 2.8? screen and a nice keyboard in a square just 67mm on a side.</paragraph>
+			<paragraph>The screen however is the one major disappointment with the Flipout ? it?s a 2.8? TFT unit capable of displaying up to 256K colors. The low resolution aside, the screen is quite bright but the image quality is poor.</paragraph>
+			<paragraph>For one, the contrast is overdone, which makes color gradients look bad and the overall color rendering is poor. The sunlight legibility is awful as are the viewing angles.</paragraph>
+			<paragraph>On a positive note, the capacitive touchscreen is very responsive.</paragraph>
+			<paragraph>Below the display there are three capacitive controls (Menu, Home and Back), which are equally sensitive so the transition to and from the touchscreen is seamless. The touch buttons have solid backlighting and nice haptic feedback. They also serve as a notification light.</paragraph>
+			<paragraph>The earpiece is centrally placed above the display with a proximity sensor and ambient light sensor nearby.</paragraph>
+			<paragraph>The Flipout top side (when the phone is closed) holds the volume rocker.</paragraph>
+			<paragraph>On the right, you?ve got the Power/Lock key and the 3.5mm audio jack.</paragraph>
+			<paragraph>On the left there are no controls at all, while the microUSB port is at the bottom. The connectivity port is exposed ? there?s a green LED enclosing the actual connector, which emits light when you plug the charging or data cable. It also blinks to alert when the battery charge drops below 15%.</paragraph>
+			<paragraph>Of course, those directions change when you open the phone ? the volume rocker goes on the left, the Power/Lock key and the audio jack go on top and the microUSB port ends up on the right.</paragraph>
+			<paragraph>Pivoting the phone open reveals the keyboard. It has five rows plus a D-pad ? the D-pad is in the lower left corner and not particularly comfortable to use, but the rest of the keyboard is great.</paragraph>
+			<paragraph>The keys are big enough with a solid click. There isn?t any space between the keys, but a raised border in the middle and small nubs on the F and J keys will help touch typing. Even the top row has enough room to be comfortably used and the backlight is strong enough and even.</paragraph>
+			<paragraph>Considering the diminutive size of the Flipout, we think Motorola did a great job with the keyboard.</paragraph>
+			<paragraph>The back of the phone is made of matte plastic, which is very good at concealing fingerprints ? this holds for all the colors we tested. The back of the top half is made of metal with a circular brushed metal finish, which looks good with any of the available covers.</paragraph>
+			<paragraph>The back side (of the bottom half) holds the loudspeaker and the 3MP camera lens with self-portrait mirror. Under the battery cover, there?s the microSD card slot. The other thing at the back of the screen looks like a loudspeaker but it?s not. Placed exactly opposite the earpiece, it?s perhaps part of the CrystalTalk PLUS noise-cancellation gadgetry.</paragraph>
+			<paragraph>The battery has a respectable capacity of 1170mAh with quoted standby of 365 hours and 6 hours of talk time.</paragraph>
+			<paragraph>The build quality of the Motorola Flipout is great ? all the plastic is nice to the touch, there?s nothing creaking or wobbling (even the swivel). However, talking is a bit of a problem - to talk you?ll need to open the phone (as the mic pinhole is in the lower half) and the Flipout is not very comfortable to hold that way.</paragraph>
+			<paragraph>The main problem is that it is too wide ? 67mm is wider than most phones. Still, when you close it, the Flipout becomes very pocketable and the keyboard is comfortable to use ? the Motorola Flipout is one of the best compact communicators out there.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Eclair with a side of MOTOBLUR<subsectionTitle>
+			<paragraph>The Motorola Flipout comes with Android 2.1 Eclair and Motorola?s MOTOBLUR custom interface, which is heavy on SNS integration. It?s very similar to previous Moto droids save for a few differences.</paragraph>
+			<paragraph>Motorola have kept the cornerstone of Android ? the homescreen ? but they?ve laced it with social networking integration. This is done mostly through widgets, so if you?ve used Android before you?ll get the hang of it in a minute.</paragraph>
+			<paragraph>There are seven homescreen panes so you have plenty of room for widgets, even on the relatively small display. When scrolling the homescreens, dots appear on the top of the screen to assist navigation. The thumbnail overview we saw on the Motorola MILESTONE XT720 is missing however.</paragraph>
+			<paragraph>A few handy shortcuts are available through the Home key ? a single tap brings you to the center screen and if you?re already there, it launches the main menu. A double tap can launch an app ? which one you can choose from the settings (browser, camera, etc.).</paragraph>
+			<paragraph>Widgets are the bread and butter of the homescreen. And Motorola have worked some of their mojo to add excellent social networking and make the widgets resizable. Tap and hold on a widget and four handles will appear in the corners ? you can drag them to resize the widget, which will change its appearance to fit the new size.</paragraph>
+			<paragraph>For example, the Date and Time widget can be expanded to show a clock and a calendar or shrunk to time and date or even all the way down to just a clock. With this much flexibility, you can take the most out of what initially seems like a small and limiting screen.</paragraph>
+			<paragraph>There are the standard crop of calendar, music player, weather widgets and switches for Wi-Fi, airplane mode. etc.</paragraph>
+			<paragraph>There?s also an RSS reader, the Social status widget (which lets you post status updates) and the Happenings widget (this one displays status updates from your contacts). We?ll cover them in more detail later on in the social networking chapter of the review.</paragraph>
+			<paragraph>The notification area is intact. It shows status info about battery, signal strength and others such as Bluetooth or missed events.</paragraph>
+			<paragraph>To bring up the task switcher on the Motorola Flipout you press and hold the Home key just like on any other Android phone. The "task switcher" is a shortcut to access six of the most recently used apps but it?s not a task manager per se.</paragraph>
+			<paragraph>In fact, Android automatically opens and closes applications. When resources start to run out, it might close a currently inactive app but it will restore it back to just how you left it. It's more like the system puts the app to hibernation instead of closing it.</paragraph>
+			<paragraph>Here is how the Motorola Flipout compares to Samsung I5500 Galaxy 5 in terms of performance. We used the free 0xBenhcmark and SpeedPi apps from the Android Market for the test and the results are here for you to see.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Excellent social phonebook<subsectionTitle>
+			<paragraph>A smartphone phonebook can store a serious amount of information about your contacts. It lets you input numbers for work and home, and you can even create custom labels. There is of course an email field and you can assign a custom ringtone.</paragraph>
+			<paragraph>There are many info fields that you can assign to each contact, but it still remains perfectly organized. You have all the types listed (numbers, email addresses, etc) and there's a plus sign on the right ? clicking it adds another item of that type. Pressing the minus sign under it deletes the unneeded field.</paragraph>
+			<paragraph>When viewing the contacts list you can swipe right to reveal the History ? a list of all recent communications with all contacts. A left swipe on the other hand reveals all recent status updates from all contacts.</paragraph>
+			<paragraph>This swipe magic is available when viewing individual contacts too ? in this case only history and status updates for that contact are displayed.</paragraph>
+			<paragraph>For this to work, you have to link the contact with their Facebook, Twitter, MOTOBLUR address book or Gmail accounts. This gets done in a second ? tap the menu key, Link contact and pick the appropriate account (those are pulled automatically from the services you?re logged on to).</paragraph>
+			<paragraph>The phonebook shows MOTOBLUR at its best ? blurring the distinction between ?local? and ?online? and putting all the info from all the sources at your fingertips.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony: no smart dialing yet again<subsectionTitle>
+			<paragraph>The Motorola Flipout had no issues with reception and the in-call sound was loud and clear.</paragraph>
+			<paragraph>Unfortunately, the Flipout, just like the rest of the Motorola?s droid crew doesn?t feature Smart dialing.</paragraph>
+			<paragraph>It does offer a few advanced features though ? a double tap will silence a ringing alarm, while turning the Flipout facedown will only leave the vibration on. When you have a missed event, the menu, home and back keys start flashing ? the next best thing to a dedicated status LED.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the Motorola Flipout. The Flipout scored ?Average?, meaning you could miss some calls in noisier environments. More info on the test, as well as other results can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging is doing well<subsectionTitle>
+			<paragraph>All text-based messaging on the Motorola Flipout is handled in the Messaging app. It combines a unified inbox, standard text messaging, Gmail, Facebook and Twitter.</paragraph>
+			<paragraph>The SMS and MMS department is standard Android stuff ? it offers threaded messaging and a simple compose message interface.</paragraph>
+			<paragraph>When viewing a thread, the newest message is placed at the bottom and messages are displayed as speech bubbles, just like on the iPhone. Unlike the dialer, the recipient field in the compose message UI has ?smart search? start entering the name of the contact and suggestions will show up immediately.</paragraph>
+			<paragraph>The tap-to-compose box starts off with a single line but it will expand to three lines if needed. It won?t expand any more than this, but it would have covered the received messages if it did.</paragraph>
+			<paragraph>A press-and-hold in the tap-to-compose area gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc.</paragraph>
+			<paragraph>A novelty, brought by the original MILESTONE and also present here is the new option that allows you to preset the number of messages recorded in each thread. Once that number is exceeded the oldest message gets deleted.</paragraph>
+			<paragraph>Converting an SMS to MMS is logical and easy. When you add multimedia content to the message, it is automatically turned into an MMS. You can just add a photo or an audio file to go with the text or you can choose to go into a full-blown MMS editor, depending on your needs.</paragraph>
+			<paragraph>Moving onto email, the Gmail app supports batch operations, which allow multiple emails to be archived, labeled or deleted. You can enable push email or schedule automatic updates. There?s an option to sync only over Wi-Fi, which is sure to save you on data usage.</paragraph>
+			<paragraph>The Universal inbox looks and feels exactly the same as the Gmail app. It combines all your email accounts and it can handle multiple POP or IMAP inboxes.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The G-Talk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>We?ll cover the Facebook and Twitter sections of the Messaging app in the when we discuss the social networking features of the Motorola Flipout.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>3D image gallery looks cool<subsectionTitle>
+			<paragraph>The Motorola Flipout comes with a custom Gallery app (like the XT720 one) with cool 3D effects, reflections and smooth animations. In terms of eye candy, we have no complaints.</paragraph>
+			<paragraph>The Gallery is split into three sections ? Camera roll (shows the most recent photos you?ve snapped), My tags (you tag photos to keep things organized) and finally ? Folders. The Folders view combines all folders from the memory that contain photos or videos.</paragraph>
+			<paragraph>Viewing a folder (be it the camera roll or another), photos are displayed as one long line of photos. You can scroll sideways to browse the photos and as you do, a label appears that shows when the photo (or video) was taken. From the menu option, you can set a specific point in time and the Gallery will scroll there automatically.</paragraph>
+			<paragraph>The smooth animations sure are eye-grabbing but a boring grid view is much better at browsing a large collection of photos. Turn the phone on its side and it will switch to grid view.</paragraph>
+			<paragraph>Of course, you can tag photos (including the automatic location tag), which will make viewing specific photos so much easier, even if you don?t take the time to meticulously organize everything into folders.</paragraph>
+			<paragraph>Pinch zooming is also enabled here but you can use double tap too. The Quick upload and Share features offer quick sharing on Facebook, MySpace, Picasa and other photo sharing services, but also Email apps, Bluetooth and MMS.</paragraph>
+			<paragraph>There are tons of options for a picture ? you can resize, crop or rotate it directly in the gallery. You can also add effects, adjust contrast, saturation and also text, clip art and others.</paragraph>
+			<paragraph>The quickest way to fix up a photo however is the Kodak Perfect Touch. It automatically fixes the photo ? you don?t have to do anything.</paragraph>
+			<paragraph>One thing missing in the Flipout Gallery that we would have liked is support for, say, TwitPic or another easy way to send out a tweet with a link to a photo, without having to first upload the photo then manually copy its URL and then write your message.</paragraph>
+			<paragraph>Of course, the Android Market has many apps that do just that, but still.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player with limited XviD support<subsectionTitle>
+			<paragraph>The video player itself is as simple and basic as it could possibly be. You can pick a video from the Gallery (with the cool 3D wall and everything) and tap play.</paragraph>
+			<paragraph>Codec support is limited ? DivX wouldn?t work, just XviD. And then only up to WQVGA resolution (400x240). Bigger files seem to need more processing power than Flipout can offer. Still, on a 2.8? QVGA screen you don?t need much more than that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Impressive music player knows the lyrics<subsectionTitle>
+			<paragraph>The Music app on the Motorola Flipout takes the same route as the Messaging app ? it puts all the music related things in one place.</paragraph>
+			<paragraph>My Music is the basic music player ? it plays songs from your memory card and it can filter tracks by artist, album, playlists and so on. A cool feature automatically pulls album art for the song and ? get this ? the song lyrics, which are displayed in sync with the song. This turns the Flipout into a mini karaoke (of course, it needs an Internet connection).</paragraph>
+			<paragraph>A tap on the screen reveals the player controls or you can tilt the phone on its side instead. You can send a blip ? a quick ?Love it? or ?Hate it? message on Twitter or Facebook.</paragraph>
+			<paragraph>The Music Videos section of the Music app offers quick searches on YouTube or GoTV channels for the music videos (what else?). Community taps into the social networks to find you some new music.</paragraph>
+			<paragraph>You can view TuneWiki charts, Music Maps (sort of location-aware ?currently playing? feature) and HOT Playlists, which show the most popular songs on Facebook or Twitter.</paragraph>
+			<paragraph>There?s a song ID feature of course ? tap the button and in seconds you?ll know the name of the song.</paragraph>
+			<paragraph>There are still some shortcomings of the music player that need addressing though. There are no equalizer presets, nor any alternative skins.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio on board<subsectionTitle>
+			<paragraph>The Motorola Flipout is equipped with an FM radio with RDS. The interface is simple ? there?s a tuning dial and you can save as many as 10 stations as favorites. There?s no option to play the radio on the loudspeaker.</paragraph>
+			<paragraph>If you get bored with local radio stations, you can listen to Internet radio too. There are plenty of stations to choose from, and in many genres. But you?d better have a solid data plan or a Wi-Fi connection as Internet radio will run up data charges.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good audio quality<subsectionTitle>
+			<paragraph>The Motorola Flipout did fairly well in our audio quality test and really managed to surprise us with its extremely loud output. When the handset is connected to an active external amplifier (such as a car or home stereo) it performs perfectly, save for the high distortion levels. All the other readings are easily comparable to the best among mobile phones nowadays.</paragraph>
+			<paragraph>When you plug headphones, the frequency response gets a bit worse but its deviations still remain undetectable in all but lab conditions. The total harmonic distortion improves in such conditions but the intermodulation distortion and stereo crosstalk suffer a hit.</paragraph>
+			<paragraph>Overall, we would say that the Flipout performed even better than we expected here.</paragraph>
+			<paragraph> Motorola Flipout frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>3 megapixel camera ? and hard to use<subsectionTitle>
+			<paragraph>The Motorola Flipout packs a 3 megapixel camera with maximum resolution of 2048x1536 pixels. The small circle next to it that at first glance looks so much like an LED flash is just a self-portrait mirror.</paragraph>
+			<paragraph>The camera UI is perfectly simple ? a resolution indicator, a counter with the remaining shots and a virtual shutter. A tap on the screen reveals the Gallery shortcut (with a preview of the last shot taken) and the zoom in and out keys.</paragraph>
+			<paragraph>Custom tags are a handy feature to keep photos organized ? you can add a tag, say, ?holiday 2010? and it will remain active between sessions until you delete it (at the end of the holiday). Adding and removing tags is fast and easy. There?s an automatic location tag too.</paragraph>
+			<paragraph>The Flipout has a pano assist feature too. It will help you with both horizontal and vertical panoramas.</paragraph>
+			<paragraph>The square shape of the Motorola Flipout makes it uncomfortable to take photos. First off, if it?s closed it will take portrait shots only. To properly snap landscape shots, you?ll have to open the Flipout but then it becomes tricky to hold and aim. On top of that, the virtual shutter on the screen is a bit hard to reach (you could use the Enter key instead).</paragraph>
+			<paragraph>Unfortunately, we ran into some trouble when testing the camera even though we used a retail unit for the tests. It may be that the lens is misaligned ? the right and lower parts of the produced images are quite blurry.</paragraph>
+			<paragraph>Those issues aside, the color rendering was good and there was an average amount of noise. Signs of oversharpening were noticeable but you can?t expect much out of a 3MP snapper. You could use the Flipout to snap the casual photo, but not for any serious photography.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic resolution<subsectionTitle>
+			<paragraph>We also snapped our resolution chart with the Motorola Flipout. You can check out what that test is all about here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>CIF video<subsectionTitle>
+			<paragraph>The interface of the camcorder is similar to the still camera?s, except that there are no zoom buttons.</paragraph>
+			<paragraph>Video capture is limited to CIF resolution (352x288) at 30 frames per second. Far from impressive but usable if you really don?t have anything else at the moment (any point-and-shoot camera will do).</paragraph>
+			<paragraph>The image quality is not very good (detail gets smudged out by compression) but at least the motion is mostly smooth.</paragraph>
+			<paragraph>Check out the CIF@30fps video sample from the Motorola Flipout.</paragraph>
+			<paragraph>We had some issues playing the videos on a computer ? the first couple of seconds have no video at all and Media Player Classic chocked on them. It could just be a problem with our unit or its firmware though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>All-round connectivity<subsectionTitle>
+			<paragraph>The Motorola Flipout has great connectivity features ? quad-band GSM/GPRS/EDGE fast dual-band 3G with 7.2Mbps downlink speeds and 2Mbps uplink thanks to HSPA.</paragraph>
+			<paragraph>Local connectivity is handled by Wi-Fi b/g/n and Bluetooth 2.1 with A2DP and a microUSB port. You can hook up the Flipout to a computer in several modes ? memory card access, charge only (useful, the ?memory card access? mode locks up the card, so you can?t use many apps), Windows media sync and ?Portal and tools?.</paragraph>
+			<paragraph>There?s a microSD card of course, if you need to do bulk data transfers ? it will be faster than over USB.</paragraph>
+			<paragraph>The Phone portal app however was the most impressive part of the connectivity package. It practically transforms your browser into a capable PC Suite. You can connect over USB or via Wi-Fi ? once you start it, the Flipout will give you an IP address to type into the browser and that?s it.</paragraph>
+			<paragraph>You can even put a user name and password to secure the access to your phone. From then on, you can browse photos and files (the file browser works only with Internet Explorer though), adjust settings and also manage contacts ? including composing and sending messages.</paragraph>
+			<paragraph>The idea is great ? you don?t always need the full functionality of a PC Suite (Phone portal can do quite a bit) and you can?t always have the PC Suite installed on the computer you?re using.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great web browser with Flash, but screen is too small<subsectionTitle>
+			<paragraph>We?ve established time and again that Android has a good browser. On the Motorola Flipout it?s even better because there?s Flash included. But the screen is the weak link.</paragraph>
+			<paragraph>The user interface of the browser is completely minimalist (it?s the Google way). All you get on the screen is an address bar and bookmarks shortcut.</paragraph>
+			<paragraph>The Flipout supports two zoom methods in the browser: double tap and the multi-touch pinch zooming. Text reflow isn?t available .</paragraph>
+			<paragraph>If you hit the menu key six new virtual buttons pop up. You can open a new tab, bookmarks, switch tabs, refresh the page, and go forward. The last button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>The bookmark view shows a thumbnail of the bookmarked pages with the same cool 3D setup as the Gallery and you also get a ?most visited? list in addition to the history.</paragraph>
+			<paragraph>The excellent multi-page support is of course still available and the rendering algorithm is basically flawless. Panning and zooming are pleasingly fast.</paragraph>
+			<paragraph>However, a 2.8? screen with QVGA resolution makes elaborate pages feel very cramped. You?ll have to do plenty of panning to navigate the page and the low resolution makes text unsightly at low zoom levels.</paragraph>
+			<paragraph>But here?s something we didn?t expect ? Flash support of Eclair. YouTube worked fine (if a bit slow), but the other video sharing site we tried didn?t do so well. We tried a Flash game though it never made it past the ?Loading...? stage.</paragraph>
+			<paragraph>At least it let us use sites that have Flash-based navigation. They are getting rare, but on a phone without Flash support they are nearly useless.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Social networking on all levels<subsectionTitle>
+			<paragraph>The MOTOBLUR custom UI on the Motorola Flipout does a great job of integrating social networking with the rest of the features of the phone. We?ve already seen the social phonebook, the gallery with easy upload to social networking sites, and the SNS enabled music player.</paragraph>
+			<paragraph>There?s a lot of SNS support on the homescreen through the widgets and there are a couple of dedicated apps.</paragraph>
+			<paragraph>The first app is Happenings ? the app behind the eponymous widget. It can display status updates from all your social networks (or just the ones you pick) and it can be used to set your status on some or all social networks.</paragraph>
+			<paragraph>It doesn?t offer much in the way of browsing profiles ? you can add comments, post on the Wall and like a profile, but to view the full profile you?ll need to use the browser. Not much of a problem, the browser is good enough.</paragraph>
+			<paragraph>The difference between Happenings and the Social status widget is that while Happenings is primarily for reading status updates, Social status is for posting. It also displays the last status update you?ve posted.</paragraph>
+			<paragraph>The Messaging app has support for both Facebook and Twitter. Its main job is sending messages between contacts more than posting general status updates of what you?re doing.</paragraph>
+			<paragraph>The interface looks deceptively similar to the SMS messaging UI. It displays conversations in threaded view, with speech bubbles when viewing a single thread and everything.</paragraph>
+			<paragraph>This is great because it makes sending an SMS and sending a tweet or Facebook message equal. On most other phones, the two thing are separate concepts with separate UIs.</paragraph>
+			<paragraph>Rounding off the social networking support, let?s look at the dedicated MySpace app. This is a full blown app ? you can view (and send) messages, online photo albums, your friends? profiles, the whole deal.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Well-stocked organizer<subsectionTitle>
+			<paragraph>Just like most of its Android siblings, the Motorola Flipout comes with a rich set of organizer features and a document viewer to boot. Not that getting one off the Android market is impossible but it?s nice of Moto to have saved you the effort.</paragraph>
+			<paragraph>Quickoffice is their app of choice and it has support for viewing document files (Word, Excel, PowerPoint). For editing, you will need to upgrade to the paid version though and there?s no support for PDF.</paragraph>
+			<paragraph>The best part about it is that the viewer integrates with the Gmail app as well, which makes viewing attachments easy. Unfortunately, you are unable to save them to the phone's memory (that only works for images, we guess). Attaching saved files (and we mean all kind of files) is possible though.</paragraph>
+			<paragraph>The calendar has four different types of view - agenda, daily, weekly and monthly. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder. It is also integrated with the status bar and also offers pop-up notifications.</paragraph>
+			<paragraph>The calculator is nicely touch optimized ? the buttons are big enough and easy to hit.</paragraph>
+			<paragraph>The Flipout features a decent alarm clock application which allows a huge number of alarms to be set, each with its own start time and repeat pattern.</paragraph>
+			<paragraph>Finally, the YouTube app is easier to use than the YouTube site, considering the small low-res display.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GPS and navigation<subsectionTitle>
+			<paragraph>The Motorola Flipout comes with a capable GPS receiver which locked onto satellites in about a minute with A-GPS turned off.</paragraph>
+			<paragraph>It comes as no surprise that the Google Maps applications comes preinstalled, but that?s all we got ? there was no sign of the MOTONAV software that sometimes comes on Motorola phones.</paragraph>
+			<paragraph>Google Maps is the titular application and its Street View mode is probably the best part of the deal in places where turn-by-turn voice navigation isn?t yet offered. If the Street View is available in the area you're interested in, you can enjoy a 360-degree view of the area. When the digital compass is turned on it feels like making a virtual tour of the surroundings!</paragraph>
+			<paragraph>Voice-guided turn-by-turn navigation using Google Maps Navigation is only available in select countries and unless you live in any of them the best you can do is plan a route in advance and keep an eye on your current location during travel.</paragraph>
+			<paragraph>You could of course hit up the Android Market ? it will offer both free and paid alternatives, which can do more than just voice guided navigation. Some apps can record GPS tracks, training apps keep track of your lap times and so on.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Market is where the 3rd party apps live<subsectionTitle>
+			<paragraph>The QVGA screen is limiting in terms of compatible content on the Android market ? for one, we couldn?t use our preferred benchmark apps because of that. The market applies automatic filtering, listing only QVGA compatible applications.</paragraph>
+			<paragraph>The Android Market is split in two major sections ? Apps and Games. Both sections are divided into subcategories (e.g. Communication, Entertainment etc.) so you can filter the apps that are relevant to you. You can tap Top Free or Just in if you?re just browsing for something new that might be useful.</paragraph>
+			<paragraph>Keep an eye on the Downloads section ? when an update is released for some of your apps, there?s an ?Update available? label next to the app. Tap it, hit update and your app is up to date, it?s that simple.</paragraph>
+			<paragraph>Searching is very easy ? just tap the search button and type what you?re looking for (e.g. ?navigation?). From then on, it?s pretty easy to choose ? each app has a rating, a short description by the author, user comments and screenshots.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the essential ones are well covered (file managers, navigation apps, document readers etc.). It?s not (yet) as rich as the iPhone?s App Store, but it?s getting there. Mostly, it?s the games department that?s a bit thin ? though Angry Birds is now available, which is one of the most popular games on iOS right now.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We had a great time reviewing the Motorola Flipout, we really did. Almost all apps have been spiked with social networking and the music player alone is good enough reason to consider ditching your dedicated MP3 player.</paragraph>
+			<paragraph>The excellent keyboard is a pro without a con ? it?s got many, decently sized keys but it doesn?t turn the phone into a huge slab. If size was the reason you were slumming it with a virtual QWERTY, the Motorola Flipout has the cure for that.</paragraph>
+			<paragraph>And really, the size is one of the main attractions of the phone. But there?s no way around it ? there are a couple of potential deal breakers: the screen and the camera.</paragraph>
+			<paragraph>Average 3MP stills and CIF video are no good for budding photographers who like to share photos and videos with their status updates. But it?s the screen that?s the major letdown ? while well spec?d on paper, is just awful in practice.</paragraph>
+			<paragraph>If those things do tend to ruin it for you, there are a few mini-messengers to pick from.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA X10 mini pro is one of the better known QWERTY messengers with a small stature. It has a better camera, a custom UI with SNS (though it?s Android 1.6 Donut until the long awaited update arrives), but the screen is just 2.55" big.</paragraph>
+			<paragraph>  Sony Ericsson XPERIA X10 mini pro ? Motorola CHARM</paragraph>
+			<paragraph>Take away the swivel from the Flipout and you?re left with the Motorola CHARM ? it?s small (less than 100 mm tall and just 11.4mm thick) and has the same goodies as the Flipout.</paragraph>
+			<paragraph>If the camera is more important than touchscreen and Android, the Nokia X5-01 offers the same squarish shape but boasts a 5MP camera with LED flash and VGA@15fps. Symbian is not the prettiest though and no GPS is a letdown.</paragraph>
+			<paragraph>  Nokia X5-01 ? Palm Pre Plus</paragraph>
+			<paragraph>The Palm Pre Plus doesn?t have the cubic charm of the Flipout and it?s noticeably taller but the better screen has to count for something. However, WebOS isn?t enjoying the huge catalog of apps that Android has ? a vital part of the smartphone experience.</paragraph>
+			<paragraph>The Motorola Flipout looks strong even in the face of this competition. For people who are into music and keep their social network account up to date, the Flipout has great appeal. Even for one of those tasks, it?s an excellent phone. It would have been perfect if not for the troublesome screen and lowly camera.</paragraph>
+		</subsection>
+	</page>
+</review>

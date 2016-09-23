@@ -1,0 +1,294 @@
+<review>
+	<title>Samsung Galaxy Fame review</title>
+	<description>In the spotlight</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_fame_s6810-review-926.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM and dual-band 3G support</paragraph>
+			<paragraph>7.2 Mbps HSDPA and 5.76 Mbps HSUPA support</paragraph>
+			<paragraph>3.5" 256K-color capacitive touchscreen of HVGA (320 x 480 pixel) resolution</paragraph>
+			<paragraph>Android OS 4.1.2 Jelly Bean with Nature UX</paragraph>
+			<paragraph>1 GHz Broadcom BCM21654G CPU, 512MB of RAM</paragraph>
+			<paragraph>5 MP autofocus camera with LED flash, face and smile detection</paragraph>
+			<paragraph>0.3MP secondary camera</paragraph>
+			<paragraph>VGA video recording at 25fps</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n support; Wi-Fi Direct and Wi-Fi hotspot</paragraph>
+			<paragraph>GPS with A-GPS connectivity and GLONASS; digital compass</paragraph>
+			<paragraph>4GB of inbuilt storage, microSD slot</paragraph>
+			<paragraph>Accelerometer, gyroscope and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB v2.0 port with MHL</paragraph>
+			<paragraph>Stereo Bluetooth v4.0</paragraph>
+			<paragraph>FM radio with RDS</paragraph>
+			<paragraph>Dual-SIM and NFC variants available</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Mediocre display</paragraph>
+			<paragraph>Feeble chipset</paragraph>
+			<paragraph>No dedicated camera key</paragraph>
+			<paragraph>Poor video codec support</paragraph>
+			<paragraph>VGA video recording</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Samsung has always been keen on providing smartphones for the budget-conscious crowd and ever since Gingerbread came around we've been seeing a major push by its entry-level squad. Even though it runs on Jelly Bean, the Galaxy Fame is a bit of a blast from the past. The spec sheet has been duly upgraded but bits of it still feel as if plucked straight out of the Galaxy lineup from two years ago.</paragraph>
+			<paragraph>The Samsung Galaxy Fame's single-core processor and half a gig of RAM is so far removed from today's multi-core flagships (Samsung's own octa-core Galaxy S4 being a prime example), that it's pushing the border between budget offering and plain outdated. Let's take a look at the key features, where the highlight is the updated Jelly Bean build:</paragraph>
+			<paragraph>An important thing to keep in mind is that the software build found on the Samsung Galaxy Fame has come quite a way since Android 2.3. The single-core processor powering the Galaxy Fame is far from lightning fast, but the Jelly Bean build ticking inside gives you more smoothness than a similarly-spec'd device running Gingerbread could ever wish for.</paragraph>
+			<paragraph>The Samsung Galaxy Fame also has a few extras worth mentioning that you won't often see on a smartphone scraping the bottom of the barrel. As with most of their entry level models, a dual-SIM variant is available, as is a model with NFC support. There's also a front-facing camera capable of VGA video recording - a rarity in this class.</paragraph>
+			<paragraph>So it may turn out to be a case of all's well that ends well with the Galaxy Fame, since ultimately the Jelly Bean software running inside could be its saving grace. We'll be taking a closer look at its performance in the chapters to come, but first up is our usual hardware inspection.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung S6810 Galaxy Fame 360-degree spin<subsectionTitle>
+			<paragraph>The Galaxy Fame is one of the numerous Samsung smartphones to takes after the design standard first put forth by the Galaxy S III. It measures 113.2 x 61.6 x 11.6mm, and although it doesn't have the same slick feel when it comes to thickness as some of the sub-10mm devices out there, it is still perfectly manageable.</paragraph>
+			<paragraph>Weight-wise, the Fame comes in at just over 120g, which is a bit heavier than usual for this size, but not too unpleasant.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Like we said, the design esthetic of the Fame takes after the one first introduced with the Galaxy S III, and our white model looks very much the part. Unfortunately, the paintjob is very prone to fingerprint smudges, which are even more prevalent on the display.</paragraph>
+			<paragraph>Samsung decided to keep protective flaps and slots to a minimum with the Fame. The microUSB and 3.5mm audio jack, on the top and bottom of the device, are directly accessible, while the microSD card slot is located underneath the battery.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The controls on the Samsung Galaxy Fame are the same as across most Android smartphones around - the capacitive Menu and Back buttons on either side of a hardware Home key.</paragraph>
+			<paragraph>The keys are well sized and spaced to allow comfortable use and the capacitive touch technology makes sure the transition between them and the screen is seamless.</paragraph>
+			<paragraph>Above the display you'll find the earpiece, as well as the proximity sensor. There's an ambient light sensor too to control automatic brightness. Ther 0.3 megapixel front facing camera enables video-calls and video-chats.</paragraph>
+			<paragraph>The 3.5mm headphone jack is at the top of the phone, next to a small slit which allows for easy removal of the back panel.</paragraph>
+			<paragraph>At the bottom are the microUSB port and the mouthpiece.</paragraph>
+			<paragraph>On the left side of the Samsung S6810 Galaxy Fame we find the volume rocker while the power/lock key is symmetrically placed across on the right. There's no dedicated shutter key though.</paragraph>
+			<paragraph>The 5 megapixel camera lens and the single LED flash are at the back, next to a loudspeaker grille.</paragraph>
+			<paragraph>The back panel covers almost the entire back of the phone and stretches to cover part of the sides of the device as well. It's fairly easy to remove via the thumb slit at the top, and fits tightly in place with no squeaks or wobble.</paragraph>
+			<paragraph>Underneath the battery cover we find the microSD card slot, the SIM compartment and the 1300 mAh battery. The microSD card is hot-swappable, although removing the back panel can be tiresome if you switch out the cards frequently.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame employs a 3.5" capacitive touchscreen, and as this is a budget smartphone, there are no special display technologies included. The brightness is acceptable, but the viewing angles are sub-par, and the display is very prone to fingerprint smudges.</paragraph>
+			<paragraph>The HVGA resolution on the Fame results in a pixel density of just 165ppi, but it's hard to expect much more in this price range. it's by no means too bad to look at. Of course, those 720p and 1080p monsters of a screen look way sharper, but this one is pretty crisp, too.</paragraph>
+			<paragraph>The contrast ratio is not among the best, but is on par for this class.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>Sunlight legibility is nothing short of great, too. Check out how the Galaxy Fame did in our dedicated test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contrast ratio<subsectionTitle>
+			<paragraph>We also put the Samsung Galaxy Fame's screen under our microscope to show you its display matrix.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can find more information on our display tests here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>Overall, the Samsung S6810 Galaxy Fame is a phone of commendable ergonomics. Reasonably thick and not too heavy, it's pretty easy to handle and slips comfortably into pockets. The arguably more up-to-date styling of the current Galaxy generation means that the paintjob might get overly slippery in some cases, but the curved back panel lets the device rest comfortably in your palm.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Jelly Bean provided by Samsung<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame runs Android 4.1.2 Jelly Bean out of the box, skinned with the latest TouchWiz launcher, dubbed Nature UX. While the basic functionality of the interface is the same as that found on other Galaxy's running Nature UX, there are various eye candy effects that have been removed so that the limited processor can keep up.</paragraph>
+			<paragraph>We've shot a brief video showing off the user interface here:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is a standard "tap and drag in any direction to unlock" affair, although the usual water ripple effect has been removed. There are a number of other unlock routines to choose from also: pattern, PIN, and password.</paragraph>
+			<paragraph>There're three customizable lockscreen shortcuts, and you can drag one to activate the corresponding app.</paragraph>
+			<paragraph>Due to the smaller screen size, the dock at the bottom of the homescreen now fits four custom shortcuts or folders instead of the usual five. The rightmost one always opens the app drawer, but the other four can be set to any shortcut or even a folder.</paragraph>
+			<paragraph>As usual, you can pinch to zoom out and manage homescreen panes - add, delete or just reorder them. You can have 7 panes at most, which are enough to fit plenty of content even if you use widgets that cover an entire pane.</paragraph>
+			<paragraph>The notification area is quite feature-rich and offers quick toggles for Wi-Fi, GPS, Silent mode, Screen rotation, Bluetooth. You can swipe to the side to get even more: Mobile data, Blocking mode, and Sync.</paragraph>
+			<paragraph>Below the toggles is the brightness slider (there's no automatic brightness toggle here though). There are also a couple of other useful things like the Settings shortcut in the upper right corner, the time/date to its left and the carrier name at the bottom.</paragraph>
+			<paragraph>In Jelly Bean, you get expandable notifications to get more info about them. They can be expanded and collapsed with a two-finger swipe and the top one is expanded by default (if the app that put up the notification supports it, of course).</paragraph>
+			<paragraph>The app drawer accommodates both app shortcuts and widgets. Unlike stock Android, you cannot move between tabs by swipes - you have to explicitly hit the widget tab. Some will find this more logical (scrolling past the available apps to find yourself in the widgets takes some getting used to).</paragraph>
+			<paragraph>Using pinch-to-zoom reveals an overview of the pages and lets you rearrange them, but you can't create new ones. Hitting the menu key reveals some more options, including hiding apps or enabling tap-to-uninstall mode.</paragraph>
+			<paragraph>The app drawer has three view modes: a Customizable grid (where you can freely rearrange icons), Alphabetical grid and Alphabetical list (this one makes shortcuts easy to hit, but isn't very space efficient). You can also view just your downloaded apps by hitting the Downloaded apps icon.</paragraph>
+			<paragraph>Jelly Bean comes with a selection of widgets, with some custom additions by Samsung. Some widgets are resizable too - a feature we've seen in some custom UIs is available natively in Jelly Bean. Widgets automatically move out of the way when you're reorganizing the homescreen.</paragraph>
+			<paragraph>Once you get several apps running, you can use the task switcher to go back and forth between them. It's a Jelly Bean-style vertical list with a screenshot and a name for each app. A sideways swipe removes the app from the list.</paragraph>
+			<paragraph>There are three buttons at the bottom of the list - one to bring out Samsung's home-brewed task manager, one to launch Google Now and a 'Kill all apps' button.</paragraph>
+			<paragraph>Overall, the Nature UX on top of Android 4.1 looks great and the Galaxy Fame does pack most of the cool software tricks of the flagship.</paragraph>
+			<paragraph>And despite the lack of a quad-core chipset, the Galaxy Fame handles the heavy Samsung skin equally well. It wouldn't choke on heavy live wallpaper either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Unlike a large portion of the older generation of budget range Samsung's, the Galaxy Fame runs on a Broadcom BCM21654G chipset. The Broadcom chip likely results in cheaper manufacturing costs for Samsung, which is why we're seeing in more often in its lower cost models.</paragraph>
+			<paragraph>Single-threaded CPU tests ended us with good results when compared with similarly-spec'd devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>For our graphics benchmark, we went back to Nenamark 2, since unlike mid-rangers and high-enders, budget range devices don't max out this test. Broadcom's GPU fell in just below the Adreno 200 found on the Sony Xperia E dual.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally, for web browsing we turned to SunSpider and Vellamo, which each put the Galaxy Fame toward the bottom of the pack.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook has room for everything<subsectionTitle>
+			<paragraph>The phonebook packs an incredibly wide range of features and virtually unlimited storage capacity. There are four tabs on top accommodating the Phone app, Groups, Favorites and Contacts.</paragraph>
+			<paragraph>As usual, there are various options to filter contacts by phone numbers, groups and multiple sorting. You can import/export contacts to/from the SIM card but you can't display them alongside the phone memory entries.</paragraph>
+			<paragraph>Samsung has kept the swipes in the phonebook, enabling quick dialing (right swipe) or sending a text (left swipe). The Quick contacts feature is there too, displaying, upon a tap of the contact picture, a pop up menu with shortcuts to call, text, email or Google Talk.</paragraph>
+			<paragraph>Tapping on a contact reveals all available details, and now shows two tabs instead of four. The first one is the About tab, with the person's photo on top. If configured, the right tab displays their latest updates from social networks or Google Talk.</paragraph>
+			<paragraph>Information is perfectly organized into different sections for phone, email, etc. If the phonebook finds duplicate contact entries, it'll prompt joining them. Furthermore, there're a plethora of options once you hit the Menu button. You can view the call history, as well as join, unjoin and share contacts.</paragraph>
+			<paragraph>There's plenty of contact information you can assign to each contact and it still remains neatly organized. You have all the types listed (numbers, email addresses, etc.) and, just like in the previous version of TouchWiz UI 4.0, there's a plus sign on the right - tapping it adds another item of that type. Pressing the minus sign under it deletes any unneeded field.</paragraph>
+			<paragraph>Of course, the real flexibility of the phonebook becomes apparent when you sign into your social networks. After syncing, the phonebook will automatically merge contacts (you can do it manually too), so that the contact details are pulled from those sources as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony with smart dialing, voice commands<subsectionTitle>
+			<paragraph>The in-call quality of the Samsung Galaxy Fame is really good with crisp and loud sound. Reception was also problem-free and we didn't suffer dropped calls though in areas of very poor coverage the sound would occasionally break up.</paragraph>
+			<paragraph>Smart Dial is available and works as advertised - it searches names and numbers simultaneously. Only one contact is shown (with contact photo) and you can tap the down arrow to view the rest (the number above the arrow indicates how many contacts have matched your query).</paragraph>
+			<paragraph>The dialer also offers quick shortcuts for making a video call or sending a message instead.</paragraph>
+			<paragraph>Thanks to the proximity sensor, your screen will automatically turn off during a call. The available options during a call include using the keypad, muting, holding the call or adding another call to this conversation.</paragraph>
+			<paragraph>The call log is the tab next to the dial pad. It displays all the dialed, received and missed calls in one list sorting your call history by contacts.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the Fame. It managed an Average mark, which means that you shouldn't have any trouble hearing it in normal environments. More about our loudspeaker test as well as other results can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>The messaging department is quite straightforward: there are no folders here, just a new message button. Under that button is a list of all your messages organized into threads.</paragraph>
+			<paragraph>Swiping on a message header will do exactly the same as in the phonebook - a left swipe starts a new message, while swiping to the right will start a call. There's application-specific search that lets you quickly find a given message among all your stored SMS and MMS.</paragraph>
+			<paragraph>One thing we really appreciate is that the tap to compose box grows as much as it needs to - it can fill the entire screen (above the on-screen keyboard that is), growing to 10 lines.</paragraph>
+			<paragraph>Adding multimedia content to the message automatically turns into an MMS. You can either quickly add a photo or an audio file to go with the text or compose an MMS using all the available features (like multiple slides, slide timing, layout, etc.). The multiple slides are all shown inside the compose box.</paragraph>
+			<paragraph>You can schedule a message to be sent automatically at a later point in time. There's a list of all scheduled messages in case you need to cancel or send a message ahead of time manually. You can also mark certain numbers as "spam", in case some automatic promo texts get pushy, and lock messages to prevent their deletion.</paragraph>
+			<paragraph>Moving on to email, the Gmail app supports batch operations, which allow multiple emails to be archived, labeled or deleted. The default app supports multiple Gmail accounts, but there's no unified inbox. Another cool feature in Gmail is that you can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online and messages are displayed as usual, or you can switch to a Gmail-like conversation view.</paragraph>
+			<paragraph>The Galaxy Fame also features a combined inbox, which brings together all your mail in a single folder. This can be quite handy if you have lots of accounts and you just want to check if there is a new message needing your attention.</paragraph>
+			<paragraph>For each email account, the app gives you security options (e.g. encrypting outgoing email and signing it with a private key) and a sync schedule, which can be set to check for new mail more often during "peak schedule" (you can pick the days of the week and start and end times when "peak schedule" is active).</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The G-Talk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts. There's also Samsung's own ChatOn service.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Text input - keyboard, gesture and voice<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame comes with several text input options. You have the traditional QWERTY keyboard in portrait mode (which is a little cramped) and landscape mode.</paragraph>
+			<paragraph>There are a handful of clever tricks that this keyboard can offer. You can swipe left and right to switch between letters and symbols or you can enable "Continuous input", which lets you input words by swiping over the keyboard (yes, like Swype).</paragraph>
+			<paragraph>The Samsung Galaxy Fame has very advanced text prediction features to minimize typos. If you allow it, it will scan through your emails, Facebook posts and Twitter posts and learn how you write (which words you use more often and so on).</paragraph>
+			<paragraph>Another option shows you a list of all recent items in the clipboard (both text and images) that you can quickly paste. This is great as it lets you juggle multiple copied items.</paragraph>
+			<paragraph>You can, of course, use voice input and, since the Fame is running Android 4.1 Jelly Bean, this will work even if the phone is offline as long as you have downloaded the required language package.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Stock gallery with a pinch of TouchWiz<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame comes with the default Jelly Bean Gallery which, as you'd imagine, has been treated to some TouchWiz flavor. It opens up in Album view, where rather than the familiar stacks, the app uses a grid of photos, two to a line.</paragraph>
+			<paragraph>Besides Album view, photos can also be sorted by Location and Time.</paragraph>
+			<paragraph>Getting inside an album displays all the photos in a rectangular grid, which is horizontally scrollable. When you try to scroll past the last image, the photo thumbnails will tilt to indicate that you're at the end of the list.</paragraph>
+			<paragraph>When viewing a single photo, you'll find several sharing shortcuts and a delete button above the photo, while below is a line of small thumbnails of all other photos in the album. You can tap those small thumbnails to move to other images or you can just swipe sideways.</paragraph>
+			<paragraph>The Gallery also supports highly customizable slideshows with several effects to choose from, as well as customizable music and speed. You can also highlight specific images to be included in the slideshow.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with SoundAlive<subsectionTitle>
+			<paragraph>The Galaxy Fame employs the same TouchWiz-ed music player as the Galaxy S III. Samsung has enabled equalizer presets (including a custom one) along with the sound-enhancing SoundAlive technology, which features 7.1 channel virtualization. The company also uses SoundAlive in some of their MP3 and Android-powered media players.</paragraph>
+			<paragraph>The music is sorted into various categories and one of the options, called Music square, is quite similar to the SensMe feature of Sony Ericsson phones. It automatically rates a song as exciting or calm, passionate or joyful and places those tracks on a square (hence the name).</paragraph>
+			<paragraph>From here, you can highlight an area of the square and the phone will automatically build a playlist of songs that matches your selection.</paragraph>
+			<paragraph>You can swipe the album art left and right to skip songs. You can also put the phone face down to mute the sound or place your palm over the screen to pause playback.</paragraph>
+			<paragraph>If you've enabled the Motion gestures, you can mute and pause a track by placing the phone face down.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Stripped-down video player with poor codec support<subsectionTitle>
+			<paragraph>Samsung has put its very good default video player on the Samsung Galaxy Fame. It offers several view modes - thumbnail grid, list, and folders.The grid view shows static video thumbnails (unlike the handset's more powerful siblings, which animate the thumbnails).</paragraph>
+			<paragraph>The video player lets you choose between three view modes for how the video fits the screen (fit to screen, fill screen, 100% resolution). The SoundAlive audio-enhancing technology is available here too.</paragraph>
+			<paragraph>Unfortunately the video player has poor codec support, and wasn't able to play DivX and XviD files, nor anything above 480p resolution. For the files it does play, however, the video player lets you Auto play the next video, as well as enable SoundAlive.</paragraph>
+			<paragraph>Unfortunately, subtitle support was also missing, likely another sacrifice due to the weak chipset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio with RDS, broadcast recording<subsectionTitle>
+			<paragraph>The Galaxy Fame is equipped with an FM radio with RDS too. The interface is simple - there's a tuning dial and you can save as many as 12 stations as favorites. You can also play on the loudspeaker, but the headset is still needed as it acts as the antenna. You can record radio broadcasts as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Decent audio quality<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame did quite well in our audio quality test. The smartphone couldn't impress us with its volume levels in either of the test parts, but it had a decently clean output, which is more than good enough in this price range.</paragraph>
+			<paragraph>When connected to an active external amplifier the Fame managed excellent scores for signal-to-noise, dynamic range and stereo crosstalk, while IMD and frequency response were average. Total harmonic distortion was pretty good, though.</paragraph>
+			<paragraph>When we plugged in a pair of headphones, stereo crosstalk increased quite rapidly but the rest of the readings remained virtually unchanged. The volume levels were still low though, though.</paragraph>
+			<paragraph>Here are the results so you can see for yourselves.</paragraph>
+			<paragraph> Samsung Galaxy Fame frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good 5MP camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame comes with a 5MP camera, which is able to capture photos at a maximum resolution of 2592 x 1944 pixels. It also has an LED flash to assist it in low lighting conditions.</paragraph>
+			<paragraph>The interface is virtually the same as what is found most Galaxy devices, with only a few things missing here and there. On the right there's the still camera / camcorder switch, a virtual shutter key and the gallery shortcut (which is a thumbnail of the last photo taken).</paragraph>
+			<paragraph>On the left, you get several controls and the good news is that you can pick any three shortcuts to put there - its let you easily have all frequently used features just a tap away.</paragraph>
+			<paragraph>You can also move the icons around to your liking, but the bottommost shortcut always points to Settings.</paragraph>
+			<paragraph>The Fame has several features and shooting modes: touch focus, smile shot, share shot, and panorama mode. You can also adjust the exposure value, white balance, and take self-shots and videos with the front-facing camera.</paragraph>
+			<paragraph>Samsung's pedigree of good image quality with recent devices has transferred well to the Samsung Galaxy Fame. The colors are accurate and the dynamic range is good, with no over aggressive noise reduction or lack of detail to ruin the party.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame has plenty of other 5MP shooters to compete with in our Photo compare tool. The tools page gives you info on what to look out for.</paragraph>
+			<paragraph>   Samsung Galaxy Fame in our Photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>VGA video recording is decent for its class<subsectionTitle>
+			<paragraph>The camcorder interface of the Galaxy Fame is almost the same as the still camera's - you get the same customizable panel on the left with four shortcuts.</paragraph>
+			<paragraph>The image quality is also very pleasant, with no noise or compression artifacts and good color reproduction. Obviously, the VGA resolution is low by today's standards, but this is a budget device after all. The videos are shot @ just over 25fps and are stored in MP4 files with 2.5Mbps overall bitrate and mono sound at 62.9Kbps / 48kHz.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can get the VGA video taken directly from the device here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Well connected<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame has a long list of connectivity features. Let's start off with the basics - quad-band GSM/GPRS/EDGE and dual-band 3G (AWS is missing though). The 3G connectivity is backed by HSPA (7.2Mbps downlink, 5.76Mbps uplink).</paragraph>
+			<paragraph>The Wi-Fi support covers b/g/n with Wi-Fi Direct also part of the package.</paragraph>
+			<paragraph>There's also Bluetooth 4.0 with A2DP as well.</paragraph>
+			<paragraph>In some regions, the Fame has NFC connectivity. It lets you share all sorts of media via NFC by simply touching the devices back-to-back. You'd need two S Beam-enabled devices to get this to work - while not many models support it, there are plenty of later generation Galaxy's around.</paragraph>
+			<paragraph>You can share with other NFC devices as well, but the functionality is limited to what is provided by Android Beam - Android's stock NFC tool.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Tweaked Jelly Bean browser<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame has a tweaked version of the Jelly Bean Android browser, but Chrome also comes pre-installed, if that's what you prefer.</paragraph>
+			<paragraph>Anyway, the default browser supports both double tap and pinch zooming along with the two-finger tilt zoom. There are niceties such as multiple tabs, text reflow, find on page and so on. A neat trick is to pinch zoom out beyond the minimum - that opens up the tabs view.</paragraph>
+			<paragraph>The Web browser comes with Incognito mode, which lets you surf the web without the browser keeping track of your history or storing cookies. You can also switch to a more minimalist UI, which currently is in a Lab stage. It disables most of the browser's user interface and gives you a quick five-button layout to access the basics.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame comes with a number of cool apps preinstalled. One of the most prominent is the inclusion of the Quickoffice document editor, which lets you view the most common office document with ease, although you'll have to upgrade to the pro version to enable editing capabilities.</paragraph>
+			<paragraph>The S Planner is a skinned calendar that is easy to use with your fingers. The tabbed interface lets you easily toggle between year, month, week, day list and task views.</paragraph>
+			<paragraph>The S Planner app can sync with multiple calendars and you can switch off individual ones to reduce the clutter.</paragraph>
+			<paragraph>The clock app features is laid out across five tabs, each with a different function. The first tab lets you create multiple alarms (each with a distinct repeat time and ring tone), then there are the World clock, stopwatch, timer and desk clock tabs.</paragraph>
+			<paragraph>The Calculator features big buttons, but you can enable one-handed operation to make things more manageable. The text size is adjustable and if you flip the phone horizontally, you get some advanced math functions too.</paragraph>
+			<paragraph>The My Files app lets you browse all the files in your phones' memory or on an attached microSD card. The app is launched automatically when you hook up a USB mass storage device (a USB drive, another phone, an SD card etc), which we find to be a nice touch.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps with offline caching<subsectionTitle>
+			<paragraph>The Samsung Galaxy Fame comes with a GPS receiver, which took about a minute to get satellite lock upon a cold start (it supports GLONASS for faster, more accurate locks too). You can use the A-GPS functionality to get near instantaneous locks. Alternatively, network positioning will also do if you only need an estimate of your location.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>You can also plan routes, search for nearby POI and go into the always cool Street View. The app will reroute you if you get off course, even without a data connection.</paragraph>
+			<paragraph>Google Maps uses vector maps, which are very data efficient. The latest version has an easy to use interface for caching maps - you just choose "Make available offline" from the menu and pan/zoom around until the desired area is in view (there's an indicator showing how much storage caching that area will take). You can later view cached areas and delete ones you no longer need.</paragraph>
+			<paragraph>Note that there's a limit to the size of the area you can cache - you can't just make all of Europe available offline, not even a whole country. We managed to cache London and some surrounding regions before Maps told us the area is too big. Also, there's no address search in the cached maps and you can only cache map data in supported regions of the world.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Play Store<subsectionTitle>
+			<paragraph>Recently, the Google Play App store received a visual update, complete with bigger, more easily visible app thumbnails. For the most part, though, the general functionality of the marketplace remains the same. The Samsung Galaxy Fame's microSD slot guarantees you won't have trouble with space.</paragraph>
+			<paragraph>The Store is organized in a few scrollable tabs - categories, home, top paid, top free, top grossing, top new paid, top new free and trending. The in-app section is very informative - a description, latest changes, number of downloads and comments with rating. There is usually a demo video and several screenshots for most apps too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>It's been quite a while since Samsung has released a truly budget smartphone. The days of affordable Gingerbread devices running on single-core processors seemed like a distant memory until picking up the Galaxy Fame made us feel as though we're back in 2012.</paragraph>
+			<paragraph>But after spending some more time with the smartphone we found that the picture is completely different, despite what the specs sheet suggests. Samsung has done a great job of the Galaxy Fame's Jelly Bean build, and has ended up with s a surprisingly well-performing mobile OS with functionality much better than is usually available in this class. Throw in the optional dual-SIM and NFC variants, the capable 5MP camera complete with VGA front-facer, and you have a very compelling offering.</paragraph>
+			<paragraph>Samsung has released an even cheaper smartphone alongside the Galaxy Fame. The Galaxy Young looks quite similar to its sibling, but it's slightly smaller, has no front-facing camera, and only a 3MP rear shooter. Otherwise, you'll find the same Broadcom SoC inside, the same HVGA resolution of the display and Jelly Bean build, while saving yourself about &#x20ac;20. The choice between those two is down to your camera needs and whether or not you do video-calls.</paragraph>
+			<paragraph> Samsung Galaxy Young S6310</paragraph>
+			<paragraph>Sony offers an alternative to the Galaxy Fame with its Sony Xperia E smartphone. Like the Fame, it has a dual-SIM counterpart, and also comes with Jelly Bean out of box. The 3.5-inch HVGA is the same, as is the internal storage and RAM. Although it's available for less than the Fame, you will have to give up the 5MP camera and front-facing shooter.</paragraph>
+			<paragraph> Sony Xperia E</paragraph>
+			<paragraph>Nokia has an arguably more attractive alternative in the Nokia Lumia 520. The Windows Phone-running device features a larger, higher-resolution screen, double the internal storage, a way more capable dual-core processor, and a higher capacity 1430 mAh battery. Although you'll have to sacrifice the front-facing camera, its 5MP camera is capable of 720p video recording, and you won't need to pay any premium price of course. Unless you are very deeply invested in the Android ecosystem (and, if you are shopping entry-level smartphones, chances are you aren't), you should consider the WP Lumia very seriously.</paragraph>
+			<paragraph> Nokia Lumia 520</paragraph>
+			<paragraph>Finally, the Galaxy Fame faces one of the most popular mid-rangers of yesteryear which has undergone several major price cuts and fallen down the ranks. The Samsung Galaxy Ace 2 was released exactly one year ago, but has since received the Jelly Bean update, so it's definitely a capable device. It offers a larger, higher resolution screen, a 5MP camera capable of 720p video recording, a dual-core 800 MHz processor, and a 1500 mAh batter - all for the same price as the Galaxy Fame. It even offers optional NFC support, but there is unfortunately no dual-SIM version.</paragraph>
+			<paragraph> Samsung Galaxy Ace 2 I8160</paragraph>
+			<paragraph>The Samsung Galaxy Fame's software package and commendable performance from a single-core processor make it a an interesting device, but it's currently at a price point where more capable competition can be found. It's stripped-down Young sibling will nab the most frugal of shoppers, while more powerful competitors from Nokia - as well as last year's midrange Android offerings - mean that the Galaxy Fame has to undergo a price readjustment if it has any hopes of doing well this summer.</paragraph>
+		</subsection>
+	</page>
+</review>

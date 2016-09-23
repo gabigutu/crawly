@@ -1,0 +1,54 @@
+<review>
+	<title>ZTE Zmax Pro hands-on</title>
+	<description>First Look</description>
+	<link>http://www.gsmarena.com/zte_zmax_pro-review-1466.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>ZTE ZMax Pro at a glance:<subsectionTitle>
+			<paragraph>Body: 6.50" x 3.30" x 0.35" (184mm x 94mm x 9.9mm) | 6.17oz (176g)</paragraph>
+			<paragraph>Screen: 6-inch TFT LCD | Gorilla Glass 3 | 1080p (1920 x 1080px)</paragraph>
+			<paragraph>Chipset: Qualcomm Snapdragon 617 chipset (1.5GHz octa-core CPU)</paragraph>
+			<paragraph>Memory: 2GB RAM | 32GB ROM | Expandable storage via microSD up to 128GB</paragraph>
+			<paragraph>Cameras: 13MP PDAF rear camera, 1080p@30fps video recording | 5MP selfie camera</paragraph>
+			<paragraph>Battery: 3,400mAh integrated battery | Charge - 5V @ 2.1A</paragraph>
+			<paragraph>Misc: FM Radio, rear-mounted fingerprint scanner</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>ZTE has just announced the ZTE ZMax Pro. A 6-inch phablet with a fingerprint scanner, huge battery, and great specs for the price of only $99 after a $100 instant-rebate.</paragraph>
+			<paragraph>ZTE had us over for the New York unveiling of this successor to the ZTE ZMax 2.</paragraph>
+			<paragraph>The ZMax will not be available on AT&amp;T like its successor. Instead, ZTE have have a deal with Metro PCS. The phone will hit Metro PCS stores starting August 1 with pre-registration open now. The first 5000 pre-registered customers who buy the phone will be mailed a free leather flip case.</paragraph>
+			<paragraph>ZTE says the Zmax Pro breaks records for the best spec'd device under $100 and it's a better value than the costlier Samsung Galaxy J7 and the LG Stylo 2 because it either matches or outperforms the others on paper. Of course, you have to bear in mind that this price is for a unit locked to MetroPCS network. There is no contractual obligation for the carrier's services but for this price the phone won't take SIM cards from another carrier - not even T-Mobile's, even though T-Mobile owns the MetroPCS network and brand.</paragraph>
+			<paragraph>We've got hands-on photos for you to check out from the event as we take a fist look at the ZTE ZMax Pro.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and hardware<subsectionTitle>
+			<paragraph>The ZTE Zmax Pro's design is obviously reminiscent of its predecessor, the ZTE Zmax 2. The refreshed design gives the phone's corners a much rounder appearance whereas the Zmax 2 had pointier looking corners. The device's backside is made of a matte finished plastic and the frame is made of hard plastic which was finished to look like it was made of metal.</paragraph>
+			<paragraph>The back of the phone isn't really forgiving of fingerprints as the porous surface absorbs the oil from your hands. Still, there aren't many phones that are able to successfully hide fingerprints so this is something we've all learned to live with by now.</paragraph>
+			<paragraph>There are 3 hardware keys on the right (Sleep/wake, volume up, and down) and three capacitive keys. The left side of the phone has only the SIM tray which also accepts a microSD card for up to 128GB of additional storage. Then up top is a noise cancelling mic, and 3.5mm headphone jack. New to the ZTE Zmax lineup is the USB-C port. Heck, it's new to the mid-range market as well!</paragraph>
+			<paragraph>Unfortunately, the charger included with the phone is not Quick Charge 2.0 and the phone isn't compatible with fast charging either. The phone will charge the 3,400mAh battery with a current of 5V @ 2.1A for a total of 10.5Watts. Not too bad, but with a battery of this size, the phablet is sure to take fairly long to charge from zero.</paragraph>
+			<paragraph>The device features a large 6-inch 1080p LCD touchscreen on the front. Above it is an earpiece speaker with 3 abnormally large holes, and next to it a 5MP selfie camera followed by a proximity and light sensor.</paragraph>
+			<paragraph>Under the screen are those three capacitive buttons mentioned earlier. The two buttons on either side of the home button (which are usually reserved for "recents" and "back" are ambiguous and the user can change them to their liking. Perhaps this isn't the best decision for the average consumer as they could never know which button is which by just looking at them.</paragraph>
+			<paragraph>And finally, on the back of the device we are greeted by a 13MP camera with a single LED flash and the fingerprint scanner. The scanner is recessed, which makes it easier to find just by feeling around.</paragraph>
+			<paragraph>Toward the bottom of the backside we find the loudspeaker which has a couple of nubs that help keep the speaker from muffling when placed on a flat surface.</paragraph>
+			<paragraph>The hardware blends in well with other smartphones. You might have a hard time finding someone off the street who believes that this phone only cost $99 from first impressions.</paragraph>
+			<paragraph>Of course, with that hardware, it's important to have a decent user-interface. The good news is the Zmax Pro keeps many aspects of Android stock. Read on to find out more about the Zmax Pro's user interface!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User Interface<subsectionTitle>
+			<paragraph>This ZTE Zmax Pro feels surprisingly snappy with the Qualcomm Snapdragon 617 CPU paired with a decent 2GB of RAM. This is thanks to ZTE keeping the Android modifications to a minimum. Many aspects of vanilla Android can be seen in the ZMAX PRO like the "Settings" interface, app switcher, lockscreen, and launcher. The only things from the UI that look significantly different over stock Android are the volume adjustment panel, quick settings, and swiping away notifications is a bit different.</paragraph>
+			<paragraph>Also, the "press &amp; hold to unlock" threw us off a bit. Either way, if you're using a fingerprint, you'll never need to unlock the screen by doing this as placing your finger on the scanner will bypass the lockscreen right into the launcher which works fairly fast but it's not consistent with it taking anywhere from about 3/4 - 2 seconds.</paragraph>
+			<paragraph>The camera interface is quite feature packed and it offers features that other cameras offer like slo-mo, multiple exposure shots, and a manual mode which allows the user advanced controls of the camera.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>The ZTE Zmax Pro seems like the phablet to beat at $99 price point. It feels significantly snappier than the Honor 5X even with its recent update to Marshmallow. The Snapdragon 617 that ticks in the Zmax Pro outperforms the 616 found in the Honor 5X. Honor's somewhat heavy EMUI could be a factor that affect its performance.</paragraph>
+			<paragraph>The ZTE Zmax may not be great for first-time smartphone users with its large 6-inch screen and somewhat confusing capacitive buttons. Still, it could make a great first phone for a young tech enthusiast, who's after an affordable device. Of course, $99 is the subsidized price for a pre-paid service on MetroPCS and the phone will be available exclusively from the carrier in the US.</paragraph>
+			<paragraph>ZTE continues to cater to the bang-for-buck with its 3rd generation of the ZTE Zmax lineup, which started with the ZTE Zmax back in 2014. The ZTE Zmax Pro continues that legacy with even better specs, more features like the fingerprint scanner, and an amazingly competitive price.</paragraph>
+		</subsection>
+	</page>
+</review>

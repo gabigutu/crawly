@@ -1,0 +1,241 @@
+<review>
+	<title>LG G5 vs Samsung Galaxy S7</title>
+	<description>A rebel and a stunner</description>
+	<link>http://www.gsmarena.com/lg_g5_vs_samsung_galaxy_s7-review-1433.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>This is a battle of innovation versus refinement. LG let the designers off the leash and they went wild on the LG G5. Samsung brought in the perfectionists to polish the Galaxy S7.</paragraph>
+			<paragraph>The G5 is LG's moonshot. It's when a company tries to create the next big thing, instead of turning out sure-fire products. LG rethought everything about how a smartphone is built - from the metal shell to what goes inside it. The modular design is a first in a mainstream phone - it promises unrivaled expansion and customization possibilities, but LG needs a vibrant ecosystem of add-ons to succeed.</paragraph>
+			<paragraph>The Samsung Galaxy S7 is more of a sealed product (literally even, it's waterproof). With it, you get what you get. It's owning up to the mistakes the S6 made, finally giving people what they want. That means the consumers' wants and needs were addressed at the manufacturing stage, instead of waiting on add-ons later.</paragraph>
+			<paragraph>We find some common features among the two: an Always On screen, the OIS-enabled camera with a bright aperture - but the two phones couldn't have been more different.</paragraph>
+			<paragraph>You might call the Galaxy S7 a "smartphone distillate". The stuff you need is refined to perfection, while the stuff you don't need (at least the way Samsung sees it) is discarded.</paragraph>
+			<paragraph>The LG G5 is more of a "what smartphones could be", with complicated build materials and unorthodox design, a step towards the future of the smartphone.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>The Samsung engineers that worked on the Galaxy S7 had a clear path ahead of them. Consumers find the S6 design pretty, so keep it intact for the S7. Consumers think the S6 battery is too small, so bump up the capacity. Consumers want the microSD slot back and few competitors offer waterproofing - so bring both back on board. Finally, add a camera technology nobody else has and the sales pitch is ready to write itself.</paragraph>
+			<paragraph>The LG G5 engineers decided to think outside of the G4 box. They created two defining, unique features for the G5, the dual camera on the back (which we think will be used often and with great success) and the modular design (which we fear might fizzle out).</paragraph>
+			<paragraph>The metal casing hides additional secrets, however. Your eyes are first drawn to the 3D Arc Glass, a uniquely shaped Gorilla Glass 4 that slopes at the top, instead towards the bezels. Then there's the seam that runs along the side of the phone.</paragraph>
+			<paragraph>It's not actually a seam between two pieces of the chassis, it's the antenna lines. Metal phones have (often unsightly) plastic strips that break up the hull to allow antennas to do their work. LG hid those using a technique called "microdizing", which created the "seam." The edge that it creates spoils the exterior slightly and feels sharp to the touch - not enough to be uncomfortable, but it takes some getting used to.</paragraph>
+			<paragraph>It turns out that the LG G5 is metal on the inside, but it has a thin coating of primer and an additional pigment layer that contains metal particles. The G5 mostly looks the part, but in the hand, it feels somewhere between naked anodized aluminum and polycarbonate. LG claims this is to improve durability (naked aluminum is easy to dent).</paragraph>
+			<paragraph>The Samsung Galaxy S7 is more traditional - a metal frame with exposed sides is sandwiched between two panes of 2.5D Gorilla Glass 4. The front pane has beveled edges while the back is curved on the left and right, which notably improves handling comfort.</paragraph>
+			<paragraph>The metal you feel is real (interrupted only by the plastic antenna strips), but most of the surface area is glass. This makes the S7 feel more premium than the G5, but it's also more slippery and more fragile (the glass can crack, metal will not).</paragraph>
+			<paragraph>The Galaxy S7 is waterproof - IP68 rated, meaning it should survive a dive under 1.5 meters of water for half an hour. No unsightly flaps over ports like we had with the S5 (and it was disastrous if you forget to fit the flap properly in place).</paragraph>
+			<paragraph>The LG G5 has too big of an opening to waterproof, the whole bottom of the phone comes off! That's the Magic Slot, where custom modules go. LG has two ready at launch - a camera grip (which adds 1,200mAh battery capacity and hardware controls) and a Bang &amp; Olufsen DAC for audio buffs.</paragraph>
+			<paragraph>It's not as ambitious as Google's Project Ara (where everything is a module you can change), but Ara is far from consumer-ready (if not even dead).</paragraph>
+			<paragraph>Anyway, the modules are firmly secured in place - there's no wobble at all and no chance to accidentally pull it out. If anything, they can be a bit too hard to remove. Also, since the battery is attached to the module and not the phone, this operation requires a restart (LG worked to improve boot times to reduce the downtime).</paragraph>
+			<paragraph>The modules don't fit perfectly, though, on our LG G5 unit you can see and feel the module is slightly out of alignment.</paragraph>
+			<paragraph>In theory, this modular system creates an infinitely expandable and customizable phone. There could be modules ranging from the mundane (a slim battery pack, the camera grip is too bulky for daily use) to wild (an infrared camera).</paragraph>
+			<paragraph>Could be... so far there are only two official modules (and the B&amp;O DAC will not be available in the US) and no additional modules have been announced.</paragraph>
+			<paragraph>The Samsung Galaxy S7 is much more traditional in its build. The only thing that comes out of it (and indeed your only opportunity to upgrade the phone) is the card slot, which takes a nanoSIM and a microSD slot. There's a dual-SIM version where the slot is hybrid, it takes either a second nanoSIM or a microSD card.</paragraph>
+			<paragraph>The LG G5 also comes in dual-SIM flavor, but there the microSD slot is dedicated.</paragraph>
+			<paragraph>Both manufacturers have elected to disable Marshmallow's "adoptable storage" feature, which merges the inner storage with the microSD. Adoptable storage would have meant the memory card cannot be taken out and read by another device.</paragraph>
+			<paragraph>Both phones have fingerprint readers and both double as buttons. On the Galaxy S7 it's the Home button while on the LG G5 it's the Power button. Normally your index finger easily reaches the G5's back button, but locking the phone after using the camera can be awkward (as your hand is no longer on the phone's back).</paragraph>
+			<paragraph>You do get Tap to wake (the S7 doesn't do that), but it's not as fast as Samsung's quick launch solution (double tap the home key).</paragraph>
+			<paragraph>The Samsung flagship has a biometric sensor near the camera. It tracks your heart rate and your blood oxygen level (SpO2). Those integrate with the S Health app and enhance exercise tracking (in case you don't have a smart watch/band that does that).</paragraph>
+			<paragraph>LG G5's curious dual-camera setup on the back (which we'll cover in more detail later) comes equipped with laser autofocus and a light color sensor to improve the accuracy of the camera.</paragraph>
+			<paragraph>We'll get to Galaxy S7's camera too, but for now let's just mention that Samsung made the phone a bit thicker and killed two birds with that particular stone - it fitted a bigger battery and the camera no longer sticks out. The G5 has a definite camera bump.</paragraph>
+			<paragraph>Before we close this chapter let's mention a couple of tidbits - the LG G5 has an IR blaster on top and FM radio, the S7 has neither of those things. The LG also uses the new USB Type-C connector rather than the plain microUSB 2.0 of the Galaxy. Neither does wired TV out, so practical differences are small (Type-C is reversible, 2.0 cables are much more common).</paragraph>
+			<paragraph>Innovation: The LG G5 definitely feels like the more innovative product. However, the Magic Slot system will need to prove its worth (and that requires more modules, wider adoption of the modular system and such). The coated metal shell should improve durability, but it spoils the "all metal" feel. </paragraph>
+			<paragraph>Refinement: The ugly camera bump is gone, our storage needs are free to grow, the phone can weather the elements. The battery is still sealed, but improved battery life is a good consolation prize. </paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. It's the safe choice - it looks and feels premium and other than worrying about cracking the glass, there are no durability worries here.</paragraph>
+			<paragraph>We worry that the LG G5's Magic Slot module might get even more out of alignment after a year or two of drops and knocks (and this is regardless of whether you use modules or not). The Arc Glass is cool, but the "hidden" antenna rim often reminds you of its presence and the coated metal feels less premium than it's supposed to. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>QHD resolution is standard now, but screen size varies. Samsung settled on 5.1" for the third year in a row while LG went from 5.5" down to 5.3". When you take the on-screen buttons into account, the two will have just about the same screen real estate available to the user most of the time.</paragraph>
+			<paragraph>Both screens are secured by Gorilla Glass 4 so you can expect similar durability. They differ in how the 2.5D glass is shaped, but that's more of a cosmetic difference than anything else.</paragraph>
+			<paragraph>Both makers simultaneously launched Always On features for the screen. LG did have a preview with the LG V10, but that was a special case with a dedicated strip at the top. To be fair, Motorola did it a while ago and Nokia feature phones and Symbians had it much earlier.</paragraph>
+			<paragraph>The Galaxy S family is known for Super AMOLED displays and the S7 has the latest and greatest incarnation. It's very bright (especially in Auto mode) and flawless even under direct sunlight. The minimum brightness is an impressive 2.1 nits, so checking the phone in the middle of the night is no longer painful.</paragraph>
+			<paragraph>Color rendering is at a pro level with average deltaE of 1.7 (max is 2.3) for Basic mode. The punchier, more saturated Adaptive mode has an Avg DeltaE of 7.1.</paragraph>
+			<paragraph>LG has its brand of displays called Quantum (similar sounding to Sony's Quantum Dot, but not the same thing). It's an IPS LCD and it shows great improvements over LCDs of a couple of years back. It's not that bright, but contrast is incredible. It helps that black levels are nothing short of amazing at 0.17-0.2 nits.</paragraph>
+			<paragraph>Sunlight legibility is better than most LCDs. LG's Assertive Display adjusts pixel colors in real time to improve readability in direct sunlight (it selectively brightens dark areas of the image). In the opposite scenario - pitch black - the screen can go as low as 3.6 nits.</paragraph>
+			<paragraph>Color accuracy is good (average deltaE of 5.3) though not as good as a calibrated display. There are no screen modes to adjust the image settings like on the Galaxy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>With smartwatches taking over a lot of the passive notification duties (discretely vibrating and letting you peek at a notification), Always On displays are what's needed to keep smartphones in the game.</paragraph>
+			<paragraph>Both displays show a dim clock and date, plus notifications. LG is more flexible as it also allows app notifications while the Samsung shows only missed calls and texts (so no Facebook/WhatsApp/Viber). That limits the convenience of the feature quite a bit. Another important note is that Samsung's Always On screen is brighter and more legible than LG's which is ghostly faint.</paragraph>
+			<paragraph>The big issue with Always On is power draw - LG claims 0.8% battery charge per hour, the Samsung uses more at 1%/h (and that's 1% of a bigger battery too). Enabling Always On puts both phones at about 50 hours of Endurance, with the Galaxy taking the bigger hit (but it's also got the brigher display).</paragraph>
+			<paragraph>Innovation: We predict that in a few years most phones will have a version of an Always On screen. It could be wishful thinking, but it was always a case of battery drain (the Moto X had it bad) and we're almost there. Samsung's version is brighter, more legible, but LG's shows more.</paragraph>
+			<paragraph>Refinement: Cudos to both makers. Super AMOLED is hands-down better than LCD in practically every way. That said, Quantum Display is among the best LCDs we've seen yet.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. The screen is brighter, has more accurate colors and better sunlight legibility, a decisive win. The brighter Always On screen makes a difference too, but we wish Samsung issued an update to allow third-party notifications to show. </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery<subsectionTitle>
+			<paragraph>When designers take over product development, we get thin, lovely phones but, honestly, most of the time we just want solid battery life so we're okay with a chunkier phone if it means better battery life.</paragraph>
+			<paragraph>Surprisingly, Samsung seems to have heard consumers and the Galaxy S7 is thicker than the S6 (7.8mm vs. 6.8mm) and offers more battery capacity - 3,000mAh vs. 2.550mAh. There's the added bonus of leveling off the back (be gone, camera bump!).</paragraph>
+			<paragraph>LG went the other way and made the phone thinner (7.7mm, down from G4's thickest point at 9.8mm), but reduced battery capacity - from 3,000mAh to 2,800mAh. We guess the modular system ate up some of the internal volume, but still the G5 is both taller and wider than the S7.</paragraph>
+			<paragraph>Note that we ran the battery life test on the Exynos 8890 version of the Galaxy S7, but there's also a Snapdragon 820 version (same chipset that powers the LG G5).</paragraph>
+			<paragraph>The Galaxy S7 beats its opponent in essentially all tests. You get 5 hours more of calls, 2h extra for web browsing or 4 and a half hours of watching videos (or some combination of those three). The Endurance rating comes out an impressive 80 hours, but that's slashed to just 49 hours with Always On.</paragraph>
+			<paragraph>The LG G5 does pretty well on average, it's the 7 hours 30 minutes of web browsing that are a letdown. You may be thinking "that's plenty" (and it is), but it is below average. The Endurance rating is also average - 60 hours - but the good news is that the Always On screen drops that by just 10 hours (so it actually edges out the Galaxy by an hour).</paragraph>
+			<paragraph>Both phones ship with quick chargers. The LG G5 has version 3.0 and that puts a whopping 83% of charge (starting at 0%) in the battery in just half an hour. Samsung still uses v2.0 and that's good for 60% in 30 minutes (to be fair, it has a slightly bigger battery to fill).</paragraph>
+			<paragraph>Samsung is pushing for advanced wireless charging and the Galaxy S7 comes equipped with a fast version of it. Samsung hasn't disclosed the exact numbers but says it's 40% faster than first-gen wireless charging. It also supports both Qi and PMA standards (most venues offer just one standard, but supporting two makes it more likely your S7 will work).</paragraph>
+			<paragraph>Innovation: Fast wireless charging is a great way to go forward. Samsung, in particular, doesn't think wired connections are long for this world, as evidenced by the cut-down microUSB 2.0. LG pioneered shaped batteries that fill every nook and cranny of a phone's interior, but there's none of that in the G5.</paragraph>
+			<paragraph>Refinement: "More" is a good enough refinement, if you ask us. We're glad Samsung put its practical hat back on after wearing the creative beret last year.</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. While going by Endurance rating, both phones last the same with Always On screens on, heavier users will get more life out of the S7 (since less time will be spent in standby). Without Always On, it's a clear victory for the Galaxy. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Qualcomm's stumble last year brought a lot of headaches to phone makers, including LG, which chose to go with the second-best Snapdragon 808 for both the G4 and V10.</paragraph>
+			<paragraph>This year, the chip designer redeemed itself in a big way with the Snapdragon 820, which offers excellent performance and LG jumped on it.</paragraph>
+			<paragraph>Samsung had a backup - the Exynos division - and last year Galaxy S6 and Note5 had the best chipset on Android by a large margin. This year, the company pressed on and introduced new in-house CPU cores - four of them, replacing the cores in the "big" cluster (what would have been A57/A72 otherwise). The "little" cluster is still made up of four A53 cores.</paragraph>
+			<paragraph>In the US, the Samsung Galaxy S7 packs S820. We had the Exynos 8890 version for testing, but we've included scores from an S820-powered S7 edge, which should have a similar performance to the non-edge version.</paragraph>
+			<paragraph>Both phones have 4GB of RAM and with a similarly performing chipset, we can expect both flagships to be close in overall performance.</paragraph>
+			<paragraph>AnTuTu 6 gives the LG G5 a tiny lead while Basemark OS 2.0 handed the victory to the Galaxy S7 duo (with Snapdragon ahead of Exynos).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Delving into more detail on processor performance, the Snapdragon has a clear advantage. No surprise here, since Qualcomm went with only four cores arranged in a 2+2 big.LITTLE cluster, but they are more powerful than their counterparts in the 4+4 setup of the Exynos.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The difference isn't that large, though, and the higher numbers of the Exynos chipset pull ahead in multi-core tests. While some apps make the best of all cores available (even browser like Chrome), others get a bigger boost of the "few but powerful" CPU design.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to the GPU, there Samsung still uses reference designs from ARM - Mali-T880 in particular, with 12-cores. Qualcomm has an in-house design team that pumps out Adreno GPUs.</paragraph>
+			<paragraph>In all tests, it seems that, surprisingly, it's the Snapdragon 820-based Galaxy S7 edge that comes out on top (usually by 1-2 frames per second). The Exynos version comes in third and the S820-powered LG G5 splits the two pretty equally.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Car scene (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We expected the Snapdragons to stick together, but that's not the case. Switching to a different benchmark, Basemark ES 3.1 Metal, puts the Exynos-based S7 on top, but the LG G5 again lags slightly behind the S820 S7.</paragraph>
+			<paragraph>Basemark X is a third data point showing that the Adreno inside the Galaxy S7 performs better than that inside the G5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Innovation: Both Qualcomm and Samsung are doing custom CPU designs, which will create some competition compared to last year when standard ARM designs were used by both (it's just that Samsung won thanks to a more advanced manufacturing process). </paragraph>
+			<paragraph>Refinement: Samsung needs a great deal of GPU performance since VR is so demanding (and the Gear VR was a big part of S7's launch). Both phones have the fastest mobile GPUs available.</paragraph>
+			<paragraph>Winner: Tie. The difference between the two is small enough for you to probably not notice much of a difference.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Loudspeaker<subsectionTitle>
+			<paragraph>Not much going on here, just the usual single-speaker setup. The LG G5 at least rates Good and beats the Galaxy S7 in all three tests.</paragraph>
+			<paragraph>The Samsung scored a Below Average, with the biggest difference in the ringtone test, smallest in the voice test. Xperia Zs get poor loudness ratings too, so this is likely down to the waterproofing.</paragraph>
+			<paragraph>Innovation: Nothing to see here. That is until LG comes up with a Loudspeaker module (the speaker grille is at the bottom, suggesting upgrades are possible). </paragraph>
+			<paragraph>Refinement: Nope.</paragraph>
+			<paragraph>Winner: LG G5. The cumulative difference adds up and can be pretty significant depending on the ringtone you use.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output<subsectionTitle>
+			<paragraph>Both the LG G5 and the Samsung Galaxy S7 delivered perfectly clean output in the first part of our audio test. When used with an active external amplifier, the flagships performed as you?d expect with no weak points whatsoever. The G5 loses in terms of loudness and even using the B&amp;O module doesn?t quite help it match the Galaxy S7 output.</paragraph>
+			<paragraph>When we plugged in our standard headphones, the Galaxy S7 pulled ahead in terms of clarity thanks to its superior stereo separation. The optional B&amp;O module helped put the two on par and in this case it even matched the loudness of the S7. When it's on its own however, the G5 just can?t quite keep up.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+			<paragraph>Innovation: LG G5's ability to improve the built-in DAC with an external one proves valuable, but expensive. Still, audiophiles will enjoy knowing exactly what DAC they are listening to. </paragraph>
+			<paragraph>Refinement: Both makers have made big strides in mobile audio quality, but LG needs to work on the AMP (the G5 is too quiet).</paragraph>
+			<paragraph>Winner: Tie. The Samsung flagship offers better stereo quality with headphones and louder output in both test cases. But the gap is not huge and the LG G5 is still a solid performer. It also outplays the Galaxy S7 with a feature or two, among which the optional B&amp;O module.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photo quality<subsectionTitle>
+			<paragraph>Before we start with photo quality, we have to figure out what to do with LG G5's second camera. It only has 8MP resolution and is a fixed-focus unit, so it won't take part of the image quality comparison, but the advantage in field of view it offers is massive - 135° vs. 75°.</paragraph>
+			<paragraph>How much is that, really? Well, G5's wide camera captures things that are usually found off to your sides. Here's a visual comparison, a simple way of thinking about it is that you cover double the horizontal space than you do with the regular camera.</paragraph>
+			<paragraph>Both LG G5 cameras are 16:9 while Samsung went back to 4:3. This gives it less horizontal coverage, but more vertical. They have different resolutions too - 16MP for the LG G5, 12MP for the Galaxy S7 - giving the LG an edge in good light.</paragraph>
+			<paragraph>You will definitely notice some distortion when shooting wide photos with the LG G5, this is unavoidable with a camera this wide. At half the resolution and with a wider FoV, the wide camera can't compete on fine detail. Here's a quick example of what happens when we blow up a wide photo to 16MP.</paragraph>
+			<paragraph>Here's the same scene through the eyes of LG G5's narrow camera and the Samsung Galaxy S7.</paragraph>
+			<paragraph>Both cameras fill up the histogram from end to end, making the most of their dynamic range (which seems about equal). The Samsung definitely applies a harsher contrast curve. This affects the color rendering too, look at how much lighter the green is.</paragraph>
+			<paragraph>The contrast brings out more detail, which can be seen in the texture of this building. Another part of it is that the Galaxy S7 applies more sharpening, but does a better job of it too - you can see streaks of detail among smudgy patches in the LG G5 while detail is more even in the S7 photo.</paragraph>
+			<paragraph>Samsung tends to overdo it though - let's look at some foliage. You can see the patches that the G5 smudged up, the grass and bushes look more natural than the contrasty, oversharpened photo the Galaxy took.</paragraph>
+			<paragraph>The LG G5 features a Color Spectrum sensor, which should help it pick out the right color balance even in difficult lighting situations. It is more accurate than the Galaxy S7 most of the time. We did notice that some parts of the photos have a slight tint to them, but it was rare.</paragraph>
+			<paragraph>Samsung was the first to introduce Phase Detection autofocus in mobile phones (with the S5). With PDAF, you get a fixed number of points that detect whether they are in or out of focus and the camera's lens makes the necessary corrections. This works in conjunction with regular contrast autofocus (which basically all digital cameras with focus have).</paragraph>
+			<paragraph>Now it's the first to bring the successor to that tech, it's called Dual Pixel autofocus. The main difference is one of scale - every pixel works as a phase detection point, compared to the few dozen points you get with PDAF. The results are near instantaneous, accurate focus. Even most DSLRs can't measure up.</paragraph>
+			<paragraph>LG went another way and used active autofocus dubbed Laser AF. It uses a beam of light to measure the distance to objects. This works regardless of lighting conditions (the G5 has its own light), but it's short-range - usually about 50cm/2ft or so.</paragraph>
+			<paragraph>LG G5's Laser AF is augmented with Phase Detection AF. We found a few shots with missed focus while the Samsung was on the money every time.</paragraph>
+			<paragraph>Innovation: Dual Pixel AF greatly improves the shooting experience, even phase detection cameras can feel frustratingly sluggish especially in a dynamic scene.</paragraph>
+			<paragraph>The Wide camera on the LG G5 is a new way to see the world. Dual camera was a bit on the gimmick on the LG V10 (there it was for selfies), but capturing so much of the scene in one shot is great.</paragraph>
+			<paragraph>Refinement: Both makers one up each other with ever brighter apertures - Samsung had f/1.9 on the S6, LG answered with f/1.8 on the G4, now Samsung is back in the lead with f/1.7 with the S7.</paragraph>
+			<paragraph>Winner: LG G5. G5 photos look more natural and have more accurate colors. </paragraph>
+			<paragraph>The Samsung Galaxy S7 has faster autofocus and shot-to-shot time. It also offers better processing, it's just that it's too aggressively tuned. It seems optimized for viewing images downscaled to fit the screen (a 1080p screen is ~2MP, a UHD TV is ~8MP) instead of pixel peeping. The sharpening and contrast ensure detail makes it through the downscale process. </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Selfie camera<subsectionTitle>
+			<paragraph>The LG G5 has an 8MP selfie camera while the Samsung Galaxy S7 has a 5MP unit. The Samsung has a wider aperture, though, f/1.7 vs. f/2.0 and has a slightly wider field of view.</paragraph>
+			<paragraph>The LG G5 has more pleasing colors, but neither it or the Samsung got them right - the G5 has a warm white balance, the Galaxy S7 has a cooler one.</paragraph>
+			<paragraph>The Galaxy S7 also captured more detail with less noise. Part of it is the focus - in the LG G5 photo, the drawings on the wall are in focus instead of the face (where the focus on a selfie camera should be, at arm's length).</paragraph>
+			<paragraph>Winner: Samsung Galaxy S7. We prefer the warmer color balance of the LG G5, but the more apt focus and more resolved detail seal the deal for the Galaxy S7.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HDR<subsectionTitle>
+			<paragraph>HDR mode comes with an "Auto" option that decides whether to activate HDR for each individual photo. HDR can slow things down (but not by much) so Auto can reduce shot-to-shot time when HDR is not necessary.</paragraph>
+			<paragraph>On both phones, the effect is fairly subtle - shadows get slightly brighter, highlights are reigned in. There's no major impact on image quality - the LG G5 increases sharpening a bit while the Galaxy S7 photos get slightly softer, nothing you'll notice without pixel peeping.</paragraph>
+			<paragraph>LG G5's wide camera also does HDR (and with FoV so wide, chances are you'll need it too).</paragraph>
+			<paragraph>Winner: Tie. The Samsung Galaxy S7 offers a slightly faster shot-to-shot time with HDR turned on, but not enough for a win. The image quality of both stays very close to the non-HDR mode.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Panorama<subsectionTitle>
+			<paragraph>Both cameras offer impressive panoramas, but the LG G5 has an advantage. No, not the wide camera - you can shoot a panorama faster, but the resulting quality isn't as good.</paragraph>
+			<paragraph>LG G5's wider FoV and higher resolution produce panoramas with over 5,000px of vertical resolution while the Galaxy S7 images are under 4,000px.</paragraph>
+			<paragraph>The S7 compensates with slightly sharper images with less noise, but the LG G5 offers more dynamic range.</paragraph>
+			<paragraph>Winner: LG G5. The slightly inferior per-pixel quality is offset by the higher resolution. The wider dynamic range helps too. You'll probably want to stick to the main 16MP camera for panoramas, though.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>Both phones can record 2160p and 1080p videos at 30fps, but the Samsung Galaxy S7 gives you more flexibility with a 1080p @ 60fps mode as well as a 720p @ 240fps slow-motion mode. The LG G5 never goes over 30fps. It can record 2160p videos with its wide camera, though.</paragraph>
+			<paragraph>Looking at just the main camera, both phones record at 48Mbps with stereo sound. The Samsung allocates higher bitrate to audio, 256Kbps, compared to LG's 156Kbps. Both cameras have the same FoV.</paragraph>
+			<paragraph>The LG G5 videos come out richer in detail and with much more accurate colors. The Galaxy S7 videos are softer but offer better dynamic range (with a tendency to over-expose).</paragraph>
+			<paragraph>FullHD, aka 1080p, videos are recorded at 17Mbps, the field of view and audio bitrate remain the same.</paragraph>
+			<paragraph>Samsung Galaxy S7's dynamic range advantage is extended and the colors become more accurate. Still not as good as LG G5's, though.</paragraph>
+			<paragraph>Interestingly, it's now the LG that leans on sharpening and contrast boost to bring out more detail. The captured detail is essentially identical, though G5 videos look overprocessed.</paragraph>
+			<paragraph>The Wide camera on the LG G5 can also shoot 2160p videos. We wouldn't recommend it for its image quality, but the advantage of the wide GoPro-like field of view is a definite advantage.</paragraph>
+			<paragraph>Still, the wide camera is not as good as the main shooter. For one, there's no OIS, but also resolved detail and dynamic range are noticeably worse.</paragraph>
+			<paragraph>The Samsung Galaxy S7 offers 1080p @ 60fps for a sporty mode. Fast motion looks much smoother and the image quality does not suffer significantly. The bitrate goes up to 28Mbps so you're using up more storage, but you're not losing quality (which happens with many phones at 60fps).</paragraph>
+			<paragraph></paragraph>
+			<paragraph>A few words on audio quality - while the Galaxy S7 uses a higher bitrate, the LG G5 captures better sound with its mics and the end result is audibly better.</paragraph>
+			<paragraph>We put both phones on a rig and shot video at 1080p with both OIS and digital stabilization. Then we placed the two videos side by side to make the comparison easier. Both do a pretty good job of soaking up the shake from the footsteps, but the Galaxy S7 footage appears slightly smoother.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Innovation: The wide-angle camera on the LG G5 gives videos that "action cam" look. If only there was a 60fps mode to go with it </paragraph>
+			<paragraph>Refinement: Samsung did a great job of maintaining image quality when moving from 1080p @ 30fps to 60fps. </paragraph>
+			<paragraph>Winner: LG G5. The videos are more detailed and with more natural colors (the S7 video camera has noticeably worse colors than the S7 still camera). We preferred the LG G5 audio quality. </paragraph>
+			<paragraph>The Samsung Galaxy S7 has Dual Pixel AF to quickly bring new objects into focus and its 60fps videos look silky smooth with the same image quality as the 30fps videos. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>In the end, neither Samsung's gradual refinement approach nor LG's moonshot come out as the ultimate winners, but we can definitely draw a dividing line.</paragraph>
+			<paragraph>The Samsung Galaxy S7 has the better hardware. It feels more substantial in the hand and can stand up to the elements - yet ironically, it's the more fragile handset. The screen is perfect and the battery life is long. It provides the better headphone audio experience (though it lost the loudspeaker challenge). The Dual Pixel autofocus is great and we would love to see it in more cameras.</paragraph>
+			<paragraph>The LG G5's crowning achievement is the camera. In terms of image quality, it beats the Samsung both during the day and at night for both stills and videos. The second camera is genuinely useful as well and will change the way you frame your photos and videos.</paragraph>
+			<paragraph>We're still not sold on LG's Magic Slot, but we welcome the removable battery. Maybe down the line there will be a worthwhile module (the B&amp;O DAC improves G5's quiet wired audio output, but that's a $150 fix).</paragraph>
+			<paragraph>As for performance, the Galaxy S7 is either slightly faster or slightly slower, depending on which chipset you get. However, you can't control which version is available in your region and the differences are too small, anyway.</paragraph>
+			<paragraph>In the end, we think the more innovative, higher quality camera will be the reason why people would pick the LG G5 over the S7. Samsung Galaxy S7 buyers will go for the well-rounded package with top quality build and screen, next to uncompromising premium looks.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,331 @@
+<review>
+	<title>LG Optimus 2X review</title>
+	<description>Double the potential</description>
+	<link>http://www.gsmarena.com/lg_optimus_2x-review-564.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Quad-band GSM and dual-band 3G support</paragraph>
+			<paragraph>10.2 Mbps HSDPA and 5.76 Mbps HSUPA</paragraph>
+			<paragraph>4.0" 16M-color capacitive IPS LCD touchscreen of WVGA resolution (480 x 800 pixels)</paragraph>
+			<paragraph>Android OS v2.2 Froyo with LG Home launcher</paragraph>
+			<paragraph>Dual-core 1GHz ARM Cortex-A9 proccessor, ULP GeForce GPU, Tegra 2 chipset</paragraph>
+			<paragraph>512 MB RAM</paragraph>
+			<paragraph>8 MP autofocus camera with LED flash, face detection and geotagging</paragraph>
+			<paragraph>1080p video recording @ 24fps, 720p@30fps</paragraph>
+			<paragraph>1.3 MP front-facing camera with videocalls</paragraph>
+			<paragraph>Wi-Fi b/g/n and DLNA</paragraph>
+			<paragraph>GPS with A-GPS, digital compass</paragraph>
+			<paragraph>8GB internal storage and microSDslot for up to 32GB cards</paragraph>
+			<paragraph>Accelerometer, gyroscope, and proximity sensor</paragraph>
+			<paragraph>microHDMI port with HDMI mirroring</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Stereo FM radio with RDS</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v2.1</paragraph>
+			<paragraph>Smart dialing, voice dialing</paragraph>
+			<paragraph>DivX/XviD video support</paragraph>
+			<paragraph>Innovative gesture controls</paragraph>
+			<paragraph>Adobe Flash 10.2 support</paragraph>
+			<paragraph>Dolby Mobile and SRS sound enhancement</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Despite similar technology LCD isn?t quite as impressive as the iPhone4 screen</paragraph>
+			<paragraph>No dedicated camera key and no lens cover</paragraph>
+			<paragraph>Captured 1080p videos not big improvement over 720p, have low frame rate</paragraph>
+			<paragraph>No Android 2.3 Gingerbread at launch</paragraph>
+			<paragraph>Audio quality is only average</paragraph>
+			<paragraph>Below average speaker loudness</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Begun the dual-core revolution has. And there?s no scouting time ? the offensive starts with the big guns. The LG Optimus 2X is not just counting on the fancy Tegra 2 name to generate the sales ? it is a powerful smartphone through and through.</paragraph>
+			<paragraph>The fancy camera with Full HD video recording alone is enough to bring any handset into the limelight and the fact that it?s not even the Optimus 2X key feature speaks volume. As far as hardware evolution goes, the Optimus 2X promises to be one of the biggest steps forward in the mobile phone industry.</paragraph>
+			<paragraph>There are always a few compromises necessary with modern-day smartphones, but those are brought to a minimum with the Optimus 2X. You have a relatively good display (large, too), lots of oomph under the sleek hood and an excellent snapper at the back, plus all but the kitchen sink in the connectivity department.</paragraph>
+			<paragraph>Or at least that?s what papers will make you believe. Our experience, however, has thought us better than blindly believing the fancy PR talk. The excellent first impression certainly helps the Optimus 2X cause, but we?ll only be able to recommend it wholeheartedly if it passes the test of a full review.</paragraph>
+			<paragraph>Update 25 March: We just got our hands on a retail Optimus 2X unit (we originally tested a pre-production unit for this review). We've updated the text where necessary. The new stuff is marked in bold, but the major changes are in the video recording section.</paragraph>
+			<paragraph>So, shall we start? Join us after the break for the hardware review.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Pretty decent retail package<subsectionTitle>
+			<paragraph>The retail package of the LG Optimus 2X packs a good deal of gear. There?s a socket charger that couples with the supplied microUSB cable to charge the phone. The usual set of manuals and a nice one-piece headset are next.</paragraph>
+			<paragraph>The Optimus 2X package also includes a microHDMI cable so you can hook up the phone your TV without having to buy any extra cables.</paragraph>
+			<paragraph>You?ll be able to load a serious amount of multimedia files on the 2X too ? there?s no microSD card in the box, but the phone has 8GB internal storage so that seems fair.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG Optimus 2X 360-degree spin<subsectionTitle>
+			<paragraph>The LG Optimus 2X stretches at 123.9 x 63.2mm, which is about what you would expect from a device with a 4? screen (though the Motorola Atrix is notably more compact). It?s not something you can slip in every pocket, but if you do manage to squeeze it in, the 10.9mm slim profile will make sure it won?t create a bulge.</paragraph>
+			<paragraph>The weight of the handset is 139 g, which we found to be a great compromise between solid feel and portability.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and display<subsectionTitle>
+			<paragraph>The LG Optimus 2X styling is good enough for its stature ? you get sleek lines and a nice accent in the curved glass over the display. It?s hardly exceptional and won?t get many wows, but it will keep the attention long enough for the Tegra 2 powers to be demoed (when the cheering will start).</paragraph>
+			<paragraph>The Optimus 2X front does bear a strong resemblance to the LG Optimus Chic E720, but the overall looks are sufficiently upgraded to suit the higher-end device.</paragraph>
+			<paragraph>Still as we have always told you a full-touch handset?s design is mostly about the touchscreen itself. With four inches of bright densely packed pixels alight nobody will care to look at the back or sides of the device.</paragraph>
+			<paragraph>The Optimus 2X uses a 4? WVGA LCD that uses the IPS technology for improvement of viewing angles and color reproduction. On paper that screen is very similar to the iPhone 4 unit, but for the pixel density. In reality though things aren?t quite so impressive with the Optimus 2X screen losing on both viewing angles and contrast to the Retina display.</paragraph>
+			<paragraph>On the other hand this matters very little as you are still able to see the screen without much color distortion from various viewing angles. There is some colors shift, when you tilt the Optimus 2X, but it is hardly too bothering except at 45 degrees orientation.</paragraph>
+			<paragraph>Contrast and color reproduction on the other hand are hardly as good and you will easily notice the difference between a Super AMOLED unit and the Optimus 2X display. The LG smartphone fares pretty well in the LCD league, placing ahead of the HTC Desire HD (on all accounts), Sony Ericsson XPERIA Arc (on contrast degradation at even not so wide angles) and probably equal with the Samsung I9003 Galaxy SL. The Samsung Super Clear LCD packs slightly better viewing angles but has a cold cast to it that we don?t particularly enjoy.</paragraph>
+			<paragraph>We?ve prepared a few shots comparing the Optimus 2X screen to the Galaxy SL unit. We?ve also thrown in the originalGalaxy S for good measure.</paragraph>
+			<paragraph>And here?s a video to see how image quality changes when varying theviewing angles.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Finally, the LG Optimus 2X screen turned out to be a good performer in sunlight legibility and sensitivity.</paragraph>
+			<paragraph>Here's how the contrast ratio of the Optimus 2X display turned out to be.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls and build quality<subsectionTitle>
+			<paragraph>Moving on, we see the four keys below the LG Optimus 2X display ? all using the capacitive touch technology. There?s the usual Menu, Back and Home keys, plus a search button that is optional as far as Android handsets go.</paragraph>
+			<paragraph>As usual you also get extra functionality with long-press on some of the keys. Holding the menu forces the virtual keyboard out, a long press on the home key makes the task switcher pop-up appear, while press-and-hold on the search key triggers the voice search.</paragraph>
+			<paragraph>On top of the display sit the 1.3 MP front-facing camera for video-calling and video-chat, the earpiece and the proximity sensor. There?s also an ambient light sensor here, allowing automatic brightness control.</paragraph>
+			<paragraph>Moving to the right side of the LG Optimus 2X brings us upon the two volume keys. Decently sized, those cause little usability issues.</paragraph>
+			<paragraph>What bothers us more though is the lack of camera key here. With a shooter this good it?s a real pity that LG didn?t find space for the button that really takes usability to a different level.</paragraph>
+			<paragraph>The left side of the Optimus 2X bears no control elements whatsoever.</paragraph>
+			<paragraph>On the bottom we find the microUSB data cable/charger plug and a couple of grills. There?s no cover over the opening, which is a plus to usability, but suggest dust accumulation over time.</paragraph>
+			<paragraph>Those of you who noticed the striking resemblance to the iPhone 4 bottom, earn an extra point here.</paragraph>
+			<paragraph>Interestingly, the ports at the bottom provide the same functionality? one of the grills hides the microphone, while the other hosts the loudspeaker.</paragraph>
+			<paragraph>The top of the Optimus 2X is where it gets interesting. You get the 3.5mm audio jack here, which is again unprotected, along with the power key and the microHDMI port. The Optimus 2X can easily stream 1080p footage to your FullHD TV or monitor and since it supports HDMI mirroring you can see the stream on both the external and the internal monitors.</paragraph>
+			<paragraph>The 8 MP camera lens is located at the back, right next to the (not quite capable) LED flash. On the plus side LED flash is a go for video lighting so you might be able to capture some good low-light 1080p footage if you don?t get too far away from your subject.</paragraph>
+			<paragraph>A potential problem with the camera is that not only does it lack any protection, but it is also protruding. Unless some really tough glass has been used on top, scratches are certain to appear quickly and worsen the image quality.</paragraph>
+			<paragraph>Also the glass on top is pretty easy to smudge, while it?s particularly hard to clean.It?s probably a good idea to check it out every time you are about to shoot something.</paragraph>
+			<paragraph>The microSD card slot is under the battery cover, but fortunately it is hot-swappable. It handles all kinds of memory cards currently available so you can easily expand the Optimus 2X storage by up to 32 GB.</paragraph>
+			<paragraph>The other thing of notice under the back panel is the 1500 mAh Li-Ion battery. It?s said to last for up to 400 hours of stand-by or up to 7 hours and 50 minutes of talk time, but our unit hardly made it through more than 36 hours of heavy usage. That?s not bad considering that we fiddled with the different features of the phones for at least a couple of hours a day, but it isn?t great either.</paragraph>
+			<paragraph>We also did a dedicated battery test in video playback mode, by looping an SD sample over and over with the screen brightness set to 50%. The LG Optimus 2X lost 90% of its battery juice (at which point the video player is automatically switched off) in 5 hours and 20 minutes. Again that's not too bad, but we've seen far better.</paragraph>
+			<paragraph>The general ergonomics of the Optimus 2X are quite good. If you are ok with handling a 4? smartphone, this one will suit you fine. And even if you find it to be a little over the top we advise you to as least try it out before rejecting it. Plus, handling a larger phone gets easier with time.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG Home spices up Android 2.2 Froyo<subsectionTitle>
+			<paragraph>LG has provided a custom launcher for their Android 2.2 running flagship. If you plan on changing it for one of the dozens third party launchers from the Android Market feel free to disregard the next few paragraphs and skip to the benchmark part of this chapter.</paragraph>
+			<paragraph>Still we would strongly advise you to give it a try first as the LG Home is not too bad at all. It brings several key updates compared to previous versions of the launcher. For starters you can check it out in action in the following video.</paragraph>
+			<paragraph>Update, 26 May: We recorded a new video, using a retail Optimus 2X running the stock V10B firmware.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>There?s now a view mode similar to the HTC Sense leap view, where you see all your homescreen panes in one place and pressing one of them zooms in on it.</paragraph>
+			<paragraph>This view mode is triggered by the familiar pinch zoom gesture.</paragraph>
+			<paragraph>The available number of homescreen panes can be customized too with the available options being 3, 5 and 7. A clear homescreen shortcut lets you remove all content from some of your panes with a couple of clicks.</paragraph>
+			<paragraph>There are four shortcuts docked at the bottom of the LG Optimus 2X screen and are visible on both the homescreen and in the app drawer. You get phone, contacts, messaging and a home/applications button.</paragraph>
+			<paragraph>The LG customizations continue with the main menu. You get not one but three different options for its styling ? a side scrollable horizontal grid, a vertical grid that you scroll upwards and downwards and List view. In vertical grid mode you get icons grouped by categories, which you are free to change however you please.</paragraph>
+			<paragraph>The notification area, one of the Android strong points, has a few tweaks as well ? it?s five switches are now operating Wi-Fi, Bluetooth, GPS, sound and automatic rotation. There are also music player controls docked here.</paragraph>
+			<paragraph>The final noteworthy features of the LG Optimus 2X stock user interface are the gesture controls. We?ve seen turn-to-mute, turn-to-snooze plenty of times. But how about tapping on the side of your phone to flick through images or moving the text cursor character by character just by tapping on the side. It?s pretty cool if you think about, but should you find it unnecessary or bothering you are also able to switch it off.</paragraph>
+			<paragraph>We did a short video demo to give a better idea of what those gestures are all about.</paragraph>
+			<paragraph>Update, 26 May: We recorded a new video, using a retail Optimus 2X running the stock V10B firmware.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nvidia Tegra 2 performance<subsectionTitle>
+			<paragraph>And now for the really interesting part ? the Nvidia Tegra 2 platform performance. The Optimus 2X is the first handset with a dual-core CPU-packing chipset and everyone is pretty excited to find out what good that is.</paragraph>
+			<paragraph>If you checked out our preview you already know the answer to that. Despite the fact that Android 2.2 is by far not the best optimized system as far as two CPU cores management is concerned the thing is a real beast.</paragraph>
+			<paragraph>We re-ran the benchmarks using the finalized software but ended up with the exact same results. </paragraph>
+			<paragraph>As you can see the LG Optimus 2X benchmark results are way better than anything else we have seen before. The Hummingbird-rocking Galaxy S simply stands no chance against the Tegra 2.</paragraph>
+			<paragraph>And as we found, out the Javascript performance of the LG Optimus 2X even comes close to a year-old netbook-grade CPU. That?s impressive stuff for a smartphone no matter how you look at it.</paragraph>
+			<paragraph>Have in mind though that these are just numbers representing the Tegra 2 pure calculating powers. You shouldn?t expect to feel a miraculous change in real-life experience though. Most current Android flagship are already buttery smooth and there?s little room for improvement there. And all the resource-heavy games run fine on single core CPUs too.</paragraph>
+			<paragraph>However once the next crop of top-quality games hits things will certainly change. Once developers start to make use of the Tegra 2 advanced GPU you?ll be able to use its full potential.</paragraph>
+			<paragraph>Nvidia already announced that we?ll see Android games using the Unreal 3 engine (Dungeon Defenders) and perhaps even the iDTech 5 engine (Doom 4 and Rage) and the Frostbite engine (Battlefield: Bad Company).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A social phonebook with an agenda<subsectionTitle>
+			<paragraph>The phonebook displays all the contacts in a list ordered alphabetically and there is an alphabet scroll on the right. There?s also a regular search bar.</paragraph>
+			<paragraph>The list can be sorted by first or last name and you can choose how contacts are displayed ? First Name, Last Name or the opposite.</paragraph>
+			<paragraph>Filters keep the phone book from getting overcrowded ? you can choose which groups are displayed and which are hidden (e.g. Family, email contacts, Twitter contacts and so on).</paragraph>
+			<paragraph>Each contact is displayed with a contact photo and name ? a tap on the photo brings up the quick contacts keys. You can use those to call the contact, send them a message or email or view their profile.</paragraph>
+			<paragraph>Viewing a single contact uses a tabbed interface. The first tab is Info ? and it shows all available info for the contact with handy one-tap shortcuts for calling, messaging and so on. The next tab is History, which shows the communication history with the contact (calls, SNS updates, everything).</paragraph>
+			<paragraph>The final tab is Photos which show the contacts online albums.</paragraph>
+			<paragraph>You can link contacts (?join? in the Optimus 2X terminology) so that if you have a contact added to multiple services, all the data from them is pooled in one place. When you tap Join, the phonebook will suggest a contact based on name and it?s right most of the time.</paragraph>
+			<paragraph>You can manually pick another one if it?s wrong of course. When you add a new account, the phone will offer to import all, only some of the contacts or only those it already has in the phonebook.</paragraph>
+			<paragraph>Editing a contact is mostly unchanged. You have all the types listed (numbers, email addresses, etc) and there's a plus sign on the right - clicking it adds another item of that type. Pressing the minus sign under it deletes unneeded info.</paragraph>
+			<paragraph>The Call log is clever and groups some of the calls, e.g. 3 missed calls from the same contact on the same day. A number next to the contact name shows the number of events. It?s a great space saving feature.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony is good<subsectionTitle>
+			<paragraph>LG Optimus One 2X showed good signal reception even in areas of poor coverage. The in-call quality though is good but rather quiet even at the loudest setting.</paragraph>
+			<paragraph>The Dialer shows a virtual phone keypad that lets you dial a number. Smart Dial is available and works like a charm ? it searches both numbers and names. Only one matching contact is displayed, but if you tap the down arrow button, the rest show up as well.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test and the LG Optimus 2X. It performed pretty poorly, scoring a Below Average. The loudspeaker is generally very quiet and you?ll miss phone calls in loud environments.</paragraph>
+			<paragraph>You can find more about the testing procedure here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Rich messaging capabilities<subsectionTitle>
+			<paragraph>The LG Optimus 2X can handle all common types of messages with ease - SMS, MMS and email. Email support is excellent with support for Exchange out of the box and social media buffs will be pleased with the level of integration of that content as well.</paragraph>
+			<paragraph>A press-and-hold on the text box gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc.</paragraph>
+			<paragraph>The extended Gmail features include batch operations, which allow multiple emails to be archived, labeled or deleted, spam report and of course conversation-style email view mode.</paragraph>
+			<paragraph>The generic email client supports multiple accounts. If you do add multiple accounts, then the Combined Inbox feature will come in handy. Too bad there?s no conversation-style view like in Gmail.</paragraph>
+			<paragraph>There are two types of on-screen keyboard you get with the LG Optimus 2X ? the phone dialpad and the on-screen QWERTY keyboard. The QWERTY is available in both portrait and landscape.</paragraph>
+			<paragraph>The QWERTY keyboard looks a little iPhone-like but the good news is that it?s very good too. Portrait mode is quite accurate for text input and the landscape mode makes things even better.</paragraph>
+			<paragraph>While editing text you can also use the tap gestures ? a tap on the side of the phone will push the text cursor in the opposite direction.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image gallery with 3D effects<subsectionTitle>
+			<paragraph>The LG Optimus 2X uses the standard Android gallery. The gallery automatically locates the images and videos no matter where they are stored. The gallery boasts cool 3D effects and transitions, which we find rather attractive.</paragraph>
+			<paragraph>Images and videos placed in different folders appear in different sub-galleries that automatically get the name of the folder, which is very convenient - just like a file manager.</paragraph>
+			<paragraph>The different albums appear as piles of photos, which fall in neat grids once selected.</paragraph>
+			<paragraph>Alternatively, you photos can be organized by date with the help of a button in the top right corner, which switches between grid and timeline view. In grid view, there?s a date slider, which can also be used to find photos taken on a certain date.</paragraph>
+			<paragraph>The pinch zooming is also available here thanks to the Optimus 2X multi-touch support but you can also use double tap or even the +/- virtual buttons.</paragraph>
+			<paragraph>There are tons of options for a picture ? you can crop or rotate it directly in the gallery. The Send feature offers quick sharing via Facebook, Twitter, Picasa, Email apps or Bluetooth.</paragraph>
+			<paragraph>Zooming and panning is fast and smooth, but there?s a perceptible lag until the actual panning (or zooming) starts, which is slightly annoying.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Eye-candy music player<subsectionTitle>
+			<paragraph>The music looks familiar but it has seen some polish. It can do the usual filtering by album and artist and you have alphabet search and regular search for finding songs quicker.</paragraph>
+			<paragraph>The Now playing interface places a big album art image in the center with controls above and below it.</paragraph>
+			<paragraph>Swiping the album art left or right is the easiest way to skip a song or go back to the previous one.</paragraph>
+			<paragraph>A press and hold on the album art will bring up a menu to search ? for the title, the artist or the album title. After that you can pick where to search ? your music collection, YouTube or a general Internet search.</paragraph>
+			<paragraph>There are equalizer presets available including a Virtual surround option, which works even without headphones, but the effect doesn?t do much without them.</paragraph>
+			<paragraph>Flipping the phone on its side reveals a cool 3D wall of all the albums you have in your music collection. Tap on an album and you?ll see a list of all songs from it. There?s an alphabet scroll at the bottom of the screen to make finding albums faster.</paragraph>
+			<paragraph>The LG Optimus 2X also comes with three ?theme songs? composed by Ennio Morricone especially for the handset. This used to be a perk exclusive to luxury phones ? it?s nothing major but it?s still a nice gift by LG.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>FM Radio with RDS<subsectionTitle>
+			<paragraph>If you get tired of your music collection, there?s an FM radio with RDS in the LG Optimus 2X. It can play over the headphones or the loudspeaker, but the headphones need to be plugged-in either way.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Average audio quality<subsectionTitle>
+			<paragraph>The LG Optimus 2X did greatly in the first part of our audio quality test. When connected to an external amplifier the handset impresses with a really accurate audio output. All the readings in this case are great and if it wasn't for the loudness, which is only average, we would say that it's among the best on the market.</paragraph>
+			<paragraph>When headphones come into play however the stereo crosstalk takes a way too serious hit - it gets relegated from excellent to one of the worst we have seen. At least the rest of the readings as well as the volume levels are almost unaffected, which is somewhat of a consolation. Still we wouldn't rate the Optimus 2X anything higher than average on this occasion.</paragraph>
+			<paragraph>You should bear in mind, we have a pre-release hardware on our hands, so things might be improved with retail units. We've certainly seen that happen before.</paragraph>
+			<paragraph>We re-ran our audio quality test on the retail unit we recently got. Unfortunately, it's on the same level as before, so you should really take it as it is.</paragraph>
+			<paragraph> LG Optimus 2X frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Portable movie player<subsectionTitle>
+			<paragraph>The video player has a fairly simple interface ? it?s just a list of all the videos on the devices. There?s an alphabet scroll to help users locate videos faster but that?s about it. You can of course play videos from the Gallery if you prefer its folder-centric organization.</paragraph>
+			<paragraph>The interface during playback is nothing overcomplicated either ? there?s the scrubber to skip to some part of the video along with the play/pause button and next and previous buttons.</paragraph>
+			<paragraph>Two more buttons are available on the screen ? one toggles cropping (i.e. fit video to screen, or crop it to fill the entire screen) and the other activates the Virtual surround.</paragraph>
+			<paragraph>The LG Optimus 2X handled just about every video file we threw at it ? the usual 3GP and MP4 stuff along with WMV and AVIs using DivX and XviD. 1080p videos played well too ? DivX and XviD videos that is, the MP4 FullHD videos we tried wouldn?t play (but 720p videos worked).</paragraph>
+			<paragraph>The video player wouldn?t play MKV files ? a very common format for HD content, which is a dent in the Optimus 2X shining armor of FullHD support and HDMI connectivity.</paragraph>
+			<paragraph>Subtitles worked fine, however, and you have settings for font and size. You can toggle subtitles on and off, but there?s no option to manually load subtitles (so the subtitle filename has to match the video filename).</paragraph>
+			<paragraph>There are some issues that need to be addressed though ? only English subtitles worked, any non-Latin characters would cause the subtitles to fail (even Spanish subtitles). Using UTF didn?t help.</paragraph>
+			<paragraph>Also, to change the HDMI output resolution settings, you?ll have to access the main Android settings.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The 8 megapixel camera does a solid job<subsectionTitle>
+			<paragraph>LG Optimus 2X comes with an 8 megapixel shooter, which sounds pretty decent on paper. After a continuous run of bad cameras from LG though, we had to try it ourselves, before we recommend it to anyone.</paragraph>
+			<paragraph>As it turns out we had nothing to worry about and the Optimus 2X snapper did a pretty good job.</paragraph>
+			<paragraph>We found the user interface to be quite convenient, though many of the important settings are inside the extended settings menu, so they take a while to toggle.</paragraph>
+			<paragraph>Also the whole camera experience would have been much more convenient if there was a camera button onboard, but that has obviously been sacrificed in favor of a slimmer profile. Shot-to-shot time measures about two-three seconds and can be a little annoying at times.</paragraph>
+			<paragraph>The camera features are pretty good with face and smile detection, touch focus and geo-tagging on board along with ISO setting and preset scenes and effects. There?s panorama shot and ?out-focusing shot?, which blurs anything away from the point of focus.</paragraph>
+			<paragraph>There?s beauty and art shot too, which do automatic post-processing to the photo. Digital image stabilization is also available.</paragraph>
+			<paragraph>The biggest improvement we noticed is in terms of image quality. Now don?t get us wrong ? the Optimus 2X is no Nokia N8, but it delivers solid 8 MP photos with plenty of detail and pleasing color rendition (though it tends to miss-adjust the white balance). The contrast could be a bit better and the noise levels are higher than average, but the overall result is pretty good.</paragraph>
+			<paragraph>Here are the camera samples taken with the retail Optimus 2X so you can judge for yourself.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The LG Optimus 2X enter the competition over at our in our Photo Compare Tool. The tool?s page will give you enough info on how to use it and what to look for.</paragraph>
+			<paragraph>   LG Optimus 2X in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video is where the fun starts<subsectionTitle>
+			<paragraph>1080p video recording is probably the second most important thing about the Optimus 2X specs sheet ? just after Tegra 2. The increased processing power of the NVIDIA platform has allowed the Android smartphone to become the first one capable of creating Full HD footage.</paragraph>
+			<paragraph>Much like with the first handsets to break the 720p barrier, the Optimus 2X results at 1080p aren?t spectacular.</paragraph>
+			<paragraph>Update 25 March: The framerate of FullHD videos is supposed to be 24 frames per second but the LG Optimus 2X usually comes up short by a couple of frames. Since 24fps is the bottom barrier at which the human brain perceives motion as smooth, you?ll notice slight choppiness in the 1080p videos shot by the Optimus 2X.</paragraph>
+			<paragraph>The choppiness is subtle, so 1080p videos will do for any leisure purpose or for videos of slow-moving objects.</paragraph>
+			<paragraph>Another thing that?s bothering about the Optimus 2X 1080p videos is the pretty high compression. It manages to bring the bitrate down to about 10 Mbps, but it loses lots of fine detail in the process, which we find unacceptable. This approach greatly reduces the 1080p resolution advantage over the 720p class leaders such as the iPhone 4 or the Nokia N8.</paragraph>
+			<paragraph>The Optimus 2X 720p video recording mode are another matter ? the LG Optimus 2X delivers almost the full 30fps so those videos are buttery smooth.</paragraph>
+			<paragraph>The higher framerate and the not much worse resolution might lead some people to prefer shooting in 720p over 1080p (we do). Plus camera shake is more noticeable at 1080p when you shoot the regular way, hand-holding the Optimus 2X.</paragraph>
+			<paragraph>Here are the samples, both 1080p and 720p, to help you decide which mode you prefer. Those were shot with the retail Optimus 2X and we used a tripod to stabilize it. Believe us, it makes a huge difference. </paragraph>
+			<paragraph>First, the untouched samples ? a 1080p@(almost)24fps sample and a 720p@30fps sample.</paragraph>
+			<paragraph>Here is a couple of other samples that you can watch from YouTube. Just don?t forget to select 1080p mode in the player menu and open it fullscreen.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>If those aren't enough for you, you can catch this link to our blog for more of the same. Those were shot with the pre-production unit though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The LG Optimus 2X is the first phone in our Video Compare Tool database that can record 1080p and it will serve as yardstick for upcoming FullHD shooters. Check it out ? the Tool?s page includes a quick walkthrough on how to use it and what to look for.</paragraph>
+			<paragraph>   LG Optimus 2X in the Video Compare Tool </paragraph>
+			<paragraph>We've updated the compare tool with samples from the retail Optimus 2X unit.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good connectivity with HDMI<subsectionTitle>
+			<paragraph>The connectivity that the LG Optimus 2X has to offer is good and though it lacks buzzwords like Bluetooth 3.0 and 4G, you won?t miss much (BT3.0 doesn?t do much and ?4G? is often misused while meaning HSPA+).</paragraph>
+			<paragraph>It has quad-band GSM/GPRS/EDGE for world-wide connectivity and dual-band 3G with 10.2Mbps/5.76Mbps for faster mobile Internet in areas with supported 3G bands.</paragraph>
+			<paragraph>The Optimus 2X has Wi-Fi b/g/n, Bluetooth 2.1 with A2DP and a microUSB port to offer for local data transfers. For multimedia connectivity, there?s DLNA (which can play media from/to supported devices wirelessly) and a miniHDMI port for outputting HD video.</paragraph>
+			<paragraph>USB tethering and Wi-Fi hotspot options are available for sharing the phones data connection. You can secure the Wi-Fi hotspot using WPA2 or leave it open.</paragraph>
+			<paragraph>Using the SmartShare app you can control a DLNA network ? you can play media from other devices (e.g. NAS) on your phone or play something from the phone on another device (e.g. DLNA-enabled TV).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The web browser is good, has Flash<subsectionTitle>
+			<paragraph>The Android browser is one of the best available on a mobile device ? put it on a powerful hardware like the LG Optimus 2X has and it provides flawless experience.</paragraph>
+			<paragraph>The user interface is completely minimalistic (it?s the Google way). All you get on the screen is an address bar and +/- zoom buttons. The address bar is placed on top of the page, so scrolling down moves it out of view and the zoom controls auto-hide.</paragraph>
+			<paragraph>The interface is still very powerful ? hit the menu key and six keys pop up. You can open a new tab, switch tabs, refresh the page, go forward, and open bookmarks. The final button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>The Optimus 2X supports double tap zoom and pinch zoom. There?s text reflow too ? it adjusts the columns of text to fit the screen width. If you?ve zoomed in using pinch zoom, you need to double tap the screen to make the browser reflow the text.</paragraph>
+			<paragraph>The bookmark list shows a thumbnail of the bookmarked page and you also get a ?most visited? list in addition to the history.</paragraph>
+			<paragraph>The whole browsing experience is excellent ? there?s no lagging and the 4? WVGA screen offers plenty of room even for complex web pages. Text remains crisp regardless of zoom level.</paragraph>
+			<paragraph>The Optimus 2X browser is Flash-enabled and everything ran very smoothly ? from desktop YouTube (and other video sharing sites) to touch-oriented Flash games.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Brilliant office document editor, good organizer<subsectionTitle>
+			<paragraph>The LG Optimus 2X comes with the usual set of organizing apps and there?s a preloaded document viewer and editor (well sort of).</paragraph>
+			<paragraph>The app in question is Polaris Office and it?s one of the most feature advanced mobile editors we?ve seen. You can of course view documents ? Word, Excel and PowerPoint documents and PDF files too.</paragraph>
+			<paragraph>Editing offers almost a full set of options ? text style, justification, paragraph formatting, bullets, even creating tables (that?s a first). If you?re editing an Excel file, you get a formula wizard, resize rows/colums, border style, merge cells and so on. Even creating a full PowerPoint presentation is possible.</paragraph>
+			<paragraph>You can do practically anything with the app ? it?s better than the other mobile editors we?ve tested, even better than the Windows Phone 7 one (which had many editing limitations).</paragraph>
+			<paragraph>The app doubles as a file manager and also integrates with Box.net.</paragraph>
+			<paragraph>The calendar has four different types of view - daily, weekly, monthly and agenda. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The LG Optimus 2X features an alarm clock application, which allows a lot of alarms to be set, each with its own start time and repeat pattern.</paragraph>
+			<paragraph>The organizer package also includes a voice recorder, which might be pretty useful for making audio notes and a nicely touch-optimized calculator.</paragraph>
+			<paragraph>The LG Optimus 2X also comes with F-Secure Mobile antivirus app. It scans files for viruses (though there are very few mobile viruses) and also protects you while you browse the web. A more useful option is the anti-theft functionality ? there?s a device locator and also remote wipe/lock functions.</paragraph>
+			<paragraph>The pre-release Optimus 2X came with three games preinstalled ? Shrek Karting, Spider-Man and Guitar Hero (the latter being a trial version). The games are not preinstalled on our retail unit, but they are still available for download through the Preloaded Apps app. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Extensive Facebook and Twitter integration<subsectionTitle>
+			<paragraph>The LG Optimus 2X features great SNS integration. Both Facebook and Twitter contacts can be added to the phonebook and you can link those to existing phone contacts ? in fact, the first time you create an account, the phone will offer to import the contacts from that social network.</paragraph>
+			<paragraph>It?s clever too ? you can import all contacts, manually select which ones to import, or just those who match people in your phonebook.</paragraph>
+			<paragraph>When you link a contact with their Facebook or Twitter, their status updates will go into the History tab of their contact info and the Photo tab will show their online albums.</paragraph>
+			<paragraph>The Facebook app lets you read news feeds, post messages on people?s walls, browse their profiles and so on. You can of course post status updates and including a photo is very easy.</paragraph>
+			<paragraph>The Twitter app is also feature complete. You can manage your profile and the list of people you follow, plus read tweets from others. The @me section will help you find tweets directed at you easier.</paragraph>
+			<paragraph>When you receive a new message, it will appear in the notification area just like regular SMS messages do. You can set it to notify you when there?s a new @me message or direct message.</paragraph>
+			<paragraph>There?s a dedicated MySpace app as well, in case you?re using that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Market gives you loads of apps<subsectionTitle>
+			<paragraph>The LG Optimus 2X is running the latest available version of Android and has a WVGA screen, giving you access to the whole Android Market (some apps won?t run on older versions or low-res screens).</paragraph>
+			<paragraph>The structure of the Android Market is quite simple ? featured apps on top and above them, three sections (Applications, Games and Downloads). There is also a shortcut up there for initiating a search.</paragraph>
+			<paragraph>The Applications and Games sections are divided into subsections (e.g. Communication, Entertainment etc.) so you can filter the apps that are relevant to you. Of course, there is also an option of displaying them all in bulk, but you?ll probably need days to browse them all that way.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+			<paragraph>LG?s App Advisor comes preinstalled as with other Android smartphones by the company. It offers a list of recommended apps, nothing fancier than that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google maps and GPS navigation<subsectionTitle>
+			<paragraph>The LG Optimus 2X comes with a built-in GPS receiver. It got an accurate GPS lock very quickly. If you need only general location (within 100-150 meters) for location-based services, you can use Cell-ID and Wi-Fi network positioning.</paragraph>
+			<paragraph>The Google Maps 5.0 is part of the standard Android package. It uses vector maps, which are smaller and download faster but also support cool 3D views. You can use the two finger camera tilt and camera rotate gestures to look around (though 3D building are not available everywhere).</paragraph>
+			<paragraph>The Google Maps Navigation option is available too ? but only for supported countries. The new version features offline rerouting. That is, it will cache the needed maps to navigate you to where you?re going and even if you deviate from your course, it will be able to calculate a new route even without a data connection.</paragraph>
+			<paragraph>Street View mode is supported and will do the well-known compass trick, which is like taking a virtual tour of the location.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Year 2010 wasn?t particularly good for the LG mobile department. The Korean company entered it as one of the fastest growing in business and the announcements of the GT540 Optimus and GW990 in January made things seem rosy, but it was mostly downhill from there. A series of devices that failed to achieve their sales targets and the cancellation of the GW990 almost got us worried that LG will be relegated to the role of a runner up in the mobile phone industry.</paragraph>
+			<paragraph>And yet here comes the Optimus 2X to prove that the company still has it. The most powerful hardware we have seen, combined with a decent display and a nicely customized interface. Okay the camera is not quite perfect (we?re looking at you FullHD recording), but its still one of the good snappers in the Android world.</paragraph>
+			<paragraph>The device is definitely the smartphone to get right now and will most certainly remain so for at least another month or two. Of course, when the slew of dual-core droids that will imminently be announced at the MWC in a week hits the shelves, things might change, but the Optimus 2X is the benchmark against which they will all be measured.</paragraph>
+			<paragraph>That is unless LG forgets that it has done half the required work so far. Getting a really potent smartphone to the market is all great, but you need to provide adequate tech support and regular updates or it will never manage to live up to its full potential.</paragraph>
+			<paragraph>Especially given the fact that Android 2.2 Froyo is hardly the best polished operating system as far as dual-core CPU management is concerned.</paragraph>
+			<paragraph>Past record is somewhat controversial - the GT540 Optimus eventually did get updated to 2.1 Eclair, but the GW620 remained stuck on v.1.6 Cupcake and the Optimus One upgrade slip-up was hardly too good for LG?s reputation. Which makes the need to get things right this time all the greater.</paragraph>
+			<paragraph>The Optimus 2X is a really high-end device, which means that it will get way with more sins than any other LG droids.</paragraph>
+			<paragraph>And now for the competition:</paragraph>
+			<paragraph>On one side you get the chance to save a few bucks and experience the deep blacks of the Samsung I9000 Galaxy S Super AMOLED. There?re no 8 MP stills or full HD there and chances for many future updates are slim. Plus the I9003 Galaxy SL is about to replace it, so you should probably act quickly if you want to get the original flavor.</paragraph>
+			<paragraph>  Samsung I9000 Galaxy S ? Samsung I9003 Galaxy SL</paragraph>
+			<paragraph>If getting the latest version of Android is more important to you, the Nexus S seems the obvious choice. It?s not certain though if you will be able to get a Super AMOLED equipped unit and pricing is not quite so attractive. At least rumors have it that Samsung will compensate the swapping of the display with the added bonus of 720p video recording.</paragraph>
+			<paragraph> Google Nexus S</paragraph>
+			<paragraph>The Sony Ericsson XPERIA Arc offers a Bravia Mobile engine LCD of larger size and higher resolution plus Android 2.3 Gingerbread. The list of pros ends here though and you will need to wait another month or two to get that one.</paragraph>
+			<paragraph> Sony Ericsson XPERIA Arc</paragraph>
+			<paragraph>But then, none of those has the pure calculating prowess of the Optimus 2X and the future-proofing that goes along with it. So the LG latest droid is the handset to get if you aren?t in the mood for waiting for the MWC announcements or, say, the Motorola Atrix. Having a head start means a lot in this business!</paragraph>
+		</subsection>
+	</page>
+</review>

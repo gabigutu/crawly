@@ -1,0 +1,276 @@
+<review>
+	<title>Samsung I9103 Galaxy R review</title>
+	<description>Riding shotgun</description>
+	<link>http://www.gsmarena.com/samsung_i9103_galaxy_r-review-710.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM and dual-band 3G support</paragraph>
+			<paragraph>21 Mbps HSDPA and 5.76 Mbps HSUPA support</paragraph>
+			<paragraph>4.2" 16M-color SC-LCD capacitive touchscreen of WVGA (480 x 800 pixel) resolution; Scratch-resistant glass</paragraph>
+			<paragraph>Android OS v2.3.3 with TouchWiz 4 launcher</paragraph>
+			<paragraph>1 GHz dual-core Cortex-A9 CPU, ULP GeForce GPU, NVIDIA Tegra 2 chipset, 1GB of RAM</paragraph>
+			<paragraph>5 MP autofocus camera with LED flash, face and smile detection</paragraph>
+			<paragraph>720p HD video recording at 30fps</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n support; DLNA and Wi-Fi Direct support</paragraph>
+			<paragraph>GPS with A-GPS connectivity; digital compass</paragraph>
+			<paragraph>8GB internal storage, microSD slot</paragraph>
+			<paragraph>Accelerometer, gyroscope and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB port</paragraph>
+			<paragraph>Stereo Bluetooth v3.0</paragraph>
+			<paragraph>FM radio with RDS</paragraph>
+			<paragraph>Great audio quality</paragraph>
+			<paragraph>1.3MP secondary video-call camera</paragraph>
+			<paragraph>Document editor</paragraph>
+			<paragraph>File manager comes preinstalled</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>SC-LCD has poor black levels</paragraph>
+			<paragraph>Tegra 2 falls slightly behind Exynos in CPU and GPU performance</paragraph>
+			<paragraph>No dedicated camera key</paragraph>
+			<paragraph>Non-hot-swappable microSD card</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Samsung I9103 Galaxy R rode in on the NVIDIA Tegra 2 platform and became the first affordable dual-core smartphone from the South Korean company. With a bright SC-LCD screen and brushed metal back, the Galaxy R is just different enough from the Galaxy S lineup to stand on its own.</paragraph>
+			<paragraph>Samsung has so many variations of their models that sometimes it's hard to say when one model stops and another begins. Take the Samsung I9103 Galaxy R, positioned somewhere between the Galaxy S II flagship droid and the mid-range Galaxy W.</paragraph>
+			<paragraph>Not that we're complaining - having more options available is always a good thing and all dual-core droids from Samsung were only top of the line so far (S II and its variations, the Galaxy Nexus and the Galaxy Note phoneblet).</paragraph>
+			<paragraph>This is where the I9103 Galaxy R steps in in - it offers tangibly better specs than the Galaxy W, while staying a step below the top dogs in specs and price. Here's a summary of what you get with the Galaxy R and some downsides.</paragraph>
+			<paragraph>Depending on how you look at it, going from the Galaxy W to the Galaxy R means getting a better CPU and GPU, a bigger screen and extra built-in storage, or trading in several of the highlights of the Galaxy S II in exchange for a smaller total at the cash register.</paragraph>
+			<paragraph>Anyway, if you pull the Galaxy R away from the S II's shadow, you'll notice it stands pretty well on its own. Tegra 2 is at the heart of several popular dual-core droids and quite a few tablets too. And a 4.2" WVGA screen doesn?t sound too bad, even if it is an SC-LCD (we'll how it does in our tests though).</paragraph>
+			<paragraph>The camera could have been better - 5MP and 720p is nothing to brag about. We have seen some excellent 720p shooters lately though, so we'll postpone our final judgment on the camera for the camera section of this review.</paragraph>
+			<paragraph>With a model number like I9103 the Galaxy R unavoidably draws comparisons with the S II. After a quick detour for an unboxing, we'll find out just how close the two phones are hardware-wise on the next page.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Galaxy R<subsectionTitle>
+			<paragraph>We weren?t expecting any surprising extras in the box and we didn?t find any, nor anything missing for that matter. The Samsung I9103 Galaxy R comes with a compact microUSB charger, a separate microUSB cable and a one-piece headset (in-ear design). There are a few manuals too.</paragraph>
+			<paragraph>You won't find a microSD card in the box, but the Galaxy R comes with 8GB storage of its own, so you can delay getting a microSD card initially.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung I9103 Galaxy R 360-degree spin<subsectionTitle>
+			<paragraph>The Samsung Galaxy R is 9.5mm thick and weighs 135g, bigger in both aspects than the Galaxy S II (8.5mm and 116g respectively). In height and width, they're virtually identical - 125 x 66mm.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Samsung Galaxy I9103 Galaxy R is a budget version of the Galaxy S II flagship. As we already pointed out, the Galaxy R is a bit thicker and heavier than the S II. On the upside, the back features a brushed metal plate (a la Omnia W), which improves the looks of the otherwise all-plastic design.</paragraph>
+			<paragraph>As for the thickness, the Galaxy R is still under the 10mm barrier and it's thinner than the original Galaxy S. It's not a thick phone, it just can't brag about how thin it is (to be fair, the S II can't anymore either, since the new Motorola RAZR came out).</paragraph>
+			<paragraph>Anyway, the other key selling point of the S II was the 4.3" Super AMOLED Plus screen. The I9103 Galaxy R has a 4.2? SC-LCD with 480 x 800 pixels resolution.</paragraph>
+			<paragraph>It is pretty bright, though the black levels are a letdown. Still, the screen behaves very well when viewed at an angle - there's some contrast loss, but colors remain unchanged. Speaking of colors, the SC-LCD screen doesn?t offer colors that "pop" like AMOLED screens do, but they still look pretty good.</paragraph>
+			<paragraph>We measured the brightness and the contrast of the screen, here's how it compares to the Galaxy W and some of the other phones we've tested. It proved really bright, though the contrast was average.</paragraph>
+			<paragraph>The front of the Galaxy R looks virtually identical to the Galaxy S II. If you put the two side by side, you'll notice the Home key of the Galaxy R is slightly elongated and the bezel around the screen is slightly thicker.</paragraph>
+			<paragraph>Anyway, above the screen we have (from left to right) the 1.3MP video call camera, ambient light sensor, proximity sensor and earpiece.</paragraph>
+			<paragraph>Below the display there are three keys only ? the touch-sensitive menu and back buttons are on either side of a hardware home key. A long press on the menu key launches the search, so in effect users still have a dedicated search key. As usual, pressing and holding the home key activates the task switcher.</paragraph>
+			<paragraph>The only thing of interest on the left side of the Samsung I9103 Galaxy R is the comfortable volume rocker.</paragraph>
+			<paragraph>The power/lock key is placed high up on the opposite side of the handset. This is the traditional position for that key on Samsung phones and has another advantage - it's easy to reach when holding the phone one-handed with either hand.</paragraph>
+			<paragraph>On the top side of the phone is the 3.5mm audio jack, the secondary microphone and a small notch to help you open the back cover.</paragraph>
+			<paragraph>At the bottom, there?s the primary microphone and the microUSB port, which doubles as a charging port. Both the audio jack and microUSB port are left open to the elements.</paragraph>
+			<paragraph>The back cover is one big plastic piece with a metallic inlay with brushed metal finish. We tugged at the metal inlay for a while until we realized that it?s only a part of the back cover and not the whole back cover. The small notch we mention helps get the cover off.</paragraph>
+			<paragraph>Above and below the inlay, we find the 5MP camera with LED flash and the loudspeaker grill respectively. The camera is out in the open, with no guards against scratches.</paragraph>
+			<paragraph>The loudspeaker is placed on a low hump at the bottom of the phone (the bottom hump is a Galaxy S tradition). It gets slightly muffled when the phone is placed on a level surface.</paragraph>
+			<paragraph>Below the battery cover is the easily accessible SIM card slot and the not so easily accessible microSD card slot (it?s blocked by the battery). The battery has a large 1650mAh capacity and is quoted at up to 9 hours of talk time and up to 25 days of standby.</paragraph>
+			<paragraph>Our own test showed that the Galaxy R actually lasts longer than 9 hour in 3G calling. The web browsing result was better than what the S II showed with a respectable 5 hours and 7 minutes. In terms of video playback, the Galaxy R showed an above average result but this was the only test that it lost to the Galaxy S II.</paragraph>
+			<paragraph>On average, you would need to recharge the Samsung Galaxy R every day and a half if you do an hour each of talking, browsing and watching videos. You can read our blog post on the battery test for more details.</paragraph>
+			<paragraph>While the Samsung Galaxy R is slightly thicker and heavier than the S II (as we've pointed out several times already), the differences are pretty minor and the phone is just as pocketable as the S II.</paragraph>
+			<paragraph>The added heft does affect how it feels in the hand though - 20g extra and a metal plate on the back are enough to give you the feeling that there's a fair amount of metal used in building the Galaxy R. There isn't really (the innards are plastic), but it's a nice feeling anyway.</paragraph>
+			<paragraph>The build quality feels solid and there aren?t any obvious weak points, besides the camera lens that is unprotected.</paragraph>
+			<paragraph>Well, on the outside the Samsung Galaxy R might look a lot like the S II, but wait till you see the software. The TouchWizzed Android offers an almost identical experience but pay closer attention to the benchmarks and camera - that's where we expect the bigger differences.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android with TouchWiz 4.0 UI<subsectionTitle>
+			<paragraph>The Samsung Galaxy R runs Gingerbread 2.3.4 with the most recent TouchWiz 4.0 launcher. From a software standpoint, you?re looking at an interface almost identical to that of the Galaxy S II.</paragraph>
+			<paragraph>Take a look at our video of the device in action.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is the same as ever?swiping in any direction will give you access to the phone. The cool feature where missed events (messages, calls etc) get their own unlock patterns is still here too.</paragraph>
+			<paragraph>The homescreen accommodates tons of widgets with lots of functionality. You can have up to 7 homescreens. A pinch zoom brings you to an aggregate view of all homescreen panes, which can be edited: rearranged, deleted or added.</paragraph>
+			<paragraph>Widgets, shortcuts or folders are pulled onto the homescreen from a drawer that appears at the bottom of the screen once you enter edit mode (press and hold on an empty spot or do Menu &gt; Add).</paragraph>
+			<paragraph>The numbered dots that identify the homescreen panels serve as a scroll bar too. A press and hold on the dots lets you scroll sideways through the resized images of the available homescreen panes in one short go rather than with several swipes.</paragraph>
+			<paragraph>The app launcher is very similar to the homescreen - you can create folders to go with your shortcuts and you can add, remove and rearrange pages just like you would homescreens.</paragraph>
+			<paragraph>If you prefer, you can choose List view instead of the default Grid view.</paragraph>
+			<paragraph>In typical TouchWiz fashion, there are four shortcuts docked at the bottom of the screen that are visible both on the homescreen and in the app launcher. You can swap the first three with different ones (by default the shortcuts are Phone, Contacts, Messaging). The rightmost is the app drawer/home shortcut used to toggle between the apps menu and the homescreen, so it makes sense to always keep it in the same place.</paragraph>
+			<paragraph>With the Samsung Galaxy R you get a standard Android task switcher but with one modification - it has a button to launch a task manager.</paragraph>
+			<paragraph>The custom task manager which Samsung have preinstalled offers a lot of functionality. It also comes with a handy widget which shows you the number of active applications right on your homescreen.</paragraph>
+			<paragraph>Most of the time, Android does really well when it comes to managing apps by itself (in fact, some claim that using a task manager is detrimental to the performance of a phone), so you would only need the task manager to occasionally kill a buggy app.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>In the BenchmarkPi test, the Galaxy R does significantly better than the single-core HTC Sensation XL, even though the XL has a 500MHz advantage. As expected, the lower-clocked dual-core 1 GHz processor of the Galaxy R underperforms compared to the faster ones in the Galaxy S II and the Galaxy Note. The S II and Note do better but not by much, considering they are clocked 200MHz and 400MHz higher, respectively.</paragraph>
+			<paragraph>Linpack sees more of a drastic difference when comparing the Galaxy R to its more powerful siblings, while the Sensation XL scores marginally lower.</paragraph>
+			<paragraph>In the 3D graphics test, the Galaxy R surprisingly manages to score just 3fps lower than the Galaxy Note. This is probably due to the dedicated GeForce GPU from Nvidia present in the Galaxy R. The Sensaton XL scores a measly 11fps, so you may consider a Galaxy if 3D gaming is your thing.</paragraph>
+			<paragraph>In terms of JavaScript performance, the finely tuned JavaScript engine by HTC steals the show. The Galaxy R performs markedly worse than the other three phones we tested with SunSpider.</paragraph>
+			<paragraph>The HTML5+JavaScript benchmark, BrowserMark, puts the HTC well in the lead - again, the effect of good software optimization. The Galaxy R and Galaxy S II run identical software, so the difference we're seeing here is due to CPU performance.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Superior social phonebook<subsectionTitle>
+			<paragraph>The phonebook has a wide range of features and practically unlimited storage capacity.</paragraph>
+			<paragraph>There are options to filter contacts that have phone numbers, show/hide some of the groups you?ve created (including groups from social networks) and change the sorting (by first or last name).</paragraph>
+			<paragraph>The phonebook offers the Quick contacts feature, which lets you tap the contact photo for a popup menu with shortcuts to call, text, or email. The TouchWiz-specific swiping gesture is here too ? swipe a contact right to make a call and left to compose a message.</paragraph>
+			<paragraph>There are many info fields that you can assign to each contact, but it still remains perfectly organized. You have all types listed (numbers, email addresses, etc) and there's a plus sign on the right to add another item of that type. Pressing the minus sign under it deletes the unneeded field.</paragraph>
+			<paragraph>Of course, the real flexibility of the phonebook becomes apparent when you sign into your Facebook or LinkedIn account. After syncing, the phonebook will automatically merge your contacts (you can do it manually too).</paragraph>
+			<paragraph>The contact info screen is tabbed. The first two tabs are pretty standard ? one displays the person?s contact information while the other keeps call and message history. The third and fourth tabs handle the social stuff ? status updates and the contact?s online galleries.</paragraph>
+			<paragraph>Weirdly, only Facebook and LinkedIn contacts can be synced with the phonebook - we usually see Twitter contacts in here too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great telephony<subsectionTitle>
+			<paragraph>The Samsung Galaxy R had almost no issues with reception even in areas with poor coverage. Sound in the earpiece was crisp and fairly loud.</paragraph>
+			<paragraph>The dialer and call log have been integrated into the phonebook, each in a separate tab. Smart Dial is available and works like a charm ? it searches names and numbers simultaneously.</paragraph>
+			<paragraph>Only one contact (with photo) is shown at a time in the Smart Dial suggestions. You can tap the down arrow to view the rest (a digit above the arrow indicates how many contacts have matched your query).</paragraph>
+			<paragraph>The dialer also offers quick shortcuts for making a video call or sending a message instead.</paragraph>
+			<paragraph>Thanks to the proximity sensor, your screen will automatically turn off during a call. The available options during a call include taking a note, using the keypad, muting or holding the call, or adding another call to your conversation.</paragraph>
+			<paragraph>The call log is the tab next to the dial pad. It displays all the dialed, received and missed calls in one list, while sorting your call history by contacts.</paragraph>
+			<paragraph>We also performed our traditional loudspeaker test. The Samsung Galaxy R I9103 scored an Average mark. The vibration on the other hand is strong, which will alert you in case you don?t hear the ringer in a loud environment. Here's how it stacks up against the competition.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>A boatload of messaging features<subsectionTitle>
+			<paragraph>The messaging department is quite straightforward: there are no folders here, just a new message button. Under that button is a list of all your messages organized into threads.</paragraph>
+			<paragraph>Swiping on a message header will do exactly the same as in the phonebook ? a left swipe starts a new message, while swiping to the right will start a call.</paragraph>
+			<paragraph>There?s application-specific search that lets you quickly find a given message among all your stored SMS and MMS.</paragraph>
+			<paragraph>To add message recipients, just start typing the corresponding name or number and choose from the contacts offered.</paragraph>
+			<paragraph>When you add multimedia content to the message, it automatically turns into an MMS. You can either quickly add a photo or an audio file to go with the text, or compose an MMS using all the available features (like multiple slides, slide timing, layout, etc.). The multiple slides are all shown inside the compose box.</paragraph>
+			<paragraph>Moving on to email, the Gmail app supports batch operations, which allows multiple emails to be archived, labeled or deleted. Multiple Gmail accounts are also supported.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can support multiple POP or IMAP inboxes. You have access to the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>It offers a combined inbox option, which color-codes emails from different accounts so it's easy to tell which email was pulled from which account. Conversation view is also available - it groups related emails into single entries with a number in parenthesis showing the number of emails grouped. A tap on that entry expands it to show a list of the individual messages.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The G-Talk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts. Video chat support is also onboard here.</paragraph>
+			<paragraph>As far as text entry goes, you have the standard Samsung keyboard at your disposal, as well as XT9. Both are fairly comfortable, although if you're coming from a bigger screen, the keys might feel a little cramped. The landscape keyboard should be good enough though.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Slick gallery and file browser<subsectionTitle>
+			<paragraph>The Samsung Galaxy R uses the standard Android gallery. The gallery automatically locates the images and videos no matter where they are stored. It even imports the online photos from your Google Picasa web albums.</paragraph>
+			<paragraph>Little about the Gallery should surprise you. It displays full resolution images and supports double tap and pinch zoom. It supports sharing images over Bluetooth, email, messaging along with uploading to Picasa or using DLNA to push the image to a compatible TV.</paragraph>
+			<paragraph>The Gallery also offers some editing options - cropping, 90-degree rotation and some more advanced features such as image adjustments, effects and selections.</paragraph>
+			<paragraph>The My Files app is a simple to use but efficient file manager. It can move, copy, lock and rename files in bulk, even send multiple files via Bluetooth. My Files will only browse the memory card and the large internal storage (it can?t access the system drive).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The well-established music player<subsectionTitle>
+			<paragraph>The Samsung Galaxy R I9103 uses the standard TouchWiz music player. Samsung have enabled equalizer presets (including a custom one) along with sound-enhancing DNSe technology and 5.1 channel virtualization.</paragraph>
+			<paragraph>By default, tracks are sorted into four categories - All, Playlists, Albums and Artists. From the settings, you can add or remove categories to set up the music player just the way you like it.</paragraph>
+			<paragraph>The album art has a central place in the Now Playing interface, but you can replace it with an equalizer. You can skip songs or FF/rewind by sideways swipes.</paragraph>
+			<paragraph>Another nice feature allows you to quickly look up a song on YouTube or via Google search. The handset also prompts you to select whether to look up the artist, the song title or the album.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Simple yet powerful video player<subsectionTitle>
+			<paragraph>The video player offers a simple list-based interface. It displays all video files stored on the phone and you can sort them by name, date, type or size, and it also remembers the last viewed position of the video, so you can resume exactly where you left off.</paragraph>
+			<paragraph>You can choose between three crop modes for how the video fits the screen. There?s 5.1 channel virtualization and subtitle support, as well.</paragraph>
+			<paragraph>You can also change font size and adjust subtitle sync (move them back or forth in time) but there?s no option to manually load subtitles; they have to have the same filename as the video file to load properly.</paragraph>
+			<paragraph>The video player handled most videos we threw at it with ease. DivX and XviD videos at 720p resolution weren't a problem, but 720p h.264 lagged. The player had no trouble with sound codecs (most other phones choke on AC3 or DTS sound).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Satisfying audio output<subsectionTitle>
+			<paragraph>The Samsung I9103 Galaxy R did quite well in our audio quality test. The Tegra 2-packing smartphone wasn't particularly loud, but it was almost as clean as we have seen them come.</paragraph>
+			<paragraph>When used with an active external amplifier the Galaxy R is really great. As you can see from the table below every aspect of its performance is flawless. The only thing you might not particularly like is the below average loudness, but that's hardly a huge issue here.</paragraph>
+			<paragraph>What's even better, there's not too much degradation to be heard when you plug in a pair of headphones. The main thing to notice is stereo crosstalk which gets average and the intermodulation distortion, which drops from great to good. Frequency reponse is virtually unaffected and the volume levels are average here, so it's a pretty solid performance overall. There are smartphones with better audio output out there, but the differences really aren't huge.</paragraph>
+			<paragraph>Check out the table and see for yourself.</paragraph>
+			<paragraph> Samsung I9103 Galaxy R frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Above average 5MP camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy R comes with a 5MP camera and an LED flash. It captures photos at a maximum resolution of 2560 x 1920 pixels.</paragraph>
+			<paragraph>Its interface looks pretty familiar with two shortcut bars on each side of the viewfinder. On the right you get the still camera / camcorder switch, virtual shutter key and the gallery shortcut (which is a thumbnail of the last photo taken).</paragraph>
+			<paragraph>On the left, you get the front/back camera switch and the flash control. You can replace those two and add two more (for a total of four) shortcuts to any option in the Settings menu.</paragraph>
+			<paragraph>In terms of image quality, the Galaxy R really impresses with some great image sharpness while keeping colors at an acceptable level of saturation. In some scenes we even noticed lower noise levels while keeping the same level of resolved detail, which is commendable. The Galaxy R photos also have good contrast and accurate white balance. Here are some camera samples shot by the Galaxy R:</paragraph>
+			<paragraph>We also saw commendable performance at the macro level.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Samsung Galaxy R I9103 enters our Photo Compare Tool alongside other 5MP shooters. The tool?s page will give you enough info on how to use it and what to look for.</paragraph>
+			<paragraph>In the first chart, there are slight traces of a pink spot that the processing software attempted to remove. The Galaxy R shows far superior image sharpness when compared to the more expensive Galaxy S Plus?when comparing the grass patch in the second chart the difference is almost night and day. Finally, the third chart shows the aforementioned acceptable saturation levels, as well as a white balance that doesn?t stray towards any particular hue, as seen in the black and white photograph.</paragraph>
+			<paragraph>   Samsung Galaxy R in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>720p video recording is sans focus<subsectionTitle>
+			<paragraph>The video camera interface is identical to the still camera. You get the same customizable panel on the left with four shortcuts. You can use the front camera to record video too, but at a lower resolution.</paragraph>
+			<paragraph>The front camera shoots 720p video at 30fps in .MP4 format, with at a bitrate of 10.1Mbps.</paragraph>
+			<paragraph>The videos themselves, like the camera, have some great color saturation and white balance, but unlike the camera, leave something to be desired in the sharpness department. We also see a small amount of aliasing.</paragraph>
+			<paragraph>More importantly, the video camera does not attempt to focus the image automatically, nor does it feature the ability to focus the image manually. The sound quality is a bit low; mono @ 96Kbps bitrate and only a 16.0kHz sampling rate.</paragraph>
+			<paragraph>Here's a sample we uploaded to YouTube for your viewing pleasure.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Also, here's an untouched 720p@30fps sample (13.8MB) straight from the phone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The video quality compare shows how much the lack of autofocus hurts the Galaxy R. While the colors are richer than the Galaxy S Plus and the Galaxy W, we see a noticeable lack in sharpness. This is particularly apparent when comparing the lights of the Ferris under low-light conditions. The ISO chart also shows how the Galaxy R underperforms the less expensive Galaxy W in this regard.</paragraph>
+			<paragraph>   Samsung Galaxy R in the Video Compare Tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Streamlined and feature-rich connectivity<subsectionTitle>
+			<paragraph>The Samsung Galaxy R has quad-band 3G and GSM/GPRS/EDGE support, with HSPA+ (21 Mbps downlink and 5.76 Mbps uplink).</paragraph>
+			<paragraph>Moving on, there?s Bluetooth 3.0 for fast local file transfers. Then there's Wi-Fi b/g/n support and a Wi-Fi hotspot option.</paragraph>
+			<paragraph>The AllShare app allows you to stream content to and from various devices (TV or computer) over DLNA.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Top-rated web browser<subsectionTitle>
+			<paragraph>The interface of the Android web browser has hardly changed. Its user experience is, as always, flawless.</paragraph>
+			<paragraph>The browser supports both double tap and pinch zooming along with the new two-finger tilt zoom. There are niceties such as multiple tabs, text reflow, and find on page and so on. A neat trick is to pinch zoom out beyond the minimum ? that opens up the tabs view.</paragraph>
+			<paragraph>Yet another neat trick is the browser-specific brightness setting. You can, for example, boost the brightness in the browser to comfortably view your web pages but keep the general brightness low to conserve battery.</paragraph>
+			<paragraph>There?s Flash 11 support, which means you can watch YouTube videos right in the browser (videos up to 720p worked smoothly) and play Flash games too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Hubs ? games, facebook and more<subsectionTitle>
+			<paragraph>The Social hub we?ve seen before ? it combines your email accounts with social networking (Facebook, Twitter, LinkedIn) and email accounts and shows all incoming messages on one list with handy shortcuts to reply, mark as favorite and so on. There?s filtering by message source too, to help manage the inflow of incoming updates.</paragraph>
+			<paragraph>The Music Hub lets you browse music online (with search tools, charts, lists of new releases and so on). You can preview songs (30 seconds each) and buy tracks or whole albums.</paragraph>
+			<paragraph>Finally, there?s the Game Hub, which will quickly become your go-to place for finding new games. The titles break down into Social and Premium, and there?s a news section, too. You also get to try before you buy. The nice thing about that Hub is it includes the titles by Gameloft, which are otherwise not available on the Android Market.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Impressive office suite<subsectionTitle>
+			<paragraph>The Samsung Galaxy R I9103 comes with Polaris Office preinstalled. It?s one of the most feature-rich mobile editors we?ve seen. You can view, edit and create Word, Excel and PowerPoint documents (Office 2003 and Office 2007 are supported) and there?s a PDF viewer as well. The app enables searching through your office files just like in a file explorer.</paragraph>
+			<paragraph>There are a large number of editing options - from font size and style, justification and bulleting options, to table styles. You can easily pick Excel functions from a list too (a feature commonly missing in mobile editors).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>A plethora of organizational tools<subsectionTitle>
+			<paragraph>The calendar has four different types of view: list, daily, weekly and monthly. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The list view (often referred to as Agenda view) shows a list of all the calendar entries from the recent past to the near future. It?s a very handy tool when you need to check your appointments for the next few days.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized - the buttons are big enough and easy to hit. Turning the phone landscape reveals more advanced calculator functions.</paragraph>
+			<paragraph>The Samsung Galaxy R features a decent alarm clock application with a huge number of alarms to be set, each with its own start time and repeat pattern.</paragraph>
+			<paragraph>The Memo and Mini Diary are self-explanatory. The first app works with text only, while the Diary lets you also attach pictures.</paragraph>
+			<paragraph>You also get a To-Do app called Task and a Voice recorder to round off the organizer functionality.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The latest Google Maps<subsectionTitle>
+			<paragraph>The Samsung Galaxy R I9103 managed to get a GPS lock in just under a minute without A-GPS. A-GPS can speed up the lock (but it involves data traffic). Cell-ID and Wi-Fi positioning are also available if all you need is a rough location, but they need a data connection too.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we?ve covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere. You can plan routes, search for nearby POI and go into the always cool Street View.</paragraph>
+			<paragraph>The latest version uses vector maps, which are very data efficient and easy to cache. The app will reroute you if you get off course, even without a data connection.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The improved Android Market<subsectionTitle>
+			<paragraph>The Samsung Galaxy R has the latest version of the Android Market. Upon launch of the Market app you?re greeted with the tiled interface of the Featured window. A swipe to the right takes you to the Categories view.</paragraph>
+			<paragraph>Swiping to the left takes you through Top Paid, Top Free, Top Grossing, Top New Paid, Top New Free and Trending (the ones with growing popularity). New sections are available such as Staff Picks, Editor?s Choice and more.</paragraph>
+			<paragraph>Downloads are easy and won't take more than a couple of seconds. Before you agree to download an app, the Market will show you what features the app requires access to (e.g. Internet connectivity, access to the file system, etc.).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connect to a PC wirelessly with Kies Air<subsectionTitle>
+			<paragraph>The Samsung Galaxy R comes with Kies Air preloaded. The app connects to the local Wi-Fi network (or it can create a Wi-Fi hotspot) and gives you a URL to type into your computer?s web browser.</paragraph>
+			<paragraph>From there you can manage just about anything on the phone ? from contacts, messages (including composing messages), to browsing images, videos and other files straight in your desktop browser. You can grant or reject access to computers and see who?s connected to the phone at any moment.</paragraph>
+			<paragraph>The cool thing is you can stream music with handy playback controls. It works for videos too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final Words<subsectionTitle>
+			<paragraph>The Samsung Galaxy R I9103 stops a few paces from the top in Samsung's Android lineup, but you can tell that the R&amp;D for the top dogs has trickled down the ranks. The camera quality when compared to other Galaxy models has definitely improved, if you exclude the lack of autofocus when shooting video.</paragraph>
+			<paragraph>TouchWiz 4.0 is one of the most flexible Android modifications and the standard set of apps is quite complete - from the SNS-enabled phonebook, through the excellent video player and smooth 720p Flash video support to third party goodies like the very capable Polaris Office.</paragraph>
+			<paragraph>Hardware-wise, it can?t exactly compete with the top dog in Samsung?s lineup, the S II, but it does better than many of the other Galaxy variants available, namely the Galaxy W. If you?re willing to forego the benefits of Tegra 2 and dual-core, the Samsung I9001 Galaxy S Plus costs about 20% less and comes with a (slightly smaller) 4-inch SuperAMOLED screen, as well as Gorilla Glass.</paragraph>
+			<paragraph>If a Tegra 2 dual-core device is a must for you, then both the Optimus 2X and the Motorola Atrix will meet that need, with the Optimus having an 8MP camera capable of shooting 1080p video, and is about the same price. The Atrix has a higher resolution screen and is cheaper to boot. Neither can compete with the 4.2 inch screen size or 9.5mm thinness of the Galaxy R, but both come with Gorilla Glass.</paragraph>
+			<paragraph>   Samsung I9001 Galaxy S Plus ? LG Optimus 2X ? Motorola ATRIX</paragraph>
+			<paragraph>Or how about a Windows Phone handset? The Samsung Omnia W I8350 packs a better 3.7" screen than the Galaxy W - a SuperAMOLED. The Nokia Lumia 710 is also worth a look, it?s a bit cheaper and has a ClearBlack display and free voice-guided navigation to get you interested.</paragraph>
+			<paragraph>  Samsung Omnia W I8350 ? Nokia Lumia 710</paragraph>
+			<paragraph>The Samsung Galaxy R I9103 is a mixed bag of features?it has a nice 5MP camera, which produces nice and sharp images, but it does not feature the SuperAMOLED screen, the Gorilla Glass or the better performing Samsung Exynos chipset. Still, at the time of writing the difference between the Galaxy S II and the Galaxy R is about ?100, which is no a small amount, so the Galaxy R would have a place of its own under the sun away from the shadow of the big gun.</paragraph>
+		</subsection>
+	</page>
+</review>

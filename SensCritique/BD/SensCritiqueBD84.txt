@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>The Walking Dead Volume 26: Call To Arms</nameEn>
+	<nameFr>L'Appel aux armes - Walking Dead, tome 26</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/L_Appel_aux_armes_Walking_Dead_tome_26/21644166</link>
+	<generalScore>7.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

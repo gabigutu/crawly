@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Fable de Venise - Corto Maltese, tome 7</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1981</year>
+	<link>http://www.senscritique.com/bd/Fable_de_Venise_Corto_Maltese_tome_7/29823</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>50</numberOfVoters>
+		<numberOfVoters>147</numberOfVoters>
+		<numberOfVoters>319</numberOfVoters>
+		<numberOfVoters>269</numberOfVoters>
+		<numberOfVoters>155</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Magie Vénitienne</title>
+		<author>Hypérion</author>
+		<date>2012-09-05</date>
+		<score>0.9</score>
+		<content>Hugo Pratt ne fait jamais dans l'évident. Pour le suivre, il faut être croyant. Il faut croire à son conte et ne plus se poser de questions, juste se laisser emporter par son talent de narration onirique et mystiqueà la fois Thème récurrent des Cortos Maltese, c'est une encore une histoire de trésor perdu, mais, comme d'habitude, l'essentiel est ailleurs. Cette fois ci, Corto nous entraine à la poursuite de la "clavicule de Salomon", un trésor mythique et inestimable. Passant du néoplatonicisme à la magie, des loges maçonniques aux amours tragiques, Hugo Pratt nous entraine dans ces fables vénitiennes, nous faisant parcourir la villes et ses trésors cachés, ses personnages grandiloquents et ses mythes perdus.</content>
+	</review>
+	<review>
+		<title>Initiatique!</title>
+		<author>noodle</author>
+		<date>2011-10-19</date>
+		<score>1.0</score>
+		<content>J'ai lu cette BD très jeune. Aventure,Romantisme,Histoire,Salomon,Franc Maçon,Venise...Que l'on ne vienne pas me dire après que Dora l'exploratrice c'est éducatif! :.</content>
+	</review>
+	<review>
+		<title>Venise, l'indomptable</title>
+		<author>JMKRO</author>
+		<date>2014-11-28</date>
+		<score>1.0</score>
+		<content>"Fable de Venise" : une BD de Hugo Pratt n'aura jamais si bien porté son nom. C'est tout l'art de raconter une histoire, sublimée par les contes ésotériques qui ensorcellent Corto Maltese le temps de ce voyage. Mais fable aussi d'une histoire qui finit malicieusement par une pirouette... Le lecteur comprendra à la dernière planche... De salut ? Mais fable à demi. L'avant-propos, intitulé "Une grand-mère vénitienne", est une autobiographie de l'enfance, condensée en quelques pages, d'Hugo Pratt. Étrange façon d'introduire une fable que de révéler les sources de l'imagination, c'est-à-dire, en quelque sorte, la meilleure manière de rendre réel l'imaginaire, de lui donner credit. Par ce truchement - je préfère parler d'honnêteté -, Hugo Pratt permet la connivence, indispensable au lecteur pour croire. L'imaginaire fait le reste. J'aimerais déambuler dans ce monde fourbu d'intrigues, mais toujours élégant. Ici l'atmosphère de Venise n'en rend que plus sensorielle et mystérieuse l'histoire. Plaisir aussi de l'érudition jamais étouffante des références : le baron Corvo est un clin d'œil à ces aventuriers réels qui ont peuplé l'ancien monde ; l'histoire de Venise que l'on revisite pour y retrouver les traces de ces indices du passé que l'on n'aurait pas remarqué par ignorance ; les références historiques et les connaissances ésotériques... Une BD merveilleuse, mystérieuse, qui donne l'envie de voyager et d'être mêlé à quelques mauvaises histoires de sorcier, de groupes secrets, de cartomancie. Ah, les contes et légendes...</content>
+	</review>
+	<review>
+		<title>La decouverte du sens : l'esoterisme</title>
+		<author>emmanuel1</author>
+		<date>2013-05-12</date>
+		<score>1.0</score>
+		<content>Cela commence comme souvent par une chute, une rencontre... Cette fois-ci, hugo pratt a decidé de nous faire visiter Venise. Au hasard des rues, on y découvre ce qu'il y a de plus beaux chez Pratt : sa jolie façon de nous conter les histoires, imagée en noir et blanc. Et je dois dire que cette aventure teintée de découvertes de cette jolie ville me donne souvent envie de faire mon sac et partir en week end là bas. Pour l'instant, j'ai dû juste lire ce "al-bundiqqiyah" une 15aine de fois.</content>
+	</review>
+	<review>
+		<title>Fable de Venise - Corto Maltese, tome 7</title>
+		<author>Cidrolin</author>
+		<date>2013-01-06</date>
+		<score>0.8</score>
+		<content>Un Corto plus ésotérique que jamais, et en même temps un guide touristique pour le Venise secret. Un voyage dans un Venise hermétique via les loges maçonniques emmène Corto sur la piste d'un trésor. Mais comme souvent avec Pratt, le voyage est la récompense. Peut-être le meilleur Corto Maltese, représentatif de l'oeuvre de Pratt. Je recommande la version noir et blanc.</content>
+	</review>
+</sensCritiqueEntity>

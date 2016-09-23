@@ -1,0 +1,120 @@
+<review>
+	<title>Zune software review</title>
+	<description>Syncing in Zune</description>
+	<link>http://www.gsmarena.com/zune_software-review-539.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>We don?t often review software, but it was almost unavoidable in this case ? the Zune desktop software is an inseparable part of the Windows Phone 7 experience. Since we already have a couple of WP7 phone reviews under our belt, we decided it was time we looked into the role your computer plays in owning a Windows Phone 7 mobile.</paragraph>
+			<paragraph>The Zune Software started off as the computer sync software for Microsoft?s Zune player ? basically, it?s what iTunes is to the iPod. Its functionality was extended as new Zune-capable devices were added, like the ill-fated KIN phones and now Windows Phone 7 devices.</paragraph>
+			<paragraph>Microsoft made a few decisions that practically mean you need to install Zune when you buy a WP7 phone ? it?s the only way to transfer data (photos, music, etc) between the phone and the computer.</paragraph>
+			<paragraph>It?s not as bad as it sounds ? syncing over USB is fairly easy and you can enable Wi-Fi syncing too.</paragraph>
+			<paragraph>But the Zune Software package is more than just a way to load up a few songs ? it offers a complete multimedia experience and may just become your preferred media player on your computer.</paragraph>
+			<paragraph>It does anything from playing and buying songs to giving you a social arena where you can find new songs by following the artist or friends.</paragraph>
+			<paragraph>What it can?t do is sync your contacts and calendar ? it?s not a full PC suite, it just manages the multimedia part of the equation.</paragraph>
+			<paragraph>Hit the next page for our scoop of Zune desktop software.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The basics<subsectionTitle>
+			<paragraph>The Zune app uses a fluid interface with clean styling and smooth transitions. It is very similar to the interface on a Zune player or even a Windows Phone 7 mobile.</paragraph>
+			<paragraph>Once you install the app, it becomes a part of Windows ? it?s even updated through Windows Update. If you?re on a Mac, you won?t be able to use Zune but there?s the Windows Phone 7 Connector to transfer multimedia files. In Microsoft?s words, however, ?this software is not part of the Zune experience?.</paragraph>
+			<paragraph>By default, the Zune application on PC is set up to launch as soon as you connect a Zune device (you can disable that) and you can set a different startup view.</paragraph>
+			<paragraph>Which view you choose depends on your primary use of the Zune Software. If you use it for syncing mostly, then starting in the Collection screen is a good idea. If, on the other hand, you use it as a desktop player the Quickplay option is the better pick, or even the Marketplace if you?re the type to try out new music rather than sticking to the old playlists.</paragraph>
+			<paragraph>The Zune app is also the tool you?ll use to update your Windows Phone 7 mobile. There are no updates available yet, but once one comes out, check out the Phone tab in the Settings menu.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Setting up Zune<subsectionTitle>
+			<paragraph>The first thing you?d need to do after you install Zune will be to add your music, video and photo libraries. The app integrates with Windows on this matter and uses your Library folders (for Windows 7) for the respective library (photo library, music library, etc.).</paragraph>
+			<paragraph>Making modifications to each will result in a change in the Library folder itself ? this is both easy and annoying. It?s easy because if you add a folder to your Zune library, it will get added to the Library (the one found in Windows 7 Explorer). You can opt out and have Zune manage folders separately from Windows if you want (this option is not available in versions earlier than Zune 4.7).</paragraph>
+			<paragraph>On Windows XP, Zune uses the My Music, My Photos, etc. folders in lieu of Libraries.</paragraph>
+			<paragraph>In terms of startup speed, Zune takes a while even on dual-core Intel rigs with 2 gigs of RAM.</paragraph>
+			<paragraph>Anyway, once Zune is started and you?ve set up your libraries you can start syncing. To send stuff to your WP7 phone, just find the item(s) or folder(s) in the Collection tab, select them, right click and choose Sync with Phone. Alternatively, you can drag and drop them to the device icon in the lower left corner.</paragraph>
+			<paragraph>To sync things the other way, find the items in the device tab and choose Copy to my Collection from the right click menu or drag it to the computer icon.</paragraph>
+			<paragraph>Photos get imported into the Pictures library in a folder called ?Imported on 
+
+ ?. It would have been more useful if the folder was named after the album that the photo is in, the date we can find out easily elsewhere.
+</paragraph>
+			<paragraph>Videos are imported into the folder, without subfolders while music is stored in Artist folder with folders for each album inside.</paragraph>
+			<paragraph>That?s about all you?ll be able to sync though ? the Zune Software does not support syncing contacts or calendars.</paragraph>
+			<paragraph>You can use WindowsLiveForMobile.com to do things like backing up your contacts (in this case, online). Other than that, you can just sync your desktop app of choice with your Live account.</paragraph>
+			<paragraph>When transferring media files with Zune, keep in mind they might be modified. For example, photos are downscaled to a little over a megapixel and videos might be re-encoded with a different codec and lower resolution.</paragraph>
+			<paragraph>Multimedia syncing with Zune can be done through a USB cable or wirelessly over Wi-Fi. To do that, connect your phone over USB and from the settings menu set up Wi-Fi syncing. To sync, the phone and the computer will need to be connected to the same Wi-Fi network, of course.</paragraph>
+			<paragraph>Wireless syncing is automatic and initiates as soon as you plug your WP7 smartphone in the power outlet for more than several minutes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Exploring Quickplay and basic player UI<subsectionTitle>
+			<paragraph>By default, Quickplay is the start screen for the Zune app and if you use it as a media player on your computer, that?s probably how it will stay.</paragraph>
+			<paragraph>Quickplay is separated into two halves ? one half holds five Smart DJ slots (we?ll explain what this is in a moment) and the other is separated into three parts. The three parts are Pins, New and History.</paragraph>
+			<paragraph>The New section holds thumbnails of new media ? songs, photos, videos ? that has entered your collection. If you?ve just gotten a new song, this is the place to find it. The History section on the other hand shows thumbnails of media you?ve played recently.</paragraph>
+			<paragraph>Pins are slots to which you can add shortcuts. You can ?pin? just about anything ? a song or album, a video and not just from your collection but from the Marketplace too.</paragraph>
+			<paragraph>Both halves of Quickplay are always visible, but only one of them is active at a time. The inactive half is smaller and faded and it looks far away ? but a click will bring it front and center and push the other half back.</paragraph>
+			<paragraph>At the lower right corner you always get player controls ? play/pause, next and previous buttons along with volume controls and repeat / shuffle buttons. In the bottom left, you have shortcuts for dropping things onto your device (or transfer to the computer, depending on what you?re currently viewing), add to a burn list and create a playlist.</paragraph>
+			<paragraph>On one computer we experienced frequent graphics glitches and the Zune app would often hang up. We narrowed it down to integrated graphics card ? it was disappointing that it didn?t run well on a Windows 7 machine that handles Aero without a hitch.</paragraph>
+			<paragraph>One thing that got us scratching our heads is the equalizer ? there isn?t one. The ?lowly? Windows Media Player that comes bundled with Windows has an equalizer, Dolby Digital and SRS WOW effects and yet Zune, which lives and breathes multimedia, has none.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Managing music<subsectionTitle>
+			<paragraph>The lowest level of music organization that the Zune software does is sorting all your tracks by artist, album and albums. You can also create playlists ? the easiest way to do that is to drag some songs to the New playlist icon in the bottom left and name the playlist.</paragraph>
+			<paragraph>Smart DJ is another way to create playlists and it?s even simpler ? you don?t. Right click on an artist/album/song and choose Play Smart DJ mix ? Zune will automatically pick similar songs (from your collection and the online repository). This is a very easy way to set the mood ? pick an appropriate song and let Zune worry about populating the playlist with similar sounding songs.</paragraph>
+			<paragraph>You can create Smart DJ playlists too ? it does the same thing but it saves the list it generates as a playlist, with the option to auto-refresh the playlist periodically. One downside is that Smart DJ picks songs from the Marketplace so if you don?t have a Zune Pass, you?ll be able to hear just a 30 second preview.</paragraph>
+			<paragraph>Depending on how tidy you?ve kept your music collection and how you?ve gotten the songs, you might or might not have album art for your songs. Ripping songs from a CD means they?ll come with very little track info and certainly no album art.</paragraph>
+			<paragraph>Worry not, Zune is fairly good at finding that automatically. We took a song, changed its name to ?Some song.mp3? and deleted all ID3 info ? and yet the Zune app managed to find the song and album info along with album art in a matter of seconds. It did stumble on some songs though and it also kept downloading wrong data to a generic music sample we use for our audio quality tests.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Shopping at the Marketplace<subsectionTitle>
+			<paragraph>The Marketplace is a key component of the Zune experience ? from here you can buy anything from songs through TV shows to Windows Phone 7 apps.</paragraph>
+			<paragraph>Finding new music with Zune is easy ? it?s not just the social side of things or even the Channels functionality. For 15 US dollars a month, you can get what is known as a ?Zune Pass?.</paragraph>
+			<paragraph>With a Zune Pass you can listen to all the music you want ? you can stream songs or download them and there?s no limit to how much. You can download songs to your computer and phone and even stream them if you?re in range of a Wi-Fi hotspot.</paragraph>
+			<paragraph>The downside of the Zune Pass is that once your subscription ends you won?t be able to listen to those songs anymore. Still, each month you get 10 ?credits? ? that is you can pick 10 songs you get to keep forever, even if your Pass expires. Make sure you use up your credits as they don?t carry over to the next month.</paragraph>
+			<paragraph>Zune Pass songs can be downloaded to up to three computers and synced with up to three Zune devices. With your Pass you don?t even need the Zune software to stream music ? you can do that from your browser on the Zune.net site. You get a free 14 day trial, to see if Zune Pass is worth that $15/month.</paragraph>
+			<paragraph>Songs you?ve kept using credits can be synced to an unlimited number of Zune devices and you can burn a song on up to 7 CDs. Zune Pass songs on the other hand cannot be recorded to CDs.</paragraph>
+			<paragraph>Two other sections are Podcasts and channels ? we?ll cover that in the next section. The Picks section is interesting because it?s customized just for you. Based on your listening history, Picks will automatically prepare a selection or artists, albums and songs that you might like. The more stuff you listen to, the better Picks gets at finding good music.</paragraph>
+			<paragraph>This is also one of the places where having a Zune Pass is great ? you can listen to all the albums that Picks has offered and add the ones you like to your collection, all at no extra cost. So, if you can?t decide whether you like a song or not based on just a 30 second preview, Pass is the thing you need.</paragraph>
+			<paragraph>Finally, there?s the Apps section ? the place where you shop for Windows Phone 7 applications. The shopping experience is similar to shopping on the phone itself ? except you do it in the comfort of your computer.</paragraph>
+			<paragraph>For each app (or game) you get published info and price, a short description and screenshots along with user rating and reviews. You can write your own review of course.</paragraph>
+			<paragraph>When you buy an app, it will be installed on the phone the next time you sync it with the computer or the next time the phone checks for updates. Apps that are 30MB or over, can only be downloaded via the computer or on the device when connected to a Wi-Fi network ? there are no big apps downloads over 3G.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Podcasts and channels<subsectionTitle>
+			<paragraph>Zune of course has support for podcasts. The Podcast tab in the Marketplace offers many podcasts (both audio and video) organized into categories and you can use search if you?re looking for something specific.</paragraph>
+			<paragraph>When you subscribe to a podcast, Zune will start downloading several episodes (3 by default, you can change that).</paragraph>
+			<paragraph>You can also set the order in which podcasts are displayed (newest episodes first for news or oldest first for serialized programs) and how they are synced to the device all downloaded, all unplayed, just the first unplayed or none at all.</paragraph>
+			<paragraph>Channels are a sort of playlists ? they are song lists you can subscribe to, which are updated weekly. There are a variety of channels in every genre and subscribing to one will take the effort out of looking for new music.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Videos, conversions for mobile<subsectionTitle>
+			<paragraph>Videos in your collection are separated into TV, Movies, Music, Personal and Other categories. Adding videos to the Collection takes a couple of seconds, but after that they start and play very smoothly.</paragraph>
+			<paragraph>Zune handles DivX, XviD, AVC and H.264 codecs problem-free ? unlike your Windows Phone 7 mobile. Which is why the Zune software re-encodes videos before sending them to your device.</paragraph>
+			<paragraph>Videos are converted to a .WMV encoded with WMV3 with WVGA maximum resolution (which matches the screen resolution of all current WP7 phones.</paragraph>
+			<paragraph>Videos using the MP4 container and codec are re-encoded to the same format, while all others are converted to a .WMV file using the WMV3 codec. The resolution for videos is preserved if they are up to 800x600 pixels in resolution, otherwise they are downscaled to fit that resolution.</paragraph>
+			<paragraph>We tried a 2 minute DivX video, which took around a minute and a half to convert on a dual-core AMD Athlon processor at 2.4GHz and 2GB RAM. On the same machine, a 2 minute AVC-encoded MP4 video with 720p resolution took 3 minutes to convert and resulted in a video with resolution 800x450 pixels (to preserve the ratio). If you do your math, that means transferring full-featured movies to your WP7 smartphone will take a while.</paragraph>
+			<paragraph>And you have no say about the conversion settings ? resolution, framerate and so on are picked automatically.</paragraph>
+			<paragraph>But the TV shows and movies you get from the Zune Marketplace are already properly encoded for your device, so you?ll only have to re-encode ?your other? videos.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Following artists and friends with Social<subsectionTitle>
+			<paragraph>Zune offers a social side to enjoying multimedia. In fact, Zune Social is a mini, multimedia-oriented social network in its own right.</paragraph>
+			<paragraph>You can create a profile page ? with a biography, interests, photos and favorite artists and those SNS staples, status updates, following people (both friends and artists) and sending friend requests. You can also write reviews.</paragraph>
+			<paragraph>Zune Social also includes badges ? you earn those by playing an album or artist tirelessly, or posting well-written reviews and comments. You can also create quizzes for others to take ? before long you?ll know what was most people?s first concert or maybe a band they liked before but don?t listen to anymore.</paragraph>
+			<paragraph>Friends are yet another way that Zune offers to find new music ? following people with similar tastes in music is one of the easiest ways to find good stuff that doesn?t depend on computer algorithms.</paragraph>
+			<paragraph>Unlike iTunes Ping (a competitive music-oriented social network), Zune Social doesn?t have integration with other social networks like Facebook or Twitter (you can invite your Live contacts though).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>The Zune desktop software has a specific goal and achieves it quite well ? it handles every aspect of your multimedia needs. But we would have preferred a centralized solution.</paragraph>
+			<paragraph>Syncing multimedia is great, but it would make things much, much simpler if it just handled contacts and calendars and such things rather than leaving you to rely on other services.</paragraph>
+			<paragraph>Anyway, Zune did very well as a media player ? it handled all video formats and is quite adept at organizing music. Plus it?s quite slow to start every time and we like our multimedia players at the instant.</paragraph>
+			<paragraph>And the video conversion really needs some settings, even if it?s as simple as choosing between low and high quality for videos. For that matter, why WMV? MP4 is the more popular format and supports better codecs.</paragraph>
+			<paragraph>As for syncing media between your computer and your Windows Phone 7 mobile, it gets good marks. But the simple Mass Storage mode, so resolutely avoided by Microsoft, has its uses too ? the simple act of taking a picture from your desktop and putting it on the phone to use as wallpaper gets overly complicated with Zune.</paragraph>
+			<paragraph>Luckily a recently revealed registry hack allows you to enable Mass Storage mode on your WP7 smartphone. This means you can move files back and forth straight from Windows Explorer - but if you put a file it won't be accessible on the phone (not even to sent over email). Still, this hack lets you use your phone as a thumb drive.</paragraph>
+			<paragraph>The occasional graphical glitches were annoying too. But the truth of the matter is that the Zune Software is the only option you have ? other than, say, transferring files through SkyDrive, which is much too awkward. So, while Zune does OK at what it does, we?re not particularly excited to have to use it.</paragraph>
+			<paragraph>If Microsoft fixes some of the problems, we might reconsider. Until then, it?s under the list of things we?re not keen on about Windows Phone 7. Much like we?re not into using iTunes to sync stuff to the iPhone.</paragraph>
+		</subsection>
+	</page>
+</review>

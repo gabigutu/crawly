@@ -1,0 +1,363 @@
+<review>
+	<title>BlackBerry Priv review</title>
+	<description>Privilege granted</description>
+	<link>http://www.gsmarena.com/blackberry_priv-review-1350.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.4" 1440 x 2560 pixels AMOLED (540 ppi) capacitive, curved edge touchscreen</paragraph>
+			<paragraph>Slider form factor, complete with a hardware 4-row BlackBerry keyboard</paragraph>
+			<paragraph>Qualcomm MSM8992 Snapdragon 808 chipset - Dual-core 1.8 GHz Cortex-A57 &amp; quad-core 1.44 GHz Cortex-A53, Adreno 418 GPU; 3GB of RAM;</paragraph>
+			<paragraph>18MP 4896 x 3672 pixels phase detection autofocus camera with OIS, dual-tone LED flash, Schneider-Kreuznach optics, 2160p video recording.</paragraph>
+			<paragraph>2MP front-facing camera, 720p video recording, selfie panorama mode</paragraph>
+			<paragraph>Android OS v5.1.1 Lollipop with a custom BlackBerry launcher</paragraph>
+			<paragraph>32GB of built-in storage; dedicated microSD card slot</paragraph>
+			<paragraph>Cat. 9 LTE (up to 450Mbps); Wi-Fi a/b/g/n/ac; Wi-Fi Direct; Bluetooth 4.1; A2DP, EDR, LE; GPS/GLONASS/; NFC; microUSB port with USB On-The-Go; 4k @30 fps video out supported with standard SlimPort adaptor</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>3,410 mAh sealed in battery with wireless charging and Qualcomm Quick Charge 2.0 support</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non-removable battery</paragraph>
+			<paragraph>No quick charger in the bundle</paragraph>
+			<paragraph>Wireless charging available only on the US model</paragraph>
+			<paragraph>Underwhelming front-facing camera</paragraph>
+			<paragraph>Quite a handful but for a better reason than most</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>A curved screen QWERTY slider by BlackBerry that runs Android, are we getting this right? We double checked and the Priv is just as exciting as it is unique. Honestly, it is one of those things many may've fantasized about but nobody actually believed would happen. It's also probably the last chance for BlackBerry to try and turn things around.</paragraph>
+			<paragraph>The BlackBerry Priv is a risky and costly venture - acknowledging the irony of saying that about a device, which is both superbly equipped and tightly secured.</paragraph>
+			<paragraph>Hopefully, for BlackBerry's sake, the Priv will meet the expectations it set for itself and go down as a visionary, not an anomaly. Before we start exploring it though, we simply feel compelled to stop and let its marvelous ambivalence sink in.</paragraph>
+			<paragraph>The Priv looks strikingly like a highly customized car. It is almost as if BlackBerry walked into the dealership and ticked every possible box, even some that are barely compatible, and then went on to request a completely different engine. And if that wasn't enough, BlackBerry then took it upon itself to fit its own security protocols so that the level of communication privacy matches its own high standards.</paragraph>
+			<paragraph>On the outside, the Priv is extremely attractive and instantly credible. Hardly a surprise though - the premium BlackBerries have always had it.</paragraph>
+			<paragraph>Now, the entire concept of a BlackBerry/Android hybrid has some enormous potential but the very first of this breed is definitely not for everyone. There're many unknowns and there's the price tag to consider as well. To continue with the car analogy - the top specs, the level of security and the BlackBerry badge on the hood all add up to an eye-watering price tag of about ?780 (perhaps a bit less in the US).</paragraph>
+			<paragraph>That's what Apple's charging on the iPhone 6s, which we don't say it's fair, but last time we checked BlackBerry and Cupertino weren't exactly neck to neck in the ratings.</paragraph>
+			<paragraph>There's nothing wrong with exclusivity and fewer devices can do better at that than the Priv, but we can understand every bit of skepticism as to how well this will work out in BlackBerry's current situation.</paragraph>
+			<paragraph>It's exactly the less-than-the-stellar state of affairs though that makes one appreciate BlackBerry's courage. Even more so for the attempt to maintain its high security standards on an open-source platform.</paragraph>
+			<paragraph>Now, Android inside doesn't make the Priv a mainstream device. It will still end up in mostly executive hands, plus a small group of true BlackBerry fans. It's a matching name by the way - officially, Priv stands for both privilege and privacy. Now Privacy has always been BlackBerry's core business. Security is up to scratch, as usual, but will BlackBerry convince enough people that it's a privilege as well? Let's see.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the BlackBerry Priv<subsectionTitle>
+			<paragraph>The BlackBerry Priv comes in a stylish two-piece rectangular box in the company's favorite black - talking business from the very start. Slide up the top and you are instantly greeted by the phone itself.</paragraph>
+			<paragraph>Underneath the handset, there is another separate black box filled with some extra paperwork, which actually seemed way too spacious at first. It turned out to be ideal for stashing all accessories inside, so we can only assume that was its original purpose. The said accessories include a pair of headphones, not of incredibly high quality at first sight, and a 1A A/C adapter.</paragraph>
+			<paragraph>Now, it is worth noting that the BlackBerry Priv supports Qualcomm Quick Charge 2.0, but the provided adaptor doesn't, so you have to get one separately, which really shouldn't be the case at this price point. Naturally, there is also a USB cable in the box.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BlackBerry Priv 360-degree spin<subsectionTitle>
+			<paragraph>The Priv might not be the thinnest or most compact handset around, but it is far from bulky. Also, revisiting the slider form factor seems like something RIM obviously enjoyed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>There is a lot to be said about the Priv on the topic of form factor and design. First things first, however, it is a BlackBerry device and it remain absolutely true to the company's aesthetic and core design, business-like and formal. You won't find anything hip or exciting in a youthful kind of way here.</paragraph>
+			<paragraph>The Priv is like the black sedan of phones (ok, we promise that was the last car reference) and yet there are a few aspects and a few little things here and there that even the most serious executive types will surely find cheerfully refreshing coming from one of Blackberry's previous models.</paragraph>
+			<paragraph>For one, the rounded corners of the screen really spice things up. It is the first such undertaking in the otherwise flat BlackBerry family and if nothing else it is definitely a bold and progressive move. Still, the curve is quite subtle - nothing too excessive or way overboard, but just enough to catch some curious gazes while lingering on the table at the board meeting.</paragraph>
+			<paragraph>Another thing that definitely gives the Priv some character of its own is the slider form-factor and the physical keyboard that it reveals. Recent advances in the mobile realm have opened up a world of new possibilities, but still for all the good that big touchscreens have brought - style and originality are definitely not among them. And while this might not be a universal opinion, we definitely enjoy every such stab at reviving abandoned designs, like the clamshell or slider.</paragraph>
+			<paragraph>Sadly, it is an indisputable fact - if you want an Android with a physical keyboard the BlackBerry Priv currently looks to be your only option, regardless of whether or not the keyboard is any good, but we'll get to that later. You could also opt for an after-market keyboard case solution, but that is bulky and not too convenient.</paragraph>
+			<paragraph>Speaking of volume, however, the BlackBerry Priv definitely has a lot of it. It measures 147 x 77.2 x 9.4mm, when retracted, which isn't all that bad by today's standards, but sliding it out makes it virtually impossible to reach to top corners of the screen, no matter how long your thumbs can stretch.</paragraph>
+			<paragraph>The phone weighs in at 192g, but it doesn't really feel bulky of heavy. Weight is nicely distributed and even when the slide is open, the Priv remains well balanced and allows a secure hold. The grippy back certainly helps.</paragraph>
+			<paragraph>Speaking of materials however, sadly there is a lot more to be desired. Don't get us wrong, plastic works great and we have seen OEM's achieve incredible things with it, but we have just come to expect more at this price range and rightfully so, since the competition is more than happy to oblige.</paragraph>
+			<paragraph>While the Priv feels sturdy enough and well put together for the most part, it is made of plastic all around. That's not necessarily as bad as it sounds if it were of higher than average quality. Sadly, that's not the case and the material used on the back is way too soft and really prone to scratching. It's also quite flexible and gives in a lot more than we would have liked when pressed.</paragraph>
+			<paragraph>We also noticed some less than perfect hole cuttings on the front speaker grill, which is simply unacceptable with today's precision cutting equipment.</paragraph>
+			<paragraph>While the slider works smoothly enough, it is far from sturdy and has some inherent wobble to it (although pretty miniscule) from the very beginning, which might spell trouble in the long run.</paragraph>
+			<paragraph>Overall, BlackBerry could have done better with materials and crafting. Everything looks well enough, but upon closer inspection, it is not exactly flagship-grade.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>First thigs first - the slider. If we didn't already make it clear, we really enjoy this throwback to a forgotten time when this form factor flourished on the phone market. Despite the aforementioned minor concerns about the durability of the mechanism itself, we can safely say that BlackBerry has done an excellent job implementing the form factor and adopting it for a large-screen device.</paragraph>
+			<paragraph>So getting to the keyboard is simple enough, but is it any good? Well yes and no. Build-quality is great, it looks nice with the subtle backlight illumination and individual keys are surprisingly comfy with a well-defined 3d texture, nice physical feedback and tolerable key travel. The only real problem with the keyboard is that it is just too small. It is definitely more crammed than most other BlackBerry devices and key travel is far from what fans will be used to as well.</paragraph>
+			<paragraph>We do realize, however, that this is purely subjective aspect and your experience may vary greatly depending on the size of your thumbs. Plus, a few hours in using the Priv is bound to recover some of that old muscle memory and typing becomes a breeze.</paragraph>
+			<paragraph>Rather surprisingly, we actually found ourselves using the keyboard as a means of keeping our fingers off the screen even when not typing on most occasions. It excels at that thanks to built-in capacitive touch functionality. Simply swipe your finger across the keys in any direction and you can easily scroll across most any interface and it works great.</paragraph>
+			<paragraph>Furthermore, there is the added nifty ability to assign shortcuts to each and every separate key. So, you could pretty much have all of your routine actions hot linked in a way that allows you to completely keep your hands off the screen.</paragraph>
+			<paragraph>Going round the rest of the device, we find the left side mostly empty. Only the power button resides here and it is quite conveniently positioned to be within reach both when the screen is open and closed.</paragraph>
+			<paragraph>The same goes for the buttons on the right, only there are a few more in number. The volume controls are actually two separate buttons.</paragraph>
+			<paragraph>There is also a third button in between. After a lot of poking around the only functionality we found it good for is to make it pull down the notification list or mute the microphone during a call, not much else, so it is definitely a little underutilized and more of a remnant of a former control scheme.</paragraph>
+			<paragraph>The bottom of the Priv houses its micro USB port, as well as the 3.5mm jack. The latter is pushed aside as far as possible, which is greatly appreciated when trying to close a pocket zipper, while leaving the headphones connected.</paragraph>
+			<paragraph>Blackberry has opted to move the physical card trays to the top of the device, which, frankly, makes a lot of sense. The Priv has a total of two - one for the nano SIM card and another for micro SD storage.</paragraph>
+			<paragraph>Looking at the phone from this angle you can clearly see where the front and back half of the display slider meet. The front half has a different color and that provides a nice contrast.</paragraph>
+			<paragraph>And finally, we get to the back. We already mentioned the overly soft finish, which you do need to be careful with. The 18MP camera lens is actually surprisingly compact. The camera bump is small and the camera glass is nicely protected by a thick rim. So no accidental scratches should occur.</paragraph>
+			<paragraph>The only other thing on the back is the silver-plated BlackBerry logo. Refrain from pushing it too hard, if you can, as it does give in quite a bit.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The display is one department BlackBerry hasn't cut any corners - a 5.4 inch 1440p display is about as good as it gets. Plus, Super AMOLED technology guarantees sharp and punchy colors and deep blacks.</paragraph>
+			<paragraph>AMOLED is definitely a rarity in the BlackBerry realm, although a quick search in our database reveals one other handset that pioneered in - the Z30. Still, it is a slightly uncharted area for BlackBerry and the size is yet another thing - the Priv is actually the first BlackBerry to break the 5.0-inch barrier. And that's aside from the fact that it's their first Android phone.</paragraph>
+			<paragraph>All things considered, it is a great first effort and there is little not to like about the Priv's display. With a pixel density of 540 ppi, it is very sharp and the slightly curved edges make for an elegant and high-end feel.</paragraph>
+			<paragraph>We have come to associate Super AMOLED panels with absolute blacks and infinite levels of contrast and that fits with the nature of the technology itself. Still, with the Priv, we didn't actually manage to get an absolute black to display. Perhaps it is some intentional software trick or a controller bug, but the best we could do is 0.01 nits on at 50% brightness and 0.02 at full blast.</paragraph>
+			<paragraph>In reality, that isn't all that much to be visually noticeable, but it does mean that the contrast is not infinite, but rather works out to about 25133. Again, that is just as fine in terms of perceivable results, but there is one other far more detrimental consequence.</paragraph>
+			<paragraph>Not being able to achieve absolute darkness, suggests that the backlight of the display is never truly off. Being able to simply switch off the pixels that are not being used is one of AMOLED's greatest benefits over LCD and it is the thing that delivers power optimization. This could be a major reason for poor battery performance on the phone - but we have yet to test that.</paragraph>
+			<paragraph>The panel on the Priv is also relatively dim, producing only 377 nits at full blast. Sunlight legibility, however, definitely does not disappoint. The Priv remains easily usable even under direct sunlight. Not to mention that having a physical keyboard is a huge bonus in this respect. Provided you are fluent enough to navigate "blindfolded" for simple tasks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BlackBerry Priv battery life<subsectionTitle>
+			<paragraph>The Priv is equipped with a fairly large 3410mAh battery. In keeping with current trends, it is sealed in. As already mentioned, the Snapdragon 808, powering the phone, supports Quick Charge 2.0, which can get you from zero to 60% in about 30 minutes. Sadly, the bundled charger doesn't support quick charging so you would have to get an extra one.</paragraph>
+			<paragraph>The Priv also has wireless charging capabilities, both Qi and PMA compliant. Sadly, however, only the US model supports that.</paragraph>
+			<paragraph>Update, Dec 23: The BlackBerry Priv posted what can best be described as ?satisfactory? battery life results. On a 3G call the smartphone lasted only around 15 hours, which is on the short side. A Samsung Galaxy Note5 can go for twice as long, while a Sony Xperia Z5 Premium and a Huawei Nexus 6P hover around the 20 and a half hour mark. Then again an LG V10 and the Apple iPhone 6s Plus aren?t much better at 16:40 and 15:51, respectively.</paragraph>
+			<paragraph>The Priv?s endurance when browsing the web over Wi-Fi was at 8:20 hours in our test. Again nothing impressive, but not entirely disappointing. It?s the exact same number the V10 posted, marginally lower than the Nexus 6P, and an hour less than the Xperia Z5 Premium. The iPhone 6s rules here with a little short of 12 straight hours, outlasting the Note5 by an hour.</paragraph>
+			<paragraph>Where the BlackBerry Priv performs least admirably is video playback. It throws in the towel after just 6 and half hours, but in all fairness the smartphone isn?t meant to be a multimedia-gobbling device. The flagships are all over the place in this test too. The Z5 Premium, for example calls it a day after 7 hours and change, the V10 a quarter of an hour later, and the Nexus 6P in 10 hours straight. It?s the Note5 and iPhone 6s Plus that truly excel, both a smidge short of the 14-hour mark.</paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our test scorecard but is calculated in the total endurance rating. The BlackBerry is very frugal in this respect and can last for over 15 days, if left untouched and connected to a 3G network.</paragraph>
+			<paragraph>The battery testing procedure is described in detail in case you're interested in the nitty-gritties. You can also check out our complete battery test table, where you can see how all of the smartphones we've tested will compare under your own typical use.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Blackberry Priv is quite versatile when it comes to network connectivity. Thanks to the modem built inside the Snapdragon 808 SoC, it comes with quad-band GSM 850 / 900 / 1800 / 1900 MHz and multi-band 3G (model and market dependent). Cat. 9 LTE is also onboard with support for theoretical downlink speed of up to 450 Mbps.</paragraph>
+			<paragraph>Local connectivity is duly covered with dual-band Wi-Fi 802.11 a/b/g/n/ac with Wi-Fi Direct and hotspot support. Bluetooth v4.1 with A2DP, EDR, LE is on board as well.</paragraph>
+			<paragraph>You also get GPS and GLONASS support. NFC is available as well and the microUSB 2.0 port can output up to 4k video via SlimPort.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Near stock Android Lollipop<subsectionTitle>
+			<paragraph>A BlackBerry phone with Android! We know it's kind of overstated at this point, but we just wanted to say it again. The company's move toward the Google OS hardly comes as a surprise and has been in the works in one form or another for some time now. And still, hardly anybody believed BlackBerry would actually go through with a full-fledged adoption of Android.</paragraph>
+			<paragraph>Loyal fans will know that BB10 has been able to run native Android apps for a while now, so the Canadian giant has already dipped its toes into the realm and should have a considerable level of experience. Running APK packages at often native speeds with zero porting and modification is nothing short of an engineering feat, which we don't really feel BlackBerry is given enough credit for.</paragraph>
+			<paragraph>But running a full Android 5.1.1 ROM is a whole other cup of tea and it brings along numerous challenges in somewhat the opposite direction - porting over quintessential BlackBerry services to the open source OS and somehow managing to provide the expected level of security, customers have come to expect.</paragraph>
+			<paragraph>This is no easy task, which the Priv boldly takes on without really holding back. The OEM was aiming for nothing short of the full BlackBerry experience on Android and we are happy to report that the result seems to be just that.</paragraph>
+			<paragraph>Of course, no software is truly perfect, especially Android builds, and there are a few notable hiccups in BlackBerry's pioneering effort and a lot of room for improvement. But, for the most part, everything works fine and as advertised, there is no obvious absence of any major feature and there are even a few extra little things thrown in for an enhanced experience - well done BlackBerry!</paragraph>
+			<paragraph>The OS designed for the Priv has a distinct Vanilla Android look and feel and seems to be quite close to stock. That means, there is practically no bloatware to speak of, well, unless you have no need for the extensive BlackBerry app suite, but that sounds more like a case of wrong expectations. Still, BlackBerry has made sure to add a few touches here and there for extra productivity, which we will be sure to point out.</paragraph>
+			<paragraph>Starting off with the lock screen, it is the usual affair - a big clock, slide to unlock and a duo of unlock shortcuts at the bottom - phone and camera. Keen observers will surely notice the slightly weird notification icon underneath the clock, which is part of Blackberry's custom notification grouping mechanism, but more on that in a bit.</paragraph>
+			<paragraph>The home screen is also pretty standard. You get a few panels for widgets and shortcuts, well, three to be exact - no more, no less, which is slightly limiting, as well as a row of four shortcuts stuck to the bottom. But, even though everything looks stock enough, something is still amiss and long-pressing the screen to enter into edit mode gives us the first hint that there is more to the UI than meets the eye.</paragraph>
+			<paragraph>What BlackBerry has actually done for the Priv is develop its own custom launcher. It looks strikingly similar to the Google Launcher and is most-likely based upon it, but it has a few extra features. One is the icon pack support, just like you would see on Nova Launcher, for example. That opens up a whole new realm of possibility for customizing the overall look and feel of the Priv.</paragraph>
+			<paragraph>Another new addition, which you might not notice, if you don't know it's there, are a special type of app-widgets, called Popup widgets. They work by swiping up from any compatible app. This brings up a sort of overlay interface with various info from said application. It is quite reminiscent to what Apple has done using Force Touch.</paragraph>
+			<paragraph>Most bundled BlackBerry apps naturally have support for the feature and we found it quite convenient to pull up a glance interface of calendar events, for example. Third-party app support is mostly missing, save for a few exceptions. The bundled Chrome browser, for instance, has obviously gone through the extra treatment to implement the required APIs.</paragraph>
+			<paragraph>Other than that, the launcher is the usual vanilla affair. Well, there are small tweaks, like the changed remove and uninstall drag target areas.</paragraph>
+			<paragraph>Also, there is the somewhat odd, but still cool looking bar interface that goes along the right edge of the phone while charging to indicate the battery level. It looks to be intended for use when the screen is off, but it did, oddly pop-up occasionally on other GUI segments as well.</paragraph>
+			<paragraph>Folders work the same as on other Android phones though.</paragraph>
+			<paragraph>Sliding up from the menu icon brings up a shortcut for Google Now, just like on a Nexus, but BlackBerry has also thrown in two additional shortcuts of its own - one on either side. They are fully customizable, so you literally have a lot of quick-access power right at your fingertips. Shortcuts actually play a big role in the Priv interface and there is a substantial set of quick activities BlackBerry has predefined from within its apps, like writing an email, or starting a BBM meeting. These can be placed as shortcuts on the home screens, as well as the aforementioned two customizable slots.</paragraph>
+			<paragraph>The Priv also has a convenient overlay interface that can be invoked from anywhere within the GUI. You simply slide it out and have quick access to your calendar, tasks, messages and favorite contacts.</paragraph>
+			<paragraph>The interface is quite reminiscent of what Samsung is doing with its Edge phones and it can also be customized a fair bit. And, if you don't find it convenient, you can always opt out of the experience all together.</paragraph>
+			<paragraph>Last, but not least, there are a few advanced accessibility features baked inside the OS. You can flip the phone to mute an incoming call or make it go into sleep mode, which is convenient. Also, holding the phone in your hand can be used to keep your screen on for longer.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmarks<subsectionTitle>
+			<paragraph>When it comes to benchmark performance, the BlackBerry Priv is far from a record-setter, but with a Snapdragon 808 SoC and 3GB of RAM, it is quite adequately specc'd to compete with the current generation of flagship devices. It is slightly disappointing that the OEM didn't go with a top-of-the-line chip, like the Snapdragon 810, like one would naturally expect considering the price tag, but the 808 still offers ample power for even the most advanced productivity tasks currently achievable with Android. Plus, more often than not, true performance comes down to proper implementation and utilization.</paragraph>
+			<paragraph>Two ARM Cortex-57 cores, clocked at 1.8GHz and additional four Cortex-A53 ones, working a 1.44 GHz, should provide plenty of power to go around, despite being slightly under-clocked. However, the Priv doesn't exactly shine in the performance department.</paragraph>
+			<paragraph>BlackBerry has undoubtedly done a spectacular job, as far as a first attempt at Android goes and, as already mentioned, all the features you would expect are there with an extra touch of BlackBerry innovation mixed in. However, optimization is really lacking down to the point where some parts of the GUI and a few apps, like the camera, tend to freeze up quite often.</paragraph>
+			<paragraph>Benchmark scores on the Priv are quite low and we know that the Snapdragon 808 is capable of a lot more. We also have the data to prove it, as the LG G4, Moto X Style and Nexus 5X happen to use the same silicon with noticeable better results.</paragraph>
+			<paragraph>Naturally, we made sure to include the above in our test charts. As for the rest of the competition, we made sure to pick out a few other phones with roughly the same display size. These include the Sony Xperia Z5, iPhone 6s, Huawei Mate S, and the Huawei P8. The rest of our picks are popular devices that fall within the BlackBerry Priv budget. Some of them, like the Z5 Premium and the 6s plus do cost a bit more, but if you are willing to sink so much cash into a phone, these shouldn't really be out of budget either.</paragraph>
+			<paragraph>First up, we have the raw CPU performance test with GeekBench 3, which should be straight-forward enough. Like we mentioned, the Snapdragon 808 inside the Priv has more than enough horsepower to breeze through computing tasks, just like the LG G4 and the Moto X Style or the Pure Edition. Sadly, that is not the case. We see the Priv underperform quite a bit and it is an observable pattern throughout all the benchmark results. We often find the Priv below the Huawei Mate S and P8, which are both equipped with notoriously under-performing HiSilicon chips. BlackBerry definitely has a lot of work on its plate, if it is going to bring the Priv up to code.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu is a compound benchmark, which also takes into account RAM and GPU performance. Here we see pretty much the same arrangement. The BlackBerry Priv did manage to best the Mate S, but not by much. Other than that, Galaxies dominate the top chart again and you can clearly see that the performance difference is quite noticeable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to Basemark OS II, which is a truly all-round benchmark. Here we see the hexa-core setup of the Snapdragon 808 finally shine, at least in single-core tests, where the phone outperformed the Huawei's, as well as the OnePlus 2, both of which do use octa-core processors.</paragraph>
+			<paragraph>But sadly, that is just one ray of hope and it quickly fades away when we examine the milti-core performance. It is underwhelming to say the least and factoring in the poor overall score, we can only come to one conclusion - the Priv suffers severely from poor optimization. Hopefully, this can and will be fixed with timely software updates, but in the current state, the Snapdragon 808 in the Priv is highly underutilized, which is a real shame.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>And if you hoped that the Priv could at least redeem itself in the graphics department, well, it's not the case. The Adreno 418 inside the Snapdragon 808 is no pixel-pushing monster, but it is still a capable platform for some casual gaming and light GPU tasks. The LG G4 and Moto X Pure Edition both manage to hit a good 34 frames on the GFX 2.7 test and the LG Nexus 5x with its Android 6.0 firmware, pushes the envelope even further and can squeeze out 37 frames.</paragraph>
+			<paragraph>The BlackBerry Priv, on the other hand, was only capable of producing 27fps on the same test, which is a lot less than what the Nexus is capable of, despite having the same identical hardware. And mind you, we are talking about offscreen rendering, so the display cannot be blamed in any way.</paragraph>
+			<paragraph>This is a major example of poor implementation and underutilization yet again. And while, you would have trouble spotting the missing frames while working with the GUI, gaming is another thing and it is a shame that the Priv can't even hit the pivotal 30fps. Then again, perhaps it wasn't meant to be a gaming device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The BlackBerry Priv ships with the Chrome browser by default, which is definitely a good thing. Google's mobile solution offers clear-cut performance and stability advantages over most any other proprietary browser we have experienced and it is generally a good idea to stick with it, expecially in BlackBerry's situation of just adopting Android.</paragraph>
+			<paragraph>Still, like every other aspect of the OS, Chrome suffers from the overall bad optimization.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Like the old saying goes - "Never judge a book by its covers". It is definitely true when it comes to the BlackBerry's first big dip in the Android realm, but sadly, the connotation is slightly different. The legendary Canadian OEM has definitely put a lot of effort into adapting the OS to its needs and bringing over all of the essentials of its own secure ecosystem and that has actually worked out quite well, even better than we expected.</paragraph>
+			<paragraph>However, underneath the slick GUI the Priv is hiding some pretty major optimization issues. We know it's a first try and do sympathize with BlackBerry and the process it is going through, but we can't exactly give up on our expectations of flagship-grade performance to meet the flagship price.</paragraph>
+			<paragraph>Overall, if it is power you are after, you can most-certainly do better than the Priv and even spend far less. However, it's not like there is a better Android Lollipop device with a slide out keyboard out there, or a more capable BlackBerry enterprise communication device, so it all depends on how you look at things. But more on that later.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard phonebook<subsectionTitle>
+			<paragraph>BlackBerry's first take on Android is a pretty close-to-stock experience. Save for a few additional features and of course the integration with the company's patented secure communication and enterprise solution, you wouldn't really find anything that different between the way the Priv and a Nexus device handle. This is especially true for the core applications.</paragraph>
+			<paragraph>The Priv phonebook is laid out across three tabs that can be navigated by swipes. It actually resides in a single application along with the dialer and messenger. An alphabetical list on the right can help you jump to a specific letter or you can just use the search function. Tapping on a contact brings up a popup with access to a contact's scrollable info.</paragraph>
+			<paragraph>As on most Android launchers, you can input a variety of contact information including custom ringtones and images. You can link contacts too, if you've added the same person on multiple services.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony is excellent<subsectionTitle>
+			<paragraph>The BlackBerry Priv held on to signal excellently and in-call sound was just fine. The proximity sensor makes sure the screen stays off when you hold the phone to your ear.</paragraph>
+			<paragraph>Flipping the phone on its face while it's ringing would mute the call ringing. Sadly, though, there was no gesture for automatically answering a call.</paragraph>
+			<paragraph>The secondary noise cancelling on-board microphone ensures a quieter background for your voice while in call.</paragraph>
+			<paragraph>The dialer is the standard affair. It offers smart dialing and it works both with names and numbers.</paragraph>
+			<paragraph>We put the BlackBerry Priv through our traditional loudspeaker test and it got a Below Average score. The front mounted speaker doesn't really shine with much quality either and its only one. So, we wouldn't really count much on the Priv at parties.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>Messaging has always been an integral part of the BlackBerry experience and the Priv does not shy away from the pack. Text messaging is pretty streamlined and rather surprisingly offers quite a bit of customization options and emojis. Each contact can have its own personal color coding assigned, that repaints the entire interface while within said conversation.</paragraph>
+			<paragraph>You can also decide on the fly whether to use simple SMS/MMS messaging or send via BBM. The latter, of course, has its merits, but sadly it has been loosing some of its popularity lately.</paragraph>
+			<paragraph>Unless of course, it's the communication tool of choice at your company. Plus, there are BB Meetings, which are great for the purpose.</paragraph>
+			<paragraph>Adding any kind of multimedia to a message automatically converts an SMS to a MMS. The attachment icon gives quick access to a camera interface, gallery, quite a few emote icons, voice memos and location sharing. We can't really think of anything else essential, so it is pretty much the full set.</paragraph>
+			<paragraph>For email, the Gmail app includes the four inbox options (Primary, Social, Promotions, Updates) that Google now has in their online interface.</paragraph>
+			<paragraph>And then, there is the all-powerful BlackBerry Hub. It aggregates all of your communication in one single place and loyal BlackBerry fans tend to love every aspect of the experience. Running the risk of going against the grain here, however, we will note that the whole experience can be quite overwhelming, especially if you have a few busy email accounts.</paragraph>
+			<paragraph>The integrated BlackBerry keyboard is quite nifty, although it won't exactly be to everybody's taste. There are dictionaries, personal and otherwise and predictive text. It works by overlaying the word it has guessed on top the next letter. All you need to do is fling up and it gets automatically inserted along with a trailing space. It does take some getting used to, but it has the potential of being quite powerful if you put in the initial effort to come to grips with how it works. Coupled with the gesture, which allows you to delete a word, it makes for a really quick typing experience on screen, perhaps rivaling the achievable speed on the physical keyboard.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Chrome is the default web browser<subsectionTitle>
+			<paragraph>Chrome has been integrated into Android to the point where it feels like a native part of the OS. By default, each tab goes into the app switcher as if it was an actual app. The browser has several options that can make sites feel more like native apps too.</paragraph>
+			<paragraph>Chrome also encroached on Opera's turf by enabling website data compression. It helps sites load faster on spotty connections, but also uses less of your data cap too. For privacy reasons, SSL sites and Private tabs do not go through Google's servers and are handled normally.</paragraph>
+			<paragraph>The browser situation, while not perfect in terms of overall performance, is probably the best BlackBerry could opt for, without getting its hands dirty with extensive Android optimization.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>File browsing is surprisingly hard<subsectionTitle>
+			<paragraph>As for multimedia, however, the OEM might have gone a little overboard in its quest to keep the Priv as bloat-free as possible. Keeping the stock looks is one thing, but there seems to be some missing functionality in the handset to the point of inconveniencing the user. There is actually no dedicated gallery to speak of, which is fine, as far as pictures go thanks to the bundled Google Photos, as well as music, also handled by the search giant's software.</paragraph>
+			<paragraph>Video, however, is a whole different story. If it comes from the camera, the app itself has built-in preview, which is fine. But, if you want to browse for files in the storage, there is no apparent option to quickly get around your clips, especially if they are side-loaded or downloaded. There is a local storage browser in Google Photos that picks up on video as well, but that is far from convenient.</paragraph>
+			<paragraph>Blackberry seems to have only one other solution put in place, which is BlackBerry Device Search. It is a rather powerful tool that goes through every inch of your device to search for a keyword. That, of course, includes all files on the unit, but more often than not, the actual file gets lost in the sea of other results. Plus, you do have to know the name or date of said video. Other than that, the Search app can be convenient if leveraged correctly and it follows pretty much the same all-encompassing philosophy as the BB Hub, which can be overwhelming.</paragraph>
+			<paragraph>With no dedicated file manager either, other non-multimedia files are left practically hidden away on the main memory and getting to them can be a pain. Judging by the dedicated page within the Priv's Help directory, which is almost comical, BlackBerry wasn't completely oblivious to the difficult navigation, but why it decided not to address the issues is beyond us.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Photos mixes AI with album keeping<subsectionTitle>
+			<paragraph>The gallery app is Google Photos. It offers multiple views, ranging from a yearly view with tiny thumbnails to comfortable view that shows one photo per row. Google's cloud services are prominently featured, in fact unless you enable cloud backup you'll get an annoying crossed out cloud icon on all your photos.</paragraph>
+			<paragraph>The app does have some cool, cloud-enabled smarts though. Assistant is the latest iteration in Google's AI photo tricks. It can automatically suggest movies, collages and more created from your photos. Plus, the new face detection algorithm is almost scarily good to be true.</paragraph>
+			<paragraph>The Stories view borrows from HTC and creates an animated slideshow of photos from a given event (determined by time and location). It will automatically select which photos go into the slideshow, but you can pick manually too - choosing to include (or not) photos of certain location taken at certain times.</paragraph>
+			<paragraph>You can create Movies, Animations and Collages, just pick several photos and/or videos. Note that this uploads them to Google's servers so it will eat up your data allowance (and is a privacy concern too).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play Music<subsectionTitle>
+			<paragraph>Google Play Music is the audio player of choice on the BlackBerry Priv. It feels equally at home playing tracks from the internal storage (in fact, there's a Downloaded only toggle) and online.</paragraph>
+			<paragraph>You'll need a Play Music account for online streaming. Once you've added your own music tracks to Google Play Music, they become available to all your devices, including via a computer web browser.</paragraph>
+			<paragraph>On your phone you can choose to have the tracks downloaded only over Wi-Fi and only when charging to save your data plan and battery. For tracks that weren't cached, they can be streamed over mobile data or only over Wi-Fi and you can reduce the quality if you're low on data. You can buy songs too, to make them a permanent part of your collection.</paragraph>
+			<paragraph>A Google Play Music subscription (where available) will let you stream music by various artists much the same way you would do that on Spotify.</paragraph>
+			<paragraph>Google Play Music has a 5-band equalizer with presets and a manual setting. There are Surround sound and Bass boost sliders too (the latter is available only when you plug in headphones).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>There's no dedicated video player, even getting to your video files can be tricky since Google Photos mixes in all photos from years ago and finding a video can take a while. It's best to go into the folder view and open the video from there.</paragraph>
+			<paragraph>Video playback is as basic as it comes, just a play/pause button and little else. That means no subtitles or any special video settings.</paragraph>
+			<paragraph>The video format support is pretty poor out of the box. Old-school AVIs don't work and naturally no multi-channel audio. Even some H.264 videos proved to be a problem.</paragraph>
+			<paragraph>4K HEVC videos and many video formats work, but you'll want a capable third-party video player for better format support and subtitles.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is consistently loud, mostly clear<subsectionTitle>
+			<paragraph>We can't imagine many people going for the BlackBerry Priv for its audio reproduction qualities alone, but these days no high-end phone is allowed to be subpar in this department. The business-meant droid started off impressively showing great clarity and very high volume when working with an active external amplifier.</paragraph>
+			<paragraph>Loudness remained stellar even when we plugged in a pair of headphones, showing that the Priv will have no trouble handling some high-resistance headphones. However some distortion crept in and even though the stereo crosstalk was decent for the use case the performance isn't quite perfect. It's still very adequate though and there's nothing for the Priv to be ashamed of.</paragraph>
+			<paragraph>Anyway, here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Pretty good 18MP camera<subsectionTitle>
+			<paragraph>BlackBerry never really put too much effort in the camera department and one could argue there is little need for such splurging on what is essentially a business tool. Few models have made it up to the 8MP mark and even less have ventured to pass it. Still, in recent years, the OEM has started paying a lot more attention to image capturing, as evident by the Passport, which leveraged its 13MP shooter fine and produced very decent shots.</paragraph>
+			<paragraph>With the Priv, Blackberry has taken things one notch further with a quite impressive leap to 18MP. The aperture is F/2.2, the optics come courtesy of Schneider-Kreuznach, there is phase detection autofocus, there is also a dual-tone LED flash and last, but not least, optical image stabilization. Put all these things together and you get an impressive camera, at least on paper that is.</paragraph>
+			<paragraph>We were actually pleasantly surprised with the overall camera quality, especially considering Android is running the show and we have seen more than a few catastrophic examples of bad OS adoption by other OEM's, especially with Lollipop. Now, don't get us wrong, the camera experience is less than perfect and the app is actually one of the more unstable ones across the whole OS. The fact is, however, that the Priv does surprisingly well in terms of processing and produces pretty satisfactory results.</paragraph>
+			<paragraph>Like most other aspects of the Priv, the camera experience is a pretty ambitious first attempt, but still far from perfect. This is especially true for the camera app. It looks well enough and has a decent feature set, but is quite unstable. It kept freezing and crashing and on a few occasions, closing it did not help recover from the crash. We had to actually reboot the phone itself to get going again.</paragraph>
+			<paragraph>Also, taking photos is really slow. Disabling Auto HDR does help a bit, but overall, the Priv doesn't even come close to other current flagships, like the Samsung Galaxy S6, the LG G4 or the Xperia Z5 for example, with their constant strive for instant photo capture. Still, it is important to note that BlackBerry is obviously working hard to remedy as many of the software hurdles as it can. Core app updates were constantly flying in during the review process, so, hopefully, all of these will be fixed in a timely manner.</paragraph>
+			<paragraph>The camera interface itself is very clean. Nothing too fancy. A few shortcuts are found on the left, like settings and toggles for the flash, self-timer and aspect ratio. The Priv can take photos in either 4:3 aspect ratio, or 1:1. This seems to be another remnant of BlackBerry OS and it is a little odd that there is no 16:9 option. But again, we have to refer you back to the business tool statement.</paragraph>
+			<paragraph>The last toggle controls HDR and the phone comes with an Auto HDR mode, switched on by default. It works pretty well and has little trouble deciding when to help out. The effect is usually subtle and results come out nice, so, we would definitely leave it on. On the right-hand side of the UI, there is the shutter, a mode selection with Photo, Video and Panorama options and some filters. Last, but not least, there is one more feature to note in Photo mode - exposure compensation, which is conveniently accessed by sliding the viewfinder left and right.</paragraph>
+			<paragraph>As far as camera settings go, the Priv is a bit lacking. Video quality options are well laid out and actually quite abundant, with 60 frames available at 1080p, as well as 4K and 30 fps. Photo quality settings, however, are a bit perplexing, with one a toggle with two quality levels available. Just leave it on Fine and shoot away.</paragraph>
+			<paragraph>There is no manual camera mode to speak of, but the Priv does offer a dedicated video viewfinder.</paragraph>
+			<paragraph>The BlackBerry Priv makes quite good use of the camera hardware it has at its disposal. It captures really decent photos with plenty of resolved detail and nice sharpness. Colors are pretty nice as well, but do sometimes appear washed-out and are very dependent on lighting conditions. Here are a few 4896 x 3672 pixels samples shot with auto HDR on.</paragraph>
+			<paragraph>We do, really, recommend that you leave the auto HDR enabled as it tends to improve overall quality and fix shadows and highlights. You could also opt to leave it off entirely, but the results are less than ideal. Here are mostly the same scenes shot at the same conditions with HDR off.</paragraph>
+			<paragraph>You can also override the auto mode and enable HDR manually. That yielded mixed results during our tests with some shots coming out nicer when we deemed the enhanced dynamic range is necessary, while others were best left up to the Priv to decide. Here are the sample pairs to prove it.</paragraph>
+			<paragraph>But, there is one other important note to be made about the camera. Keep your subject well illuminated and shots will generally come out nice. But, as the light goes down, so does detail and photos quickly become a bit too noisy for our taste. Colors also get washed-out somewhat rapidly.</paragraph>
+			<paragraph>Panoramas come out pretty well on the Priv. There is almost no noticeable stitching to speak of and only some minor perspective warping.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Still camera comparison<subsectionTitle>
+			<paragraph>We've uploaded the full resolution (18MP) photos to our photo quality comparison database so you can compare it against other high-resolution smartphones.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Superb 4K video recording<subsectionTitle>
+			<paragraph>We were actually quite impressed with the way the Priv handles video recording, 4K in particular. Detail and colors are awesome to the point where you can actually freeze a random frame and get a very nice shot, which is impressive. Some more uniform scenes did give it a bit of a strain, like shooting the sky, for example. But, overall, we can't really ask for anything more in terms of video quality.</paragraph>
+			<paragraph>The combination of OIS and EIS also works wonders for handheld shooting. The Priv was even able to keep up with fast-moving objects and quick pans and camera movements came out smooth and fluent. 4K video retains a steady bitrate of around 30Mbps and audio is captured at 96Kbps.</paragraph>
+			<paragraph>In 1080p mode, the Priv also faired pretty well. Processing seems to be excellent regardless of the resolution. Below is a 1080p sample shot at 30fps. It has a respectable bitrate of 17.1Mbps and sound is once again captured at 96Kbps.</paragraph>
+			<paragraph>There is even a 60fps mode at FullHD resolution. It smooths out motion nicely, with no noticeable detrimental effects on quality.</paragraph>
+			<paragraph>You can also download our untouched samples.</paragraph>
+			<paragraph>1080p@30fps (10s, 21MB) 1080p@60fps (10s, 21MB) 4K@30fps (10s, 37MB)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera comparison<subsectionTitle>
+			<paragraph>The BlackBerry Priv captures gorgeous 4K videos. It managed to resolve a lot of detail in our resolution chart rest and under good light conditions, but there is quite a bit of noise and artefacts when shooting in low-light.</paragraph>
+			<paragraph>   BlackBerry Priv in our video compare tool: 2160p resolution</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Blackberry suit<subsectionTitle>
+			<paragraph>No BlackBerry would be truly complete without the addition of the OEM's signature performance suite and access to advanced and secure enterprise features. Even on Android, the Priv has managed to get most bases covered.</paragraph>
+			<paragraph>We actually already covered most of the big essentials, like the advanced shortcut model that permeates the whole OS, BlackBerry Hub and the Device Search. Also, the productivity shade. But, there are still a few more apps worth noting.</paragraph>
+			<paragraph>First up, there is DTEK by BlackBerry. Seeing how privacy is a main concern, the OEM has made sure to inform you on the state of your handset. The app itself is mostly a diagnostic tool that scans the system and then gives you all sorts of helpful tips as to how to improve overall security. Most of them are pretty obvious and others just seem a little self-indulgent, like the hardware scan that gives you a positive result if you are using "BlackBerry" hardware, but it is a nice tool to have.</paragraph>
+			<paragraph>The geeks among us enjoyed using some of its more advanced features, including a per-app notification and permission control and even a full system-wide event log. It is pretty useful for tracing misbehaving software.</paragraph>
+			<paragraph>The list of BlackBerry apps also includes a custom calendar. It doesn't really offer anything special, but is still pretty convenient.</paragraph>
+			<paragraph>A fully functional Google suite is also on board. There are notes, tasks, as well as a pretty vanilla-looking clock app, complete with a timer and a world-clock.</paragraph>
+			<paragraph>When it comes to getting around, the BlackBerry Priv comes with Google Maps and Navigation. The app offers much of the same functionality as its web-based counterpart and since recently, you can even take full advantage of the navigation feature without an active data connection. Certain areas of the map can also be easily downloaded for offline use and Maps will even update your local version if need be. Still, the interesting stuff, like live traffic data and street view can only be experienced over a live internet connection.</paragraph>
+			<paragraph>The best part of owning a smartphone is getting new apps, and when it comes to Android, Google Play Store is the best source for getting your fill. From recommendations to top apps, it features a plethora of ways you can find new apps, and installing apps usually only takes a couple of taps.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>BlackBerry Priv key test findings:<subsectionTitle>
+			<paragraph>An Android slider is an extremely rare occurrence nowadays and the Priv has adopted the form factor masterfully for a stylish overall look.</paragraph>
+			<paragraph>The Priv makes use of little premium materials like metal or glass, despite its premium price. Plastic isn't a bad choice in itself, but the particular one doesn't quite feel flagship-worthy. Built quality is only ok with some annoying flaws.</paragraph>
+			<paragraph>Gorgeous 5.4-inch AMOLED display, with nice and punchy colors. The slight edge curve gives it an extra refined look. However, it exhibits a somewhat weird behavior where the pixels wouldn't completely shut off when showing black, which could potentially hurt the battery life, which we didn't have the opportunity to properly test.</paragraph>
+			<paragraph>The 4-row BlackBerry QWERTY keyboard is a powerful productivity tool. It works great, plus the added touch functionality with gestures really enables using the phone without touching the screen, almost like a touchpad. The keyboard is, however, a bit too small and a bit more crammed with less key travel than most other BlackBerry phones.</paragraph>
+			<paragraph>With an endurance rating of 62h the battery life is good overall, but it's on the lower side of the segment.</paragraph>
+			<paragraph>All-round connectivity with future-proof LTE Cat.9, no dual-SIM option available.</paragraph>
+			<paragraph>The Snapdragon 808 is highly underutilized. The software is definitely to blame. As a first attempt at Android it does quite alright, but a lot of additional optimization is needed to get comparably good CPU and GPU performance out of the otherwise capable chipset.</paragraph>
+			<paragraph>Audio output quality is quite good, despite some distortion with headphones. The front-mounted speaker is on the quiet side.</paragraph>
+			<paragraph>Still images offer lots of detail, and it offers some excellent panorama images. Quality is pretty good, but tends to deteriorate fast in poor light. We found the camera app is quite unstable, tending to crash and shooting stills can be slow.</paragraph>
+			<paragraph>Video capture is exquisite. 4K comes out smooth with lots of detail and accurate colors. 1080p fairs equally well and so does the extra 60fps mode. Overall, great video quality.</paragraph>
+			<paragraph>Multimedia software is all but missing from the Priv. In an effort to shave off bloatware, BlackBerry has left the handset with no dedicated gallery, video player or file explorer. Playback for most things is handled by Google apps, but you would need to download a few proper apps to make working with files and multimedia properly convenient.</paragraph>
+			<paragraph>Blackberry's first take on Android is a near-stock experience, which despite bad optimization and a few stability issues does offer full access to the BlackBerry app and communication ecosystem, as well as at least a few clever performance-improvement features.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>So is the Priv the long-overdue messiah BlackBerry so desperately needs to regain some ground in the mobile realm? Well, sadly, there is no easy answer. While the Priv is a nice device on its own, but its nature, purpose, and target audience and its position within the BlackBerry protfolio is riddled with ambiguity, which hopefully won't prove too confusing and detrimental to the model's success.</paragraph>
+			<paragraph>Most of us, or at least the ones who want to see the once great Canadian giant back on its feet can't help but view the Priv as a major strategic shift and a sort of drastic measure to regain some hip factor amongst the growing Android crowd.</paragraph>
+			<paragraph>That sort of wishful thinking might be nice on the surface, but it inevitably leads to a few less-than-favorable observations. First, there is the issue of price - if popularity is what BlackBerry is after, a ?700 plus price point won't exactly invite a huge crowd considering that profit margins throughout the whole industry are slimming down.</paragraph>
+			<paragraph>The underwhelming Android experience is another brow raiser. Some growing pains are all but expected and BlackBerry will surely work out the kicks eventually, but still, if you go into a store today and shell out the eye-watering amount of money for the Priv, you might naturally expect it to at least perform up to par with let's say a Galaxy S6 flagship, an iPhone 6s or any other hip device.</paragraph>
+			<paragraph>But that is just it. The Priv might not shine as a tempting everyday user offer, but perhaps we should endeavor to look at it from another perspective, a quintessentially BlackBerry one and that would be as an enterprise-grade secure communication tool. BlackBerry is still a force to be reckoned with in the corporate world with its end-to-end communication platform and various special tailored solutions. One could argue that this is the essence of BlackBerry and its true area of expertise and it is in this context that the Priv finds itself amidst a more favorable crowd.</paragraph>
+			<paragraph>It constitutes a huge step forward in a few respects. It is definitely a big leap ahead of its BlackBerry siblings in terms of hardware, but, perhaps more-importantly, it opens up a whole new realm of possibilities now that it runs Android natively. Come to think about it, this is hardly a new development path for BlackBerry, which has long showed a lot of affection for the Google's sprawling app ecosystem. Whether or not the Priv will be met with approval and set BlackBerry on a new development path is yet to be seen, but it is undeniable that despite its flaws, it is currently one of the best business smartphones out there.</paragraph>
+			<paragraph>Here is a quick summary of our key test findings.</paragraph>
+			<paragraph>Now that we hopefully conveyed our view on the Priv and its perplexing nature and, as usual, we feel obliged to lay out a few alternatives for you. But, as you can imagine, we can't exactly offer you other flagship Android sliders, so it is a bit of a sticky situation. The Priv may currently be in a league of its own, but that doesn't mean we can't throw around some ideas within it price range. And, surprise, surprise at ?750 or the equivalent amount of dollars, there is quite a lot of choose from. Mostly any current flagship offer form Samsung, LG, Huawei or Motorola, to name a few, is within reach. Even Apple's latest iPhone is not out of the question. In fact, with a little strain, you can even pick up an iPhone 6s Plus or a Samsung Galaxy Note5 phablet, which are arguably among the most premium option out there right now.</paragraph>
+			<paragraph>The BlackBerry Priv is nothing short of a milestone device and it has quite a bit to offer to any privileged prospective owner. Still, it is too early to say if the new experiment works out for the Canadian OEM and whether it would stick around for a second go. If everything goes smoothly, next time around the Priv's successor will hopefully fill in the missing pieces and affirm itself as an uncompromising high-end business offer.</paragraph>
+			<paragraph>As for the Priv in its current state of infancy, you should definitely not miss on buying it if you already have a complete BlackBerry collection of your own or you use BlackBerries throughout your entire company. But we guess, you wouldn't be reading this if either of these options was the case. For pretty much every other end user looking to get a high-end Android device, it seems wise to sit this one out, or at least wait for some signs of maturity and a more reasonable price tag.</paragraph>
+		</subsection>
+	</page>
+</review>

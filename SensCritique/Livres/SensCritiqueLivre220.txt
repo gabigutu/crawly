@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>L'homme qui voyait à travers les visages</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/L_homme_qui_voyait_a_travers_les_visages/20643084</link>
+	<generalScore>null</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>L'homme qui voyait à travers les visages</title>
+		<author>Bouquinovore</author>
+		<date>2016-08-28</date>
+		<score>1.0</score>
+		<content>Chaque année, c’est la même chose, j’attends la Rentrée Littéraire pour lire surtout et avant tout deux auteurs : Amélie Nothomb d’une part et Eric-Emmanuel Schmitt. Cette année encore Gilles Paris et les éditions Albin Michel, m’on offert la possibilité de découvrir en avant-première dans le cadre d’un partenariat le dernier roman d’Eric-Emmanuel Schmitt. Avec Eric-Emmanuel Schmitt, c’est à chaque fois un plaisir livresque sans commune mesure. J’ai commençais à lire l’homme qui voyait à travers les visages, le 25 juillet, c’est estomaqué que j’apprenais dans la presse le meurtre du prêtre Hamel dans son église par des djihadistes, car le roman d’Eric-Emmanuel Schmitt commence par un attentat devant une église. Vous comprendrez facilement qu’encore une fois le nouveau roman d’Eric-Emmanuel Schmitt va nous parler de la foi, mais surtout de ce que l’homme peut faire au nom de Dieu. J’ai beaucoup aimé la citation suivante qui résume en quelque sorte l’objectif de ce livre : « Lorsqu’ils pointent l’origine de la violence, les deux divergent. Pour elle, Dieu se sert des hommes ; selon lui, les hommes se servent de Dieu. Paradoxalement, celle qui est chargée de la justice humaine inculpe Dieu, celui qui passe pour un humaniste accuse les hommes. » Dans son roman, il apporte un très bon argument qui est le suivant : « - Vous prônez le djihad, la guerre sainte. - Djihad ne signifie pas « guerre sainte » Mais « effort contre ses mauvais penchants ». Il exprime une lutte intérieure » C’est encore une fois une très bonne lecture que j’ai passé avec l’auteur, qui il faut le souligner est lui-même personnage de son propre roman. Pour ceux qui douteraient encore à lire le dernier roman d’Eric-Emmanuel Schmitt, je vous donne un dernier scoop, vous y trouverez également une interview de Dieu… Sur le blog</content>
+	</review>
+</sensCritiqueEntity>

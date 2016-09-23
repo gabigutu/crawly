@@ -1,0 +1,66 @@
+<review>
+	<title>HTC Titan and HTC Radar hands-on</title>
+	<description>HTC media event</description>
+	<link>http://www.gsmarena.com/htc_titan_and_htc_radar_hands_on-review-639.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>HTC's pre-IFA event was (as suspected) all about Windows Phone 7 Mango. HTC had a lot to say about the new version of the OS and what they've added to it, but also showcased two new phones - the 4.7" monster called HTC Titan and the smaller HTC Radar.</paragraph>
+			<paragraph>We'll get to retelling what HTC told us about Mango, but first we'll focus on the two stars of tonight's event - the first two WP7 phones with Mango to go official.</paragraph>
+			<paragraph>Update, September 2nd: We added hands-on videos with the Titan and Radar, plus some more photos from the event.</paragraph>
+			<paragraph>The HTC Titan (formerly Eternity) is an informal successor to the HD7. It packs a 4.7" S-LCD screen with WVGA resolution. That's the biggest screen HTC have put on a phone yet and the Titan is the fastest WP7 phone (for now) with a 1.5GHz CPU.</paragraph>
+			<paragraph>It's a unibody design and it's only 9.9mm thick making it one of the thinnest Windows Phone 7 devices yet (title is shared with Samsung Focus). The phone has some heft to it though, at 160g.</paragraph>
+			<paragraph>The second half of the duo is the HTC Radar (used to go by Omega). It's here to take over for the Mozart and the Trophy.</paragraph>
+			<paragraph>The Radar has a 3.8" S-LCD screen with WVGA resolution and goes back to the WP7 standard 1GHz processor. It has a unibody design too, but it's slightly thicker than the Titan, measuring 10.9mm.</paragraph>
+			<paragraph>The Titan boasts an 8MP camera, while the Radar has a 5MP one. Both shoot 720p video and are accompanied by front-facing cameras. The Titan and Radar cameras are interesting because they have exclusive features, you wouldn?t find on other WP7 phones.</paragraph>
+			<paragraph>Anyway, we'll go over HTC's improvements of Windows Phone 7 Mango and we'll follow that with hands-on impressions from the two phones.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC's take on Windows Phone 7<subsectionTitle>
+			<paragraph>HTC may not have the luxury of modifying WP7's user interface, but they've snuck in their Sense UI niceties nonetheless. That includes the HTC Hub, Stocks and Notes, plus some new additions.</paragraph>
+			<paragraph>The old apps have been updated since we first saw them - Notes for example syncs with Evernote.</paragraph>
+			<paragraph>The new apps include HTC Watch, a movie streaming service, is now available in 9 countries, a number that will grow to 11 by the end of October. Also included is Footprints, HTC's handy app for taking photos and notes of the places you visit. HTC have thrown in apps to tackle DLNA duties too.</paragraph>
+			<paragraph>The biggest change, however, is what they've done with the camera software. They've added touch focus, sweeping panorama, burst mode and a toggle that changes the view to the front camera.</paragraph>
+			<paragraph>These features, the panorama especially will be exclusive to the Radar and Titan and won't be available on other HTC phones even when they get Mango.</paragraph>
+			<paragraph>HTC also mentioned the general improvements brought by Mango - things like Internet Explorer 9 (which showed Android's browser and Mobile Safari what's what), threaded text messaging and conversation view for email, social integration and others.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC Titan hands-on<subsectionTitle>
+			<paragraph>The HTC Titan is not a small phone, but with a 4.7" screen we didn?t expect it to be. It's not as frighteningly big as you might have imagined either - it measures 131.5 x 70.7 x 9.9 mm.</paragraph>
+			<paragraph>It weighs 160g, but considering a 4.3" HD7 weighs 2g more, it's not unreasonable. We're not saying it's light - it's not - but not unreasonably heavy for a phone its size.</paragraph>
+			<paragraph>Anyway, the reason behind the size of the HTC Titan is it's 4.7" S-LCD screen. It has WVGA resolution and not qHD, which has been something of a favorite for HTC lately. We're guessing it's because WP7 isn't very flexible about different resolutions.</paragraph>
+			<paragraph>The Titan has a unibody design. And when we say "unibody" you should think something like the Sensation (not a true unibody, if you ask us). The back cover hugs the sides of the phone - basically, the screen and phone innards are one piece that pops out. At least the back cover doesn?t have plastic elements like the Sensation had.</paragraph>
+			<paragraph>The camera on the back is an 8MP unit with dual-LED flash. It records 720p video, oddly there's no FullHD recording capability. The camera functionality will be enhanced by HTC's addition to the software. Note that the Panorama feature, while unique among HTC's phones, isn't new to WP7, having debuted on the LG Optimus 7.</paragraph>
+			<paragraph>The HTC Titan has WP7's CPU to date to back up its titanic ambitions - a 1.5GHz processor (one core only) coupled with 512MB RAM. We didn?t have much time to test it properly, but we wonder if that will be enough - Mango brings multitasking to Windows Phone 7, so we thought the RAM amount would be bumped up.</paragraph>
+			<paragraph>The HTC Titan has an optional dock accessory:.</paragraph>
+			<paragraph>Here go a couple of HTC Titan hands-on videos.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Radar hands-on<subsectionTitle>
+			<paragraph>The HTC Radar has a unibody construction too, but a proper one this time. On the downside, this means that the 1520mAh battery is non-removable. The HTC Radar offers a choice of Active White and Metal Grey paint jobs.</paragraph>
+			<paragraph>Anyway, the Radar stands at 120.5mm x 61.5mm x 10.9mm and weighs 137g. Not bad but nothing spectacular either.</paragraph>
+			<paragraph>Its screen measures 3.8" in diagonal and is of the S-LCD variety. The resolution is once again WVGA.</paragraph>
+			<paragraph>The HTC Radar is a mid-range device, offering 1GHz CPU and 512MB RAM to run the Windows Phone 7 Mango. Again, that was enough in the past but with multitasking it might be another story.</paragraph>
+			<paragraph>The camera is a 5MP unit and has LED flash. It can record 720p video as well. You get 8GB of internal memory to store your videos and there's no way to expand it either (typical WP7).</paragraph>
+			<paragraph>The Radar has an optional dock as well:.</paragraph>
+			<paragraph>Here's a hand's on video with the HTC Radar:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>The HTC Titan was expected - all manufacturers are pushing for bigger screens. Jumping straight to 4.7" is a bold move by HTC. Keeping it slim was great too - large phones are sensitive to kind of thing and feel like bricks if they are too thick.</paragraph>
+			<paragraph>We're also glad to see the faster CPU but we're not too sure about the RAM. Or the 720p video recording. And last time HTC tried a unibody like that, things didn?t work out too well for the antenna.</paragraph>
+			<paragraph>Still, anyone who got an HD7 are probably thinking "it's time to upgrade" right about now.</paragraph>
+			<paragraph>As for the HTC Radar, we're not so sure - who would give up their 7 Trophy to get what is very much the same phone? If you're itching to get the new Mango sweetness, then maybe, but unibody aside we hardly see any worthwhile hardware improvements.</paragraph>
+			<paragraph>Of course, our time with both the Titan and the Radar was much too short to pass any final judgments. We'll save that for the review, when we can look at each detail closer.</paragraph>
+			<paragraph>The HTC Titan and HTC Radar are both expected to start shipping at the end of September and become widely available in October. HTC was mum on pricing and carrier info, however.</paragraph>
+			<paragraph>We're curious to see how the market will react to the first Windows Phone 7 Mango powered phones - WP7's market share has been dwindling and Mango is what's supposed to turn that around.</paragraph>
+		</subsection>
+	</page>
+</review>

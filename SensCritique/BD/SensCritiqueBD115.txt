@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Mon père saigne l'histoire - Maus, tome 1</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1987</year>
+	<link>http://www.senscritique.com/bd/Mon_pere_saigne_l_histoire_Maus_tome_1/11216786</link>
+	<generalScore>8.8</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>70</numberOfVoters>
+		<numberOfVoters>328</numberOfVoters>
+		<numberOfVoters>488</numberOfVoters>
+		<numberOfVoters>321</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Une vraie BD qui nous raconte une histoire vraie</title>
+		<author>Jopopoe</author>
+		<date>2016-03-06</date>
+		<score>1.0</score>
+		<content>Maus c'est un équilibre parfait entre l'histoire que nous raconte le père du dessinateur et les conditions dans lesquelles il nous la raconte, qui nous permettent de rendre plus concret le récit, de l'ancrer dans le réel. Et à une histoire captivante (même si glaçante) s'associe une narration extraordinairement maîtrisée, et c'est vraiment bien de voir un tel talent au service de l'Histoire ! 20/20</content>
+	</review>
+	<review>
+		<title>Mon père saigne l'histoire - Maus, tome 1</title>
+		<author>Loeso</author>
+		<date>2016-04-13</date>
+		<score>0.9</score>
+		<content>Une merveille de sentiment et de tristesse. Un chef d'oeuvre incontesté de la bande dessinée et de l'écriture des mémoires de la Shoah. Maus doit être un modèle, une œuvre que l'on retrouverait dans les manuels scolaires.</content>
+	</review>
+</sensCritiqueEntity>

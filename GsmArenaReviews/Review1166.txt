@@ -1,0 +1,317 @@
+<review>
+	<title>Sony Xperia U review</title>
+	<description>Fun united</description>
+	<link>http://www.gsmarena.com/sony_xperia_u-review-770.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM /GPRS/EDGE support</paragraph>
+			<paragraph>3.5" 16M-color capacitive touchscreen of Full WVGA resolution (854 x 480 pixels) with Sony Mobile BRAVIA engine</paragraph>
+			<paragraph>Android OS v2.3.7 Gingerbread, planned Android 4.0 ICS update</paragraph>
+			<paragraph>Dual-core 1 GHz Cortex-A9 CPU, 512 MB RAM, NovaThor U8500 chipset</paragraph>
+			<paragraph>5 MP autofocus camera with LED flash and geotagging, Multi Angle shot</paragraph>
+			<paragraph>720p video recording @ 30fps with continuous autofocus and stereo sound</paragraph>
+			<paragraph>Wi-Fi b/g/n and DLNA</paragraph>
+			<paragraph>GPS with A-GPS</paragraph>
+			<paragraph>8 GB built-in storage (6 GB user-accessible)</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v2.1</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Stereo FM radio with RDS</paragraph>
+			<paragraph>Voice dialing</paragraph>
+			<paragraph>Adobe Flash 11 support</paragraph>
+			<paragraph>Deep Facebook integration</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Transparent stripe changes color depending on screen content</paragraph>
+			<paragraph>Replaceable cap at the bottom allows easy customization</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Limited storage with no expansion options</paragraph>
+			<paragraph>No Android 4.0 Ice Cream Sandwich out of box</paragraph>
+			<paragraph>Some competitors are slimmer</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>The Xperia S has all the spotlight to itself in the NXT series, but history has taught us that Sony (and previously Sony Ericsson) can do wonders in the compact class. In two generations of minis and the Xperia ray, the Japanese have delivered packages that no one in the same price range can beat.</paragraph>
+			<paragraph>We are not saying those smartphones were perfect - it's all about cutting the right corners in this class and Sony's engineers have proven time and time again that they are pretty good at that. The Xperia U is seemingly no exception, judging by a quick glance at the list of pros and cons.</paragraph>
+			<paragraph>The Sony Xperia U specs sheet reads like a high-end device for the most part and the design of the smartphone easily manages to keep pace. Sure it's not the slim sweetness of the Xpera ray, but the Xperia U is still nicely compact and the transparent strip, which changes its color to match the screen contents, is a cool accent.</paragraph>
+			<paragraph>The obvious catch is the very limited internal storage - 4GB for your documents and media files and 2GB for apps is what you get out of the box and, if that's a deal breaker, you should probably start looking for other options as there's no way around it.</paragraph>
+			<paragraph>If you think this kind of storage (with some help from the cloud perhaps) will suffice, join us on the next page for the hardware inspection of what might turn out to be one of the hottest devices of the season.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Well stocked retail package<subsectionTitle>
+			<paragraph>The Sony Xperia U is shipped in a plain rectangular box, but we were nicely surprised by what was hiding inside. Normally, manufacturers try not to run up the bill on ?200 smartphones by sometimes omitting even essential peripherals.</paragraph>
+			<paragraph>This is hardly the case here - the basics are comfortably covered with a two-piece fast charger and a single-piece wired headset, with some nice extras on top. As you may know, the new Sony chargers have increased power output to get your Xperia smartphone fully charged in just about an hour. You do need to use the supplied USB cable for the boost charging to work - otherwise the charger falls back to regular speed.</paragraph>
+			<paragraph>The next item inside the box is a spare cap for the bottom of your phone. The plastic bit underneath the transparent strip can be replaced and every phone comes with a spare. We got ours in pink, but those things usually vary. There's also a microSIM to regular SIM adapter and a screen protector inside the package. There's a tiny plastic spatula and a piece of cloth to help apply the screen protector.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia U 360-degree spin<subsectionTitle>
+			<paragraph>The Sony Xperia U is a pretty compact set at 112 x 54 x 12 mm. We've certainly seen slimmer, but at this size the extra few millimeters around the waist are hardly a big issue, not in this price range anyway.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Design is one of the Xperia U's strongest advantages against the competition. The Sony smartphone is a cut above its peers in both looks and build quality. The angular body accented with subtle curves wouldn't feel out of place in a smartphone that costs twice as much. The Xperia U is in fact a near exact replica of the flagship Xperia S - on a smaller scale of course, and not as slim.</paragraph>
+			<paragraph>They didn't compromise the quality of the finish: the matte plastic feels pretty nice to the touch and is decently grippy, precluding accidental drops.</paragraph>
+			<paragraph>The 3.5" FWVGA Bravia LCD is another major asset. Not only is it tack sharp at 280ppi, but it also offers great image quality, with very good contrast and nicely saturated colors.</paragraph>
+			<paragraph>The viewing angles aren't perfect, but they are still notably better than most competitors in the same price range. Even at extreme angles the Xperia U display remains legible, although contrast loss is inevitable.</paragraph>
+			<paragraph>Naturally, with a 3.5" diagonal the screen isn't best suited for enjoying multimedia, but a small high-quality screen has its advantages over massive displays in everyday use.</paragraph>
+			<paragraph>Here's how the Sony Xperia U did in our dedicated display tests. You can learn more about the testing process over here.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contrast ratio<subsectionTitle>
+			<paragraph>We zoomed into the display using our digital microscope so you can get a better idea of how the pixels are arranged, and how big they are. Check it out.</paragraph>
+			<paragraph>  The Xperia U display matrix compared to the Xperia P WhiteMagic screen</paragraph>
+			<paragraph>Below the screen we find the three capacitive touch buttons that help navigate the UI. From left to right the buttons are Back, Home and Menu and, even though their icons are on the transparent strip, the buttons themselves are marked by the three white dots just under the display. The dots are good enough clues to avoid pressing the actual icons instead.</paragraph>
+			<paragraph>The transparent strip itself is one of the Xperia U coolest, if practically useless, features. The color of the backlighting changes to match your currently selected theme (when you are on the homescreen), or the dominant color of the image you're viewing in the gallery. That also works for album art in the music player and, while it hardly adds anything in terms of usability, it's the ultimate show off feature.</paragraph>
+			<paragraph>The exchangeable bottom cap is another way to customize the phone. There's one extra cap in the retail package and more can be purchased separately.</paragraph>
+			<paragraph>The left side of the Sony Xperia U features the microUSB port, which supports USB on the go. There's no protective cover to get in the way, which improves usability, but leaves the port exposed to dust. The SIM card slot is on this side as well, but you need to remove the back panel to access it.</paragraph>
+			<paragraph>The right side of the phone hosts three keys. From top to bottom, they are power/lock button, volume rocker and shutter key. None of these causes any usability troubles, but ideally the camera button should have been slightly bigger.</paragraph>
+			<paragraph>On top we find the 3.5mm audio jack and the secondary microphone.</paragraph>
+			<paragraph>The bottom is bereft of controls and ports, save for the primary microphone pinhole.</paragraph>
+			<paragraph>Our trip round the Sony Xperia U concludes at the back, where we come upon the 5 megapixel camera lens, which has the loudspeaker grille and the single LED flash on its sides.</paragraph>
+			<paragraph>Unlike the Xperia P, the Xperia U allows you to pry its back cover open and access the battery. That will come in handy, letting you carry a spare when away from charger for a long time.</paragraph>
+			<paragraph>And it can be even more useful than some of you might think as the original battery only has a capacity of 1320 mAh, which hardly lasts ages. Sony says that you can count on up to 5 hours and 36 mins of telephony and 472 hours of standby on a single charge in 3G networks. Our experience shows that you'd normally need to charge the Xperua U every other day if you use it for a couple of hours daily. With heavy usage the runtime falls to a day.</paragraph>
+			<paragraph>We'd like to wrap up the hardware overview by pointing once again to the Xperia U superior build quality and handling. Now let's see if the dual-core CPU lives up to the expectations and provides a smooth ride along the UI.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gingerbread gets the job done<subsectionTitle>
+			<paragraph>The Sony Xperia U, like the Xperia S, has a slightly revamped custom skin running on top of Gingerbread (2.3.7). The Ice Cream Sandwich update is scheduled for Q2 of 2012.</paragraph>
+			<paragraph>As usual, we've shot the user interface on video for your viewing pleasure.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia U has the usual five-pane homescreen configuration, but there is no option to add or remove panes. There are four docked shortcuts (two on either side of the launcher shortcut). These are visible on all five homescreen panes and are user configurable: they can be either single icons or folders with multiple items in them.</paragraph>
+			<paragraph>The homescreen does a neat trick called Overview mode. Pinch to zoom out on any of the 5 homescreen panes and a new screen opens up with a cool transition. All active widgets gather there for easy viewing and selection.</paragraph>
+			<paragraph>The Xperia U has some custom-made Sony widgets in addition to the standard set. Those include the Timescape widget (there's a dedicated app too) and a Mediascape-like widget for photos and videos (the actual app isn't there anymore, the standard gallery is back).</paragraph>
+			<paragraph>The lockscreen is capable of showing notifications for Facebook events too. A cool new addition to the lockscreen, missing from the Xperia phones of old, is the music player widget, which lets you control music playback without unlocking the phone.</paragraph>
+			<paragraph>The standard notification area and task switcher are of course present and accounted for - no custom touches to them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Sony Xperia U is powered by a 1GHz dual-core processor teamed up with a Mali-400MP GPU and 512 MB of RAM on a STE U8500 chipset. Those specs won't wow anyone, but they should be more than sufficient for this class.</paragraph>
+			<paragraph>We ran our usual round of benchmarks and compared the Xperia U to its siblings - the Xperia P and sola. The Samsung Galaxy S Advance is also on the list, powered by the same ST-Ericsson NovaThor chipset. We also included the HTC One V to see how much difference the dual-core chipset makes and the One S to see how the old Cortex-A9 architecture compares to the newer Krait cores.</paragraph>
+			<paragraph>We begin with BenchmarkPi, which measures the computing power of the NovaThor U8500's 1GHz Cortex-A9 CPU. The Xperia U matched its more expensive competition here, only laggin behind the One S and its newer Krait cores.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>In Linpack, the Xperia U did reasonably well matching the Galaxy S Advance and easily beating the HTC One V. The HTC One S really blows everything in this price range out of the water, though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>SunSpider favors the superior JavaScript performance of Ice Cream Sandwich and as a result the One V manages to keep much closer to the Xperia U. The NovaThor-packing Gingerbread running bunch performer equally well here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>BrowserMark adds HTML5 to the equation, but doesn't change the big picture too much. The Xperia U is still doing as well as its similarly spec'd rivals, but this time the pack is closer to the One S than the One V.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>NenaMark 2 is where the GPU gets to show its worth. The Xperia U got a respectable score of 28.3 frames per second, which is again almost identical to the achievements of its more expensive rivals. The new Adreno 225 inside the One S is one again setting the pace, but you'd expect that from a smartphone twice as expensive.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>As far as real-life performance is concerned, the Xperia U goes about just about any task hassle-free and most users should be perfectly pleased with it. It's not quite the Galaxy S III beater, but what's important here is that it will not let you down in day-to-day work.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Social phonebook<subsectionTitle>
+			<paragraph>The visually customized phonebook of the Xperia U is virtually the same as the Xperia sola and can store extensive contact information. A tabbed interface allows you to access contact details, recent calls and info from social networking services.</paragraph>
+			<paragraph>The contact list can be sorted by either first or last name. There are two contact search options - a dedicated search field on top of the contact list, and an alphabet scroll to jump to names starting with a specific letter.</paragraph>
+			<paragraph>You can sync with multiple accounts, including Exchange and Facebook, and you can selectively show or hide contacts from some accounts (you can fine-sift specific groups from an account), or set the phonebook to display only contacts with phone numbers.</paragraph>
+			<paragraph>If a contact has accounts in multiple services, you can "join" their details to keep everything in one place. Their Facebook photos and interests (part of the Facebook integration) will show as extra tabs.</paragraph>
+			<paragraph>Quick contacts are enabled - a tap on the contact's photo brings up shortcuts for calling, texting or emailing the contact.</paragraph>
+			<paragraph>Each contact can have a variety of fields (and repeat fields of the same type), the + and x buttons let you add and remove fields as needed. The fields cover anything from names (including a field to write the name down phonetically) to addresses, nicknames and notes.</paragraph>
+			<paragraph>There is an option to redirect calls directly to voicemail. Custom ringtones are enabled too.</paragraph>
+			<paragraph>You can "star" a contact, which puts it in the Favorites tab. Also, in each Gmail account there's a special group called "Starred in Android" where these contacts go automatically.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Smart telephony<subsectionTitle>
+			<paragraph>Receiving and making calls on the Xperia U was trouble-free. The built-in secondary microphone is used for active noise-cancellation so calls are loud and clear even in noisy environments.</paragraph>
+			<paragraph>The Xperia U phone app features smart dialing. It searches for matches in both the contacts' phones and names. There's voice dialing too (the quickest way to activate it is the dedicated homescreen widget).</paragraph>
+			<paragraph>Thanks to the proximity sensor, the Sony Xperia U automatically disables the touchscreen when you hold it up to your ear during a call.</paragraph>
+			<paragraph>The call log is integrated in the dialer - it shows a list of recently dialed, received and missed calls in the top half of the screen and the keypad on the bottom half. Once you start typing, the call log is replaced by the smart dial list.</paragraph>
+			<paragraph>There's a Favorite tab that displays starred contacts, but you can add other contacts to the list too. The tab displays a grid of contact photos with their first name underneath.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the Sony Xperia U. Scoring a an Average result, the Xperia U performed better than its bigger brother, the Xperia sola. More info on our loudspeaker test can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>Text messages and MMS use standard threaded layout. Each thread is displayed as an IM chat session, the latest message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them against deletion.</paragraph>
+			<paragraph>Search is enabled to locate a specific message in all conversations and you can also activate delivery reports.</paragraph>
+			<paragraph>Individual messages can be starred and you can find all of them in the Starred folder available in the context menu. This is a nice way to mark important messages that you'll need to find quickly later on.</paragraph>
+			<paragraph>Adding multimedia (photos, videos, sounds, etc.) will convert the message to an MMS.</paragraph>
+			<paragraph>Moving on to email, the Gmail app supports batch operations, which allow multiple emails to be archived, labeled or deleted. The app supports multiple Gmail accounts, but there's no unified inbox for other email services.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>However, the generic email app can do that as well. It can handle multiple POP or IMAP accounts and you have access to the messages in the original folders that are created online.</paragraph>
+			<paragraph>A preview pane splits the screen in half - one side lists the emails, while the other shows the currently selected email.</paragraph>
+			<paragraph>This works both in portrait and landscape and you can easily drag the separator between the two areas to make one bigger.</paragraph>
+			<paragraph>Google Talk handles Instant Messaging. The GTalk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>As for text input, the Xperia U offers a customized on-screen full QWERTY keyboard. Typing on the portrait keyboard isn't very comfortable - keys are tall and thin, making for a lot of typos. They're just not as well spaced as on the bigger Xperia S display.</paragraph>
+			<paragraph>Flipping the phone to landscape gives you bigger, easier to press buttons.</paragraph>
+			<paragraph>In terms of customizations, the Xperia U keyboard features the so-called Gesture input. It works the same as Swype. Even if you've never used Swype input before, you'll quickly get used to it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard gallery with a funky twist<subsectionTitle>
+			<paragraph>The Xperia U uses the traditional droid Gallery, which hasn't really seen much change in Gingerbread. It has good functionality, cool 3D looks and nice transition effects, and this time shows full resolution images.</paragraph>
+			<paragraph>The different albums and folders appear as piles of photos, which fall in neat grids once selected. If you have online albums over at Picasa those show up as separate stacks as well.</paragraph>
+			<paragraph>The Xperia U puts the transparent glowing strip to good use in the Gallery app. The strip glows in the dominant color of the photo you're currently viewing. It will glow red for a sunset, green for grass and blue for sky.</paragraph>
+			<paragraph>You should have noticed the two switches at the top by now. The first opens a different gallery section that stores your 3D panorama shots, while the second opens the Sweep Multi Angle shots section.</paragraph>
+			<paragraph>To view the 3D panoramas in 3D, you need to connect your phone to a compatible 3DTV. Multi Angle shots are harder to view outside the device as you need something with an accelerometer and the proper app - you best bet is another Xperia.</paragraph>
+			<paragraph>Facebook and Picasa albums are distinguished by the small logo of the corresponding service. Facebook pictures can be "liked" with the thumbs up button in the upper right corner.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Photos can be sorted by date with the help of a button in the top right corner, which switches between grid and timeline view.</paragraph>
+			<paragraph>You can use pinch zoom or the old-fashioned +/- buttons. If you pan past the edge of a photo, the gallery will load up the next (or previous) image.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Quick sharing via Picasa, Email apps, Facebook, Bluetooth or MMS is also enabled.</paragraph>
+			<paragraph>The BRAVIA engine enhances contrast and colors by sharpening the image and reducing noise. These steps would normally lead to artifacts, but you'll have to look from really up close to notice. You can switch BRAVIA off, but we recommend keeping it on - it really improves the image quality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>There is no dedicated video player app on the Xperia U as in most of the droids out there. DivX and XviD videos are supported but the Xperia not all videos got through.</paragraph>
+			<paragraph>Unlike the Xperia S, the U didn't play any of the 1080p videos we threw at it, but 720p videos worked fine.</paragraph>
+			<paragraph>You can download a video player off the Google Play Store, but that won't solve the 1080p video problem, there just doesn't seem to be enough processing power. Some of the free players out there however will address other deficiencies of the Xperia U video player though, like the lack of subtitles.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Fashionable music player<subsectionTitle>
+			<paragraph>The Xperia U shares the same music player as the Xperia S. You're welcomed to a Cover Flow-like interface and you can swipe left and right to skip tracks (complete with a smooth 3D effect).</paragraph>
+			<paragraph>This happens on the Playing tab; the second one available called My Music and is where your library gets organized. Tracks are sorted by album, artist, playlist, all tracks, SensMe channel, and favorites. There's also a link to Sony's Music Unlimited service.</paragraph>
+			<paragraph>The transparent strip does its trick here as well. It glows in color that matches the album art of the song. Unfortunately though, there isn't an option to make it pulse to the rhythm of the track.</paragraph>
+			<paragraph>In the Now playing interface, there's the familiar Infinite button - it gives you quick options to find the music or karaoke videos on YouTube for the current song, look for more tracks on PlayNow, search Wikipedia for info on the artist or look for lyrics on Google. New features can be added to this menu with extensions available in the Play Store.</paragraph>
+			<paragraph>SensMe isn't new and should be familiar to Sony Ericsson Walkman owners. In case you've missed it, SensMe filters songs by mood. You can filter music through nine "channels" - daytime, energetic, relax, upbeat, mellow, lounge, emotional, dance and extreme.</paragraph>
+			<paragraph>You need to download SensMe data before you can use this feature. Luckily, you no longer have to use a PC Suite to tag songs - you just need an Internet connection, the phone will handle the rest.</paragraph>
+			<paragraph>Audiophiles will appreciate the rich selection of equalizer presets. There's a custom preset too - it lets you adjust five frequency bands and there's a Clear Bass slider too.</paragraph>
+			<paragraph>The More tab offers a Headphone surround option, which can be set to Studio, Club or Concert hall. If you're not using the headphones, you can turn the xLOUD feature on, which optimizes the sound for the Xperia S loudspeaker.</paragraph>
+			<paragraph>Sony has neatly added track info and playback controls on the lockscreen once music starts playing. The music controls replace the clock, which might be annoying if you just want to check the time. Still, the clock slides out of view, so you have about a second to see what time it is (or just look at the small clock in the upper right corner).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS, there is TrackID too<subsectionTitle>
+			<paragraph>The Sony Xperia U is equipped with an FM radio, which has a really neat and simple interface. It automatically scans the area for the available stations and places "notches" on the frequency dial for easier scrolling to the next station. There's a Force mono option to use in case of poor reception.</paragraph>
+			<paragraph>The TrackID service is also available and works within the radio app. You can even like a song on Facebook.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Pleasing audio output<subsectionTitle>
+			<paragraph>The Sony Xperia U did quite well in the first part of our audio output quality test. When connected to an active external amplifier, the smartphone got excellent scores all over the field and had above average loudness, which adds up to a great performance.</paragraph>
+			<paragraph>There's some degradation when headphones come into play, most notably in terms of distortion. The stereo crosstalk rises a bit too, but it's nothing to worry about. The rest of the reading remain great though, which means that you are getting pretty good overall performance.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Sony Xperia U frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sharp camera with some 3D magic<subsectionTitle>
+			<paragraph>The Xperia U boasts a 5 megapixel camera accompanied by a single LED flash. It's capable of producing stills of 2592 &#x445; 1944 resolution. We suppose it shares one and the same image sensor with the Xperia sola, as the produced photos are very similar.</paragraph>
+			<paragraph>The camera controls on the Xperia U are available on two taskbars on either side of the viewfinder. On the left you get four shortcuts to various settings, while the still camera/camcorder toggle, the virtual shutter and a thumbnail of the last photo taken are on the right.</paragraph>
+			<paragraph>The menu key brings up two pages of extra settings - scenes, resolution, smile detection, geotagging, image stabilization and focus mode among others. You can customize three of the shortcuts on the left (the shooting mode shortcut is fixed).</paragraph>
+			<paragraph>There're five capture modes to choose from: Normal, Scene recognition, Sweep Panorama, Sweep Multi Angle and 3D Sweep Panorama. In Normal, you pick the Scene settings manually or you can enable Scene recognition and let the Xperia S take a guess (it's fairly good at it).</paragraph>
+			<paragraph>The 3D Sweep Panorama is business as usual - you press the shutter key and pan the phone across the scene. The resulting panoramic photo can be viewed in both 2D and 3D (on a compatible TV).</paragraph>
+			<paragraph>The Sweep Multi Angle is a different mode and it's one of the coolest camera features we've seen in a while. You take a sweep panoramic photo in the same fashion as the regular 3D Panorama above, but the result is very different. It produces something like a lenticular card.</paragraph>
+			<paragraph>Tilting the phone lets you look the image from different sides, if it's a still object. A shot of a moving object, however, turns into a sort of an animated GIF or creates interesting distortions, which can be pretty funny too. There are some distortions visible even in a static scene, but it's ok.</paragraph>
+			<paragraph>Photos taken in Sweep Multi Angle mode are handled by a separate app called 3D album, and they are not listed in the regular gallery. But just to make it clear again - the Xperia U doesn't have a 3D screen. It cleverly relies on its sensors to detect the handset movement and it changes the on-screen image accordingly.</paragraph>
+			<paragraph>The Xperia U features a Quick launch option, which lets you customize the phone's behavior upon a press of the camera key when the phone is locked. The default option is Launch and capture - it unlocks the phone, starts the camera and instantly snaps a photo - a rather uncomfortable option because it's nearly impossible to correctly frame a picture before the screen is on. This resulted in a couple of images with motion blur written all over them.</paragraph>
+			<paragraph>The stiff camera shutter key is back. It's very comfortable up until you half-press to focus, then it gets harder to take all the way down without shaking the device. It's not as bad as the one on the Xperia sola but it's still quite uncomfortable.</paragraph>
+			<paragraph>The camera produces decent, if unspectacular images with an average amount of detail. Noise levels are a little high, but colors rendering is quite close to reality.</paragraph>
+			<paragraph>The Xperia U manages good macro images as well. It can go as close as 3-4 cm and allows you to really capture a lot of detail.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image quality comparison<subsectionTitle>
+			<paragraph>The Xperia U joins a long list of tested devices in our photo comparison tool. We've selected the Xperia sola and the HTC One V as its main contenders but feel free to change them as you see fit.</paragraph>
+			<paragraph>   Sony Xperia U in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Okay video recording<subsectionTitle>
+			<paragraph>The Sony Xperia U captures 720p video at 30 fps. Despite its dual-core CPU 1080p remained out of reach. The camcorder has similar settings to the still camera, including focus mode, metering, exposure value, image stabilization and so on. The layout of the shortcuts can be customized here, too.</paragraph>
+			<paragraph>The Xperia U camcorder features continuous autofocus. It may take a few seconds to refocus after you re-frame but that's better than repeating attempts to lock focus that may ruin a video. In fast-paced videos the continuous focusing could get a little hectic and focus every second or two, but you can turn the setting off.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia U's videos are smooth for the most part with stutter occuring very rarely. Coming out with bitrate of around 6.5Mbps and a framerate hovering around the 29 fps mark, the videos aren't going to win any awards for their quality, but will do for the occasional YouTube upload.</paragraph>
+			<paragraph>All in all, the Xperia U could be a good enough replacement of your digicam on trips. Check out the video sample below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If you want to look closer at the video quality, you can download this untouched sample 720p@30fps, taken straight off the device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>We've enrolled the Xperia U in our video comparison tool and stacked up against the likes of the HTC One V and Xperia sola. The Xperia U didn't do particularly well in good lighting conditions, but fared a bit better than the competition in low light.</paragraph>
+			<paragraph>   Sony Xperia U in our Video Compare Tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Solid connectivity<subsectionTitle>
+			<paragraph>The Sony Xperia U has quad-band 2G and 3G. Mobile data speeds are boosted by 14.4Mbps HSDPA and 5.76Mbps HSUPA.</paragraph>
+			<paragraph>Local connectivity is covered by Wi-Fi b/g/n with DLNA, so you can easily play media (photos, videos, music) from DLNA-enabled storage devices or push content from your phone to a DLNA TV or music player.</paragraph>
+			<paragraph>A dedicated app, Media Remote, will serve as a remote control for DLNA-capable BRAVIA TVs and Sony DVD/Blu-ray players too. It has a few versions of the interface ranging from simply changing the channels to mouse input and viewing disc history.</paragraph>
+			<paragraph>The Media Remote app is available for free download at the Play Store so other droids can use it too.</paragraph>
+			<paragraph>The Xperia U lacks NFC capability, but makes up for that with USB on-the-go support. It had no problems pairing up with a USB Bluetooth receiver for a keyboard and mouse.</paragraph>
+			<paragraph>Once connected, a standard mouse pointer appears enabling mouse operation, but it isn't very useful on the small screen of the Xperia U. It's still good to have though.</paragraph>
+			<paragraph>USB flash storage worked like a breeze as well. It even managed to hook up with both the keyboard and mouse, and the USB flash storage via a USB hub.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Classic Android web browsing<subsectionTitle>
+			<paragraph>The user interface of the browser is simple, with almost no visible chrome by default. Once the page loads, all you see is the URL bar and the bookmark button at the top of the screen. Once you zoom in and pan around though even that disappears (scroll to the top or press menu to bring it back).</paragraph>
+			<paragraph>The browser supports double tap and pinch zooming, along with the dedicated virtual zoom buttons. There's text reflow, which reformats text so that it best fits on the screen.</paragraph>
+			<paragraph>The browsing performance is excellent - panning, zooming and the text reflow are very fluid.</paragraph>
+			<paragraph>The minimalist UI is still very capable - hit the menu key and six keys pop up. You can open a new tab, switch tabs, refresh the page, go forward, and open bookmarks. The last button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>One of the important features in the web browser is the full Flash 11 support. YouTube videos played smoothly all the way up to 720p - no dropped frames, audio lag or video artifacts. Flash games played trouble free too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great organizing skills<subsectionTitle>
+			<paragraph>The Sony Ericsson Xperia U comes with a solid set of organizing options, including a document viewer.</paragraph>
+			<paragraph>The app in question is OfficeSuite and it has support for viewing document files (Word, Excel, PowerPoint and PDF, including the Office 2007 versions). For editing, you will need to get the paid app.</paragraph>
+			<paragraph>Reading documents is quite comfortable and panning is blazing fast. There's built-in file browser and cloud storage integration (Google, Dropbox, Box).</paragraph>
+			<paragraph>The calendar has three different types of view - daily, weekly and monthly. The lower section of the screen is reserved for a list of upcoming events. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The Calendar also pulls info on upcoming events from your Facebook account. Facebook events appear just like regular calendar entries but you can't edit them on the phone, they are read-only.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized - the buttons are really big and easy to hit. You can expand advanced functions (trigonometry, logarithms) by turning the phone landscape.</paragraph>
+			<paragraph>The alarm clock app supports multiple alarms, each with its own start and repeat time. The Alarms app can also work as a desk clock - you have a big toggle for the brightness, as well as weather info and shortcuts to gallery slideshow and the music player.</paragraph>
+			<paragraph>The app has also grown a World clock along with stopwatch and timer functionality, which were missing in previous Xperia phones.</paragraph>
+			<paragraph>The Power Saver app helps you extend your battery life by toggling things like Wi-Fi, GPS, Bluetooth screen brightness, auto sync and background data on and off automatically when the battery charge falls below a certain user-defined threshold.</paragraph>
+			<paragraph>There are three presets in total. The other two are a manual power saver and a timed saver. The latter can, say, keep all those power-hungry features off for the night and turn them back on in the morning.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and Wisepilot navigation<subsectionTitle>
+			<paragraph>The Sony Ericsson Xperia U comes with a GPS receiver, which took less than a minute to get satellite lock upon a cold start. You can use the A-GPS functionality to get near instantaneous locks. Alternatively, network positioning will do if you only need a rough idea of your location.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>The latest version uses vector maps, which are very data efficient and easy to cache. The app will reroute you if you get off course, even without a data connection.</paragraph>
+			<paragraph>You can plan routes, search for nearby POI and go into the always cool Street View.</paragraph>
+			<paragraph>Our Xperia U came with a Wisepilot trial with 30 days' worth of full navigation license. The app offers info on weather, traffic, speed cameras and alerts.</paragraph>
+			<paragraph>Wisepilot uses online maps by default, so you'll need a data connection - but it works even in countries where Google Maps Drive doesn't. You can purchase offline maps if you like - a 2-year license for the whole of Europe is 5 Euro and North America is 5 Dollars.</paragraph>
+			<paragraph>If you decide to go with the online-only version, the Abroad mode makes sense. It will reduce roaming data usage and maps are cached (so, you if you start off at home or your hotel with the phone hooked up to a Wi-Fi network, you'll save even more).</paragraph>
+			<paragraph>We just can't promise you that your Xperia U will also come with the same Wisepilot license, it may be a market-dependent feature.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Play Store<subsectionTitle>
+			<paragraph>The Android Market is now called the Play Store, but other than the name, it's the same old app store.</paragraph>
+			<paragraph>It's organized in a few scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. The in-app section is untouched though and it's very informative - a description, latest changes, number of downloads and comments with rating. There is usually a demo video and several screenshots for most apps too.</paragraph>
+			<paragraph>There are all kinds of apps in the Google Play Store and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final Words<subsectionTitle>
+			<paragraph>So, Sony know what they're doing in the midrange. The Xperia U is so comfortably ahead of similarly priced smartphones that it's one of the easiest to recommend.</paragraph>
+			<paragraph>Few would've believed last year that a solid dual-core experience and a display of very good quality would be available at this price point. Screen size aside, the Xperia U is better than the Xperia Arc S in almost every way and that one passed for a flagship device mere 9 months ago.</paragraph>
+			<paragraph>And as if that's not enough, the Xperia U is perhaps the most affordable dual-core droid. It's the cheapest way to get a FWVGA display too, and the build and finish are worthy of a flagship. You wouldn't normally expect to get anything else on this kind of budget, but you are in for another surprise. The changeable color of the transparent strip is a nice little twist giving personality and character, which are hard to come by in the crowded smartphone midrange.</paragraph>
+			<paragraph>The obvious catch here is the Sony Xperia U limited storage, but if that's a deal-breaker to you we should've lost you at the intro. Granted, the issue will drive some people away, but if you can live with the 6GB provided, you'll be getting a deal that's hard to beat. Just look at the competition.</paragraph>
+			<paragraph>Sony obviously has a thing for affordable solid smartphones, as the device that comes closest to the Xperia U is its very own Xperia Sola. Dropping the fancy see-through strip and the removable battery, the sola offers that vital microSD slot for all the storage you may need. It also has a slightly larger 3.7" LCD, which is better suited to multimedia consumption than the tiny, by today's standards, 3.5" screen on the U. The Xperia sola will cost you a little extra though.</paragraph>
+			<paragraph> Sony Xperia sola</paragraph>
+			<paragraph>If you are willing to pay that extra, the Samsung Galaxy Ace 2 is another offer you might want to consider. With a bigger 3.8" screen and a microSD card slot, it can match the Xperia U in terms of speed and performance and even get a slight edge in overall experience thanks to the more functional TouchWiz launcher. Given that it doesn't even look half as good, we don't think the premium is justified.</paragraph>
+			<paragraph> Samsung Galaxy Ace 2 I8160</paragraph>
+			<paragraph>The HTC One V on the other hand, is all about premium looks and giving a taste of Sense'd ICS here and now to those who don't care to wait for an update. It has a pretty good display too, but its single-core chipset raises doubts. Spending more on a handset that's packing last-year's hardware is not the best of options.</paragraph>
+			<paragraph> HTC One V</paragraph>
+			<paragraph>If you want a different experience from Android, you might want to look at the Lumia 710. It's the only phone here that actually costs less than the Xperia U, with a 3.7" screen and an equally smooth UI performance, thanks to the lightweight Windows Phone 7.5 platform. The WP ecosystem still has some catching up to do to match Android.</paragraph>
+			<paragraph> Nokia Lumia 710</paragraph>
+			<paragraph>As you can see, matching the bang for buck of the Xperia U isn't an easy job for most smartphones. Sony have a real winner on their hands. There's nothing stopping it from becoming a bestseller if they roll out the ICS update in a timely manner and play their marketing cards right. And then a stronghold in the mid-range is a good place to launch a counter attack on the high-end, where Sony Ericsson have been less than stellar lately.</paragraph>
+		</subsection>
+	</page>
+</review>

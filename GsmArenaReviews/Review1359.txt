@@ -1,0 +1,122 @@
+<review>
+	<title>Samsung Galaxy S II vs LG Optimus 2X</title>
+	<description>Head to head</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_s_ii_vs_lg_optimus_2x-review-585.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Ah, the power of dual-core processors ? it lets you do cool stuff like buttery-smooth multitasking, exciting 3D portable gaming or Full HD videos. The latest Samsung I9100 Galaxy S II packs the new Exynos chipset, which pairs a couple of Cortex-A9 cores with a Mali-400MP GPU. Sounds like a potent mix ? at least on paper, so we?re eager to pit it against one of the first phones to offer Nvidia?s Tegra 2 platform - the LG Optimus 2X.</paragraph>
+			<paragraph>What we have in our hands is a pre-release test unit of the Galaxy S II, successor to one of the best selling Android phones. Ours runs its two CPU cores at 1GHz but Samsung announced that the speed will be bumped up to 1.2GHz.</paragraph>
+			<paragraph>Once that?s done, the I9100 Galaxy S II would be the most powerful droid ? until the competition catches up, which won?t take long judging by our rumor mill. Anyway, we?re going to use the chance to put Samsung?s Exynos chipset head to head with NVIDIA?s Tegra 2. We?ll be using the LG Optimus 2X for the benchmarks, which runs at the same clock speed as our Galaxy S II ? 1GHz.</paragraph>
+			<paragraph>We?re already working on our Galaxy S II preview but until that?s done, we just couldn?t resist testing some of the most interesting new features of Samsung?s latest flagship. Here?s what this comparison will be about.</paragraph>
+			<paragraph>First off, this is our first encounter with the Super AMOLED Plus technology, which improves on an already excellent screen. We?ll run the new display through several tests to determine how it stacks up against the old one and other leading displays on the market.</paragraph>
+			<paragraph>Next, we?ll get to the camera department ? the Galaxy S II comes with an 8MP still shooter that can capture 1080p FullHD videos. That?s our second encounter with such a beast and we?ll be pitting it against the LG Optimus 2X camera, that?s for sure. A surprising guest star in the camera test is the Sony Ericsson Arc, which we recently reviewed as well.</paragraph>
+			<paragraph>After that comes the test of what makes the Samsung I9100 Galaxy S II tick ? the new dual-core Exynos chipset. Just keep in mind the Galaxy S II retail version will have 20% more clock speed for each of the two CPU cores.</paragraph>
+			<paragraph>Finally, we?ll wrap things up with a real-life performance test ? how does the Galaxy S II stack up in real world tasks (we?ll be testing the user interface, web browser and games) against a phone with a Tegra 2 chipset (which is quite popular among new smartphones and even tablets).</paragraph>
+			<paragraph>Ready? Then let?s jump to the next page ? but be warned, you are in for some serious display envy.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Super AMOLED Plus up close<subsectionTitle>
+			<paragraph>The original Galaxy S had an amazing display. But as great as SuperAMOLED tech is, it did have its drawbacks, mainly the PenTile subpixel matrix.</paragraph>
+			<paragraph>The new generation SuperAMOLED Plus should increase the size of the available panels up to 4.3?, it should improve the performance and it?s comes with a conventional subpixel matrix. We expect nothing but excellence ? let?s see if the Samsung I9100 Galaxy S II delivers.</paragraph>
+			<paragraph>First, a few words on PenTile matrix to give you an idea what you?re looking at. PenTile matrices use only two subpixels per each pixel of the screen, unlike traditional matrixes that use three (LCD displays use this arrangement too). The image below demonstrates the difference though in an exaggerated way.</paragraph>
+			<paragraph>Even though both the original Galaxy S and the Galaxy S II have screens with equal resolution ? WVGA, or 480 x 800 pixels. The use of a conventional matrix has given the SuperAMOLED Plus screen 50% more subpixels, making the display noticeably sharper (especially when it comes to small text).</paragraph>
+			<paragraph>Here are a few shots we took of the displays of the original Galaxy S, the Galaxy S II and the iPhone 4. You can see that the subpixels look as we expected them to.</paragraph>
+			<paragraph>The iPhone 4?s Retina display is easily the sharpest of the bunch. There is a very noticeable difference between the two Galaxies in the following extreme close-up shot, but in reality, the difference isn't that strongly pronounced, unless you?re looking at them from really close.</paragraph>
+			<paragraph>The SuperAMOLED Plus display of the Galaxy S II has exceptional viewing angles but the old screen in the Samsung Galaxy S isn't half bad either. Especially compared to a regular LCD unit, see for yourselves.</paragraph>
+			<paragraph>For this comparison we?ve put the first and second generation Galaxy S phones next to the LG Optimus 2X. Let?s just say, the screen is not among the strongest features of the LG smartphone.</paragraph>
+			<paragraph>The new Super AMOLED Plus display reportedly has improved brightness and reduced power usage. We?ll leave the battery tests for the review, but we did test the brightness levels. We were surprised to see that the SuperAMOLED Plus screen is no brighter than the previous generation used in the original Galaxy S.</paragraph>
+			<paragraph>Here are our measurements.</paragraph>
+			<paragraph>You?ll notice we didn?t measure the contrast ratio of either SuperAMOLED display ? that?s due to how OLED works. Contrast is the ratio of how bright a white pixel is compared to a black pixel while both are visible on the screen. Since black pixels in OLED type displays don?t emit any light at all, the contrast works out to infinity (which isn't really a meaningful measurement).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The 8MP sharp-shooter put to the test<subsectionTitle>
+			<paragraph>The Samsung I9100 Galaxy S II is razor thin but the engineers have found enough room for an 8MP auto-focus camera and an LED flash. It snaps photos with maximum resolution of 3264 x 2448 pixels and it?s really good at it.</paragraph>
+			<paragraph>The camera interface has been changed and we?re not quite sure it?s for the best. We?ll take some more time to get used to it and share our impressions of the camera UI later. For now, let?s just focus on the camera performance.</paragraph>
+			<paragraph>We snapped up plenty of camera samples with the I9100 Galaxy S II and we?ll use two other 8MP shooters as a yardstick ? the latest Sony Ericsson XPERIA Arc and the LG Optimus 2X.</paragraph>
+			<paragraph>After spending some time with the camera, we can say that the Samsung Galaxy S II is one of the best 8MP shooters around. Noise levels are low, so the noise-reduction phase of the post processing leaves plenty of fine detail.</paragraph>
+			<paragraph>The contrast and color rendering are good too, though colors tend to be oversaturated a bit (this is common among consumer cameras as most people find the colors more pleasing this way).</paragraph>
+			<paragraph>The Samsung I9100 Galaxy S II camera is quick in acquiring focus and shot to shot time is very acceptable at around two seconds. The camera has all the features you can think of, including face, smile and blink detection, scene presets, image stabilization, geo-tagging and various other options.</paragraph>
+			<paragraph>We also snapped a couple of shots with the secondary camera of the Galaxy S II ? it?s a 2MP unit after all. They actually turned out pretty good.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Samsung I9100 Galaxy S II enters the competition over at our in our Photo Compare Tool. The tool?s page will give you enough info on how to use it and what to look for.</paragraph>
+			<paragraph>   Samsung I9100 Galaxy S II in our Photo Compare Tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Shooting FullHD videos like a pro<subsectionTitle>
+			<paragraph>Bumping up the resolution in video recording is one of the most processing-intensive things you could do but any self-respecting flagship should capture 1080p video, it?s a matter of pride.</paragraph>
+			<paragraph>But good 1080p video is hard to achieve even with a powerful chipset. From first glance it seems that Samsung had done all the right things ? picked capable hardware, a suitable container (.MP4) and good bitrate.</paragraph>
+			<paragraph>The Galaxy S II adversary in the FullHD video recording test for today is the Optimus 2X. The Galaxy S II uses the better container (.MP4 vs. .3GP) and much more bitrate ? 17Mbps over 10Mbps in the Optimus 2X.</paragraph>
+			<paragraph>The difference is readily apparent ? the Galaxy S II manages to record much more detail. If you look at a still frame from the S II, you?d be hard pressed to tell it?s not in fact a 2MP photo.</paragraph>
+			<paragraph>The frame rate of 1080p videos is great too ? it?s steadily over 25fps and there are no repeated frames. The retail version of the Optimus 2X also doesn?t duplicate frames but can?t quite reach the 24fps make-or-break barrier.</paragraph>
+			<paragraph>Here?s an untouched Samsung Galaxy S II 1080p video sample (32MB) and an untouched LG Optimus 2X 1080p video sample (42MB).</paragraph>
+			<paragraph>If you prefer, you can also watch them on YouTube. Just make sure you tick the 1080p option and open the video fullscreen.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>These camcorders also shoot 720p, you know<subsectionTitle>
+			<paragraph>We tested the 720p mode as well ? the Samsung Galaxy S II videos have a bitrate of around 12Mbps and hit almost exactly 30 frames per second. Here the advantage over the Optimus 2X is not as noticeable.</paragraph>
+			<paragraph>Choosing 720p enables digital zoom ? but unfortunately (on our test unit at least), it was the old upsample zoom. No pixel binning, no extra detail after zooming. That can be fixed with a software update though, the 8MP sensor has enough resolution to do it.</paragraph>
+			<paragraph>Here?s the 720p video sample uploaded to YouTube.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The Samsung I9100 Galaxy S II is the second phone in our Video Compare Tool database that can record 1080p. The Tool?s page includes a quick walkthrough on how to use it and what to look for.</paragraph>
+			<paragraph>   Samsung I9100 Galaxy S II in the Video Compare Tool </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The Exynos benchmarks show great potential<subsectionTitle>
+			<paragraph>It?s time to put the Exynos chipset to the test ? both the CPU and the GPU. We?ll be using the Optimus 2X, which uses Tegra 2, for comparison. Both chipsets are running at 1GHz so we?re expecting similar results (the underlying ARM architecture isn't all that different between the two).</paragraph>
+			<paragraph>Keep in mind however that the Samsung I9100 Galaxy S II should launch with its chipset clocked at 1.2GHz, which should give it the upper hand.</paragraph>
+			<paragraph>We ran our standard batch of tests ? here are the results.</paragraph>
+			<paragraph>The CPU performance of both Exynos and Tegra 2 seems pretty well matched ? Exynos takes Linpack, Tegra 2 takes Benchmark Pi and they?re about equal on Quadrant.</paragraph>
+			<paragraph>It?s the GPU performance that surprised us though ? the Mali-400MP GPU seems 20fps slower than the GeForce. We?re guessing that?s a software cap (like the one the original Galaxy S had) since the framerate always stayed at just under 60fps.</paragraph>
+			<paragraph>We ran a few games too ? one had issues (that?s what you get for testing on pre-production software) but the other ran perfectly. The next section of this comparison has more on the real-world feel of the Samsung I9100 Galaxy S II.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Testing web browsing performance<subsectionTitle>
+			<paragraph>Dry specs and synthetic benchmarks aside, it?s real-life performance that really matters to users.</paragraph>
+			<paragraph>So we decided to put the dual-core powerhouses toe to toe and throw in the original Galaxy S just for laughs. We were surprised to find that in most cases the original Galaxy S held its own pretty well, even beating the Optimus 2X in some rare cases.</paragraph>
+			<paragraph>Before we continue we?d like you to keep in mind one thing ? both Galaxy?s are running Android 2.3 Gingerbread, while the Optimus 2X is still stuck on Froyo 2.2. And that casts a shadow on its performance ? it could be handicapped to an extent.</paragraph>
+			<paragraph>We hooked-up all three smartphones to the same Wi-Fi network and began our browser test. We tested load times, reload times and the general feel of browsing. Zooming in and out by pinch-to-zoom, double tap, panning around. Plus the screen technology also makes a big difference on browsing.</paragraph>
+			<paragraph>The Galaxy S II feels really smooth in web browsing. It didn?t mind having all those apps running in the background, nor the Flash content on each site ? it just felt great and very stable. Navigating through pages, zooming in on pictures or text, playing a 720p video directly in the browser ? it all feels hassle-free on Samsung?s flagship.</paragraph>
+			<paragraph>And the Galaxy S II just feels better than the Optimus 2X and the Galaxy S. Navigating the web is faster and smoother than anything we?ve ever seen on a mobile phone. And that, added to the SuperAMOLED Plus technology and ample 4.27-inch screen real-estate, you can bet you have yourself an extremely capable web browsing device.</paragraph>
+			<paragraph>We?ve prepared a short video comparison of web browsing the two dual-core smartphones: the Galaxy S II and the Optimus 2X.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle><subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Gaming on dual-core Android smartphones<subsectionTitle>
+			<paragraph>When it comes to gaming, the Galaxy S II doesn?t disappoint too. It loads games as fast as the Optimus 2X and the gameplay experience is great on its SuperAMOLED Plus display. At Shrek Kart HD both devices loaded levels and videos equally fast, but our pre-release Galaxy S II unit had problems with the actual gaming. There was noticeable lag in both occasions.</paragraph>
+			<paragraph>But that could just be the game, because Ultimate Spider Man: Total Mayhem was very smooth on the Galaxy S II and had no problems at all. Still, we couldn't find anything wrong with the performance of either device. One thing?s for sure though, the SuperAMOLED Plus display is way ahead of the LCD used on the Optimus 2X.</paragraph>
+			<paragraph>We?ve prepared a quick game comparison on video between the two smartphones. We put the Optimus 2X and Galaxy S II through a loading test and you can see which is faster and how games look on the two screens.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Overall, we feel the Samsung Galaxy S II with its deep blacks, makes for a better portable gaming device.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We?ll this is it. Our comparison of the Samsung Galaxy S II and the LG Optimus 2X is over. We had a lot of fun with both, and we?re actually sad to finally get to the end. That exciting feeling of the unknown before every test, the anticipation of the results ? we gadget geeks live for that stuff.</paragraph>
+			<paragraph>We have to say that each contender had its handicaps. The Optimus 2X is still on Android 2.2 Froyo, while the Samsung flagship is a pre-release unit that hasn't still got the promised factory overclock to 1.2Ghz.</paragraph>
+			<paragraph>The Samsung Galaxy S II feels like the top dog in this head-to-head. It has the upper hand with the SuperAMOLED display, the amount of available RAM, and the still and video camera. Plus software-wise, it comes with the latest Android version with better overall UI customizations (if you are into that stuff).</paragraph>
+			<paragraph>The Galaxy S II had more time to prepare for this fight than the Optimus 2X ? that?s the price of being the first dual-core smartphone out there. Rushing to be first in the world, the Optimus came out without the latest Android build and without competition, while the Galaxy S II had time to check out its opponents and give its best. A little like cheating, we have to say. But the end result is what counts above everything else.</paragraph>
+			<paragraph>But don?t take this as a total defeat for the Optimus 2X. It?s still a nice and powerful device. And it stood its ground with pride. It has a relatively good display and camera plus a great processor that?s still almost unmatched in smartphone terms. It?s a great smartphone, it's just not the best ? that would have to be the Galaxy S II's title.</paragraph>
+		</subsection>
+	</page>
+</review>

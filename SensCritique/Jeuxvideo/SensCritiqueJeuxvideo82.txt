@@ -1,0 +1,161 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Sam &amp; Max Hit the Road</nameFr>
+	<typeEn>Game</typeEn>
+	<typeFr>Jeuxvideo</typeFr>
+	<year>1993</year>
+	<link>http://www.senscritique.com/jeuvideo/Sam_Max_Hit_the_Road/214346</link>
+	<generalScore>8.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>17</numberOfVoters>
+		<numberOfVoters>54</numberOfVoters>
+		<numberOfVoters>228</numberOfVoters>
+		<numberOfVoters>439</numberOfVoters>
+		<numberOfVoters>324</numberOfVoters>
+		<numberOfVoters>153</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>"J'espère qu'il n'y avait personne dans ce bus !"</title>
+		<author>PtiPeter</author>
+		<date>2010-12-17</date>
+		<score>0.9</score>
+		<content>L'âge d'or du Point & Click (fin 1980, années 90)... la fameuse bataille Sierra VS Lucas Arts... toute une époque où chacun des deux éditeurs et développeurs enchaînaient les jeux cultes... on ne compte plus les Monkey Island, Gabriel Knight, Day Of The Tentacle... Et il y a Sam & Max : Hit The Road, l'adaptation d'un comics américain complétement inconnue par chez nous, réalisée par les timbrés de chez Lucas Arts. Jeu culte par excellence, Sam & Max : Hit The Road transporte le joueur dans une histoire aussi délirante que paradoxalement cohérente du début à la fin. Impossible de relater dans une simple critique tous les points positifs ou séquences cultes de ce mythe... sachez juste que même si vous avez un niveau pitoyable en Point & Click (comme moi, quoi) vous vous amuserez quand même, tant chaque énigme est une petite perle d'humour (la maison du chanteur de country... énorme). Parodiant nombre d'univers et d'œuvres, profitant d'une version française de très grande qualité, Sam & Max : Hit The Road est bien à mettre au panthéon des Point & Click, voir même des jeux vidéo tout court. Et rien que pour le personnage de Max... jouez-y, c'est du bon.</content>
+	</review>
+	<review>
+		<title>"plus depuis l'accident"</title>
+		<author>xUMi</author>
+		<date>2010-07-26</date>
+		<score>1.0</score>
+		<content>L'humour le plus pourri du monde, au service d'un jeu mettant en scène deux enquêteurs poilus et sans morale. Une durée de vie sidérante, des heures (des jours) à chercher une aiguille dans une meule de poils de grand pied, un scénario complétement barré, un final sans queue ni tête. Il s'apprécie toujours aussi bien de nos jours, alors si vous êtes amateur du genre : foncez. Un des nombreux chefs d'œuvre de Lucas Arts.</content>
+	</review>
+	<review>
+		<title>Ca Rocks !</title>
+		<author>Jericho</author>
+		<date>2010-09-24</date>
+		<score>0.7</score>
+		<content>Un des meilleurs point and clic auquel j'ai joué. Du grand et beau pixel qui tache ! Même s'il a vieilli il reste toujours d'un humour décapant avec un sénario complètement surréaliste à la recherche d'un monstre de foire évadé. Littéralement truffé de blague vaseuses et de personnage célèbres. Malgré sa durée de vie très peu importante - quelques heures- cette enquête pleine de vieilles vannes bien désoxydante va vous faire hurler de rire et de mauvais gout !</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>BaTistou</author>
+		<date>2012-05-07</date>
+		<score>0.5</score>
+		<content>Autant je suis fan absolu de Point & Click et des productions Lucas Arts, autant j'ai jamais réellement accroché à l'humour de Sam & Max. Trop ancré dans une culture américaine qui m'échappait à l'époque je pense. Et même, vaguement trop offensif pour le gosse que j'étais à l'époque, certaines vannes un peu grasses m'échappaient un peu. Et puis je sais pas, les personnages n'avaient pas le charisme d'un Guybrush Threepwood ou d'un Grim Fandango. Bref, je me suis pas éclaté à le jouer. Je l'ai même jamais terminé. Pas de nostalgie pour celui-ci.</content>
+	</review>
+	<review>
+		<title>Le rire c'est sacré !</title>
+		<author>Sharnalk</author>
+		<date>2011-01-16</date>
+		<score>1.0</score>
+		<content>Le rire c'est sacrée, et Sam et Max l'ont bien compris, tout simplement l'âge d'or de LucasArt. Des musiques très sympathiques, qui m'arrive encore d'écouter, des dialogues bien pensées et que d'énigmes tordues. Honnêtement, sur le globe de nouille, il fallait faire une combinaison d'accessoires incroyables. Et qu'est ce que j'aimais Max, incroyablement sadique. Une des meilleurs VF existantes à mon gout dans le domaine des jeux vidéos.</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>diegowar</author>
+		<date>2012-11-27</date>
+		<score>0.8</score>
+		<content>Excellent humour dans ce Sam & Max, le jeu est truffé de jeu de mots, de références, et autres situations improbables. Malheureusement j'ai trouvé le rythme un peu moins bon que dans d'autres Point & Click de l'époque, il y a littéralement des énigmes que j'ai trouvé impossibles à résoudre logiquement (surtout quand faut utiliser Max sur un objet, ça n'a généralement aucun sens). Enfin ça reste du bon, mais prévoir une soluce lorsqu'on bloque plus de 20 minutes car y'a certains trucs que je n'aurais tout simplement jamais trouvé.</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>lunaticwraith</author>
+		<date>2012-02-27</date>
+		<score>1.0</score>
+		<content>Cultissime, je crois que c'est ce jeu là qui a fait de l'enfant que j'étais un gamer!</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>Loiig</author>
+		<date>2011-03-23</date>
+		<score>0.9</score>
+		<content>Des heures à rire.</content>
+	</review>
+	<review>
+		<title>La carpe et le lapin</title>
+		<author>Val_Cancun</author>
+		<date>2015-11-05</date>
+		<score>0.6</score>
+		<content>Grand amateur des jeux d'aventure LucasFilm Games dans les années 90 (Monkey Island, Indiana Jones etc...), je suis néanmoins passé à côté de "Sam & Max : Hit the road" à l'époque. Lacune que je viens de réparer, alerté par les critiques dithyrambiques dont bénéficie ce point n' click adapté d'un comics bien connu aux Etats-Unis. Autant le dire d'emblée, l'aventure ne m'aura pas autant emballé que la plupart des gamers, même si le jeu reste sympathique. L'humour est certes corrosif, mais au final un peu trop omniprésent, au point que le lapin crétin a fini par me taper sur les nerfs. Peut-être aurais-je été meilleur public il y a une vingtaine d'années, à sa sortie? Possible. Mais pour avoir rejoué récemment à plusieurs pointer-cliquer, celui-ci ne fait tout simplement pas partie des meilleurs. La faute à une aventure très brève, à des énigmes plutôt light, et surtout à une interface pas pratique, à laquelle je ne me suis jamais habitué. Ce système par icônes était innovant j'en conviens, mais engendre au final trop d'imprécisions dans la jouabilité. Cela dit, "Sam & Max" n'est pas dénué de qualités. Déjà, les graphismes sont top pour 1993, et le style cartoon en 2D a très peu vieilli. De plus, le jeu développe son propre univers bien déjanté (cf l'humour dont je parlais, mais aussi le scénario), peuplé de lieux et de personnages délirants, à l'image du fakir vulgaire, du chanteur de country ou du pêcheur sosie de Woody Allen. Dernier détail sympathique : les créateurs ont intégré à "Sam & Max" quelques mini-jeux plutôt rigolos (notamment la bataille navale avec des bagnoles). En conclusion, je resterai quand même positif dans l'ensemble : on passe un bon moment avec nos deux héros animaliers, pour un jeu d'aventure drôle mais inégal, à la réputation légèrement surfaite.</content>
+	</review>
+	<review>
+		<title>ça avait l'air cool... ?</title>
+		<author>Tony Tony Chopper</author>
+		<date>2015-05-24</date>
+		<score>0.5</score>
+		<content>Ce jeu doit être super mais j'ai que des bribes de souvenir où on jouait le début en boucle, soit parce que c'était une démo, notre matériel était pété (on avait plus de souris à un moment donné pendant une éternité) ou on était trop cons pour savoir ce qu'il fallait faire ensuite.</content>
+	</review>
+	<review>
+		<title>"J'espère qu'il n'y avait personne dans ce bus !"</title>
+		<author>PtiPeter</author>
+		<date>2010-12-17</date>
+		<score>0.9</score>
+		<content>L'âge d'or du Point & Click (fin 1980, années 90)... la fameuse bataille Sierra VS Lucas Arts... toute une époque où chacun des deux éditeurs et développeurs enchaînaient les jeux cultes... on ne compte plus les Monkey Island, Gabriel Knight, Day Of The Tentacle... Et il y a Sam & Max : Hit The Road, l'adaptation d'un comics américain complétement inconnue par chez nous, réalisée par les timbrés de chez Lucas Arts. Jeu culte par excellence, Sam & Max : Hit The Road transporte le joueur dans une histoire aussi délirante que paradoxalement cohérente du début à la fin. Impossible de relater dans une simple critique tous les points positifs ou séquences cultes de ce mythe... sachez juste que même si vous avez un niveau pitoyable en Point & Click (comme moi, quoi) vous vous amuserez quand même, tant chaque énigme est une petite perle d'humour (la maison du chanteur de country... énorme). Parodiant nombre d'univers et d'œuvres, profitant d'une version française de très grande qualité, Sam & Max : Hit The Road est bien à mettre au panthéon des Point & Click, voir même des jeux vidéo tout court. Et rien que pour le personnage de Max... jouez-y, c'est du bon.</content>
+	</review>
+	<review>
+		<title>"plus depuis l'accident"</title>
+		<author>xUMi</author>
+		<date>2010-07-26</date>
+		<score>1.0</score>
+		<content>L'humour le plus pourri du monde, au service d'un jeu mettant en scène deux enquêteurs poilus et sans morale. Une durée de vie sidérante, des heures (des jours) à chercher une aiguille dans une meule de poils de grand pied, un scénario complétement barré, un final sans queue ni tête. Il s'apprécie toujours aussi bien de nos jours, alors si vous êtes amateur du genre : foncez. Un des nombreux chefs d'œuvre de Lucas Arts.</content>
+	</review>
+	<review>
+		<title>Ca Rocks !</title>
+		<author>Jericho</author>
+		<date>2010-09-24</date>
+		<score>0.7</score>
+		<content>Un des meilleurs point and clic auquel j'ai joué. Du grand et beau pixel qui tache ! Même s'il a vieilli il reste toujours d'un humour décapant avec un sénario complètement surréaliste à la recherche d'un monstre de foire évadé. Littéralement truffé de blague vaseuses et de personnage célèbres. Malgré sa durée de vie très peu importante - quelques heures- cette enquête pleine de vieilles vannes bien désoxydante va vous faire hurler de rire et de mauvais gout !</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>BaTistou</author>
+		<date>2012-05-07</date>
+		<score>0.5</score>
+		<content>Autant je suis fan absolu de Point & Click et des productions Lucas Arts, autant j'ai jamais réellement accroché à l'humour de Sam & Max. Trop ancré dans une culture américaine qui m'échappait à l'époque je pense. Et même, vaguement trop offensif pour le gosse que j'étais à l'époque, certaines vannes un peu grasses m'échappaient un peu. Et puis je sais pas, les personnages n'avaient pas le charisme d'un Guybrush Threepwood ou d'un Grim Fandango. Bref, je me suis pas éclaté à le jouer. Je l'ai même jamais terminé. Pas de nostalgie pour celui-ci.</content>
+	</review>
+	<review>
+		<title>Le rire c'est sacré !</title>
+		<author>Sharnalk</author>
+		<date>2011-01-16</date>
+		<score>1.0</score>
+		<content>Le rire c'est sacrée, et Sam et Max l'ont bien compris, tout simplement l'âge d'or de LucasArt. Des musiques très sympathiques, qui m'arrive encore d'écouter, des dialogues bien pensées et que d'énigmes tordues. Honnêtement, sur le globe de nouille, il fallait faire une combinaison d'accessoires incroyables. Et qu'est ce que j'aimais Max, incroyablement sadique. Une des meilleurs VF existantes à mon gout dans le domaine des jeux vidéos.</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>diegowar</author>
+		<date>2012-11-27</date>
+		<score>0.8</score>
+		<content>Excellent humour dans ce Sam & Max, le jeu est truffé de jeu de mots, de références, et autres situations improbables. Malheureusement j'ai trouvé le rythme un peu moins bon que dans d'autres Point & Click de l'époque, il y a littéralement des énigmes que j'ai trouvé impossibles à résoudre logiquement (surtout quand faut utiliser Max sur un objet, ça n'a généralement aucun sens). Enfin ça reste du bon, mais prévoir une soluce lorsqu'on bloque plus de 20 minutes car y'a certains trucs que je n'aurais tout simplement jamais trouvé.</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>lunaticwraith</author>
+		<date>2012-02-27</date>
+		<score>1.0</score>
+		<content>Cultissime, je crois que c'est ce jeu là qui a fait de l'enfant que j'étais un gamer!</content>
+	</review>
+	<review>
+		<title>Sam &amp; Max Hit the Road sur PC</title>
+		<author>Loiig</author>
+		<date>2011-03-23</date>
+		<score>0.9</score>
+		<content>Des heures à rire.</content>
+	</review>
+	<review>
+		<title>La carpe et le lapin</title>
+		<author>Val_Cancun</author>
+		<date>2015-11-05</date>
+		<score>0.6</score>
+		<content>Grand amateur des jeux d'aventure LucasFilm Games dans les années 90 (Monkey Island, Indiana Jones etc...), je suis néanmoins passé à côté de "Sam & Max : Hit the road" à l'époque. Lacune que je viens de réparer, alerté par les critiques dithyrambiques dont bénéficie ce point n' click adapté d'un comics bien connu aux Etats-Unis. Autant le dire d'emblée, l'aventure ne m'aura pas autant emballé que la plupart des gamers, même si le jeu reste sympathique. L'humour est certes corrosif, mais au final un peu trop omniprésent, au point que le lapin crétin a fini par me taper sur les nerfs. Peut-être aurais-je été meilleur public il y a une vingtaine d'années, à sa sortie? Possible. Mais pour avoir rejoué récemment à plusieurs pointer-cliquer, celui-ci ne fait tout simplement pas partie des meilleurs. La faute à une aventure très brève, à des énigmes plutôt light, et surtout à une interface pas pratique, à laquelle je ne me suis jamais habitué. Ce système par icônes était innovant j'en conviens, mais engendre au final trop d'imprécisions dans la jouabilité. Cela dit, "Sam & Max" n'est pas dénué de qualités. Déjà, les graphismes sont top pour 1993, et le style cartoon en 2D a très peu vieilli. De plus, le jeu développe son propre univers bien déjanté (cf l'humour dont je parlais, mais aussi le scénario), peuplé de lieux et de personnages délirants, à l'image du fakir vulgaire, du chanteur de country ou du pêcheur sosie de Woody Allen. Dernier détail sympathique : les créateurs ont intégré à "Sam & Max" quelques mini-jeux plutôt rigolos (notamment la bataille navale avec des bagnoles). En conclusion, je resterai quand même positif dans l'ensemble : on passe un bon moment avec nos deux héros animaliers, pour un jeu d'aventure drôle mais inégal, à la réputation légèrement surfaite.</content>
+	</review>
+	<review>
+		<title>ça avait l'air cool... ?</title>
+		<author>Tony Tony Chopper</author>
+		<date>2015-05-24</date>
+		<score>0.5</score>
+		<content>Ce jeu doit être super mais j'ai que des bribes de souvenir où on jouait le début en boucle, soit parce que c'était une démo, notre matériel était pété (on avait plus de souris à un moment donné pendant une éternité) ou on était trop cons pour savoir ce qu'il fallait faire ensuite.</content>
+	</review>
+</sensCritiqueEntity>

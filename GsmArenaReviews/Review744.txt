@@ -1,0 +1,327 @@
+<review>
+	<title>HTC Desire 510 review</title>
+	<description>Inbetweener</description>
+	<link>http://www.gsmarena.com/htc_desire_510-review-1159.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>4.7" FWVGA capacitive touchscreen, 208ppi</paragraph>
+			<paragraph>Android 4.4.2 KitKat with HTC Sense 6</paragraph>
+			<paragraph>1.2GHz quad-core Cortex-A53 CPU; 1GB of RAM; Adreno 306 GPU; Snapdragon 410 chipset</paragraph>
+			<paragraph>LTE connectivity</paragraph>
+			<paragraph>5MP fixed-focus camera, HTC Zoe mode</paragraph>
+			<paragraph>1080p video capture, 30fps</paragraph>
+			<paragraph>VGA front-facing camera</paragraph>
+			<paragraph>8GB of built-in memory; microSD card slot up to 128GB</paragraph>
+			<paragraph>Active noise cancellation with a dedicated microphone</paragraph>
+			<paragraph>2,100mAh battery; Extreme Power Saving Mode</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Low screen resolution with low ppi ratio</paragraph>
+			<paragraph>Fixed-focus camera</paragraph>
+			<paragraph>No LED flash</paragraph>
+			<paragraph>MicroSD slot isn't hot-swappable</paragraph>
+			<paragraph>Thick and heavy (1cm and 158g)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>We're not far from the time when the smart in phone will be implied. Prices are falling, market share is climbing - it's near impossible to keep track these days of all the new entries in the low end and the midrange. HTC's Desire lineup is no exception - pulled out of the freezer a couple of seasons ago to carry the affordable, mass-market devices of the brand, it has been growing rapidly.</paragraph>
+			<paragraph>We're at a point now where it's hard to put a face to every name. The digits usually help and the new HTC Desire 510 is easily linked to a predecessor. If you think though that it's a simple and straightforward upgrade of last year's Desire 500, you're wrong.</paragraph>
+			<paragraph>The Desire 510 is among the very first to bring 64-bit processing to the lower ranks thanks to the new generation Snapdragon 410 chipset with four Cortex-A53 cores at 1.2GHz, Adreno 306 GPU and 1GB of RAM. Its display has a 4.7" diagonal, a size that has pretty popular promoters these days in the Galaxy Alpha and the iPhone 6. Fortunately, the Desire 510 keeps a healthy distance from those two in terms of price. It's an affordable, LTE-enabled phone - the kind that should be in greater demand in the coming months. Let's see what it has to offer.</paragraph>
+			<paragraph>HTC obviously had some tough decisions to make with Desire 510. The chipset got an impressive upgrade - compared to last year's Desire 500 - and the LTE connectivity is a huge point in favor too, along with a still relevant Android KitKat, skinned with Sense 6.</paragraph>
+			<paragraph>The flipside is a sub-HD display - which is probably the most prominent line on that list of weaknesses. A low-end camera - 5MP fixed-focus, no flash is something to warn against, but not a huge letdown if the price is right and the competition hasn't got an offer you can't refuse.</paragraph>
+			<paragraph>We'll get to that of course but there's plenty to cover before that. The build and handling, the new Snapdragon 410 chip and all the bits and pieces. Let's get started!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Desire 510 360-degree view<subsectionTitle>
+			<paragraph>The HTC Desire 510 isn't particularly keen on making every millimeter count. At 139.9 x 69.8 x 10mm it weighs 158g and looks it. Compared to another 4.7-incher, the Galaxy Alpha, the Desire 510 is 8mm taller, 5mm wider, 3mm thicker and 43g heavier. That's quite the difference but, to be fair, these two are not in the same league at all.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The HTC Desire 510 is hardly the darling of the Desire lineup, but is built with the company's typical attention to detail. Made entirely of plastic and not as compact as some may've wished, it is still among the better looking smartphones we've seen this season.</paragraph>
+			<paragraph>Up front, things look a lot like the flagship One series, a symmetrical arrangement with two pieces extending at the top and bottom of the screen, of the same finish as what's used on the battery cover. This looks like the stereo speaker layout of more premium HTC handsets, an impression enhanced by the micro-drilled earpiece grille. Needless to say though, there's no BoomSound tech and no multiple speakers on the HTC Desire 510.</paragraph>
+			<paragraph>The phone's sides are subtly rounded, going into a more pronounced curve for the battery cover for a very comfortable feel in hand. The back of the HTC Desire 510 is where the single speaker is, under a familiar grille drilled through the removable battery cover.</paragraph>
+			<paragraph>The HTC Desire 510 is a centimeter thick and heavy at almost 160 g. While this is not as compact as it could've been, the phone feels extra solid while allowing comfortable single-hand operation. The matte finish has extra grip too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The front of the HTC Desire 510 is rather clean and simple. Above the 4.7" display we find the earpiece, the VGA front camera and a couple of sensors in-between. Centrally placed below the screen is the primary mic.</paragraph>
+			<paragraph>There are no dedicated keys of any type - the interface is navigated via on-screen controls.</paragraph>
+			<paragraph>There is nothing on the left side of the HTC Desire 510, while on the right we find the lonely volume rocker.</paragraph>
+			<paragraph>The top of the HTC Desire 510 features the 3.5mm audio jack along with a power/lock key. On the opposite side is the microUSB port for computer connections and charging.</paragraph>
+			<paragraph>Around back, a 5MP fixed-focus camera comes with no flash, dead center at the top. A single loudspeaker is symmetrically placed near the bottom of the Desire 510.</paragraph>
+			<paragraph>The phone is powered by a user-removable 2,100mAh Li-Po battery. The microSD and microSIM slots are right above the battery compartment. A memory card can be easily inserted but to get it out you need to pop the battery out first.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A 4.7" FWVGA display<subsectionTitle>
+			<paragraph>The display of the HTC Desire 510 has a 4.7" diagonal but the resolution is by no means impressive. HTC has gone for 480x854px which stretches a little thin for around 208ppi.</paragraph>
+			<paragraph>Viewing angles are good for the most part. There is some loss of contrast as you tilt but colors remain intact. Speaking of, the Desire 510's LCD has good-looking, pleasingly saturated colors.</paragraph>
+			<paragraph>The HTC Desire 510 uses a standard RGB matrix with equally-sized green, red and blue pixels.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The display of the HTC Desire 510 has underwhelming blacks. Contrast is average as is the brightness. This clearly isn't the sharpest of screens, at just 208ppi, but we wouldn't call it a deal-breaker in this price bracket.</paragraph>
+			<paragraph>The sunlight legibility of the Desire 510 display is rather bad, though - the phone is barely usable outdoors and it certainly isn't a pretty sight.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The HTC Desire 510 is powered by a removable 2,100mAh battery of the Li-Po variety. HTC says it is capable of 17 hours of 3G call time or about 27 days of stand-by.</paragraph>
+			<paragraph>In our test, the HTC Desire 510 lasted 70 hours on a single charge, 3 full days with an hour each of calling, web browsing and video playback a day - an awesome score and certainly better than what we expected of it. Obviously the new Cortex-A53 low-powered cores are doing a great job.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating.</paragraph>
+			<paragraph>Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The HTC Desire 510 packs a solid set of connectivity features for such an affordable price tag. You get quad-band GSM, tri-band 3G, and tri-band LTE support.</paragraph>
+			<paragraph>The local wireless connectivity suite has Wi-Fi b/g/n and DLNA support and Bluetooth 4.0. NFC with Android Beam is available in most markets as well.</paragraph>
+			<paragraph>There's a microSD card slot too for up to 128GB of extra storage.</paragraph>
+			<paragraph>USB OTG and USB Host are available as well, though there is no wired TV-out functionality.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Desire 510 runs on Android KitKat + Sense 6 UI<subsectionTitle>
+			<paragraph>The HTC Desire 510 comes powered by Android 4.4.2 KitKat complete with the home-baked Sense 6 overlay. Under Sense 6, the user interface has been improved in terms of both functionality and looks. Each of the built-in apps each has a different accent color but it changes its color when visiting the status bar to create a uniform effect - similar to what we've seen with Apple's iOS 8.</paragraph>
+			<paragraph>Here's a brief rundown of Sense 6 UI on the HTC Desire 510.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen hasn't really changed much since Sense 5 - there's a clock with weather information and four app shortcuts. Swiping up unlocks the screen, swiping to the left gets you to your default homescreen, while swiping to the right will take you to BlinkFeed (if enabled).</paragraph>
+			<paragraph>Once you unlock the Desire 510 you're greeted by a familiar homescreen and virtual on screen buttons. Having the buttons on-screen ensures better response time and less chance of operational deterioration but also means you're effectively giving up part of your screen estate.</paragraph>
+			<paragraph>The background behind the buttons is transparent and they obediently move out the way when you're watching a video or image so it's not that bad. But some apps still haven't been optimized to work with on-screen buttons and will stubbornly leave them there and shrink back the content to fit them, which isn't ideal.</paragraph>
+			<paragraph>The leftmost homescreen pane of the Desire 510 is reserved for HTC BlinkFeed. It aggregates content from your social networks, as well as from various news sources. You can pick what topics you're interested in and BlinkFeed will automatically pull fresh content for you. You can also search for specific content. You can turn BlinkFeed off if you prefer or choose not to have as your default homescreen.</paragraph>
+			<paragraph>You get up to five homescreen panes to fill with shortcuts and widgets (the sixth is reserved for BlinkFeed). You can set any of the panes as default.</paragraph>
+			<paragraph>The notification area is business as usual - you get notifications in the default page and quick toggles in the second one. You can access the quick toggles by a tap in the upper right corner or through a two finger swipe down from the status bar.</paragraph>
+			<paragraph>The app drawer is vertically scrollable. Aside from the usual alphabetical and chronological order of apps you can also sort them in a way you see fit. The grid of apps can either be a 3 x 4 or the more sensible 4 x 4.</paragraph>
+			<paragraph>Getting to the recently-opened apps is done via the dedicated on-screen button. The interface shows a list of thumbnails for each app. You can swipe them away one by one as before or use the new close all option, thankfully. You can also get to the task manager from the recent apps screen - it shows you the currently active apps and RAM usage.</paragraph>
+			<paragraph>Wallpapers, lockscreen style, ringtones, notification sounds and alarms can be customized via a dedicated menu. This time around, the lockscreen styles cannot be changed.</paragraph>
+			<paragraph>The HTC Desire 510 also has a built-in restricted access Kids mode. It is an app that lets you set up a profile for each of your kids, with a photo and birthdate and pick which apps they can have access to.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>HTC Desire 510 is among the first devices to utilize the next generation of mid-range chipset with a 64-bit processor - the Snapdragon 410. The new chip offers a snappy quad-core Cortex-A53 CPU running at 1.2GHz, Adreno 306 GPU and 1GB of RAM.</paragraph>
+			<paragraph>We've met with plenty devices powered by the highly popular and widespread Snapdragon 400, so we are definitely eager to see the progress of its successor. As usual our first benchmark - GeekBench 3 - gauges the CPU performance. As it turns out the new Cortex-A53 cores clocked at 1.2GHz are 25% faster than the older Cortex-A7 running at the same frequency, and on par with the Cortex-A7 ticking at 1.6GHz. The 25% performance boost and the new 64-bit instruction set are definitely a worthy upgrade by our books.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu 5 is a compound test taking in consideration the on-screen GPU performance and the storage speed as well. The HTC Desire 510 is better than every Snapdragon 400 device we've tested to date, though the margin isn't that high and a part of it is certainly due to the lower FWVGA resolution compared to the qHD and HD competitors in our chart.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The cross-platform BaseMark OS II tests even more - it adds the browsing performance to the already lengthy performance equation. Somewhat surprisingly however the HTC Desire 510 is running on a lower-resolution display, a newer generation chipset and faster Android KitKat, it did quite poorly on this test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The single and multi-core CPU scores of the BaseMark OS II test are very good though - a hair better than the Cortex-A7 quad-core CPUs running at the same 1.2GHz.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Snapdragon 410 chipset comes with a minor upgrade over the GPU - it now uses the Adreno 306, which as the name suggests isn't a great deal faster than its Adreno 305 predecessor. The HTC Desire 510 has some advantage over the onscreen tests because it has a lower FWVGA resolution (just like the Sony Xperia E3), but the offscreen benchmarks will show us the real difference.</paragraph>
+			<paragraph>The HTC Desire 510 indeed did great on both T-Rex and Manhattan on-screen tests. In its own price range it was bested only by the Adreno 305 in the FWVGA Sony Xperia E3 on the T-Rex test, but the Desire 510 had the same output as the Xperia E3 on the new OpenGL 3.0 Manhattan benchmark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Unfortunately the raw performance of the Adreno 306 turned out mostly the same as its Adreno 305 predecessor judging by the offscreen tests.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The GPU intensive BaseMark X came up with a promising score for the Adreno 306 in the HTC Desire 510, better than the rest of the S400 gang but not the second generation Moto G (2014).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally we've checked the HTC Desire 510 web browser performance. The default HTC browsing app does OK on the JavaScript test, but fails to impress in the compound BrowserMark 2.1 benchmark.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>HT Desire 510 is a snappy smartphone with smooth UI navigation and performance better than the low power consumption of the chipset would make you expect. It is ready for the next generation 64-bit Android apps, where the hardware upgrade will count even more. For now the HTC Desire 510 offers a solid user experience that should be enough to please non-power-users. And it should get even better in the future once Android 5 Lollipop with its ART runtime and 64-bit apps hits it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>In the People app, you get the dialer, contacts, groups (including favorite contacts), as well as a call log. You can reorder tabs and remove the ones that you don't need (Groups or Call history).</paragraph>
+			<paragraph>Selecting a contact displays the basic details: name and photo, numbers, emails and such. That's just the first tab - the other tabs hold further details and means of communication, including email and a call log. The third one displays a contact's social networking updates.</paragraph>
+			<paragraph>Quick Contact view is available too, just tap on a contact's profile picture.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The dialer on the HTC Desire 510 combines your keypad, recent call list and contact list in one application accessible via a single icon. You switch between the view modes with side-swipes. There's smart dialing and it works as well as expected. Once you start typing on the keyboard, contacts will be filtered by name or by phone number. You can use a QWERTY keyboard for searching as well.</paragraph>
+			<paragraph>The smartphone packs a neat set of call-related tricks such as automatically silencing the ring of an incoming call just by putting the phone face down or raising the volume if the device senses it's in a pocket.</paragraph>
+			<paragraph>As for call quality we can't complain with the HTC Desire 510. The sound from the earpiece was clear and sufficiently loud and callers on the other end said we sound natural and clear.</paragraph>
+			<paragraph>The HTC Desire 510 disappointed in the speaker test. The loudspeaker sound quality is rather good, but it is among the quietest we've tested to date.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging department got you covered<subsectionTitle>
+			<paragraph>The HTC Desire 510 is capable of handling all sorts of messages - SMS, MMS, email. There's also Google Hangouts, which can connect you to Google contacts via either texts or video calls.</paragraph>
+			<paragraph>SMS and MMS messages are displayed in threads - you see a list of all conversations, each one is listed with the contact's photo, name and the subject of the last message, as well as a part of the actual message. Tapping a conversation brings up the entire message history with that contact.</paragraph>
+			<paragraph>Sense 6 intuitively lists all of your conversations in a single thread - whether you're texting the same person on a new number and then go back to the old one - it's all chronologically listed in a single thread.</paragraph>
+			<paragraph>The HTC Desire 510 comes with two email apps - the traditional Gmail app and the HTC Mail app, which merges all your email accounts into a single interface with a unified inbox.</paragraph>
+			<paragraph>The HTC email app uses a navy blue top bar and merges it with the status bar for a nice design accent.</paragraph>
+			<paragraph>As for typing, the Desire 510's on-screen keyboard offers well-spaced keys, but the overlay doesn't include any gaps between them. During use we found that this is only a cosmetic feature and poses no discomfort. The 5" display diagonal offers enough space for comfortable typing.</paragraph>
+			<paragraph>Trace keyboard is also available. You drag a finger over the desired keys and the phone predicts what you're trying to type. It works really well but language support is limited.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Zoe<subsectionTitle>
+			<paragraph>HTC Zoe is a mini social network centered on sharing photos and videos. A landmark feature is the cool Highlights videos, which are created automatically for each album.</paragraph>
+			<paragraph>HTC Sense 6 features Zoe as a standalone multimedia app, which requires you to sign in with your HTC account the first time you open it. Captured photos and videos are automatically compiled into a Zoe video highlight reel.</paragraph>
+			<paragraph>Creating a Zoe is easy. You simply choose from the available images and rearrange them in order you like. Themes and soundtracks are available in case you want to be extra creative. Once finished editing, you can easily share Zoes.</paragraph>
+			<paragraph>Zoe also allows you to collaborate with friends on the same project. You can send requests and combine your media content into the same Zoe. Keep in mind that the app doesn't work in all regions.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Beautiful Gallery<subsectionTitle>
+			<paragraph>The regular image gallery stacks photos together in albums, which can be organized by the date they were captured or the source they come from. Location-based sorting is also available.</paragraph>
+			<paragraph>As usual, there is an array of available options at your disposal. You can edit, share, highlight, and delete images. You can also set them as backgrounds, assign them to contacts, add them to a specific album, or print them.</paragraph>
+			<paragraph>Once you open an album, the first and biggest thumbnail is reserved for slideshows. Once you tap it you can customize if you want an effect added over the photos and what sort of music you would like to play.</paragraph>
+			<paragraph>The gallery also comes with integrated capable image editor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player is part of the Gallery<subsectionTitle>
+			<paragraph>The video player on the HTC Desire 510 has a rather simple interface. There isn't a dedicated app - you just pick a video from the gallery.</paragraph>
+			<paragraph>You get a Play/Pause button and a slider to scrub through the video, a button to capture images from the video, volume slider, and sharing options. All of these hide automatically after a few seconds.</paragraph>
+			<paragraph>The HTC Desire 510 managed to play most of the files we threw at it and had issues only with FLV, MOV, XVID and DIVX, plus MKV files. The AC-3 audio codec is a no-go though and some older XVID files turned out incompatible as well.</paragraph>
+			<paragraph>Subtitles were also not supported, with no options to enable them nor did they automatically playback if in the same folder as the video file.</paragraph>
+			<paragraph>You can always go to the Google Play store and download a more capable video app for free.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great music player<subsectionTitle>
+			<paragraph>The HTC Sense 6 music player features a similar layout as the one in the previous version. The flattened interface design however makes the setup look fresh.</paragraph>
+			<paragraph>Your music library is organized by Artist, Album, Songs, Playlists, Genres, Podcasts or Folders (we don't see this last option very often). The phone will also easily stream songs over DLNA.</paragraph>
+			<paragraph>The music player can automatically look for and download Album art and artist photos (you can limit it to Wi-Fi connections only), and search for lyrics.</paragraph>
+			<paragraph>There are no equalizers on board.</paragraph>
+			<paragraph>The FM Radio is aboard with RDS support. It automatically saves available stations and has one of the simplest interfaces we've seen. There are play controls - play, stop, skip and a loudspeaker option.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Class-leading audio output<subsectionTitle>
+			<paragraph>The HTC Desire 510 is easily the best performing audio device in its price range. And that fact that this isn't even much news speaks volumes about its manufacturer.</paragraph>
+			<paragraph>The smartphone had excellent readings top to bottom when used with an active external amplifier. Add the very high volume levels and you get an output even a flagship would be proud of.</paragraph>
+			<paragraph>Plugging in a pair of headphones causes a very modest increase in stereo crosstalk, meaning the output is still miles ahead of the competition and better than quite a few flagships. Good job HTC!</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> HTC Desire 510 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Uninspiring 5MP camera<subsectionTitle>
+			<paragraph>HTC Desire 510 sports a 5MP camera sensor with fixed focus, which means close up shots are definitely a no-go. There is no LED flash to accompany the camera lens either, so the low-light photos are out of the question as well. The camera is capable of HDR shots though, but our unit crashed every time we tried to snap one.</paragraph>
+			<paragraph>The camera UI is fairly simple and is basically a trimmed down version of what the One series offers. The available modes are Camera, Video and Selfie - there is no panorama option.</paragraph>
+			<paragraph>The image quality is rather mediocre, but that's to be expected. The resolved detail is low, the dynamic range is limited, but on a positive note - the color reproduction and the contrast are very good. The samples will do for occasional sharing in social networks, but that's just about all there's it to them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC Desire 510 photo quality comparison<subsectionTitle>
+			<paragraph>Here's the HTC Desire 510 in our photo quality comparison tool. It's designed to allow you the ultimate pixel-peeping experience and the option to challenge the smartphone to any of the many tested shooters we've had. Unfortunately the 5MP fixed focus camera on the Desire 510 is behind the rest of the 5MP shooters.</paragraph>
+			<paragraph>   HTC Desire 510 in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video recording<subsectionTitle>
+			<paragraph>The HTC Desire 510 offers 1080p videos at 30fps, though there's also a 60fps mode for 720p videos. The camcorder UI is similar to the still camera's.</paragraph>
+			<paragraph>The 1080p videos default at 30fps, and carry a bitrate of 20 Mbps. Framerate was a constant 30fps throughout the video. Audio bitrate sits high up with 192 Kbps and offers stereo channels and has a regular sampling rate of 48 kHz.</paragraph>
+			<paragraph>The 1080p@30fps and 720p@60fps videos of the HTC Desire 510 came out with the same quality as the still images - detail and dynamic range are low, but the color rendering and contrast are good enough.</paragraph>
+			<paragraph>Here is a 1080p video sample we've uploaded on YouTube for you.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And here is another sample shot at 720p@60fps.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download the untouched 1080p@30fps and 720p@60fps samples.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>In the video comparison tool you can face the HTC Desire 510 off against any of the any camcorders we've tested over the years.</paragraph>
+			<paragraph>   HTC Desire 510 in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Web browsers<subsectionTitle>
+			<paragraph>The HTC Desire 510 comes with a Sense-ified version of the stock Android browser and Chrome out of box. The stock browser packs the usual features: Incognito tabs, Find in page and Desktop view. GIF animation can be enabled from the settings, but there is no Flash support.</paragraph>
+			<paragraph>Besides the usual bookmarks, you can keep a Reading list of pages to read later and a Watch list of videos. Pages are saved on-device so they can be read offline, but videos are not. The Watch list feature works on sites like YouTube and Vimeo. It detects multiple videos per page (so you can add them all) and when you're ready, you can check them out without any distractions from the page they were on.</paragraph>
+			<paragraph>Google Chrome is becoming the most popular mobile browser and should be fairly familiar. It has some advantages over its vanilla-flavored buddy, including switching between tabs with a wide swipe from either the left or right of the top bar.</paragraph>
+			<paragraph>Chrome has Incognito tabs, too. Speaking of tabs, it can sync what you have open on other devices (desktop, tablets) with the phone. This feature also syncs your bookmarks and favorite sites and can remember passwords and login data.</paragraph>
+			<paragraph>The Reduce data usage option sends web pages to be compressed on Google's web servers before loading them on the device to save data and speed up slow connections. This doesn't work for SSL-protected pages and Incognito tabs for privacy reasons.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The Tasks app is HTC's way of letting you organize your time. It can handle multiple separate lists of tasks and syncs with your Google account. Each task can have a due date and a location associated with it. Map view lets you easily find nearby tasks, though we would have loved a "Navigate to" button here.</paragraph>
+			<paragraph>The Alarm clock application can handle multiple alarms, each with its own start and repeat time. The stopwatch and timer are self-explanatory. There's also a Calculator and Calendar apps.</paragraph>
+			<paragraph>HTC Backup can do manual or scheduled backups of your apps, messages (texts and emails), contacts and accounts (mail and social). The data is sent either to Google Drive or Dropbox and you can limit the app to transfer over Wi-Fi only.</paragraph>
+			<paragraph>Google Now integrates with your Google account and can access your daily routine, internet searches, email, etc. and give you information relevant to your interests and daily needs.</paragraph>
+			<paragraph>It provides traffic information to your work or home, knows the scores of sports teams you follow and gives you the weather forecast for your location. It's great for at-a-glance info, but can handle voice Google searches as well. It also has a dedicated homescreen/lockscreen widget.</paragraph>
+			<paragraph>HTC's Weather app can give you weather information for your location and others. It looks great and gives you an animated representation of the weather conditions as well as a multiple-day forecast. Weather information is sourced from AccuWeather.</paragraph>
+			<paragraph>The HTC Guide app is an excellent app for beginners. It contains tips and help, troubleshooting info and a display of the vital phone stats the support call center might ask you about. The Phone health option offers some self-help tools like running diagnostic on individual components (speakers, backlight, buttons).</paragraph>
+			<paragraph>The app will also help you manage the storage with a handy option to clean unwanted files and trackers for call minutes, texts and data plan megabytes.</paragraph>
+			<paragraph>Google Maps is the default navigation app, but it's most useful when you use it while you are online. It allows you to download offline maps of an area and even plan routes without a data connection but you can't search for addresses or POIs without an internet connection.</paragraph>
+			<paragraph>On the positive side, it can plan driving, public transport, cycling and walking routes. It can also display pretty accurate traffic alerts as well (though it doesn't always take them into account when routing you).</paragraph>
+			<paragraph>Another great support tool is Android Device Manager. It's available for all Android devices linked to your Google account. It can help you find your misplaced HTC Desire 510 by ringing it and if it's not at the house, by finding it on the map. If it's stolen, you also have the option to lock the device and delete all data (so make sure you have HTC Backup set up to work automatically so you don't lose your data). You have to enable the remote locking initially via the preinstalled Google Settings app on your smartphone.</paragraph>
+			<paragraph>And finally, Google's Play store hardly needs any description. It the biggest catalog of apps and also features movies, TV, music and even devices but those services are dependent on your country. Opening the store brings you highlighted apps based on recommendations and your usage. There are categories, ranked apps and more.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings:<subsectionTitle>
+			<paragraph>Solid build, not too compact, finish feels nice and grippy</paragraph>
+			<paragraph>Display is has good contrast, passable viewing angles and low resolution for the size</paragraph>
+			<paragraph>High screen reflectivity causes quick contrast degradation indoors, poor legibility oudoors.</paragraph>
+			<paragraph>Battery life is very good</paragraph>
+			<paragraph>Connectivity has pretty much everything you need, including LTE</paragraph>
+			<paragraph>The phone readily responds and performance is hiccup-free, Android and Sense are up to date</paragraph>
+			<paragraph>Average benchmarking, par for the price range</paragraph>
+			<paragraph>One of the quietest loudspeakers around, really disappointing</paragraph>
+			<paragraph>Good media package, patchy video codec support</paragraph>
+			<paragraph>Low end still camera, inadequate video quality</paragraph>
+			<paragraph>Audio output is very good</paragraph>
+			<paragraph>Rich software package with HTC Zoe, HTC Tasks, HTC Backup, HTC Guide, among others</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The HTC Desire 510 is the kind of phone that's likely to be in high demand for a good while. Perhaps not the device itself, which will soon start dealing with growing competition, but the very concept of an affordable phone with the fastest network data will make more and more sense as 4G networks extend to even the emerging markets.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>That said, the new generation Snapdragon 410 chipset powering the Desire 510 is the big piece of news but for the less obvious reason. With the greater eco-system yet to start switching to 64-bit processing. It's the inbuilt LTE modem that's giving Qualcomm an edge against their competition. No wonder they've put LTE in the S210 as well - clearly a challenge to Mediatek.</paragraph>
+			<paragraph>Overall, 64-bit processing will have little to no immediate benefits for the Desire 510 and its users. Still, the future-proofing is there and the new core architecture does bring about a boost in performance and power efficiency.</paragraph>
+			<paragraph>Back to what we're all here about though - the HTC Desire 510 and what it can do for you, here and now.</paragraph>
+			<paragraph>The low resolution screen and fixed-focus camera are the flipside to the blazing-fast LTE Cat.4 and the up-to-date combo of Android KitKat and HTC Sense 6.0. To the casual observer, they may seem like cancelling each other out but we think the right customers are given a choice. If you're after the Desire 510 for its LTE support and low price, the camera is probably not essential. At least, this may've been HTC's reasoning for downgrading the Desire 500's 8MP camera - while upgrading the video recording.</paragraph>
+			<paragraph> HTC Desire 500</paragraph>
+			<paragraph>As for the screen fidelity, very few competitors can do better and the most prominent of them is a proper best-seller. The LTE-capable Motorola Moto G 4G has a 4.5" IPS display of 720p resolution for the clearly superior 329ppi. It's powered by a Snapdragon 400 chipset and has a better 5MP camera, and costs about the same as a Desire 510. The Moto G phones are in queue to get Lollipop.</paragraph>
+			<paragraph> Motorola Moto G 4G</paragraph>
+			<paragraph>While we guess the Desire 510 and the Moto G 4G will rarely be vying for the same customers on the same markets, there's a more likely rival in the recently reviewed Sony Xperia E3. It costs only a tad less than the Desire 510 and is powered by the older S400 chipset. Sony's cheapest LTE phone offers an auto-focus camera with a LED flash and an extra solid battery in a slimmer body.</paragraph>
+			<paragraph> Sony Xperia E3</paragraph>
+			<paragraph>The Samsung Galaxy Grand Prime is a near perfect match for the HTC Desire 510 with a Snapdragon 410 chipset. It has a 5" display of slightly higher resolution at 540 x 960px, which boils down to the same ppi though. The Samsung has a definite edge in the imaging department with an 8MP main camera and a 5MP front facer. There's a bigger battery too, in a slimmer 8.6mm profile. The Grand Prime is powered by the S410 version that comes without an LTE modem in favor of dual-SIM support.</paragraph>
+			<paragraph> Samsung Galaxy Grand Prime</paragraph>
+			<paragraph>The Nokia Lumia 635 is a much cheaper option boasting a 4.5" IPS display of FWVGA resolution, a Snapdragon 400 chipset and a capable 5MP auto-focus camera. It comes with LTE support, alongside valuable extras such as a free Office package and offline voice-guided navigation.</paragraph>
+			<paragraph>  Nokia Lumia 635 ? Nokia Lumia 630 Dual SIM</paragraph>
+			<paragraph>To recap, while the HTC Desire 510 could've been slimmer and at least a little more compact, we like the build and the feel of the handset, its sensible design and nice grip.</paragraph>
+			<paragraph>The 4.7" display has good contrast, but mediocre reflectivity ruins it as soon as you leave the bed and the resolution is a compromise but obviously carefully considered against the cost and the competition. The HTC Desire 510's battery backup turned out more than reasonable and the overall user experience was pleasing, with HTC Sense 6.0 UI running atop snappy Android KitKat. Overall, an adequate package for the price if you don't care about the camera.</paragraph>
+		</subsection>
+	</page>
+</review>

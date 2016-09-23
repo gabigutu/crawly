@@ -1,0 +1,58 @@
+<review>
+	<title>Samsung Galaxy Note hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_note-review-648.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>*****This article is outdated. We have a more through preview. Click here to read it.*****</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note is a player in a game of numbers - and it's drawing higher numbers than the competition. Starting with the 5.3" 1280x800 pixels SuperAMOLED screen on the outside and all the way to the beefed up Exynos chipset inside with two 1.4GHz cores, the Galaxy Note has +1 on all its specs.</paragraph>
+			<paragraph>This is hardly where the numbers end, here are a few more - 285ppi for the screen, 9.65mm thick, 8MP still camera, 1080p video camera, 2,500 mAh battery. It's either a Galaxy S II on steroids or a smaller Galaxy Tab 7.7. Whichever way you look at it, the Galaxy Note is an impressive piece of kit.</paragraph>
+			<paragraph>On top of that (or rather, on the bottom) we have the S Pen, an active stylus, which can be used to jot down notes, control the S Planner organizer and more. The stylus slides into the body, which means it's always around when you need it.</paragraph>
+			<paragraph>We haven?t had enough time with the Note - it literally arrived in our office a couple of hours ago - but enough for a quick hands-on. These are our initial impressions of the hardware and the camera. We've thrown in a bonus user interface video, so enjoy.</paragraph>
+			<paragraph>This test unit was kindly provided by CT MIAMI, a Samsung distributor for Latin America. The Galaxy Note will be available at CT MIAMI for wholesale customers on October 24 for $699.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note is big, no question about that. But it's about as small as possible with a 5.3" screen. There's very little bezel on the left and right of the screen (enough to let you hold it without pressing anything) and not much above and below the screen either - enough room for buttons, earpiece and so on but no more.</paragraph>
+			<paragraph>It's fairly thin at 9.7mm but what surprised us the most is just how light it felt - the Galaxy Note weighs 178g, but spread over such a big device, it felt very light.</paragraph>
+			<paragraph>It's not the most comfortable of gadgets to hold in one hand, but it's not that bad either. And holding it with two hands is spot on for two-thumb typing. The patterned back cover and the curved edges also helped give a positive hands-on feel to the Note.</paragraph>
+			<paragraph>The screen merits a deeper examination, but here are the first impressions we got from it. First off, having a 5.3" SuperAMOLED is pretty cool. Graphics are smooth and you have to look close to see the PenTile matrix.</paragraph>
+			<paragraph>Viewing angles and color rendering of the Samsung Galaxy Note are brilliant but the screen felt dim - noticeably dimmer than the Galaxy S II screen. We'll have to break out the measuring tools and investigate further to give a final verdict.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Interface on video<subsectionTitle>
+			<paragraph>For this hands-on, we won't be spending much time on the software side of things. It's a TouchWiz interface, sure, but we'd like to take more time to see all the differences and how the S Pen affects the experience.</paragraph>
+			<paragraph>For now, here's a video demoing the Samsung Galaxy Note interface:.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also head over to our blog to see how well the updated Exynos chipset scores on our usual suite of benchmarks.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>8MP/FullHD camera<subsectionTitle>
+			<paragraph>It's no surprise that the Samsung Galaxy Note uses the same camera interface as the Galaxy S II - it probably uses the same camera module too.</paragraph>
+			<paragraph>The interface is one of the most comfortable ones we?ve seen - the left column can be customized with your choice of shortcuts, while the right column holds the essentials (still/video switch, shutter key and preview of the last snapped photo).</paragraph>
+			<paragraph>The Galaxy Note features a pretty full set of options - face, smile and blink detection, image stabilization, geo-tagging, scenes and more.</paragraph>
+			<paragraph>As for the image quality, it's very similar to that of the Galaxy S II but the software could use a bit more tuning (the Galaxy Note we're testing isn't a final retail unit). Still, noise levels are kept low and the amount of captured detail is very good.</paragraph>
+			<paragraph>We spotted some issues but we'll wait for the final version of the software before we pass our judgment. Still, the Samsung Galaxy Note is shaping up as one of the best 8MP cameraphones around.</paragraph>
+			<paragraph>The videos captured with the Galaxy Note are equally impressive. The FullHD videos are shot at a bitrate of 17Mbps and that keeps a lot of fine detail in the shot, while providing smooth 30 frames per second.</paragraph>
+			<paragraph>Same goes for the 720p videos. The Note however retains some of the issues of the Galaxy S II. 1080p videos have much narrower field of view compared to 720p ones and there's the autofocus, which annoyingly hunts front and back in the first second of video (instead of doing it before it starts recording).</paragraph>
+			<paragraph>Check out the 1080p and 720p video samples we've uploaded to YouTube. Don't forget to chose 1080p and hit fullscreen.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note is the device we all wish we had: a huge high-res screen, plenty of processing power, and a great camera.</paragraph>
+			<paragraph>But as far as portability goes, the Note is closer to a 7" tablet than a phone. You could carry it around, but it won't feel comfortable in your jeans or shirt pocket. You could even use it as a phone, but it's not great, ergonomically speaking.</paragraph>
+			<paragraph>Still, the screen is one of the most impressive things we've seen this side of the Galaxy Tab 7.7 and the Exynos chipset gives you performance as high as smartphones and tablets have gotten to date (well, not counting Intel-based tablets of course).</paragraph>
+			<paragraph>We'll be starting on a preview for the Samsung Galaxy Note now - there's still a lot of things we haven?t checked yet (we're particularly interested to see if the stylus can make a comeback) and we have to get a closer look at the screen, camera and the rest.</paragraph>
+		</subsection>
+	</page>
+</review>

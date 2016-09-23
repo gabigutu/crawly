@@ -1,0 +1,105 @@
+<review>
+	<title>Motorola MILESTONE preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/motorola_milestone-review-434.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Motorola must have enjoyed the feel of ropes against their back. There's no other explanation for the MILESTONE. They obviously needed to be pushed against the ropes to remember what made them the world's largest manufacturer. It's been a long road for them, with plenty of milestones. But that last one marks the end of a particularly steep downhill stretch.</paragraph>
+			<paragraph>We haven't seen an Android phone generate so much hype since... the first one, the T-Mobile G1. The Motorola MILESTONE seems to be the powerhouse that the Android family needed and obviously many customers were looking forward to.</paragraph>
+			<paragraph>Here's what we mean.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Motorola MILESTONE at a glance:<subsectionTitle>
+			<paragraph>The first Android 2.0 handset oozes with power. It's a milestone for Motorola, but perhaps for Android too: we're certainly looking at the most complete all-round device to ever do the droid walk. Given the huge potential of the platform, it's no wonder Motorola and the MILESTONE are enjoying this kind of interest.</paragraph>
+			<paragraph>Yet, there are quite a few new droids waiting around the corner so being the best is one thing but staying the best takes quite a push. There is little evidence to suggest that Motorola will come up with a successor any time soon, so the MILESTONE better open a gap on competitors or it won't be in the same league as the handsets to come in the first half of next year. The company's future is more or less hinging on the MILESTONE and it's as simple a case of make or break as it gets. And the handset's first weeks of sales bode well.</paragraph>
+			<paragraph>We are already working on a detailed review of the Motorola MILESTONE, but until it is ready we will give you a short preview to keep you warm through the holidays. It might be useful if you are considering getting one any moment now.</paragraph>
+			<paragraph>Prepare to meet the Motorola MILESTONE in its full might right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Motorola MILESTONE 360-degree spin<subsectionTitle>
+			<paragraph>You can't possibly expect a device with a side-sliding QWERTY keyboard and a 3.7" screen to be small. The MILESTONE, standing at 115.8 x 60 x 13.7 mm, is about as compact as such a package will get, the relatively slim waistline a nice little bonus.</paragraph>
+			<paragraph>The metal construction and the host of features also take their toll to bring the weight all the way up to 165 g. We aren't complaining when increased weight results in a solid feel and likely durability, and the case here is exactly that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The design of the Motorola MILESTONE has its ups and downs but the overall impression is solid. The metallic chassis is strong and confident, and the rubbery rear is a thoughtful decision on a device that does need a secure grip. Of course, the large and impressive screen also contributes to the phone's appeal.</paragraph>
+			<paragraph>The chin that forms below the display when the slider is closed looks nice - possibly a nod to the G1 proto-Android - but is not really logical. It does make access to the main on-screen controls a bit harder.</paragraph>
+			<paragraph>The 3.7-inch display dominates the MILESTONE front when the slider is closed. The capacitive touchscreen has the highest resolution currently available on the market - 854 x 480 pixels. Its image quality is also great with deep blacks (although no AMOLED deep) and high maximum brightness.</paragraph>
+			<paragraph>Since the Motorola MILESTONE is the first handset to run on the Android 2.0, it enjoys 16M-color support and no color banding issues. The 65K-color limitation is taking some of the fun out of the other Android displays (the XPERIA X10 probably having the most to lose) and it's good that the Open Handset Alliance solved that issue.</paragraph>
+			<paragraph>The sensitivity of the display is top notch but that is to be expected in a capacitive unit. Since there is no need to apply pressure, even the lightest of touches from your (bare!) fingers will do. Gloves and long nails are a no-go with the MILESTONE but that is the price you usually have to pay to get this kind of touchscreen experience.</paragraph>
+			<paragraph>We are also quite pleased with the sunlight legibility of the MILESTONE. It's enjoying near iPhone-grade levels and usability out in the open is top notch.</paragraph>
+			<paragraph>Below the display are the four touch-sensitive controls, typical for the Android platform. The four keys are Back, Menu, Home and Search. They're haptic enabled and very sensitive, so the transition to and from the touchscreen is seamless.</paragraph>
+			<paragraph>The left side of the Motorola MILESTONE is pretty bare the microUSB port being the only element here.</paragraph>
+			<paragraph>The right panel has the camera key and the volume rocker. The camera key is perfect in size and tactility but the volume rocker is a bit too flat and hard to press. This is not something to worry about considering that it isn't the most frequently used control anyway.</paragraph>
+			<paragraph>Jumping to the top we find the power/screen lock key and the 3.5mm audio jack.</paragraph>
+			<paragraph>Opening the slider reveals the four-row QWERTY keyboard and the D-pad. Having a D-pad here and a Menu key means that in most scenarios you can operate the device even without the touchscreen.</paragraph>
+			<paragraph>The keyboard itself is really comfortable with the keys large and tactile enough to allow quite quick typing. Frankly, we feel it would have been even better without the D-pad but there is a decent amount of space anyway.</paragraph>
+			<paragraph>The inconvenience rendered by the only-four-row layout is that each key needs to accommodate two different characters. Yet, with the two available Alt keys, there's always one right under a finger so it's no biggie.</paragraph>
+			<paragraph>The back of the Motorola MILESTONE features the 5 megapixel camera lens and the dual-LED flash. The loudspeaker grill is also here, right below the battery cover.</paragraph>
+			<paragraph>Opening the cover reveals the 1400 mAh Li-Ion BP6X battery. Quoted at 350 hours of standby time or 6 hours and a half of talk time it certainly sounds like a decent performer. We will have to spend a bit more time with the handset to comment on its real-life performance though.</paragraph>
+			<paragraph>The microSD card slot is also here but unfortunatelly it isn't hot-swappable. That means that you will have to power off your MILESTONE each time you change cards. On the positive side it has no trouble handling 16GB cards, which are the largest currently available on the market.</paragraph>
+			<paragraph>The general build quality of the Motorola MILESTONE is excellent and the handset's body looks quite durable. The abundance of metal certainly conveys the feeling that the device is built to last.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Motorola MILESTONE is the first device to ship with the new 2.0 version of the Android OS. As such it has the great chance to offer quite a few software advantages over its market rivals. The 2.0 update will eventually make its way to more devices of course but time works in MILESTONE's favor right now.</paragraph>
+			<paragraph>The new version of the "Google OS" brings many new features and a whole new set of APIs to allow even more useful apps to flood the Google Market. We chose to cover in depth the web browser and the camera in this preview.</paragraph>
+			<paragraph>The other improved features are messaging, the phonebook and calendar, as well as the virtual keyboard but we will leave those for our upcoming full review.</paragraph>
+			<paragraph>So, the new OS might bring new features but the general user interface hasn't seen any major changes. The MotoBLUR interface that was developed for the Motorola CLIQ (or DEXT if you prefer) is nowehere to be seen here but perhaps it will be adapted and ported in a future software update.</paragraph>
+			<paragraph>The homescreen is the cornerstone of the Android UI. Giving you three screen panes worth of space (by default), it helps you put up front all the items you need most. And there are plenty of things that can go up there. You have shortcuts to applications of your choice, then folders and finally, widgets.</paragraph>
+			<paragraph>In case the default homescreen is not much to your liking there are already several alternatives available at the Google Market. They each give you a few different organizing options and a bigger number of screens.</paragraph>
+			<paragraph>There are three new preinstalled widgets that come with the Android v2.0 - a corporate calendar (the one synced with your Exchange account), the Weather widget and the Power control widget (a handy connectivity manger for your desktop). The power control was known as Switchers on the Galaxy so it's not really new but they added a display backlighting control to it so it counts here.</paragraph>
+			<paragraph>The traditional search widget got an update too and now shows suggestions as you type, just like the Google homepage. It searches local files or gives you a shortcut to initiate a web search, which is a really comfortable solution. You can also make use of voice searches just like with the Google's own iPhone app.</paragraph>
+			<paragraph>Already feeling quite snappy on the 528 MHz Qualcomm CPUs, Android works like a charm on the Cortex-A8 processor of the MILESTONE. The developers did a really good job of solving the performance issues on all devices since ver. 1.5 but now that they have more powerful hardware at hand things feel even better.</paragraph>
+			<paragraph>We have prepared a short video demo of the Motorola MILESTONE so you can see that for yourselves.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser rocks<subsectionTitle>
+			<paragraph>With such an ample high-res screen and a full QWERTY keyboard, the Motorola MILESTONE looks like the logical choice for people who take handheld browsing seriously. The Multi-touch support allows the pinch zoom, while the great Android Webkit-based browser provides one of the coolest interfaces in business.</paragraph>
+			<paragraph>Android 2.0 also introduces the double tap zooming pattern whereby double-clicking on a selected part of a web page quickly zooms in on it to fill the screen. Regardless whether you use this option or the pinching gesture zooming is smooth and fluid and so is panning.</paragraph>
+			<paragraph>Another new feature is the address bar, which is now constantly available so typing a new address is easier than ever. With the high resolution there is still plenty of space available for the website contents to be displayed.</paragraph>
+			<paragraph>The final new feature brought by the new OS version is bookmark enhancement with page thumbnails.</paragraph>
+			<paragraph>The excellent multi-page support is of course still available and the rendering algorithm is basically flawless. If it wasn't for the missing flash support, the MILESTONE could have easily challenged the best mobile web browsers. Yet, this major problem makes the Motorola a no-go for people that frequent flash websites.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Very decent 5 megapixel camera<subsectionTitle>
+			<paragraph>As we already told you, we decided to include this one because Android 2.0 adds quite a lot of camera features. Honestly, it wasn't really hard as previous Android versions simply didn't offer users any customizable camera options.</paragraph>
+			<paragraph>The new stuff includes built-in flash support (apparently the Samsung Galaxy made use of some home-brewed drivers to go around that limitation), digital zoom, scene mode, white balance, color effects and macro focus mode.</paragraph>
+			<paragraph>No, it doesn't seem much: other companies have had those in their cameraphones for ages but for the Android community this is a huge step forward. Rome wasn't built in a day after all.</paragraph>
+			<paragraph>On the hardware side of things Motorola MILESTONE has a 5 megapixel camera module for a maximum image resolution of 2592 x 1936 pixels and dual-LED flash. We can hear all those Satio fans giggling back there but in the Android world it doesn't get any better than that.</paragraph>
+			<paragraph>And it took quite some time for the nearly nonexistent customizable options to find their way in.</paragraph>
+			<paragraph>The user interface is pretty decent, although not really perfect. You have all the options on a retractable tray at the left side of the viewfinder which can either be dragged out by a finger sweep or by pressing the menu key. With so few options at hand we don't see why most of them aren't available as onscreen shortcuts to begin with.</paragraph>
+			<paragraph>Instead the only things that are accessible all the time on screen is a switch for alternating the camcorder and the still camera, a virtual shutter key and a shortcut to the gallery docked bottom right.</paragraph>
+			<paragraph>Anyways, when it comes to the actual product of the Motorola MILESTONE camera - the photos - we're quite pleased with the image quality. There's plenty of resolved detail, the colors are also nicely saturated and the images are quite punchy.</paragraph>
+			<paragraph>On the other hand there is quite a lot of noise and some oversharpening artifacts. Even though there's some aggressive noise reduction smearing fine detail away there are still patches where the chromatic noise is excessive. The jaggedness edges in some cases also indicate that Motorola still have some work to do before they catch up with the best in business.</paragraph>
+			<paragraph>And here go the samples for you to enjoy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image gallery<subsectionTitle>
+			<paragraph>The Android 2.0 also brings a new gallery to the Motorola MILESTONE. It brings in a new view mode, which we find rather attractive.</paragraph>
+			<paragraph>Of course the gallery supports gesture controls like changing images or panning with finger swipes. Naturally you can altenate images without having to return to the default view. Just swipe to the left ot to the right when looking at a photo in fullscreen mode and the previous/next image will appear.</paragraph>
+			<paragraph>The pinch-zooming is also available here thanks to the MILESTONE multi-touch support. There is no double tap zooming however.</paragraph>
+			<paragraph>A strange bug of the gallery we noticed is its inability to zoom to 100% for some unknown reason. That can make you think that you photos lack detail when you look at them on the handset but transfering them to a computer reveals the truth. You don't see the real image in the gallery but a downsized version instead.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>Video recording on the MILESTONE is also at the top of the Android food chain. D1 resolution (720 x 480 pixels) at 30 fps is where its capabilities end and we doubt its users will need much more.</paragraph>
+			<paragraph>The interface of the camcorder is similar to the one of the still camera, except that there are even fewer settings. You can set the video quality, the maximum duration of the clip, adjust white balance, apply color effects and that's that.</paragraph>
+			<paragraph>Videos are recorded in 3gp format which suggests lower bitrate, which in turn leads to some compression artifacts. On the other hand, colors are really pleasing and the videos do look nice.</paragraph>
+			<paragraph>Here is a sample video to check out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>You won?t call it love at first sight when a device of this bulk is involved but we really liked handling the Motorola MILESTONE. The handset was quick to grab our attention and performance didn?t let us down so its prospects seem pretty good. From the interface looks and response to build quality, the Milestone behaves admirably and is sure to make many users happy.</paragraph>
+			<paragraph>Hopping on the Android bandwagon might have looked like Motorola catching one of the last trains out of Loser station. But in fact there?s nothing about the MILESTONE to suggest a rushed and sloppy job. It is easily the most feature-packed Android we?ve laid our hands on and if the good impressions last after the full review, we don?t see why that last minute ticket can?t be their winning one.</paragraph>
+		</subsection>
+	</page>
+</review>

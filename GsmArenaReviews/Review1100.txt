@@ -1,0 +1,73 @@
+<review>
+	<title>Asus Padfone 2 hands-on</title>
+	<description>A different transformer</description>
+	<link>http://www.gsmarena.com/asus_padfone_2_event-review-832.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>Asus just announced their new Padfone in Milan and we were on the scene to cover it live. The Asus Padfone 2 is an Android phone with the rather unique ability to become the heart of a tablet, just like the original Padfone.</paragraph>
+			<paragraph>The specs have been upped and the new Padfone can go toe to toe with the best upcoming droid flagships. It has a 4.7" 720p Super IPS+ LCD screen, 13MP camera and a Qualcomm Snapdragon S4 Pro APQ8064 - you know, the one with the quad-core Krait processor and Adreno 320 GPU.</paragraph>
+			<paragraph>If you're thinking that this would make it one of the most powerful tablets around too, you'd be right. Just how does the Asus Padfone 2 turn into a tablet? With the tablet accessory, of course, called Padfone Station.</paragraph>
+			<paragraph>The tablet adds the two key ingredients that separate the Padfone from tablets - a big screen and a big battery. You get a 10.1" WXGA IPS screen and a 5,000mAh battery (in addition to the 2,140mAh battery in the phone itself). That's a bit less than the original, which had a 6,600mAh battery in the tablet.</paragraph>
+			<paragraph>Still, there's an upside - the phone + tablet combo weighs only 649g (the Padfone 2 is responsible for 135g of the total weight).</paragraph>
+			<paragraph>The Padfone Station doesn't contribute much else, but the Padfone 2 has enough features for the both of them, including Android 4.0 Ice Cream Sandwich (JB coming soon), LTE, NFC and 720p video capture at 60fps.</paragraph>
+			<paragraph>Jump over to the next page for our hands-on impressions of the Padfone 2. On the page after that are some benchmarks and camera samples too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Padfone 2 hands-on<subsectionTitle>
+			<paragraph>The Super IPS+ display offers excellent image quality and great viewing angles too. The display is 4.7" in diagonal, which combined with its 720p resolution makes for a sharp 312ppi pixel density.</paragraph>
+			<paragraph>Asus decided to use standard capacitive keys on the front (Back, Home and Task switcher), instead of going the on-screen route.</paragraph>
+			<paragraph>Here's the Padfone 2 next to a Galaxy S III. It looks like the Asus phone has the advantage in screen brightness, which was to be expected as its display is officially rated at 550 nits.</paragraph>
+			<paragraph>We like the back of the Asus Padfone 2 - it feels good to the touch and provides plenty of grip. The handset and accompanying tablet will be available in black and white.</paragraph>
+			<paragraph>Anyway, the back is home to the 13MP camera. It can do burst mode like many other current high-enders but beats them at speed - 6fps for up to 100 shots. The video capture is fast too - at max resolution (1080p) it does the usual 30fps, but if you go down to 720p, the Padfone can record at 60fps framerate.</paragraph>
+			<paragraph>Also on the back is the loudspeaker. It was demoed on stage using a microphone, but now that we've heard it with our own ears, we have to say it sounds pretty good.</paragraph>
+			<paragraph>The Asus Padfone 2 uses microSIM cards, which are placed on a tray (and you need a SIM ejector tool to open it).</paragraph>
+			<paragraph>To turn the Padfone 2 into a tablet, you slide it into the back of the Padfone Station. There are rubbery teeth that hold the handset securely, so you don't have to worry about it slipping out. The phone's main camera will serve as the tablet's camera and the 3.5mm audio jack is accessible from the top.</paragraph>
+			<paragraph>Here's a closer look at the dock on the back of the Padfone Station.</paragraph>
+			<paragraph>The whole setup feels very light - lighter than we expected (and as light as the current iPad).</paragraph>
+			<paragraph>The tablet has a 10.1" screen with WXGA resolution (1280x800), which uses IPS technology and its viewing angles are very good (for a tablet, not quite as good as the phone's screen). The biggest problem we had with the tablet's screen is that it's quite reflective.</paragraph>
+			<paragraph>The Padfone 2's front-facing camera gets obscured when you dock it, but the Padfone Station has its own front-facing camera, so you can still do video calls.</paragraph>
+			<paragraph>The Asus Padfone 2 will have a keyboard accessory too, which will likely become available at the same time as the phone. Asus representatives on the spot weren't sure if it will be compatible with the old docks.</paragraph>
+			<paragraph>By the way, the Station packs a 5,000mAh battery inside it, which triples the battery life numbers of the phone itself.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>We snapped a few camera samples with the Asus Padfone 2 and while the lighting conditions weren't perfect and we didn't have time to get things just right (there were many people waiting their turn to test the Padfone 2), the 13MP shots are still interesting.</paragraph>
+			<paragraph>We also tried out the burst shot mode and it is indeed impressively fast. You press and hold the virtual shutter key and the phone will keep snapping photos until you release it. After, you can pick which shots you want to keep or just hit save all and review them later.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Asus Padfone 2 packs one of the most powerful ARM chipset available at the moment. With four Krait CPU cores clocked at 1.5GHz, 2GB of RAM and an Adreno 320, there's little that can stand in its way. The OS version is a bit of a letdown - Android 4.0.4 Ice Cream Sandwich - but Asus is working on an update. We expect to see a jump in performance after the update (especially from the web browser) and as usual, keep in mind that the Padfone 2 we tested might not run the final version of the software.</paragraph>
+			<paragraph>Even so, the Asus Padfone 2 aced the Benchmark Pi and Linpack tests, beating the LG Optimus G, which uses the same chipset and runs 4.1 Jelly Bean already.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Padfone 2 scored pretty well in AnTuTu, especially considering that the benchmark isn't very kind to the S4 Pro chipset for some reason (it puts the Optimus G at the bottom).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We also managed to squeeze in a JavaScript test, because Asus made a point to brag about it. And we're not impressed - even though Jelly Bean will speed things up, the result should have been better. But the other S4 Pro phone doesn't do too hot here, so maybe it's a matter of time to optimize the JavaScript engine for this chipset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>Asus is trying hard to break away from the traditional designs. The Padfone in particular is a sort of wild idea, but most people have probably thought about it. When you see a tablet teardown, usually you see smartphone components (same chipsets, same wireless radios and so on), attached to a big screen and battery. So, do you really need to pay for the same things twice if you want both a phone and a tablet?</paragraph>
+			<paragraph>The Asus Padfone 2 solves just that problem - you buy the common components once, then just pay extra for the bigger screen and battery. And the processing power of a smartphone is well enough to power a tablet.</paragraph>
+			<paragraph>Asus has already announced the pricing of the Padfone 2 and it might seem steep at first. But when you think about it, the Padfone 2 has the specs of a next-gen Android flagship and the specs of a high-end tablet all at the same time.</paragraph>
+			<paragraph>And the execution by Asus is excellent - the screen is great, the chipset is well ahead of current quad-cores (let down by the software, which isn't on the level yet) and the build quality left us with a positive impression. So, in the long run you actually save some cash - but more importantly, unless you absolutely need to use your phone and your tablet at the same time, you get a chance to join in on the future.</paragraph>
+		</subsection>
+	</page>
+</review>

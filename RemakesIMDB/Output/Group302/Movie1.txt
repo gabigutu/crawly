@@ -1,0 +1,13 @@
+<movie>
+	<title>Marked Men</title>
+	<link>http://www.imdb.com/title/tt0010438/?ref_=fn_al_tt_3</link>
+	<year>1919</year>
+	<generalScore>0.45</generalScore>
+	<review>
+		<date>2015-07-30</date>
+		<username>Pamela Short</username>
+		<score>-1.0</score>
+		<shortDescription>Marked Men ( 1919 ) -- Lost Western Silent</shortDescription>
+		<fullReview>Harry ( Harry Carey ), Tony Garcia ( Ted Brooks ) and Tom Gibbons ( Joe Harris ) escape prison and meet in the town of Trade Rat where Harry falls in love with Ruby Merril ( Winifred Westover ). After robbing the local bank, the three men ride into the desert where they come upon a woman and her newborn son. The mother, who is dying, begs the three to be the baby's godparents. Tony and Tom perish en route, but Harry trudges on until he reaches the nearest town where he finds Ruby and Sheriff Cushing ( Charles Le Moyne ) waiting for him. When the sheriff discovers that the dying woman was his sister, he obtains a pardon from the governor, thus allowing Harry, Ruby and the baby to take up a peaceful life together.This 1917 silent western was a remake of the 1916 film, The Three Godfathers, which also starred Harry Carey. Marked Men was directed by John Ford and produced by the Universal Film Manufacturing Company. Sadly it is now considered to be a lost silent film.</fullReview>
+	</review>
+</movie>

@@ -1,0 +1,251 @@
+<review>
+	<title>Nexus 6P vs. LG V10 vs. Galaxy Note5</title>
+	<description>Jumbo joust</description>
+	<link>http://www.gsmarena.com/galaxy_note5_vs_lg_v10_vs_nexus_6p-review-1363.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>We've gathered three of the best Android phablets with a 5.7" screen. All three hail from the East but instead of Zen calmness they epitomize the latest and greatest in mobile technology.</paragraph>
+			<paragraph>We will focus on several key areas, starting with the screen quality and battery life. Those are the best things about large phones - large screens and large batteries. We'll also look at how their chipsets perform, how they do sound-wise (both with and without headphones) and we'll finish off with a deep dive in camera quality.</paragraph>
+			<paragraph>If we have to summarize the differences between these phones our keyboards will run out of ink ribbon, so here is a more concise comparison.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Huawei Nexus 6P<subsectionTitle>
+			<paragraph>This is the first Nexus to have an aluminum unibody (previous models used metal more sparingly) and it's the first one from Huawei. It features mostly the same specs as the LG-made Nexus 5X, except for the better screen (a larger, sharper AMOLED) and the faster chipset (Snapdragon 810 vs. 808).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG V10<subsectionTitle>
+			<paragraph>The LG V10 is an improved version of the G4, the first of a new flagship line. LG made it more rugged and added a unique secondary display which can stay on 24/7. The company also improved the software for the impressive camera (same as the G4) and added a second selfie camera so you get a choice of solo shots (80° field of view) and group shots (120° FoV).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note5<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note5 is like a grown up S6 in terms of design and specs, but it brings the signatory S Pen stylus. The Super AMOLED screen has been polished to perfection and you get the latest fast charging tech - the one that doesn't need cables.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The trio has 5.7" screens with QHD resolution, but while the Galaxy Note5 and Nexus 6P have very similar AMOLED screens, while the LG V10 stands apart with an LCD unit. Each of these screens offers plenty of room for content, which they render with impressive image quality.</paragraph>
+			<paragraph>Let's focus on that first - the quality. There are some premium features on these displays too, more on that in a minute.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 uses the company's usual Super AMOLED panel, which has been tuned to perfection. It's the brightest of the three, even before it reaches its maximum brightness level (which only happens in some situations on Auto mode). Its sunlight legibility is among the best we've seen.</paragraph>
+			<paragraph>The Huawei Nexus 6P uses AMOLED displays sourced from Samsung, though it achieves noticeable lower max brightness. It's not clear if this is due to different tuning or different panels, but the sunlight legibility is still a match for the Note5's.</paragraph>
+			<paragraph>The LG V10 has an IPS LCD. The screen offers good brightness and great contrast, though sunlight legibility is well behind the AMOLEDs. Also note that the brightness slider is finicky and at the 50% position leads to less than a quarter of the max brightness.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Samsung changed the conception that AMOLED displays are inaccurate. In fact, the Basic screen mode on the Galaxy Note5 allows it to offer an Avg. DeltaE of 1.1, a mark of an exceptional color accuracy. You can go to Photo mode, which boosts contrast and colors to make for punchier images, though the Avg. DeltaE goes up to 4.8.</paragraph>
+			<paragraph>That's still pretty good, the LG V10 screen gets a 4.9 score on that rating and the phone offers no way to adjust color settings, even if it's flipping between a few presets.</paragraph>
+			<paragraph>You'd expect the Huawei Nexus 6P to be up there with the Note5, but it proved to be the least accurate of the three with an average DeltaE of 6.5. With some digging you can find the option to switch from the slightly oversaturated colors to a more natural sRGB setting. Note that this settings flips back after a reboot, so you have to do it on every power up.</paragraph>
+			<paragraph>All three screens are guarded by Gorilla Glass 4 so you can expect identical levels of wear on them, at least as far as scratches are concerned.</paragraph>
+			<paragraph>LG has double insurance against bigger shocks though - that is two layers of Gorilla Glass 4, instead of the usual one. The V10 has additional protection internally to absorb shocks, meaning the screen has a higher chance of surviving in those cases where the phone drops on any of its four corners and would normally crack.</paragraph>
+			<paragraph>The secondary screen above the main one is more like a strip really. It has 160 x 1,040px resolution and acts as a separate, second screen. It has its own backlight and control hardware so it can stay on 24/7 without drawing much power.</paragraph>
+			<paragraph>When the screen is off, detailed notifications can be shown on the secondary screen (much better than a notification light) and when it's on, you get shortcuts and recent apps on the strip to speed up multitasking.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 screen is flat and all one piece (there was no second-screen Note last year). Its value-added feature lies in the built-in Wacom digitizer, which enables the pressure-sensitive S Pen stylus. The passive stylus never needs to be charged (unlike Apple's Pencil or Microsoft Surface Pen), but it can measure over 2,000 levels of pressure, can be detected from an inch away and even has a button to toggle shortcuts and special input modes.</paragraph>
+			<paragraph>Natural handwriting, note-taking and sketching has seen a resurgence recently, after being effectively killed off by digital gadgets. The Note5's 5.7" screen is close enough to the size of a notepad and can really boost productivity once you form the habit of using it.</paragraph>
+			<paragraph>The Huawei Nexus 6P screen doesn't do anything special beyond Ambient Display - waking the display when a new notification comes in or when the phone senses movement (there's no tap to wake though).</paragraph>
+			<paragraph>Winner: Samsung Galaxy Note5. A finely tuned display offers accurate colors and great sunlight legibility.</paragraph>
+			<paragraph>Runner-up: LG V10. It has more accurate colors than the Nexus and matches it max brightness, the secondary screen and dual Gorilla Glass are great additions too. Its Achilles' heel is sunlight legibility though - it's not great, even for an LCD. </paragraph>
+			<paragraph>Third place: Huawei Nexus 6P. While it handles bright sunlight with aplomb, the 6P screen got the lowest color accuracy and maximum brightness among the three.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Battery technology one department where smartphones have been advancing the slowest - there is no clever workaround for doing more with less battery capacity. Application and power optimizations can only get you so far.</paragraph>
+			<paragraph>We believe that the substantial battery capacity is the second most important reason people like "phablets" so much, right behind the big screen. Surprisingly, neither of these phones is a champ in the battery capacity department. The Nexus 6P has the most - 3,450mAh - while the other two have 3,000mAh batteries (you can blame the pursuit of thinness for this).</paragraph>
+			<paragraph>Samsung has a track record of squeezing out as many hours as possible by using a power-efficient chipset and clever software optimizations. The Galaxy Note5 is a champ, even without the biggest battery in the world.</paragraph>
+			<paragraph>The Nexus 6p benefits from the latest power efficiency software tweaks Google has come up with in Android 6.0. The Doze feature, in particular, helps standby time, but that hardly is of any use when you use your phone actively. That's one area that a bigger battery helps.</paragraph>
+			<paragraph>The LG V10 has a second screen to worry about, too, so we tested its battery endurance twice - first, with the screen off, and secondly, with the screen on.</paragraph>
+			<paragraph>Battery life takes a noticeable hit when the secondary screen is active, which hurts its already average score, the lowest among the three smartphones by some measure.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 will last the longest between charges, you can easily get three days with moderate usage. Even heavy users will struggle to deplete the battery in a day, the Note5 wins all three categories, often by a distinctive margin.</paragraph>
+			<paragraph>The Huawei Nexus 6P indeed has excellent standby performance, it's as good as the Samsung's. But the gap quickly widens when you push the smartphone - the browser and the video player especially will deplete the battery faster.</paragraph>
+			<paragraph>The LG V10 has an average endurance rating, not great for a flagship. The individual tests are not that bad; it's the poor standby performance that has the biggest negative effect. The talk time is not so hot as with the other phones either. Note that LG promises better battery performance out of its international model when network connectivity is involved (we tested the South Korean one).</paragraph>
+			<paragraph>Draining the battery is one thing, but topping it up is important too, and we're talking charging speed in particular.</paragraph>
+			<paragraph>The Galaxy Note5 comes with an Adaptive Fast Charger (Quick Charge 2.0), which puts out 9V at 1.67A. It charges up fully in 100 minutes (according to official numbers), but you can get 50% in just 30 minutes.</paragraph>
+			<paragraph>The Note5 has fast wireless charging capabilities as well, but Samsung must have thought that wires are old news and when wireless charging can bring the Note5 battery to full capacity in only 120 minutes - almost as fast as the wired charger! The phone supports both Qi and PMA wireless charging standards.</paragraph>
+			<paragraph>The LG V10 also comes with a Quick Charge 2.0 power plug, but the company is more conservative and promises a 50% charge in 40 minutes. Wireless charging is available as well but requires a special back cover.</paragraph>
+			<paragraph>The Huawei Nexus 6P is the only one of the trio to use the new USB Type-C standard. Its charger can put out 5V @ 3A, resulting in a max power of 15W. This one doesn't have wireless charging at all unlike previous Nexus models.</paragraph>
+			<paragraph>Winner: Samsung Galaxy Note5. With a long-lasting battery and varied fast-charging methods (both wired and wireless), the Note5 is a clear winner here.</paragraph>
+			<paragraph>Runner-up: Huawei Nexus 6P. While it won't last as long as the Note5 under heavy load (and lacks wireless charging), the Nexus 6P leads the LG phone in the most important department and that's power autonomy. </paragraph>
+			<paragraph>Third place: LG V10. The endurance of the V10 is fairly average in general, disappointing for a flagship. The always-on secondary display is a novel feature, but we're les </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The three phones boast QHD screen resolution, and two of them do split-screen multitasking. In other words, they squeeze every last drop of performance out of the GPU and RAM.</paragraph>
+			<paragraph>RAM often gets overlooked, but with today's octa-core mid-rangers it's one of the most important components of performance. And that's the RAM left over after the vendor skins take their share. The Huawei Nexus 6P has only 3GB of RAM, compared to 4GB for the other two, but it's plain Android with no split-screen multitasking so 3 gigs are plenty, the phone never slowed down.</paragraph>
+			<paragraph>The GPU is equally overlooked. Marketing misdirection screams "octa-core CPU!" but the Snapdragon 615 chipset, so popular in the mid-range, comes with a weak Adreno 405 that struggles on 1080p. Not to mention that not all CPU cores are equal.</paragraph>
+			<paragraph>The LG V10 is doubly at a disadvantage here. All three phones have four Cortex-A53 cores for low-power needs, but the V10 pairs them with just two fast Cortex-A57s. So the difference is bigger than what core count suggests. It also uses the Adreno 418 GPU, which is about 20% slower than the Adreno 430 used in Nexus 6P's S810 chipset.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 brings superior CPU performance than the Nexus 6P thanks to higher clockspeed. Basemark OS II 2.0 shows the Note5 leading in both single and multi-core performance, but gives a narrow victory to the Nexus 6P in overall performance (this includes RAM and storage performance, some graphics and web tests).</paragraph>
+			<paragraph>The LG V10 lags behind, even in single-core performance because its Cortex-A57 cores run at a lower clock speed. The highest frequency is 2.1GHz (Note5), then 2GHz (Nexus 6P) and you can see the LG phone trailing behind at 1.8GHz (V10).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Looking to AnTuTu 6 for a through system test, the Nexus 6P again outperforms Galaxy Note5 by a small margin. The newer (not to mention leaner) Android version probably helps. Note that Marshmallow is yet to drop on our Note 5 and V10 test units but will come eventually.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In the GPU triathlon the Adreno 430 GPU of the Huawei Nexus 6P takes the crown with a strong lead over the Galaxy Note5 and LG V10, especially in the on-screen test (that is at full 2,560 x 1,440px resolution). GFXBench shows the edge extends particularly when the graphics move to the newer OpenGL ES 3.1 standard.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark ES 3.1 confirms the standing, only the older Basemark X gives the win to the Note5. The LG V10 consistently ends up last.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Winner: Huawei Nexus 6P. Multiple benchmarks show the 6P is way ahead in overall performance, and it handled modern 3D graphics much better than the Note5. </paragraph>
+			<paragraph>Runner-up: Samsung Galaxy Note5. It showed promise in the CPU tests but didn't score a decisive victory. The Mali-T760MP8 GPU is powerful but doesn't impress on OpenGL ES 3.1 tests. </paragraph>
+			<paragraph></paragraph>
+			<paragraph>Third place: LG V10. The choice of chipset limits V10's ambitions. The phone is a smooth operator in daily use, but demanding apps and games will run better on the other two.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality<subsectionTitle>
+			<paragraph>All three contestants delivered an excellently clear audio output when connected to an active external amplifier, which is par for the course for high-end smartphones. When measuring the volume levels, the LG V10 and the Samsung Galaxy Note5 have a small advantage over the Huawei Nexus 6P, but there was nothing to put the two Korean flagships apart.</paragraph>
+			<paragraph>Plugging in a pair of headphones caused quite a bit of distortion in the Nexus 6P output. The LG V10 showed a few weaknesses as well; it was enough for the Galaxy Note5 to grab the victory here. With the headphones in, the Samsung phablet outdid its South Korean rival in both loudness and clarity.</paragraph>
+			<paragraph>Here go the results so you can do your own comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+			<paragraph>Winner: Samsung Galaxy Note5. The clear audio output both with headphones and an active external amplifier along with nicely high volume secured this round for the Samsung flagship.</paragraph>
+			<paragraph>Runner-up: LG V10. The V10 put up a good fight, but when we plugged in the headphones, it just couldn't keep up with the Galaxy Note5. </paragraph>
+			<paragraph>Third place: Huawei Nexus 6P. It started decently with the lower volume being our only criticism, but when we plugged in our standard headphones, its performance quickly went south. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera features<subsectionTitle>
+			<paragraph>Part of the appeal of flagships is that they get all the best components. In the camera department, this means a large sensor, a high-quality lens with an extra-wide aperture, powerful LEDs for the flash, and an OIS module if it can fit.</paragraph>
+			<paragraph>The Huawei Nexus 6P brings a 1/2.3" sensor, which is on par with what point-and-shoot cameras have. And it only spreads 12 million pixels on it, making the individual pixels quite large, 1.55µm. It has an aperture of f/2.0 and no OIS.</paragraph>
+			<paragraph>By comparison, the LG V10 has the widest aperture among the three - f/1.8 - so it lets more light in than the Nexus lens. However, there are more pixels squeezed on a smaller sensor footprint - 16MP on 1/2.6" makes for a 1.12µm individual pixel size.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 is smack in the middle in between the two with a f/1.9 aperture lens and a 16MP 1/2.6" sensor.</paragraph>
+			<paragraph>Both V10 and Note5 have Optical Image Stabilization systems. This will make videos steadier and allow for blur-free longer exposure shots. For most cameraphones when taking low light pictures in Auto mode, OIS equals longer blur-free exposures</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photo quality<subsectionTitle>
+			<paragraph>Before we begin, we should note that aside from the three phablet stars of the today's show, we're also having a guest appearance by the Meizu PRO 5 as a fourth camera in this comparison. It won't take part in the official ranking, but we wanted to use it as a reference as it has the same size screen and its camera wowed us back when we reviewed it.</paragraph>
+			<paragraph>The Huawei Nexus 6P uses a sensor optimized for low-light performance, which has fewer pixels than the competition. Even so it has the widest camera, which allows it to capture more of the scene, but will hurt the fine detail (fewer pixels for more of the scene).</paragraph>
+			<paragraph>The LG V10 and Samsung Galaxy Note5 both have wide-screen cameras and both have the same field of view. They squeeze in less vertically but as much as the Nexus horizontally. The Meizu PRO 5 has a 4:3 camera with a FoV in between the Nexus and the other two.</paragraph>
+			<paragraph>The weather wasn't perfect, but the Nexus 6P turned in a gloomier picture than necessary. It underexposed the shadows, but managed to keep most of the sky from overexposing. The Meizu PRO 5 managed to render the sky well, but without harming the shadows, which suggests a wider dynamic range or some clever processing. The Samsung and LG both let the sky overexpose to save the shadows.</paragraph>
+			<paragraph>Color rendering tends towards a warm yellow except on the Nexus, which leaned towards a cooler blue (this makes the picture even gloomier). The Meizu turned up the saturation, while the others were more restrained and closer to the real scene.</paragraph>
+			<paragraph>All four phones produce impressive photos, rich in detail and with little image defects. The LG V10 noise reduction creates some unevenness in solid colors and the sharpening creates a stair step effect. Again, these are only noticeable at pixel level.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 does less sharpening but thanks to better noise handling there's slightly more detail in its photos than the LG. When comparing their images at pixel level, we can tell the Note 5's photo appears softer (due to the more hands-off image processing).</paragraph>
+			<paragraph>The Huawei Nexus 6P is a little starved for resolution, in part because it needs to offset the wider field of view. The per-pixel quality is excellent, which keeps the photos competitive even when you examine them up close.</paragraph>
+			<paragraph>The Meizu PRO 5 has the most resolution to play with and it puts it to good use. Foliage and other intricate detail are rendered faithfully without relying on strong sharpening. The colors are slightly off the mark though.</paragraph>
+			<paragraph>Winner: LG V10. It makes full use of its 16MP sensor, with sharp images, which are rich in detail. Colors are accurate, but there are some signs of noise.</paragraph>
+			<paragraph>Runner-up: Samsung Galaxy Note5. While the photos are not quite as sharp as those on the V10, you may not notice until you view them at 1:1 pixel level on your screen. </paragraph>
+			<paragraph>Third place: Huawei Nexus 6P. This is an exemplary 12MP camera, but the other two have 4 extra megapixels and it shows when you get up-close. </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Selfies<subsectionTitle>
+			<paragraph>The Huawei Nexus 6P has an 8MP selfie cam while the others have 5MP shooters and the selfies produced by it are easily the best of the bunch. It's not only due to the higher sensor resolution. We just love the way the image was processed, the nicely blurred background detail, the great, natural-looking detail on our subject's face and the overall dynamic range.</paragraph>
+			<paragraph>Surprisingly, it's the Meizu PRO 5 that came closest to the Nexus is quality. Both produce sharp images with plenty of detail and little noise.</paragraph>
+			<paragraph>The LG V10 does fairly well, though noise reduction tends to smudge fine detail like facial hair. Note that we used the narrow 80° camera for this test as it was closest in field-of-view to the others. The V10 also offers a wide 120° selfie camera.</paragraph>
+			<paragraph>The noise reduction was particularly strong in Samsung Galaxy Note5 shots and preserved the least amount of detail in our subject's face.</paragraph>
+			<paragraph>Winner: Huawei Nexus 6P. The 8MP camera is excellent and the Nexus produced the best-quality selfies of the bunch. </paragraph>
+			<paragraph>Runner-up: LG V10. The duo of cameras is a great idea and the quality is fairly good, though noise reduction hampers its performance a bit. </paragraph>
+			<paragraph>Third place: Samsung Galaxy Note5. Strong noise reduction has negative impact on image quality.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>All three cameras can do 2160p video, but we'll also examine their 1080p performance as not everyone gets the full benefit of the higher resolution (it takes up more space, is harder to share, not everyone has a 4K TV).</paragraph>
+			<paragraph>It turns out our three main competitors have the same field of view when shooting 2160p video. It's only the Meizu PRO 5 that has a significantly narrower FoV.</paragraph>
+			<paragraph>Keep the FoV factor in mind, because it's easy to forget when inspecting a frame of the video up close. The Meizu PRO 5 can trick you into thinking it captures a superb level of detail (and it does to an extent), but comparatively, it's got an easier job than the others as it captures only so much of the scene.</paragraph>
+			<paragraph>The LG V10 produced the sharpest videos, that's clear to see in the signs (including the street sign in the distance). The Nexus 6P videos come second in sharpness, but also, the shadowy areas are quite underexposed.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 has good dynamic range, though it loses a lot of detail to noise reduction. The Meizu PRO video looks pretty good if you manage to fit everything into the frame. Surprisingly, it was recorded at a modest 12Mbps - less bitrate than what the others use for 1080p.</paragraph>
+			<paragraph>But it uses the new HEVC/H.265 codec in action - it's way more efficient than H.264. The savings in storage come at the expense of compression artifacts, which are visible with a naked eye in the footage.</paragraph>
+			<paragraph>Regarding audio bitrate, the Galaxy Note5 uses the highest one - 256Kbps - while the LG V10 records audio at 156Kbps. Still, the LG with its advanced mic system managed to capture better sounding audio.</paragraph>
+			<paragraph>The Nexus 6P disappoints with a mono audio track - the quality of the sound is good, but the lack of stereo separation is audible. The Meizu PRO 5 shoots mono audio as well, and it sounds even worse.</paragraph>
+			<paragraph>Winner: LG V10. Wide FoV, sharp video and great audio clearly make the V10 the winner when it comes to high-quality video. </paragraph>
+			<paragraph>Runner-up: Huawei Nexus 6P. The quality of the video is quite high, but the audio recording feels outdated.</paragraph>
+			<paragraph>Third place: Samsung Galaxy Note5. Audio is very good, but the key component, video, leaves something to be desired. </paragraph>
+			<paragraph>The Samsung Galaxy Note5 and Huawei Nexus 6P still offer wide FoV when switching to 1080p, but the LG V10 narrows its view significantly - it's even narrower than the Meizu PRO 5's.</paragraph>
+			<paragraph>The LG V10 gets a quality boost from the narrower FoV and the video is sharp and with good dynamic range. The Samsung Galaxy Note5 saves some face and with FoV accounted, it equals the V10.</paragraph>
+			<paragraph>The Huawei Nexus 6P videos appear soft and have issues both in the shadows and in the highlights. The Meizu PRO 5 once again records with a 12Mbps bitrate, but, at least, compression artifacts aren't visible.</paragraph>
+			<paragraph>Winner: Samsung Galaxy Note5. The LG lost some points due to its narrower FoV, while the Note5 did comparatively better than it did in the 2160p test. </paragraph>
+			<paragraph>Runner-up: LG V10. The quality is very high, but the benefits of the wide-angle camera lens are lost since it doesn't use the whole sensor.</paragraph>
+			<paragraph>Third place. The quality dropped and dynamic range issues persist, pushing the Nexus behind the competition. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Low-light camera performance<subsectionTitle>
+			<paragraph>The LG V10 has the widest aperture of the four phones (f/1.8), while the Nexus 6P (f/2.0) impressed us when we updated our Photo quality comparison tool, so those are the two favorites this round. The Galaxy Note5 (f/1.9) won't go down without a fight, while from past experience we know the Meizu PRO 5 (f/2.2) does not like the dark).</paragraph>
+			<paragraph>The LG V10 loses some detail to its noise reduction system, but it managed to resolve some detail that the Nexus could not. Note that we shot a fairly static scene and the V10 dropped the shutter speed to 1/11s, which will cause blurring issues if there are people moving around.</paragraph>
+			<paragraph>The Huawei Nexus 6P maintained a relatively fast shutter speed, 1/20s, and let the ISO go higher. The end result is very high quality, though its penchant to underexpose shadows comes back to bite it.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 photo seems soft (we picked the best of five, some of which were taken after a tap to focus). The noise reduction is the culprit - you can see noise in the sky (especially on the LG), but not on the Note5. Unfortunately, a lot of the sharpness went out with the noise.</paragraph>
+			<paragraph>Then there's the Meizu PRO 5. The narrow aperture and strong noise reduction didn't give it a fighting chance.</paragraph>
+			<paragraph>Winner: LG V10. It's situational, but under ideal conditions you'll get the best quality out of the V10. </paragraph>
+			<paragraph>Runner-up: Huawei Nexus 6P. The faster shutter speed of the Nexus will allow it to handle moving objects better, but the darker parts of the image are basically pure black. </paragraph>
+			<paragraph>Third place: Samsung Galaxy Note5. There's a choice: noise-free image or sharp image. Samsung chose the first and if you never zoom in on the image, it's a decent choice. </paragraph>
+			<paragraph>The strong low-light performance of the LG V10 extends to video too. There's a lot of noise, but the camera managed to keep a reasonable amount of detail and color rendering looks okay.</paragraph>
+			<paragraph>The Huawei Nexus 6P meanwhile was let down by its processing. The colors are way off and that's only where the over the top contrast didn't crush the color completely.</paragraph>
+			<paragraph>The Samsung Galaxy Note5 once again turns in a soft image, but it handles colors better and actually maintained details lost by the Nexus.</paragraph>
+			<paragraph>The Meizu PRO 5 had difficulty finding the right focus (you can see in the included sample that we had to tap to get it to refocus). The image quality is not great either, noise combined with very strong compression does that to a video.</paragraph>
+			<paragraph>Here are the short videos we shot for this test. We had to keep them short as we shot at dusk, any longer and the light would have changed too much between the first and the last phone.</paragraph>
+			<paragraph>Winner: LG V10. We pushed the camera to its limit and it handled itself well. There's a lot of noise left over in the video, but the exposure and colors are good. </paragraph>
+			<paragraph>Runner-up: Samsung Galaxy Note5. We have to give this one to the Note5, the Nexus really the mark on the colors and darker areas are ruined by contrast.</paragraph>
+			<paragraph>Third place: Huawei Nexus 6P. The hardware is capable, but the image processing does more harm than good.</paragraph>
+			<paragraph>The LG V10 does what it did in the 2160p test, finding the best balance of exposure, color rendering and noise reduction.</paragraph>
+			<paragraph>At the lower resolution, much of the softness in the Samsung Galaxy Note5 videos is gone so they are much more competitive with the V10, but its Korean neighbor still produced the better image.</paragraph>
+			<paragraph>The Huawei Nexus 6P repeated its mistakes from last time, with issues with color and in dark areas. The Meizu PRO 5 video is passable, but very dark.</paragraph>
+			<paragraph>And here's the batch of low-light videos shot at 1080p. We had stabilization turned off for this (where the option was available), so that each phone had only the dark to worry about.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Winner: LG V10. Different resolution, same results - the sharpest image, with good detail and colors of the four. </paragraph>
+			<paragraph>Runner-up: Samsung Galaxy Note5. Even at 1080p the work of the noise reduction is noticeable. At least videos aren't overly dark and with distorted colors like the Nexus videos.</paragraph>
+			<paragraph>Third place: Huawei Nexus 6P. What it says above - contrast turns dark areas into pure black and decimates colors, the hues that survive are exaggerated. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>A flagship phablet is a jack of all trades - the Huawei Nexus 6P, LG V10 and Samsung Galaxy Note5 all came out in late 2015 and represent the best of current consumer tech. It will be until late 2016 before they are replaced too.</paragraph>
+			<paragraph>The full quote finishes with "master of none", though, and it rings true - each phone excels at some things, but we found chinks in their armor.</paragraph>
+			<paragraph>So far we've looked at them as a group, but it's better to treat them as individuals for the conclusion.</paragraph>
+			<paragraph>If you have an affinity for premium phones and are selective about the quality of the software you use, the Huawei Nexus 6P is an amazing phone. It even rivals the iPhone 6S Plus. It has great battery life and a quality loudspeaker.</paragraph>
+			<paragraph>Its screen stays perfectly legible out in the sun (though colors are not perfectly accurate). It aced the performance benchmarks, as well, redeeming Snapdragon 810 somewhat in the process.</paragraph>
+			<paragraph>In the camera department, the Nexus 6P performed well for both photos and videos, selfies and night shots. The 12MP resolution is a bit low for the camera's wide-angle view and the processing isn't perfect at low light.</paragraph>
+			<paragraph>The LG V10 is the phone to get if you want camera perfection. Meizu aside, the V10 had the best image quality among the three and the difference was especially noticeable in the dark. Our blind test shows that our readers share our thoughts too. You get very advanced manual controls for videos too, which the other two can't match.</paragraph>
+			<paragraph>The V10 is a rugged phone too - with dual screen glass, internal bumpers and rubber back it can take punishment. It's one of few remaining phones too with a microSD slot and a removable battery.</paragraph>
+			<paragraph>Its battery life was disappointing though, the secondary screen makes the issue worse. The other weak point is the performance isn't quite on the level of flagships (neither CPU-wise, nor GPU-wise).</paragraph>
+			<paragraph>The Samsung Galaxy Note5 had the best screen and the best battery life among the three. The Super AMOLED display offers the option of having a perfectly calibrated view mode and is noticeably brighter than the other two displays. The battery life was better by some margin, plus it's the only phone that gives you both fast wired charging and fast wireless charging.</paragraph>
+			<paragraph>The performance was competitive with the Nexus 6P, though the GPU lost some ground. The Note5 brings the most in terms of business features. We didn't test the S Pen or the split screen features, but if you are after the S Pen experience you would probably never consider the other two either..</paragraph>
+			<paragraph>The camera is very good in general, though the competition from the other two proved fierce. Neither the Note5 nor V10 impressed with their loudspeakers, but the Galaxy Note5 has excellent audio quality when you plug in a pair of headphones.</paragraph>
+			<paragraph>With these things in mind it should be pretty easy to pick among the three based on your preferences - whether you want a powerful all-metal phone, one with a great camera or one with excellent screen and battery life.</paragraph>
+		</subsection>
+	</page>
+</review>

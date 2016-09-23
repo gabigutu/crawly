@@ -1,0 +1,305 @@
+<review>
+	<title>Motorola Moto G 4G review</title>
+	<description>Going fast</description>
+	<link>http://www.gsmarena.com/moto_g_4g-review-1123.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>LTE connectivity</paragraph>
+			<paragraph>4.5" IPS 720p capacitive touchscreen of 329ppi, Gorilla Glass 3</paragraph>
+			<paragraph>Android 4.4.4 KitKat on a fast track update program</paragraph>
+			<paragraph>1.2GHz quad-core Cortex-A7 CPU; 1GB of RAM; Adreno 305 GPU; Qualcomm Snapdragon 400 chipset</paragraph>
+			<paragraph>5MP camera, LED flash, 720p video capture, 1.3MP front-facing camera</paragraph>
+			<paragraph>8 GB of built-in memory, expandable via the newly added microSD card slot</paragraph>
+			<paragraph>Active noise cancellation with a dedicated microphone</paragraph>
+			<paragraph>2,070mAh battery</paragraph>
+			<paragraph>Optional battery covers</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non-user-replaceable battery</paragraph>
+			<paragraph>Camera could've used an upgrade too</paragraph>
+			<paragraph>No FullHD video recording</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Motorola Moto G was so close to perfection - beautiful design, reasonable speed and performance, excellent display, capable camera and the pure Android experience at a bargain price. And we mean the kind of price that makes any quirk or omission easily forgiven. Like limited storage or a poor camera. By throwing in LTE and a card slot, the Moto G 4G makes sure there's a lot less to forgive.</paragraph>
+			<paragraph>If we were to name a smartphone to get an upgrade and handpick the specs, the Moto G would've been on the shortlist. And pretty high there, too. Glad it made sense to Motorola as well.</paragraph>
+			<paragraph>To be fair, the Moto G was fine the way it was. Screen quality well above the pay grade, a good enough chipset, reasonable battery backup, no heavy skin. Bottom line, one of the best packages for the money just got better, with the right touches at the right places.</paragraph>
+			<paragraph>One thing that could've seen some extra work as well is the camera. The original Moto G's still image quality was middling at best, and the lack of 1080p video recording isn't as easy to get away with as it was last year. That said, the Moto G 4G had to stay within budget, there's no argument there.</paragraph>
+			<paragraph>We'll try and see whether 4G network support will take its toll on the battery life. There're a handful of smartphones, including fairly recent releases, that count on a Snapdragon 400 to power both a 720p screen and an LTE radio, so we're not expecting any unpleasant surprises.</paragraph>
+			<paragraph>We guess we can safely cut the introductions short. After all, it's highly unlikely that you may've missed the original Moto G. Either way, we'll be covering its 4G-enabled successor in depth. Our hardware tour begins right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Core retail package<subsectionTitle>
+			<paragraph>Having seen the retail packages of the Moto G and Moto E, the tiny box with just a microUSB cable inside is hardly a surprise. There're no headphones supplied and you don't even get an A/C adapter. Granted, at this point you probably have a few of those lying around, but if you don't you should add those to the bill.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Motorola Moto G 4G 360-degree spin<subsectionTitle>
+			<paragraph>As we said, the new Moto G 4G is absolutely identical to the original model. It stands at 129.9 x 65.9 x 11.6mm, which makes it one of the more compact smartphones in its price range. It's not the slimmest package around and you can definitely feel the extra thickness around the waistline but at this size it's not too upsetting.</paragraph>
+			<paragraph>143g is perhaps too much for the size, though. It certainly contributes to the solid feel in hand, but it's a weight you need to put up with in daily use.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design, build quality and handling<subsectionTitle>
+			<paragraph>The styling of the Moto G 4G is clean and efficient, as if to make a point that it's a device you're going to use, not show off. Even the vanilla Moto X is quite understated - if you decide to skip the customization powers of the Moto Maker. Overall, unlike the Motorola smartphones of old, which tended to be overdesigned, this one bets on simplicity, combining traditional materials and clean (borderline boring) lines.</paragraph>
+			<paragraph>The result is good and even the fact that the Moto G 4G uses two different kinds of plastic for its front and back panels on our white version doesn't spoil the looks. It's clearly not what you'd call an attention-grabber, but that's hardly ever an option when shopping in this price range.</paragraph>
+			<paragraph>Decent build and acceptable looks are what counts in this bracket and the Moto G 4G over-delivers on both. It's certainly well put together and looks like it will have no trouble keeping it up in the long run. There's a protective layer of Corning Gorilla Glass 3 over the screen, while the back can easily be replaced if it gets damaged.</paragraph>
+			<paragraph>Speaking of replacing the back panel - that's only as far as the Moto G 4G will go in terms of customization. It's not nearly as impressive as the Moto Maker for the Motorola Moto X, but it's still an option. A swappable cover doesn't allow easy access to the battery though. Technically, it's a non-removable battery but you can actually replace it yourself in an emergency (though you would need the right tools).</paragraph>
+			<paragraph>As for the handling, despite its less than slender profile and considerable heft, the Motorola Moto G 4G fits nicely in the palm and is not a problem at all to operate single-handedly. The curved back with matte plastic has good grip too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above the Motorola Moto G 4G's display, the front-facing camera and a bunch of ambient light and proximity sensors are placed each side of an earpiece.</paragraph>
+			<paragraph>With the main controls on the actual screen, the space below the display is completely bare. The same goes for the left side of the Moto G.</paragraph>
+			<paragraph>The 3.5mm audio jack is centrally placed at the top, where it's joined by the secondary noise-cancelling microphone.</paragraph>
+			<paragraph>The mouthpiece is at the bottom, next to the microUSB port. The port has support for USB host support, so if you get yourself the extra adapter required, you can attach various peripherals like keyboards and mice as well as USB memory sticks. However it has no support for MHL or Slimport, meaning pairing with an HDTV isn't an option (unless the HDTV supports wireless streaming over the Miracast protocol).</paragraph>
+			<paragraph>On the right we see the only two hardware controls on the Moto G 4G. The power key sits slightly above the volume rocker and while both keys are a bit too thin for our liking, they make up for it with nicely solid press.</paragraph>
+			<paragraph>The 5MP camera lens has the loudspeaker on its side at the back of the smartphone, while the LED flash sits underneath it. A Motorola logo completes the tally.</paragraph>
+			<paragraph>Opening the back panel is a bit of a hassle, involving pushing you fingernail in the microUSB slot and pulling with a reasonable amount of force until you undo the stubs one by one. It does feel like the cover is about to break at times, but after several changes it's still in one piece, so the problem was perhaps mostly in our heads.</paragraph>
+			<paragraph>Underneath the cover you get access to the microSIM bed and the hot-swappable microSD card slot. The addition of a memory expansion slot (up to 32GB) is one of the two major upgrades to the original Moto G.</paragraph>
+			<paragraph>You're not supposed to try and replace the Moto G 4G's battery yourself but you can if it has to be done. All it takes is undoing a few screws to remove the inner cover and you are good to go - if you can live with losing your warranty. But we don't think that's a job easy enough to do on a daily basis.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Motorola Moto G 4G comes with a 4.5" 720p display, which is one of its most potent weapons in the fight for survival in the overcrowded midrange. Having a pixel density of 326ppi, the IPS LCD matches a the retina-grade screens by Apple and is by far the sharpest display in the price range.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>It's not just the pixel count either - the Moto G 4G screen is really bright, even brighter than Moto G's, and impresses with very good contrast and nice color rendering. Viewing angles are also quite good, with everything remaining legible even when you go to extremes. There is some color shift, but even so the display is way better than we've come to expect in this price bracket.</paragraph>
+			<paragraph>Our only gripe is the white balance, which is a bit on the cold side, but that's nitpicking really.</paragraph>
+			<paragraph>The screen glass isn't too reflective either, which means the Motorola Moto G 4G's display does pretty well in direct sunlight. An admirable overall performance indeed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The Moto G 4G features a 2,070 mAh battery, but Motorola didn't quite any specific times. The original Moto G scored an endurance rating of 54 hours, which was an OK result and we expected similar performance - perhaps even a slight drop, considering the added LTE radio.</paragraph>
+			<paragraph>As it turned out, the latest Android build and its optimizations helped the Moto G 4G do better than the Moto G. The score of 64 hours means the Moto G 4G will last for well over two full days if you do an hour each of calling, video watching and web browsing a day. Note that the Moto G is already running on the same software version and its battery performance may've improved as well.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We also should give the Motorola Moto G 4G a few extra points here as it's notably brighter than most of its competitors at the 50% setting, which we use for our battery test.</paragraph>
+			<paragraph>For a more detailed breakdown of the Motorola Moto G 4G battery performance check out our blogpost.</paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating.</paragraph>
+			<paragraph>Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The highlight of the Moto G 4G is definitely is LTE Cat.4 support (up to 150Mbps). Depending on the market and carrier, the Moto G 4G is available in the following combinations of supported frequency bands:</paragraph>
+			<paragraph>The rest of the connectivity features available across all models include single-band Wi-Fi b/g/n and Wi-Fi hotspot. There is also support for Bluetooth 4.0, GPS and GLONASS. There's an FM radio with RDS as well.</paragraph>
+			<paragraph>There is a microUSB 2.0 port for charging and data connections. Media transfer mode is supported for accessing the phone's built-in memory and microSD card over a USB connection. The Moto G 4G also supports USB Host.</paragraph>
+			<paragraph>The microUSB port doesn't have any TV-out support, but if own a compatible HDTV, you can share your phone's screen wirelessly via the Miracast protocol.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Moto G 4G runs on KitKat 4.4.4<subsectionTitle>
+			<paragraph>Motorola Moto G 4G runs pure Android 4.4.4 KitKat out of the box. Motorola does not provide any custom additions to the vanilla Android, which is one of the reasons the Moto lineup is treated with Nexus-fast Android updates.</paragraph>
+			<paragraph>There goes our usual demo video to get you started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is the usual affair - it supports widgets (one per pane), plus there is a shortcut to the camera at the bottom courtesy of Android KitKat. There are a few available default widgets, but you can always get more from the Play Store.</paragraph>
+			<paragraph>Naturally, you can protect your lockscreen by Face, Pattern, PIN or Password unlock, in ascending order of security.</paragraph>
+			<paragraph>The Moto G allows for five homescreen panes. You can't change their arrangement nor can you add or remove panes. Adding stuff on the homescreen is easy, as is customizing it. You can set various live and static wallpapers, add widgets and shortcuts.</paragraph>
+			<paragraph>The notification center is the usual stock Android one and Quick toggles are available via a shortcut to the right. You can get straight to these by with a two-finger swipe from the top of the screen. From there you get access to key device settings such as brightness, Wi-Fi, Bluetooth, location, mobile networks and Battery. Some toggles are directly accessible shortcuts to their respected functions in the settings menu.</paragraph>
+			<paragraph>The app drawer is laid out across multiple side-scrollable panes. The apps are sorted alphabetically followed by the available widgets. Moto G 4G doesn't support custom sorting for the app drawer, nor is there an option to remove the widgets panes, which come right after the app ones.</paragraph>
+			<paragraph>The Recent Apps switcher is the same as on any other Android device. It would be nice if Google finally adds a kill all/close all option to this screen.</paragraph>
+			<paragraph>Finally, Google Now integrates with your Google account and can access your daily routine, internet searches, email, etc. and give you information relevant to your interests and daily needs.</paragraph>
+			<paragraph>It provides traffic information to your work or home, knows the scores of sports teams you follow and gives you the weather forecast for your location. It's great for at-a-glance info, but can handle voice input as well. It also has a dedicated homescreen/lockscreen widget.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Motorola Moto G 4G is running on an LTE-enabled mid-range Snapdragon 400 chipset. It offers four Cortex-A7 CPU cores, Adreno 305 graphics and 1GB of RAM. We've already seen the chipset in action on lots of smartphone, including the original Moto G, so it's clearly a quite popular choice. And rightfully so as it delivers a snappy performance in everyday use and quite acceptable gaming as well.</paragraph>
+			<paragraph>Starting off with the CPU benchmarks, the Moto G 4G posted a great result on the multi-core GeekBench 3 cross-platform benchmark. The Moto G 4G matched the performance of the Moto G, LG G2 mini and even bettered Xperia M2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu is a compound benchmark, which also takes into account RAM and GPU performance. The Moto G 4G numbers are quite good, slightly better than the Moto G, LG G2 mini and HTC One mini 2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 4<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II is another all-round benchmark. It gives an overall score along with single, multi-core performance, math performance and more. We focus on the overall score and the dedicated CPU scores. The Motorola Moto G 4G overall rating is OK - on par with the competition. The singe-core and multi-core performance put it very close to the Snapdragon 400-powered HTC One mini 2 an Sony Xperia M2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The graphics benchmark results did come OK. The GFXBench tests - both off-screen and on-screen variants - reflected above average performance. It did better on the off-screen tests but falls behind the lower resolution devices on the on-screen tests such as the Sony Xperia M2, M2 Aqua and LG G2 mini.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The BrowserMark 2.1 tests HTML 5 performance, while Mozilla's Kraken 1.1 is JavaScript-centric. The Motorola Moto G 4G managed a great score in BrowserMark and came on par with its siblings on Kraken.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moto G 4G and its Snapdragon 400 chipset offers good overall performance. It may not top any charts, but what's really matters is real-life usage and it is great. The Android OS is as smooth as butter with no lag whatsoever, while most of the popular games run just fine.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android phonebook<subsectionTitle>
+			<paragraph>The phonebook is the stock Android app People, which hasn't been much changed since its major redesign last year with the introduction of Ice Cream Sandwich. It uses tabbed interface with Favorites, Contacts and Groups as separate tabs.</paragraph>
+			<paragraph>The contact list has a dedicated search filed plus it offers and an alphabetical scroll bar. Quick Contacts features is available too.</paragraph>
+			<paragraph>You can sync with multiple accounts, including Exchange and Facebook, and you can selectively show or hide contacts from some accounts (as well as filter specific groups in an account), or set the phonebook to display only contacts with phone numbers or only contacts that are online.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The in-call quality with the Moto G 4G is decent, the earpiece is loud enough with clear voice. Receptions is good, too, with above average coverage in hallways and underground parkings.</paragraph>
+			<paragraph>Android 4.4 KitKat dialer app supports smart dial. Upon launch it brings you to its default dialing tab where you get a search field, the most recent dialed contact and a list of contacts you've dialed most often. You can bring up or hide the dialer by its dedicated shortcut at the bottom. It supports smart dialing both by name and phone numbers.</paragraph>
+			<paragraph>Motorola Moto G 4G is among the few phones to score an Excellent mark in our loudspeaker tests, meaning you won't be missing calls and notifications even in the noisiest of environments. The loudspeaker quality is excellent, too, even when set to maximum loudness.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and text input<subsectionTitle>
+			<paragraph>Text messages and MMS use standard thread layout. Adding multimedia (photos, videos, sounds, etc.) will convert the message automatically into an MMS. Google's hangouts is also on board, it supports SMS too.</paragraph>
+			<paragraph>Naturally, the Gmail client and the default Email apps are onboard. Gmail can sync only with (multiple) Google accounts, while the generic Email app can handle POP and IMAP and offers a Combined inbox.</paragraph>
+			<paragraph>Moto G 4G relies on the default Google keyboard for text input. It supports Swype-like gesture input, personalized dictionary, auto-correction and lots of languages. You can use Google's voice input too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery and Photos<subsectionTitle>
+			<paragraph>Android 4.4 KitKat offers two gallery apps - the default Gallery and the recently introduced Photos.</paragraph>
+			<paragraph>The Gallery app shows all of the photos on your phone sorted by albums. There is a pop up menu, which allows sorting you images by time, by album or just limit your image access to camera roll.</paragraph>
+			<paragraph>There are lots of sharing options, plus a capable integrated image editor.</paragraph>
+			<paragraph>The Photos app is the latest gallery app Google is trying to push lately. It integrates with Google+ and can backup your images automatically to your Google+ account if you like. It also shows all the photos from your online albums.</paragraph>
+			<paragraph>If you sign in with your Google+ account and allow your photos to be backed up in the Google cloud, you can also use the Auto Awesome feature - it auto enhances your photos and combines similar photos and videos as events in a cool way - it either exports a collage picture or a motion gif.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player integrated within the Gallery<subsectionTitle>
+			<paragraph>The video player has retained its stock Android interface. Motorola however, have added much better codec support than the one found in Nexus devices. The video player is now perfectly usable out of the box - it plays DivX, Xvid, MP4 and MKV files up to 1080p resolution.</paragraph>
+			<paragraph>The multi-channel AC3 audio tracks are not supported though, which makes the MKV compatibility pretty much obsolete. WMV and MOV files aren't supported either.</paragraph>
+			<paragraph>Streaming videos to a Wi-Fi enabled TV is available. One way to go about this is to share your multimedia content over good ol' DLNA technology OR you can mirror your device's screen to the TV via the Miracast protocol (by casting your screen as it's called in the options menu of the latest Android KitKat).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Play Music with equalizers<subsectionTitle>
+			<paragraph>Google's own music player called Play Music handles your music collection. It features the spanking New Listen Now feature, which tries to determine what you like and the sequence of your track-changing so that it can start offering you music you might like to play next.</paragraph>
+			<paragraph>Google Play Music also gives you the option to upload music onto the Google-branded cloud and stream it on your device via Wi-Fi or mobile data. There's also the nifty option of downloading the content onto the device if you want to have there for connection-less times.</paragraph>
+			<paragraph>From the Settings key you can get into the equalizer. It can be turned on and off and features several equalizer presets along with a custom user defined one. If you plug in a headset, you can also play around with the Bass boost and 3D effect sliders.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS<subsectionTitle>
+			<paragraph>The FM Radio is a pretty straightforward affair. Once you plug in a pair of headphones (to act as an antenna), the app will scan the stations available in your region. You can also input the region manually if the app doesn't configure it correctly.</paragraph>
+			<paragraph>There is RDS support, too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Very good audio output<subsectionTitle>
+			<paragraph>The Motorola Moto G 4G performance in our audio quality test was more or less on par with its non-4G predecessor. The LTE-enabled handset did show slightly higher distortion, but the rest of the readings were pretty evenly matched.</paragraph>
+			<paragraph>When connected to an active external amplifier the Motorola Moto 4G showed great dynamic range, signal-to-noise ratio and stereo crosstalk. Its frequency response could be better in the lowest and highest frequencies but it was close to perfect for the rest of the range. There were no traces of distortion, either.</paragraph>
+			<paragraph>The good news is, besides the extra stereo crosstalk, there's virtually no degradation when you plug in a pair of headphones. And with the volume levels pretty high in both tests, the Moto G 4G earned an excellent mark here.</paragraph>
+			<paragraph>And here go the detailed results so you can check them out for yourselves.</paragraph>
+			<paragraph></paragraph>
+			<paragraph> Motorola Moto G 4G frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Average 5MP camera with auto-focus<subsectionTitle>
+			<paragraph>The Moto G 4G comes with a modest 5MP auto-focus camera. It takes images in a maximum resolution of 2592x1944 pixels. It has a built-in HDR mode, which can even be set to activate automatically in certain shooting conditions.</paragraph>
+			<paragraph>The camera does have the same minimalist interface as on the Moto X and E, which includes just two on screen buttons on the right-hand side for video recording and front-facing camera. Taking an image is done simply by tapping the screen.</paragraph>
+			<paragraph>The available advanced settings include HDR, touch capture, panorama, geo-tagging, widescreen mode, and shutter sound.</paragraph>
+			<paragraph>Unfortunately, the Moto G 4G 5MP camera is no better than the Moto G camera. It produces images with an inspiring amount of detail. Colors are undersaturated and there is very little noise, but that's due to the overly aggressive noise reduction, which eradicates a fair amount of the fine detail - an watercolor painting effect is visible whenever you shoot grass, foliage or similar textures.</paragraph>
+			<paragraph>Turning on HDR does a good job of extending the dynamic range, and somewhat surprisingly it also improves the contrast issues slightly. However colors tend to get a bit overblown in this mode, which takes away some of the realistic look of the images. It's ultimately a matter of personal preference as to which type of image you prefer, but keep in mind that both modes have their drawbacks.</paragraph>
+			<paragraph>The Auto-HDR is a bit unreliable so we'd recommend manually choosing whichever mode you prefer so as to get more consistent results.</paragraph>
+			<paragraph>Moto G 4G supports shooting 180-degree panoramic pictures. The resolution is quite low though - 2000x500px for the landscape and 1600x600px for the portrait shots. The resolved detail and contrast in those pano images are quite poor though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Moto G 4G enters our Photo quality comparison tool to face off against other 5MP shooters. You can also pit it against other cameras from within the tools' page.</paragraph>
+			<paragraph>    The Motorola Moto G 4G in our photo compare test </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>720p video recording at 30 fps<subsectionTitle>
+			<paragraph>The camcorder UI shares the same viewfinder with the still camera, with the top right button being used to toggle video recording. The Moto G 4G records 720p videos at 30fps. The bitrate averages about 10Mbps, which can partly explain the poor resolved detail. Audio is recorded at 128 Kbps in stereo mode with a sampling rate of 48 kHz.</paragraph>
+			<paragraph>Videos by the Moto G 4G are far from stellar, with the low level of detail being the most noticeable issue. There are similar problems with poor dynamic range like on the still camera, and the contrast is still on the low side.</paragraph>
+			<paragraph>Another thing we notice is the significant frame rate drop in low-light scenes - once we reduced the lightning for our video compare test, the Moto G 4G fps dropped down to 22.</paragraph>
+			<paragraph>This is a short video sample, which we've uploaded on YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And this is an untouched 720p video sample taken straight from the Motorola Moto G 4G.</paragraph>
+			<paragraph>The Motorola Moto G 4G is capable of slow-mo 720p videos, but they are quite poor at 15 fps.</paragraph>
+			<paragraph>Here is a sample slow-mo video we've uploaded on YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also snap pictures while recoding a video, but they are frame grabs from the actual video and not that good in quality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The Motorola Moto G 4G enters our video quality comparison tool to be pitted against other 720p camcorders. You can choose which devices to compare against from within the tools' page.</paragraph>
+			<paragraph>   The Motorola Moto G 4G in our Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Chrome web browser<subsectionTitle>
+			<paragraph>The Motorola Moto G 4G comes with Google Chrome as the default web browser out of box instead of the generic Android browser. While the minimalist interface hasn't changed since Chrome launched on Android, the browser is being constantly refined by Google, and this has resulted in one of the smoothest and most powerful browsing experiences we've encountered on a mobile.</paragraph>
+			<paragraph>Of course, one of Chrome's strengths is its ability to seamlessly sync with the desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+			<paragraph>Google Chrome is generous with the available settings as well. You can control almost every aspect of your web browsing from choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups. Reduce data usage does what it says - Google servers compress the webpage (using Google-developed tech like SPDY and WebP) and send them to the phone.</paragraph>
+			<paragraph>Opening the tabs area reveals a list of tabs which can be closed, again with a left or right swipe. The animation accompanying this action is neat, too. Incognito tabs, which lets you browse without saving history or cookies, show up right next to regular tabs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The Calendar has four different types of view - daily, weekly, monthly and diary (agenda). Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>Moto G 4G also features the Quick Office, which supports creating, viewing and editing office files (docs, xls, ppt), and it can also read PDFs.</paragraph>
+			<paragraph>The Calculator and Clock app (with stopwatch, world clock and timer) are available by default.</paragraph>
+			<paragraph>Motorola Moto G 4G comes with the Spotlight Stories app with augmented reality tales. It is really fun for children as it requires following a mouse (or some bugs) around the room with your phone. It's fun to play and entertaining.</paragraph>
+			<paragraph>Motorola has implemented its own version of a Do Not Disturb feature via their Assist app. It will keep the Moto G 4G quiet while you're in a meeting or sleeping.</paragraph>
+			<paragraph>While the sleeping option lets you configure the time interval, allow calls from a favorite contact or list of contacts and put through calls from the same person if they call twice in the interval of 5 minutes.</paragraph>
+			<paragraph>Motorola provides two more Moto exclusive apps - Motorola Alert and Moto Migrate.</paragraph>
+			<paragraph>The Migrate app will help you transfer contacts, messages and multimedia from other Android devices or iPhones.</paragraph>
+			<paragraph>The Alert app allows you to select your emergency contacts, input ready-to-go messages and in case something happens you can call your contacts, share your GPS location, or ask them to follow you. The latter will allow your Moto G 4G to share your location at specified interval.</paragraph>
+			<paragraph>You bet Google Maps and its more thumbable Navigation counterpart are also part of the app package to utilize the built-in GPS/GLONASS receiver.</paragraph>
+			<paragraph>They are most useful when you use them while you are online. Google Maps allows you to download offline maps of an area and even plan routes without a data connection but you can't search for addresses or POIs without an internet connection.</paragraph>
+			<paragraph>On the positive side, it can plan driving, public transport, cycling and walking routes. It can also display pretty accurate traffic alerts as well (though it doesn't always take them into account when routing you).</paragraph>
+			<paragraph>Whatever you may be missing, there is the always-growing Google Play Store available.</paragraph>
+			<paragraph>Another great support tool, which is available to all Android devices, is the Android Device Manager. It keeps you connected to all Android devices, on which you've setup your Google account. It can help you find your misplaced device by ringing it and if it's not at the house, by finding it on the map. If it gets stolen, you also have the option to lock the device and delete all data. What few people seem to realize is that for the remote locking to work, you have to initially enable it on your smartphone via the pre-installed Google Settings app.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Motorola Moto G 4G is definitely a phone many are looking forward to. It is the upgrade people wanted and Motorola delivered. The very popular Moto G was criticized about its lack of memory expansion slot and not so about the missing LTE connectivity. Well, here it is - the Moto G 4G with a microSD slot and LTE support. Motorola even managed to sneak a gyro sensor, as well. The rest of the hardware is pretty much identical to the Moto G.</paragraph>
+			<paragraph>The Moto G 4G is like an expansion pack, it isn't a brand new device, a successor, a sequel. It is just an improved edition for those who wished for one. It is that simple. It comes with all pros and cons the original Moto G came sans the upgrades. Luckily, the price remains really attractive and the new features will cost you a premium of only about ?35. This allows it to keep its place among the cheapest LTE-enable phones on the market.</paragraph>
+			<paragraph>After we did all our test, we found the Moto G 4G performing great most of the time. Here is our traditional summary:</paragraph>
+			<paragraph>Motorola Moto G 4G test findings:</paragraph>
+			<paragraph>The uninspiring camera has been an issue for the Moto G and Moto E, and it continues to be so in the Moto G 4G. While it could have benefited from an upgrade, we would have been happy even on an improved camera algorithm. But given the great achievements in every other department, including the fast Android updates, we are definitely inclined to forgive the poor camera performance.</paragraph>
+			<paragraph>There are quite a few devices ready to meet the Motorola Moto G 4G on the market. Let's check them out.</paragraph>
+			<paragraph>LG G2 mini LTE features a bigger 4.7" IPS display of lower qHD resolution. It runs on the same Snapdragon 400 chipset with 1GB of RAM, but has a 8MP camera with 1080p recording and brings the LG's latest design innovations (the rear control deck), as well the latest Optimus UX optimizations and proprietary features (such as Knock Code). It costs about ?20 more than the Moto G 4G and is an option you may consider. And if you don't need the LTE connectivity, the regular model's price is on par with the Moto G 4G's.</paragraph>
+			<paragraph>  LG G2 mini LTE ? LG G2 mini</paragraph>
+			<paragraph>Next comes the LTE-enabled Sony Xperia M2. It offers a bigger 4.8" qHD (that's 540x960 pixels) display, identical Snapdragon 400 chip, and a better 8MP cam. Sony's take on Android is very close to the pure experience Moto is offering, while the price tag stays the same. Oh, and you can get it in a dust and water-proof variant, too - the recently announced Xperia M2 Aqua.</paragraph>
+			<paragraph>  Sony Xperia M2 ? Sony Xperia M2 Aqua</paragraph>
+			<paragraph>There is another much cheaper droid, you may want to check out. The ?100 Alcatel Idol S packs a 4.7" IPS 720p display, offers LTE connectivity and a microSD slot, comes with an 8MP cam supporting 1080p video capturing, and its shell is very beautiful and just 7mm thin. The phone is less capable though with a dual-core 1.2GHz Cortex-A9 processor, while the PowerVR SGX531u GPU isn't among the snappiest in this class. But hey, the Idol S is almost half as cheap as the Moto G 4G, so you should have that in mind.</paragraph>
+			<paragraph> Alcatel Idol S</paragraph>
+			<paragraph>Finally, Nokia Lumia 635 is a great LTE-capable mid-range smartphone. It is cheaper, comes with a 4.5" WVGA IPS display, and utilizes the same Snapdragon 400 chipset but with 512MB of RAM. The Lumia 635 runs on the latest Windows Phone 8.1 OS. If you aren't biased against Windows Phone, Lumia 635 is a great alternative to the Moto G 4G and most other affordable Android.</paragraph>
+			<paragraph> Nokia Lumia 635</paragraph>
+			<paragraph>Motorola Moto G 4G is a great improvement over the original model and it hardly has got anything wrong. Well, the camera is bad as before, but that wasn't on the update sheet anyway. It's a great affordable mid-ranger and while it may not be the perfect smartphone in the class, it surely is among the best - a commendable achievement nevertheless. And if you don't worry about the camera quality, then you don't have to worry about anything with the Moto G 4G!</paragraph>
+		</subsection>
+	</page>
+</review>

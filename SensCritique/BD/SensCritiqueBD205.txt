@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Phallaina</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Phallaina/18966507</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>24</numberOfVoters>
+		<numberOfVoters>35</numberOfVoters>
+		<numberOfVoters>33</numberOfVoters>
+		<numberOfVoters>25</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Un roman graphique pour les écrans tactiles</title>
+		<author>Pierre Cattan</author>
+		<date>2016-02-03</date>
+		<score>1.0</score>
+		<content>Alors voilà, je le dis tout de suite, j'ai produit Phallaina de Marietta Ren avec toute l'équipe de Small Bang. Donc, je ne vais pas vraiment écrire une critique, je laisse aux lecteurs le soin de se faire une idée. Je souhaitais juste souligner la qualité de l'équipe qui a travaillé autour de Marietta pendant deux ans. Des personnes issues de l'animation et du jeu vidéo qui ont croisé leurs compétences pour donner naissance à cet objet hybride qui propose unun nouveau format pour les romans graphiques, à l'âge ou nos doigts, rois du touché, ont pris le pouvoir. Pour ceux qui n'ont pas encore fait l'expérience : Phallaina est une application gratuite, à télécharger ici.</content>
+	</review>
+	<review>
+		<title>Immersion réussie</title>
+		<author>MaryB</author>
+		<date>2016-03-11</date>
+		<score>0.7</score>
+		<content>Le concept est vraiment chouette, l'animation est réussie et l'environnement sonore est assez bluffant. Les dessins sont aussi très beaux et le style ainsi que le choix du noir et blanc se marient parfaitement avec la nécessité de faire défiler cette bande-dessinée. Le petit bémol, mais qui est tout de même sacrément important, c'est l'histoire elle-même ainsi que les dialogues, et dans une certaine mesure les personnages. Il y a trop d'intrigues évoquées dont on ne saura jamais le fin mot, des personnages aux comportements étranges voire légèrement artificiels, ça donne une impression un peu fouillis. Je n'ai pas eu non plus l'impression que l'héroïne évoluait tant que ça pendant l'histoire. Certains dialogues sont assez maladroits, voire caricaturaux. Bref, ç'aurait été une BD classique, je n'aurai probablement pas mis plus de 5...</content>
+	</review>
+	<review>
+		<title>Phallaina</title>
+		<author>Ritooon</author>
+		<date>2016-02-02</date>
+		<score>0.9</score>
+		<content>Une bande défilée, le concept est vraiment bien pensé, c'est une BD "améliorée" avec des animations, des sons d'ambiance. Elle permet une plus grande immersion dans l'histoire. Les dessins sont vraiment sympa, j'ai beaucoup aimé ce concept.</content>
+	</review>
+	<review>
+		<title>Phallaina</title>
+		<author>Youloute</author>
+		<date>2016-03-05</date>
+		<score>0.7</score>
+		<content>Une fresque numérique visuellement riche et intéressante, mais dont le format n'est pas exempt de défauts. Le scroll sur tablette n'est pas la mécanique la plus immersive et a tendance à fatiguer les yeux rapidement - comptez une bonne heure de visionnage pour parvenir au terme du récit.</content>
+	</review>
+	<review>
+		<title>Beautiful!</title>
+		<author>JulieToral</author>
+		<date>2016-03-12</date>
+		<score>0.7</score>
+		<content>L'idée de faire une bande défilée est excellente et il faut dire que la réalisation est superbe : outre des dessins assez oufs dans un noir et blanc maitrisé, outre l'effet de parallaxe qui rend aussi son petit effet (ces poissons en arrière plan <3), ce qui m'a le plus subjugué c'est la qualité des transitions, subtiles, élégantes, toutes en finesse, que ce soit dans le dessin ou dans la bande-son qui accompagne l’œuvre (enfin je veux dire, qui en fait complètement partie) : c'est de la très belle ouvrage. J'ai par contre regretté un scénario un peu léger et frustrant, qui se finit un peu en queue de poisson (si je puis me permettre) et des personnages que je n'ai pas réussi à cerner / à apprécier, je pense notamment à la traductrice amie de l'héroïne mais surtout à cette scientifique cheloue qui lui fait passer des tests : mais c'est qui cette meuf et POURQUOI ELLE SE COMPORTE DE FAÇON AUSSI BIZARRE ?! En fait ça n'est pas expliqué dans le livre, je trouve ça dommage. Mais l'application reste très, très jolie, j'insiste dessus, et l'histoire est quand même bien équilibrée et rythmée, on se demande à un moment si le cadre est réaliste ou fictionnel parce que l'univers est très plausible et proche du nôtre ; je conseille donc à fond malgré les quelques déceptions évoquées ci-dessus. En plus c'est gratuit oO</content>
+	</review>
+</sensCritiqueEntity>

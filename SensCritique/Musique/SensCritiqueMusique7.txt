@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Ege Bamyasi</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1972</year>
+	<link>http://www.senscritique.com/album/Ege_Bamyasi/1330614</link>
+	<generalScore>8.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>35</numberOfVoters>
+		<numberOfVoters>115</numberOfVoters>
+		<numberOfVoters>210</numberOfVoters>
+		<numberOfVoters>140</numberOfVoters>
+		<numberOfVoters>48</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Déroute enluminée</title>
+		<author>Lucid</author>
+		<date>2012-06-07</date>
+		<score>0.9</score>
+		<content>C'est fou, dès qu'on parle de l'Allemagne, on entend tout de suite parler de choucroutes et de saucisses, de nazis et de dictateurs aux moustaches extravagantes, de joueurs de football aux coupes de cheveux improbables, et de bières. Ce qui est assez triste, quand on connait Can. Parce que Can c'est surement un des meilleurs groupes de la fin des sixties et du début des seventies. Ce genre de groupes, que dix ans après tout le monde citent en référence absolu. Un groupe aussi révolutionnaire que le Velvet Underground. Donc, Can. Des allemands barrés (c'est l'acronyme de Communisme Anarchisme Nihilisme, hein) qui font au départ du rock psyché de haute qualité. Mais voilà, leur chanteur Mooney quitte le groupe sous les conseils insistants de son psychologue car le groupe serait dangereux pour sa santé mentale, étrange histoire. Donc boom, le remplaçant arrive, un jeune japonais que le groupe a rencontré quelque temps plutôt, et le groupe prend un nouveau virage. Ils courent s'enfermer dans un château et quelques mois après Tago Mago voit le jour. Considéré comme leur plus grand album, on nous livre un disque monstre, expérimental, un monument décisif dans l'évolution de la musique rock, un disque perturbé jusqu'à la moelle. Mais les voilà qu'ils enchaînent sur Ege Bamyasi. Ege Bamyasi est plus calme, plus abordable, mais pas pour le moins tout aussi grandiose. Alors oui, les expérimentations folles, les délires psychotiques, les déchirements ont disparus mais ça reste quand même une plaque tournante de l'avant-garde. Suzuki est beaucoup plus présent mais sa voix hante toujours, plane, part, revient, les montées de « Sing Swan Song » sont grandioses. L'album se tourne vers des styles plus tropicaux, avec des touches tribales, un peu de funky (surtout sur l'incroyable « I'm so green » et cette guitare qui swing). Mais ça reste dans le fond du psyché, avec les secousses de « Soup », l'atmosphérique « Pinch » ou la joyeuseté de « One More Night ». Des sons étranges nous narguent toujours, reviennent encore, nous prennent aux tripes et nous fait balader dans des environnements colorés et grandioses. Du coup, ça m'étonne pas que Suzuki, deux ans après, fasse ses valises et partent vadrouiller l'Allemagne avec ses potes, les témoins de Jéhovah. Un monde étrange.</content>
+	</review>
+</sensCritiqueEntity>

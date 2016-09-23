@@ -1,0 +1,130 @@
+<review>
+	<title>Samsung Galaxy Note7 hands-on</title>
+	<description>First impressions</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_note7-review-1472.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note7 at a glance:<subsectionTitle>
+			<paragraph>Form factor: metal frame, dual-tone paint job with the Blue Coral option</paragraph>
+			<paragraph>Durability: IP68 rating (dustproof, water resistant beyond 1m of water); S Pen works underwater (!)</paragraph>
+			<paragraph>Display: Dual-curved 5.7" Super AMOLED of QHD resolution; Edge features are back; Gorilla Glass 5</paragraph>
+			<paragraph>S Pen: can leave notes on Always-on screen; 4096 pressure levels; doesn't break if you put it the wrong way in</paragraph>
+			<paragraph>Platform: Snapdragon 820 or Exynos 8890 (region dependent); 4GB of RAM; Base model has 64GB of storage (expandable via microSD)</paragraph>
+			<paragraph>Software: Android 6.0 Marshmallow</paragraph>
+			<paragraph>Security: iris scanner; fingerprint scanner</paragraph>
+			<paragraph>Camera: 12MP dual-pixel camera; 2160p video capture</paragraph>
+			<paragraph>Connectivity: USB Type-C (a first for Samsung) with On-The-Go support; NFC for Samsung Pay</paragraph>
+			<paragraph>Battery: 3,500mAh; new power-saving modes; quick charging (wired and wireless)</paragraph>
+			<paragraph>Launch: Pre-orders start August 3, sales officially begin August 19</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Last year, Samsung focused on its Galaxy S6 cash cow and the Note5 got slightly overlooked (especially in Europe, where it wasn't even present and the S6 edge+ was left to carry the flagship phablet flag alone). This year, the Note is back and stronger than ever.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Samsung Galaxy Note7 stands at the heart of a multifaceted ecosystem that is supported by three pillars - business, games and multimedia.</paragraph>
+			<paragraph>On the business side, the improved S Pen collaborates with the Always-on screen for even easier note taking. The iris scanner works with KNOX and Samsung Pay to secure your data (both work and personal) and your money even tighter than before.</paragraph>
+			<paragraph>The Galaxy Note7 wants to rule mobile gaming. VR especially, with a redesigned Gear VR. The phone supports the new Vulkan API, which is just starting to gain ground with PC games. As a nice bonus, you get $25 worth of "console-quality" games at launch.</paragraph>
+			<paragraph>The Samsung Galaxy Note7 is a media creation and a consumption nexus too. It's one of few mobiles that can display HDR video (an up and coming tech for 4K TVs). With the Gear 360, it can also snap VR-ready panoramas too.</paragraph>
+			<paragraph>Other accessories come into play too. The phablet's 3,500mAh battery is paired with two new power saving modes and can use an optional wireless quick charger for quick cable-free top-ups. Active users have the Gear IconX wireless headphones and the Gear Fit 2 smart band to look forward to (and you can score the Fit 2 for free!). Also, the S Pen works underwater, so activities are not limited to dry land.</paragraph>
+			<paragraph>Yes, the Galaxy Note7 is the first Note to get waterproofed - it holds an IP68 certification.</paragraph>
+			<paragraph>Samsung's own research shows that Note owners use 50% more productivity and business apps than Galaxy S7 owners. And they consume 30% more multimedia. Let's see if the new Galaxy Note7 can live up to the magic created by its predecessors.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>The Galaxy Note line premiered the curved screen design on the Galaxy Note Edge (that came alongside the Note 4) but then lost it to the S line. Samsung has had a change of heart and went all in on curves - there's no flat Galaxy Note7, just ones with a curved screen.</paragraph>
+			<paragraph>The 5.7" Super AMOLED display is curved on both sides (think S6 edge and S7 edge - the Note Edge had a different approach), which helps make it 2.5mm narrower than last year's Note5.</paragraph>
+			<paragraph>Ergonomics are further improved by reduced thickness and weight plus a more pronounced curve on the back compared to the Note5. The Galaxy Note7 feels like a plus version of the S7 edge, except this time the S-Pen stays.</paragraph>
+			<paragraph>Samsung has been loosening up the business casual colors of the earlier Notes, but this year it upgraded from 'casual' to 'beautiful' with the Blue Coral option.</paragraph>
+			<paragraph>It combines Gold (bordering on Rose Gold) for the metal frame and accents with sky blue for the panels that sit below the glass on the front and back. Other color choices include the usual Black Onyx, Silver Titanium and Gold Platinum (no pure white this time, though).</paragraph>
+			<paragraph>HTC explored dual-tone phones before, but it seems to have abandoned the idea, at least in the flagship segment. We found the Galaxy Note7 in Blue Coral very attractive and really arguing who did it first is beyond the point here.</paragraph>
+			<paragraph>Colors aside, the materials of the Galaxy Note7 are as premium as ever. The metal frame holds up two 2.5D shaped panels of Gorilla Glass 5.</paragraph>
+			<paragraph>The phone is waterproof with an IP68 rating. Formally, this means it can dive beyond 1m of water for longer than half an hour, on top of being dustproof.</paragraph>
+			<paragraph>Touchscreen never played well with water, but the separate digitizer for the S Pen has no such issues. That's right, you can use the S Pen to control the phone, a feature outdoor types will surely appreciate.</paragraph>
+			<paragraph>Samsung seems to think that you'll get your Galaxy Note7 wet often. It gave an example where you use the new iris scanner after you come out of the shower. Wet, pruney fingers don't work well with fingerprint readers either, not just touchscreens.</paragraph>
+			<paragraph>The iris scanner uses an IR light and a dedicated iris sensor, so it will work in any condition - light or dark, wet or dry, with or without reading glasses.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>Samsung was the first to jump on microUSB 3.0 but eventually dropped the odd-looking connector. It has been quite conservative since then and only now adopts the new USB Type-C standard.</paragraph>
+			<paragraph>The port supports USB On-The-Go so you can hook up accessories. Type-C ones are fairly easy to find these days, but just to be safe, Samsung includes a Type-C to microUSB 2.0 adapter in the box.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note7 packs a 3,500mAh battery, which is surprisingly smaller than the S7 edge battery (3,600mAh). It's a tiny difference and the S7 edge got great battery life, so the Note shouldn't be too bad, but it probably won't break any records.</paragraph>
+			<paragraph>Samsung redesigned the power saving modes. Gone are the regular and Ultra power saving options, Medium and Max power saving modes take their place.</paragraph>
+			<paragraph>They are fully customizable and can limit the screen's brightness, change its resolution (e.g. drop it to HD to ease the stress on the chipset), limit the chipset and stop background data.</paragraph>
+			<paragraph>When you're done tuning both modes to your liking, their Apply button gives you an estimation of how much battery life you've added.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The S Pen is tougher, more focused<subsectionTitle>
+			<paragraph>The S Pen is the defining feature of a Note, but it caused some headaches last time around. We asked and no, the Galaxy Note7 will not break if you stick the S Pen in backwards.</paragraph>
+			<paragraph>With that out of the way, the trademark stylus is about the same size as its predecessor. The tip of the S-Pen itself has been made even finer for higher precision writing and the button has been moved up slightly to prevent accidental clicks.</paragraph>
+			<paragraph>Speaking of clicks, the top clicks just like a normal pen. Besides being pretty cool, the clicking serves an actual purpose - it extends the top, allowing you to pull out the S Pen.</paragraph>
+			<paragraph>As with the Note5, taking out the S Pen without unlocking the phone launches the note-taking tool. You can take longer notes with the Galaxy Note7 as the app automatically scrolls up.</paragraph>
+			<paragraph>And you can pin a note onto the Always on screen so it stays on after putting the S-pen away, great for shopping lists or other remainders. You can now erase things on the screen-off memo by simply holding the button down while scratching unwanted marks. The new stylus and digitizer can distinguish up to 4096 levels of pressure, double the sensitivity level of its predecessor.</paragraph>
+			<paragraph>As mentioned in the previous chapter, the new S Pen works underwater (Samsung had a cool demo). Even if you never want to take notes while diving, at least you can always control the phone underwater as you can't use the touchscreen very well when it's wet.</paragraph>
+			<paragraph>The new S Pen has improved software features too. Its app suite (S Note, S Memo and others) has been unified in a single app - Samsung Notes.</paragraph>
+			<paragraph>The stylus will help your reading comprehension. You can translate text just by pointing at it (from 38 source languages to 72 target languages). It can also magnify small type so you can reach for your S Pen instead of your glasses.</paragraph>
+			<paragraph>An interesting (and perhaps niche) feature lets you turn videos into animated GIFs with Smart Select. You select a portion of the video (you don't have to use the whole frame) and hit Play.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Security features<subsectionTitle>
+			<paragraph>Samsung added an iris scanner to the list of biometric sensors, but the fingerprint reader is still on board and you can use whichever you prefer (or neither, if you prefer to live dangerously). Both use a passcode as a fallback.</paragraph>
+			<paragraph>This should happen less often with the iris scanner, though. Fingerprint readers can fail if your fingers are wet or you put them at an odd angle. Samsung mentions that you would have to hold the phone up to eye level for best results with the iris scanner.</paragraph>
+			<paragraph>Samsung Pay will support the iris scanner soon (Samsung didn't commit to a launch date, however). The scanner will also be added to Samsung Pass - the feature that allows third-party apps and services to tap into the phone's advanced authentication features.</paragraph>
+			<paragraph>There's a Secure folder, where you can lock up sensitive files (or photos) and even apps. Knox Workspace will keep your work apps secure and separate from your personal apps and info and vice versa.</paragraph>
+			<paragraph>New to the Note7 as well, you can add any photo to your secure content directly from the gallery! The image will become encrypted and stored in the private partition, away from your personal files and folders.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note7 runs Android 6.0 Marshmallow spiced up with some exclusive Samsung features. We already looked at the proprietary S Pen improvements but there's more.</paragraph>
+			<paragraph>Part of the new experience is the redesigned notification area and quick toggles. A handy Block notifications button is available for when you need to disconnect. A search field is now available below the quick toggles, which themselves have new additions (e.g. a sleep-friendly Blue light filter).</paragraph>
+			<paragraph>Samsung has enabled HDR support for videos. You see "HDR video" in cameras fairly often, but this refers to a different feature - one you see on new, high-end 4K TVs. The Galaxy Note7 is one of the first mobile devices to support this.</paragraph>
+			<paragraph>Basically, regular video (regardless of resolution) only uses 8 bits per color channel - that's 256 different shades. HDR video quadruples that number (or more), which both helps prevent color banding in gradients and enables high-contrast scenes (with lots of bright and dark areas).</paragraph>
+			<paragraph>The Always on screen is back and brings new features thanks to the S Pen. You can scribble a note that will be always visible, even when the phone is locked (finally the Galaxy Note lives up to its paper counterparts).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note7 features the same 12MP camera as the S7. This means the amazing dual-pixel autofocus tech, great image quality and 2160p video recording. The selfie camera is the same 5MP shooter.</paragraph>
+			<paragraph>Samsung did redesign the camera UI, though. It makes better use of swipe gestures - left/right to change camera mode, up/down to flip between the two cameras.</paragraph>
+			<paragraph>It was a busy floor as everyone flooded in to try out the Note7, but we managed to snag a few camera samples. It's a familiar camera that offers great image quality and the most accurate autofocus game in town.</paragraph>
+			<paragraph>We even snapped a quick selfie with the 5MP camera. These days it's unheard of to go somewhere interesting and not take at least one selfie.</paragraph>
+			<paragraph>Here's a short video too, 1080p.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gear VR gets better, is backward compatible<subsectionTitle>
+			<paragraph>Samsung sees that VR as the next growth engine for the gaming industry and it wants in. It says that users have spent 2 million hours in virtual worlds using the Gear VR.</paragraph>
+			<paragraph>Samsung was giving them away with the S7 duo in some markets but it seems this time around you'll have to buy the headset separately.</paragraph>
+			<paragraph>The good news is that it is backward compatible - it supports all flagship devices since the Galaxy S6. A swappable connector makes sure you can switch between USB Type-C (Note7) and microUSB 2.0 (older Galaxys).</paragraph>
+			<paragraph>You can plug accessories into the new Gear VR can thanks to its USB Type-C port with OTG support. Will we see wired gaming controllers from Samsung? This remains to be seen.</paragraph>
+			<paragraph>Anyway, the headset will offer a superior VR experience. Its interior is painted black to minimize reflections and features an internal divider that prevents light for one eye leaking into the other side.</paragraph>
+			<paragraph>By the way, the Samsung Galaxy Note7 supports the Vulkan API, which is used in some PC games. The best way to describe it is as "bare-metal" - game developers can sidestep GPU drivers and just push the graphics hardware as much as possible with no overhead.</paragraph>
+			<paragraph>Better still, Vulkan has been designed to make full use of multi-core processors, so we expect improved performance (VR is heavy on desktop GPUs, so mobile GPUs need all the help they can get).</paragraph>
+			<paragraph>Samsung is offering $25 worth of 'console-quality' games with the Note7, so you'll definitely have something to play right out of the box.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other accessories<subsectionTitle>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note7 experience hinges on the S Pen. Without it, you'd be tempted to just get the Galaxy S7 edge. That's hardly news to Samsung, the Note7 stylus has some amazing new tricks.</paragraph>
+			<paragraph>Not all of them are as showy as writing underwater, but the Screen off memo sounds simple yet has the biggest potential to be useful. The new tools in the Air Command menu make the S Pen even more powerful.</paragraph>
+			<paragraph>There's the iris scanner too, which may replace the fingerprint reader as the default authentication sensor. It's not fully enabled yet (e.g. Samsung Pay doesn't work), but when it's active it will work in situations the fingerprint reader fails (like having wet fingers).</paragraph>
+			<paragraph>Samsung finally took the plunge and moved to USB Type-C. Perhaps put off by the bad microUSB 3.0 experience, but the company played it very safe. We are excited to see what Samsung does with it, the new Gear VR already supports USB Type-C passthrough so maybe there's something on the way.</paragraph>
+			<paragraph>The Galaxy Note7 is the fourth in a row to feature a 5.7" Super AMOLED screen. It has QHD resolution (vital for VR) and is curved on both sides, which helps make the phone more compact. It's easier to handle than the Note5, it feels like a sligthly bigger S7 edge.</paragraph>
+			<paragraph>Samsung has a solid plan for aftermarket value too. You may get a free Gear Fit 2 at launch and later you may be enticed to buy Gear IconX headphones for a full exercise package. There's the Gear VR + Gear 360 combo too, that lets you take photos and relive memories in VR.</paragraph>
+			<paragraph>Finally, the Samsung Galaxy Note7 offers the usual polished experience. Galaxy S brings the new features, Note perfects them - sounds simple and it is when you've practised enough. The strong sales of the S7 pair bode more than well for the Note7 - which in turn makes no mistakes and is globally available once again.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Un paquebot dans les arbres</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Un_paquebot_dans_les_arbres/21033969</link>
+	<generalScore>7.7</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Un paquebot dans les arbres</title>
+		<author>jerome60</author>
+		<date>2016-08-19</date>
+		<score>0.8</score>
+		<content>L’histoire se déroule au début des années 60. On y découvre une famille heureuse : Paul, le père, Odile, la mère et leurs trois enfants Annie, Mathilde et Jacques. Les parents tiennent le café du village, centre névralgique s’il en est. Paul rayonne, attire les foules et suscite l’admiration de tous, y compris de Mathilde. Celle qui n’a malheureusement pas été le garçon attendu après la naissance d’Annie. Celle que Paul appelle son petit gars et qui se comporte comme tel. Celle prête à tout pour attirer l’attention de ce papa n’ayant d’yeux que pour les autres. Quand la tuberculose entre avec fracas dans leur vie, touchant d’abord Paul puis rapidement après Odile, le monde s’écroule. Dans la France des trente glorieuses, seuls les salariés ont droit à la sécu et aux antibiotiques. Pour les autres, direction le sanatorium. Quand les parents s’y retrouvent tous les deux, Mathilde et son petit frère sont placés en famille d’accueil. Alors que les problèmes de santé s’accumulent, que la ruine se profile, que les services sociaux prennent en main et sans humanité la destinée des enfants, Mathilde tente de faire face et de maintenir les siens à flot. Magnifique portrait d’une jeune fille prête à tout pour affronter bille en tête la fatalité. Conserver les liens familiaux malgré les épreuves, subir la faim, le froid et la misère, soutenir les malades coûte que coûte, ne pas oublier sa propre vie en sacrifiant tout aux autres. Être forte mais pas invincible. S’écrouler et se relever, être soutenue et avancer. Tenir. Jusqu’au bout. Parce qu’il n’y a pas d’autre possibilité, parce que c’est ce qui donne du sens. Mathilde, admirable de ténacité et de fragilité, femme-enfant consciente d’enfiler un costume trop grand pour elle, d’assumer des responsabilités qui ne sont pas de son âge. Elle est belle Mathilde, portée par les mots de Valentine Goby, par le rythme envoûtant de son écriture sans fausse note. Un roman puissant et lumineux.</content>
+	</review>
+	<review>
+		<title>Un paquebot dans les arbres</title>
+		<author>Kissed-by-fire</author>
+		<date>2016-08-19</date>
+		<score>0.6</score>
+		<content>Paulot et sa femme Odile sont cafetiers et se consacrent 365 jours sur 365 à leur café, leurs habitués. Chez eux, on rit, on danse, on chante, on fait de la musique. Annie leur première fille est déjà grande, Mathilde un vrai garçon manqué de 9 ans et le petit dernier est encore tout petit lorsqu’on envoie Paulo au sanatorium. Ce n’est pas encore la tuberculose, mais on en est pas loin. La famille est détruite, s’endette, doit vendre le café, déménager, jusqu’à ce qu’Annie parte se marier, les parents envoyés tous deux au sanatorium. Reste alors Jacques et Mathilde, envoyés en famille d’accueil. Mais la jeune fille n’a aucune envie de se laisser faire et malgré les soucis d’argent, de santé, essaye de tout prendre en main pour garder la famille unie et le plus en forme possible. Ce roman se situe aux environs des 30 glorieuses (qui ne le sont clairement pas pour tout le monde) et finit sur la Guerre d’Algérie. On traverse l’époque, on voit les problèmes qui émergent de la société (comme la Sécurité Sociale qui ne prend pas en charge les gens qui travaillent pour leur compte). On voit surtout l’histoire plutôt tragique de cette fille, tout juste adolescente, à qui il arrive une succession de mésaventures, tandis qu’elle se bat seule, sans le soutien de sa soeur, non plus de ses parents, quasiment plus heureux au sanatorium où ils sont nourris, logés, blanchis, s’occupant peu du sort de leurs enfants. Le contraste entre la famille joyeuse et unie du départ et l’éclatement de ce cocon est brutale et difficile à accepter pour Mathilde. Le roman est bien écrit, agréable à lire. J’ai trouvé que le rapport à la guerre d’Algérie, même si la construction est bien faite, arrive un peu comme un cheveu sur la soupe puisque dans tout le reste du roman, on ne parle jamais d’événements extérieur. En revanche, toute la partie sur le quotidien des gens (que se soit les malades ou leur famille) est très bien travaillé et exploité. La relation entre les personnages est également bien décrite, notamment le lien et l’attachement de Mathilde pour son père, son héros pour qui elle ferait tout. C’est donc un bon roman, bien écrit, avec une intrigue simple mais qui ne lasse pas, qui nous rapproche vraiment des personnages, par contre, ce sont des sujets plutôt graves, il n’y a pas beaucoup de place pour la légèreté (à part dans les souvenirs, mais qui sont donc teintés de nostalgie).</content>
+	</review>
+</sensCritiqueEntity>

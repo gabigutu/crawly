@@ -1,0 +1,349 @@
+<review>
+	<title>HTC Windows Phone 8S review</title>
+	<description>Icebreaker</description>
+	<link>http://www.gsmarena.com/htc_windows_phone_8s-review-863.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>Dual-band 3G with 42 Mbps HSDPA and 5.7 Mbps HSUPA support</paragraph>
+			<paragraph>4" 16M-color S-LCD capacitive touchscreen of 480 x 800 pixel resolution</paragraph>
+			<paragraph>Scratch resistant Gorilla Glass 2 display</paragraph>
+			<paragraph>5 megapixel autofocus camera with LED flash, 720p@30fps video recording</paragraph>
+			<paragraph>Windows Phone 8 OS</paragraph>
+			<paragraph>1GHz dual-core Krait CPU, Adreno 305 GPU, Qualcomm S4 chipset, 512MB of RAM</paragraph>
+			<paragraph>Wi-Fi 802.11 a/b/g/n, dual-band</paragraph>
+			<paragraph>GPS receiver with A-GPS and GLONASS support</paragraph>
+			<paragraph>4GB of inbuilt storage, microSD card slot</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>Built-in accelerometer and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB port</paragraph>
+			<paragraph>Bluetooth v3.0 with A2DP and EDR, file transfers</paragraph>
+			<paragraph>Impressively deep and coherent SNS integration throughout the interface</paragraph>
+			<paragraph>Xbox Live integration and Xbox management</paragraph>
+			<paragraph>Data Sense</paragraph>
+			<paragraph>HTC exclusive apps</paragraph>
+			<paragraph>Beats audio enhancements</paragraph>
+			<paragraph>FM Radio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non user-replaceable battery</paragraph>
+			<paragraph>App catalog falls short of Android and iOS</paragraph>
+			<paragraph>No front-facing camera</paragraph>
+			<paragraph>No system-wide file manager</paragraph>
+			<paragraph>No voice-guided navigation</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>No one's had any reason to question HTC's commitment to Windows Phone. The Taiwanese have been on board since the heyday of PocketPCs, helping Redmond quickly man a nascent WP7 army. Now they're back in the thick of it for the next generation of the platform; this time with a smaller, more focused squad.</paragraph>
+			<paragraph>In the couple of the so-called signature WP8 devices, the HTC Windows Phone 8S is playing second fiddle to the 8X. The current flagship however, didn't quite convince us it had what it takes to put real pressure on competing platforms or stand up to the other big fish in the small pond that the Windows Phone market still is.</paragraph>
+			<paragraph>Fortunately, the HTC Windows Phone 8S has little of that to worry about. Not only is it the most affordable of WP8 smartphones, but it keeps a safe distance too from the Android heavyweights. We don't think that much pressure will be felt either from the iOS end. So anyone keen to try Microsoft's latest on a tight budget is seemingly already in the loop and the 8S has a chance of winning over some converts too.</paragraph>
+			<paragraph>Granted, the Windows Phone 8S by HTC (as the smartphone's official name goes) has the least capable hardware of all WP8 smartphones, but a dual-core Krait CPU device with the new-generation Adreno 305 GPU is not what we'd call underpowered. In fact, while the top dogs of its platform have to face Android rivals with double the computing power, this one is actually playing against equals.</paragraph>
+			<paragraph>It's a package that makes sense, never mind the hardware limitations. The lower screen resolution should be less strain on the GPU, while the microSD card slot makes up for the limited inbuilt storage. In theory, the HTC 8S should give the same solid smartphone experience as the high-end WP8 devices at a fraction of the price. Intriguing indeed. Let's see how the HTC Windows Phone 8S goes about it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Decent retail package<subsectionTitle>
+			<paragraph>Other than the handset itself and a few guides, the HTC Windows Phone 8S retail package contains the accessories needed to get you started. You get an A/C adapter, which connects with the supplied microUSB cable to charge the phone, a set of earphones and a SIM eject tool.</paragraph>
+			<paragraph>Considering the asking price, that's a decent bundle, offering the exact same stuff as the 8X flagship.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC Windows Phone 8S 360-degree spin<subsectionTitle>
+			<paragraph>At 120.5 x 63 x 10.3 mm, the HTC Windows Phone 8S is a pretty compact device. It's amazingly lightweight too without feeling fragile or cheap. Most importantly, the use of space here is a lot better compared to the 8X, which was just too big for the screen offered.</paragraph>
+			<paragraph>The 10.3mm profile isn't bad for the class, and because the smartphone is actually way thinner at the edges, it feels a lot slimmer. Plus, HTC brought the weight down to just 113g, so this one is good for carrying in just about any pocket.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The HTC Windows Phone 8S borrows a lot of design cues from its more expensive sibling, but has a clearly younger target. The two tone body comes in a number of bright colors, which in our opinion would best suit teenage hands. The black and white version, which we got for this review, is a tad more serious, but still not quite fit for corporate scenarios.</paragraph>
+			<paragraph>The great news is that slipping down the ranks has cost the HTC Windows Phone 8S nothing in terms of build quality. The smartphone is crafted to the same high standard as its senior sibling. The plain-looking colored plastic bit under the screen is the most questionable element of the phone's design, which by the way may look its worse in white.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The HTC Windows Phone 8S packs a 4" S-LCD (that's first gen) of WVGA resolution (800 x 480 pixels). 233ppi give you pretty sharp images, even if the screen doesn't quite push the limits of human eyesight the way some of the flagships do (one of the HTC WP S8's stable-mates, in particular, the Droid DNA).</paragraph>
+			<paragraph>The image quality is pretty good for the class with excellent brightness and very good contrast. Colors are generally very punchy, but the blacks are nothing impressive and the viewing angles are average. Contrast is quickly lost and colors get washed out at the slightest tilt. It's nothing you can't live with though.</paragraph>
+			<paragraph>Sunlight legibility is decent, though the Windows Phone 8S is struggling in brighter environments.</paragraph>
+			<paragraph>Finally here's how the HTC 8S display matrix looks under our microscope.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The set of controls on the HTC Windows Phone 8S should be pretty familiar - they are standard across the Windows Phone range.</paragraph>
+			<paragraph>You get the mandatory three-button combo below the screen: Start, Back and Search keys are all capacitive this time. They have pleasant haptic feedback, which can be disabled if not needed.</paragraph>
+			<paragraph>There's no front-facing camera this time, so the earpiece is all there's to see above the display.</paragraph>
+			<paragraph>The right side of the HTC Windows Phone 8X has a volume rocker and the dedicated camera key. Both controls are reasonably comfortable to use with the shutter key having a well-defined half press. It will launch the camera even when the phone is locked and does so amazingly fast.</paragraph>
+			<paragraph>The left side of the HTC 8S is bereft of controls and ports.</paragraph>
+			<paragraph>At the top, you'll find the 3.5mm audio jack and the power key.</paragraph>
+			<paragraph>The bottom of the HTC Windows Phone 8S features the microUSB port and the microphone pinhole.</paragraph>
+			<paragraph>The 5 megapixel camera lens is at the back, right next to the LED flash. The loudspeaker grille is all the way across, near the bottom of the matt back panel.</paragraph>
+			<paragraph>The color accent at the bottom is a removable cap that grants access to the micro-SIM compartment and the microSD card slot. Cheap storage expansion is great news and one of the few things the 8S offers over the 8X. Sadly, both HTC Windows Phone handsets have a non-user-removable battery, so an add-on juice pack is your only option to extend the phone's battery life.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>The HTC Windows Phone 8S is one of the best handling smartphones we have tried lately. It's nicely built, has those nice rounded edges that fit perfectly in the hand and is compact enough to allow single-handed operation. The finish is neat and practical, and the choice of paintjobs will be much appreciated.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface by Windows Phone 8<subsectionTitle>
+			<paragraph>HTC doesn't have as much leeway for customization as Nokia, but there are a few touches here and there that remind us where the 8S came from. We'll point them out to you as we go along.</paragraph>
+			<paragraph>Overall, it's largely a vanilla Windows Phone 8 interface, which we've previewed for you in the following UI video.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The HTC Windows Phone 8S is powered by a 1 GHz dual-core Krait processor paired with Adreno 305 GPU and 512 MB of RAM. While anything less than 1GB of RAM these days may seem to be a bit on the low end, Microsoft has taken steps to minimize the WP8 memory footprint.</paragraph>
+			<paragraph>With Windows Phone 8 Microsoft has made several significant improvements to the Windows Phone OS, and there's no better place to start than the lockscreen.</paragraph>
+			<paragraph>HTC has included a custom lockscreen, which, in addition to displaying the current time and date, calendar events, emails and missed calls, also gives you a glimpse of the weather in your location (if you have location services enabled). Pushing the volume rocker in either direction will bring the sound switch and music controls on top of the screen.</paragraph>
+			<paragraph>The lockscreen is accessed by pressing the unlock button on the top right. Swiping the lockscreen up unlocks the device or you can just press and hold the camera shutter key to unlock the phone straight into the camera app.</paragraph>
+			<paragraph>With Windows Phone 8, the Live Apps service allows apps to add notifications and images to the lockscreen. You can set one app to display big notifications (detailed status), with up to five more apps showing less detailed info (quick status).</paragraph>
+			<paragraph>The lockscreen wallpaper can also be controlled by apps - one of the installed apps can be set to choose the image (e.g. Bing's beautiful background images or photos from your Facebook account) or you can let the music player change the lockscreen image to the album art of the currently playing track.</paragraph>
+			<paragraph>The Modern UI is a vertical grid of Live tiles, which can be reordered any way you like. Almost anything can be pinned to the homescreen - apps, contacts, web pages.</paragraph>
+			<paragraph>Windows Phone 8 introduces resizable live tiles - a tap and hold on a tile will display an additional resize button that lets you opt between quarter, normal and double size tiles. If you select the smallest one (quarter), the tile will be just a static icon.</paragraph>
+			<paragraph>In our mind, the process of resizing live tiles could've been better. In order to switch from big to normal and then small you have to hit the same toggle several times - it would've made more sense if there were separate toggles to make a tile bigger and smaller or simply resize tiles by dragging the corner like in Android.</paragraph>
+			<paragraph>Most Live tiles display relevant info such as the current date, pending calendar events, missed calls, unread emails and more (third party apps do it too). The Marketplace tile displays the number of updates available, while the Pictures tile is essentially a slideshow of your photos. It's nice to have all that info always available at-a-glance. You can look at them as homescreen widgets of sorts, but that's oversimplifying.</paragraph>
+			<paragraph>WP8 can do multitasking - well, not true multitasking, but an iOS-like approach instead. Apps not in the foreground are suspended, but the OS has ways to take over and carry out the task for them (e.g. continue playing music). But just like iOS, if an app needs to run in the background (navigation clients, messengers, etc.) it can. WP offers both kind of multi-tasking and it's up to developers to choose how their apps behave.</paragraph>
+			<paragraph>The multi-tasking interface is the same as in WP7 - to switch between apps you press and hold the Back key. You'll get thumbnail snapshots of the apps, ordered chronologically left to right.</paragraph>
+			<paragraph>Scrolling is done horizontally, and tapping on an app will bring you back to your running or suspended app. You can't "kill" any apps from here though - to exit one you must expand it and use the Back key to terminate it.</paragraph>
+			<paragraph>If you start frantically hitting the back key it will start closing all of the open apps, which is very unnatural, especially when you've got an open Internet Explorer, which has to go all the way back to the first loaded page before it closes. Overall, it's best to let the OS manage the apps and not worry about which ones are opened or closed.</paragraph>
+			<paragraph>Opening the settings menu displays two sets of options: like on the start screen, you can swipe between System and Applications. System covers all the settings you can think of like sounds, color theme, Wi-Fi, Bluetooth, Accounts, etc., while Application settings let you configure each app you have on the device.</paragraph>
+			<paragraph>We would've liked to see some kind of quick toggles in Windows Phone 8 to spare you the need to go all the way to the settings menu to enable Wi-Fi, Bluetooth, GPS and the likes.</paragraph>
+			<paragraph>Another feature we feel is missing is a place where you can see all of your notifications from various apps. Live tiles manage to show notifications from each app to some extent, but they don't really have enough room for things like e-mail subject and such, while Android and iOS notification areas do. Microsoft has expressed that it's working on just such a feature and that we should see it in a future update to WP 8.</paragraph>
+			<paragraph>Windows Phone 8 also can be controlled via voice only - you can dictate or have the phone read text out, you can initiate searches and so on. Other OS's are doing it too - Android's got Google Voice Actions, Apple has Siri and there are a number of third party "virtual voice assistants" available. Unfortunately, the Windows assistant is still far behind the competition in terms of functionality.</paragraph>
+			<paragraph>A unique feature brought by WP8 is the Kid's corner. The Kid's corner lets you select the apps and the types of media content that goes in and password-protect it, so you can safely share your smartphone with kids without worrying that they will mess up your settings or access inappropriate content. When activated, the Kid's corner is accessible by swiping left of the lockscreen. If you've secured it, your kids won't be able to return to your standard lock and home screen without the password.</paragraph>
+			<paragraph>Microsoft is trying to appeal to business users too - a company can create its own Hub where employees can find news, calendars and other info to help them with their work. Companies can also create their own apps that only employees can install.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>People Hub with social networking integration<subsectionTitle>
+			<paragraph>People Hub has the best social twist to a phonebook to date. The first tab shows you a list of all your contacts (phone contacts, social network friends, email contacts - everything), with a search shortcut and an add contact button.</paragraph>
+			<paragraph>Contacts are ordered alphabetically and indexed with colored letter tiles. You can tap any one of those letter boxes and the screen shows you the entire alphabet highlighting the letters actually in use. You can tap a letter to scroll to that part of the list.</paragraph>
+			<paragraph>Contacts can be sorted by either first name or last, and they can be displayed as "First Last" or "Last, First" (the two settings are separate). You can also filter entries by choosing which services are used to make up your contact list (you can hide Twitter contacts, for example).</paragraph>
+			<paragraph>Swiping to the side brings you to the 'What's new' tab that shows new events from contacts in your social networks in one location. Another swipe shows the recent contacts, followed by a history of recent conversations. Instead of favorites, you can pin a contact to the homescreen for quick access.</paragraph>
+			<paragraph>The next tab is Rooms and Groups. Groups is a handy way to organize your contacts, with "text everyone" and "email everyone" options. All status updates from the grouped contacts are pulled in from their respective social networks, and you get access to their online photo albums too. Groups can also be pinned to the homescreen for quicker access.</paragraph>
+			<paragraph>Rooms is similar but more advanced - it's a private social network of sorts. Rooms allow group chats, but also sharing a private calendar, notes (including to-do lists), photos and videos. The default Room is the Family room and you can easily invite your relatives.</paragraph>
+			<paragraph>The cool thing is that they don't all need WP8 phones to get in - Windows Phone 7 handsets and iPhones can join a room too, though they only get the shared calendar. Android users are left out. Still, Rooms is a great way to keep in touch and get organized, while avoiding the clutter of Facebook and the like where everyone has too many friends and too many notifications waiting for them.</paragraph>
+			<paragraph>The Me card is your own profile. From here you can post status updates, set chat status or check into locations, among other things. You can also change your profile picture (only for Facebook and Live though, still not Twitter).</paragraph>
+			<paragraph>Another tab in the Me card lets you view notifications (e.g. Twitter mentions) and, finally, What's new lets you view your own status updates.</paragraph>
+			<paragraph>Much of the functionality available when viewing the list of all contacts is there when viewing a single contact. Below the contact's photo and their latest SNS updates, there are actions - "call mobile", "text mobile", "write on wall", "view website" and so on. Below each action, in smaller type are the target for the action (e.g. phone number, email, site URL) and where that info came from (Google, Facebook, etc.).</paragraph>
+			<paragraph>The soft keys let you pin a contact, link two (or more) contacts from various services, or edit. Swiping to the side brings out the What's new tab, which shows the latest updates and events from just that contact. Pictures is where the contact's Facebook albums are.</paragraph>
+			<paragraph>The History tab displays not only the complete conversation history with a contact in one place, listed chronologically, but everything but status updates as well: calls, texts (actually threads from the Messaging hub), and emails.</paragraph>
+			<paragraph>When editing a contact, you can add multiple phone numbers and email addresses of different types (home, work, etc), a custom ringtone, a note or a variety of different fields (like birthday, website, office location and so on).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony gets the job done<subsectionTitle>
+			<paragraph>The HTC WP 8S offered loud and clear in-call audio and we had no issues with signal reception.</paragraph>
+			<paragraph>The phone application shows you the call history, with shortcuts to voice mail, dialer and phonebook. The phone live tile will show the number of missed calls, as will the lockscreen.</paragraph>
+			<paragraph>The dialer itself is as simple as it gets - a phone keypad with a Call and a Save button. The lack of smart dialing is an annoyance, but the People hub is good at finding contacts.</paragraph>
+			<paragraph>You could use voice dialing instead - Microsoft's TellMe did well at recognizing our commands.</paragraph>
+			<paragraph>Upon an incoming call, the contact's photo will appear full screen for you to slide up and reveal the call buttons. This will prevent any calls from being accidentally answered or rejected.</paragraph>
+			<paragraph>A side note - status indicators are hidden by default (except the clock) but you can bring them up with a quick tap at the very top of the screen.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test and the HTC Windows Phone 8S earned a mark of Good. The loudspeaker isn't the loudest we've tested, but is good enough even in loud environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Powerful messaging<subsectionTitle>
+			<paragraph>The Messaging department is excellent in Windows Phone. Threads are the building blocks of all non-email messaging. Although a sort of conversation view, threads mash together SMS, Facebook and Windows Live messages.</paragraph>
+			<paragraph>That's the thing about Windows Phone: the Messaging hub removes the old division between texts, IMs, social messages. The other hubs do the same for other functionality, making the whole thing simple yet powerful.</paragraph>
+			<paragraph>Anyway, messaging is separated into two tabs - threads and online. Online shows you who's online with the people you've talked to most recently on top.</paragraph>
+			<paragraph>Threads is where this hub's impressive features kick in. A new thread is created for each person you start a chat with. Messages are displayed as speech bubbles and a label on the left shows the type of message - text, Facebook or Live Messenger. Labels are only displayed when the conversation moves across platforms to avoid clutter.</paragraph>
+			<paragraph>You can choose which service to use to send a reply and the text box will remind you of what you're currently using with a message like "chat on Facebook". Individual messages can be copied (the entire message is copied to be pasted later, you can't copy only a part of the message), they can be deleted or forwarded. Entire threads can be deleted too.</paragraph>
+			<paragraph>The visual voicemail functionality is also part of the OS (but its availability is dependent on your plan and the carrier). It works as expected, letting you read your voicemail messages instead of listening to them.</paragraph>
+			<paragraph>Windows Phone 8 offers a unified inbox for email, a feature introduced with 7.5. You can link multiple inboxes (and unlink them individually later), so that you have a single place to check for new messages.</paragraph>
+			<paragraph>Linking several inboxes will also automatically combine their live tiles. You can browse individual folders for each account, which lets you view messages from only one email account even if it's linked.</paragraph>
+			<paragraph>Conversation view lists emails between you and a contact chronologically, grouping them by subject. It's the display style that Gmail popularized and is the best way to keep track of a conversation over email.</paragraph>
+			<paragraph>Each email conversation is listed with a subject and number of messages, plus how many of those are new. A tap on a conversation expands it to show the messages and a line from each message.</paragraph>
+			<paragraph>You can tap on an individual message to read it, as well as skip messages back and forward to navigate the conversation. You can't swipe between the messages though.</paragraph>
+			<paragraph>You can select individual emails, mark them as read/unread, flag, unflag, etc. Finally, you can search your entire mail for individual emails - it's a very useful feature, especially for those with busy inboxes.</paragraph>
+			<paragraph>Text input on Windows Phone is limited to the default QWERTY keyboard and offers portrait and landscape modes. The layout remains the same across all WP devices and the only options you have are changing the language of the keyboard and resetting the dictionary that displays word suggestions. Windows Phone 8 has way more supported languages than its predecessor.</paragraph>
+			<paragraph>The WP QWERTY keyboard is very comfortable to use and offers sound feedback. The keys are easy enough to hit but there's no haptic feedback and there's no way of enabling it.</paragraph>
+			<paragraph>Selecting text is very simple, but does require some getting used to. You hold your finger over some text for a second or two and then release. The text area gets highlighted and you can drag the beginning and end cursors to adjust how much text you want to select. A little icon pops up for copy and the selected text is available to paste anywhere in the OS.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photos with SkyDrive<subsectionTitle>
+			<paragraph>The Photos hub is also pretty much the same as we left it in Windows phone 7.5. You can set a single photo as a background for the hub (it used to be the last photo viewed) or you can set it to shuffle different photos.</paragraph>
+			<paragraph>And of course, the point of hubs is that they are the go-to place to do things, instead of apps. Apps can integrate into the Photos hub, so for example, a photo effects app can make its options available right in the hub. Devs need to enable that into apps, however.</paragraph>
+			<paragraph>The main view of the Photos hub offers four options - camera roll, albums, date and people. A swipe to the left reveals what's new, which displays your Facebook friends and liked pages' new picture galleries. Another swipe shows your favorites section, where the photos you've faved are displayed.</paragraph>
+			<paragraph>Albums feature the camera roll, the preloaded system pictures and all of your Facebook albums. A flick to the left shows all your pictures sorted by date. You can't sort individual camera roll photos into albums, though.</paragraph>
+			<paragraph>The people section is where you can select your friends and contacts whose Facebook galleries you want to display right in your Photos hub. It's a nice feature for social network users but will be only an empty section for those that aren't too fond of Facebook.</paragraph>
+			<paragraph>The camera roll presents your entire collection of photos and videos captured with the device in a 4x5 grid. You cannot change the layout. Viewing a photo can be done in either portrait or landscape mode. Zooming in on a photo is done by either double tap or a pinch. The camera roll doesn't downsize pictures and you can enjoy them in full resolution.</paragraph>
+			<paragraph>Sharing options include messaging, email, Facebook and the cloud-based SkyDrive.</paragraph>
+			<paragraph>While uploading photos to Facebook or Windows Live, the OS will detect any untagged faces and allow you to tag them before proceeding with the upload.</paragraph>
+			<paragraph>The camera roll has a dedicated auto-fix setting, which tries to improve your photo automatically. It's a nice feature but one that produces less than stellar results at times.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Music + Videos hub in charge of all multimedia<subsectionTitle>
+			<paragraph>Windows Phone has both music and video combined in one interface with the Music + Videos tab.</paragraph>
+			<paragraph>The default Windows Phone 8 media players are on board too. They reside together in the Music + Videos hub, which now bears the Xbox logo or the last played media thumbnail. When you start it, it shows the History, which gives you quick access to the last two items played, or you can go to the full menu and start the music or video player, listen to or watch podcasts, or go to the Marketplace.</paragraph>
+			<paragraph>The music section is made up of albums, songs, playlists, genres and artists. Videos features all, television, music videos, films and personal - think of them like more as categories you can assign your videos to when syncing with Zune. The third section is where you can store all of your downloaded audio and video podcasts.</paragraph>
+			<paragraph>The music hub has a simple and straightforward interface. You won't have any difficulties using it. However there are some things missing, like an equalizer. Another missing feature is the ability to scrub through a song - you have to press and hold on the FF/rewind buttons to simply skip back and forth.</paragraph>
+			<paragraph>Update: Since the GDR2 update, the 8S now has FM Radio support, as well.</paragraph>
+			<paragraph>As a music player, it's pretty standard - your tracks are sorted by artist, album, playlists or you can view all songs. Under the album art it lists the next three songs to be played - really helpful if you're using shuffle. There's no way to manually reorder the upcoming songs, but you can reshuffle them if there's one you don't like.</paragraph>
+			<paragraph>The video player is integrated into the Music + Videos hub. It has a very simple interface - you have fast forward and rewind controls, a timeline and a video size button that toggles full-screen.</paragraph>
+			<paragraph>Video support on the 8S was spotty and we again had problems getting all XviD videos to play smoothly, if at all. We were also unable to get 1080p videos to work properly, where they would oddly play at about 1/10 of the normal speed. MOV files played and that's a rare occasion in our tests.</paragraph>
+			<paragraph>Since Windows Phone 8 is no longer Zune dependent, you can easily upload videos off your computer in USB mass storage mode.</paragraph>
+			<paragraph>Individual items can also be pinned to the homescreen - like a song or video.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The loudest audio output around<subsectionTitle>
+			<paragraph>The most impressive part of the HTC Windows Phone 8S audio output is its loudness. The smartphone is the loudest we have ever seen (except for the good old Nokia N91) both with and without headphones attached to it. If volume levels are what you are after this is the handset for you.</paragraph>
+			<paragraph>Sadly, the output isn't perfectly clean - the distortion levels are above average, while the noise levels and dynamic range are nothing to write home about either.</paragraph>
+			<paragraph>The stereo crosstalk wasn't the best in the first part of the test, but increased only a little when we plugged in a pair of headphones, so it's good overall. The frequency response was spot on in both cases.</paragraph>
+			<paragraph>Check out the numbers and see for yourselves.</paragraph>
+			<paragraph> HTC Windows Phone 8S frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera quality is decent, but not great<subsectionTitle>
+			<paragraph>The HTC Windows Phone 8S boasts a 5MP camera with LED flash, which can snap photos of 2592 x 1944 pixels resolution.</paragraph>
+			<paragraph>The camera UI is pretty simple - you have your viewfinder and some controls on the right. From top to bottom they are the still/video camera toggle, flash mode setting and the Lens button. On the left you have an arrow that takes you to the images taken with the camera, alternatively you can use a swipe gesture too.</paragraph>
+			<paragraph>The camera app on Windows Phone offers extensive settings, such as white balance, contrast, saturation, sharpness and ISO, among others. There is also face detection, while the flash can be set to auto, forced or off.</paragraph>
+			<paragraph>The dedicated shutter key will wake the phone up with a press-and-hold and launch the camera app. The 8S is not the fastest shooter around and it takes it a couple of seconds before a photo is taken. This is more delay than we're used to from modern phones. You can tap the screen to select where in the frame you want to focus, and the 8S will automatically snap a picture once it's focused.</paragraph>
+			<paragraph>Lenses is an interesting feature, enhancing the camera functionality without making a mess of third party apps each with its own UI. Lenses are accessible directly from the native camera app (they show up in the list of installed apps too if you want to pin a Lens to the start screen). Out of box, the 8S only has the Bing Vision Lens preinstalled, although you can get more from the Market.</paragraph>
+			<paragraph>HTC has included its Photo Enhancer app, which lets you apply various Instagram-like effects to any of the photos you've taken with the camera. Unfortunately, you can't access this app directly from the camera interface, and must instead launch the corresponding app.</paragraph>
+			<paragraph>The Windows Phone 8S doesn't do too well when it comes to actual image quality. Noise reduction smears away a lot of the fine detail, while oversharpening tries to bring back some of the lost sharpness. The result is less than stellar. The image borders have a decreased sharpness, suggesting poor quality optics. Colors are for the most part accurate, and the dynamic range is adequate. Overall, photo quality is below average.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>Our shot of the ISO chart reveals a pink spot, which appears in the center of photos taken with the 8S. The images taken with the HTC Windows Phone 8S can be compared with those of any of the smartphones in our database with our Photo Compare Tool. The tool's page will give you information on what to watch out for.</paragraph>
+			<paragraph>   HTC Windows Phone 8S in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera is better<subsectionTitle>
+			<paragraph>The camcorder interface is identical to the still camera's and has plenty of features too. You can change the white balance, sharpness, and video resolution among others. The LED flash can be made to work as a video light, too.</paragraph>
+			<paragraph>The HTC Windows Phone 8S shoots videos of up to 720p resolution. The videos taken by the 8S are not as drastically oversharpened as the photos by the still camera and are even more lacking if fine detail. The pink spot in the center of the image is still visible.</paragraph>
+			<paragraph>The bitrate of the 720p video was at around 8.3 Mbps, while the framerate hovered around the 30 fps mark. Audio is recorded in mono at 96Kbps, 44.1kHz.</paragraph>
+			<paragraph>Here's a sample we uploaded to YouTube:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download an untouched 720p@30fps video sample.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The HTC Windows Phone 8S is ready to bump heads with other Windows Phone devices, such as the Windows Phone 8X and the Nokia Lumia 820 in our video quality comparison tool. Once again you should consult the tool's page for information on what to look out for.</paragraph>
+			<paragraph>   HTC Windows Phone 8S in our Video Compare Tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity - everything's covered<subsectionTitle>
+			<paragraph>The HTC Windows Phone 8 has quad-band GSM/GPRS/EDGE support and dual-band 3G with HSPA.</paragraph>
+			<paragraph>Local connectivity is covered by dual-band Wi-Fi b/g/n with stereo Bluetooth 3.1. Bluetooth is no longer limited as to what it can do - there's file transfer support now.</paragraph>
+			<paragraph>There is Mass Storage mode for the internal phone storage or from the SD card, and you can upload files without needing to install any software. There is no requirement as to where you put your files (specific folders, etc.). If the phone has the appropriate app to handle a file, you'll have access to it.</paragraph>
+			<paragraph>The phone knows music and video, as well as pictures and documents. But if you have a ZIP or a RAR file, you won't be able to attach it to emails, because there is no file manager and there is no app to recognize this file and list it in the phone.</paragraph>
+			<paragraph>In addition to your phone storage, you also get 7GB of SkyDrive cloud space. Oddly, the SkyDrive app does not come preinstalled, meaning that you'll have to download it from the marketplace to take advantage of the free cloud storage.</paragraph>
+			<paragraph>The 8S also come with the Wallet app, which lets you store credit card information for in-app payments.</paragraph>
+			<paragraph>You can use Wallet to register a credit card for payment in the Windows Store or music store, as well as register digital coupons, memberships and loyalty cards.</paragraph>
+			<paragraph>Unfortunately, since the 8S doesn't have an NFC antenna you can't use NFC to make payments with registered credit cards, but all the other Wallet functionality is still there.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Internet Explorer is smart, fast and sociable<subsectionTitle>
+			<paragraph>The Internet Explorer on Widows Phone 8 got some big time improvements under the hood, but has for the large part kept its old looks. The HTC Windows Phone 8S has a big enough screen for comfortable browsing, but the pixel density is average, so text can get fuzzy at low zoom levels.</paragraph>
+			<paragraph>As usual, the URL bar is always visible at the bottom of the screen (but the status bar at the top of the screen auto-hides, so you don't actually lose any screen real estate) and next to it is the refresh button.</paragraph>
+			<paragraph>The URL bar also serves as a search bar - by default, anything you type that doesn't resolve to an URL will be sent over to the Bing app. You can also pick Google as a search provider, which will open the Google search results page in the browser instead.</paragraph>
+			<paragraph>You can, of course, bring up the extended settings, which offer a great deal of options - tabbed browsing, recent history, favorites, share options, pin to Start, find on page and settings. The settings menu offers the usual options like location, allow cookies, delete browsing history and it prompts choosing a global preference for mobile or desktop site versions.</paragraph>
+			<paragraph>The Share option is interesting in that you can not only send the page address in a message, but you can share it with your Xbox (if you have it set up). This way you can easily transfer a page from your phone to your TV and continue browsing there.</paragraph>
+			<paragraph>The browser makes the controls in web pages look just like their equivalents in native apps. So, a web app can look just like a native app with practically no extra effort from the designer.</paragraph>
+			<paragraph>And finally, you can open more than six tabs simultaneously, eight or ten worked just fine (WP7.x used to have a restriction on the number of tabs).</paragraph>
+			<paragraph>Browser benchmarks for the Windows Phone 8S were not as good as we've seen on other WP8 devices, but that's to be expected as not even the dual-core Krait can compensate for the measly 512 MB of RAM.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>By the way, Windows Phone 8 has built-in mobile data management tools called Data Sense. Its purpose is twofold - it tracks how much data each app has used and can even help you save data by compressing web pages and images before they are sent to the browser (similar to Opera's Turbo). Data Sense depends on carrier support and didn't work for us (not even tracking data usage).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Bing offers multiple search options<subsectionTitle>
+			<paragraph>The looking glass button on the Windows Phone 8S brings you to the new Bing search app. At first glance, it's the same app overall - you type in a query and you get search results from the web and there's a pretty background photo with several translucent squares you can tap to learn interesting facts about the subject.</paragraph>
+			<paragraph>Bing offers more than just web results though - for example, searching for "travel" will offer a travel tool app. This feature is called App connect.</paragraph>
+			<paragraph>There are three search features you can quickly reach from the default Bing screen. The first one is Local Scout, which lets you search for various points of interest around you. There's the camera scanner too, which can snap a photo of text, run OCR and translate it into another language - this is the so-called Bing Vision camera lens. The third one is the song recognition feature that gives you track and artist name and takes you to the music store so you can buy the track.</paragraph>
+			<paragraph>Bing also tries to be a bit of a homepage too - you can swipe to the left to browse top videos, locally playing movies and top headlines.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Store for apps, games and music<subsectionTitle>
+			<paragraph>The Windows Store (formerly Phone Marketplace) is still playing catch up with the Apple App Store and the Android Market. The number of apps available is higher than 100,000 and, while that doesn't quite compare to Android and iOS, Microsoft says that 46 out of the top 50 apps for Android and iOS are already available for WP8.</paragraph>
+			<paragraph>Apps written specifically for Windows Phone 8 won't work on the older versions but all of the older apps will be compatible with the new WP8.</paragraph>
+			<paragraph>The Store is divided in three main sections - applications, games and music. A fourth section called Updates shows up when one of your installed apps has received an update - there's an Update all button, which will save you the hassle of updating each app individually.</paragraph>
+			<paragraph>Anyway, each app will be listed with a short description, a rating and user reviews, a few screenshots and permissions. While the list of permissions isn't as prominent as it is on Android, the Store will explicitly ask you about the important stuff (e.g. location info).</paragraph>
+			<paragraph>Big downloads (anything north of 40MB) need a Wi-Fi connection to work. Alternatively, you can download those jumbo apps using the desktop Zune software.</paragraph>
+			<paragraph>The Application section starts with a featured app, then it's on to the categories (you can list all or free apps only), followed by the top apps, a list of new ones and a longer list of featured apps.</paragraph>
+			<paragraph>Nokia App Recommendations will help you get the best apps right off the bat, including a few HTC exclusives.</paragraph>
+			<paragraph>The Music section is actually the Xbox (previously known as Zune) Marketplace. Its structure is similar to the Application section. First, a featured artist of the week, three more featured artists, then a list of new releases, top albums and genres.</paragraph>
+			<paragraph>Genres themselves are separated into sections too - new releases and top artists/albums/songs/playlists. For each song, you get a 30 second preview (same as iTunes). If you have a Zune pass, you can stream the entire song (or download it DRM-protected), just like you would on a Zune player (it's 10 US dollars a month).</paragraph>
+			<paragraph>The Games section is divided into Xbox Live, New, Featured and Genres, which is the categories version. A great thing about games in the Windows Phone Marketplace is the trial option, which is available to many games and apps. You can try before you buy - a rarity in mobile app stores.</paragraph>
+			<paragraph>The new and featured sections act as what's new/hot reference.</paragraph>
+			<paragraph>The Store on Windows Phone can be accessed via your WP device, the Zune software on your PC and the windowsphone.com website.</paragraph>
+			<paragraph>Search is available for the Store but right now it pulls together search results from all sections - games and apps alike. Microsoft has fixed the issue where songs would get mixed up in the search too, which was annoying.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Xbox LIVE tile<subsectionTitle>
+			<paragraph>Xbox Live is at the heart of the Games hub. It carries over many features from Xbox - from your avatar to your scores and achievements. The Spotlight feature is available too (it shows info on new stuff) and also Requests - which shows you game invites from your friends.</paragraph>
+			<paragraph>Anyway, the games themselves are housed in the Collection section. Nothing much to see here, the installed games are arranged in a square grid and there's a 'Get more games' shortcut, which launches the Windows Store.</paragraph>
+			<paragraph>Not all games support Xbox Live - the ones that do are in the corresponding section in the Store.</paragraph>
+			<paragraph>Here you can also see your friends and their profiles, achievements and avatars. There are a few shortcuts to other Xbox Live-related apps - such as remote Xbox control (like the Store) or the avatar changing app. If you don't have them installed, you'll be redirected to the Marketplace, otherwise you'll go directly to the app in question.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Bing Maps takes a page from Google's book<subsectionTitle>
+			<paragraph>The 8S comes with WP's mapping software, Bing Maps. It's not as full-featured as Nokia Drive found on WP-powered Lumia devices, but it does many of the same things.</paragraph>
+			<paragraph>One thing that's missing right off the bat is turn-by-turn navigation. While Bing Maps will give you directions from your current location, it does not have a SatNav interface that you can use while driving, for instance.</paragraph>
+			<paragraph>Like the aforementioned Google Maps, Bing gives you traffic information, satellite view, and nearby points of interest with its Local Scout feature.</paragraph>
+			<paragraph>Another thing Bing Maps has going for it is that you can download offline maps for tons of locations, including a few that Google doesn't support.</paragraph>
+			<paragraph>The Local Scout app will locate nearby points of interest and it will even show you indoor maps of malls. The app has a tabbed interface to sort the various points of interest - eat+drink, see+do, shop and highlights. You can pick items from an "I care about" list to get the relevant options only.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great out-of-box Office experience<subsectionTitle>
+			<paragraph>Office is one of the key selling points of Windows Phone. Document viewing and editing is absolutely free and integrated into the OS. SkyDrive integration is made available directly from the app as well, so you don't have to launch the SkyDrive app separately. Docs are automatically synced between the phone and your computer through SkyDrive.</paragraph>
+			<paragraph>The Places tab lets you browse Office docs stored on the phone, in SkyDrive, email or in Office 365 (a paid service that includes Office web apps).</paragraph>
+			<paragraph>The Office hub breaks down into three sections - Documents, Places and Notes.</paragraph>
+			<paragraph>Let's look at the two most important document types - Word and Excel. They share the Documents panel, which lists all available documents of the relevant types (in order of last used). Both viewing and editing is supported.</paragraph>
+			<paragraph>The Excel section of the Office hub has the all-time favorite Auto-sum function and you can tap and drag to select multiple cells.</paragraph>
+			<paragraph>Editing is pretty straightforward and easy to use even on a mobile device. You type in the text and you can use the Format key to change the formatting of the selected text. You can also insert comments.</paragraph>
+			<paragraph>Formatting options include the standard bold, italic and underline, as well as text size, highlighting and font color. For highlighting and font colors you have only three colors to choose from, which is a little limiting but should be enough for most cases.</paragraph>
+			<paragraph>PowerPoint files will thrive in the Documents section too - but they are for viewing only, you can't edit them or create new ones.</paragraph>
+			<paragraph>Collaboration for both Word and Excel files is enabled with SharePoint. It allows syncing, sharing and web publishing but you'd need to use the right SharePoint server. You can attach those files to emails, though you need to do that from the Office hub. You can't do it from the email editor, which caused a little confusion at first.</paragraph>
+			<paragraph>OneNote is Microsoft's collaborative note taking tool. It has great (and easy to use) support for lists of multiple levels, you can add photos and voice memos and you can send notes via email when you're done. OneNotes can be synced with your SkyDrive or Windows Live account so that they are accessible from everywhere. Pin-to-homescreen is available too and so is the To-Do feature that turns the selected line into a to-do item that can be checked off.</paragraph>
+			<paragraph>The apps support pinch zooming and work very well for viewing even complex documents. But Microsoft's fondness for simplicity may have over-simplified the editors, as they feel a bit sparse.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>The Calendar can view sub-calendars for each account you have and can color-code to make them easier to tell apart. You can also disable sub-calendars if they're getting in the way.</paragraph>
+			<paragraph>The calendar offers day and agenda views too for more comprehensive hour-by-hour browsing of your appointments.</paragraph>
+			<paragraph>To-dos can be created too. Those can only be synced with Live accounts, and not a Gmail account for example. Each to-do can have a priority reminder, due date and notes. Later, to-do's can be sorted by priority.</paragraph>
+			<paragraph>The WP calculator is nothing extravagant - it has the simple portrait view of basically all calculators on the planet, while turning it over to landscape reveals the more complex scientific mode.</paragraph>
+			<paragraph>The alarm app is very simple to use. You get the alarm time with an on/off switch to the right. Each alarm can have its own name, sound and repeat cycle.</paragraph>
+			<paragraph>Finally, HTC has included its own app of the same name. Inside, you'll find weather information for any number of cities you select, which can be further expanded to show detailed information for the coming days coupled with some nifty animations. A city can also be pinned to the homescreen for quick weather info when need be.</paragraph>
+			<paragraph>The HTC app also includes quick access to stock prices from Yahoo Finance as well as news feeds.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The HTC Windows Phone 8S is a likeable little handset. It clearly isn't one of the platform's headliners, but it may be the right thing to help the fresh Windows Phone 8 conquer some new territory.</paragraph>
+			<paragraph>The 8S was meant to make the WP OS more desirable and accessible, and it seems the HTC engineers did a pretty good job of cutting the right corners. The display may not be the standard-setting stuff that we saw in the One X, but it isn't half bad either. The chipset has a down-clocked CPU and half the RAM, but WP8 still feels pretty comfortable on it. And while full HD video recording didn't make the cut, 720p capture should still be enough for the majority of users.</paragraph>
+			<paragraph>No phone is perfect, much less in this price range, but we can't see anything we can't live with on the list of cons.</paragraph>
+			<paragraph>With excellent build quality and a fresh youthful styling, the HTC 8S will easily get most people's attention. The Windows Phone 8 UI is also novel enough and, while it might lack the versatility of Android, it offers an arguably better looking alternative to those keen to try something new.</paragraph>
+			<paragraph>It will not be able to win the fierce battle in the mid-range all by itself, but the 8S is showing the right attitude. With iOS offering nothing in this price range, a reasonably priced WP8 handset is HTC's best bet on gaining back some lost ground.</paragraph>
+			<paragraph>If you are willing to explore the alternatives, you might want to start with the Samsung Galaxy S III mini. Costing virtually the same as the 8S, the mini has double the RAM, but a less capable CPU. Thanks to its Jelly Bean platform the S III mini is every bit as smooth as its WP competitor, but it doesn't look as good. It's the classic case of looks versus features.</paragraph>
+			<paragraph> Samsung I8190 Galaxy S III mini</paragraph>
+			<paragraph>If you'd rather try a bigger screen, the LG Optimus L9 should be on your list of options. Bringing the screen size up to 4.7" and the resolution to qHD, this one has the same pixel density as the HTC 8S. There's also a larger user-replaceable battery to offset the extra power consumption and 1080p video recording, so it's probably one of the best-equipped offerings in the price range. It's launching with ICS though, so it's got no Project Butter to take advantage of.</paragraph>
+			<paragraph> LG Optimus L9 P760</paragraph>
+			<paragraph>The Sony Xperia P is another interesting alternative, offering an aluminum unibody and a WhiteMagic screen with great outdoor performance. The Xperia P costs less, has a superior camera and is looking forward to Jelly Bean. If it wasn't for the non-expandable storage the Xperia P would be an extremely easy recommendation here.</paragraph>
+			<paragraph> Sony Xperia P</paragraph>
+			<paragraph>Finally, if you dare venture in the less known corners of the market, Acer will reward you with a 720p screen and a more powerful chipset than what the 8S has. The CloudMobile S500 got us duly impressed a few weeks back when we reviewed it and seems to offer more bang for your buck.</paragraph>
+			<paragraph> Acer CloudMobile S500</paragraph>
+			<paragraph>Power users will certainly find better value elsewhere. The droid army has plenty of options and it's far easier to find the one that best suits your needs without reaching deeper into your wallet. However, if you aren't obsessed with benchmarks and specs, the 8S is here to provide a fresh looking alternative. It's the cheapest way into Windows Phone 8 and the cool styling might just help it become one of the surprises of the season.</paragraph>
+		</subsection>
+	</page>
+</review>

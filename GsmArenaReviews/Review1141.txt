@@ -1,0 +1,235 @@
+<review>
+	<title>Nokia Asha 305 review</title>
+	<description>Smarter 2gether</description>
+	<link>http://www.gsmarena.com/nokia_asha_305-review-792.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Dual-band GSM, GPRS, EDGE</paragraph>
+			<paragraph>Dual SIM dual stand-by, SIM hot-swap</paragraph>
+			<paragraph>S40-based Asha touch interface</paragraph>
+			<paragraph>3" WQVGA resistive touchscreen, ~155 pixel density</paragraph>
+			<paragraph>Multi-touch in the gallery and Nokia Maps</paragraph>
+			<paragraph>Display auto-rotation</paragraph>
+			<paragraph>Nokia Browser 2.0</paragraph>
+			<paragraph>Nokia store and 40 EA games for free</paragraph>
+			<paragraph>2 MP camera</paragraph>
+			<paragraph>microSD card support (up to 32 GB)</paragraph>
+			<paragraph>Complimentary 2 GB microSD card in the box</paragraph>
+			<paragraph>Bluetooth v2.1</paragraph>
+			<paragraph>Standard microUSB port, charging</paragraph>
+			<paragraph>1100 mAh Li-Ion battery</paragraph>
+			<paragraph>Excellent loudspeaker performance</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Interface slows down at times, due to low RAM</paragraph>
+			<paragraph>Poor screen quality</paragraph>
+			<paragraph>Resistive touchscreen feels awkward</paragraph>
+			<paragraph>Fixed-focus camera</paragraph>
+			<paragraph>QCIF video recording</paragraph>
+			<paragraph>No smart dialing</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Nokia Asha 305 is easily one of the cheapest phones with two SIMs and a touchscreen, the closest Android being almost twice as expensive. Price may be the biggest advantage this phone has over the competition but you'd better be prepared for more than a few surprises.</paragraph>
+			<paragraph>With the new Asha touch interface, an updated browser and access to the Nokia store, the Asha 305 promises a near smartphone-like experience. And that's on top of the dual-SIM capabilities, including a hot-swappable SIM slot and a dedicated SIM management app that lets you configure how calling, texting and data are juggled between cards.</paragraph>
+			<paragraph>A package like the Asha 305 is built on the not so solid ground of compromise. You get a low-resolution resistive screen and the still camera and camcorder are of the lowest quality. Yet, even the resistive screen can do a multi-touch trick: the so-called multipoint touch enables pinch zooming in the gallery.</paragraph>
+			<paragraph>The actual touchscreen experience is on a level unseen before in S40 - soft keys are almost completely out of the equation. Of course you'll have to bear with occasional lags and poor response on the resistive unit. On the other hand, the pull-down notifications and quick settings, along with the advanced side-scrollable homescreen make this feel a lot more convenient and user-friendly.</paragraph>
+			<paragraph>Even little things like screen auto-rotation and a landscape QWERTY keyboard make a lot of difference compared to last time we saw a full-touch S40 on the Nokia C2-03.</paragraph>
+			<paragraph>There will be more on the interface coming up, but not before we've had a proper look at the hardware. We start with unboxing on the next page.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing and retail package<subsectionTitle>
+			<paragraph>The retail box of the Nokia Asha 305 is quite modest, which shouldn't be surprising considering the price of the phone. The complimentary 2GB microSD card is no surprise either, as even some of the cheap Nokia phones offer one. Maybe Nokia have a nice deal with a memory card supplier.</paragraph>
+			<paragraph>Anyway, there's a set of headphones and a charger in the bundle too. It's the old-fashioned Nokia charger but the Asha 305 supports USB charging too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Asha 305 360-degree spin<subsectionTitle>
+			<paragraph>The phone is compact enough at 110.3 x 53.8 x 12.8 mm and weighs just 98 g but there's just too much screen bezel which makes one think the Asha 305 could've been a lot smaller. We wouldn't call it a slim set either. But let's not get the concepts mixed up. Ultra-thin bezels belong in the premium segment which is... well... a long way from the Asha. As for the slimness - two side-mounted card slots offer plenty of convenience to make up for the lack of style.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Asha 305 doesn't shine with exquisite design. What shines is the rather cheap gloss of the front but you can't hold the cheap finish against a genuinely cheap device. The Asha 305's design blends Nokia X2-02 and C2-03 - essentially it's a neat curved back and glossy front with faux metal accents.</paragraph>
+			<paragraph>There seems to be plenty of unused space above the 3" display, where the Nokia logo is. A thin strip underneath accommodates the call keys. The entire front, including the glossy accents top and bottom, is instantly covered in fingerprint smudges.</paragraph>
+			<paragraph>The display itself is not too bright and there's no brightness setting whatsoever. The low resolution gives icons a dot-matrix-printer look and scrolling is like a stop-motion cartoon. The screen is extremely reflective and colors look washed out. To be fair though, poor image quality was to be expected in this price range.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contrast ratio<subsectionTitle>
+			<paragraph>The resistive screen has poor response until you get the hang of it and start putting more pressure to your taps and swipes. A bit of a surprise, Nokia found a way around and enabled multi-touch. It's limited to the gallery but pinch zooming works rather well. Here's a photo of the screen's RGB matrix under a microscope.</paragraph>
+			<paragraph>Above the display there's an earpiece and a brand logo. There're none of the usual sensors up there. There's no automatic screen brightness of course and no proximity sensor. The screen locks as soon as the call is connected and can be unlocked using the dedicated button. Only then can you access the onscreen in-call options.</paragraph>
+			<paragraph>Underneath the screen you'll find the mouthpiece on the thin strip of plastic that accommodates the call and end keys. The end key will exit any currently running app and take you back to the homescreen. It's a power button too.</paragraph>
+			<paragraph>On the right side of the Nokia Asha 305 is the volume rocker and the lock button. Near the bottom you'll see a rather deep and wide slit for removing the back panel.</paragraph>
+			<paragraph>Sealed with plastic lids are the microSD card slot and the hot-swappable secondary SIM slot.</paragraph>
+			<paragraph>The microUSB port is placed at the top of the device alongside a 3.5 mm headphones jack and the older standard charging port. The Asha 305 comes with one of those old-school Nokia chargers but can be charged off USB too.</paragraph>
+			<paragraph>The back panel of the Nokia Asha 305 is probably the only place where a more conventional matte finish has been deployed. You'll find the 2 MP camera lens there, along with another engraved Nokia logo and the loudspeaker grille. The Asha 305 is powered by a 1110 mAh Li-Ion battery and inside the battery compartment is the primary SIM slot. You have to have a card in it for the other SIM slot to be active.</paragraph>
+			<paragraph>We can't say we're too fond of the Nokia Asha 305 in terms of design but the build looks solid. The handset looks like it's been put together from parts of other Nokias and there's too much gloss. Fingerprints are too much of an issue but overall, it's the looks that raise doubts not durability.</paragraph>
+			<paragraph>And we know we can't expect too much for so little, price-wise. What really counts here is the extra SIM you can put in and being able to hot-swap several of them is quite convenient. So is the readily accessible memory card slot.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>MeeGo-like Series 40 user interface<subsectionTitle>
+			<paragraph>This is not the first time we see a fully touch-operated S40 interface but the latest iteration, called Asha Touch, is a massive improvement. The Symbian-like icons and the homescreen swipes are no news really but the changes run deeper than that and the whole ideology has shifted towards a more thumbable and user-friendly interface and a simple, flat menu structure.</paragraph>
+			<paragraph>All the action happens on the touchscreen. There're very few hardware keys and none of them is directly involved in navigating the interface - except the End key that can close apps and bring you to the homescreen.</paragraph>
+			<paragraph>There's no actual homescreen to begin with. Or rather, it's an arrangement of three side-scrollable homescreens in? wait for it? MeeGo fashion. The default one is the app launcher - the new Asha Touch gets straight to business.</paragraph>
+			<paragraph>A swipe to the left will take you to the dialer. In fact, this screen can be customized to show either the music player or the radio but having the dialer always a swipe away makes sense. The third homescreen is what was previously known as Active Standby. It's now a pane to fill with shortcuts to frequently used apps or contacts. A tap and hold on that screen triggers Edit mode, so you can choose shortcuts and contacts to add. As usual, the time and date are displayed too, which in turn serve as shortcuts to the alarm app and the calendar.</paragraph>
+			<paragraph>The status bar is visible on top of any of the three screens and you can either tap to expand it or pull it down. It displays notifications of missed events and quick toggles for sound profiles and mobile data. Below you get shortcuts to the music player, the phone and messaging apps.</paragraph>
+			<paragraph>Notifications are displayed on the lockscreen too. Swiping on a notification will take you to the relevant app.</paragraph>
+			<paragraph>A tiny number icon on the Messaging icon in the app launcher shows the text messages you have received but not yet read. There are similar new email notifications.</paragraph>
+			<paragraph>In case of a missed call, which requires your attention, the notification area drops down a bit to briefly display the number and then pulls back up, leaving a small handle as a reminder, which you can pull to see who's been calling you.</paragraph>
+			<paragraph>These are minor but nice touches to a completely revamped interface, which is surprisingly feature rich, yet beautifully simple. Soft keys are nowhere in sight - every app or screen you open has just a tiny back key instead.</paragraph>
+			<paragraph>Honestly, the Asha touch interface was a major surprise. Of course, the low-res resistive screen does it no favor but we cannot say we don't like how things are done. It's smartphone-like experience indeed, though it's obviously short of the most important ingredient - multitasking.</paragraph>
+			<paragraph>The speed and performance are unimpressive but overall it's the way things look on the dim low-res screen that's the biggest letdown.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Best looking S40 phonebook to date<subsectionTitle>
+			<paragraph>The Asha 305 offers the most beautiful phonebook we've seen in a Series 40 phone and it's quite efficient too. Under the new Asha touch interface it integrates with the Call log and the Dialer and that's more than welcome.</paragraph>
+			<paragraph>Contacts are displayed with a photo and number and on top of the actual list you get the Advanced menu and Add new contact shortcut. Then comes the search field.</paragraph>
+			<paragraph>The actual contact details are displayed on a completely redesigned screen. You get a faded contact's picture as a background, with a huge name across and a number below. A few big thumbable icons at the bottom of the screen let you call, text or email the person.</paragraph>
+			<paragraph>You can add various details to your contacts, like numbers, mail address, ringtone or a URL. You can also choose where to save your contacts - SIM 1, SIM 2 or the phone memory. Only two sorting options are available - by first or last name. Contacts can be copied, moved or deleted either individually or in bulk.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Dual-SIM telephony<subsectionTitle>
+			<paragraph>To make a call, you need to select which SIM the phone should use. You can set a default SIM, which will always be used for calls. Or you can have the phone prompt you to choose manually every time. Selecting a default SIM for texts, MMS or data works the same way so you can have one SIM for calling and texts and the other one for data and MMS, or whatever combination works for you.</paragraph>
+			<paragraph>The SIM manager app has a tabbed interface that lets you configure each of the SIM cards, set the phone to Always Ask or set personal preferences for calling, texting and data connections. These are essentially four tabs in the SIM manager interface or four quick toggles in the SIM settings available in the notification area.</paragraph>
+			<paragraph>Having chosen your preferred settings, the rest is pretty straightforward. As we already said, the Contacts, the Call Log and the dialer are integrated like in mature smart platforms. What's missing is smart dialing.</paragraph>
+			<paragraph>We had no reception problems with the Nokia Asha 305. We tested its loudspeaker and found it loud enough, though the in-call audio could have been better.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Powerful messaging<subsectionTitle>
+			<paragraph>The messaging department has everything covered - text messages are organized in threads, there's a chat client with support for multiple services and of course, a feature rich email client with quick setup.</paragraph>
+			<paragraph>A tap and hold on a Conversation in the default view of the messaging app lets you delete the conversation or call or email the contact in question instead. Creating a message is pretty straightforward. You can add multiple contacts from your phonebook or simply punch in numbers.</paragraph>
+			<paragraph>For text entry, you can choose between a portrait multitap keypad and a landscape QWERTY keyboard. You get a character and message counter either way. Unfortunately, there's no text selection or copying.</paragraph>
+			<paragraph>Although the QWERTY keyboard is a welcome addition, our editorial staff was not quite unanimous whether it's worth its salt. Some of us found it comfortable, while others found the lack of visual key separation confusing. We gues, you'll have to decide for yourselves.</paragraph>
+			<paragraph>The email client supports various mail services such as Google, Yahoo, Hotmail, etc. with easy email setup, but you can always manually configure an account too. It works with POP3, SMTP, and IMAP4 protocols and supports SSL.</paragraph>
+			<paragraph>The default email view is Inbox but Folder view is supported too. Multiple emails can be moved or deleted using the advanced menu in the top left corner. You can switch between accounts from the fourth tab at the bottom of the screen. A tap and hold on an email will allow you to reply, delete, star, forward or mark it as read/unread.</paragraph>
+			<paragraph>Emails are received in the background and a small * appears on the Mail icon in the app launcher when a new email has arrived.</paragraph>
+			<paragraph>The chat client supports multiple services - Facebook, MSN Messenger, Google Talk, Yahoo and Nokia Chat. The tabbed UI of the OS is pleasantly thumb-friendly.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Awesome file browser<subsectionTitle>
+			<paragraph>The Nokia Asha 305 has something that makes the (supposedly dumb) S40 UI look much smarter than the likes of iOS and Windows Phone. That's right, we are talking about a full-featured file browser.</paragraph>
+			<paragraph>The app is called Files and lists all your local folders with the memory card on top. Different icons are available for the different file types, the multimedia files appear with small thumbs.</paragraph>
+			<paragraph>A few handy options are available in the advanced menu - change view and sorting, add new folder or mark some/all files. If you tap and hold on a file you'll get options such as copy, cut, paste, rename, delete, mark and details.</paragraph>
+			<paragraph>The app has everything you may need in a file browser and puts to shame many smart file explorers thanks to its simple yet powerful interface.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The gallery works just fine<subsectionTitle>
+			<paragraph>The image gallery is a Symbian copycat. Photos are displayed in a three-column grid kinetic scrolling enabled. The gallery has one problem - it can't show more than 1000 images. So if your memory card is full of pictures, the Asha 305 is not the best choice of device to browse them on.</paragraph>
+			<paragraph>You can organize your photos into albums and there is an album view as a separate tab in the gallery. The video section is the final tab and lists any supported videos you've uploaded on your memory card.</paragraph>
+			<paragraph>A tap and hold on a file lets you rename, delete, share or assign the image to a contact or set it as wallpaper.</paragraph>
+			<paragraph>Auto-rotation and pinch zooming are enabled in the gallery. Surprisingly, Nokia have made pinch zooming possible even on a resistive screen such as this one. However, it only works in the gallery and Nokia Maps. The web browser doesn't make use of it.</paragraph>
+			<paragraph>You can edit pictures from the advanced menu. The available options are crop, rotate, flip, effects, warp, add frame, clip art, add text, adjust brightness and contrast, retune colors or do auto enhance. Not bad, is it?</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The music player is a looker<subsectionTitle>
+			<paragraph>The music player has a rather basic interface with lots of hidden features.</paragraph>
+			<paragraph>The Now Playing screen displays a huge album art, with the track name, a scrubber and music controls.</paragraph>
+			<paragraph>The bottom of the screen has three tabs, the first one being the Now Playing screen. The next one is the Library with the default sorting options - all tracks, artists, albums, genres and videos. The last tab has your custom playlists with a few default ones available - recently added, recently played, most played and now playing.</paragraph>
+			<paragraph>Shuffle, repeat and equalizers are available too. You can also play music via Bluetooth.</paragraph>
+			<paragraph>The music player supports background playback, but there are no quick controls in the notification area or the lockscreen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS<subsectionTitle>
+			<paragraph>The FM radio on Nokia Asha 305 comes with a neat and simple interface. You can change stations with the dedicated controls at the bottom. There is a tab with all available stations.</paragraph>
+			<paragraph>The radio has RDS support and automatic rescanning.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality good for the class<subsectionTitle>
+			<paragraph>Going full touch hasn't cost the Nokia Asha 305 dearly in terms of audio quality. In fact, the first of the Nokia featurephone kind to drop the hardware keyboard is doing better than most of its predecessors in many parts of our test.</paragraph>
+			<paragraph>With no resistance applied to its line-out (when used with an active external amplifier), the Nokia Asha 305 was able to provide decently clean output. Half the readings were nearing perfection (dynamic range, noise level and stereo crosstalk), while the other half wasn't as good, but it wasn't anything to worry about either. More impressively, in this scenario, the Asha 305 turned out to be one of the loudest handsets we have seen.</paragraph>
+			<paragraph>Plugging in a pair of headphones leads to notable spike in intermodulation distortion and stereo crosstalk as well as some further deviation of the frequency response. It's not too bad overall, but it's some way off the best on the market and as the volume levels drop quite rapidly here - to only average levels, we can only give a decent mark to the Asha 305 here.</paragraph>
+			<paragraph>And here come the full results so you can see for yourselves:</paragraph>
+			<paragraph> Nokia Asha 305 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basic video player<subsectionTitle>
+			<paragraph>There is no dedicated video player within this version of Series 40. You can find you videos in the dedicated video tab of either the gallery or the music player. Or browse them in the file manager.</paragraph>
+			<paragraph>The Asha 305 is capable of playing only 3GP/MP4 videos at QCIF resolution and a frame rate of 10fps. On the other hand it supports all kind of audio codecs and it played the sound of even incompatible video files (including the 1080p videos in our collection).</paragraph>
+			<paragraph>The video interface is as basic as it gets too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>2MP fixed-focus camera<subsectionTitle>
+			<paragraph>The Nokia Asha 305 has a 2MP fixed-focus camera that produces photos at maximum resolution of 1600 x 1200. The camera interface has been updated but still offers just a few settings.</paragraph>
+			<paragraph>The camera's main UI has four shortcuts in each corner of the viewfinder and surprise - they're orientation aware. This is a bit of joke really - one of them being a Back button, which has to always fall in the bottom right corner of the screen, they realign rather messily. Not to mention, the auto-rotation isn't the fastest around. Still, this is a surprisingly advanced feature to have in such a basic camera.</paragraph>
+			<paragraph>Anyway, you have settings, camcorder switch and a shortcut to the gallery. The virtual shutter is always center at the bottom, whether portrait or landscape.</paragraph>
+			<paragraph>In the Settings you can set effects, self-timer, grid and scenes. There is a deeper Advanced settings menu with resolution options, camera sounds, orientation, etc.</paragraph>
+			<paragraph>The image quality is nothing to write home about and is further affected by a problem with the camera lens - the left half of the photos is OK with pleasant colors and enough detail, but the right side is all washed out. We hope this is an issue specific to our unit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>QCIF video recording at 10 fps is not enough even for MMS<subsectionTitle>
+			<paragraph>Video recording isn't something the Asha 305 is good at. It does QCIF at 10 fps - really basic stuff.</paragraph>
+			<paragraph>The quality is bad and you can barely recognize what's on the video.</paragraph>
+			<paragraph>Here is a  QCIF at 10fps sample for you to check out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Nokia Asha 305 is a dual band device (900 / 1800) and offers GPRS and EDGE class 12. There's no 3G (HSDPA) or Wi-Fi on board.</paragraph>
+			<paragraph>Bluetooth is version 2.1, but according to Nokia's official specifications is lacking A2DP.</paragraph>
+			<paragraph>The Nokia Asha 305 uses a microUSB port for both data connections and charging. There's no USB-on-the-go here though.</paragraph>
+			<paragraph>The Nokia Asha 305 also has a memory card slot (and a complimentary 2GB card). Coupled with a card reader it can usually give you the fastest data transfer rates.</paragraph>
+			<paragraph>And finally, there's the standard 3.5mm audio jack.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The web browser is good enough<subsectionTitle>
+			<paragraph>The Nokia Asha 305 boasts a really cool new browser. Its start screen has a unified URL and search bar and a few handy shortcuts to favorite websites and services.</paragraph>
+			<paragraph>The tabbed interface offers one-tap access to Favorites, Downloads and Apps. The Favorites tab has the History, Home and Start page shortcuts, and you can add your own bookmarks here.</paragraph>
+			<paragraph>The browser does the Opera Mini trick - compressing web pages on a dedicated server before sending them to the phone. Pages load quickly (even on EDGE) and don't use much data. Image quality is adjustable (Best/Good/Average or No images).</paragraph>
+			<paragraph>You get only two zoom levels (again, just like Opera Mini): page overview and zoomed in. A single tap will will zoom in on the desired part of the page. To zoom back out to overview you need to hit a dedicated button in the bottom left corner.</paragraph>
+			<paragraph>Overall, the performance is not perfect due to the phone's low specs, but the browser works when needed and will get the basic tasks done.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>The organizer on the Nokia Asha 305 is well stocked as usual and things have been touch optimized.</paragraph>
+			<paragraph>The Calendar starts off on month view. Day view is also available, but strangely, week view has gone missing. You have various kinds of events available for setting up: reminder, meeting call, birthday, anniversary and memo. The agenda, to-do and notes tabs in the calendar are self-explanatory.</paragraph>
+			<paragraph>The alarm app uses big, touchable numbers, making it easy to set and you can make it go off only on specific days. You can customize the snooze time too, but there's only one alarm available.</paragraph>
+			<paragraph>The other organizing functions include a voice recorder with no time limit, a simple calculator and a countdown timer. They have been touch optimized as well, though we wish the countdown timer used the same big numbers as the Alarm clock.</paragraph>
+			<paragraph>There is also a weather app and pre-installed Facebook and Twitter clients (combined within the Nokia's Social app).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia S40 Store and bonus apps<subsectionTitle>
+			<paragraph>You can browse the apps available in the Nokia Store by categories - Applications, Games, Audio and Video content, Personalization; or by collections.</paragraph>
+			<paragraph>Your account profile keeps track of all the apps you have installed under My stuff.</paragraph>
+			<paragraph>There are plenty of apps and games there, a lot of them free. They are still behind the big players in the app store game, but for a feature phone having an app store at all is a major lift.</paragraph>
+			<paragraph>Nokia Asha 305 owners have 40 EA games waiting for them in the Nokia Store - all for free.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Maps you'll barely use<subsectionTitle>
+			<paragraph>The Nokia Asha 305 doesn't have a GPS receiver but Nokia Maps can use Cell-ID to get your approximate location. The app doesn't feature voice-guided navigation anyway and you can only plan pedestrian routes with it.</paragraph>
+			<paragraph>So, even if you hook up a Bluetooth GPS receiver to the Nokia Asha 305 it still won't function as a car SatNav. There's no option for a paid upgrade either.</paragraph>
+			<paragraph>Maps are downloaded through your data connection, which is something else to keep in mind.</paragraph>
+			<paragraph>On the Nokia Asha 305, pinch zooming is possible despite the inherent limitations of the resistive screen. However, it only works in the Nokia Maps application and the gallery.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Dumbphones have a lot to put up with these days. They're looked down upon or, if they're lucky, simply overlooked. It gets even worse for dual-SIM dumbphones, confined to their niche at the very bottom of the food chain. The "let them eat cake" attitude has done no one any good but that's exactly what feature phones have to deal with.</paragraph>
+			<paragraph>Nokia are not giving up though. Skeptics would say it's because they have no other choice. They may have a point but the Asha phones we've reviewed so far have not let us down - and it's been quite a few of them.</paragraph>
+			<paragraph>In less than a year, the Asha series has had good growth with the devices ranging across different form factors and levels of equipment. Nokia have been busy working on the S40 software too and we quite like some of the things they've done with it.</paragraph>
+			<paragraph>In fact, the progress of the Asha touch interface is so impressive, it seems they've accomplished in one go what took Symbian a few years.</paragraph>
+			<paragraph>A look at the Asha 305 competitors shows that Nokia has placed the exceptionally well. It's really hard to find a corresponding match in terms of price and features.</paragraph>
+			<paragraph>At the Asha 305 price point (70EUR) Android is out of reach, but if you need a smartphone, the Samsung Galaxy Y Duos is the cheapest DualSIM option there is. It also beats the Asha 305 in terms of processing, imaging, video capture, display quality and just about everything else. But yes, at 130EUR, it does cost nearly double the price of the Asha 305.</paragraph>
+			<paragraph> Samsung Galaxy Y Duos S6102</paragraph>
+			<paragraph>A feature-phone contestant is the Samsung Star II Duos - it offers a better display, better camera and we think a better all-round industrial design. But it too costs more (90EUR) than the Asha 305. The Samsung Star 3 Duos is another option. It's slimmer and has a smaller screen and it's only available in certain regions, but it's dirt cheap too (80EUR), but again, not as cheap as the Asha 305.</paragraph>
+			<paragraph>  Samsung C6712 Star II DUOS ? Samsung Star 3 Duos S5222</paragraph>
+			<paragraph>Finally, we come to some in-house competition. If touchscreens aren't your thing, the Nokia Asha 200 and X2-02 both have physical buttons, dual-SIM functionality and cost less than the Asha 305. For around the same money the Nokia C2-03 also has a resistive touch display, physical keypad and is a match on almost all other fronts.</paragraph>
+			<paragraph>   Nokia Asha 200 ? Nokia X2-02 ? Nokia C2-03</paragraph>
+			<paragraph>After spending some time with the Nokia Asha 305 our first impression has really stuck with us - good-looking software but running on a hardware that cannot quite handle it. And displayed on a screen that cannot quite do it justice.</paragraph>
+			<paragraph>It's always a game of give and take in the low end, but we think Nokia has done well with Asha 305. It's got screen auto-rotation, a proper on-screen QWERTY keyboard, a good browser, pinch zooming in the gallery despite the resistive screen, social service integration, and a reasonable email client.</paragraph>
+			<paragraph>We would have preferred to see a more smooth performance and perhaps, even a better quality screen, but you get what you pay for, after all. We can't blame the phone for its cheap hardware since that's what makes the phone cheap in the first place. And it just happens to be one of the cheapest packages to have a touchscreen and dual SIM functionality all in one.</paragraph>
+		</subsection>
+	</page>
+</review>

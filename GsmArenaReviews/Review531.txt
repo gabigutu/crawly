@@ -1,0 +1,43 @@
+<review>
+	<title>Amazon Kindle Fire HD hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/amazon_kindle_fire_hd_hands_on-review-1313.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Amazon Kindle Fire HD tablets have started shipping today, so now's the perfect time to check out the new affordable lineup.</paragraph>
+			<paragraph>At the second annual MediaTek Executive forum in London MediaTek gathered journalists and analysts to show them more about the direction their business is going. As part of the event's program we were lucky to get our hands on several products running MediaTek's chipsets.</paragraph>
+			<paragraph>As you can imagine, Amazon's latest Fire HD tablets were among them so we went for a quick hands-on and we also played (literally even) with the lastest 4K-enabled Fire TV too.</paragraph>
+			<paragraph>The cheapest among the new products was the Kindle Fire - a 7" tablet for just $50. It's so cheap that Amazon sells what it calls a "six-pack," which is just what it sounds - you get six tablets for the price of five. Those proved so popular that even Amazon was surprised.</paragraph>
+			<paragraph>We fondled the higher-end models - the Fire HD 8 ($150) and Fire HD 10 ($230). Their screens punch above their price tags. The Fire TV tops yesterday's Chromecast announcement with 4K video support and built-in Alexa digital assistant.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Amazon Kindle Fire HD 8<subsectionTitle>
+			<paragraph>Amazon is sticking to its strength - value for money - with the new Kindle Fire tablets. The 8" model is in the middle of the pack, a great mix of affordable and capable and comes in several attractive colors too.</paragraph>
+			<paragraph>The Amazon Kindle Fire HD 8 has an 8" LCD display with 1,280 x 800px. It was a pleasant surprise - bright and with great viewing angles thanks to the IPS tech. A screen is typically the most expensive price of a tablet, so it's great to see Amazon didn't skimp on the most important component.</paragraph>
+			<paragraph>At 189ppi it's not exceptionally sharp, but it's similar to the quality you get from a fairly expensive laptop.</paragraph>
+			<paragraph>The plastic around the back - available in Black, Magenta, Blue and Tangerine - is glossy and the Black one especially is a massive fingerprint magnet. The plastic feels cheap, though it's not a deal-breaker, not at this price. On the up side, at 7.7mm and 311g it's feels thin and fairly light.</paragraph>
+			<paragraph>All controls (power button and volume rocker) and ports (3.5mm audio jack and microUSB 2.0) are on top. That's the short side since the tablet is intended mostly for portrait use. The microSD card slot is on the right - great since you get 8GB or 16GB of built-in storage and of that only 4.5GB and 11.6GB are available to you respectively.</paragraph>
+			<paragraph>The Kindle Fire 8 is powered by a MediaTek chipset with a big.LITTLE CPU - two cores at 1.5GHz and two at 1.2GHz. The software (Fire OS 5.0 Bellini) feels pretty snappy, but the single gig of RAM will prove limiting.</paragraph>
+			<paragraph>The tablet has stereo speakers, Dolby Atmos certified at that. Other specs include a 5MP/1080p camera on the back and a 720p selfie cam. There's no mobile data option, you get dual-band Wi-Fi for Internet connectivity. There's no GPS either, just Wi-Fi positioning.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Amazon Kindle Fire HD 10<subsectionTitle>
+			<paragraph>The 10" tablet has basically the same hardware, except the screen has grown to 10.1" (still at 1,280 x 800px). It's not as sharp (149ppi) but the image quality is still very good. Amazon has put on an "advanced polarizing filter," which should improve sunlight legibility, unfortunately we couldn't take the tablet outside.</paragraph>
+			<paragraph>You get more base storage, 16GB, plus a 32GB option with a microSD slot available if you need more. That's about all the extra cash buys you though, the chipset is the same and it's still weighed down by the limited RAM - 1GB. Same camera setup and so on too.</paragraph>
+			<paragraph>The Amazon Kindle Fire HD 10 measures 7.7mm thick and weighs 432g. It's only available in Black and White though and as before the glossy black option instantly becomes a smudgy mess.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Amazon Fire TV<subsectionTitle>
+			<paragraph>The Fire TV Stick may be Amazon's answer to the Chromecast, but the Fire TV is the more interesting of the two - Amazon shows it off as the cheapest 4K streamer, the only one under $100. In case you missed it, the new Chromecast is capped at 1080p and so is the Fire TV Stick.</paragraph>
+			<paragraph>Consumers in the US, UK and Germany will be able to enjoy 4K content, but the new Fire TV also doubles as a home digital assistant. The included remote control has a mic, allowing it to interact with Alexa. You can use it to look up a movie to watch, ask it questions such as the weather or general facts or anything else you can do with Amazon's virtual assistant on the Echo.</paragraph>
+			<paragraph>The Amazon Fire TV has Wi-Fi ac with two antennas so your 4K streams will never be choppy and the player even preloads what it guesses you want to watch so you can start immediately, no buffering (people with data capped home Internet beware).</paragraph>
+			<paragraph>The player internals are quite beefy too, it packs 75% more processing power than its predecessor and it's more powerful than the Kindle tablets. It has MediaTek chipset but the CPU is clocked higher and there's 2GB of RAM.</paragraph>
+			<paragraph>You also get 8GB of internal memory, expandable with microSD cards. The Fire TV supports Dolby and multi-channel audio, including 7.1ch HDMI pass-through.</paragraph>
+		</subsection>
+	</page>
+</review>

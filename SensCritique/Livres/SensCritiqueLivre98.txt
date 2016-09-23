@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Continuer</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Continuer/21400441</link>
+	<generalScore>7.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Une leçon de courage</title>
+		<author>Elégie</author>
+		<date>2016-07-16</date>
+		<score>0.9</score>
+		<content>Sybille est désespérée. Son fils, Samuel, est en train de sombrer, scolairement et dans sa vie personnelle. Un soir de beuverie, il commet un vrai délit... Alors pour sauver son fils, Sybille décide de l'emmener au Kirghizistan, le pays des Chevaux Célestes. Au cours de cette grande chevauchée dans la nature sauvage, chacun se révèle et dénoue les fils du passé. A travers ses phrases longues et haltantes, puissantes et rythmées comme la foulée d'un cheval au galop, Laurent Mauvignier chante un hymne à la tolérance et à l'altruisme. L'auteur pose un regard très optimiste sur l'humanité, en montrant qu'on peut toujours décrypter ce qui nous hante et finir par dépasser nos erreurs et nos préjugés. Même si je ne partage pas son enthousiasme, c'est réconfortant parfois de lire un texte qui tend vers un idéal. Splendide, tout simplement.</content>
+	</review>
+</sensCritiqueEntity>

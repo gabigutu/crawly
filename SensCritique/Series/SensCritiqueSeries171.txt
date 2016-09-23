@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Animal Kingdom</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/serie/Animal_Kingdom/20033231</link>
+	<generalScore>7.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>22</numberOfVoters>
+		<numberOfVoters>45</numberOfVoters>
+		<numberOfVoters>35</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Family Matters</title>
+		<author>Vivienn</author>
+		<date>2016-08-11</date>
+		<score>0.8</score>
+		<content>Adapter le très bon Animal Kingdom de l’australien David Michôd en série télévisée, cela sonnait comme une très mauvaise idée. En plus d’être assez obscur, son univers n’était pas nécessairement exploitable et on pouvait raisonnablement se questionner sur l’intérêt non seulement d’un remake, mais qui plus est sur petit écran. Le nom familier de Jonathan Lisco, ancien scénariste de la mésestimée Southland et de la miraculée Halt and Catch Fire, pouvait cependant intriguer – et ce malgré son diffuseur (la très souvent médiocre TNT). Animal Kingdom est une réussite inespérée. Non seulement elle est un admirable morceau de bravoure télévisuelle, à la fois ambitieux et d’une régularité à toute épreuve, mais elle tente aussi d’occuper la place laissée libre par la fin de séries comme Breaking Bad et Sons of Anarchy – une saga criminelle familiale, quelque part entre l’intrigue de la série de Gilligan, le décor de John From Cincinatti et la forme brute de la regrettée Southland, citée plus haut. Avec subtilité, Lisco développe des personnages forts, bâtis autour d’enjeux engageants et de relations vibrantes. C’est là sa grande réussite – parvenir à coupler son inspiration évidente du matériau d’origine à un cadre télévisuel forcément plus large, plus ample, plus profond. Tout le casting de la série est excellent, et leurs personnages respectifs passionnants. Animal Kingdom installe un rythme, une esthétique – ces villes californiennes sont grises, désenchantées, bien loin des filtres Instagram ; elle prend également son temps pour mieux amener ses phases de tension. En cela, elle rappelle énormément Southland, qui possédait le même ADN visuel et narratif. On n’est pas pour autant dans un cop show, mais on est définitivement dans le même univers. C'est le reflet difforme de Point Break. C’est ce choix de l’anti-fantasme qui fonctionne et fait d’Animal Kingdom une série singulière : faire de l’hideux avec du beau, placer le sensuel dans un contexte aride et froid, transformer les visages d’anges en êtres monstrueux. Elle n’est pas sexy malgré ses acteurs et actrices aux physiques de mannequins, elle est même repoussante. Parfois, un masque bien dessiné cachera drogues, violence et instabilité – plus qu’un simple show criminel, Animal Kingdom est une série sur la dépression et la crise identitaire. Un thème enfoui et souvent invisible, certes, mais transcendant chaque image, chaque plan d’une ombre redoutable si on y prête attention. Le monde d’Animal Kingdom est noir et sans espoir. Ce premier acte ne fut qu’introductif – Animal Kingdom y a posé des bases solides, prometteuses pour l’avenir. Elle est déjà une très bonne série, fascinante et quasiment auteurisante, mais elle a les cartes en main pour devenir excellente. Si on ne peut que regretter qu’elle soit passée sous les radars de beaucoup, peut-être à la fois à cause de sa relative lenteur et de son emballage pas forcément emballant, et qu’elle aura donc du mal à se construire une fanbase forte d’ici sa prochaine saison, les quelques curieux qui lui auront laissé une chance auront découvert un thriller malin et atmosphérique, à mettre au même niveau que les plus grandes réussites du câble actuel. L’une des meilleures nouveautés de l’année à n’en pas douter.</content>
+	</review>
+	<review>
+		<title>Décevante</title>
+		<author>Pétuvia Hache</author>
+		<date>2016-09-11</date>
+		<score>0.6</score>
+		<content>Attiré par les critiques plutôt bonnes et ayant particulièrement aimé le film Animal Kingdom (dont la série est tirée), j'ai décidé de me lancer dans la série. Le pitch : un adolescent part vivre chez sa grand-mère suite au décès de sa mère. Entouré d'une brochette d'oncles très porté sur le surf et la castagne, il découvre très vite que ce sont des marginaux qui vivent totalement en dehors des clous enchainant braquages et bizness illégaux sous la houlette de la grand-mère. Le bilan à la suite du visionnage de la série est négatif. Même si je me suis pris à faire un faire un gros binge watching de l'ensemble des épisodes. Les faiblesses de la série sont nombreuses. Les personnages sont caricaturaux et prennent des décisions totalement illogiques. Tellement illogiques et tellement risquées, qu'on se demande pourquoi toute la famille n'est pas déjà derrière les barreaux. "Les gars j'ai une idée : on va dérober le fric d'une base militaire !" Bref, les ficelles scénaristiques et les références sont tellement lourdes qu'elles écrabouillent les personnages. Des personnages dont pour certains, on a sérieusement du mal à s'attacher. La matriarche qui était excellente dans le film du même nom, est dans la série campée par une actrice dont le visage semble grossièrement enveloppé dans du cellophane (à moins que ça soit dû à la chirurgie esthétique). L'ado a le charisme d'un paillasson. Les oncles sont assez attardés mais assez attachants. Pour résumé, si vous avez eu envie de voir cette série suite aux critiques, passez votre chemin et regardez plutôt l'excellente saga familiale "Sons of Anarchy". Et si vous avez déja vu "Sons of Anarchy", vous risquez d'être fortement déçus parce que c'est plus ou moins la même chose mais en moins bien.</content>
+	</review>
+</sensCritiqueEntity>

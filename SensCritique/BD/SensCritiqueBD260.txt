@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Lupus, volume 2</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2004</year>
+	<link>http://www.senscritique.com/bd/Lupus_volume_2/387251</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>54</numberOfVoters>
+		<numberOfVoters>142</numberOfVoters>
+		<numberOfVoters>116</numberOfVoters>
+		<numberOfVoters>27</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Lupus, volume 2</title>
+		<author>Kabuto</author>
+		<date>2012-05-20</date>
+		<score>0.8</score>
+		<content>Toujours ce trait noir, épais, un peu brouillon au premier abord mais qui me bluffe totalement par sa capacité à traduire un maximum d'émotion. Des cadrages surprenants qui fonctionnent pourtant très bien et quelques regards simplement dessinés qui paraissent vivants. Je ne sais pas comment expliquer cette magie qui transparaît dans ce graphisme sombre et profond, bien loin de ce que j'aime habituellement mais c'est une indéniable réussite. Ensuite cette histoire de cavale. Deux êtres perdus, déboussolés qui fuient sans plan précis et qui se retrouvent paumés sur une planète peuplée de vieillards. Ça aussi j'aime beaucoup. Le fait que l'action se passe sur des mondes légèrement exotiques ajoute à l'étrangeté du récit qui pourtant reste très encrée sur la psychologie des personnages. Lupus distille une incroyable humanité dans ces quelques pages et c'est pour cela qu'il faut lire cette BD.</content>
+	</review>
+</sensCritiqueEntity>

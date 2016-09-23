@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>The Ranch</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/serie/The_Ranch/19082761</link>
+	<generalScore>5.8</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>34</numberOfVoters>
+		<numberOfVoters>34</numberOfVoters>
+		<numberOfVoters>49</numberOfVoters>
+		<numberOfVoters>18</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>The Ranch</title>
+		<author>Tanja</author>
+		<date>2016-06-24</date>
+		<score>0.6</score>
+		<content>Si la série n’est pas la meilleure qu’est pu produire Netflix, elle m’a tout de même amusée. Les personnages sont certes caricaturaux, mais on s’y attache vite, même à Beau, le père taciturne et tyrannique. Prénommer ses enfants Colt et Jameson, il faut avoir de l’humour ou ne pas aimer ses enfants… oh wait… Le plus grand plaisir reste de retrouver Ashton Kutcher et Danny Masterson dans la même série 10 ans après l’arrêt de That ’70s show. Colt n’est pas aussi bête que Kelso et Jameson pas aussi cool que Hyde, mais qu’importe le duo fonctionne toujours aussi bien. Si, si on s’amuse quand même avec The ranch, même si le ton doux amères n’amène pas forcément le rire au premier abord. J’ai hâte de voir la suite de la série surtout au vu de cette photo prise il y a quelques semaines où la plus grande partie du cast de That ’70s show était présent sur le tournage (manque Topher Grace alias Eric Forman à l’appel). J’en trépigne d’impatience ! The ranch est une série bien sympa, pas inoubliable certes, mais on passe quand même de bons moments. Si vous avez Netflix n’hésitez pas à y jeter un œil.</content>
+	</review>
+</sensCritiqueEntity>

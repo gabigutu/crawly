@@ -1,0 +1,13 @@
+<movie>
+	<title>Billa</title>
+	<link>http://www.imdb.com/title/tt1525323/?ref_=fn_al_tt_2</link>
+	<year>2009</year>
+	<generalScore>0.61</generalScore>
+	<review>
+		<date>2011-07-22</date>
+		<username>Anisur Rahman</username>
+		<score>-1.0</score>
+		<shortDescription>I Watch This Movie and it is So awesome Movie</shortDescription>
+		<fullReview>It is Action Movie.You can Watch This Movie For enjoyable.Billa (Telugu: &#xc2c;&#xc3f;&#xc32;&#xc4d;&#xc32;&#xc3e;) is a 2009 Telugu language film directed by Meher Ramesh, an exact remake of the Tamil Film Billa (2007 film). But some scenes were changed to suit the Telugu audience. It also drew inspirations from the Telugu film, Yugandhar (1979) which drew inspirations from another Hindi film titled Don and one of Rajinikanth's Tamil film with the same title. Prabhas Raju Uppalapati plays the lead role, where he plays dual roles of the characters Billa and Swami Ranga, with Anushka Shetty and Namitha playing the heroines.[1] The film, which began in October 2008, released in April 2009.[2] Actress Jayasudha, who had earlier starred in Yugandhar (1979) as Jaya, the first Telugu remake of Don, has a guest role as Janaki in this</fullReview>
+	</review>
+</movie>

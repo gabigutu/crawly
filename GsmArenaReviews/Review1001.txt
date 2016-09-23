@@ -1,0 +1,483 @@
+<review>
+	<title>Samsung Galaxy S4 review</title>
+	<description>Supernova</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_s4-review-914.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE; quad-band 3G with HSPA; LTE</paragraph>
+			<paragraph>5" 16M-color 1080p Super AMOLED capacitive touchscreen with Gorilla Glass 3</paragraph>
+			<paragraph>Android OS v4.2.2 Jelly Bean with TouchWiz UI</paragraph>
+			<paragraph>Quad-core 1.9 GHz Krait 300 CPU, Adreno 320 GPU; Qualcomm Snapdragon 600 chipset/ Quad-core 1.6 GHz Cortex-A15 &amp; quad-core 1.2 GHz Cortex-A7, PowerVR SGX 544MP3 GPU; Exynos 5410 chipset</paragraph>
+			<paragraph>2GB of RAM</paragraph>
+			<paragraph>13 MP autofocus camera with LED flash,1080p video recording @ 30fps, continuous autofocus and stereo sound</paragraph>
+			<paragraph>2 MP front-facing camera, 1080p video recording</paragraph>
+			<paragraph>Dual shot and dual video recording, Drama shot, Shot and sound</paragraph>
+			<paragraph>Wi-Fi a/b/g/n/ac, Wi-Fi Direct and DLNA</paragraph>
+			<paragraph>GPS with A-GPS, GLONASS</paragraph>
+			<paragraph>16GB/32/64GB of built-in storage</paragraph>
+			<paragraph>microSD card slot</paragraph>
+			<paragraph>microUSB port with USB host and MHL 2.0</paragraph>
+			<paragraph>Bluetooth v4.0</paragraph>
+			<paragraph>NFC</paragraph>
+			<paragraph>IR port for remote control functionality</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Barometer, thermometer, hygroscope</paragraph>
+			<paragraph>IR gesture sensor for Air gestures</paragraph>
+			<paragraph>Smart gestures: Smart stay, Smart pause, Smart scroll</paragraph>
+			<paragraph>Active noise cancellation with dedicated mic</paragraph>
+			<paragraph>Ample 2600 mAh battery with great endurance</paragraph>
+			<paragraph>7.9mm thickness</paragraph>
+			<paragraph>Smart volume and Adapt Sound features for the music player</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Design is a bit played out by now</paragraph>
+			<paragraph>Hyperglaze finish doesn't feel as premium as aluminum on HTC One or glass on Xperia Z</paragraph>
+			<paragraph>No FM radio</paragraph>
+			<paragraph>Video recording is slightly worse than on the Galaxy S III; FOV in video is pretty narrow</paragraph>
+			<paragraph>Shared camera interface makes framing tricky</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>As the Galaxy S counter flips another digit, Samsung has hopes of getting an even tighter grip on the smartphone market, and reasserting its Android dominance. With two of the main rivals enjoying a head-start to the market, the Samsung Galaxy S4 would need to be something special to quickly erase their lead. Not to mention, it's looked upon to match, and outdo, its predecessor. And by the first impressions of the smartphone, that might be not be as tall an order as it sounds.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The new Samsung flagship improves on just about every aspect of the previous generation, coupling more powerful hardware with another handful of new software features. With a bunch of new sensors too, the Galaxy S4 aims to be your must-have all-in-one tool.</paragraph>
+			<paragraph>Here's the full cheat sheet for our Samsung Galaxy S4 review:</paragraph>
+			<paragraph>So, there are enough major wows, some minor ohs and just a few oh wells - not a bad achievement when you are succeeding the most popular droid of all time. The Samsung Galaxy S4 was always expected to aim for the top, but its announcement still managed to surprise a few. The fact that the Koreans squeezed a larger screen, a bigger battery and more power into something smaller than the Galaxy S III is impressive enough in its own right, but the novelties certainly don't end there.</paragraph>
+			<paragraph>We only got the chance to get to know a few of the Samsung Galaxy S4 exclusive software tricks in our preview, but we'll be testing the full set this time around. The new camera also showed promise and we'll put it through all the motions to find out if it can really live up to its potential.</paragraph>
+			<paragraph>The hardware inspection starts right after the break, with the battery and display test following right after.</paragraph>
+			<paragraph>Update, April 18: We got a final retail Galaxy S4 unit and redid tests and benchmarks, made new screenshots and checked if the description of all the features is accurate. Here's what we found to have changed:</paragraph>
+			<paragraph>Update, April 24: Over the past week, we also had the opportunity to spend time with a US version of the Samsung Galaxy S4 for Sprint Wireless. Save for the different bands, the handset's specifications and performance are on par with the Qualcomm Snapdragon 600 powered device we extensively reviewed.</paragraph>
+			<paragraph>We have updated the respective chapters as well as the vs. articles we have with the Galaxy S4 to reflect these changes.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Eco-friendly retail box with a new pair of headphones<subsectionTitle>
+			<paragraph>Samsung's latest retail packaging is made entirely of recycled paper and printed with soy-ink. It's also 100% recyclable and eco-friendly.</paragraph>
+			<paragraph>The Samsung Galaxy S4 comes with the standard set of accessories you'd expect in a smartphone's retail box. The A/C adapter that you need to use with the supplied microUSB cable are joined by a pair of redesigned earphones that represent a huge step over the ones bundled with the Galaxy S III. All accessories are painted white this time.</paragraph>
+			<paragraph>The new earphones are dubbed HS330 and feature dual-speakers (8mm tweeter and 10mm woofer) for improved performance with both high and low frequency sounds. They offer better bass than just about any other pair of headphones you can find in a smartphone's retail package, although they probably won't fully replace any high-end aftermarket earphones, if you happen to have those.</paragraph>
+			<paragraph>Samsung has also slightly altered the shape, material and size of the ear tips, making them fit more comfortably in your ears and has supplied the headphones with a tangle-free flat cable. Naturally, you get two other size options for the ear tips supplied in the box. Finally the remote control has also been improved, and now offers larger buttons (by about a third over the Galaxy S III EHS64 headset), despite being 17% smaller itself.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S4 360-degree spin<subsectionTitle>
+			<paragraph>The size of the Samsung Galaxy S4 is probably one of the smartphone's key assets. The smartphone is the exact same height as its predecessor, but is 0.8mm narrower, 0.7mm slimmer and 3g lighter, while featuring a 0.2" larger screen, a higher-capacity battery that's still removable, and a host of new sensors and radios.</paragraph>
+			<paragraph>Samsung likely shares at least some of the credit with Corning and its new Gorilla Glass 3 that the Galaxy S4 employs. Based on a completely new glass composition, the third generation of the popular screen coating offers increased impact and scratch resistance, so Samsung could probably get away with using a slimmer shield, while maintaining the same level of protection. In fact the early tests are showing that the Galaxy S4 is actually harder to scratch than its predecessor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and handling<subsectionTitle>
+			<paragraph>The Galaxy S4's design is what's changed the least when compared to the Galaxy S III. The smartphone uses the same Hyperglazed finish, on account of which the predecessor was bashed for feeling like a plastic toy rather than a proper flagship. And the Galaxy S4 will most likely receive the same criticism. After all, it doesn't come anywhere near the premium feel of a Sony Xperia Z, let alone the HTC One.</paragraph>
+			<paragraph>This is not to say, however, that the Samsung Galaxy S4 looks worse than its predecessor. The new texture gives it a more serious and stylish look, while some minor refinements to the design also contribute to the overall appeal. The back panel now looks different depending on the angle the light hits it, which makes it more eye-catching than before.</paragraph>
+			<paragraph>The slimmer bezels leave more space for the brilliant screen (more on that later), while the slimmer body has a more high-end vibe. We are positive too that many will appreciate a black paintjob at launch.</paragraph>
+			<paragraph>It's also great that despite all the new features it introduces, the Samsung Galaxy S4 is easier to handle than the Galaxy S III. It also feels more comfortable in-hand than the HTC One, and that flagship only has a 4.7" display. Samsung has proven that a 5" screen doesn't necessarily make for an unwieldy handset.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>1080p Super AMOLED display is what geeks' dreams are made of<subsectionTitle>
+			<paragraph>One of the most important updates that the Samsung Galaxy S4 brings is the new 5" Super AMOLED screen of 1080p resolution. While it does have a PenTile matrix, the 441 ppi pixel density makes sure you won't be able to spot the hated cross-hatch pattern.</paragraph>
+			<paragraph>The defect wasn't easily spotted on the Galaxy S III either unless you looked from a closer-than-comfortable distance, and here it's as good as invisible to the naked eye. The design of the PenTile matrix has been changed too, so now green sub-pixels are twice as many as blue and red sub-pixels, and the arrangement is changed as well. This however matters little to anyone not armed with a microscope.</paragraph>
+			<paragraph>  Samsung Galaxy S4 and HTC One screens up close</paragraph>
+			<paragraph>What you should take away from all this is that the final weak point of the Super AMOLED screens has been taken care of and the Galaxy S4 offers image quality like no other smartphone on the market. Its impressive contrast and almost perfect viewing angles make everything on the screen pop, regardless of your viewpoint.</paragraph>
+			<paragraph>The color saturation is beyond the reach of any LCD out there, which make even the dullest image appear remarkably vibrant. Still, if you are not a fan of the oversaturated look of AMOLEDs, Samsung gives you the option to tune down the saturation to more natural levels and enjoy the best of both worlds. There's a dedicated Adobe RGB setting that gets this done.</paragraph>
+			<paragraph>The brightness levels of the Samsung Galaxy S4 are about on par with the rest of the company's AMOLEDs, which is to say not very high. However, due to their low reflectivity, this doesn't affect outdoor performance. Keep in mind that enabling the auto tone setting in the screen option limits the maximum brightness to under 300 nits, so if that matters to you, you better keep it off.</paragraph>
+			<paragraph>Of course, Nokia showed that a brighter AMOLED can do even better in direct sunlight, but the gain isn't as dramatic. The Galaxy S4 is a solid performer outdoors, although surprisingly not any better than the Galaxy S III, despite its slightly higher brightness. Perahps, the new Gorilla Glass causes a dash of extra reflections and offsets the advantage.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>You can find all about our display testing routines here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Samsung has a bunch of new sensors scattered around the Galaxy S4's body, but the general layout of controls is largely unchanged.</paragraph>
+			<paragraph>Below the display you get the same three keys as on the Galaxy S III - capacitive Menu and Back buttons and a regular press Home key.</paragraph>
+			<paragraph>There's some extra functionality upon a long press too - the Menu key handles Google Now, while the Home key brings up the task switcher. Pressing and holding the back button brings the side bar for the Multi-window feature (if it's enabled), and if you click the home key twice the Samsung S voice virtual assistant kicks in.</paragraph>
+			<paragraph>Above the display we have the earpiece, as well as a bunch of sensors. The traditional ambient light and proximity sensors are joined by an IR gesture sensor, which enables the cool Air gestures in applications such as the web browser and music player. There's also a 2.1 megapixel front-facing camera for video calls and a status LED up there.</paragraph>
+			<paragraph>The left side of the Samsung Galaxy S4 features the volume rocker, while the power/lock key is on the right. Unfortunately, despite the proper camera upgrade that the Galaxy S4 got, the new flagship is still missing a dedicated camera key. You can use the volume rocker for snapping photos, but it can't quite match a two-stage button.</paragraph>
+			<paragraph>The top of the Galaxy S4 features the 3.5mm audio jack, the secondary microphone and the IR blaster that allows you to use the smartphone as a remote control for your home appliances. There's also a remote control app with a pretty rich database preinstalled, so the functionality is available out of box.</paragraph>
+			<paragraph>The microUSB port at the bottom is used for both data connections and charging. Not only does it support USB host but it also comes with support for the new MHL 2.0, enabling 3D 1080p output and TV connections without an external power source. Previously you had to plug in your charger in the adapter as well, but the Galaxy S4 gets rid of that extra requirement.</paragraph>
+			<paragraph>The other item of interest at the bottom is the primary microphone.</paragraph>
+			<paragraph>The back of the Samsung Galaxy S4 is where the 13 megapixel FullHD-capable camera lens is located. As on the Galaxy S III, the LED flash is right beside it, but the loudspeaker grille has been moved to the bottom left edge of the device.</paragraph>
+			<paragraph>Removing the battery cover reveals the microSIM slot, the nicely upgraded 2600 mAh removable battery and the microSD card slot. The memory card slot is hot-swappable, too.</paragraph>
+			<paragraph>At this point in time, the Galaxy S4 i9505 packs an endurance rating of 69 hours as opposed to the Galaxy S4 i9500 having a rating of only 65 hours.</paragraph>
+			<paragraph>Clearly, the Exynos 5 Octa and its quad Cortex-A15 and quad Cortex-A7 cores have a lot of potential. Samsung is just starting to harness their power and to get the most out of both in terms of power output and optimization. Unfortunately, as things stand right now, the Exynos chipset is far from besting the Snapdragon chipset in the battery performance department. We have got to remember that the octa-core chipset did a little better with the benchmarks in the performance section however that's not enough to warrant the real-life difference in the battery life.</paragraph>
+			<paragraph>It would be interesting to see whether Samsungh would be able to improve on the performance/battery life ratio of the octa-core edition some moment in the future.</paragraph>
+			<paragraph> </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>New TouchWiz with lots of options<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 comes with Android 4.2.2 Jelly Bean - the latest release of the Google platform available at the moment - and a laundry list of new TouchWiz features. The Galaxy S4 combines the best of both worlds and while it seems familiar, there's plenty new below the surface - so much in fact that you'd need a couple of days just to get accustomed to all the features.</paragraph>
+			<paragraph>Here's a user interface video to start you off, which also shows the new air and motion gestures in action.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We start with the lockscreen, which features the new lockscreen widgets introduced with Android 4.2, though Samsung fiddled with them a bit. The default lockscreen shows the time along with a personal message overlaid on beautiful photos pulled from TripAdvisor (with text at the bottom about where the photo was taken).</paragraph>
+			<paragraph>The water ripples have been replaced by a lens flare effect though, if you prefer, you can switch back to the old one or disable it all together.</paragraph>
+			<paragraph>The lockscreen has multiple panes, each containing one widget. The page to the right of the default one is special and can either be a list of favorite apps (the default TouchWiz setting) or a shortcut for the camera (as in pure Android).</paragraph>
+			<paragraph>The pages to the left contain different widgets - email, Google Now, Messaging, music player, Yahoo! Finance and News and you can download apps from the Play Store that add new widgets.</paragraph>
+			<paragraph>There are no app shortcuts at the bottom of the screen by default - the Favorite Apps widget to the right has taken over that role, but you can enable them and have up to five easily accessible shortcuts.</paragraph>
+			<paragraph>You can change the greeting on the lockscreen by hitting the edit button. You can type something else, choose a different font and color. You can also disable the personal message altogether and remove the time and date info.</paragraph>
+			<paragraph>Another nice trick is the Quick glance option we first saw on the Galaxy Note II. It uses the proximity sensor to detect you reaching for the device and it lights up the screen that shows the time, missed call and message counters, battery charge and music track info.</paragraph>
+			<paragraph>At the top there are five (or eight in landscape mode) toggles that can quickly enable and disable features. There are more than five toggles, of course, you can swipe horizontally to get to the others. Or you can tap the new button that reveals a grid of all the shortcuts, 20 in total. You can rearrange this grid (the top row toggles are always visible). A two finger swipe directly opens the grid of toggles.</paragraph>
+			<paragraph>Below the toggles is the display brightness slider complete with an Auto toggle. You can disable this slider to get more room for notifications.</paragraph>
+			<paragraph>The notifications themselves have not changed - they can be expanded to reveal more info and collapsed to save space or dismissed with a sideways swipe. Sometimes they also have helpful buttons on them like "Call back" and "Send SMS" on a missed call notification.</paragraph>
+			<paragraph>The homescreen looks mostly the same. Samsung has provided many of its own custom widgets like Samsung Hub, S Travel, etc. There's wrap around feature, which lets you scroll homescreens infinitely by always going from the last to the first one.</paragraph>
+			<paragraph>You can pinch zoom to get into the overview mode of all homescreen panes. There can be up to 7 and you can easily add, remove and rearrange panes from here. One pane is marked as "home", that's the one you go to when you press the Home button - you can choose a different homescreen as the default quite easily.</paragraph>
+			<paragraph>The app drawer hasn't changer really since the early days of Nature UX. The app shortcuts are presented as a customizable grid, alphabetized grid or list and you can hide shortcuts (good for bloatware you can't uninstall), view only downloaded apps, uninstall apps and add folders.</paragraph>
+			<paragraph>You can also maximize space in the app drawer by stacking apps into folders. You can either drag icons on top of each other in edit mode or you can check multiple app via the create folder option.</paragraph>
+			<paragraph>As before widgets are in a separate tab in the drawer.</paragraph>
+			<paragraph>Pinch to zoom in the app drawer works the same as on a homescreen - it gives you a glance overview of all panes as thumbnails. You can choose to have your app drawer ordering to custom, alphabetical grid or alphabetical list. There's a dedicated downloaded pane too, where all your downloaded apps go.</paragraph>
+			<paragraph>When you drag out shortcuts and widgets to the homescreen you get a list of small thumbnails of all the homescreen panes with the silhouettes of the widgets there so you can judge how much space is available on each pane.</paragraph>
+			<paragraph>The App switcher interface is unchanged - there's a list of thumbnails of all the recent apps, apps can be swiped to dismiss and there are three buttons at the bottom, Task manager, Google Now and Kill all apps.</paragraph>
+			<paragraph>The Galaxy S4 comes with Multi-window. This lets you run two apps side by side on the screen. You can adjust the division line giving one app more space. Only compatible apps can be used with Multi-window, for now that means mostly the ones that come preinstalled on the phone.</paragraph>
+			<paragraph>You can move the small arrow that brings up the drawer with the Multi-window apps to make it easier to reach with your thumb. You can also move the whole drawer to the other side of the screen.</paragraph>
+			<paragraph>The settings menu has been redone in the latest TouchWiz version. Instead of a scrollable grid of icons and sections Samsung has went with a tabbed interface. On top you get four tabs - Connection, My device, Accounts and More. and you can find the relative features in their corresponding place - display, for instance, is in the My device tab.</paragraph>
+			<paragraph>It makes navigating the settings menu much faster and more intuitive.</paragraph>
+			<paragraph>We like what Samsung has done with the latest iteration of TouchWiz. Despite pilling feature upon feature, the whole thing really feels intuitive and well organized. Placing widgets, rearranging menu and homescreen panes, getting to your important settings, etc. is now faster than ever.</paragraph>
+			<paragraph>It's also very responsive thanks to the great hardware inside.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Air and Motion gestures, Smart Screen<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 comes with a number of advanced features enabled by the powerful hardware and dedicated sensors.</paragraph>
+			<paragraph>The first is Air View, which debuted on the Galaxy Note II and worked with the S Pen. There's no S Pen on the Galaxy S4, or a need for it - the phone can detect your finger hovering over the screen.</paragraph>
+			<paragraph>This enables information preview (e.g. SMS text, calendar entry text and so on), previewing videos just by pointing to a spot in the timeline, the next track in the music player by hovering over the next button (works with previous button too), previewing folders, speed dial contacts, and magnifying links in web pages. Air view detects fingers 1cm / 0.5" away from the screen, so there's no danger of accidentally tapping the screen when you wanted to use Air View instead.</paragraph>
+			<paragraph>Another set of "air" features are the Air Gestures. Quick Glance is one of them, but there's more. The rest of the air commands are triggered by waving your hand over the Galaxy S4.</paragraph>
+			<paragraph>You can use this to scroll web pages in the browser (vertical waves), switch between tabs (horizontal waves), move between tracks in the music player and photos in the gallery, accept a call and move app shortcuts and S Planner events.</paragraph>
+			<paragraph>Air Gestures can detect your hand up to 7cm (just under 3") and might prove useful in some situations. Note that only the native apps support them, third party apps will not work with them (even Chrome that comes preinstalled on the phone).</paragraph>
+			<paragraph>The familiar Smart Stay and Smart Rotate features are enabled too. Stay prevents the screen from locking as long as the front-facing camera can see your face (great for reading) and Rotate uses the orientation of your face rather than accelerometer info to decide how to rotate the screen.</paragraph>
+			<paragraph>Smart Scroll is one of the two new features - it allows you to scroll up and down by tilting the phone or by tilting your head. It's a bit hard to get it right the first time, but after that you can tilt your head down to scroll down and up to scroll back up.</paragraph>
+			<paragraph>The second new feature is simpler and more useful - Smart Pause. While watching a video, it uses the front-facing camera to track your face and will automatically pause the video when you look away. Look back and the screen and the playback continues.</paragraph>
+			<paragraph>Then there are a number of motion gestures, which are not exactly new. There's direct call (dial the contact whose info you're currently viewing by lifting the phone up to your ear), smart alert (makes the phone vibrate when you pick it up if there are missed events), zooming and panning in the gallery, a shake of the phone to refresh the list of Bluetooth devices and muting alarms or pausing music playback by putting the phone face down.</paragraph>
+			<paragraph>You can also pause the music player by putting your palm on the screen. A palm swipe takes a screenshot.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>S Voice and Google Now<subsectionTitle>
+			<paragraph>S Voice is Samsung's answer to Apple's Siri and is present on the Galaxy S4. S Voice can be used to initiate a call, dictate text, play music, open an app, change a setting, make a memo (including voice memo), add a reminder, schedule an event, set an alarm or timer, check the weather, do a search on the internet, look for local listings (e.g. nearby restaurants) and even get an answer to a question.</paragraph>
+			<paragraph>S Voice does duplicate parts of Google Now, but being less search focused it tries to do more on the actual phone and it has some added features. Some of these are available outside of S Voice too, so you can set the Galaxy S4 to answer a call, snooze an alarm, take a photo and what not by voice commands even when S Voice isn't running. The problem with S Voice is not nearly as fast or as accurate at recognizing your speech input as Now.</paragraph>
+			<paragraph>Naturally, being a Jelly Bean smartphone, the Galaxy S4 also comes with Google Now.</paragraph>
+			<paragraph>Google Now integrates with your Google account and can access your daily routine, internet searches, email, etc. and give you information relevant to your interests and daily needs.</paragraph>
+			<paragraph>It provides traffic information to your work or home, knows those scores of sports teams you follow, gives you the weather forecast for your city and can even tell you who Kevin Spacey is.</paragraph>
+			<paragraph>Google Now also has its own separate widget on the homescreen.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Update, May 9: We added the I9500 Galaxy S4 benchmarks.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Samsung Galaxy S4 comes in two versions - one uses the Qualcomm Snapdragon 600 chipset, while the other uses Samsung's own Exynos 5 Octa.</paragraph>
+			<paragraph>The Snapdragon version packs four Krait 300 cores clocked at 1.9GHz with 2GB of RAM and Adreno 320 GPU. The Exynos one has four Cortex-A15 cores at 1.6GHz that with 2GB of RAM and a tri-core PowerVR SGX544. Both versions should offer top notch performance, but the Exynos one packs a second group of four cores - Cortex-A7 clocked at 1.2GHz - which can be used during light load situations to reduce power usage.</paragraph>
+			<paragraph>The Galaxy Samsung Galaxy S4 (S600) edges out the HTC One and LG Optimus G Pro in single-threaded (Benchmark Pi) and multi-threaded (Linpack) performance, both these handsets use the same chipset but with the CPU clocked at 1.7GHz. The Exynos-powered Galaxy S4 meanwhile is clocked even lower but offers virtually the same performance as the Snapdragon version.</paragraph>
+			<paragraph>Note: The Snapdragon 600-powered Galaxy S4, the I9505, is marked S600, while the Exynos 5 Octa one, the I9500, is marked Octa.</paragraph>
+			<paragraph> 
+.jrGraphContainer { background: none !important; border-bottom: 1px solid #eee !important;}
+ul.jrGraph { left: 146px !important; }
+ul.jrGraphControls { padding: 0; margin-left: -10px !important; }
+ 
+JRGRAPH_EXPANDABLE_VERSION = false;
+ </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Geekbench 2 is a cross-platform benchmark, which allows us to compare the Galaxy Samsung Galaxy S4 against the iPhone 5 and the difference is double. The HTC One and Optimus G Pro lag behind both Samsung Galaxy S4 versions too, with the Octa pulling slightly ahead. We should note that they are using a newer version of Android (4.2.2 vs. 4.1.2).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to compound benchmarks, AnTuTu and Quadrant put the Galaxy Samsung Galaxy S4 on top, with the Octa version once again being slightly faster. The HTC One and the LG Optimus G Pro traded victories in both benchmarks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Now let's look at the GPU benchmarks. We ran GLBenchmark 2.5 in 1080p off-screen mode, which is also the native screen resolution for the flagships. The Galaxy Samsung Galaxy S4 (S600) came out ahead of the HTC One here, which leads us to suspect that the GPU has been overclocked, just like the CPU. The S4 (Octa) was a couple of frames faster.</paragraph>
+			<paragraph>The Samsung Galaxy S4 (Octa) also topped the Epic Citadel chart (again, a couple of frames ahead of S600), though it's getting too close to the software 60fps limit to show much of a difference. Still, this benchmark uses Unreal Engine, which is sometimes used in high-end 3D mobile games and shows real-world performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally, JavaScript is blazing fast, beating all other phones we've tested so far. HTML5 performance as measured by Vellamo could use some work. We used the Android Browser for the test rather than Chrome, which also comes preinstalled.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Galaxy Samsung Galaxy S4 is hands down one of the fastest smartpohnes on the market right now. There's very little difference between its two incarnations, even though practically everything about them is different - chipset maker, CPU and GPU architecture, the whole thing.</paragraph>
+			<paragraph>We suspect this is on purpose - Samsung wanted to guarantee that devs can expect the exact same level of performance form the Galaxy S4, regardless of which version the user has. And they've done an excellent job. But this isn't the best that Cortex-A15 is capable of - we might have to wait until the Galaxy Note III to get a true feel for its performance.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook is top notch<subsectionTitle>
+			<paragraph>The phonebook on the Galaxy S4 packs an incredibly wide range of features. The four tabs on top are still present and provide access to the Phone app, Groups, Contacts and Favorites.</paragraph>
+			<paragraph>As usual, there are various options to filter contacts by phone numbers, groups and multiple sorting. You can import/export contacts to/from the SIM card but you can't display them alongside the phone memory entries.</paragraph>
+			<paragraph>Samsung has kept the swipes in the phonebook, enabling quick dialing (right swipe) or sending a text message (left swipe), which are really handy on the go.</paragraph>
+			<paragraph>The Quick contacts feature, upon a tap on the contact picture, shows a pop up menu with shortcuts to call, text, email or Google Talk.</paragraph>
+			<paragraph>Tapping on a contact reveals all the details available. There are two tabs here - the first one is the About tab, which shows the person's photo on top. If configured, the right tab displays their latest updates from social networks or Google Talk.</paragraph>
+			<paragraph>Information is perfectly organized into different sections for phone, email, etc. You can use the back button to go to the full contact list, or tap in the top left corner, just like in vanilla Android. The top right corner has shortcuts to contact editing and favorites.</paragraph>
+			<paragraph>If the phone book finds duplicate contact entries, it'll prompt you to join them. Furthermore, there are a plethora of options once you hit the Menu button. You can view the call history, as well as join, unjoin and share contacts.</paragraph>
+			<paragraph>There's plenty of contact information you can assign to each contact and it still remains neatly organized. You have all the types listed (numbers, email addresses, etc.) and, just like the previous version of TouchWiz, there's a plus sign on the right - tapping it adds another item of that type. Pressing the minus sign under it deletes the unneeded field.</paragraph>
+			<paragraph>The reject list blocks certain numbers from calling you, even just prefixes (e.g. block foreign calls). It works great with preset numbers and you can also bar unknown numbers. There are third party blacklist apps in the Play Store but it's nice to have this out of the box.</paragraph>
+			<paragraph>You can choose a specific vibration pattern as an incoming call alert, just like you would a ringtone. A set of predefined patterns is offered, but you can make your own too. You can also assign a custom vibration to specific contacts.</paragraph>
+			<paragraph>The phonebook app on the Galaxy S4 is really something. It's almost too advanced for some users but its interfaces is simple enough so you can only use the features you need. Once you find your feet around you will appreciate having cool extras like call barring, which stock and most other forms of Android lack.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony with all the bells and whistles<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 offers top notch quality and managed to hold onto reception with ease. Earpiece volume is great and Samsung has even gone as far as adding an in-call equalizer, which does wonders if you want an even louder experience.</paragraph>
+			<paragraph>The phone app on the Galaxy S4 has been slightly redesigned but all the functionality is there. Smart Dial is available and works as advertised - it searches names and numbers simultaneously. Only one contact is shown (with contact photo) and you can tap the down arrow to view the rest (the number above the arrow indicates how many contacts have matched your query).</paragraph>
+			<paragraph>Direct Call is here too and lets you dial a number by lifting the phone up to your ear while browsing contacts or reading/composing a message. If you use quick dial but forgot which contact is assigned to which number, you can use Air View as a quick reminder.</paragraph>
+			<paragraph>Voice dialing is available too and taken care of by the newly added S Voice, which activates on a double tap of the home button. All you need to say is "Hi Galaxy" and speak your command (e.g. "call Dexter").. It takes a while to process voice commands but it has more uses than other voice-recognition apps for Android. Another way to answer a call is to wave your hand over the phone (that's another Air Gesture).</paragraph>
+			<paragraph>The call log is the tab next to the dial pad. It displays all the dialed, received and missed calls in one list sorting your call history by contacts.</paragraph>
+			<paragraph>Thanks to the proximity sensor, your screen will automatically turn off when you hold it next to your ear during a call. The available options during a call include taking a note, using the keypad, muting, holding the call or adding another call to this conversation.</paragraph>
+			<paragraph>The dialer also offers quick shortcuts for making a video call or sending a message instead.</paragraph>
+			<paragraph>Now that we have a final hardware unit in the office we decided to redo the loudspeaker test and for good reason too. The I9505 Galaxy S4 we tested prior to this one managed an Average result, while this one captured a Good one. It's extremely loud and even managed to slightly top the HTC One's dual front speakers. While the One produces deeper sound the Galaxy S4 is louder. You can find more about the testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging with room for customization<subsectionTitle>
+			<paragraph>The messaging department is quite straightforward: there are no folders here, just a new message button. Under that button is a list of all your messages organized into threads.</paragraph>
+			<paragraph>Swiping on a message header will do exactly the same as in the phonebook - a left swipe starts a new message, while swiping to the right will start a call.</paragraph>
+			<paragraph>There's application-specific search that lets you quickly find a given message among all your stored SMS and MMS.</paragraph>
+			<paragraph>To add message recipients, just start typing the corresponding name or number and choose from the contacts offered.</paragraph>
+			<paragraph>The keyboard of the Galaxy S4 has seen some changes. The layout has been redone so that now it displays an additional row above the letters for numbers - kind of like a full-fledged computer keyboard does.</paragraph>
+			<paragraph>There's also a Swipe-like mode which tracks your finger and guesses the word you're trying to type. This feature works great but has limited language support for now.</paragraph>
+			<paragraph>Another cool option is the floating keyboard that takes up less space on the screen and can be moved around.</paragraph>
+			<paragraph>Adding any multimedia content to the message automatically turns into an MMS. You can either quickly add a photo or an audio file to go with the text or compose an MMS using all the available features (like multiple slides, slide timing, layout, etc.). The multiple slides are all shown inside the compose box.</paragraph>
+			<paragraph>You can use S Voice to dictate your message or use Google's built-in voice recognition software if you don't feel like typing. Since this is a Jelly Bean device, you can also use voice typing without a data network connection, as long as you have downloaded the necessary language packs in advance. Samsung also provides the option to change the default input method.</paragraph>
+			<paragraph>Samsung has left a lot of room for customizing your messaging experience. You can choose from different bubbles and background and can use the volume button to increase or decrease the font in conversations.</paragraph>
+			<paragraph>However you don't get the option to choose your own colors for either the conversation bubble which we would've liked to see. The background can be changed according to your taste.</paragraph>
+			<paragraph>When you're composing a new message you can use the Translate option to translate it into another language. The same goes for messages you've received. This feature probably won't see much use but it's there you ever need it.</paragraph>
+			<paragraph>What will come in good use, however, is the new Direct call (again) feature. When you are reading a message from someone, their number will be automatically dialed by just lifting the phone up to your ear.</paragraph>
+			<paragraph>Just like the dialer, the Messaging app has built-in spam prevention. You can block some numbers (or all unknown numbers) and even add specific phrases to be blocked.</paragraph>
+			<paragraph>Moving on to email, the Gmail app has grown handy shortcuts at the bottom of the screen but is mostly unchanged. It supports batch operations, which allow multiple emails to be archived, labeled or deleted. The default app supports multiple Gmail accounts, but there's no unified inbox.</paragraph>
+			<paragraph>A cool feature in Gmail is that you can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>Swiping on a specific message will archive it for you.</paragraph>
+			<paragraph>The Samsung Email app can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>The Email app supports Air view, which upon a hover over an email gives you a peek into said email.</paragraph>
+			<paragraph>In the upper-left corner you'll find a context menu prompt, which lists all your folders. It's not accessible through a swipe from the side so you'll need to tap the mail icon each time you want to gain access to it.</paragraph>
+			<paragraph>Turning the phone landscape activates the split view - the left side of the screen shows the list of emails, while the right side shows a message. This is the same kind of interface we've seen on the Galaxy Tab though the bigger screen there made it actually useful - half of even a 5" screen isn't enough for comfortable reading.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The G-Talk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery is alive<subsectionTitle>
+			<paragraph>The gallery on the Galaxy S4 has a new layout. It can be sorted into albums, all photos and videos, time, location, etc. There's also a spiral option, which revamps the gallery into a Scalado-like spiral of images and video, which after a while gets really nauseating.</paragraph>
+			<paragraph>You can pinch to zoom in the gallery and thus manage the size of the thumbnails. Air view works in the gallery as well. You can hover your finger above and image and you'll get a bigger thumbnail overview of the image or you can use it to peek inside folders.</paragraph>
+			<paragraph>Upon choosing an album (for instance Camera) you're taken into that albums' stack of photos but a swipe to the right will reveal a bar on the left with the albums. In this mode you can browse images in a dual-screen mode.</paragraph>
+			<paragraph>When a press and hold on a picture the gallery gives you the option to select multiple images, which you can then mass delete, share, copy or move.</paragraph>
+			<paragraph>Viewing photos on the Galaxy S4 is a joy. The screen is ample and the Super AMOLED a treat when displaying colors. The gallery naturally supports full-res images. If you know what "color profile" is you can enable the Adobe RGB screen mode for accurate color rendering, if not you can just enjoy the vibrant colors of the default setting.</paragraph>
+			<paragraph>When viewing a single photo, you'll find several sharing shortcuts and a delete button above the photo, while below is a line of small thumbnails of all other photos in the album. You can tap those small thumbnails to move to other images or you can just swipe to the side.</paragraph>
+			<paragraph>You can easily retouch photos right in the Gallery itself. The photo editor gives you options like crop, rotate, color and effects. You can also make a memo on top of the picture.</paragraph>
+			<paragraph>The Gallery also supports highly customizable slideshows with several effects to choose from, customizable music and speed. You can also highlight specific images to be included in the slideshow.</paragraph>
+			<paragraph>There's a nifty detect text option in the Gallery's context menu, which does as advertised - it detects text on an image and converts it into a text file, which you can share via mail, messages, etc. Keep in mind that it requires a data connection to work.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>File manager<subsectionTitle>
+			<paragraph>The My Files app hasn't changed really - it is an efficient and simple to use file manager. It can move, copy, lock and rename files in bulk, even send multiple files to another phone. My files will only browse the memory card and the large internal storage (it can't access the system drive).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player has folder support<subsectionTitle>
+			<paragraph>The TouchWiz music player on the Galaxy S4 is jam-packed with features and supports a wide variety of file formats, including FLAC, Wave, etc.</paragraph>
+			<paragraph>Music is sorted by the usual Artist, Album, Playlist, etc. but there's also Folder support (which is more often found on third party players) - it's quite handy as it saves you the need to sort songs into playlists like on so many other players.</paragraph>
+			<paragraph>Then there's Music square - it's quite similar to the SensMe feature of Sony smartphones. It automatically rates a song as exciting or calm, passionate or joyful and plots those songs on a square (hence the name).</paragraph>
+			<paragraph>The Samsung Galaxy S4 can also search for content on third party players like PCs on the same network.</paragraph>
+			<paragraph>Samsung has enabled equalizer presets (including a custom one with 7 bands) along with the sound-enhancing SoundAlive technology, which features 7.1 channel virtualization. Samsung uses SoundAlive in some of their MP3 and Android-powered media players.</paragraph>
+			<paragraph>The Now playing screen gives you the usual options - a timescroll of the song, play/pause and back/forth controls, repeat and shuffle, volume control but it also adds lyrics support, AllShare shortcut and a direct sound settings shortcut.</paragraph>
+			<paragraph>While listening to a song you can find music controls in the notification area and the lockscreen.</paragraph>
+			<paragraph>The Galaxy S4 has a couple of features that will improve your listening experience further. One is Smart Sound, which equalizes the volume between tracks. The other is Adapt Sound - it plays a series of beeps (both high and low frequency) and asking if you can hear them. This way the phone can map the capacities of your specific headset and fine-tune its output for optimal sonic experience.</paragraph>
+			<paragraph>After the calibration is complete, the Galaxy S4 shows you the kind of gain you're receiving by keeping Adapt Sound on.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The best video player in business<subsectionTitle>
+			<paragraph>The best video player found on smartphones just got better. The new video player, found on the Samsung Galaxy S4 has the last watched video on top for quick access. Under it there are three tabs - personal (showing you the videos on your local storage), Download (which lets into the Videos store) and Nearby devices, which shows the PCs and players on your local Wi-Fi network.</paragraph>
+			<paragraph>The grid view is our favorite as it is a true quad-core tour de force - the visible video thumbnails are actually playing the videos instead of being static images. They play at a reduced framerate and generating those previews takes a couple of minutes the first time around, but it's an awesome preview and it shows what can be done when you have processing power to spare.</paragraph>
+			<paragraph>The video player lets you choose between three crop modes for how the video fits the screen. The same SoundAlive audio-enhancing technology is available here too. The video player lets you squeeze the best viewing experience out of the large, high-res screen. You can adjust video brightness, color tone and enable outdoor visibility too.</paragraph>
+			<paragraph>The chapter preview detects chapters in the video and shows a rectangular grid, with live thumbnails (just like the grid view above).</paragraph>
+			<paragraph>Hovering your finger over the timescroll lets you preview part of the video in a small thumbnail - just like YouTube videos do when you hover the mouse.</paragraph>
+			<paragraph>Pop up play is here too - it moves the video in a small floating window and you can use other apps on the phone while still watching the video. You can use pinch zoom to adjust the size of the video.</paragraph>
+			<paragraph>The Samsung Galaxy S4 offered a list of subtitles and let us pick. It scans for all subtitles, so the file doesn't have to have the same name as the video file.</paragraph>
+			<paragraph>The Galaxy S4 managed to play all files we threw at it. DivX and XviD along with MP4, AVI and MKV were no problem for the Galaxy S4 and there were no issues with the audio codecs either - not even the usually problematic AC3 videos caused any trouble.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is perfectly clean<subsectionTitle>
+			<paragraph>Update 11 April: We've identified an issue with our testing procedure that caused lower readings for dynamic range, noise level and stereo crosstalk on some smartphones. We've since rectified it and updated the scores to reflect the actual performance on the affected devices.</paragraph>
+			<paragraph>The Samsung Galaxy S4 passed our dedicated audio quality test with flying colors. The smartphone had perfectly clear output when attached to an active external amplifier, with no weak points to its performance. The only thing to frown at here is the only average volume levels.</paragraph>
+			<paragraph>Impressively, there's virtually no distortion when you plug in a pair of headphones. Even the stereo crosstalk which suffers in that case just about every time was barely affected. Unfortunately, the volume levels remained only average.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Samsung Galaxy S4 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Top notch 13MP camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 brings the second resolution bump in the family (after the S II and S III, which were both 8MP shooters). The 13MP camera captures photos of up to 4128 x 3096 pixels. There's a 2MP camera on the front and they can snap a photo or record simultaneously.</paragraph>
+			<paragraph>The user interface is based on the Galaxy Camera interface. The viewfinder is handles both still and video capture, so you don't have to switch modes. However, this is certainly not the most convenient solution as, if you're shooting full resolution 13MP photos, you'll have to frame your videos using a 4:3 viewfinder.</paragraph>
+			<paragraph>Anyway, the cool settings are found in two places. The first is the Mode button under the shutter keys. It brings up a carousel with different shooting modes, each mode comes with a descriptive image and text. When you get familiar with those modes, you can switch to the grid, which drops he text but is faster.</paragraph>
+			<paragraph>The other one is the arrow at the bottom of the screen, which brings up a row of color effects. Each effect gets a live preview, so you can see what the particular scene will look like with it. There's a download button so you can grab more effects.</paragraph>
+			<paragraph>There are more settings in the top left corner, but they won't be used very often. Still, there a number of interesting options here like the setting for the volume rocker to act as a still shutter key, a video shutter key or a zoom lever. The HDR mode (Rich Tone) can be set to save a normal and an HDR photo or just the HDR one. Another interesting option is contextual file names - the Galaxy S4 will name photos with your location (the GPS needs to be on for this to work).</paragraph>
+			<paragraph>One thing we did notice is that there are fewer manual settings - the Galaxy S II and S III used to let you tweak all photo parameters, while the Galaxy S4 just gives you an ISO setting.</paragraph>
+			<paragraph>Let's go over the different modes. There are standard modes like Rich Tone (HDR), Panorama, Night and Sports. Panoramas are pretty impressive, they go a full 360° circle or more and can be as big as 60MP (note that if you hold the phone vertically, the panorama image will have nearly more than twice the resolution). Here's a sample panorama - the stitching isn't perfect and we have shots with even more problems.</paragraph>
+			<paragraph> Panorama sample</paragraph>
+			<paragraph>Other modes we've seen on previous Samsung phones like Best Photo and Best Face, which snap multiple photos and let you pick the best one (in the case of Best Face, you can tweak each face in the photo individually). Beauty Shot does some automatic beauty touch up.</paragraph>
+			<paragraph>Then we get into the more interesting shots. 360 photo is Samsung's name for Photo Sphere, which creates a spherical panorama, similar to those in Street View. Eraser helps you remove moving objects (e.g. tourist waling into your shot).</paragraph>
+			<paragraph>Drama mode takes a moving object and clones it several times. Note that the resolution for this mode drops to 1080p. Another way to capture moving objects is Cine Photo, which creates cinemagrams. The result is an animated GIF file, though we have to say we liked Nokia's implementation better.</paragraph>
+			<paragraph>Sound &amp; shot captures a photo and records ambient sound. It sounds pretty cool - for example, you can hear the sea gulls in a beach photo or the roaring of car engines if you're at a race - but we had problems sharing the shot. All the Galaxy S4 would send is the still image, a JPEG, and the sound remains on the phone. Shame that Samsung didn't use the standard Audio note feature of JPEG photos for this one.</paragraph>
+			<paragraph>One important shooting mode that's not found in the carousel is double shot. It snaps a photo with both the front and the back camera, so the person holding the phone can be in the shot too.</paragraph>
+			<paragraph>You can move the inlaid picture and resize it, which is great if you need to move it out of the way. You can see the image moving when shooting a video too, which is pretty cool. There are several different styles for the inlaid picture.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Just like in LG's implementation, you can choose which camera shoots the inlaid picture.</paragraph>
+			<paragraph>All these modes sound fun, but is the Samsung Galaxy S4 camera good? The short answer is yes, yes it is. Samsung have done a great job at keeping image quality good while increasing the resolution and making the phone thinner.</paragraph>
+			<paragraph>Photos have a lot of fine detail and very little noise. Pixel peepers will notice oversharpening halos, but it's nothing drastic. Colors are accurate if slightly oversaturated and white balance is somewhere between neutral and cold (typical for Samsung phone cameras). The S4 preserves detail in the shadows, sometimes at the cost of detail in the highlights. You can use the HDR mode to remedy this.</paragraph>
+			<paragraph>Update, April 12: We got our hands on a retail unit of the Galaxy S4. Here are some samples shot with the market-ready Galaxy S4:</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 faces off with the 13MP flagships in our Photo quality compare tool. You can also pit it against the last generation of flagships with 8MP cameras using the upscale and downscale features of the tool.</paragraph>
+			<paragraph>   Samsung Galaxy S4 in our Photo quality compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera has room for improvement<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 stores videos in MP4 files with 17Mbps bitrate on average. Stereo audio is recorded at 128Kbps bitrate and 48kHz sampling rate.</paragraph>
+			<paragraph>The video camera doesn't have many fancy shooting modes like the still camera, but dual shot is available and you can do slow-motion and time lapse videos. Slow-motion videos can go up to 8x slow down, but resolution drops to 800 x 450 and framerate to 15fps. Time lapse videos can speed things up to 8x, with resolution and framerate remaining at 1080p @ 30fps (time lapse actually requires less processing power than regular video capture).</paragraph>
+			<paragraph>Touch focus is available before and during video recording and you can switch back to continuous autofocus if you prefer. You can capture 9.6MP (16:9) photos during recording as well.</paragraph>
+			<paragraph>Videos captured with the Samsung Galaxy S4 have a good of fine detail and little noise. Colors and white balance are similar to those in still images, overall accurate but slightly oversaturated and with a cooler white balance.</paragraph>
+			<paragraph>One thing that made a negative impression was the narrow field of view - it's narrower than that of the Galaxy S III and the HTC One.</paragraph>
+			<paragraph>We were also surprised to find that the video quality, good as it might be, is not much better than that of the Galaxy S III. You can verify not just by looking at the following samples but also by jumping to the Video compare tool below.</paragraph>
+			<paragraph>Here's a FullHD video sample we uploaded to YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Update, April 12: We got our hands on a retail unit of the Galaxy S4. Here are a 1080p video sample shot with the market-ready Galaxy S4:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here is an untouched video sample from the Galaxy S4 you can download.</paragraph>
+			<paragraph>Surprisingly the Galaxy S4 videos get way more detailed when we turned on the digital video stabilization. Footage gets more detailed and contrast improves, which is pretty odd considering that we use a tripod for shooting those, so stabilization shouldn't matter a jot. It's obviously some kind of processing issue that Samsung needs to address with a future update.</paragraph>
+			<paragraph>For now we'd recommend keeping video stabilization on, as long as you are not bothered by the field of view, which gets even narrower.</paragraph>
+			<paragraph>Here is the Galaxy S4 sample with the stabilization turned on:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here is an untouched video sample with video stabilization from the Galaxy S4 you can download.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>You can also take a close look at the quality of Samsung Galaxy S4 videos in our Video quality compare tool.</paragraph>
+			<paragraph>   Samsung Galaxy S4 in our Video quality compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity chock-full of new technology<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 starts off with the basics - quad-band GSM/GPRS/EDGE and quad-band 3G. An LTE-variant of the device will also be available for supported regions.</paragraph>
+			<paragraph>Samsung's latest Android flagship uses Bluetooth 4.0 alongside Wi-Fi support which includes a/b/g/n/ac, as well as the new ac standard, with both 2.4GHz and 5GHz band compatibility.</paragraph>
+			<paragraph>The Galaxy S4 allows you to share all sorts of media via NFC by simply touching the S4 and other later-generation S devices back-to-back. You can share with other NFC devices as well, but functionality is limited to what is provided by the stock Android Beam.</paragraph>
+			<paragraph>The AllShare DLNA functionality, which used to be a standalone application, is now more thoroughly integrated into the respective Samsung applications. To share or access content from nearby DLNA-enabled devices, you do this directly from the My Video app and the Music Player.</paragraph>
+			<paragraph>There's also an IR-port, which allows you to control various TV's and other devices using Samsung's WatchON app, which we'll cover below.</paragraph>
+			<paragraph>And finally, for wired connectivity we have the MHL 2.0 port. By all appearances it is a normal microUSB port and works as one (a charger port as well). But the MHL 2.0 port enables video output by using a MHL-to-HDMI dongle. There isn't one included in the retail box and those can be hard to come by.</paragraph>
+			<paragraph>Once you plug the dongle into the phone you also need to plug a charger into the additional microUSB port on the dongle and the Galaxy S4 screen will be mirrored on the TV.</paragraph>
+			<paragraph>The MHL 2.0 port has yet another feature - it features USB On-The-Go. You'll need an adapter for that too (there isn't one in the box) but this one is fairly straightforward - you plug it into the Galaxy S4 and plug a standard USB cable on the other end.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser now supports gestures<subsectionTitle>
+			<paragraph>While the interface of the Android web browser hardly has changed, the Samsung Galaxy S4 has the hardware specs to propel it to great heights of user experience. The pretty large, sharp display with great colors makes reading a joy.</paragraph>
+			<paragraph>The browser supports both double tap and pinch zooming along with the two-finger tilt zoom. There are niceties such as multiple tabs, text reflow, find on page and so on. A neat trick is to pinch zoom out beyond the minimum - that opens up the tabs view.</paragraph>
+			<paragraph>Thanks to the S4's new Air gestures support, you can flip between open tabs by simply swiping left and right across the screen, or scroll up and down by doing the same vertically. It takes a bit of getting used to, but is a neat feature once mastered.</paragraph>
+			<paragraph>Air view, Smart scroll and Smart stay all work in the browser, the first of which lets you simply hover your finger over a web element and it will act as if a mouse cursor was over it instead, which is great for websites not optimized for mobile devices.</paragraph>
+			<paragraph>Flash is no longer welcome as even the stock browser has dropped support for plug-ins.</paragraph>
+			<paragraph>The Web browser comes with Incognito mode, which enables you to surf the web without the browser keeping track of your history or storing cookies. The brightness and colors option gives you four different presets to adjust the display according to your preferences. Automatic brightness is an option, too, and works only within the browser.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>S Apps and more<subsectionTitle>
+			<paragraph>The Samsung Galaxy S4 features a wide array of advanced features and applications that really make it stand apart from other flagships.</paragraph>
+			<paragraph>One of the coolest apps is called Group Play. It shares various multimedia across multiple devices in the same room, but unlike DLNA it's interactive.</paragraph>
+			<paragraph>One use case is to play a music track on the Samsung Galaxy S4 and use multiple phones as speakers. You can pick the role of each phone (e.g. left channel, right) all the way up to surround sound. This way you can control the music from one phone but use the loudspeakers of all.</paragraph>
+			<paragraph>Of course, the other phones will need to support Group Play - the phones communicate over Wi-Fi (your Galaxy S4 becomes a hotspot that others connect to) and the pairing is done via NFC.</paragraph>
+			<paragraph>More useful are the options to share a picture or a document - you can have the same picture appear on everyone's phone and you can draw over it if you need to highlight a certain element of the image.</paragraph>
+			<paragraph>Finally, perhaps the coolest feature of Group Play is that it allows for multiplayer games to be played on several phones simultaneously. Of course, only supported games work - there was a poker and puzzle games preloaded on our unit with Asphalt7 and Gun Bros offered as other games that support Group Play multiplayer.</paragraph>
+			<paragraph>Moving on, there's Samsung Link, another way to share content between devices. Unlike Group Play, Samsung Link is intended for personal use. You can link the phone to a computer that is synced with Dropbox, SkyDrive or SugarSync and remotely access content on that device.</paragraph>
+			<paragraph>Then there's S Voice - it has all the features we're already familiar with, but also comes with a car mode that simplifies the interface and makes text bigger. S Voice can be used to initiate a call, dictate text, play music, open an app, change a setting, make a memo (including voice memo), add a reminder, schedule an event, set an alarm or timer, check the weather, do a search on the internet, look for local listings (e.g. nearby restaurants) and even get an answer to a question.</paragraph>
+			<paragraph>S Translator will help travelers - it can translate between two languages using either typed text or by using speech recognition. It can read out the resulting translation too, if you don't think your Korean accent can cut it. S Translator supports all the widely-spoken languages - English, Chinese, Spanish, Portuguese, French, German, Italian, Japanese and, of course, Korean.</paragraph>
+			<paragraph>This app can work together with Photo Reader, which employs Optical Character Recognition so you can just snap a photo of the text instead of having to type it in (which can be quite a challenge, imagine typing Chinese if you've never studied it).</paragraph>
+			<paragraph>Samsung WatchON is the primary app used with the built-in IR emitter on the top of the phone. The app starts out by asking your zip code and pulls up a number of TV service providers in that area.</paragraph>
+			<paragraph>This is so that the app can show you a TV guide with shows currently on or upcoming on the channels offered by the service provider. You can read a description of the show, check out its popularity in up/down votes (and vote yourself, of course) and comments. You can also set reminders for shows you want to watch.</paragraph>
+			<paragraph>Anyway, the key element of the app is the IR remote control functionality. The app can control TVs, DVD and Blu-ray players, streaming media players and air conditioners. Devices are organized by rooms.</paragraph>
+			<paragraph>One thing we really liked about the app is that it knows some home setups are messy - some let you change channels with the TV remote, others require you to use the set-top box remote for that. Same for the audio, you might be using the TV to output the sound or an AV receiver. The app will ask about your setup and present a unified remote control interface even if you have multiple hardware remotes to control all the devices.</paragraph>
+			<paragraph>Finally, S Health is Samsung's home-brewed health and fitness tracking application. It starts off by getting you to create a profile which includes all your vital statistics, such as age/weight/gender and level of activity, plus your calorie consumption goals.</paragraph>
+			<paragraph>It provides a pleasant interface which gives you an at-a-glance look at your progress, as well as walking, exercise, and fitness trackers, plus you surrounding environmental influences, such as temperature. S Health also supports a number of optional accessories, which enables it to give even more detailed info on your status.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hubs get a makeover<subsectionTitle>
+			<paragraph>Hubs are not just for Windows Phone - Samsung, at least, seems to think so. And while before there used to be several different applications for the various Samsung Hubs, in the latest TouchWiz they're all accessible from one centralized Samsung Hub location.</paragraph>
+			<paragraph>One thing you can see right off the bat when accessing the Hub is absence of any social networking features. Samsung has dropped Social Hub features found in TouchWiz versions of old, leaving you to traditional dedicated apps for your social networking fix.</paragraph>
+			<paragraph>Otherwise, the new Samsung Hub gives you access to stores for books, games, and music in a markedly Windows Phone-esque style. The Music Hub lets you browse music online (with search tools, charts, lists of new releases and so on). You can preview songs (30 seconds each) and buy tracks or whole albums.</paragraph>
+			<paragraph>Each of the sections take you to the respective stores. You can either buy digital magazines, books and online newspapers from the Book Store, browse and sample music from the Music Store (although not in all areas), and play either Social or Premium games in the Game Store. The latter features a try-before-you-buy option, as well as titles by Gameloft and EA, which are otherwise not available on the Google Play Store.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Office Editor a no-go<subsectionTitle>
+			<paragraph>Unlike previous Galaxy flagships, the Galaxy S4 gives you only the Polaris Office viewer functionality, rather than the full-fledged editor. The viewer does not show up in your app drawer, but instead only opens when you select the relevant document from the My Files app.</paragraph>
+			<paragraph>Nevertheless, you can view most document types, including PowerPoint, Word, Excel as well as PDF. We suspect Samsung will make sure a full-fledged editor is available for download from the Samsung Apps (now known as Centro apps0 by the time the smartphone goes on sale, but even if it doesn't there's plenty of alternatives in the Play Store.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer is as robust as ever<subsectionTitle>
+			<paragraph>The S Planner fills the role of your calendar app, and can be viewed by Day, Week, Month or Year, or by a list of all your upcoming tasks or events. The small squares for each date give only limited info on the events for the day, but thanks to Air View you can point to a day to read the full description of events.</paragraph>
+			<paragraph>Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized - the buttons are big enough and easy to hit.</paragraph>
+			<paragraph>The Samsung Galaxy S4 features a decent alarm clock application which allows a huge number of alarms to be set, each with its own start time and repeat pattern. There's also a World clock, stopwatch, and timer. They are easy to work with and can come in handy.</paragraph>
+			<paragraph>We've been familiar with the S Memo app ever since its debut on the Galaxy Note, and its functionality remains more or less the same. It allows you to create notes either via a virtual keyboard or simply by doodling with your finger. Samsung even sell a special display-friendly ball pen for enthusiasts.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps Navigation gives you the most out of GPS<subsectionTitle>
+			<paragraph>The Samsung I9500 Galaxy S4 comes with a GPS receiver, which got a satellite lock in couple of minutes with A-GPS turned off. A-GPS can speed this up quite a bit, but requires Internet access. The barometer, however, can speed up GPS locks even without a data connection. We gotta say, we didn't experience any issues with the GPS performance.</paragraph>
+			<paragraph>With a screen as large (or larger) than most dedicated SatNav units, with excellent sunlight legibility and plenty of storage, money spent towards satellite navigation should go to buying a good app rather than a separate SatNav unit.</paragraph>
+			<paragraph>The Galaxy S4 comes with Google Maps and Navigation. Voice-guided navigation has become a viable solution since the v5.0 update. Vector maps are smaller and easier on the data traffic and reroute is an option if you go off course without the need to connect to the Internet. In fact, the only time you need a data connection is when you initially plan the course - Navigation will cache the needed maps.</paragraph>
+			<paragraph>Quite naturally, the app also supports the Street View mode. If it's available in the area you're interested in, you can enjoy a 360-degree view of the surroundings. When the digital compass is turned on it feels like making a virtual tour of the location.</paragraph>
+			<paragraph>If Google Maps Navigation doesn't do it for you, you can grab an alternative app from the Android Market - there are both free and paid ones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play now accompanied by the Cento Apps store<subsectionTitle>
+			<paragraph>The Google Play Store features several scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. Apps usually have several screenshots (some even offer a demo video) so you can get an idea of what the app looks like before installing it.</paragraph>
+			<paragraph>You can also check out comments and ratings, as well as the number of downloads and so on, to help you decide if the app is worth it.</paragraph>
+			<paragraph>The Google Play Store is full of all sorts of apps. From music / video players, to file managers and various tools, you'll always see something worth a try.</paragraph>
+			<paragraph>Samsung has renamed its own app store to Cento Apps. It features largely the same type of interface as Google Play, except here you'll find a far lower number of apps. The good news is Samsung uses this repository to distribute some exclusive titles and some promotional offers, available only to its customers.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Samsung Galaxy S line has produced some of the best smartphones over the years, and the Galaxy S4 lives up to its legacy. Some consider it an evolutionary step from the Galaxy S III, others would go ahead and call it a revolution, there's the third kind too who insist it's a mere rehash.</paragraph>
+			<paragraph>Without getting into the semantics, we believe the S4 to be a worthy update over its predecessor, which was already one of the most capable smartphones around.</paragraph>
+			<paragraph>Let's run it down: the big 5" screen fits into a very compact body (same footprint as the Galaxy S III and slimmer), the new 1080p Super AMOLED matrix offers a significant improvement in image quality, the 13MP camera is one of the best around and, performance-wise, the Galaxy S4 will probably hold the crown until the Galaxy Note III comes around.</paragraph>
+			<paragraph>Before moving on, we have to discuss the two versions of the Galaxy S4. One is the I9500, powered by the Exynos 5 Octa, and the I9505, the LTE-enabled Snapdragon 600 model. This review is based on the I9505. Early benchmarks suggest the I9500 will have a slight edge, but how that will impact the battery performance is unknown at the moment.</paragraph>
+			<paragraph>  Samsung I9500 Galaxy S4 ? Samsung I9505 Galaxy S4</paragraph>
+			<paragraph>Samsung's drive to offer the best Android software package borders on an obsession. Launching the Galaxy S4 with the latest Jelly Bean version is a good start, and we really like some of the home-brewed TouchWiz features. The complete list of options is so long that half of them may take unsuspecting users a while to discover. Now, a good portion of those are only gimmicks that still need a lot of work, but there are some real gems too and it would be a pity to miss those.</paragraph>
+			<paragraph>Anyway, the camera is the other thing we liked about the Galaxy S4, besides the screen and processing power. It has a simple interface and while it's not groundbreaking in any way, it combines the best from mobile cameras and has the image quality to match.</paragraph>
+			<paragraph>The Galaxy S4's competition is out in full force. The HTC One has a slightly smaller (but still excellent) screen, an optically stabilized camera, and killer looks - the only thing the Galaxy S4 seemingly lacks. We already did a dedicated shootout with those two, so you might want to check it out.</paragraph>
+			<paragraph>The Sony Xperia Z also earns compliments for its looks and adds the rare feature of an IP57 certification (water and dust resistance). If you prefer compactness over waterproofing, the Xperia ZL offers the Z specs in a shorter body (and adds an IR emitter). The Xperia's 5" screens leave something to be desired, however.</paragraph>
+			<paragraph>   HTC One ? Sony Xperia Z ? Sony Xperia ZL</paragraph>
+			<paragraph>The HTC Butterfly didn't get to sit in the HTC throne for long before the One came in, but the bigger screen and traditional camera make it a good alternative. The LG Optimus G Pro is more of a Note challenger, but if you're not afraid to go big, it successfully stacks up against the Galaxy S4 on almost every front.</paragraph>
+			<paragraph>  HTC Butterfly ? LG Optimus G Pro</paragraph>
+			<paragraph>The Asus Padfone Infinity adds a 10.1" tablet dock to the S4-like specs to make sure you really get your money's worth from that powerful chipset and advanced OS (Android 4.2). The Infinity should be on sale not long after the Galaxy S4 hit the market, but its ?999 price tag is only worth considering if you really need a smartphone and a tablet and you never plan on using them both simultaneously.</paragraph>
+			<paragraph>The Oppo Find 5 and ZTE Grand S come from makers that are rising in popularity and offer flagship specs, without the premium name tax. Finding either of those in your local stores can be quite hard, though.</paragraph>
+			<paragraph>   Asus PadFone Infinity ? Oppo Find 5 ? ZTE Grand S</paragraph>
+			<paragraph>While the Samsung Galaxy S4's exterior might be its Achilles' heel, we can't blame Samsung for sticking with the Galaxy S brand image it spent so much resources trying to build (that phone sold over 50 million units too, so being associated with it cannot be too bad).</paragraph>
+			<paragraph>With the sheer number of excellent flagships to choose from, if you are looking for the best smartphone, you had it better than ever. There's no need for choice anxiety either, as the Samsung Galaxy S4 is a safe bet as long as you can get past its increasingly dated design or you need that IP57 certification.</paragraph>
+		</subsection>
+	</page>
+</review>

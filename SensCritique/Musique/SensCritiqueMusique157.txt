@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Feelin Kinda Free</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Feelin_Kinda_Free/19887765</link>
+	<generalScore>7.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>19</numberOfVoters>
+		<numberOfVoters>20</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>/!\ Style en chantier /!\</title>
+		<author>Tintamarre Wazoo</author>
+		<date>2016-03-23</date>
+		<score>0.8</score>
+		<content>Que faire quand on est un groupe qui ressort d'un album excellentissime au succès à la fois critique et populaire ? Comment gérer la dépression post coïtale et le risque des écueils de l'après chef-d’œuvre (pour la plupart c'est « l'épreuve du difficile deuxième album », chez nos amis ici présents c'est au 6ème que l'épiphanie a bien voulu se manifester) ? La réponse des Australiens de The Drones, pour succéder à un I See Seaweed difficilement dépassable dans son genre, c'est de faire exactement ce que le pilote du Titanic n'a pas su faire au moment crucial : changer de direction. Et paf ! Nous voilà avec un groupe de feu garage-blues punk qui fait un virage à 90° et s'en va débroussailler des territoires qui lui sont inconnus, peuplés d'expérimentations et de manipulations électroniques. Et cette pochette comme un panneau indicateur : « Attention, musique en chantier. Le port du casque est obligatoire. » Mais gare aux rêves de voyages car Gareth Liddiard et sa joyeuse troupe, sur ce Feelin Kinda Free, ont troqué leur casquette de Christophe Colomb pour la blouse en lambeaux du savant fou qui fait mumuse dans son laboratoire en sous-sol. Rendez-vous en terres claustro et flinguées du bulbe. Les guitares, ces guitares jadis hargneuses et grasses, sont transfigurées. Hachées en morceau, passées au broyeur, éparpillées et recollées à partir d'une partie des bouts restants, elles sont méconnaissables et flirtent désormais avec des feedbacks électroniques bien plus bruyant qu'elles – sans même parler des percussions (batterie et/ou boites à rythme) qui mènent clairement la danse devant tous les autres instruments (le single « Taman Shud » avait annoncé la couleur). La structure des morceaux elle-même se trouve ici altérée, remise en question. Certes, la gouaille de Gareth ne s'est pas tarie et on reste toujours autant accroché à ses lèvres, pendu à ces textes fous et à ce timbre rageur de Nick Cave du caniveau. Mais sur Feelin Kinda Free il n'est plus vraiment question de montées en puissance progressives vers un climax émotionnel comme sur I See Seaweed. Il n'est même plus question de linéarité : les Drones se font un plaisir de nous brutaliser en alternant minimalisme inquiétant et assaut sonique toutes voiles dehors sans prévenir dans le même morceau, presque comme un môme vicelard qui s'amuserait à baisser puis monter brusquement le volume de sa chaîne hi-fi pour faire réagir ses parents. Comme pour nous faire entendre qu'on est jamais en sécurité avec eux, jamais à l'abri d'un retournement de situation et d'une claque sortie de nulle part. Ce qui permet de produire quelques pistes merveilleuses pour sûr. Notamment l'ouverture « Private Execution » (remarquons qu'ils soignent toujours leurs entrées en matières), qui est un brûlot de punk post-apocalyptique, avec son thème massif qui évoque ce à quoi ressemblerait un générique de James Bond si on le passait au mixeur. Une autre, la plus surprenante du lot sans doute, est « Boredom », qui ressemble fort à une tentative de... hip-hop. Un hip-hop complètement frappé et bruitiste, mais quand même. Et on peut dire que ça autrement plus de gueule que lorsque Modest Mouse s'y était mis l'année dernière... hum. Feelin Kinda Free ? Indeed. Avec la morgue qui les caractérise, les Drones ont profité de ces 3 ans pour préparer un témoignage qui fera taire brutalement ceux qui criaient leur joie de retrouver un nouveau I See Seaweed. Une façon assumée de s'en affranchir et de célébrer bruyamment leur liberté. À ce titre il est difficile de dire si le disque est éclaté et inachevé ou bien s'il a été méticuleusement conçu pour paraître brouillon et en travaux. Au vu du nombre approximatif d'overdubs qu'il a dû leur falloir pour rendre cette pâte sonore si dense, je pencherais plus volontiers pour la deuxième option. Voilà un album bien plus mature qu'il n'en a l'air au premier abord, même s'il demeure perfectible. Et s'il y a des signes qui ne trompent pas, et me signalent que I See Seaweed me manque un peu (« To Think That I Once Loved You », superbe ballade hantée, est posée là comme un vestige venu de 2013, en plus d'être ma piste favorite du disque) ; et si je ne suis pas fou de chaque détail du disque – les chœurs de Fiona Kitschin auraient gagnés à être plus discrets – la majeure partie du disque brise petit à petit toutes mes résistances et me fait adhérer à toutes leurs prises de risques. À l'heure où je vous parle, la bataille fait encore rage. Et je suis en train de la perdre. Chronique provenant de XSilence</content>
+	</review>
+	<review>
+		<title>Feelin Kinda Free</title>
+		<author>Victor Blutch</author>
+		<date>2016-06-11</date>
+		<score>0.5</score>
+		<content>Un album d'ambition libre, dans ses compositions, dans sa digestion d'un punk plus ou moins nerveux, porté par quelques gestes de musique aériens, cet LP des Drones manque de hauteur pour imprimer au coeur.</content>
+	</review>
+</sensCritiqueEntity>

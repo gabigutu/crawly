@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Quartier lointain, tome 2</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1999</year>
+	<link>http://www.senscritique.com/bd/Quartier_lointain_tome_2/11762449</link>
+	<generalScore>8.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>52</numberOfVoters>
+		<numberOfVoters>170</numberOfVoters>
+		<numberOfVoters>129</numberOfVoters>
+		<numberOfVoters>44</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Entre nostalgie et magie des souvenirs</title>
+		<author>Eric Pokespagne</author>
+		<date>2015-06-12</date>
+		<score>0.8</score>
+		<content>Entre nostalgie et magie des souvenirs, "Quartier Lointain" est avant tout une invitation à la rêverie d'une immense sensibilité, qui finit même par nous bouleverser profondément : nous qui, passée (et bien passée) la quarantaine, avons l'âge du héros, n'avons-nous pas "déraillé" de notre identité réelle, pour reproduire encore les dysfonctionnement familiaux de notre enfance ? Mais cette tristesse sans fond à constater que l'on ne peut rien changer d'important, même avec la possibilité de reconstruire notre enfance avec notre conscience d'adulte, est atténuée par le miracle de tous ces moments de vie intense, resurgis de notre mémoire, grâce à l'art du manga, si précis et si perfectionniste, réellement transcendé par Taniguchi. [Critique écrite en 2004]</content>
+	</review>
+	<review>
+		<title>Une excellente façon d'aborder les mangas</title>
+		<author>BMR</author>
+		<date>2016-04-06</date>
+		<score>0.9</score>
+		<content>C'est Frédéric Boilet (qu'on a déjà évoqué avec Tokyo est mon jardin) qui signe ici l'adaptation française des deux volumes de ce manga Quartier lointain de Jirô Taniguchi : recadrage des images à l'occidentale (de gauche à droite) et annotations bien utiles des références qui nous seraient trop étrangères ou incompréhensibles. Même s'il a été primé au festival d'Angoulême, le scénario (un homme de 40 ans se retrouve plongé dans son corps d'adolescent, dans sa propre enfance) n'est ici qu'un prétexte romanesque et poétique. L'intérêt de cette BD, à lire comme un véritable roman, c'est la description fine et savoureuse du Japon de l'enfance de Jirô Taniguchi : les parapluies, les uniformes d'écoliers, la plage, la maisonnée, ... c'est un véritable guide de voyage au coeur des traditions nipponnes. Le dessin, noir et blanc comme il se doit, est très riche (les planches sur les jardins sont superbes) et c'est avec plaisir que l'on accompagne le texte un peu naïf tout au long de ce voyage nostalgique au Japon. Avec juste ce qu'il faut de sel pour agrémenter la visite : pourquoi cet homme se retrouve-t-il plongé 30 ans en arrière et comment va-t-il se sortir de là ? A découvrir sans attendre : comme Monster (dans un style très différent) voilà encore une excellente manière d'aborder les mangas, cette face obscure de la BD ...</content>
+	</review>
+</sensCritiqueEntity>

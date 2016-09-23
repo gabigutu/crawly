@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Bohemian Rap Story</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Bohemian_Rap_Story/21071291</link>
+	<generalScore>7.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>21</numberOfVoters>
+		<numberOfVoters>56</numberOfVoters>
+		<numberOfVoters>81</numberOfVoters>
+		<numberOfVoters>39</numberOfVoters>
+		<numberOfVoters>11</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

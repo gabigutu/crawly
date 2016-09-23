@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Que de misère humaine ! - Calvin et Hobbes, tome 19</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2000</year>
+	<link>http://www.senscritique.com/bd/Que_de_misere_humaine_Calvin_et_Hobbes_tome_19/8416491</link>
+	<generalScore>9.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>100</numberOfVoters>
+		<numberOfVoters>58</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

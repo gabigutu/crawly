@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Rubrique-à-brac, tome 4</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1973</year>
+	<link>http://www.senscritique.com/bd/Rubrique_a_brac_tome_4/364084</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>25</numberOfVoters>
+		<numberOfVoters>136</numberOfVoters>
+		<numberOfVoters>358</numberOfVoters>
+		<numberOfVoters>259</numberOfVoters>
+		<numberOfVoters>117</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Critrique-à-brac</title>
+		<author>slowpress</author>
+		<date>2014-07-25</date>
+		<score>1.0</score>
+		<content>La rubrique-à-brac est une affaire très sérieuse, c’est pas quiconque qui peut s’y fricoter avec une sensibilité de jeune imberbe ou de filles à jupe, ttt. Les petites âmes y laisseront quelques étincelles de leur douce innocence, attention. Il s’y passe de choses graves. Il y a des révélations scientifiques zoologiques de haut niveau d’exclusivité, jamais personne avant n’avait pu voir un lion avant qu’il ne rase sa belle fourrure par exemple. De même, puisqu’on cause savane un peu, Gotlib dénonce ouvertement, sans avoir peur des répercussions, de l’alcoolisme ravageur chez les gazelles. C’est pas rien, hein. La mastication des vaches aussi ! Tout un phénomène peu connu et pourtant passionant ! Personne n’ose en parler, à part Gotlib. Non seulement il s’attaque à l’étude précise d’animaux en tout genre mais aussi il penche son savoir de maître sur différentes pratiques de la médecine, para-médecine, médecine douce, médecine orientale, extra-médecine, des tas de trucs passionants. Ce qui est particulièrement beau, c’est que, non seulement, l’on sent réellement l’expérience du patient dans ces témoignages poignants de justesse mais également la recherche approfondie de l’épistémologie et des mécanismes physiologiques de ces - auparavant sombres - méthodes. Je peux me permettre de faire un exposé universitaire sur l’acupuncture moi maintenant monsieur, et même sur la kinésithérapie - je pense même que je pourrais exercer ce métier après avoir lu ce qu’en dit Gotlib, oui, je l’avoue. Heureusement, Gotlib sait ménager les efforts cérébraux de ses gourmands lecteurs : il excelle, en plus du reste, à l’art de la récréation (comptons ici aussi les courtes mais fameuses enquêtes policières) et du jeu des devinettes rigolotes et mignonnes comme tout. Cela permet une charmante transition pour les rubriques historiques de son brac. Ô quel plaisir vais-je avoir lors de la prochaine partie de trivial pursuit quand une question tombera sur l’origine de la sixième symphonie pastorale de Ludwig von Beethoven ou sur l’analyse filmographique du dernier film de Chabrol ou encore les particuliarités picturales de grands peintres comme Picasso, Buffet ou Dali ! Mon sourire humble et victorieux remerciera en silence l’intelligence de Gotlib. S’élevant au delà de l’oeuvre camusienne, Gotlib possède également l’adresse de la pensée philosophique ; sa petite et tranchante parabole sur l’absurbe donne au mythe de Sisyphe un piètre air de négligence morale. Je m’emporte, je pourrais continuer (et là ça rigole plus) sur l’aspect politique et engagé (sur les médias) ou sur la poésie toujours présente (en particulier quand il parle de sa fille), intrinséque à un être comme Gotlib, qui respire dans chaque case de ses jolies bandes dessinées. D’ailleurs, ce qui est formidable et complètement humaniste de sa part, c’est que même si vous ne savez pas lire, les rubriques-à-brac sont d’une telle inventivité graphique grandiose que vous ne vous y ennuierez jamais. Youpi banane.</content>
+	</review>
+	<review>
+		<title>Rubrique-à-brac, tome 4</title>
+		<author>caiuspupus</author>
+		<date>2014-04-17</date>
+		<score>0.9</score>
+		<content>Excellent comme toujours, c'est un régal de plonger dans les histoires de plus en plus folles de Gotlib. Moins de bestiaire cette fois-ci, mais beaucoup d'histoires absurdes et poétiques à la fois.</content>
+	</review>
+</sensCritiqueEntity>

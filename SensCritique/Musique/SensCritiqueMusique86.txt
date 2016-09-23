@@ -1,0 +1,49 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Vampire en pyjama</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Vampire_en_pyjama/18735952</link>
+	<generalScore>5.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>17</numberOfVoters>
+		<numberOfVoters>40</numberOfVoters>
+		<numberOfVoters>49</numberOfVoters>
+		<numberOfVoters>27</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Vampire en pyjama</title>
+		<author>Victor Blutch</author>
+		<date>2016-02-21</date>
+		<score>0.5</score>
+		<content>Riche de la polysémie de ses textes, comme "Anomalie" de Louise Attaque, ce nouvel album de Dionysos reste égal au groupe, de variété française légèrement mâtiné par un rock de comptine, quoiqu'en dise son leader Mathias Malzieu.</content>
+	</review>
+	<review>
+		<title>Critique de Vampire en pyjama par Tefeuck</title>
+		<author>DaveTfck</author>
+		<date>2016-04-20</date>
+		<score>0.7</score>
+		<content>N'ayant pas vraiment accroché au précédent opus, et étant surement beaucoup trop attaché à la mécanique du coeur, je ne me suis pas rué sur ce nouvel album, et pourtant. On y retrouve du bon Dionysos, les textes de Mathias comme on les aime, une Babette plus présente dans les choeurs pour notre plus grande joie. Un bol d'air frais cet album :)</content>
+	</review>
+	<review>
+		<title>Vampire en pyjama !</title>
+		<author>David Rumeaux</author>
+		<date>2016-03-17</date>
+		<score>0.6</score>
+		<content>De Dionysos, je ne connais pas grand chose non plus, à part le fort fameux Song for Jedi. Au vu des livres et film sorti par Mathias Malzieu, le leader, il semble cependant qu'un véritable univers soit créé autour du groupe et ce dernier album m'a permis d'en savoir un peu plus... 13 titres ici, qui, de ce que j'ai pu comprendre, s'éloigne pourtant singuliérement de ce que le groupe avait fait jusqu'ici. Posé, presque acoustique, le disque permet cependant un bon petit moment à écouter des textes personnels et bien écrits. Le tout accompagné de vrais bonnes musique et de la voix du chanteur, parfois accompagné d'une voix féminine fort agréable. Et si j'ai parfois eu le sentiment que les morceaux se répétaient un peu, au point que j'ai fini par trouver le disque un peu trop long, ça m'a cependant donné envie de découvrir le reste de la discographie du groupe.</content>
+	</review>
+	<review>
+		<title>Vampire en pyjama</title>
+		<author>Asoliloque</author>
+		<date>2016-02-02</date>
+		<score>0.8</score>
+		<content>Plus le temps passe, moins les scories un peu agaçantes de Dionysos ne m'atteignent. Plus le temps passe, moins la fausse naïveté et la légèreté de façade ne masquent la tendresse des créations de Mathias Malzieu et de sa bande. Si l'on essaye toujours de dissocier l'oeuvre de l'artiste, connaître le contexte biographique derrière cet album en particulier rajoute encore à l'émotion, celle qui sert la gorge et desserre le cœur.</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,87 @@
+<review>
+	<title>LG Optimus G hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/lg_optimus_g-review-814.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>LG just launched its monstrously-spec'd Optimus G in its home market and it set a new performance benchmark for smartphones. The Snapdragon S4 Pro chipset that powers the beast features four Krait cores, which are all but guaranteed to wipe the floor with existing CPUs.</paragraph>
+			<paragraph>The LG Optimus G also impresses with its spectacular 4.7" WXGA (1280 x 768 pixels) True HD IPS Plus screen, which offers a full RGB matrix and a pixel density of about 318ppi. Knowing how good previous True HD screens from LG were, we just couldn't wait to see this new one in person.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Fortunately we were invited to the LG Optimus G launch event, so we didn't have to wait too long really. We got to spend some quality time with the company's new flagship and we are ready to share our impressions with you. But before we start let's have a quick look at the full list of Optimus G highlights.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG Optimus G at a glance:<subsectionTitle>
+			<paragraph>As you can see there's hardly any smartphone on the market that can stand up to the LG Optimus G in a spec-to-spec battle. The Snapdragon S4 chipsets with two Krait cores were already able to keep up with their quad-core Cortex-A9 competitors, but the Snapdragon S4 Pro chipset matches the Tegra 3s and Exynos 4 Quads in terms of core count and should make easy work of any challengers.</paragraph>
+			<paragraph>But the LG Optimus G is not all about acing benchmarks and providing the smoothest UI navigation possible. The smartphone also has some cool software tricks up its sleeves, which promise to add to the user experience.</paragraph>
+			<paragraph>It's time to see how well those work in real life - join us on the next page for a bunch of live photos of the LG Optimus G, garnished with our initial impressions of the smartphone.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG Optimus G hands-on<subsectionTitle>
+			<paragraph>The LG Optimus G is certainly the best-built LG smartphone we've seen recently and it really feels great in the hand. The slim waistline certainly benefits the overall looks and even though we are not very fond of the fingerprint-attracting back panel, we really like the design.</paragraph>
+			<paragraph>The front and the back of the LG Optimus G are covered in glass. The sides of the handset are made of plastic, which has been manufactured through a process using a six-axis laser for extremely high quality and durability.</paragraph>
+			<paragraph>The reflectivity of the Optimus G screen is about on par with the Apple iPhone 4, which means that it's not the best around, but sunlight legibility shouldn't be an issue nonetheless.</paragraph>
+			<paragraph>The viewing angles are great if look directly from the sides, but if you turn it to a 45 degree angle the IPS screen leads to the usual color-shift and contrast loss.</paragraph>
+			<paragraph>The Qualcomm Snapdragon S4 Pro chipset is doing a great job of keeping everything perfectly smooth. Even without Jelly Bean and its Project Butter we experienced no lags or holdups while handling the LG Optimus G.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG Optimus G hands-on video<subsectionTitle>
+			<paragraph>Here goes a hands-on video of the LG Optimus G to give you an idea of its revamped Optimus UI and demonstrate the smooth performance of the smartphone.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera and video samples<subsectionTitle>
+			<paragraph>We were able to snap a few of photos with the LG Optimus G 13 megapixel camera and its new 5-element lens. The lighting was far from perfect, but the LG flagship still did pretty well for a smartphone and way better than its modest 1/3.2" sensor size suggests.</paragraph>
+			<paragraph>Update: We stepped outside where there was more available light and the LG Optimus G 13 MP camera was able to show its true potential. Here go some samples to see what it's really capable of. The last of the samples was shot through a glass windows, which explains the slightly worse quality.</paragraph>
+			<paragraph>We also managed to put the HDR feature of the LG Optimus G camera to a tests. Here go a couple of shots, which illustrate the difference that the HDR makes.</paragraph>
+			<paragraph>Mind you, the 8 megapixel version of the Optimus G comes with a smaller sensor and its lens doesn't protrude as the one of the 13 megapixel sensor. It also features a conventional 4-element lens design, instead of the more advanced 5-element one.</paragraph>
+			<paragraph>And here comes a 1080p video we captured with the LG Optimus G.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmark performance<subsectionTitle>
+			<paragraph>The LG Optimus G's new quad-core CPU flexed its muscle in the BenchmarkPi trial. The new architecture blew its quad-core competitors out of the water, posting a score of 285ms.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The real shock came when we run the Linpack benchmark, which is designed to make use of multi-core CPUs. The Optimus G came so far ahead of its competitors here, that it's almost hard to believe. It offered nearly three times the performance of the second-best quad-core smartphone we've tested on this occasion.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>To learn more about the overall performance of the LG Optimus G, we run the well familiar Quadrant benchmark, which tests everything from memory speed to GPU power. The LG Optimus G got the incredible score of 7439, which is way better than any smartphone has managed before. Impressive indeed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmark performance (continued)<subsectionTitle>
+			<paragraph>GPU benchmarks brought more of the same, the LG Optimus G and its Adreno 320 GPU making easy work of the competition. The GLBenchmark 720p offscreen test shows that the raw performance of the Optimus G graphics are way better than that of its high-end rivals.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.1 Egypt (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The 60fps result at NenaMark 2 might suggest that there's not much difference between the Optimus G and other quad-cores, but there's actually more to that score. NenaMark 2 renders on-screen, which means that 60.0 fps is the highest possible result that a smartphone can get.</paragraph>
+			<paragraph>So the fact that the LG Optimus G got a perfect score suggests that it has more in reserve than its rivals - it was able to maintain the maximum framerate through the most intensive parts of the test, whereas others failed to do so.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We managed to run the SunSpider Javascript benchmark on the LG Optimus G. Even though the software of the test unit we had wasn't finalized it already proved faster than the Optimus 4X HD (running on the latest 4.0.4-based firmware). We assume that once LG is done with the i-dotting and t-crossing the Optimus G should take the lead in the browsing performance department as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+	</page>
+</review>

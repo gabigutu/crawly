@@ -1,0 +1,198 @@
+<review>
+	<title>LG KT610 review</title>
+	<description>Communicator wannabe</description>
+	<link>http://www.gsmarena.com/lg_kt610-review-276.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Full QWERTY keyboard</paragraph>
+			<paragraph>2.4" 262K-color QVGA display inside</paragraph>
+			<paragraph>1.45" 262K-color secondary display</paragraph>
+			<paragraph>Symbian OS v9.2 with S60 rel. 3.1 UI</paragraph>
+			<paragraph>3G with HSDPA</paragraph>
+			<paragraph>Compact dimensions for a communicator</paragraph>
+			<paragraph>2 megapixel fixed-focus camera</paragraph>
+			<paragraph>Built-in GPS receiver with excellent sensitivity</paragraph>
+			<paragraph>More affordable than other communicators</paragraph>
+			<paragraph>Bluetooth and USB v2.0</paragraph>
+			<paragraph>64MB of internal memory and microSD card slot</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>No Wi-Fi</paragraph>
+			<paragraph>Mediocre camera</paragraph>
+			<paragraph>No image geotagging</paragraph>
+			<paragraph>Tiny external display of little usability</paragraph>
+			<paragraph>Unimpressive battery life</paragraph>
+			<paragraph>No A-GPS</paragraph>
+			<paragraph>No document editor out-of-the-box</paragraph>
+			<paragraph>No PDF reader or ZIP manager preinstalled</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>KT610 is LG's way of saying the communicator class isn't reserved for insanely expensive high end devices. Packing a large full-QWERTY keyboard and neat and simple looks, the S60 Symbian handset spells business. It might have a few features missing but a frown at the spec sheet may as well melt into a smile at the price tag. Economy class is good enough as long as it gets you there. One particularly exciting thing about LG KT610 is the stark contrast between the touchingly old-school front and the serious stuff inside. So let's open it up and see what we say.</paragraph>
+			<paragraph>LG KT610 is a blessing for heavy texters who do appreciate the Symbian way of handling messaging. The dream texting skills however come at a price - the multimedia handling has suffered. In addition, cutting corners on cost has affected the preloaded content, which is rather scarce.</paragraph>
+			<paragraph>As this stage it should have become obvious that the KT610 is a niche model. It still makes a nice alternative in the full QWERTY Symbian segment, where supply isn't exactly profuse. LG KT610 is rubbing shoulders with a few Eseries handsets and Communicators, and a couple of Sony Ericsson P-line phones. All right, a fact's a fact: the Nokia E90 secondary display is almost the size of the KT610 main screen and the difference in price is hard to swallow. But still, plunging head first in the shark pond sure takes some cojones.</paragraph>
+			<paragraph>Another tough question is how the lack of Wi-Fi would affect a communicator, no matter how affordable. Well, we are to see about that when the phone spends some more time on the market. As for now let's cut to the chase and start inspecting the LG KT610 exterior.</paragraph>
+			<paragraph>Before we jump to the next page though, a fair warning is due. We are reviewing a beta unit, so improvements and bug-fixes are quite likely.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG KT610 360-degree spin<subsectionTitle>
+			<paragraph>The LG KT610 dimensions of 108.9 x 53.9 x 17.2mm are desperately short of compact in regular phone terms. However, it's the most pocketable communicator-style handset around. The same holds true for the weight of 125.5 grams - a good achievement for the class but far from spectacular in common mobile terms.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The LG KT610 was never meant to be a hot looker, so don't count on the exquisite finish of the LG KF750 Secret. The form factor isn't exactly the kind to expect design miracles but the LG approach is interesting enough. The KT610 is simply not a foldable eye-sore: the neat and simple exterior, the smaller dimensions and, above all, that vintage look give it a charm of its own.</paragraph>
+			<paragraph>When closed, LG KT610 looks so 1998 with its tiny screen and giant keypad and controls. Looks on the inside are way more conventional, simplicity and ease prevailing again. One still can't help but wish the screen was bigger. The 4:3 aspect ratio is probably just as important for compatibility but it looks like a lot of space was simply wasted.</paragraph>
+			<paragraph>The folding top of LG KT610 locks in two positions. The first is at about 120 degrees, which is very comfortable for desktop use. In this position the KT610 is best used sitting on your desk. The other position is full flat and it's more convenient for holding the phone in your hands.</paragraph>
+			<paragraph>The earpiece of LG KT610 is located at the top of the folding front, the mouthpiece is at the very bottom, while the stereo speakers are on either side of the internal display.</paragraph>
+			<paragraph>The microSD card slot is on the right side of the handset. LG KT610 will ship with a 1GB card included but if that seems insufficient you can go for a bigger one. The handset had no trouble handling an 8GB memory card, which is the largest capacity currently available on the market. In our pre-release unit however inserting a memory card, regardless of its size or used/free space ratio, slows down the file manager on the device. We really hope they fix that in the final retail product.</paragraph>
+			<paragraph>The volume rocker is on its left side, right between the hinges, and the LG proprietary USB slot is at the top. A standard miniUSB or microUSB slot might have been more welcome but it's not that much of a bother.</paragraph>
+			<paragraph>The backside hosts the 2 megapixel fixed-focus camera lens and the self-portrait mirror. Communicator or else, the KT610 sure ain't a cameraphone, but we'll discuss that later on in the dedicated camera chapter.</paragraph>
+			<paragraph>Sliding down the latch at the base of the battery cover makes the 960 mAh Li-Ion Polymer battery pop out. Its capacity isn't spectacular by any means but you can still count on up to 2 days of rather extensive usage.</paragraph>
+			<paragraph>The build quality of LG KT610 is very good, and that's one aspect where it comes close to communicators. There are no special or rare materials used, but the plastic casing is quite solid and there are no creaks or other disturbing noises during operation. The metallic framing of the folding top is a nice accent, and the rubbery texture at the rear ensures a nice grip.</paragraph>
+			<paragraph>Even though you only get full access to all phone features in QWERTY desktop use, single-handed operation of the KT610 is still quite sensible.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display - improvement all over<subsectionTitle>
+			<paragraph>LG KT610 packs a 1.45" external and a 2.4" internal screen, both handling 262K colors. The external display has very poor picture quality but still does a decent job for answering calls and checking the device status. It does give access to some more basic features, including texting and music player.</paragraph>
+			<paragraph>We have already mentioned that there is more than enough space to fit a larger internal display. Putting size aside, the unit fitted on the KT610 is really nice with very pleasant picture quality and good brightness. It is probably the best display on an LG handset, even though the KT610 is not among the company's high-enders.</paragraph>
+			<paragraph>Sunlight legibility is praiseworthy. LG handsets have so far been virtually useless when exposed to direct sunlight. The LG KF750 Secret is almost impossible to work with outside in the bright sun and the KU990 Viewty isn't doing much better either. However the KT610 is a whole different story: it remains perfectly legible even in the brightest of days and the vivid picture doesn't suffer as much as we expected.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Keypad fantastic: external and QWERTY alike<subsectionTitle>
+			<paragraph>All the keys and controls on LG KT610 are simply great. The keypad on the outside has superb large keys on terraced rows that are rather tactile and pleasingly solid to press. There're no borders between keys within the same row but that's hardly an issue with the plenty of space the keypad enjoys. The D-pad and the adjacent controls are also a pleasure to use. An important side note: the main control up front is not a D-pad per se, for it only allows scrolling up and down. Nevertheless, it's perfectly comfortable and responsive.</paragraph>
+			<paragraph>The inside full QWERTY keyboard is just as good with the well-sized and spaced knobs. The only minor problem is the D-pad confirmation center, which might feel too small to first-time users. However getting used to it is rather quick and you'll be speeding through menus and selections in no time.</paragraph>
+			<paragraph>The typing experience the KT610 delivers is awesome. It falls behind the Nokia E90 larger keyboard of course but let's be honest - the Nokia Communicator is huge.</paragraph>
+			<paragraph>The backlighting deserves a decent mark too: it is strong enough and fairly even, save for the control and space keys on the inside.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony is excellent<subsectionTitle>
+			<paragraph>LG KT610 might be a few things short of being the ultimate communicator but reception and call clarity sure ain't among them: we experienced no issues for the time of testing. You can dial right on the external screen or on the inside but it feels much more natural to use the phone closed for conversations. Video calls are another story - you have to open the phone, as the video-call camera is next to the internal display. It feels the right way to have a video call and we consider this more of an advantage actually.</paragraph>
+			<paragraph>The vibration is also strong enough to make sure you never miss an incoming call or message when the phone is in a pocket. The results from our loudspeaker test are at your disposal - LG KT610 turned out a decent performer in this respect too, though far from the spectacular achievements of some other LG handsets. Check out the table for how it stacks against some of the handsets we've measured. In case you want to find out more about the test itself or a complete list of tested devices, hit the link.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Dual-face user interface - worth the shot<subsectionTitle>
+			<paragraph>LG KT610 runs on the Symbian 9.2 OS with Series60 3rd Edition user interface. It didn't stick around long enough to get the Feature Pack 2 treatment, so users will have to settle for FP1.</paragraph>
+			<paragraph>The external screen handles six basic features: contacts, new message, message inbox, music player, camera and calls log. Those are all pretty trimmed down when launched from here due to the specifics of the display. What you get on the inside of LG KT610 is little different from the other Symbian devices with FP1.</paragraph>
+			<paragraph>   External screen UI: home screen ? contacts list</paragraph>
+			<paragraph>If you open any of these applications through the small external display and then flip the KT610 open, they get opened on the main screen too, which is rather handy. Unfortunately, it doesn't work the other way around, as closing the flip always minimizes all open applications.</paragraph>
+			<paragraph>  Typing a new message and checking the call logs</paragraph>
+			<paragraph>Now let's open up the main screen. For starters, LG KT610 features an active standby mode. You have a bar of shortcut icons for instant access to pre-selected functions at the top of the display, while scheduled events from the calendar, along with the currently playing track or radio station (if any), get displayed underneath.</paragraph>
+			<paragraph>When assigning Active Standby shortcuts, you can choose any application or even a website. The functionality of the two soft keys is configurable too. Another standby screen feature that we really like is the Google search bar giving instant access to the search engine.</paragraph>
+			<paragraph>The phone has 5 profiles plus an offline mode that switches off all transceivers. If the phone gets started without a SIM card the offline mode get activated automatically allowing full access to the functions of the phone that do not require cellular network coverage. All the profiles can easily be edited to best suit the user needs.</paragraph>
+			<paragraph>As with any other S60 smartphone, the task manager of LG KT610 pops up upon a press-and-hold on the Menu key. It allows switching between applications or turning off any running application by pressing the backspace key.</paragraph>
+			<paragraph>There are only two menu views for the KT610 but they are basically all you need. The options are a 4 x 3 grid of icons, and a standard list.</paragraph>
+			<paragraph>Finally, LG KT610 has a voice recognition feature that (supposedly) allows you to control the whole user interface without even having to touch the phone. It does all right but still not as well as we hoped. Although speaker independent, the application has trouble recognizing some user commands, especially the longer ones. It's still a good help on some occasions and, given the beta status of our unit, it may get even better in the retail version of LG KT610.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Rich customization options<subsectionTitle>
+			<paragraph>If you get bored with the phone's looks, you can always change the theme. There's a single preinstalled theme on LG KT610 but downloading additional ones is a piece of cake. Those are all around the internet so sky is the limit here. Unfortunately the looks of the external screen cannot be altered in any way (not even the wallpaper).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Symbian phonebooks - no reason to grumble<subsectionTitle>
+			<paragraph>Symbian phonebooks are a real treat - they are easy to use and have practically unlimited capabilities. The number of entries is only limited by the available memory, which means that you will have no problems even with thousands of contacts.</paragraph>
+			<paragraph>Depending on your liking, contacts can be ordered by either first or last name. You can then search by scrolling through names or by gradual typing of any of the names of a contact. The phone will search in both first and last name fields, as well as additional names in those fields. This means that even if a contact has a really complicated name, you will have no problem finding it provided you remember at least a part of it.</paragraph>
+			<paragraph>While editing a contact, you can select from a huge number of preset fields, which you can repeat as many times as you like. There is virtually no way any information about the contact will have to be left out. You can attach as many numbers as you like to each contact as well. Finally, if by some very rare chance, you happen to need a field that doesn't exist, you can always duplicate one of the already existing and simply rename it.</paragraph>
+			<paragraph>The Call log department has always been a Symbian strength too. The LG KT610 is no exception, offering a detailed record of all your communications for the past 30 days. It stores all the calls, messages and even data transfers for that period. You can also reduce the amount of saved data but it doesn't use up that much space so such a choice is unlikely.</paragraph>
+			<paragraph>There is also a more convenient way to access your latest calls. Pressing the call key in standby brings up three tabs on the screen. Each of them holds up to 20 missed or received calls, or dialed numbers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging: communicators rule<subsectionTitle>
+			<paragraph>With the large and comfortable full QWERTY keyboard and the great software support of the S60 UI, LG KT610 is one of the best texting devices around. The software layout is almost perfect and completely on par with the great ergonomics of the keyboard.</paragraph>
+			<paragraph>The SMS editor is a very intuitive and easy to use application. It has a counter of the characters left to the limit of 160. There is also an indicator in brackets showing the number of separate parts the message will be divided into for sending should that limit be exceeded. If you are exiting the message editor without having sent the message, the editor offers to either save it to the drafts folder or delete it.</paragraph>
+			<paragraph>Naturally, a delivery report can be activated if the user prefers. The reports pop up on the screen, and are consequently saved in a separate folder in the messaging sub-menu. This is surely one of the most convenient ways of dealing with delivery reports.</paragraph>
+			<paragraph>The MMS editor is almost identical to the one just described. The only noticeable difference is the added subject line and the option of inserting multimedia content.</paragraph>
+			<paragraph>Finally, there is also an audio message editor. It can either record the message on the fly or use a previously recorded sound clip.</paragraph>
+			<paragraph>The great email client won't surprise anyone who has ever used a Symbian powered phone. It supports POP3 and IMAP protocols and can download headers only, as well as entire messages. There is also support for attachments and SSL/TLS communication protocols, so with LG KT610 you will have no trouble meeting almost any emailing requirement.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Music player does the job<subsectionTitle>
+			<paragraph>Except for the landscape screen orientation, the LG KT610 music player looks exactly like on any other S60 3rd edition device. It is surely not the most attractive of applications but its functionality is more than OK offering most of the features you can think of.</paragraph>
+			<paragraph>All the essentials are duly covered - LG KT610 supports a huge number of audio formats including MP3, AAC, eAAC+ and WMA. Files are automatically added to the music library once you choose the refresh option in the music player. Track-sorting based on artist, album, genre and composer is also available.</paragraph>
+			<paragraph>There are four equalizer presets, plus auto option. You can also create new equalizer patterns if the preinstalled seem insufficient.</paragraph>
+			<paragraph>The external display has a very basic interface for the music player but it also does the job. This means that you can listen to your music without even having to open the phone.</paragraph>
+			<paragraph>  Accessing the music player through the external screen</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is remarkable<subsectionTitle>
+			<paragraph>Even though the KT610 was never meant to be a music phone, its audio quality easily makes some dedicated music handsets blush with embarrassment. It's probably the best performing LG device in this aspect that we've ever got to test.</paragraph>
+			<paragraph>We are pleased that LG didn't compromise the audio capabilities of the KT610, never mind its business mindset. Here are the results so you can see for yourselves. If you would like to learn more about the test itself you can follow the link.</paragraph>
+			<paragraph> LG KT610 frequency response graph</paragraph>
+			<paragraph>You can find more info about the testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>LG KT610 comes with Real player preinstalled for watching video. The videos can be displayed in fullscreen to make better use of the display. In fullscreen, the softkey labels are hidden, so they don't stand in the way, and only pop up when a key is pressed. The great picture quality is also a boost to video watching experience. The fact that the phone can easily be used in desktop mode makes it even more suitable for watching video.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Picture gallery is OK<subsectionTitle>
+			<paragraph>The LG KT610 image gallery is accessed from the My Stuff icon in the main menu. It doesn't look as good as the 3D rotating gallery on the Nokia N-series devices but functionality is good enough.</paragraph>
+			<paragraph>The gallery allows viewing pictures in both normal and full screen mode. Once you pick a picture you can zoom on it for greater detail. The actual zooming is very fast for the first step and somewhat slower, but still acceptable, for the next steps. Panning is quite fast and isn't going to bother anyone.</paragraph>
+			<paragraph>The LG KT610 gallery also offers adequate file-management allowing selection and sending of multiple files. In addition to that, the smartphone has the usual file manager that does a very good job itself. It allows filtering files according to the memory used as well as marking, moving, copying single or multiple files at a time.</paragraph>
+			<paragraph>Regretfully, the LG KT610 has no feature similar to the "Search" application we found on Nokia Symbian phones. This means you have to spend a little extra time organizing your files and applications, unless you want to end up in a mess. Anyways, there are a bunch of third-party applications available for download that are up to the task.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>2 megapixel snapper<subsectionTitle>
+			<paragraph>The camera of the LG KT610 is one of things indicating that it is supposed to be a business device before anything else. 2 megapixel snappers are nowadays considered rather low-end but, given that even the omnipresent E90 only pulls off 3 megapixels, we shouldn't be too particular.</paragraph>
+			<paragraph>The camera on KT610 however is really hard to operate. The outside screen is comfortable to use when shooting like you would with a regular bar phone. However the small external display shows only a part of the frame to be captured. It cuts about 2/3 of the frame and only displays its central area. Also worth pointing out is that you can't capture videos using the external display as a viewfinder.</paragraph>
+			<paragraph>When using the inside screen as a viewfinder you're facing other problems. For one, your finger tends to cover the lens when you hold the phone. You have to risk dropping it or hold it vertically and shoot in a really unnatural and awkward way.</paragraph>
+			<paragraph>On the positive side, the camera interface is rather nice and easy to work with. In fact it is the same as the one on Nokia 5320 and Nokia 6210 Navigator. It doesn't offer too many features but with a snapper like this they are more than enough.</paragraph>
+			<paragraph>The sequence and scene modes are all there and there is a really nice panorama mode where the handset can easily make panos with excellent stitching. However, this panorama mode produces photos of too low resolution, which are suitable for viewing on the phone screen only.</paragraph>
+			<paragraph>Unfortunately, much like on the Nokia 6210 Navigator, despite the built-in GPS receiver, the camera of the KT610 is not able to geotag your shapshots. Pity, indeed!</paragraph>
+			<paragraph>The picture quality is about average for a two megapixel camera. Color rendering is rarely on the spot but the amount of captured detail is decent. Noise levels are acceptable for the class. The image processing algorithm is good enough and there isn't much detail loss due to noise reduction or oversharpening.</paragraph>
+			<paragraph>Check out the sample pics to get an idea of how LG KT610 fares in imaging.</paragraph>
+			<paragraph>As far as video recoding is concerned, the LG KT610 is able to manage CIF resolution. Videos have a frame rate of 10fps and are saved in 3gp format. This makes them rather useless on most occasions but capturing videos isn't the selling point of KT610 anyway.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity: no Wi-Fi is a no-go<subsectionTitle>
+			<paragraph>LG KT610 fares decently in terms of connectivity. The biggest absence is of course WLAN. Frankly, we would have proffered Wi-Fi support over GPS big time. After all, Wi-Fi is among the make-or-break smartphone features.</paragraph>
+			<paragraph>But first thing first - let's start with the wired connectivity capabilities of LG KT610. USB pairing is truly seamless, as with any other Symbian device. You can set a default connectivity mode when a cable is connected or you'll be prompted every time. The card slot is also an option with the good transfer rates card readers can offer.</paragraph>
+			<paragraph>In the wireless department you get Bluetooth v2.0. The network connectivity is also at the expected high level with GPRS, EDGE and 3G all covered. HSDPA is also on board to take network data transfers to top speed. We doubt it the lack of an Infrared port is going to make anyone change their mind.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Web browser is worth the praise<subsectionTitle>
+			<paragraph>As you probably know, we do fancy Symbian web browsers. The LG KT610 makes no exception, plus on the landscape display pages look really great.</paragraph>
+			<paragraph>Browsing the internet with LG KT610 is a pleasure. No matter how elaborate the web page, it fits perfectly on the screen and is very easy to read and navigate. The virtual mouse cursor earns the handset another point. It is easy to control and generally works great.</paragraph>
+			<paragraph>A mini-map can be activated to help finding your way around large sites where lots of scrolling is required. The zoom level and font size are also adjustable at the expense of only a few key presses. This is where the landscape 2.4" screen gets much appreciated, as it makes the font readable even when downsized to only a few pixels height.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG KT610 gets you organized<subsectionTitle>
+			<paragraph>Organizing applications come by the dozen in Symbian handsets. Those are also very practical and usually quite user-friendly.</paragraph>
+			<paragraph>The LG KT610 calendar has three different types of view - monthly, weekly and daily, and four types of events available for scheduling - Meeting, Memo, Anniversary and To-do. Each event has its own unique fields and some allow an alarm to be activated at a preset time to act as a reminder.</paragraph>
+			<paragraph>The mobile office applications are reasonably well covered. The preinstalled applications are able to open Word and Excel and PowerPoint documents. However, the PowerPoint files took ages to load and managed to get on our nerves.</paragraph>
+			<paragraph>Unluckily our unit of LG KT610 lacked the PDF reader and the ZIP manager we are used to seeing in most other Symbian handsets. Furthermore, the KT610 lacks support for editing documents. If you are to need this feature you will have to purchase the full version of the office application for a fee.</paragraph>
+			<paragraph>Here are some of the other included organizing and time-management applications: a very capable unit converter and a decent calculator, as well as a Notes application. There is of course also a convenient voice recorder. As we've mentioned repeatedly, recording length is now up to an hour.</paragraph>
+			<paragraph>Finally, we come to the LG KT610 alarm application. You can set up a virtually unlimited number of alarms on your handset. Furthermore, each of these can have its own name, activation day and repeat pattern. You can also adjust the snooze time. In addition the clock offers to show you the time in any time zone of the world.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Thumbs up for the GPS<subsectionTitle>
+			<paragraph>The final noteworthy feature of Samsung LG KT610 is the built-in GPS receiver. Its performance did manage to impress us with remarkable sensitivity. Even though A-GPS is nowhere in sight, the KT610 just nailed down that satellite lock in less than two minutes in cold start. The hot start time is only a few seconds.</paragraph>
+			<paragraph>The handset ships with Google Maps preinstalled which sadly doesn't offer turn-by-turn voice guided navigation. This means that a third party navigation software is your only option for using the KT610 as a GPS navigation system. Luckily there are plenty of those available on the market. Of course, you will have to give it some serious thought of how you are going to position the phone on your dashboard to use as an in-car navigation unit.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Games<subsectionTitle>
+			<paragraph>The LG KT610 comes with two game trials - the official Shrek III game and Bubble Breaker. The demos run for a minute and a half and then automatically exit. The availability of demo versions only is quite in line with the business orientation of the device. Anyway, you are free to download more games to your LG KT610 or go on and purchase the full versions of those already available.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>As a whole LG KT610 is a no-nonsense, neat performer. It has its shortfalls here and there but, having in mind the price gap to the next best thing in the class, those are understandable. Still the handset is simply ticking quick and neat, plus ergonomics are commendable.</paragraph>
+			<paragraph>The KT610 is a somewhat eccentric attempt by LG to enter the relatively small communicator niche. We can see the point of throwing in an unpredictable and rather low-key contender, instead of trying to beat the giants in their own game. We find LG KT610 quite well equipped for the campaign, save for one key absence: Wi-Fi. We would've gladly swapped it for the fishy GPS (brilliant chip, but questionable in-car usability).</paragraph>
+			<paragraph>So at this stage, we hope LG KT610 puts up a good fight for the favor of the almighty user. It's not about communicator top dogs feeling threatened but a neat performer finding a hard-earned spot of its own.</paragraph>
+		</subsection>
+	</page>
+</review>

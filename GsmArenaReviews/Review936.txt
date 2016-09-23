@@ -1,0 +1,55 @@
+<review>
+	<title>LG G Pad 8.3 hands-on</title>
+	<description>IFA 2013</description>
+	<link>http://www.gsmarena.com/lg_ifa_2013-review-980.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>LG jumped the gun a little bit announcing the LG G Pad 8.3 before IFA started, but now the company is giving it a proper introduction. The 8.3" tablet has been designed specifically to fit snugly in hands and pockets rather than for raw screen size.</paragraph>
+			<paragraph>That said, LG has managed to fit a fairly large screen considering the tablet doesn't feel big in our hands. The aluminum unibody design is a definite plus too, along with the expandable storage and the pair of stereo speakers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG G Pad 8.3 at a glance<subsectionTitle>
+			<paragraph>The screen is sharp and with great colors and LG has prepared some proprietary goodies - the KnockON from the LG G2 (wake the device with a tap rather than the power button), but also three-finger swipe to quickly switch between apps and, our favorite, QPair.</paragraph>
+			<paragraph>QPair connects the G Pad to your Android smartphone ala BlackBerry Bridge on their Playbook - any Android smartphone (Jelly Bean recommended). It will display messages from the phone on the tablet and let you reply to them, even move browser tabs between the phone and tablet. What we liked best is that LG didn't get territorial and didn't make QPair an LG-exclusive feature.</paragraph>
+			<paragraph>Jump over to the next page for our thoughts on the hardware, a video demo of QPair and even a few benchmarks and camera samples.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG G Pad 8.3 hands-on: hardware<subsectionTitle>
+			<paragraph>The G Pad 8.3 was announced a couple of days before IFA even started, but they're presenting it again and have a lot to share. For example, did you know that the south Korean government keeps a database of the hand sizes for citizens aged 20-60? According to that database the ideal width for a tablet is 127.3mm and the average jacket pocket is 130mm.</paragraph>
+			<paragraph>So, LG settled on a tablet that's 126.5mm wide and put the biggest display that would fit, which turned out to be 8.3". To do that LG made the bezels around the screen quite thin - it's easy to hold in one hand and the build quality is great. We liked the white one a little better than the black one, but the metal is the same on both.</paragraph>
+			<paragraph>The screen itself has 1,920 x 1,200 resolution and 273ppi. It's sharp with great colors, but unfortunately quite reflective.</paragraph>
+			<paragraph>The G Pad 8.3 has an aluminum unibody that's 8.3mm thin (yup, just like the name) and feels fairly light for its size at 338g. The back has a nice brushed metal finish, but unfortunately it's a fingerprint magnet - our attempts to wipe it clean were not very successful.</paragraph>
+			<paragraph>The back has a 5MP camera that can record 1080p video, it's positioned on one of the two plastic strips on either side of the back. Another two cutouts in the back show the stereo speaker grilles. There's a 1.2MP / 720p camera on the front too.</paragraph>
+			<paragraph>The top side of the LG G Pad 8.3 holds an IR blaster, the 3.5mm audio jack and the microSD card slot, which is covered by a flap. The G Pad 8.3 has 16GB of built-in storage. At the bottom there's the microUSB port.</paragraph>
+			<paragraph>One side of the G Pad 8.3 is bare, while the other one holds the only hardware buttons - power/lock key and the volume rocker.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>G Pad 8.3 hands-on: software<subsectionTitle>
+			<paragraph>The LG G Pad 8.3 is powered by Snapdragon 600 - a conscious decision by LG, as the Snapdragon 800 would have been too power hungry. The company says the Snapdragon 600 is fast enough and while it is indeed fast, we did feel a small difference between it and the Sony Xperia Z Ultra when using the browser. The battery has 4,600mAh capacity by the way.</paragraph>
+			<paragraph>We ran some benchmarks on the G Pad 8.3, but we'll do more when we get our hands on a proper review unit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The G Pad 8.3 runs Android 4.2.2 and the user interface feels quite familiar as it should to anyone who has used LG's custom Android UI. It borrows the KnockON feature from the LG G2, so you can tap the screen to wake it up. Another custom feature is Slide Aside, which allows you to switch between up to three apps easily with a three finger swipe.</paragraph>
+			<paragraph>QPair is a really interesting feature - it pairs the G Pad 8.3 with an Android smartphone, even a non-LG phone (Android Jelly Bean is recommended). QPair will display notifications from the phone on the tablet like incoming calls or messages (SMS and from social networks) and even let you respond.</paragraph>
+			<paragraph>There's more - you can open a tab in the browser or an image in the gallery on the phone and then transfer it to the tablet. This works for any app that's installed on both devices, but since QPair relies on the app to sync the content it won't work with all third-party apps.</paragraph>
+			<paragraph>Any QMemos you scribble to on the tablet are synced on the phone as well and you get a one click option to toggle the Wi-Fi hotspot on the phone and share its Internet connection with the G Pad 8.3.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We also managed to snap a few camera samples with the G Pad 8.3. Keep in mind that these lighting conditions are far from ideal.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,345 @@
+<review>
+	<title>HTC One E9+ review</title>
+	<description>Positive charge</description>
+	<link>http://www.gsmarena.com/htc_one_e9_plus-review-1269.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Polycarbonate body, soft matte finish, thin and light for its size</paragraph>
+			<paragraph>5.5" 1440p capacitive touchscreen with 534pi; Corning Gorilla Glass 4</paragraph>
+			<paragraph>Mediatek MT6795M (Helio X10) chipset with a 2GHz octa-core Cortex-A53 CPU, PowerVR G6200 GPU, 3GB of RAM</paragraph>
+			<paragraph>Android 5.0.2 Lollipop with HTC Sense 7 UI</paragraph>
+			<paragraph>Wi-Fi 802.11 a/b/g/n/ac (2.4 &amp; 5 GHz); DLNA, WiFi direct, hotspot</paragraph>
+			<paragraph>20MP AF camera with a 1/2.3" BSI sensor; 27.8mm f/2.2 lens; single-LED flash; 2160p@30fps video capture, 720p@120fps slow motion</paragraph>
+			<paragraph>4MP fixed-focus UltraPixel front-facing camera with a BSI sensor; 26.2mm f/2.0 lens; HDR; 1080p video recording</paragraph>
+			<paragraph>32GB of built-in memory; microSD card slot; 100GB of free Google Drive storage for 2 years</paragraph>
+			<paragraph>Dual nanoSIM slots, LTE Cat.4, GPS/GLONASS/Beidou, NFC, Bluetooth 4.1, FM radio; microUSB 2.0 port, MHL, USB host</paragraph>
+			<paragraph>Active noise cancellation with a dedicated microphone</paragraph>
+			<paragraph>Front-facing stereo speakers with BoomSound and Dolby Audio</paragraph>
+			<paragraph>2,800mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Tall for a 5.5-inch phone, massive top and bottom bezels</paragraph>
+			<paragraph>Non-removable battery</paragraph>
+			<paragraph>Chipset looks more suited to a mid-ranger</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>If you want HTC's highest-specced, big-screened QHD smartphone, the One E9+ is very likely the one you're looking for. Only the lack of the signature all-metal unibody saves the company's reigning flagship a good deal of embarrassment.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>It's quite hard to actually decide which precise model sits atop HTC's 2015 One lineup, and there may well be more than one correct answer. You have the M9, obviously, which has Qualcomm's latest chipset inside and the metal design to appeal to your sense of style, but sticks with a FullHD 5-inch screen.</paragraph>
+			<paragraph>Midway up the size ladder, you'll find the 5.2-inch QHD M9+, which retains the metal unibody and adds a second camera on the back, as well as a fingerprint sensor, but opts for an arguably inferior Mediatek chipset. There's an almost identical ME version, which comes with a single rear camera, and comes with a polycarbonate body.</paragraph>
+			<paragraph>All that builds up to the HTC One E9+, which has finally landed in our hands. It has the largest 5.5-inch QHD screen of the bunch (so, not to be confused with the E9, which is apparently a China-only 1080p 5.5-incher), a slightly downclocked version of the same Mediatek chipset and a polycarbonate build.</paragraph>
+			<paragraph>With the family relations (somewhat) settled, let's move on to the list of key specs.</paragraph>
+			<paragraph>You can see why one might get confused. The HTC One E9+ has all the makings of a modern day high-end device, albeit in a rather understated package. And it's not like HTC hasn't done it before, last generation's E8 was just that - a flagship in disguise. Only, now HTC is giving you even more options and it's not a simple price-vs-looks dilemma.</paragraph>
+			<paragraph>It is, however, the first time we get to see the Mediatek MT6795 in action (also going by the PR-friendly Helio X10). It's an interesting decision by HTC part to equip all its QHD smartphones so far with the Mediatek top-of-the-line solution and reserve the Snapdragon 810 for the FullHD One M9.</paragraph>
+			<paragraph>We've yet to see what that means in terms of performance, but not before we've unpacked the handset and got a real feel for it in-hand.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard retail package<subsectionTitle>
+			<paragraph>The HTC One E9+ comes in a box, which emulates the looks of the optional DotView case. Inside, there's the usual set of accessories, including a USB cable, an A/C adapter rated at 5V/1.5A, and a set of high-quality in-ear headphones with a single-button remote and flat cords.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Body and design<subsectionTitle>
+			<paragraph>The HTC One E9+ measures 156.5 x 76.5 x 7.5mm, which is big, really big. The only other major 5.5-inch smartphone, which is larger, is the iPhone 6 Plus at 158.1 x 77.8 x 7.1mm. Even the Asus Zenfone 2 ZE551ML, which isn't exactly saving space, is shorter at 152.5mm. The LG G4 is the undisputed champ in this department at 148.9mm.</paragraph>
+			<paragraph>The HTC One E9+ weighs 150g, about what you'd expect for its screen diagonal. True, the Samsung Galaxy A7 is tangibly lighter at 141g, but the iPhone 6 Plus and the Zenfone 2 ZE551ML both hover around the 170g mark. That said, the E9+ actually feels light, simply because you expect more heft from such a large device.</paragraph>
+			<paragraph>The HTC One E9+ is not a low-key handset, that's for sure. Aside from being very tall, its single most striking feature is the enormous lens window on the back, which easily sets it apart from anything else on the market. A large part of it is exclusively for design purposes, as the actual lens resides in the center of the 17mm circle.</paragraph>
+			<paragraph>The designers wanted to make a statement and weren't overly subtle at it. While it may polarize opinions, it certainly shouts E9+ like nothing else, so bystanders will know you're not handling one of the common HTC models.</paragraph>
+			<paragraph>The back has a soft matte finish, which on our black model (or Meteor Gray in marketing talk) looks quite formal and "business", if you like. It does pick up prints and smudges, and although it's not as obvious as a glossy finish, it does look greased when you hold it at an angle against the light. It's not particularly easy to clean either, so you might as well accept it'll be like that forever and move on.</paragraph>
+			<paragraph>Update: As it turned out the HTC One E9+ does have stereo speakers and it was only our unit that had some issue with one of them. The text below has been edited to reflect that.</paragraph>
+			<paragraph>The front presents a more traditional HTC styling which has become synonymous with stereo BoomSound speakers on either end.</paragraph>
+			<paragraph>As has become typical of recent HTC phones, the One E9+ comes with onscreen buttons eating away some of the screen estate. It's worth pointing out that the gap between the speaker strips and the glass that covers the display tends to accumulate dirt, which is rather tricky to clean.</paragraph>
+			<paragraph>Side bezels are decently sized and provide enough room to grip, without adding excessive width. The sides were given the same matte treatment as the back and a slit that runs all around the device may lead you to believe the back cover is removable, which it isn't. There's a shiny chrome-looking outline on the front which serves as a nice accent, but also a boundary of sorts between the phone and the outside world.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The One E9+ features the company's newly adopted control layout with the power button on the right side. The E9+ being taller, the button sits noticeably higher than on the M9, well above the midpoint. Further up is the volume rocker, which is indeed a rocker and not two separate buttons (again, the M9).</paragraph>
+			<paragraph>On the left side there's a 48mm long flap, but long it needs to be, because it has to cover three separate card slots - two for nanoSIM cards and an extra one for microSD. Its length aside, the flap is nicely slim and doesn't spoil the overall looks. It also fits snuggly and it's unlikely to be opened by chance. If anything, you may have a hard time finding a proper tool to pop it out, as fingernails don't seem to work.</paragraph>
+			<paragraph>On top there's nothing but a 3.5mm headphone jack - no IR blaster. The bottom is scarcely populated too, with only a microUSB port.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>We'll reiterate, the HTC One E9+ is one tall smartphone. It is, in fact, 3mm taller than the 5.7-inch Samsung Galaxy Note 4. It's narrower though, and that helps its handling.</paragraph>
+			<paragraph>The buttons on the right are easily accessible with your right thumb or with the left index finger, depending on which hand you're holding it with. The sides and the back with their matte surface provide a secure grip.</paragraph>
+			<paragraph>It should also be noted that due to the generous bottom bezels the on screen buttons come pretty high and are very easily reached, more so than, say, Samsung's capacitive buttons on its phablets. It's still open for debate though, whether that comes close to being worth the extra footprint.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Beautiful 5.5-inch QHD display<subsectionTitle>
+			<paragraph>The HTC One E9+ has the largest QHD display in the company's lineup at 5.5 inches (certain apps report it at 5.46 inches, but we're fine with calling it 5.5). At this diagonal 1,440 x 2,560px translate into 534ppi, which is crazy sharp, though the smaller 5.2-inch QHD panels on the One M9+ and One ME will obviously boast an even higher ppi.</paragraph>
+			<paragraph>The display has great viewing angles and delivers spot-on colors, though its rendition is somewhat different from the One M9's. If anything, its colors are even more accurate, where the M9 has a slight greenish tint. Unlike other manufacturers, HTC doesn't give you the option to tweak the white balance to your liking, nor are there presets, but chances are you wouldn't want to anyway.</paragraph>
+			<paragraph>Our microscope revealed a standard RGB pattern with equal numbers of red, green and blue subpixels.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The display isn't overly bright at 100%, but for what it lacks in brightness it more than makes up in contrast. The deep blacks help for a stellar figure, which beats everything we've tested, except the Xperia Z1 Compact.</paragraph>
+			<paragraph>At 50%, brightness actually drops to a little more than 40% of maximum. Mind you, with HTC's custom brightness toggle you can only set it precisely from within the menus. It does roughly correspond to the 2-bar position on the toggle.</paragraph>
+			<paragraph>The HTC One E9+ is a decent performer in the sunlight legibility test, getting almost the same score as the One M9 before it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The HTC One E9+ comes with dual-SIM slots and each card supports quad-band 2G. Only one of those cards can benefit from the quad-band 3G and some 10 bands of 4G support, where Cat.4 is supported for download speeds of up to a theoretical maximum of 150Mbps.</paragraph>
+			<paragraph>There's a GPS receiver with A-GPS and GLONASS and Beidou support for even more accurate positioning across the globe.</paragraph>
+			<paragraph>Local connectivity features include Wi-Fi 802.11 a/b/g/n/ac (both 2.4GHz and 5GHz bands) with DLNA and Wi-Fi Hotspot.</paragraph>
+			<paragraph>The HTC Connect feature works over the DLNA protocol to provide smoother integration of your phone to your home-entertainment setup, with supported devices of course. Those include multi-room speakers adhering to the Qualcomm AllPlay standard; DLNA and Miracast-compatible devices, Bluetooth speakers, as well as HTC-certified devices carrying the HTC Connect logo.</paragraph>
+			<paragraph>Bluetooth 4.1 is on board, which sorts LTE interference issues. Version 4.1 is said to be more power-efficient and supports direct communication between connected peripherals, keeping your smartphone out of it. There's also NFC support.</paragraph>
+			<paragraph>An MHL-enabled micro-USB 2.0 port sits on the bottom of the phone with USB host, for connecting external storage or wired peripherals. A standard 3.5mm headphone jack on top lets you plug in your headphones of choice.</paragraph>
+			<paragraph>The One E9+ accepts nano-SIM cards. The microSD slot lets you extend the 32GB of built-in storage to up to 2TB, although we are yet to see such a monstrous card in the real world.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The HTC One E9+ comes with a 2,800mAh battery, which is not user replaceable. We had our reservations before we kicked off our battery test routine, because the battery capacity is actually smaller than what the M9 has, and the E9+ has both a larger screen area to light up as well as much more pixels.</paragraph>
+			<paragraph>That said, the One E9+ is powered by an entirely different chipset, and the Snapdragon 810 inside the M9 isn't exactly famous for its efficiency, so there was still hope.</paragraph>
+			<paragraph>In the end, although the One E9+ is no miracle worker, it managed well with what it's got. That's not to say that we're happy with the 7 hours of video playback or the 8-hour web browsing record, on the contrary. But credit must be given to HTC for actually squeezing more or less the same screen-on usage times out of the E9+ as it did from the M9, despite the increase in diagonal and resolution.</paragraph>
+			<paragraph>The less than 12 hours of 3G talk times also don't stand very well with a high-end device, which is made to be used.</paragraph>
+			<paragraph>Truth be told, there is an area in which the One E9+ does excel. With a single SIM card inside, the smartphone can remain in 3G standby for a little short of 14 days, which drops to about 12 and half days if you pop in a second SIM. Now, while that's half of the manufacturer's claims, it's still a respectable achievement in real usage terms.</paragraph>
+			<paragraph>All of the above adds up to a decent but far from spectacular endurance rating of 58 hours (59h with a single SIM). What the number means is that under the hypothetical scenario that you use the One E9+ for an hour each of video playback, web browsing and voice calls per day, it'll last you for about two and a half days.</paragraph>
+			<paragraph>It's worth noting that there's a variable which influences the standby times and, therefore, the overall endurance rating. BlinkFeed refreshes once every hour when connected to Wi-Fi. Depending on the number of sources you have selected that may mean up to a 30% hit in standby times, robbing the E9+ of the only admirable aspect of its battery life.</paragraph>
+			<paragraph>However, that only results in a three-hour drop in the overall rating, so it's negligible in the grand scheme of things. Just bear in mind that if you absolutely must squeeze every minute of battery life, you'd better disable BlinkFeed.</paragraph>
+			<paragraph>Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sense 7 complements Android 5.0.2<subsectionTitle>
+			<paragraph>The HTC One E9+ runs on Android 5.0.2 Lollipop, with HTC's own Sense 7.0 UI layer on top, and we're already familiar with this latest iteration from the One M9.</paragraph>
+			<paragraph>The lockscreen hasn't changed much since Sense 6 - it features a clock with weather info plus four shortcut slots. Missed calls and incoming messages are duly displayed, too, of course. Lockscreen widgets aren't available this time around though.</paragraph>
+			<paragraph>The lockscreen in Sense 7 offers a brand new type of notification - mealtime, courtesy of the new Blinkfeed. The Blinkfeed will learn your lunch breaks and dinner times and it will pop up suggestions for nearby restaurants shortly before the time comes.</paragraph>
+			<paragraph>HTC One E9+ supports both swipe up and double tap to unlock, meaning you won't have to rely on the power/lock key all the time. You should use the gestures with care though, as you may end up accidentally unlocking your phone.</paragraph>
+			<paragraph>The leftmost homescreen pane of the HTC One E9+ is once again reserved for HTC Blinkfeed. It aggregates content from your social networks (Flickr, Foursquare, Google+, Instagram, LinkedIn, Tumblr, Twitter, Zoe), as well as from over a thousand news sources. You can pick the topics you're interested in and Blinkfeed will automatically pull relevant content. You can also search for specific content.</paragraph>
+			<paragraph>The Blinkfeed service, with the help of the new Sense Home feature will now suggest nearby places to eat. Blinkfeed becomes aware of your eating habits and will eventually begin poping up restaurant suggestions on your lockscreen shortly before your lunch break or after you leave work. And if some of your friends have left reviews for those places, those will be shown as well, thanks to the Yelp and Foursquare integration.</paragraph>
+			<paragraph>Homescreens are fully customizable with links and widgets. If you don't find Blinkfeed particularly useful and don't want it lingering on the front you can do away with it just like any other widget.</paragraph>
+			<paragraph>The Sense Home widget, which debuted on the M9 is present here as well. It looks quite ordinary with eight shortcuts - six of them are app shortcuts, while the last two are folders for recent documents and recommended apps you may want to download.</paragraph>
+			<paragraph>You can't configure the shortcuts, Home Sense chooses them for you, but you can opt to remove the smart folder. After you input your home and work addresses, the widget changes the visible shortcuts depending on your current location - work, home or outside. It learns what you are using the most and puts those apps up front. The Home Sense locations are also used by the Blinkfeed for mealtime suggestions.</paragraph>
+			<paragraph>Wallpapers, lockscreen style, ringtones, notification sounds and alarms can be customized via a dedicated menu.</paragraph>
+			<paragraph>Themes are also supported, and they change your lockscreen and homescreen wallpapers, the app drawer background, the default messaging app wallpaper, the system color scheme, the icon package for apps and settings, all ringtones and the system font.</paragraph>
+			<paragraph>There is a dedicated Themes Store for downloading themes, but you can also get fonts, pictures and ringtones separately and apply them to your current theme. You can even build your own themes very easily and if you think they are really good, you can upload them to the store for others to use.</paragraph>
+			<paragraph>One finger swipe from the top of the homescreen will open the notification area, which features a cleaner look in Android 5.0 Lollipop. An additional swipe reveals the quick toggles area that include Wi-Fi, Bluetooth, Airplane mode, screen auto-rotate, flashlight, location on/off, and the option to cast the screen. A double-finger swipe goes straight to the toggles, which are configurable, of course.</paragraph>
+			<paragraph>The default layout of the app drawer is a 4 x 5 grid of app icons. A 3 x 4 mode is also available, though a 5 x 6 would have made far more sense. You can sort app icons alphabetically, chronologically or manually and you can hide the ones you don't need.</paragraph>
+			<paragraph>HTC is sticking with the 3 x 3 grid of thumbnails for the recent apps, and courtesy of Sense 7 there's no limit of 9 visible apps - once you pass 9 recent apps, a new page pops up to hold even more shortcuts. The default Card switching from Lollipop is available too, you need to enable it from the Task Switcher Settings.</paragraph>
+			<paragraph>Screen pinning allows to have an app displayed at all times until you unpin it with a simultaneous press and hold on the Back and Task switcher buttons.</paragraph>
+			<paragraph>HTC Sense has a dedicated Car mode screen, which can be preset to launch automatically when the phablet connects to your car's Bluetooth.</paragraph>
+			<paragraph>HTC One E9+ comes with the Zoodles app, which serves the purpose of a restricted access Kid mode. You set up a profile for each of your kids - with a photo and birthdate - and pick which apps they can have access to. You can also download new fun videos and games straight from within the app.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchamrks<subsectionTitle>
+			<paragraph>Unlike the One M9, which is powered by the Qualcomm Snapdragon 810, the rest of this year's Ones, including the E9+, rely on the Mediatek MT6795 chipset. Also known as Helio X10, this Mediatek SoC is currently the company's top-end solution, at least until the tri-cluster deca-core Helio X20 comes along.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The chipset features an octa-core processor, which can be clocked up to 2.2GHz, but in the case of the E9+ clock speed is limited to 2.0GHz. It's what Mediatek calls a True Octa-core architecture - all 8 Cortex-A53 cores can work simultaneously to cover peak performance demands. The processor is joined by a PowerVR G6200 GPU and 3GB of RAM.</paragraph>
+			<paragraph>GeekBench 3 is a CPU-specific benchmark and unsurprisingly, having 8 processor cores toiling together helps the One E9+ wipe the floor with the S810 competition. It's still no match for the Exynos 7420 inside the Samsung Galaxy S6, which has a quad-core 2.1GHz Cortex-A57 and quad-core 1.5GHz Cortex-A53 processor configuration.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Throwing graphics, memory and storage speed into the mix, Antutu is a better indication of overall performance. The scores here are more condensed, with only the Galaxy S6 in a league of its own, and the pre-production Sony Xpeia Z3+ somewhat ahead of the crowd. Other than that the MT6795 is on par with the S810 One M9 and Huawei P8 (Kirin 930), the three marginally better than the LG G4 (S808), Galaxy Note 4 (S805) and highest-specced Asus Zenfone 2 (Intel Atom Z3580).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II 2.0 is another compound benchmark, but one that makes the E9+ look pretty bad compared to rivals. It places towards the bottom of the bunch in the overall score, with only the Huawei P8 a little behind. The E9+ is also trailing in single-core CPU performance. Those 8 cores have their say in the multi-core test though, where the E9+ comes up first.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to graphics performance, it becomes clear what's been dragging the MT6795 down in the compound benchmarks. The PowerVR G6200 is obviously not up to the task and is proving inadequate for the smartphone's high-end aspirations. All the different generations of Adreno GPUs in the Snapdragon series are markedly better.</paragraph>
+			<paragraph>In Basemark X for example, the One E9+ would have been last among this year's offerings, if wasn't for the even more disappointing Huawei P8 and its Mali-T628 MP4 GPU.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GFXBench tells the same story, only darker. In the offscreen part of the T-Rex test (run at a standardized 1080p resolution) the One E9+ scores only 15fps, which is half of what even the Zenfone 2 manages. The Snapdragon 810 rivals are all in the high 40s, while the Galaxy S6 is alone at the top at 59fps.</paragraph>
+			<paragraph>In the tougher 3.0 Manhattan test the proportions are similar, and although the Galaxy S6' lead isn't as pronounced, the E9+ is still second to last.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The onscreen tests are carried out at the respective devices' native resolution, which doesn't do the QHD One E9+ any favors - a solid last spot in both routines.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Browser performance on the HTC One E9+ is yet another letdown. The JavaScript-focused Kraken 1.1 yields a score, which is on par with the Motorola Moto E and HTC Desire 616, an entry-level result.</paragraph>
+			<paragraph>The broader BrowserMark benchmark is a bit less stressing on the E9+, meaning it's trailing less behind the bunch. In all fairness, it may be an HTC thing, because even the S810-powered One M9 isn't on par with the rest of the similarly equipped devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>So our first encounter with the Mediatek Helio X10 left us with mixed feelings. Yes, it does have very good raw CPU performance thanks to its True Octa-core architecture. But it lacks the GPU to match, and it would have been a bottleneck for a FullHD display, let alone a pixel-rich QHD.</paragraph>
+			<paragraph>And it's not just graphics, the browser scores reveal there's a lot to be done in terms of optimization. The chipset obviously has power to spare, it just doesn't deliver it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Feature-rich phonebook<subsectionTitle>
+			<paragraph>The People app groups the call log, dialer, favorites, contacts, and groups in tabs, which can be reordered or removed. A dropdown allows you to filter contacts by source - stored in the phone, coming from an online phonebook or a social network.</paragraph>
+			<paragraph>Individual contact info is displayed in tabs too, a Sense tradition. The first tab shows basic contact info like phone numbers, emails, work info plus individual options for ringtones, blocking the contact and adding them to Private contacts. Private contacts is a discrete option that hides the name and photo of a contact when there's an incoming call.</paragraph>
+			<paragraph>The second tab, Thread lists all communication history between you and the given contact - texts, emails and calls. The third and final tab displays the contact's social networking updates for easy access. Tabs here can be reordered and hidden, too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony with Interruptions (DND mode)<subsectionTitle>
+			<paragraph>The dialer on the HTC One E9+ displays the last call with a contact photo so you can easily redial someone. There's smart dialing that looks for both names and contacts. You can even switch to a regular QWERTY keyboard though you have to do this each time you open the dialer and we still find that the dial pad is quicker, it was invented for a reason after all.</paragraph>
+			<paragraph>There's a Large dial pad mode, which predictably makes the buttons bigger but also displays the full call log behind the pad (instead of just the last call as with the Standard dial pad). When you try to scroll the list, the dial pad gets out of the way. For these reasons we preferred this mode over the Standard. It is just a more user-friendly experience.</paragraph>
+			<paragraph>The Do not disturb mode is now called Interruptions and is part of Android Lollipop. Once configured, you can have it automatically turn on and off (called Priority mode) or you toggle it manually from the system wide sound popup. You can configure your priority interruptions - all calls, all messages, or calls and texts from specific contacts only.</paragraph>
+			<paragraph>Contacts can be added to the blocked list to filter out unwanted calls even outside of Interruptions. If you dial an unknown contact, the dialer can ask you if you want to save it to the phonebook (this is disabled by default).</paragraph>
+			<paragraph>The One E9+ may have BoomSound stereo front-facing speakers, but the reality is they're not very loud. They are not a match for the flagship M9, which itself didn't impress. What that means is you should keep an eye on the One E9+ if you don't want to miss an important call or notification.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>The HTC One E9+ uses the traditional threaded view for SMS and MMS messages, and they are composed from within the same interface. Some threads can be moved to a "secure box", which requires a password to be opened. There's built-in functionality to block messages from certain numbers, those go in the Block box where you can view them later if you like or set the app to discard them immediately.</paragraph>
+			<paragraph>The look of the app can be tweaked with color schemes and custom backgrounds, font size and how many lines are used for preview in threaded view.</paragraph>
+			<paragraph>The Messages app can also backup and restore messages, so you don't need a third-party app for that.</paragraph>
+			<paragraph>The HTC One E9+ comes with two email apps - a skinned version of the stock email app and the dedicated Gmail app. The native one has a combined inbox and supports options for peak and off-peak syncing. For both you can have the app check for new mail after a preset periods or use Smart Sync to learn your habits and automatically figure out the best interval.</paragraph>
+			<paragraph>The keyboard offers big, comfortable keys and you can run a calibration tool if you think the default setup slips up. A Swype-like Trace option is available and you can enable bilingual prediction (vital with so many English terms entering every day speech in most languages).</paragraph>
+			<paragraph>Other customization options include switching between layouts (e.g. QWERTY, AZERTY), adding arrow keys (for the portrait keyboard only) and a personal dictionary of words that can be backed up to the microSD card or an email.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC Zoe is yet another sharing option<subsectionTitle>
+			<paragraph>HTC Zoe is a mini social network centered around sharing photos and videos. A landmark feature is the cool Highlights videos, which are created automatically for each album.</paragraph>
+			<paragraph>Zoe requires you to sign in with your HTC account the first time you open it. This is to enable sharing with other contacts, who can add their own photos, videos and music to the Highlight videos that are created automatically from your shots.</paragraph>
+			<paragraph>You can send requests to your friends too, to give them a little nudge to add shots to your Highlights. You can manually create a Highlight video too - you simply choose from the available images, select a theme and soundtrack and you're done.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Gallery with Highlights<subsectionTitle>
+			<paragraph>The Gallery app uses a Lollipop style navigation drawer to separate viewing modes. Timeline and location group photos accordingly, while Albums work like folders. You can manually create albums, the app will ask you to select a number of photos and videos to either copy or move.</paragraph>
+			<paragraph>A nice little addition to the gallery is the custom search function. Interestingly enough it not only goes through photo meta data, but can also do a sort of reverse image search and find similar photos to a preselected one.</paragraph>
+			<paragraph>All albums get a Highlight video as their title image. You can select which items go into the video, in what order and with what effects and music. There are options to go back to the default chronological order, music and theme so don't be afraid to experiment. The start and end clips can be selected manually if you want to create a sort of title card and credits.</paragraph>
+			<paragraph>The editing options range from basic crop/rotate/flip to frames and advanced effects like simulated lighting, adjusting face contour and eye enhancements.</paragraph>
+			<paragraph>You can also choose an image from the gallery and use it as a base for a custom theme. The theme generator automatically suggests a highlight color, among other things, and you can complete your custom theme in just a few seconds. Of course, you can edit it later through the Themes app.</paragraph>
+			<paragraph>There's a special Media gesture useful here and in the music and video players - swipe up with three fingers to "throw" the content you're viewing to a DLNA device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Integrated video player looks basic and lacks AC3 and subtitle support<subsectionTitle>
+			<paragraph>There's no dedicated video player on the HTC One E9+, you browse videos through the Gallery or the File Manager. The video players supports the most common containers - AVI, MP4, DivX, XviD and MKV and even WMV. MOV files are a no-go though, and there is no support for AC3 audio either.</paragraph>
+			<paragraph>As for the interface, you get basic playback controls and the option to snap a screenshot. Subtitles are not supported.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with a touch of Sense<subsectionTitle>
+			<paragraph>The HTC Sense 7 uses a tabbed layout and as with other apps you can hide tabs and reorder them. The tabs sort your music library by different categories and include the relatively rare Folder view, in case you have a sort of "mixtape" folder.</paragraph>
+			<paragraph>The first time you launch the music player it will ask whether it should automatically download Album art, artist photos and lyrics and you can limit it to Wi-Fi only downloads.</paragraph>
+			<paragraph>HTC One E9+ doesn't offer equalizers. All you get is a BoomSound with Dolby Audio option, which works with the integrated speakers and with headphones.</paragraph>
+			<paragraph>Audiophiles should be glad to hear FLAC is supported though and 24-bit files were a hit and miss. No issues occurred with 16-bit ones.</paragraph>
+			<paragraph>You can use the three-finger Media gesture to continue playback on a DLNA device. Bluetooth with aptX is another high-quality option to wirelessly stream audio.</paragraph>
+			<paragraph>The HTC One E9+ also packs an FM radio too, though it doesn't have RDS support. It can play through the speakers but you still need a pair of headphones to serve as an antenna.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>20.7MP camera from the M9 gets a few tweaks<subsectionTitle>
+			<paragraph>HTC finally abandoned the UltraPixel concept for its primary cameras with the One M9, and the One E9+ employs the same 20.7MP 1/2.3" Toshiba sensor. It produces photos up to 5,376 x 3,744 pixels in a rather unorthodox 10:7 native ratio.</paragraph>
+			<paragraph>The sensor sits behind a 27.8mm-equivalent f/2.2 lens, which is a smidge wider than the 28mm glass of both the Galaxy S6 and LG G4, but is considerably dimmer. There's also no optical stabilization.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The shooter's interface is the same as on the One M9, which was in turn borrowed from the previous generation. Your choice of shooting modes includes: Selfie, Camera, Panorama. You can add more shooting modes though - the available options are Bokeh, Photo Booth (4 snaps in a grid) and Split Capture (dual-camera capture).</paragraph>
+			<paragraph>The One E9+ is also capable of taking HDR stills, macro shots, there is Night mode, and even Manual mode is available. There are also settings for maximum ISO, exposure compensation, white balance and image adjustments.</paragraph>
+			<paragraph>A long press on the screen will lock exposure and focus. You can set the volume rocker to act as a zoom lever or a shutter key.</paragraph>
+			<paragraph>What we said a couple of months ago about the One M9 largely holds true for the E9+ today. The images contain a lot of detail, though noise levels are higher than what we would have liked.</paragraph>
+			<paragraph>The sensor proved to be somewhat lacking in dynamic range and that doesn't change when you stick it a new body. Difficult high contrast scenes like the fifth sample will inevitably leave you with pitch-black shadows.</paragraph>
+			<paragraph>The hardware on the One E9+ may be the same as on the One M9, but there are still some differences in processing. The output of the E9+ is warmer and a lot more saturated, when compared to the M9. In all fairness, perhaps the M9 is closer to reality, while the E9+ has a bit of a yellowish cast.</paragraph>
+			<paragraph>Additionally, the M9 applies noticeably stronger sharpening, so the E9+ images appear a lot softer. We shot the same scenes with the M9 we had at the office within seconds from the E9+ so you can see the differences for yourself.</paragraph>
+			<paragraph>The HDR mode on the E9+ aims to help with dynamic range and develops the shadows, but also tends to blow up highlights. Additionally, the images get a boost in sharpening. Overall, the result is usable, not overly dramatic and generally pleasing.</paragraph>
+			<paragraph>The One E9+ wasn't happy with focusing very close, neither in Auto, nor in Macro mode. The sample below is as close as it would get, and it stubbornly refused to lock focus on the knight's face, instead choosing its left elbow.</paragraph>
+			<paragraph>The front-facing shooter is a 4MP UltraPixel module. It is very similar to the main camera of the One (M8), but it doesn't have auto focus. It also comes with a BSI sensor, an aperture of f/2.0, a 26.8mm wide-angle lens and is capable of 1080p video recording.</paragraph>
+			<paragraph>You can also head on to our photo compare tool to see how the HTC One E9+ stacks up to the competition.</paragraph>
+			<paragraph>   HTC One E9+ in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Detailed 2160p video with narrow field of view, usable 1080p<subsectionTitle>
+			<paragraph>HTC One E9+ is capable of capturing 4K videos at 30 fps, as well as taking 1080p clips with 30fps or a rather odd frame rate which fluctuates around the 50fps mark (Fast FHD). Additionally, there's a slow motion mode, which captures 720p at 120fps, but saves it at 30fps, so get a video at quarter speed.</paragraph>
+			<paragraph>The video recording has its own button in the camera interface. While convenient, this unfortunately, makes framing a video correctly impossible until you have started recording. This genuinely annoying issue has to do with the fact that the still camera and the video camera have seriously different fields of view (they don't fit the same portion of the scene) and you only get to see the video field of view after you've started recording.</paragraph>
+			<paragraph>Even more annoyingly, 4K recording has a much narrower field of view, and our guess is it uses the central portion of the sensor cropped to 2160p. It's also capped at 6min, and you get a backwards counter, contrary to all other modes.</paragraph>
+			<paragraph>The 4K videos from the main camera have a 55Mbps bitrate and the audio is recorded in stereo with a bitrate of 64kbps. The 1080p videos have a bitrate of 17Mbps, while their audio stream is at 192Kbps bitrate.</paragraph>
+			<paragraph>The 4K video quality is the same as the still images - there's plenty of detail, colors a touch on warm side, and dynamic range is limited. Interestingly enough, we couldn't upload one on Youtube, but you can go ahead and download a sample below.</paragraph>
+			<paragraph>The 1080p sample contains a bit less detail than we're used to at this point, but it's still usable when the sheer size of 4K videos may be a burden.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can check out a sample from the nifty slow motion video below, which will be appreciated by sports enthusiasts.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We also have non-processed video samples straight out of the camera for you to download - 2160p (17s, 56MB) and 1080p (16s, 32MB).</paragraph>
+			<paragraph>    HTC One E9+ in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Chrome is all you need<subsectionTitle>
+			<paragraph>HTC One E9+ comes with Google Chrome only, which can sync the tabs you have open on other devices (desktops, tablets) with the phone. This feature also syncs your bookmarks and favorite sites and can remember passwords and login data across different platforms.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The HTC One E9+ comes with Polaris Office 5, which can view and create Word, Excel and PowerPoint files, it can display PDFs too. The app handles files stored locally along with ones in your Google Drive account. The View Together option lets you do a presentation on multiple devices by connecting them together wirelessly.</paragraph>
+			<paragraph>HTC has skinned the calendar to match Sense 7 looks. Adding an event lets you specify time (with a warning if there's a conflict with another event), who will attend and where the meeting will be held. Multiple online calendars are supported.</paragraph>
+			<paragraph>HTC Backup can do manual or scheduled backups of your apps, messages (texts and emails), contacts and accounts (mail and social). The data is sent either to Google Drive or Dropbox and you can limit the app to transfer over Wi-Fi only.</paragraph>
+			<paragraph>The alarm clock application can handle multiple alarms, each with its own start and repeat time. The stopwatch and timer are self-explanatory.</paragraph>
+			<paragraph>There is a cool Weather app as well, which relies on the AccuWeather services.</paragraph>
+			<paragraph>HTC Scribble handles drawing and taking notes. You can make cards, lists, diaries, to-do sheets, among others. It supports various type of multimedia content and comes with lots of predefined templates to get you started.</paragraph>
+			<paragraph>HTC has its own power saving section in settings which works on two levels. The basic power saver lets you reduce brightness and CPU power, and turn off vibration and data. Extreme power saver goes an extra mile and disables other non-vital features like remote lock.</paragraph>
+			<paragraph>There's a bundled sound recorder on the One E9+ for basic voice memos. The calculator app is the stock Lollipop one with a side swipe from the right for advanced functions in portrait, which are always visible when in landscape.</paragraph>
+			<paragraph>You can buy an optional DotView case for the One E9+ and the phone comes with an app preinstalled. It offers you a choice of numerous themes as well as additional personalization.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>The phone looks attractive, though materials aren't of particularly high quality.</paragraph>
+			<paragraph>The body is rather tall for the screen size</paragraph>
+			<paragraph>The display is gorgeous in every way - sharp, with neutral colors, excellent viewing angles and one of the highest contrast ratios we've seen. Its maximum brightness is only average though.</paragraph>
+			<paragraph>Battery life is nothing spectacular, the 59-hour endurance rating is average and the balanced numbers suggest the obvious - a larger capacity cell would have been welcome.</paragraph>
+			<paragraph>Latest version of Sense UI is feature-rich, without being overly heavy, offers a lot of room for customization.</paragraph>
+			<paragraph>Mediatek Helio X10 delivers solid CPU performance, but the GPU fails to keep up.</paragraph>
+			<paragraph>Primary camera outputs good-looking well-exposed 20.7MP images, though colors are a bit warm.</paragraph>
+			<paragraph>2160p video is very detailed but with very narrow field of view; 1080p output is wider, but is trailing behind the competition in terms of detail.</paragraph>
+			<paragraph>Comprehensive multimedia package with a capable gallery and music player. The Zoe app adds a new dimension to storing and sharing memories.</paragraph>
+			<paragraph>Standard-issue video player, which lacks support for subtitles, MOV videos and AC3 sound, though most other codecs are covered.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>HTC's densely populated high-end lineup has a different model for everyone, but not one that covers all bases. It could be argued that the company attempted to specifically cater to different users in a bid to grab a wider market share.</paragraph>
+			<paragraph>In the end we get some distribution of features among a myriad of devices. Each model comes with a set of compromises and instead of getting praised for what it does have, the One M9 generation of smartphones ends up being an easy target for criticism.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The HTC One E9+ is the phablet in the range and that's its main selling point, simply because the rest of the models are smaller. But what if you want the large diagonal and, say, a fingerprint sensor? You'll have to look elsewhere. Also, the metal unibody of the One M9 could be scaled up to 5.2 inches for the M9+, but not to 5.5 inches?</paragraph>
+			<paragraph>Yes, the HTC One E9+ has an excellent 5.5-inch QHD display, which, we'd recommend in a heartbeat. It may not be the brightest, but there's little fault to find with it elsewhere.</paragraph>
+			<paragraph>It's not so with the choice of chipset. If looked at CPU benchmarks alone, you'd conclude that the E9+ is ready to fight the big boys. Yet graphics performance is nowhere near the competition as the GPU is simply not in the same league as the processor. The two are so unevenly matched that it makes you wonder how Mediatek decided to pair them in the first place. Why HTC went with it is the next question, but we'd probably need to ask the accounting department to find the answer.</paragraph>
+			<paragraph>HTC's phones were never the most compact, but at least they have the stereo speakers to show for it. The E9+ is yet another high-end handset to come with less than ideal footprint, but some music lovers might not mind it too much.</paragraph>
+			<paragraph>On a positive side, the software package is as good as it gets - Sense is as polished as ever in its 7th iteration and remains one of the better Android overlays. It's stylish, consistent between apps and offers plenty of opportunities for those keen to personalize. The video player could use some work, but HTC apparently thinks that users download third party apps to handle that task anyway and a basic solution is all that's needed just to get going.</paragraph>
+			<paragraph>With the UltraPixel tech sidelined, the camera is no longer the main source of complaints with HTC high-enders. While admittedly a notch below the very best, the newly adopted 20.7MP shooter is capable of some fine images, which stand up well to pixel-level scrutiny. The sensor is complemented by a very proficient app, another testament to the software engineers behind Sense.</paragraph>
+			<paragraph>Every comparison of the One E9+ has to start from within HTC's own camp. You have such closely spac'd models that selection between M9, M9+, ME and E9+ comes down to only a few key features - display size, materials, fingerprint sensor.</paragraph>
+			<paragraph>Going compact (well, by HTC's own standards), you're left with the 5-inch One M9, which is also FullHD unlike all the others. If you insist on the metal unibody, you can choose between the M9 and M9+. The E9+ lacks a fingerprint sensor, which you can find on the M9+ and the ME. HTC fans are spoiled for choice here, but there's no one phone to have it all.</paragraph>
+			<paragraph>   HTC One M9 ? HTC One M9+ ? HTC One ME</paragraph>
+			<paragraph>Arguably the phablet to beat, the Samsung Galaxy Note 4 has a fingerprint sensor and the S-Pen for productivity. It is substantially heavier, but is shorter despite packing a larger 5.7-inch display. It also has a superior build with a metal frame all around it. The removable battery on the Note 4 is another arrow in its quiver, not to mention it last much longer. The Note 4 is a bit more expensive though, so it's not a clear-cut choice.</paragraph>
+			<paragraph> Samsung Galaxy Note 4</paragraph>
+			<paragraph>The LG G4 is more compact and also wins points for style with its gentle curves and leather back cover, which is also removable, giving access to the battery. Megapixels aside, the G4 has a better overall camera. The LG custom skin however is closer to TouchWiz than Sense, so it caters to a slightly different demographic.</paragraph>
+			<paragraph> LG G4</paragraph>
+			<paragraph>Motorola's Nexus 6 is heavier and larger in every direction, but has a 6-inch QHD AMOLED display to show for it. Its battery endurance isn't that much better, but it does support wireless charging. And being a Nexus devices, it's guaranteed to get timely updates.</paragraph>
+			<paragraph> Motorola Nexus 6</paragraph>
+			<paragraph>The Huawei Ascend Mate7 packs a 6-inch screen in the same height. The extra weight is more than made up for by the 4,100mAh battery, which outlasts the E9+ by a mile in every meaningful aspect. The FullHD resolution does mean less ppi, but also helps the Mate7 perform better in the graphics department, though it is far from the best in this respect. What it does have is one of the best fingerprint sensors out there, but until it gets Lollipop it's not an easy recommendation.</paragraph>
+			<paragraph> Huawei Ascend Mate7</paragraph>
+			<paragraph>It's a pretty tough crowd to be facing and the One E9+ is hardly looking like the favorite in the battle. Yet, we mustn't forget that this is a very solid smartphone that does a lot of things right and has plenty going for it. A simple price cut might be all it takes to turn this one from a flagship underdog to a king of the upper midrange.</paragraph>
+		</subsection>
+	</page>
+</review>

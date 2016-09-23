@@ -1,0 +1,329 @@
+<review>
+	<title>Motorola Atrix 4G review</title>
+	<description>Enter the Atrix</description>
+	<link>http://www.gsmarena.com/motorola_atrix_4g-review-589.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM and dual-band 3G with HSDPA and HSUPA</paragraph>
+			<paragraph>4" 16M-color capacitive touchscreen of qHD (960 x 540 pixels) resolution, scratch-resistant Gorilla glass</paragraph>
+			<paragraph>Dual-core 1GHz ARM Cortex-A9 proccessor, ULP GeForce GPU, Tegra 2 chipset; 1GB of RAM</paragraph>
+			<paragraph>Android OS v2.2; MOTOBLUR UI (update to Gingerbread planned)</paragraph>
+			<paragraph>Web browser with Adobe Flash 10.1 support</paragraph>
+			<paragraph>5 MP autofocus camera with dual-LED flash; face detection, geotagging</paragraph>
+			<paragraph>720p video recording @ 30fps (to be upgraded to 1080p Full-HD )</paragraph>
+			<paragraph>Wi-Fi ab/g/n; Wi-Fi hotspot functionality; DLNA</paragraph>
+			<paragraph>GPS with A-GPS; Digital compass</paragraph>
+			<paragraph>Fingerprint scanner that doubles as a power key</paragraph>
+			<paragraph>16GB storage; expandable via a microSD slot</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v2.1 with A2DP</paragraph>
+			<paragraph>standard microHDMI port</paragraph>
+			<paragraph>Smart and voice dialing</paragraph>
+			<paragraph>Office document editor</paragraph>
+			<paragraph>Active noise cancellation with a dedicated secondary mic</paragraph>
+			<paragraph>DivX/XviD video support</paragraph>
+			<paragraph>Lapdock and HD Dock versatility</paragraph>
+			<paragraph>Web browser with Adobe Flash 10.2 support</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Not the latest Android version</paragraph>
+			<paragraph>No FM radio</paragraph>
+			<paragraph>Screen image is pixelated upon closer inspection</paragraph>
+			<paragraph>Questionable placement of the Power/Lock button</paragraph>
+			<paragraph>Poor pinch zoom implementation in the gallery</paragraph>
+			<paragraph>No dedicated shutter key</paragraph>
+			<paragraph>Doesn?t operate without a SIM card inside</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It was the alliance with Android that put Motorola out of the woods. Like every partnership, it?s been a series of peaks and dips but every now and then the relationship between Motorola and Android goes beyond a mere marriage of convenience and well into a simmering love affair.</paragraph>
+			<paragraph>They did it with the MILESTONEs and the DROID X, the BACKFLIP and the DEFY. With the ATRIX 4G, Moto says it has no plans to live in the shadows of other big makers.</paragraph>
+			<paragraph>The Motorola ATRIX 4G is the first dual-core smartphone in the Motorola line-up. It?s also the first to flaunt a qHD touchscreen. That?s as solid as credentials get. Add the fact it?s the first handset for Motorola to support the fast HSDPA+ network (hence the 4G moniker) and you?ve got yourself a Droid that?s not afraid of what comes next.</paragraph>
+			<paragraph>Dual core is certainly the next big thing in mobile phones and the Motorola ATRIX deserves credit for being among the first ? our bad really, this review isn?t exactly on time.</paragraph>
+			<paragraph>But there are other bold decisions that Motorola had to make. The HD and laptop docks for one ? though the concept is not exactly original, Motorola is trying to make it mainstream. The added fingerprint scanner is not new either but well forgotten old does just as well. Plus, it will satisfy the privacy freak in all of us.</paragraph>
+			<paragraph>Anyway, the standard package is what we?re interested in and this is what our review will focus on. The optional extras can wait. The ATRIX is more important to us a phone (a dual-core smartphone, to be precise) than a wannabe laptop or a potential entertainment dock. Let?s waste no more time and take a glimpse of the ATRIX 4G?s key features.</paragraph>
+			<paragraph>The ATRIX 4G is certainly the most powerful phone Motorola has made so far. With a 1GHz dual-core processor, 1GB worth of RAM and the ultra low power GeForce GPU under its hood, the ATRIX 4G is set to win the hearts and minds of power users.</paragraph>
+			<paragraph>Garnish all this premium hardware with a 5MP camera with dual LED flash and a 4-inch capacitive touchscreen of qHD resolution of 540x960 pixels, and the ATRIX 4G is more than ready to play with the other dual-core kids.</paragraph>
+			<paragraph>As for us, we are about to take a closer look at the design and build of the phone and find out if it matches the premium hardware that resides within.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The Motorola ATRIX 4G retail package<subsectionTitle>
+			<paragraph>Let?s start with a peek at what the ATRIX 4G has in the way of standard accessories. Along with the handset itself, you will find the two-piece charger-data cable.</paragraph>
+			<paragraph>A great addition to the otherwise routine accessory pack is the HDMI cable, which should save users some cash. Unfortunately, there is no microSD card, nor stereo headphones. Needless to say, the other big accessories ? the HD multimedia dock, the laptop dock and the standard dock ? are all sold separately.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Motorola ATRIX 4G 360-degree spin<subsectionTitle>
+			<paragraph>Measuring 117.8 x 63.5 x 11 mm, the Motorola ATRIX 4G is quite compact for a 4? handset. It feels very comfortable to hold in hand and the big 4? screen doesn?t preclude single-hand operation.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display test<subsectionTitle>
+			<paragraph>The front of the handset is mainly occupied by the massive 4.0? qHD display with a resolution of 560 x 940 pixels. The capacitive touchscreen has great response with crisp and vibrant colors indoors.</paragraph>
+			<paragraph>Unfortunately, despite the higher resolution, the ATRIX 4G renders the Android graphics (icons, text and such) rather pixelated when looking at it up close. A bit more digging reveals the culprit - a PenTile matrix.</paragraph>
+			<paragraph>It's an RGBW matrix, which mixes in a white subpixel, but at the cost of fewer subpixels in total (2 subpixels per pixel rather than 3). For example, the HTC Desire S screen definitely looks smoother even though it technically has a lower pixel density than the Atrix 4G.</paragraph>
+			<paragraph>Despite that shortcoming, judging from our display test, the brightness of the screen is one of the highest we?ve seen - the white subpixel is obviously very beneficial. Contrast ratio levels are okay for an LCD, but not as good as a Super AMOLED. You can find more information on your display test here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Motorola ATRIX 4G isn?t likely to stand out among midrange smartphones ? it?s entirely made of plastic and somewhat lacking in imagination. But that?s one way to look at it. We felt it quite close to the Motorola Defy in terms of styling ? which is to say sober and reliable. A smart way to place the emphasis where it?s due, on the powerful internals.</paragraph>
+			<paragraph>While there is nothing fancy going on at the front of the ATRIX 4G ? not counting the 4? qHD touchscreen ? the back is where Motorola got wild. Well, sort of.</paragraph>
+			<paragraph>Although the big Gorilla Glass-protected screen and the high performance hardware imply otherwise, the all-plastic ATRIX 4G weighs in at the perfectly manageable 135 grams.</paragraph>
+			<paragraph>At the top of the device you?ll find the power/lock button, which doubles as a fingerprint scanner. If it were a mere button, we wouldn?t be too happy with the location ? it?s not in the usual place to say the least. But as a fingerprint scanner, it?s in a very comfortable position for your index finger.</paragraph>
+			<paragraph>The Motorola ATRIX 4G can take several fingerprint scans to use as enhanced screen lock security. The feature is optional and you?re prompted to set a recovery PIN, in case you need to override the fingerprint unlock.</paragraph>
+			<paragraph>It?s a neat option but nothing more. Nor is it truly a first in the smartphone world ? think Acer M900, Toshiba G900. It?ll cool enough the first couple of times you show it to your friends.</paragraph>
+			<paragraph>Above the display we find a status LED which lets you know when the battery is done charging. Next to it there is a proximity sensor which takes care of locking the touchscreen during calls and an ambient light sensor for adjusting the brightness of the display. Next to them are the earpiece, the Motorola logo and the front-facing VGA camera good for video calling.</paragraph>
+			<paragraph>Underneath the display are the traditional four capacitive keys in charge of Android navigation: contextual menu, Home key, Back and Search.</paragraph>
+			<paragraph>The left side of the handset is very tidy, only featuring two connectivity ports: microUSB and microHDMI. The microUSB port is used for both charging and data connections.</paragraph>
+			<paragraph>The right side of the ATRIX 4G features the volume rocker only. It feels solid to the touch and is comfortable to reach. There?s no dedicated shutter key on this phone.</paragraph>
+			<paragraph>The bottom of the Motorola ATRIX 4G is completely bare, the mouthpiece is facing front right beneath the capacitive buttons.</paragraph>
+			<paragraph>The back on the other hand is rather interesting. The distinctly patterned back cover resembles carbon fiber finish and at the bottom is the MOTOblur logo. A 5MP lens is placed in the top left corner, along with a dual LED flash.</paragraph>
+			<paragraph>The loudspeaker grill is at the bottom, designed to match the rough heavy duty looks of the phone.</paragraph>
+			<paragraph>Removing the battery cover reveals the hot-swappable microSD card slot, the SIM card compartment and the seriously large 1930mAh battery. Motorola quotes it at up to 400h of standby in 2G and 50h less in 3G mode. As to actual phone calls, the ATRIX 4G promises the pretty decent 9 hours.</paragraph>
+			<paragraph>In moderate to heavy use, the ATRIX 4G barely lasted two days but Androids are a power-hungry crowd. For the time of this test we did some gaming, we took the usual load of photos, and we browsed the web over Wi-Fi for about an hour per day.</paragraph>
+			<paragraph>The build quality of the ATRIX 4G is solid, the styling subtle. There could?ve been some metal on the body, but the phone isn?t bad in an all-plastic body. The ATRIX 4G is well put together using quality materials .</paragraph>
+			<paragraph>As far as design goes, the ATRIX 4G looks perfectly acceptable to both youngsters and mature business users. The ATRIX 4G is comfortable to hold and operate singlehandedly, but also very pocket friendly.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Moto-blurred Froyo on top<subsectionTitle>
+			<paragraph>The Atrix 4G comes with Android 2.2.1 Froyo preinstalled, which Motorola has dressed-up with its social network-integrated MOTOBLUR UI. It gives you an extra fast way to connect with people in social networks, send messages and read status updates and call friends directly through the homescreen.</paragraph>
+			<paragraph>The increased qHD resolution of the Motorola Atrix 4G makes the whole UI look smaller than on WVGA handsets. Unfortunately, that doesn?t mean we can?t still see the pixels.</paragraph>
+			<paragraph>The menu section now holds 6 rows, instead of 4 or 5. This also means that you?ll be able to fit more widgets in the same space.</paragraph>
+			<paragraph>Here?s a video demonstration of the MOTOBLUR UI on the Motorola Atrix 4G.</paragraph>
+			<paragraph>The notification area swipes down from the top, as usual. Unlike those from competing manufacturers, this one doesn?t have any quick shortcuts ? that?s a bummer.</paragraph>
+			<paragraph>You can get a preview of all seven homescreens, from which you can quickly jump to any of those however it doesn?t work with pinching; you get to this feature by opening the homescreen context menu.</paragraph>
+			<paragraph>Motorola hasn?t drastically changed the Android look, unlike Samsung did with the Galaxy S II. The UI feels generally the same and navigating it has remained on the same principle.</paragraph>
+			<paragraph>Though MOTOBLUR has distinguished the looks from the stock Android. There are many widgets, most of which are small and can be placed anywhere on any screen.</paragraph>
+			<paragraph>Choosing and placing a widget on the homescreen is easy as usual. When scrolling through the homescreens, a navigation bar at the bottom allows you to jump from screen to screen by swiping it with a finger. The nice vibration feedback adds an extra appeal to it.</paragraph>
+			<paragraph>The custom widgets on the Atrix 4G are designed to be versatile and can be made to fit almost anywhere on the screen. There are the usual widgets and some social network-oriented ones.</paragraph>
+			<paragraph>Widgets can be resized freely, not to mention moved around and rearranged. All you need to do is hold a finger over a widget to get these options. Resizing a widget also changes its appearance. Depending on the widget, it can show you more or less info when resized.</paragraph>
+			<paragraph>For example, the weather widget can show you only the current temperature in the city you?re in. When made bigger, it will also show you the highest and lowest temperature for the day.</paragraph>
+			<paragraph>The same goes for the Time and date widget, which, while small, shows you the basic information, but once bigger, it gets you a whole calendar with a bigger font and view.</paragraph>
+			<paragraph>MOTOBLUR pioneered this solution and now even Samsung are taking cue (we?re looking at you, Samsung Galaxy S II).</paragraph>
+			<paragraph>You also get the full set of Android widgets available on the Atrix 4G. You can select any one of them, but you cannot resize them like the Motorola ones.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic Benchmarks: NVIDIA Tegra 2 performance<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G is the second TEGRA 2 phone to come to our office. It offers double the RAM of the LG Optimus 2X so it should, in theory, be faster.</paragraph>
+			<paragraph>The Samsung Galaxy S II is another dual-core phone, which we?ve had the pleasure to test, but it?s processor was only clocked at 1GHz as opposed to the 1.2GHz that the retail version will have. Initial hands-on reports suggest that the clock increase provides a performance yield of additional 25% in synthetic benchmarks.</paragraph>
+			<paragraph>Also the Atrix 4G offers a resolution of 540x960 resolution, while the Optimus 2X and Galaxy S II both have 480x800 screens. Fewer pixels on the screen require less processing power, so hence they should have a slight upper hand.</paragraph>
+			<paragraph>Synthetic benchmarks are far from the real deal. And whatever hardware your device is using, the software implemented inside is important too. The Galaxy S II is the only contender here, using the latest Android 2.3.1 Gingerbread, the Atrix 4G and Optimus 2X are still stuck on version 2.2.1 Froyo.</paragraph>
+			<paragraph>Having a dual-core chip and double the amount of RAM does make a difference in day-to-day usage. There?s no slowing down or lagging even as the system starts piling up with active applications; battery management is hopefully better too.</paragraph>
+			<paragraph>Now with all those things in mind lets move on to the benchmarks.</paragraph>
+			<paragraph>The Atrix 4G did exceptionally well on Quadrant with 2751 point, which is higher than both 1GHz Galaxy S II and the LG Optimus 2X.</paragraph>
+			<paragraph>At Linpack the Atrix 4G outdid the Optimus 2X slightly but fell short of the 1GHz Galaxy S II.</paragraph>
+			<paragraph>At BenchmarkPi the Atrix 4G is in second place, followed by the Galaxy S II at third, while the Optimus 2X is first.</paragraph>
+			<paragraph>Finally, at Neocore the LG Optimus 2X wins by a large margin over the Galaxy S II and the Atrix 4G is in last position. Now we've talked about this before ? the Galaxy S II probably has some artificial cap here (none of its results went over 60 fps).</paragraph>
+			<paragraph>Motorola Atrix 4G has the exact same GPU chip as the Optimus 2X. But with the higher resolution of its display, it can?t compete with its Tegra 2-powered competitor.</paragraph>
+			<paragraph>Finally, we tested the Motorola Atrix 4G with Smartbench and it did well. It outperformed the bigger Xoom tablet by a slight margin. The Atrix 4G fell a little short of the Samsung Galaxy S II in terms of productivity, but was able to beat it on the games index.</paragraph>
+			<paragraph>Now all of these synthetic benchmarks aside, the Atrix 4G performs great and is blazing fast, as you might expect. So you shouldn?t throw all your attention on these numbers above as they only represent the statistical side of things.</paragraph>
+			<paragraph>In real life the Motorola Atrix 4G ran smooth and buttery throughout most tasks, we?d throw at it. And no matter whether it?s the best, second best or somewhere in the middle of the most powerful devices out there in terms of benchmarks ? the Atrix 4G feels high-end and doesn?t disappoint.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook has socializing in its blood<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G phonebook can store practically unlimited amount of numbers and contacts plus you can store various details about individual contacts.</paragraph>
+			<paragraph>You can also integrate your contacts with Facebook and check their status updates directly from the phonebook. This is great, but MOTOBLUR doesn?t exactly pioneer it, as it can be found on devices like the HTC Desire and the Samsung Galaxy S, so it?s really nothing new though it?s a nice to have it.</paragraph>
+			<paragraph>You can add new phonebook fields besides the preset ones. There?s no limit to the fields you can add to a contact.</paragraph>
+			<paragraph>When viewing the contact list, you can swipe left to reveal the History ? a list of all recent communications with all contacts. Alternatively, a right swipe displays all recent status updates from all contacts.</paragraph>
+			<paragraph>This swipe magic is available when viewing individual contacts too ? in this case, only history and status updates for that contact are displayed.</paragraph>
+			<paragraph>For this to work, you have to link the contact with their Facebook, Twitter, MOTOBLUR address book or Gmail accounts. This gets done in a second ? tap the menu key, Link contact and pick the appropriate account (those are pulled automatically from the services you?re logged on to).</paragraph>
+			<paragraph>The phonebook shows MOTOBLUR at its best ? blurring the distinction between ?local? and ?online? and putting all the info from all the sources at your fingertips.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony has Smart dialing<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G had no problems with holding on to a signal. And we didn?t have any reception issues while in a call.</paragraph>
+			<paragraph>The Atrix 4G features the CrystalTalk technology. It makes use of a secondary microphone on the back of the phone to clear any background noise and a primary one to focus on your voice. In practice it works great. You can set the noise suppression to be normal, high or low.</paragraph>
+			<paragraph>We had some issues with the earpiece of the Atrix 4G. When you dial up the earpiece volume to maximum it would make crackling sounds. It was very annoying and we had to lower the call volume by 2-3 points.</paragraph>
+			<paragraph>The Smart dialing feature comes with the Atrix 4G, which is great as it spares you the time to go into your phonebook to find a contact or going to the specific contact widget.</paragraph>
+			<paragraph>Voice commands are here too, just like with the tougher DEFY. They can be used to dial, send message and so on, but aren?t the best around.</paragraph>
+			<paragraph>The Atrix 4G lacks the turn-to-mute a call function of the DEFY but has the tap-to-snooze the alarm function.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test on the Motorola Atrix 4G. The handset rated as Good, so it stands right in the middle in terms of loudness. You shouldn??t have issues hearing it it even in louder environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging has Swype<subsectionTitle>
+			<paragraph>All types of text communication are handled in the Messaging app. It combines a unified inbox, standard text messaging, Gmail, Facebook and Twitter. It?s all part of the social MOTOBLUR UI.</paragraph>
+			<paragraph>The SMS and MMS department is pretty much your ordinary Android ? threaded messaging is enabled and the message composer has a neat and simple interface.</paragraph>
+			<paragraph>When viewing a thread, the newest message is placed at the bottom and messages are displayed as speech bubbles, just like on the iPhone. Unlike the dialer, the recipient field in the compose message UI has ?smart search? ? start entering the name of the contact and suggestions will show up immediately.</paragraph>
+			<paragraph>The tap-to-compose box starts off with a single line but it will expand to three lines if needed. It won?t expand any more than this. It would have covered the received messages if it did anyway.</paragraph>
+			<paragraph>A press-and-hold in the tap-to-compose area gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc.</paragraph>
+			<paragraph>Converting an SMS to MMS is logical and easy. When you add multimedia content to the message, it is automatically turned into an MMS. You can just add a photo or an audio file to go with the text or you can choose to go into a full-blown MMS editor, depending on your needs.</paragraph>
+			<paragraph>Email is part of the Messaging app too. It?s a must-have for every self-respecting smartphone out there and the Motorola Atrix 4G doesn?t disappoint.</paragraph>
+			<paragraph>For email there are the Gmail app and the standard Android email app. In Gmail batch operations are supported and allow multiple emails to be archived, labeled or deleted. You can enable push email or schedule automatic updates. There?s an option to sync only over Wi-Fi, which is sure to save you data charges.</paragraph>
+			<paragraph>For text input on the Motorola Atrix 4G you get two options - the standard Motorola QWERTY keyboard, which is great, is the first option and the Swype keyboard, which uses a swiping technology to increase writing speeds.</paragraph>
+			<paragraph>Swype isn?t everybody?s first choice but can be very useful if you?re writing in English. You swipe through the keys in the word you?re trying to type and when you?re done Swype detects the word or several words and gives you a choice of picking one.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>MOTOBLUR?red Gallery<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G comes with the gallery, seen in the XT720, the Milestone 2 and the DEFY. It looks good and has basically the same functionality as the standard Android gallery, save for the downsizing of images, which is spared here.</paragraph>
+			<paragraph>Pictures are stacked into albums just as with the stock Android gallery. In terms of eye candy Motorola has done a good job, providing cool simple looks, fluid navigation and a 3D landscape mode, where you can view your photos in a sort of cover flow manner.</paragraph>
+			<paragraph>What we didn?t like on the Motorola Atrix 4G is the laggy pinch zooming and the pictures themselves take way too long to process at every zoom level . There?s absolutely no smoothness effect added to zooming using multi-touch and that?s a real downer when you consider that the phone has a dual-core processor and ample amount of RAM, along with a good graphics card inside.</paragraph>
+			<paragraph>On the positive side, double tap works great. And also the stock Android gallery (available for free from the Android market) offers a much smoother ride.</paragraph>
+			<paragraph>You can quickly upload photos to your Facebook and other accounts straight through the gallery ? yet another social feature of the MOTOBLUR UI, implemented in the gallery.</paragraph>
+			<paragraph>Sharing photos through the Atrix 4G gallery is done the same way as in the standard one just hit the menu button and select share. You get the same Bluetooth, Email, Gmail, Picasa, Text messaging and Photo sharing, which is a function added by MOTOBLUR to sync with your Facebook, MySpace, Picasa or Photobucket account.</paragraph>
+			<paragraph>There?s also an edit functionality built right into the Atrix 4G gallery. You can edit or add custom tags to your photos or edit the photo itself.</paragraph>
+			<paragraph>Editing is pretty basic, but allows you to rotate, crop, add effects, one-click optimizing, which enhances the colors of the picture, set brightness, color, flip or resize. It?s no Photoshop substitute but does the job good enough for a basic editor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player supports XviD and DivX<subsectionTitle>
+			<paragraph>The video player on the Motorola Atrix 4G is pretty basic in looks but add the support for XviD and DivX and FullHD mp4 video playback, and you know it means business.</paragraph>
+			<paragraph>It offers the same UI as the gallery and the same 3D landscape view.</paragraph>
+			<paragraph>We tried some DivX and XviD movies on it and they played smoothly and there was no trouble in opening them. FullHD 1080p videos also ran great on the Atrix 4G with no dropped frames hiccups whatsoever. All these serious video capabilities combined with the large 4-inch display, make the Atrix 4G a capable portable player (and not so portable too, with the multimedia dock).</paragraph>
+			<paragraph>We have to admit the options in the video player are limited to scrubbing the clip forward and backward and toggling between the original ratio or a cropped fullscreen version. No brightness settings or anything more complex has made its way in. This makes the experience a little more generic and doesn?t exactly scream multimedia, but it?s nothing to fuss about, just download a decent video player from the Android Market and you?re good to go.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Average music player<subsectionTitle>
+			<paragraph>Strangely enough the music player on the Motorola Atrix 4G isn?t the MOTOBLUR one, like in the DEFY. It?s a basic player close to the one the original Milestone.</paragraph>
+			<paragraph>The number of supported formats is good, including MP3/WAV/WMA/eAAC+ so you?re pretty much set for listening to music on the Atrix 4G.</paragraph>
+			<paragraph>It organizes your music into artists, albums, genres, songs and playlists. The music you have on your SD card is automatically detected and imported alphabetically into the music app.</paragraph>
+			<paragraph>The cool features like automatic album art and lyrics download aren?t available here. Nor did the feature that lets you see other people around the world, listening to the same track as you. It?s a disappointment and we can?t, for the life of us, understand why the Atrix 4G is left out of these cool features. Perhaps it?s because we?re using the 4G version for AT&amp;T? We certainly hope the European version will be different. We?ll just have to check up on this later on.</paragraph>
+			<paragraph>The Now playing screen gives you the Artist, song and album information to the track you?re currently listening to. You also have the shuffle, repeat and audio effects options, just under the Album art of the song.</paragraph>
+			<paragraph>There are the play/pause virtual controls and the song timeline scrub bar. The Now playing screen works in landscape mode too but it doesn?t offer an expanded album art or anything like that.</paragraph>
+			<paragraph>Popping the context menu up gives you the choice to go to library, enable party shuffle, add the current song to a playlist, use it as a ringtone and delete it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent audio quality<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G audio output is pretty good, as is to be expected from a device in this price range. However Motorola seems to have allowed for its volume levels to be pushed beyond what the smartphone can actually handle when there are no headphones attached.</paragraph>
+			<paragraph>If you punch in the volume level all the way up when you are connected to an active external amplifier you get really loud output but with loads and loads of distortion, which is not quite ideal.</paragraph>
+			<paragraph>That's why you would be better off lowering the volume a couple of steps down - you will be enjoying some of the cleanest output we have ever seen. The Atrix 4G won't be one of the loudest devices around, but it scored greatly in every part of our test.</paragraph>
+			<paragraph>When headphones come into play the volume is automatically limited so there's nothing to worry about. There's a notable increase in the stereo crosstalk and some intermodulation distortion creeps in, but those are hardly detectable in real life scenarios.</paragraph>
+			<paragraph> Motorola Atrix 4G frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Premium connectivity<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G comes with the full suite connectivity. It offers quad-band GSM/GPRS/EDGE and quad-band HSDPA, whereas the global version of the Atrix offers only tri-band HSDPA, both capable of speeds up to 14.4 Mbps HSDPA and 5.76 HSUPA.</paragraph>
+			<paragraph>The local connectivity features include Wi-Fi a/b/g/n (with DLNA support), Bluetooth 2.1 with A2DP and a microUSB port. Also the mobile hotspot functionality is present with the Atrix 4G.</paragraph>
+			<paragraph>There?s a microSD card of course, and if you need to do bulk data transfers then using this will be faster than over USB.</paragraph>
+			<paragraph>The Phone portal app however was the most impressive part of the connectivity package. It practically lets you browse the phone?s contents on your desktop browser. You can connect over USB or via Wi-Fi ? once you start it, the Atrix will give you an IP address to type in the computer?s browser and you?re good to go.</paragraph>
+			<paragraph>You can even password-protect the connection. From then on, you can browse photos and files (the file browser works only with Internet Explorer though), adjust settings and also manage contacts ? including composing and sending messages.</paragraph>
+			<paragraph>The idea is great ? you don?t always need the full functionality of a PC Suite (the Phone portal can do quite a bit) and you can?t always have the PC Suite installed on the computer you?re using.</paragraph>
+			<paragraph>Samsung has a similar solution on the Galaxy S II, it?s called the Kies Air. We already previewed it and we?re rather happy how it works there too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Webtop and HD dock options<subsectionTitle>
+			<paragraph>Moto clearly understands that it?s a fast paced tech world we live in. That?s why owning laptops, desktops and tablets all at the same time seems just too much for the regular Joe. Motorola came up with the ingenious idea to wash away the line between all these products and make one that could easily act like all of them combined.</paragraph>
+			<paragraph>The Motorola ATRIX 4G manages to shoot two rabbits with just one bullet. At first sight it?s this pocket-friendly dual-core smartphone, but put it into one of the special docks and it becomes a totally different animal.</paragraph>
+			<paragraph>The Laptop Dock transforms the ATRIX 4G into a fully-fledged netbook. The Laptop Dock looks just like a laptop, but behind the 11.6-inch LCD backlit monitor, there?s a special place for the ATRIX 4G to dock onto. The dock itself is a true example of the ?what you see is what you get? paradigm. It only comes with a keyboard, a touchpad, a screen and a 36Wh battery, that will keep the thing going for 8 hours. There?s no other hardware to power it around except the ATRIX 4G?s dual-core prowess.</paragraph>
+			<paragraph>The other intriguing dock ? the HD Multimedia dock ? is used mainly to connect the ATRIX 4G to a larger screen HD monitor or television set. The HD Dock comes bundled with a Bluetooth keyboard, a mouse and a remote control. Both docks feature two USB ports, so anything from flash drives to keyboards and mice can be attached with no hassle.</paragraph>
+			<paragraph>And finally, the Regular Dock is just like the Multimedia one but without the cool accessories.</paragraph>
+			<paragraph>Docking the ATRIX 4G to any of the three docks automatically launches the Webtop application on the connected external screen. Behind that fancy name, it?s a Linux distribution, which packs some useful features. For example, you can send messages, call contacts, watch videos and even browse the web using a full version of the Firefox web browser.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great web browser with Flash<subsectionTitle>
+			<paragraph>The web browser on Android Froyo devices has always been a good one, we already know that. On the Motorola Atrix 4G is even packs Flash support for a closer-to-desktop experience.</paragraph>
+			<paragraph>The browser UI is minimalist, it?s how Google intended it, All you have on the screen, apart from the webpage is the address bar and bookmark icon. When you scroll down they disappear.</paragraph>
+			<paragraph>If you hit the menu key six new virtual buttons pop up. You can open a new tab, bookmarks, switch tabs, refresh the page, and go forward. The last button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>The Atrix 4G supports two zoom methods in the browser: double tap and the multi-touch pinch zooming. Both seem fluid and fast. Unfortunately, when you zoom in the text doesn?t reflow to fit the screen and you have to scroll sideways to read the text.</paragraph>
+			<paragraph>The Atrix 4G browser supports Flash and thanks to all that computing power inside you can even watch embedded 720p videos straight from within the web browser. Playing Flash games is great too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Social MOTOBLUR in action<subsectionTitle>
+			<paragraph>The MOTOBLUR UI used over the Android 2.2 interface is great at combining social integration with the phone?s features.</paragraph>
+			<paragraph>We?ve already showed you the social implementation in the messaging app, the phonebook and gallery.</paragraph>
+			<paragraph>There?re also live widgets with social updates in mind, which you can directly place on your homescreen, to keep you up to date.</paragraph>
+			<paragraph>The first one is Social Networking. It can display status updates from all your social networks (or just the ones you pick) and it can be used to set your status on some or all social networks.</paragraph>
+			<paragraph>The Messaging app has support for both Facebook and Twitter. Its main job is sending messages between contacts more than posting general status updates.</paragraph>
+			<paragraph>The interface looks deceptively similar to the SMS messaging UI. It displays conversations in threaded view, with speech bubbles when viewing a single thread.</paragraph>
+			<paragraph>Then there?s the Social Status widget, which lets you post statuses directly from your homescreen to social networks you?ve selected. It?s a more dedicated status-setting app/widget that the Social Networking one.</paragraph>
+			<paragraph>The Status? live folder is here ? it?s small and space efficient, but when you tap it, it expands to fill the screen with the latest status updates from your preferred social networks.</paragraph>
+			<paragraph>Overall the social networks integration of the MOTOBLUR UI is strong and very useful if you?re into all that stuff. It can save you a lot of time and trouble if you?re constantly checking and updating your profile and preferred network.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Average camera, at best<subsectionTitle>
+			<paragraph>The camera on the Motorola Atrix 4G is a 5 megapixel one, capable of capturing pictures of 2592x1944 resolution. You get a dual LED flash for night photography, which doubles as a video light and a flashlight, combined with the right app, that is.</paragraph>
+			<paragraph>The camera UI is very simple, with a viewfinder, virtual capture button and a preview box in the lower left corner and resolution indicator along with the number of shots available.</paragraph>
+			<paragraph>Settings-wise the Atrix 4G offers just the basics ? resolution, review time, storage location and capture tone. Plus you get special effects such as black and white, negative, sepia and solarize. The Scenes option allows you to go for Auto, Portrait, Landscape, Sport, Night or Macro shot.</paragraph>
+			<paragraph>There?s no sign of more advanced settings such as ISO, white balance, focus (manual or touch), stabilization, or face detection are left out.</paragraph>
+			<paragraph>You can also choose to use the front facing VGA camera but we would recommend it, as it?s only good for a crappy self-portrait every once in a while.</paragraph>
+			<paragraph>Custom tags are a handy feature to keep photos organized ? you can add a tag, say ?outdoors? and it will remain active between sessions until you delete it. Adding and removing tags is fast and easy. There?s an automatic location tag too.</paragraph>
+			<paragraph>Now, moving on to the actual photos produced by the Atrix 4G ? they?re only average. Colors look washed out and noise levels are high (even for a mobile phone). Unfortunately, the camera gets the white balance wrong most of the time so we had a really hard time picking keepers for our samples - most shots have a strong green tint. The only thing that's okay about the photo quality is the relatively nice level of resolved details (that could use some sharpening) and the contrast, which is fine too.</paragraph>
+			<paragraph>Now the white balance thing is obviously a software issue and we hope it can be fixed in a future update but Motorola is not really known for its timely software updates even for flagship products.</paragraph>
+			<paragraph>Here are the best camera samples we took home:</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>You can check out the Motorola Atrix 4G over at our photo quality compare tool. Just click on one of the images to check out the full page.</paragraph>
+			<paragraph>As you'll see the level of resolved detail is generally fine but the greenish tint ruined the Color poster for us. The iPhone gets most things nice and sharp in contrast with the Atrix 4G but it's probably the sharpest 5 megapixel cameraphone we've seen so the Atrix is actually doing fine as far as these snappers go.</paragraph>
+			<paragraph>   Motorola Atrix 4G in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>No FullHD video recording just yet<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G can record HD video at 720p resolution. This is it for now, but a future update should fix this and enable 1080p video capture.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Atrix 4G videos are actually really nice. You get smooth framerate and nice detail levels. The colors are perhaps oversaturated but that's a matter of personal taste.</paragraph>
+			<paragraph>We can't wait to see what the 1080p video recording mode will be like.</paragraph>
+			<paragraph>Anyway here?s a 720p video sample, captured by the Atrix 4G for you to check out.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download an untouched version of the video sample above.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality compare tool<subsectionTitle>
+			<paragraph>Check out the Motorola Atrix 4G in our video compare tool. You can pit it against other phones in this class to get an idea of where the Atrix 4G stands.</paragraph>
+			<paragraph>You will notice it's easily on par with the nice videos from the Nokia C6-1 and C7 and it's also better than the Galaxy S.</paragraph>
+			<paragraph>   Motorola Atrix 4G in the Video Compare Tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer<subsectionTitle>
+			<paragraph>Like most droids siblings, the Motorola Atrix 4G comes with a rich set of organizer features and a document viewer out of the box. Not that snatching one off the Android market is impossible but it?s nice of Moto to have saved you the effort.</paragraph>
+			<paragraph>Quickoffice is their app of choice and it has support for viewing document files (Word, Excel, and PowerPoint). For editing, you will need to upgrade to the paid version though and there?s no support for PDF.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The best part about it is that the viewer integrates with the Gmail app as well, which makes viewing attachments easy. Unfortunately, you are unable to save them to the phone memory (that only works for images, we guess). Attaching saved files (and we mean all kind of files) is possible though.</paragraph>
+			<paragraph>The calendar has four different types of view - agenda, daily, weekly and monthly. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder. It is also integrated with the status bar and also offers pop-up notifications.</paragraph>
+			<paragraph>The calculator is nicely touch optimized ? the buttons are big enough and easy to hit.</paragraph>
+			<paragraph>The Atrix 4G features a decent alarm clock application which allows a huge number of alarms to be set, each with its own start time and repeat pattern.</paragraph>
+			<paragraph>There?s a file manager on board, as well. It?s nothing groundbreaking but functional.</paragraph>
+			<paragraph>The Android Market is here, naturally. The Atrix 4G runs the latest version of the market with the revamped look. The structure of the Android Market is quite simple ? featured apps on top and three buttons (Applications, Games and My apps). There is also a shortcut up there for initiating a search.</paragraph>
+			<paragraph>The Applications and Games sections are divided into subsections (e.g. Communication, Entertainment etc.) so you can filter the apps that are relevant to you. Of course, there is also an option of displaying them all in bulk, but you?ll probably need days to browse them all that way.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+			<paragraph>The YouTube app is here too. It?s a more dedicated substitute to watching videos straight in the web browser.</paragraph>
+			<paragraph>Finally, we have the Task Manager. It?s a very basic one and far from the propriety Task Manager, used in Samsung Android phones. It will show you the current running services and an option to set auto-closing of some applications.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps will navigate you on your way<subsectionTitle>
+			<paragraph>The Motorola Atrix 4G comes with a GPS receiver and A-GPS technology. It locked to a satellite in about a minute and had no problems from then on.</paragraph>
+			<paragraph>Google Maps is the app of choice and its Street View mode is probably the best part of the deal in regions where turn-by-turn voice navigation isn?t yet offered. If the Street View is available in the area you're interested in, you can enjoy a 360-degree view of the area. When the digital compass is turned on, it feels like making a virtual tour of the surroundings!</paragraph>
+			<paragraph>Choosing directions in Google Maps is very easy and so is the interface of the application. It gives you turn-by-turn navigation with voice commands in about 5-to-10 countries in the world. So the best you can do is plan a route in advance and keep an eye on your current location during travel.</paragraph>
+			<paragraph>You could just look in the Android Market ? it will offer both free and paid alternatives, which can do more than just voice-guided navigation. Some apps can record GPS data, training apps keep track of your lap times and so on.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final Words<subsectionTitle>
+			<paragraph>It seems Motorola is coming back strong into the mobile game. Once the leader in phone manufacturing, it has the pedigree and experience. But that was a long time ago, long before Android was even on the drawing board and things have changed since then.</paragraph>
+			<paragraph>Android seems to be the go-to smartphone OS these days. And Moto has been doing great at using the opportunity. And the Atrix is its best attempt yet.</paragraph>
+			<paragraph>Dual-core processing, ample amount of RAM, biggest resolution on a droid to date and the custom MOTOBLUR UI are all ingredients, which give the Atrix 4G a pass to the highest of high-end.</paragraph>
+			<paragraph>Let?s have a look at who else is at the top.</paragraph>
+			<paragraph>The Samsung I9100 Galaxy S II is Sammy?s top dog at the moment and it delivers some tremendous multimedia capabilities. It matches the Atrix 4G on hardware and even takes the stakes higher with a much better 8 MP camera and 1080p video recording, Android 2.3.1 Gingerbread and not to mention the bigger SuperAMOLED Plus display, which really knocks all other droid screens out of the park. It?s priced around ?560 so it?s a tad pricier than the Moto flagman, which is around ?440, but you?ll be getting a much more mature smartphone.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Next up is the LG Optimus 2X, which equals the Atrix 4G in sheer processing power and display size. In terms of imaging the Optimus 2X is the stronger contender with a far more advanced 8 MP shooter on the back and 1080p video recording. The UI customizations added by LG are quite good too. It?s already on the market and can be yours at around ?400, which is a bargain.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The HTC Sensation is coming soon to the market too and should probably have an entry price of about ?600. It features the latest 1.2 GHz Snapdragon processor, next generation Adreno 220 graphics, matching qHD (540x960) resolution on the S-LCD 4.3-inch display and the latest version 3.0 of HTC Sense. The 1080p video recording and latest Android version are covered too.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Sony Ericsson seem to finally have a true leader - the XPERIA Arc. It?s priced at ?440 and offers a bigger (and better) display, a much better camera and home-brewed customizations to the latest Android version ? 2.3.1. Plus it?s slim and refined. It does fall short of the Atrix 4G?s brute hardware force, though.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Finally, we decided to give one of our Hall-of-famers a respectful nod here. The Samsung I9000 Galaxy S is still a great performer, offers a much better SuperAMOLED display (resolution aside), a good camera, the latest Android Gingerbread and Samsung?s propriety TouchWiz 3.0 UI. And when you look at the price tag of around ?360 there?s hardly anything left to say. The original Galaxy S is the perfect smart droid for those on a budget looking for the ultimate bang-for-buck.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Well this is it. The Motorola Atrix 4G walked our death course and lived to tell the story. We didn?t like a couple of things about this droid, but they?re the usual Motorola shortcomings - the crappy camera and the attitude that if you stuff enough of the latest hardware inside you don't have to worry about getting the software right.</paragraph>
+			<paragraph>But you know the old saying ? put your money where your mouth is ? the Atrix 4G does just that. It puts all its bets on the latest hardware and calls itself the most powerful smartphone in the world. Technically, this is kind of true, so enough said.</paragraph>
+		</subsection>
+	</page>
+</review>

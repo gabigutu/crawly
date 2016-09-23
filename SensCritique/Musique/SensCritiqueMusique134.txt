@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Still Brazy</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Still_Brazy/21446308</link>
+	<generalScore>7.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>22</numberOfVoters>
+		<numberOfVoters>75</numberOfVoters>
+		<numberOfVoters>40</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Never see em in the hood, only see em in the clubs</title>
+		<author>DBeV</author>
+		<date>2016-07-10</date>
+		<score>0.7</score>
+		<content>Deuxième album pour YG, jeune MC de Compton (BPT pour les intimes) membre du gang des Bloods, ce qui est assez évident quand on voit la lettre C proscrite partout et la couleur rouge au contraire omniprésente chez lui. Il nous avait déjà sorti un premier projet, My Krazy Life, assez moyen du fait des faibles capacités du MC au mic, des featurings à chier et des instrus de DJ Mustard (on the beat, yo!) toujours plus répétitives; l'album était sauvé par son concept avec un semblant de trame à la Kendrick Lamar et de rares influences G-Funk (quelques leads de temps en temps, un sample de Tha Dogg Pound avec Do It To Ya). N'empêche qu'on pouvait voir l'ambition du gars à savoir de remettre la G-Funk sauce californienne à la mode (on est avec un vrai passionné pas un opportuniste). Cause un peu perdue d'avance, car l'ambiance chill du rap west coast est aux antipodes de la trap nerveuse qui fait actuellement rage sur les ondes. Et pourtant le gars nous livre un compromis entre les deux pas dégueu du tout! Bon ok les textes sont pas très travaillés et les thématiques restent les mêmes (FDT à part) mais niveau flow on se rapproche des idoles de YG avec un ton plus posé et moins trap que sur My Krazy Life. Les instrus aussi sont largement influencées par le son de Dre, plus ou moins mélangées avec des drums récents (Twist my Fingaz en mode pur G-Funk, Don't Come to L.A. beaucoup plus trap) ce qui donne une ambiance carrément west coast tout en étant innovante. D'ailleurs il a bien fait d'envoyer chier Mustard et de choisir des producteurs avec la même direction artistique que lui (DJ Swish, P-Lo, Dr. Dre himself!), ça donne un ensemble beaucoup plus cohérent. Bon voire très bon album, peut être la transition de YG vers un G-Funk total ou alors l'apogée de sa carrière, en tout cas pour moi il se rapproche de son objectif et c'est de mieux en mieux.</content>
+	</review>
+	<review>
+		<title>Still Brazy</title>
+		<author>Victor Blutch</author>
+		<date>2016-07-03</date>
+		<score>0.5</score>
+		<content>Le rap US aura toujours l'avantage sur le reste du monde qu'il bénéficiera toujours de ce complexe de supériorité que sa mythologie charrie. Ainsi ce "Still Brazy", tout aussi moyen soit-il, s'écoute avec un plaisir, moyen mais plaisant.</content>
+	</review>
+</sensCritiqueEntity>

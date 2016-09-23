@@ -1,0 +1,326 @@
+<review>
+	<title>Samsung Galaxy A7 review</title>
+	<description>Alpha leader</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_a7-review-1225.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Super thin (6.3mm) phone with a premium metal frame</paragraph>
+			<paragraph>Both Single SIM and Dual SIM models come LTE-equipped on many markets (Cat. 4 LTE 150/50Mbps)</paragraph>
+			<paragraph>5.5" Super AMOLED of 1,080 x 1,920px resolution, ~401ppi</paragraph>
+			<paragraph>LTE/dual-SIM: Snapdragon 615 64-bit chipset, octa-core Cortex-A53 processor (four cores at 1.5GHz and four at 1GHz)</paragraph>
+			<paragraph>LTE/single-SIM: Exynos 5430 chipset, quad-core 1.8GHz Cortex-A15 and quad 1.3GHz A7</paragraph>
+			<paragraph>2GB of RAM</paragraph>
+			<paragraph>Android 4.4.4 KitKat with TouchWiz, theme support</paragraph>
+			<paragraph>13MP camera capable of 1080p video recording, 5MP front-facing camera, 1080p video</paragraph>
+			<paragraph>16GB of built-in storage</paragraph>
+			<paragraph>Optional Dual SIM version with a nanoSIM slot inside the microSD card slot</paragraph>
+			<paragraph>Active noise cancellation via dedicated mic</paragraph>
+			<paragraph>Wi-Fi a/b/g/n, GPS/GLONASS, NFC</paragraph>
+			<paragraph>2,600mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>It's pricey for the hardware offered</paragraph>
+			<paragraph>No Android Lollipop at launch</paragraph>
+			<paragraph>Non-removable battery</paragraph>
+			<paragraph>Extra SIM and microSD card share a slot, you can't have both in the Dual-SIM version</paragraph>
+			<paragraph>No 2160p video capture or high frame-rate modes</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The original Alpha project wanted no ties with the Galaxy line - which has been all over the place, from entry-level to premium. After a welcome identity boost, the A-series returns home. The Galaxy A7 is at the helm, a slim, light, metal-trimmed phablet to offer an alternative to the Galaxy Note 4 and other premium phablets.</paragraph>
+			<paragraph>The A7 is a mere 6.3mm thick and has a metal frame, which gives the tall device a welcome degree of rigidity. At 35g lighter than the Note 4, this phablet feels smaller in the hand even though the height and width are very close.</paragraph>
+			<paragraph>Like its fellow Samsung flagships, the Galaxy A7 has a Super AMOLED screen, 5.5" big with 1080p resolution. It's powered by either an Exynos 5430 (like the Galaxy Alpha) or a 64-bit Snapdragon 615. In either case you get a 13MP main camera and a 5MP selfie camera.</paragraph>
+			<paragraph>We're testing the dual-SIM version powered by Snapdragon 615. It has 16GB of built-in storage, which you can expand if you're willing to give up the second SIM slot - it's one of the combo slots that have gained popularity lately. We would have preferred three slots, but this setup still affords a reasonable degree of flexibility.</paragraph>
+			<paragraph>Last season, the Galaxy Note 3 Neo was the low-cost alternative to the then flagship, but this year there's no Note 4 Neo. The Galaxy A7 takes that role in a way, but while it is indeed cheaper than the Note 4 we wouldn't call it "low-cost." It has a premium build and comes with a matching price tag.</paragraph>
+			<paragraph>The break from the established Galaxy S and Note series is also a chance to start fresh. Granted, Samsung stayed close to its main product line in terms of looks, but the Galaxy A series prioritizes design over features. Not something we thought we'd say about a Samsung just a year ago.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy A7 360-degree spin<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 measures 151 x 76.2 x 6.3mm and weighs 141g. Not small, but impressively thin and quite light for its size. In comparison, the Galaxy Note 4 is 153.5 x 78.6 x 8.5mm, 176g and the LG G3 (with a 5.5" screen like the A7) is 146.3 x 74.5 x 8.9mm and 149g. The later has no hardware keys (so it's shorter) and has an all-plastic build (making it lighter).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Unboxing the Galaxy A7<subsectionTitle>
+			<paragraph>Despite its premium posture, the Samsung Galaxy A7's retail box is nothing out of the ordinary. It comes with a charger (1.55A, not enough for Quick Charge), a microUSB cable and a single-piece headset with a three button remote control and ear plugs (with replacement caps).</paragraph>
+			<paragraph>That's what most phones get these days, even at the high end, but some special treatment (say, a protective case) would have been a very pleasant touch).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>If Samsung was a person, it would've been an engineer rather than an artist. The Galaxy A7 features a rigid metal frame and the entire body (except for the camera bump) is just 6.3mm thick. The low weight doesn't make the phone feel any less solid.</paragraph>
+			<paragraph>The difference is mostly tactile though, looks-wise we're pretty much at the Galaxy S III, as the camera/LED/loudspeaker arrangement is a direct copy of the 2012 flagship. The hardware keys below the screen, the earpiece above it, all came out of the Galaxy parts bin.</paragraph>
+			<paragraph>Even the color selection - Pearl White, Midnight Black and Champagne Gold - is the industry standard color selection that the iPhone 5s debuted in 2013. At least the metal frame and the plastic elements are painted a consistent color (we have the Champagne Gold option).</paragraph>
+			<paragraph>The metal frame goes around the sides of the Galaxy A7. The Gorilla Glass 4 that covers the screen is slightly sunken so it catches your finger every time you have to do an edge swipe. This part of the frame is chamfered and there are no sharp corners poking at your thumb, but we still would have preferred it to be flush with the screen.</paragraph>
+			<paragraph>Anyway, below the screen is a hardware Home key. There is no fingerprint sensor beneath it - the Galaxy Alpha had it and the Galaxy Note 4 had it, but not the A7. That's a negative in our mind, since people who buy a premium product like the Galaxy A7 are all the more likely to use online payments or will at least compare it to an iPhone 6 Plus.</paragraph>
+			<paragraph>On each side of the Home key is one capacitive key, App switcher on the left and Back button on the right.</paragraph>
+			<paragraph>Above the screen is a 5MP selfie camera with a wide-angle, 106° camera. Wide selfie mode works like a panorama to make even wider photos. You can also create animated GIFs of your mug. The camera can detect a raised, open palm and will start a 2-second timer or you could tap the screen to take a photo.</paragraph>
+			<paragraph>The metal trim on the Samsung Galaxy A7 is where all the ports and slots are. The right side is quite busy with a Power key and two card slots. On our dual-SIM device, the one nearer the bottom holds SIM1, while the one above it has a combo tray that can hold either another SIM or a microSD card. Both slots use nanoSIMs and require an ejector tool to open.</paragraph>
+			<paragraph>At the bottom is a microUSB port for data and charging, the 3.5mm audio jack and the mouthpiece. Its companion noise cancellation mic is on top. Finally, the left side holds the volume rocker.</paragraph>
+			<paragraph>At the back is the 13MP main camera. It sticks out - by a lot. While that doesn't impact the overall volume of the device, it makes the phone very wobbly and puts the camera at risk of getting scratched. On its left is a single LED while on the right is the loudspeaker grille.</paragraph>
+			<paragraph>The back panel is made of matte plastic that fits so tightly in place - nothing sinks or bends - that we spent a long while trying to figure out if its metal or plastic. In terms of feel, it's a lot like painted metal rather than the exposed anodized aluminum that most metal unibody phones use. What gives it away is very low heat conductivity, but that's not exactly a negative.</paragraph>
+			<paragraph>The Samsung Galaxy A7 is not a small device, roughly the size of a Galaxy Note 4. If you're used to big phones you won't have any issues, while people coming from smaller screens will need some time to get comfortable.</paragraph>
+			<paragraph>The 6.3mm of thickness and relatively low weight mean that the device doesn't feel bulky despite its actual size. It's still quite a stretch to reach the top part of the display, but the Galaxy A7 packs all the one-hand use features of the Note 4.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>As a premium Samsung device, the Galaxy A7 gets the Super AMOLED treatment. The screen has 1080p resolution and is a bit smaller than the Galaxy Note 3's screen, 5.5" vs. 5.7". The difference in surface area is under 8%.</paragraph>
+			<paragraph>In terms of sharpness, the screen has just over 400ppi. Even with Super AMOLED's PenTile matrix that's more than enough. The Galaxy Note 4/Edge screens looks crisper but it's a difference noticeable mostly when you do a side-by-side comparison.</paragraph>
+			<paragraph>When viewed under a microscope, the diamond PenTile matrix of the Samsung Galaxy A7 can be observed. It's the same diamond layout that Samsung has been using since the Galaxy S4 and on its flagships ever since.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The screen has impressive contrast and bright colors typical of AMOLEDs and Samsung has added the Display mode setting to let you control the white balance and color saturation.</paragraph>
+			<paragraph>The screen shows a bit of a color shift at an angle, more than the Galaxy Note 4 screen shows. The maximum brightness is on the low side, not particularly impressive even for an AMOLED display.</paragraph>
+			<paragraph>AMOLED screens typically are not very bright, but their reflectivity is low so they remain legible even in direct sunlight. The Samsung Galaxy A7 is no exception and is one of the best phones we've tested.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>The screen has the option to increase touch sensitivity so you can use it with gloves. Other helpful features include Smart stay (keep the backlight on while the front camera can see your face) and Smart rotate (which orients the screen relative to your face, not the accelerometer readings).</paragraph>
+			<paragraph>Since 5.5" is more than some people can manage with one hand, Samsung offers three options to help them deal with it. First up is one-handed input, which squishes the on-screen keyboard to the left or right so you can reach all the keys with your thumb.</paragraph>
+			<paragraph>Next up is the Side key panel, which enables on-screen versions of the hardware keys. You can move this panel around to where it's most comfortable for you. It also slides out of the way, so it won't cover anything important.</paragraph>
+			<paragraph>Finally, the Reduce screen options shrinks the whole image into a smaller, floating window that you can move around. This mode also has on-screen buttons (it adds volume up and down too). It's triggered by a swipe-left-then-right gesture.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Dual-SIM support and LTE<subsectionTitle>
+			<paragraph>The optional dual-SIM is a key feature of the device. A second phone line is a must-have for some, but everyone else isn't losing anything - they can just put a microSD in the second slot and go about their business as usual. Even they will find themselves using the second SIM slot though, say a local card while on vacation abroad while the main phone number remains active for emergencies.</paragraph>
+			<paragraph>Anyway, you get LTE-Advanced Cat. 4 for mobile data, in other words 150Mbps downlink and 50Mbps uplink. You can select a preferred card for calls and which card is used for data, but only SIM1 has 4G and 3G connectivity. SIM2 is on 2G only.</paragraph>
+			<paragraph>The Galaxy A7 is a dual-SIM, dual-standby device so you can receive calls on one card even while talking on the other. This feature can be disabled to reduce the battery usage a bit.</paragraph>
+			<paragraph>Moving on, the phone supports dual-band Wi-Fi a/b/g/n (but no 802.11ac) and Bluetooth 4.0. There's also ANT+ for use with sports sensors, if they don't support Bluetooth. Easy pairing is enabled with NFC support.</paragraph>
+			<paragraph>The microUSB 2.0 port on the bottom of the phone does not support MHL so there's no TV out. There's no DLNA either, so you have only the wireless screen mirroring to rely on (if you have a compatible device). The microUSB port does support USB On the Go, however.</paragraph>
+			<paragraph>The Samsung Galaxy A7 supports GPS, GLONASS and Beidou for positioning (regardless of which chipset you have). Beidou is the Chinese system, which is important for a country that has its own LTE standard.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 comes with a 2,600mAh battery - the same size as the battery in a 5" Galaxy S4 and practically the same as the 5.1" Galaxy S6 battery. That's not a lot to feed a 5.5" screen and an octa-core processor, but it's the price you pay for the 6.3mm thinness. Plus, the Galaxy Alpha did quite well on a tiny battery.</paragraph>
+			<paragraph>After running the tests our concerns subsided - the Galaxy A7 managed an impressive 83-hour rating, matching the Galaxy S5 and Xperia Z3. The Galaxy Note 4 is slightly ahead at 90 hours, but even the massive 3,900mAh battery of the Motorola RAZR MAXX was not enough to pull it far ahead.</paragraph>
+			<paragraph>Anyway, individual tests returned excellent results - over a full day of talking and nearly 10 hours for both web browsing and video playback. If you start with a full charge, you should get two days with heavy usage or three days if you show some restraint.</paragraph>
+			<paragraph>Note that we tested the Galaxy A7 with a Snapdragon 615 chipset. The other option is an Exynos 5430 chipset, the one from the Galaxy Alpha. The daddy of the Galaxy A series scored a 52 hour Endurance rating on a 1,860mah battery.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>TouchWiz with themes<subsectionTitle>
+			<paragraph>The Samsung Galaxy A5 runs on the latest available Android 4.4.4 KitKat enhanced with the TouchWiz UI. It offers graphical themes, a novelty for the Galaxy line. However, this version of the software doesn't stray too far from the TouchWiz-y looks that have defined Samsung software.</paragraph>
+			<paragraph>Here's a video we've prepared to give you a taste of what it's like.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Themes have made their way to TouchWiz but currently only four are available aside from the standard one. They change the wallpaper and icon pack, along with the animated transitions, but leave even Samsung apps unchanged. Themes do nothing for the green-on-blue notification area either, which now carries a stale Gingerbread air.</paragraph>
+			<paragraph>The lockscreen shows the time and date and offers a camera shortcut. You can also enable weather information and a second clock. A feature borrowed from Lollipop is that certain notifications now show up on the lockscreen. You can tap them then swipe at the bottom to unlock the phone and go to the relevant app.</paragraph>
+			<paragraph>One difference we noticed with Lollipop is that notifications don't persist - that is a missed call notification will not show up a second time after you've unlocked the screen.</paragraph>
+			<paragraph>There's no fingerprint sensor, which is a shame considering both the Galaxy Alpha and the Galaxy Note 4 do have it.</paragraph>
+			<paragraph>Private mode is still available, but you can only protect it with a Pattern, PIN or a Password. Private mode creates a secure section in the phone's storage, which can be used to store photos and other files. They are not accessible to users or apps unless Private mode is unlocked so you don't have to worry about people or apps snooping on your files.</paragraph>
+			<paragraph>The homescreen is typical TouchWiz, with a 4-icon dock on the bottom. You can have up to 5 homescreens, panes can reordered and one is set as default. Briefing is also the leftmost homescreen aggregating your social news. You pick topics of interest and use read later services (Instapaper, Pocket or Readability) to pick articles on a computer and later read them on the phone when you have time.</paragraph>
+			<paragraph>The notification area is again, the ugly duckling that it is, has a wide assortment of quick toggles. You can rearrange and hide them as desired, but the brightness slider (with auto toggle), plus the S Finder and Quick Connect buttons are always visible. If you have the dual-SIM version and use two cards, the SIM selector is always visible too.</paragraph>
+			<paragraph>The settings menu has a selection of most used options that you can customize and search. That's invaluable since TouchWiz packs many features and digging around can be time consuming, while search allows you to jump straight to the relevant settings. The S Finder can also be used to find individual settings, more on it in a bit.</paragraph>
+			<paragraph>In the app drawer, the icons are presented as a customizable or alphabetized grid. You start with only two pages of apps, modest by Samsung standards, and you can disable or hide ones you don't need.</paragraph>
+			<paragraph>The app switcher interface uses the Lollipop design of a virtual rolodex. It only shows four apps at a time and has a the task manager button and a kill all apps shortcut.</paragraph>
+			<paragraph>Owing to its size, the Galaxy A7 has Multi Window. It allows you to use two supported apps at once in split screen mode (you can even use two instances of the same app). The app switcher puts a shortcut on supported apps to open the app on half the screen.</paragraph>
+			<paragraph>The Samsung Galaxy A7 features One handed operation. The basic mode squishes the on-screen keyboard horizontally so you can reach all keys with the thumb of one hand. You can place a panel of on-screen alternatives to the hardware keys if you find reaching those hard.</paragraph>
+			<paragraph>The all-in option shrinks the whole screen and puts on-screen buttons underneath so you can effectively use a smaller screen.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy A7 performance<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 comes with either a Snapdragon 615 chipset or an Exynos 5430. Both feature octa-core big.LITTLE processors, 4x Cortex-A15 and 4x Cortex-A7, but the Exynos uses higher clock speeds - 1.8GHz and 1.3GHz versus 1.5GHz and 1GHz.</paragraph>
+			<paragraph>This is partly due to a manufacturing advantage, Samsung's 5430 chipset is built on 20nm while Qualcomm's 615 is on a 28nm process.</paragraph>
+			<paragraph>The GPUs are also different, an Adreno 405 for the Snapdragon and Mali-T628 MP6 for the Exynos. Both versions come with 2GB of RAM and currently run Android 4.4.4 KitKat.</paragraph>
+			<paragraph>We only have the Snapdragon 615 version to test, but the Samsung Galaxy Alpha uses the Exynos 5430 chipset and ran KitKat when we tested it.</paragraph>
+			<paragraph>Geekbench 3 shows a small difference in performance between the Alpha and the Galaxy A7, which hovers close to the Galaxy Note 3. Basemark OS 2.0 proves more sensitive and the difference between A7 and Alpha is quite noticeable. The Galaxy Note 4 is definitely ahead of the Galaxy A7.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Full system performance measured by AnTuTu 5 and Basemark OS II 2.0 show the Galaxy A7 has a small advantage over the HTC Desire 820 (another Snapdragon 615 device), but lags behind the flagship Galaxy Note 4.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GPU tests reveal what should be pretty clear - Adreno 405 is not cut out for high-end gaming on a 1080p screen. Here the Mali-T628 GPU performs twice as good. Look at the 1080p offscreen tests as the Galaxy Alpha has a 720p screen, while the Galaxy A7 renders at 1080p natively.</paragraph>
+			<paragraph>On the up side, the performance is noticeably improved compared to the Galaxy A5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark X also the Adreno 405 in the Galaxy A7 isn't a gamer's dream. We don't have an Exynos-powered A7 right now, but a peek at scores published by Rightware (maker of the Basemark tests) shows a significant advantage for the Galaxy A7 with Exynos 5430 in graphics.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to web browsing tests, JavaScript performance is not spectacular. We used the Internet app, which is customized by Samsung, often with a very fast JS engine. Not this time it seems.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Still, for general browsing the web is generally smooth and fast, BrowserMark 2.1 puts the Galaxy A7 above a good number of powerful flagships though it's not an equal to the Galaxy Note 4.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>For processor intensive apps either version of the Samsung Galaxy A7 will do fine, however for gaming we'd look for the Exynos model. The web browsing experience is solid. In all three scenarios Galaxy Note 4 performance is out of reach.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Dual SIM telephony<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 has strong reception and the in-call sound is loud. You can use the In-call sound equalizer to tune the audio (say, soft or clear sound) or if you use a headset you can let Adapt sound to tune the equalizer automatically.</paragraph>
+			<paragraph>The dialer is the familiar TouchWiz app and features all the basics - smart dial, quick dial and even a video call button. When calling someone (or they are calling you), the phone will remind you when you last spoke.</paragraph>
+			<paragraph>For the dual-SIM Version, you can enable and disable individual cards and toggle the always on feature - this lets you receive incoming calls on one card, even when the other is active (but uses more battery, of course). You can pick which card is used for voice and video calls and which SIM provides the data. Note that on some models SIM2 is limited to 2G only (slow data and no video calls).</paragraph>
+			<paragraph>The dialer is part of a tabbed app that also houses the Logs. Those are very detailed and show not only calls, but messages too and you can filter by various types of events (missed call, received message, etc.). There's even a search feature if you need to look up calls from just one number or contact.</paragraph>
+			<paragraph>We performed our traditional loudspeaker test on the Samsung Galaxy A7 and found it a mixed back. It scored an Average, well below the Excellent of the Galaxy Note 4, but it can be quite loud with the right ringtone. It was much quieter when used for hands-free talking though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging, email and text input<subsectionTitle>
+			<paragraph>The Messages app gives you a row to fill with the most important contacts. It displays messages grouped into threads and handles both regular texts and MMS messages. On a dual-SIM phone there are two Send buttons so it's easy to use either card.</paragraph>
+			<paragraph>In landscape mode, the list of threads goes on the left, while messages in the selected thread go on the right. You can use pinch zoom to change the font size and fully customize the background and speech bubbles. Spam messages can be blocked with the built-in filter and links in messages can be disabled to prevent accidental clicks on links from spam. Yet another feature lets you schedule messages, say for a birthday or for parking.</paragraph>
+			<paragraph>The Galaxy A7 comes with two email apps - the ubiquitous Gmail and the Android Email app. It supports multiple accounts and has a reasonably modern UI, but since the Gmail app gained support for third-party servers we prefer it overall.</paragraph>
+			<paragraph>Gmail is smart about categorizing messages and grouping them - e.g. all promotions go in a folder, all social network messages in another and so on, keeping the Primary folder clean and containing only the important stuff.</paragraph>
+			<paragraph>The Samsung keyboard offers an extra number row, which can be used to insert pre-written phrases by longpressing a particular number. You can use swipes on the keyboard to move the cursor or as an alternative to tap typing.</paragraph>
+			<paragraph>A small floating keyboard is available in addition to the squished one-handed keyboards. There's intelligent predictive text feature that can learn from your messages (even your contacts' messages), your email and your social networking accounts. These are disabled by default and need your permission to activate.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery with DLNA and facial recognition<subsectionTitle>
+			<paragraph>The gallery on the Samsung Galaxy A7 sorts photos either by time or by album. Based on time and location, it can also group photos by event. Yet another option uses facial recognition, which helps you find all photos featuring a specific person.</paragraph>
+			<paragraph>Pinch zoom will change the size of the thumbnails and can also open and close individual photos. Batch operations are supported and that includes not just copy/delete but also image rotation. While selecting multiple images you can tap the double-pointed arrow to view images in full-screen, one by one (great for picking the best out of several similar shots).</paragraph>
+			<paragraph>The TouchWiz gallery also uses the DLNA Wi-Fi capabilities to show content on other devices setup on the same network.</paragraph>
+			<paragraph>Viewing images on the Samsung Galaxy A7 is a joy as its screen is big enough and the Super AMOLED panel is lovely with its deep blacks, vivid colors and immense contrast. Don't forget to use screen modes to tweak the display to your preference or let Adaptive display do it automatically based on the current photo.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 comes with the full-blown TouchWiz music player, which is among the most feature-rich apps we've seen. It supports lossless music (FLAC) and can play music to and from DLNA devices. Folder view is also available.</paragraph>
+			<paragraph>Aside from the traditional song sorting methods, the Music square can create playlists based on mood and tempo. Alternatively you can use years instead of mood to easily create a rocking '80s playlist.</paragraph>
+			<paragraph>A similar square is used make picking an equalizer preset simple. A more advanced feature is Adapt sound, which automatically selects the best settings based on your headphones and hearing. You can also use the 7-band equalizer to manually tune the player.</paragraph>
+			<paragraph>Google Play Music is also on board - it's a good offline music player, but online play is its forte. It can play Instant Mixes, it doubles as a music store or a cloud storage for your audio.</paragraph>
+			<paragraph>Finally, there's a stereo FM Radio app, which Samsung has been neglecting in recent flagships. The app supports RDS and can record radio broadcast (which may be disabled in some regions for legal reasons). There's an option to stream radio over the Internet if the FM signal is weak.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great video player<subsectionTitle>
+			<paragraph>The Samsung video player also supports DLNA, but there's only wireless screen mirroring, no MHL TV out. Subtitles are supported and you can adjust font size and color, add an optional background and a few other tweaks. You mileage may vary when using subtitles over DLNA.</paragraph>
+			<paragraph>Videos normally play start in Multi Window mode so you can keep browsing videos, simply stretch the video window to full-screen. Alternatively, you can view videos in a pop-up window.</paragraph>
+			<paragraph>Codec support on the Galaxy A7 plays MP4 and MKV videos up to 4K, however multichannel audio is not an option. Both H.264 and next-gen H.265 are supported.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is solid<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 is a marginal improvement over its Galaxy A5 stablemate when it comes to audio output. The two performed so similarly that you are unlikely to detect any differences in real life, but our sound card did notice some marginal upgrades.</paragraph>
+			<paragraph>The Galaxy A7 demonstrated perfectly clean output when connected to an active external amplifier and above average volume levels for one of the better performances in this scenario out there.</paragraph>
+			<paragraph>Plug in a pair of headphones and stereo crosstalk and intermodulation distortion creep in. Not quite the best we've seen, but certainly in the upper half of the charts here. Add in the very decent volume levels and you end up with a solid performance.</paragraph>
+			<paragraph>And here go the results so you can see the details for yourselves.</paragraph>
+			<paragraph> Samsung Galaxy A7 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP and 5MP cameras love selfies<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 pays more attention to the front-facing selfie camera than it does the main camera. That one is fairly standard, taking 13MP stills and recording 1080p@30fps video. The selfie camera is a 5MP shooter with a wide-angle 106° lens with several selfie-related features.</paragraph>
+			<paragraph>There are no Galaxy Note 4 like perks here, no OIS or a wide-angle sensor. It's an old-school 13MP 4:3 sensor in a camera module that noticeably sticks out the back.</paragraph>
+			<paragraph>The UI is simple enough, though getting to the settings menu requires a few taps too many. You can pull out two shortcuts for easy access, though shooting modes are the preferred way to go - let the phone pick the settings for you.</paragraph>
+			<paragraph>The Samsung Galaxy A7 camera had its default white balance set noticeably towards warm, yellow colors, too much we think. Color accuracy is further hampered by Samsung's usual oversaturation. That said, the image quality is quite good for a 13MP shooter.</paragraph>
+			<paragraph>Photos are sharp (with traces of oversharpening), have plenty of detail and little noise. The dynamic range leaves something to be desired as highlights were overexposed and shadows were underexposed.</paragraph>
+			<paragraph>We enabled HDR mode (Samsung calls it Richtone), which develops highlights much better and improves the shadows. HDR photos are snapped quite fast and there's no noticeable increase in noise.</paragraph>
+			<paragraph>The Galaxy A7 is so taken with selfies that it can even shoot them with the rear camera. Since you have to do this 'blind', you do the framing beforehand by moving a rectangle to select where you would like your face to be in the final shot. Then you flip the phone around and it will snap a photo when the framing is just right.</paragraph>
+			<paragraph>The front-facing camera knows a few tricks too. Wide Selfie is similar to a panorama as it stitches three photos and makes the photo wide enough for you and many friends. The way you take a Wide selfie, you take the central frame, the rotate the phone left and then right.</paragraph>
+			<paragraph>This makes sure you are always framed perfectly, but we found the left-right motion is less accurate than a continuous rotation. This led to some rather noticeable stitching issues. Another negative is that after processing the wide selfies actually have less resolution - 2576 x 1920px for normal selfies and around 2000 x 1648 for wide selfies.</paragraph>
+			<paragraph>Here's an ordinary selfie plus a wide selfie. The 5MP photos come out noisier than shots from the main camera, but the graininess isn't necessarily unpleasant and there's lots of noise. Note that there are digital beautification software enabled by default (its strength governed by sliders), but we disabled it for this shot. The quality of the selfies is good enough for #nofilter shots.</paragraph>
+			<paragraph>Below you can pixel-peep on Galaxy A7 studio samples in our photo quality comparison tool where you'll be able to compare them to our entire collection of phones, especially the members of the Galaxy Note club.</paragraph>
+			<paragraph>   The Samsung Galaxy A7 in our photo compare test</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p videos are good, not great<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 can capture videos at a maximum resolution of 1920 x 1080px at 30fps. There's no smooth or slow motion videos at 60fps or 120fps even at lower resolutions but some might argue that FullHD is enough.</paragraph>
+			<paragraph>The front camera can record 1080p video too in both landscape and portrait orientation (still, please don't shoot portrait videos).</paragraph>
+			<paragraph>FullHD videos are recorded at 17Mbps with a stable 30fps framerate. Sound is captured in stereo at 256Kbps bitrate and 48kHz sampling rate, excellent on paper though the mics don't sound quite as good as those on the Galaxy Note 4 for example.</paragraph>
+			<paragraph>The videos capture a good amount of detail though it's not the best 1080p shooter. White balance is more accurate, though the narrow-ish dynamic range is even more evident now. The continuous autofocus tends to trigger too often.</paragraph>
+			<paragraph>You can download an untouched 1080p sample (00:08s, 17.2MB) straight off the device or watch the sample we uploaded to YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Finally, you can have a look at our dedicated video comparison tool below.</paragraph>
+			<paragraph>   Samsung Galaxy A7 in our Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Browser and Google Chrome<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 comes with both the stock Android browser (heavily customized by Samsung) and Google's Chrome. Both support multiple tabs (including incognito ones) and an option to go straight to the desktop version of a page.</paragraph>
+			<paragraph>Both apps can work with Multi Window and feature tab syncing. The good news here is that Firefox users can sync tabs with the Internet app (which can also sync with your Samsung account). Chrome users can sync between all versions of the Google browser.</paragraph>
+			<paragraph>Chrome has another trick up its sleeve - it can reduce traffic by compressing web pages on Google's servers before they are sent to the device, similar to how Opera's Turbo mode (and Opera Mini) work.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other preinstalled apps<subsectionTitle>
+			<paragraph>S Planner is the default calendar. It features five different views: daily, weekly, monthly, yearly and agenda. The Month and agenda view uses a split-screen interface to conveniently show all events on a given day, for any day of the month. Multiple online calendars are supported, complete with color coding.</paragraph>
+			<paragraph>The Memo app is fairly powerful, you can add images and voice notes in each memo and sort those in multiple categories. Notes are synced with a server, which is handy if you have several Samsung devices.</paragraph>
+			<paragraph>The clock app has an alarm clock, World clock, stopwatch and timer modes. Smart alarm can wake you gently by starting a quiet sound that builds over a few minutes before the raw ringer kicks in.</paragraph>
+			<paragraph>My Files sorts files by their type (video, document, downloaded files etc.), but can browse the internal and microSD storage in full. There's built-in support for Dropbox too, which simplifies handling files in the cloud.</paragraph>
+			<paragraph>The Voice recorder app is pretty advanced. It can tag recordings with your location and features several modes that make the most use of the two mics. The Conversation mode, for example, records sound equally from the bottom (your voice) and the top (the other person's voice). There's a voice transcription option too. Noise-reduction is built-in.</paragraph>
+			<paragraph>Aside from the Google Play store you get Samsung Galaxy apps - the store for exclusive content for Galaxy smartphones. Much like Amazon, Samsung is pushing its own app store with free promos.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>In-hand feel is excellent, unfortunately it improves if you close your eyes while holding the phablet (golden paintjob)</paragraph>
+			<paragraph>The display is great and doesn?t lack for sharpness. Display modes let you tune it to your liking</paragraph>
+			<paragraph>Battery life turned out much better than expected, close to what the Galaxy Note 4 achieves</paragraph>
+			<paragraph>The microSIM/microSD hybrid slot is clever, but full-time dual-SIM users are stuck with only 16GB of storage</paragraph>
+			<paragraph>The rest of the connectivity can be matched by a &lt;$200 phone, no Wi-Fi ac and TV out doesn?t help</paragraph>
+			<paragraph>Theming support welcome, but too limited for those who dislike the TouchWiz look and colors</paragraph>
+			<paragraph>Performance is good for general usage, but the Snapdragon 615 version is capable of casual gaming at best</paragraph>
+			<paragraph>The loudspeaker is rather quiet</paragraph>
+			<paragraph>Excellent multimedia package out of the box</paragraph>
+			<paragraph>Solid audio quality, close to the Galaxy Note 4</paragraph>
+			<paragraph>13MP quality good for stills, but no match for flagship cameras in terms of detail and dynamic range</paragraph>
+			<paragraph>5MP selfie camera is quite good, though the software could use more work</paragraph>
+			<paragraph>Good 1080p video, but audio could have been better; no high framerate modes either</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Samsung Galaxy A7 and its two siblings offer a break from the usual Galaxy uniformity. But do they go far enough?</paragraph>
+			<paragraph>The phablet will turn plenty heads with its slender, light but rigid metal frame and beautiful 5.5" Super AMOLED screen. Then some of those heads will sag a little when they see it's the familiar Galaxy picture drawn with more expensive paints. They will hang lower still when they find out that the internal hardware is closer to a midrange device rather than the high-muscle silicon inside the excellent Galaxy Note 4.</paragraph>
+			<paragraph>The Galaxy A7 represents more a philosophical break from Galaxy tradition than a visual one. No longer a manic chase after the latest specs (which will be old news in 6 months), the phablet wants to win over its buyers in person rather than through number-touting ads.</paragraph>
+			<paragraph>The Samsung Galaxy A7 redraws the overdone Galaxy blueprint with new materials and slimmed down body. Even if we put aside the nagging feeling that looks have barely progressed since 2012's Galaxy S III, it's hard not to think this is a midrange phablet in expensive clothes.</paragraph>
+			<paragraph>The Samsung Galaxy Note 4 is better in every respect. We're not even talking about QHD vs. 1080p screen, but the S Pen is a valued companion, while the camera adds OIS and higher resolutions and framerates for video, the chipset can tackle 3D games with ease, with Lollipop software to boot, there's a fingerprint sensor... need we go on?</paragraph>
+			<paragraph>The Galaxy Note 4 has a metal frame too and while it's noticeably thicker and heavier, it feels every bit as premium if not better. And at the moment it's not that much more expensive.</paragraph>
+			<paragraph>The Galaxy Note 3 is from the plastic era, but its build is good enough. It lacks many goodies of its successor, but compared to the Galaxy A7 you get a slightly bigger screen with S Pen, faster chipset, a similar 13MP camera but with 2160p videos - selfie camera is a mere 2MP though - and a few other perks. All that for less money, so you need to think just how much you'd pay to get a phone that's 2mm thinner and with a metal frame.</paragraph>
+			<paragraph>  Samsung Galaxy Note 4 ? Samsung Galaxy Note 3</paragraph>
+			<paragraph>The Apple iPhone 6 Plus is not as thin and not nearly as light, but it's encased in aluminum in a way few other phones can match. An expensive option for sure (especially when you add storage) and no dual-SIM capabilities, but if beauty does trump brains then the Galaxy A7 is more of an acquired taste.</paragraph>
+			<paragraph> Apple iPhone 6 Plus</paragraph>
+			<paragraph>With its 5.5" screen the LG G3 gets in on the fight. The amazement it provides stems for super-thin bezels around a QHD screen rather than minuscule thickness. The imitation brushed metal back is as good as the real thing, but a 13MP camera with OIS and laser autofocus are enough to dry our tears over it. It's one of the most affordable 2014 flagships at the moment but battery life is not up to par with the Galaxy A7.</paragraph>
+			<paragraph> LG G3</paragraph>
+			<paragraph>Samsung has a mid-range alternative to the A7 named the Galaxy E7. It drops the 5.5" screen to 720p resolution, but is still a Super AMOLED. It boasts a 13MP/1080p main camera and a 5MP selfie camera. The chipset is a Snapdragon 410 with half the Cortex-A53 cores, four of them, and the older Adreno 306 GPU (having a 720p screen balances things out though).</paragraph>
+			<paragraph> Samsung Galaxy E7</paragraph>
+			<paragraph>The Huawei Honor 6 Plus presents an affordable alternative for those who need dual-SIM connectivity and has an interesting dual 8MP camera on the back, plus an 8MP selfie camera. It's 7.5mm thick, but packs a 3,600mAh battery.</paragraph>
+			<paragraph>The Xiami Mi Note is slimmer at 7mm and has a metal frame not unlike the Galaxy A7. It's a dual-SIM phone with a relatively cheap upgrade to 64GB so you won't have to choose between connectivity and storage. There's a tried and true Snapdragon 801 chipset, but the KitKat software has been heavily modified.</paragraph>
+			<paragraph>The Lenovo Vibe X2 Pro is slightly more compact with a 5.3" screen It measures 7mm thick and weighs 140g. It's powered by a Snapdragon 615, has 13MP cameras front and rear, dual-SIM connectivity (with separate microSD) and an attractive three layer design. It's not available yet though, should come out in April.</paragraph>
+			<paragraph>   Huawei Honor 6 Plus ? Xiaomi Mi Note ? Lenovo Vibe X2 Pro</paragraph>
+			<paragraph>With Samsung we're used to a bill of materials that features the top components, but the Galaxy A series diverted much of the cash towards the trim and finish. We cheer Samsung's willingness to change, but for the money they're charging, some of the midrange specs of the Galaxy A7 may prove hard to swallow. And if money is no object there clearly are better-looking and high-performing options.</paragraph>
+			<paragraph>This leaves a slim number of people who will find it "just right." The A-series split from the rest of the Galaxy's and the resulting sense of exclusivity is what a certain set of users my find appealing.</paragraph>
+		</subsection>
+	</page>
+</review>

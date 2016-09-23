@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Poésies</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1899</year>
+	<link>http://www.senscritique.com/livre/Poesies/184705</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>111</numberOfVoters>
+		<numberOfVoters>175</numberOfVoters>
+		<numberOfVoters>143</numberOfVoters>
+		<numberOfVoters>87</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Rien, cette écume, vierge vers...</title>
+		<author>Zaul</author>
+		<date>2012-05-16</date>
+		<score>1.0</score>
+		<content>Cela fait des années que je lis Mallarmé sans vraiment avoir compris le bonhomme, mais toujours fasciné. En terme d'accroche un peu facile peut-être, que dire sinon que si l'on aime Baudelaire, il faut lire Mallarmé? Car avant d'être celui qu'on dépeint trop souvent, ce poète obscur, incompréhensible, qui se tourne vers la vie de Mallarmé fait vite l'expérience d'un tout autre point de vue : poète étonnant, touchant, véritablement fou de Baudelaire dans sa jeunesse (mais Hugo et Musset ne sont jamais loin), menant sa poésie sur des terrains foutrement choquants à l'époque, comme s'il voulait être plus baudelairien que Baudelaire lui-même... Plus tard, écrire deviendra pour lui un véritable supplice, celui de "creuser le vers", d'aller au fond des mots jusqu'à en devenir presque fou. La poésie de Mallarmé est finalement celle d'un poète qui a glissé, progressivement, dans la crise, celle du vers, une crise de la langue qui s'est imposée à lui, se transformant en crise existentielle, la "crise de Tournon", lors de l'écriture du magnifique Hérodiade. S'il fallait dire les choses simplement, on pourrait avancer qu'il y a des poètes qui accumulent, développent, font croître leurs phrases jusqu'à l'explosion, les délitent... Mallarmé fait à peu près pareil, mais dans la concision : il creuse, il triture la langue, il recherche sans cesse à condenser les vers pour les faire briller, il fait un ouvrage de bijoutier. C'est rond, c'est plein, ça résonne de tous côtés, ça fait jaillir du sens de partout. A ce titre regarder les versions des manuscrits est vraiment étonnant : travail fou, acharné, sur quelques mots, poèmes retravaillés encore et encore des années plus tard, travail d'une vie. Les études génétiques des poèmes montrent bien qu'une densité référentielle, celle du poids du monde et des êtres, s'estompe progressivement chez Mallarmé pour faire chanter les mots. Au vide d'une esthétique symbolique, toujours tournée vers les mots, le réel s'estompe, s'efface. Jusqu'à la vie du poète lui-même : pour Mallarmé, le créateur doit s'effacer, "laisser l'initiative aux mots", il faut redonner un sens plus pur "aux mots de la tribu", celle des mots de tous les jours, et pour cela inventer un langage total, neuf. L'art de Mallarmé est dans la concision, non pas l'opacité. Condenser, sertir, sur-structurer la langue pour lui donner de l'éclat, trouver toujours le mot le plus pur. Si bien que si le réel s'efface, devient ombre, non-existence, abolition dans l'espace du poème ("aboli bibelot d'inanité sonore"), c'est avant tout pour donner toute leur place aux mots, les faire sortir de leur usage et leur donner une portée nouvelle : Mallarmé était à la recherche de la clarté. Ce sont peut être ses interventions critiques et son mépris pour le langage courant qui ont donné cette image d'élitisme, avec laquelle il a probablement joué. Mais le poète était beaucoup plus complexe que ce que la tradition pseudo-universitaire laisse transparaître, elle qui souvent appose des étiquettes et des codifications arrêtées trop rapidement : il suffit de lire attentivement "L'Après-midi d'un faune", cet "admirable poème cochon" selon les mots de Verlaine, pour entrevoir en filigrane - ô nous lecteurs rougissants ! - des scènes bien plus crues et érotiques dans leur vraie profondeur que cet érotisme de surface, vain et creux, que l'on prête à notre modernité. Les Poésies, ouvrage d'une vie entière, forment une lecture totale et exigeante, qui résiste sans cesse au sens, à un sens. Le travail sur la langue, sa densité, ses résonances, les questions poétiques soulevées sont à la fois fascinantes, difficiles, complexes, vivantes. S'il fallait retenir un poème pour approcher Mallarmé, je dirais de manière fort personnelle et partisane, qu'il faut lire "Salut", le petit poème qui ouvre les Poésies, qui m'a toujours absolument fasciné. Quelques mots, un "Rien", débutent l'ouvrage de façon magistrale et font littéralement exploser les potentialités du langage par ses jeux de résonances, d'homophonies, ses clins d'œil : d'un salut classique du poète au lecteur, l'auteur d'Un coup de dés tisse une représentation de la solitude, du travail poétique, métaphore du bateau filant sur la mer et de son capitaine, salut à la fois au lecteur et Toast à une réunion, enfin image érotique de la jouissance charnelle de l'acte créateur... Bijou annonçant la richesse d'une esthétique. Tout cela avec si peu de mots, finalement. Rien, cette écume, vierge vers... http://homepages.uni-tuebingen.de/hilberer/mallarme/mallarme_salut_rien_cette_ecume.html</content>
+	</review>
+	<review>
+		<title>Poésies</title>
+		<author>François Francois</author>
+		<date>2013-06-29</date>
+		<score>0.9</score>
+		<content>une superbe plume, on sent un peu primer en certains passages la musicalité (enfin ?) sur le sens qui reste néanmoins admirable, un des plus grands poètes incontestablement, entre Verlaine et Valéry. Seule remarque, la difficulté de la langue peut avoir un caractère rebutant au premier abord, à dépasser car le jeu en vaut -largement- la chandelle.</content>
+	</review>
+</sensCritiqueEntity>

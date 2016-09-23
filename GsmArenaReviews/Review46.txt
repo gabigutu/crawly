@@ -1,0 +1,271 @@
+<review>
+	<title>Sony Ericsson XPERIA X2 review</title>
+	<description>Another one in</description>
+	<link>http://www.gsmarena.com/sony_ericsson_xperia_x2-review-443.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Quad-band GSM support</paragraph>
+			<paragraph>Tri-band 3G with HSDPA 7.2Mbps and HSUPA 2Mbps</paragraph>
+			<paragraph>Four-row slide-and-tilt QWERTY keyboard</paragraph>
+			<paragraph>Landscape and portrait virtual QWERTY keyboards</paragraph>
+			<paragraph>Handwriting recognition</paragraph>
+			<paragraph>3.2" 65K-color TFT LCD resistive touchscreen (480 x 800 pixels)</paragraph>
+			<paragraph>Windows Mobile 6.5 Professional</paragraph>
+			<paragraph>XPERIA panels user interface</paragraph>
+			<paragraph>Accelerometer sensor</paragraph>
+			<paragraph>Qualcomm MSM 7200 528 MHz CPU, 256 MB of RAM memory</paragraph>
+			<paragraph>8.1 megapixel autofocus camera with LED flash</paragraph>
+			<paragraph>WVGA video recording at 30fps</paragraph>
+			<paragraph>Support for DivX/XviD files out of the box</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g, DLNA</paragraph>
+			<paragraph>Built-in GPS receiver with A-GPS support</paragraph>
+			<paragraph>Bluetooth and USB (standard microUSB connector) v2.0</paragraph>
+			<paragraph>3.5mm standard audio jack</paragraph>
+			<paragraph>Stereo speakers</paragraph>
+			<paragraph>Flash video support</paragraph>
+			<paragraph>TV out port, TV out cable supplied in the retail box</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>Outdated hardware</paragraph>
+			<paragraph>Sluggish interface</paragraph>
+			<paragraph>Display still on the small side, inadequate touch sensitivity and sunlight legibility</paragraph>
+			<paragraph>Almost no screen auto-rotation throughout the UI</paragraph>
+			<paragraph>Disappointing video recording</paragraph>
+			<paragraph>Basic music player</paragraph>
+			<paragraph>No FM radio (should be enabled with upcoming firmware update)</paragraph>
+			<paragraph>No video calling (should be enabled with upcoming firmware update)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It was back in February 2008 that the XPERIA lineup was born and it took Sony Ericsson almost two years to bring about the XPERIA X1 successor. The long waiting is over now and the XPERIA X2 is keen to prove to us all it was worth it.</paragraph>
+			<paragraph>Both devices obviously have lots of features in common (it's the same amount of memory - both RAM and ROM, and the same CPU) but there are - possibly - enough improvements to make the XPERIA X2 a strong successor and a valuable upgrade. And by telling you that, we don't only mean the more recent version of WinMo. 6.5 was never officially compatible with the original.</paragraph>
+			<paragraph>Anyway, the upgraded imaging is the greatest asset of the XPERIA X2 hardware and we're about to see how much it works in its favor.</paragraph>
+			<paragraph>Before we kick off though, a bit of family tree stuff. The XPERIA X2 is only the second PocketPC in the series after the X1. The X10 runs Android and so does the rumored Robyn, while the Pureness isn't even a smartphone. The XPERIA lineup comes in different shapes and sizes but it all started with Windows Mobile. The X2 is perfectly aware of that and comes to offer some all-round PocketPC skills and the aggressive styling of its forerunner.</paragraph>
+			<paragraph>As we said in the preview a few months back, there aren't many groundbreaking features to see, but the XPERIA X2 is definitely worth a look to check what it can actually do.</paragraph>
+			<paragraph>Well, if you're looking for Snapdragon speed, you won't find it here. There's no capacitive touchscreen either. And the X2 also skips an FM radio and its camera has no Xenon flash. But you get all the business benefits you would expect in a phone in this class, with some nice media too.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA X2 packs the full range of connectivity options, hopefully a capable enough CPU, a comfy slide-and-tilt QWERTY keyboard, promising autofocus camera and, like its predecessor, it has a 3.5mm audio jack on board. The trackpad is also there (even if it's been redesigned).</paragraph>
+			<paragraph>While the XPERIA X1 came with a 3" display, the X2's screen measures 3.2 inches, but keeps the same 800 x 480 resolution. Among the most important novelties brought by the X2 is the latest firmware version: Windows Mobile 6.5 Professional. The revamped touch-optimized X-panels interface has been promoted to a full featured system for handling various animated and interactive homescreens.</paragraph>
+			<paragraph>Unlike the early version of the X2 which we had for a spin and a short preview, this one comes off the shelves so no excuses this time! After the jump a 360 degree spin awaits, along with our say on design and construction. But first things first - next up: unboxing.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the XPERIA X2<subsectionTitle>
+			<paragraph>The Sony Ericsson XPERIA X2 comes in a smallish box full of accessories. Along with the smartphone itself you get all the standard paperwork, a TV out cable and a universal USB charger.</paragraph>
+			<paragraph>The enclosed USB cable is used for both data connections and charging. In the retail box we also found a headset and a 4GB microSD card. The only thing that seems to be missing is a carrying case.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson XPERIA X2 360-degree spin<subsectionTitle>
+			<paragraph>The XPERIA X2 measures 110 x 54 x 16 mm and weighs 155 g. The size and weight are almost the same as the original XPERIA, though the X2 is a tad wider due to its slightly larger 3.2" display.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>Unlike the XPERIA X1 there's less metal on the new XPERIA X2 and for some of us that's actually a step back. The glossy black surface of the Elegant Black unit we based our preview on was a fingerprint nightmare. Having said that, fingerprints don't seem to be an issue for the Modern Silver X2 we're currently reviewing.</paragraph>
+			<paragraph>However, the plastic feels as cheap as before. We understand our feelings about design are pretty subjective so we'll put that down as one of our own personal prejudices against the device.</paragraph>
+			<paragraph>Most of the Sony Ericsson XPERIA X2 front is taken up by the large 3.2" resistive touchscreen. Unlike the front plastic frame, the back of the X2 is made of stainless steel and is completely immune to fingerprints.</paragraph>
+			<paragraph>Above the screen there we find the earpiece, proximity and ambient light sensor and secondary videocall camera.</paragraph>
+			<paragraph>Beneath the screen, the navigation deck doesn't have the trademark X-pattern this time, opting instead for a simpler layout incorporating the available buttons in a regular grid. The redesigned, larger, optical trackpad is dead center and does well to make up for the X2's missing D-pad.</paragraph>
+			<paragraph>The next level of XPERIA's evolution has no dedicated X-panel shortcut, the bottom left key this time opens the Sony Ericsson Media center, which now has new items such as Call history, Messages, Calendar, and Panels setup.</paragraph>
+			<paragraph>The navigation deck is neat and simple - absolutely minimalist compared to the original XPERIA and its X-patterned controls. The new layout works fine, our only gripe the poor press feedback of the buttons around the trackpad.</paragraph>
+			<paragraph>The 4-row slide-and-tilt QWERTY keyboard of the X2 is quite distinct from the X1's in terms of shape and design, but the controls and key layout are almost the same. Though the shape of the keys is very comfortable and the arrow keys also add to the usability, the cheap-looking plastic material fails to impress.</paragraph>
+			<paragraph>Here's the XPERIA X2 compared to the Samsung B7610 OmniaPRO. Though the OmniaPRO is somewhat bigger, it's actually about the same weight. The secondary symbols on the OmniaPRO keyboard are more prominent but the XPERIA X2 has the benefit of the slide-and-tilt form factor (arc slider, as Sony Ericsson call it). Plus, the actual sliding action is smoother than the OmniaPRO.</paragraph>
+			<paragraph>On the right side of the XPERIA X2 we find the volume rocker at the top and the camera shutter key. The controls are quite comfortable and well integrated into the overall design. Though quite thin, the camera key is responsive enough with a distinct half press.</paragraph>
+			<paragraph>The X2 left side hosts the battery cover release knob. The standard microUSB port is located in the upper left corner of the phone and the uncovered slot will be easily visible while you're on the phone. We feel that spoils the looks a bit and we'd rather have a lid on top of it.</paragraph>
+			<paragraph>The microSD card slot is accessible from the left side of the X2 but only after you remove the battery cover - much like it is on the XPERIA X1 actually. The important thing though is you don't need to switch off the device. The XPERIA X2 worked trouble-free with our reasonably full 16GB microSD card in it.</paragraph>
+			<paragraph>The bottom of the XPERIA X2 is free of any controls, but we kinda dig the mesh-like pattern of the plastic surface here - kind of reminds us of an electric shaver, but in the good, gadgety sense.</paragraph>
+			<paragraph>The 3.5mm audio jack on the top of X2 also doubles as a TV-out port. Luckily, we found a TV out cable in the X2's retail box. The other thing on top is the power key - tiny as on the previous X1 - and the stylus compartment.</paragraph>
+			<paragraph>Both top and bottom there are some color LEDs hidden under the surface.</paragraph>
+			<paragraph>Turning the phone over reveals the sleek aluminum back with the 8.1 megapixel autofocus camera lens and LED flash. The lanyard eyelet, as well as the two stereo loudspeakers, are also placed here.</paragraph>
+			<paragraph>Removing the battery cover of the XPERIA X2 reveals the 1500mAh Li-Po battery, which is the same as the one found in the X1. The official stand-by and talk times are almost the same as the original X1 battery stats, and we can confirm 2 days of stand-by under moderate usage.</paragraph>
+			<paragraph>The ergonomics of the XPERIA X2 turned out pretty decent and typing on the QWERTY keyboard is a user-friendly experience as well. Generally, the Sony Ericsson XPERIA X2 feels nice to hold in hand. When it comes to the X2 build quality, we only hope that this time there won't be any stylus compartment issues (after all, SE dropped HTC as a manufacturer in order to leave this problem behind).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display: 3.2 inches of disappointment<subsectionTitle>
+			<paragraph>The Sony Ericsson XPERIA X2 features a 3.2 inch resistive touchscreen of WVGA resolution. The only difference with the X1 is the added 0.2 inches in diagonal. That's a good start as the X1 display was too small for the high resolution it offered and it was hard to hit the small items on the screen with your thumb. However, we do feel the XPERIA X2 needs a even larger screen to make a difference.</paragraph>
+			<paragraph>Not only that but the X2 display isn't as sensitive as we expected. Even if you decide to operate using only the enclosed stylus, things won't change too much. And one more disappointment concerning the display, the sunlight legibility is not great. Due to the mirror-like surface it's hard to see a thing on the display if you tilt the smartphone a few degrees to the sides.</paragraph>
+			<paragraph>Both the display and keyboard backlighting are very good, but we shouldn't expect any less than that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Windows Mobile 6.5 pushes X2 to the limit<subsectionTitle>
+			<paragraph>The Sony Ericsson XPERIA X2 runs Windows Mobile 6.5. We already discussed the changes in our Samsung Omnia II review and the dedicated OS overview, but let's have a quick recap and go through the new features one more time.</paragraph>
+			<paragraph>Update, 03 Feb 2010: As the official Sony Ericsson XPERIANCERS blog has it, the company roadmap has two OS updates planned for the X2. The first one in March will take Windows Mobile 6.5.1 (currently running on the X2) to 6.5.2. In May users will be able to update to 6.5.3, which will update a lot of the core OS functionality. Those upgrades will also fix known bugs, improve usability and stability, and enable the dormant video telephony and the FM radio.</paragraph>
+			<paragraph>Update, 07 Apr 2010: The first update has arrived. This update enables video telephony and the FM radio as well as a few other things.</paragraph>
+			<paragraph>Unfortunately, Windows Mobile 7 upgrade is not planned for XPERIA X2 as the hardware supposedly doesn?t meet its requirements.</paragraph>
+			<paragraph>Visually, Windows Mobile 6.5 upgrades the older ver. 6.1 with a brand-new and much prettier homescreen. It also swaps the Start menu with a regular "main menu", which displays all your applications and links to system functions in a honeycomb grid.</paragraph>
+			<paragraph>Other visual enhancements include the addition of ClearType font rendering as seen on desktop Windows rigs and the ability to scroll tabbed windows with cross-screen sweeps. Context menus have now gotten more thumbable, there's kinetic scrolling - which works just as it does on the iPhone - and finally the graphics are generally prettier throughout the system.</paragraph>
+			<paragraph>You probably know the default WinMo 6.5 homescreen consists of a scrollable list. What you may not know, unless you've watched a bunch of demo videos, is that some items of that list are in fact side-scrollable.</paragraph>
+			<paragraph>By scrolling sideways you gain access to different phone features associated to a given item. For example, scrolling the Getting started item sideways allows you to set the clock, email account, device password, Bluetooth, custom wallpaper, custom ringtone, upload music or even remove the Getting started item for good once you've set up the essentials.</paragraph>
+			<paragraph>Another example is Pictures, which allows you to browse the thumbnails of the photos in your gallery by side sweeps. Touching a photo opens it fullscreen in the photo album.</paragraph>
+			<paragraph>Pressing the Start menu icon at the top right no longer opens a drop down menu full of shortcuts. Instead it opens what we like to call the new Windows Mobile "Main menu". It's got icons ordered in that honeycomb pattern that so many people can easily recognize as trademark WinMo 6.5 stuff.</paragraph>
+			<paragraph>In the new main menu you've got all the installed programs plus shortcuts to the settings menu. That Settings menu has also received a facelift and displays icons in the same honeycomb layout.</paragraph>
+			<paragraph>The perfectly flat structure of the Main menu could definitely get a bit clumsy over time due to the huge number of icons piling up (iPhone users with loads of apps installed will know what we mean), but we'd still prefer that over the confusing experience that so many Widows Mobile new adopters have had in the past.</paragraph>
+			<paragraph>Unfortunately, Windows Mobile 6.5 on the XPERIA X2 is not as responsive as we'd hope given that this is the company's latest high-end PocketPC. There is noticeable lag at times, though the interface has been optimized a lot since the pre-release unit we based our preview on. Still, the persistent lag combined with the relatively slow and unresponsive touchscreen, gives the impression of a sluggish UI, something that does Sony Ericsson no favors. And then you remember the XPERIA X2 runs on the same hardware as X1 and the reasons for this become obvious. Trying to run a hungry, modern OS on outdated hardware is not exactly a recipe for success.</paragraph>
+			<paragraph>The 0.2 inch bigger screen makes some difference from the X1, but still can't deliver the desired experience. The stylus is still needed for some buttons and items which are not fully touch-optimized. The Samsung Omnia II that we had in for a review not long ago was way more responsive and had much better performance.</paragraph>
+			<paragraph>Finally our attention is caught by the task manager. It's very similar to the previous XPERIA X1 and all WinMo running HTC smartphones, but prettier. If you press the dedicated icon on the status bar, a list with all running apps will open. There you can end all unnecessary programs to free some RAM. As usual the second tab displays all kind of memory stats like RAM usage, storage or memory card space.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>XPERIA Panels disappoint a bit<subsectionTitle>
+			<paragraph>As Sony Ericsson have not gone for customizing the whole Windows UI, it's got a more vanilla look here as compared to what you can see on Samsung or HTC smartphones. Instead, Sony Ericsson have concentrated on developing the XPERIA Panels UI and have put quite a lot of effort into integrating it tightly with the WinMo OS.</paragraph>
+			<paragraph>There is no dedicated panels' hardware button as there was on the XPERIA X1. Instead there is a shortcut to a new Shortcuts menu. This menu is nicely touch-optimized, sort of a blend of the popular Sony Ericsson Media center and the Windows Mobile default homescreen.</paragraph>
+			<paragraph>The menu consists of seven items - Call history, Messages, Calendar, Media, PlayNow, Sony Ericsson Sync and Panels - most of them with plenty of subsections. The Media department will sure ring a bell for Sony Ericsson users. It collects all your pictures, music, videos and games and packs them into its own gallery, music and video players.</paragraph>
+			<paragraph>But the amazingly nice custom menu is quite shallow in places. For example when you start a new message or open a whole email, you are thrown back onto the less than pretty Windows Mobile interface.</paragraph>
+			<paragraph>The XPERIA panels is the last item on this menu and logically collects all the panels you have installed and allows you to browse them with finger sweeps. The panels can be set in a timeline switching automatically at scheduled times for user-defined intervals.</paragraph>
+			<paragraph>The XPERIA X2 comes with 10 panels preinstalled - the default Sony Ericsson Tilewave one, CNN, Facebook, Google panel, Growing Panel, WinMo default Today screen, SPB Mobile Shell, Pixel City and XPERIA Services one.</paragraph>
+			<paragraph>The CNN, Facebook and Google panels offer quick access to news, the Facebook application and the Google Search are self-explanatory, while the MS Today screen is the default WinMo 6.5 one we already discussed.</paragraph>
+			<paragraph>The Growing panel is similar to the old Fish one - there are some bugs and flowers, which display different status readings - missed calls, battery level, signal strength, etc. The Pixel City panel does just the same. Unfortunately all three of them look way worse that the original Fish panel.</paragraph>
+			<paragraph>The Tilwave panel is the default option in the bunch and displays flipping 3D squares, some of them empty - some of the with specific info - the weather, clock, alarms, RSS reader, a shortcut to Contacts, etc. Choosing any one of them will lead you to another similar field of squares. The effects are eye-catching and this panel successfully combines beauty and functionality without too many compromises.</paragraph>
+			<paragraph>The next preinstalled panel is the great SPB Mobile Shell. That panel was also available for download for the XPERIA X1, but Sony Ericsson have graciously preinstalled it on the X2.</paragraph>
+			<paragraph>It has two different views - lifestyle and work. Lifestyle mode combines three different homescreens where you can put a lot of widgets, along the lines of the Android UI. The beautiful wallpaper is easily seen through the transparent widgets. The professional view of the panel looks like an older version of the SPB Shell - clock, new events and a calendar.</paragraph>
+			<paragraph>Finally, the XPERIA Services panel can only be used after a free registration for XPERIA support. There are local support centers in many countries, along with online information. When choosing this panel you will gain shortcuts for both call and online support.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A really good phonebook<subsectionTitle>
+			<paragraph>The phonebook, favorite contacts and the call log share one window in a tabbed interface. All of them are touch optimized, have small thumbs and use big enough fonts. There is letter-by-letter scrolling thanks to the alphabetical column on the right. There's an option to start the dialpad right here - it comes with Smart Dialing and works great.</paragraph>
+			<paragraph>This whole new phonebook and call log combo is just fine, but we just can't understand why there are still too many places in the X2 system where you stumble upon the regular WinMo interface. We really hoped Sony Ericsson would fix this in the final product. Still, at least viewing a contact uses the new Sony Ericsson skin and means that all their hard work wasn't in vain.</paragraph>
+			<paragraph>In fact viewing a contact is really effective due to its simple design. You have the contact picture at the top and all the contact information underneath, everything stylishly dressed in black with white fonts and nice icons. It's great.</paragraph>
+			<paragraph>Unfortunately, editing or adding a contact throws you back into the old WinMo skin. At least you still have a plethora of available info fields - and if by any rare chance those are not enough, you can always rename some of the existing fields and use them instead.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony is just great<subsectionTitle>
+			<paragraph>One thing we have to admit: when it comes to telephony, Sony Ericsson never compromise with their handsets. The XPERIA X2 doesn't buck this trend and offers excellent in-call sound and clear reception.</paragraph>
+			<paragraph>The phone application offers Smart dialing, which means you will hardly ever need to go to the Contact list to dial a number.</paragraph>
+			<paragraph>The new Sony Ericsson menu hosts three tabs - favorite contacts, telephony and call log. Just below them is the shortcut to the virtual keypad, which we strongly recommend. It's touch-optimized, very good looking and pops up in front of the phone panel.</paragraph>
+			<paragraph>The call log is pretty standard, just like every other Sony Ericsson. If you select an event you will be redirected to a more informative window with call duration and options for call and text.</paragraph>
+			<paragraph>In addition, there is a proximity sensor to switch the display off when you hold the handset next to you ear.</paragraph>
+			<paragraph>When making a call you will have a bunch of typical smartphone options including taking notes, mute, volume, contacts and put on hold.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA X2 has a video call camera as well, but strangely, Sony Ericsson have not enabled any video telephony functionality. Hopefully, Sony Ericsson will enable that with an upcoming firmware update in March.</paragraph>
+			<paragraph>We also conducted our traditional speakerphone test to round off the phone part of the XPERIA X2 review. It scored an Average mark, which ranks it just below the middle of our list of tested devices. That means that you might just miss a few calls in noisier environments.</paragraph>
+			<paragraph>More info on our test can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging left where Windows Mobile 6 started<subsectionTitle>
+			<paragraph>There are two ways to get to the messaging department - from the Start Menu or the new XPERIA Shortcuts. As we mentioned before, the new Shortcuts Menu has a Messaging area, from where you can run the SMS/MMS or Email applications. Unfortunately they haven't changed visually since the beginning of Windows Mobile 6 and look outdated.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA 2 supports SMS, MMS and email. SMS and MMS share an inbox and a message editor. Threaded SMS is also available just as it is across Windows 6.1 devices.</paragraph>
+			<paragraph>Setting up your email is easy as it gets. You type your email and password and all the other fiddly options are configured automatically.</paragraph>
+			<paragraph>Sony Ericsson have equipped the device with a new virtual keyboard, whereas on the XPERIA X1 they used the plain old WinMo variety. The new keyboard is a nice add-on since the default Windows Mobile keyboards are fit for stylus use only. We played around with it and both portrait and landscape modes were very comfortable to use.</paragraph>
+			<paragraph>But hey, we are pretty sure you'll use these virtual solutions rarely provided the full hardware QWERTY keyboard.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Promising multimedia<subsectionTitle>
+			<paragraph>Image gallery looks cool, but runs slow</paragraph>
+			<paragraph>Sony Ericsson have added a second gallery to the rather plain and boring WinMo app and it's accessed through the main menu.</paragraph>
+			<paragraph>You use sweeps to navigate around the images. If you tap on screen you also get zooming and slideshow controls. In addition, the screen has auto rotation thanks to the built-in accelerometer and you don't need to slide the keyboard for a landscape view. Unfortunately it's rather slow with noticeable lag, which is quite a disappointment for such a nice looking gallery. But once again this is probably due to the old hardware Sony Ericsson have used in the XPERIA X2.</paragraph>
+			<paragraph>A basic music player</paragraph>
+			<paragraph>You can find the embedded music player into the media menu and it's very similar to the Walkman player in the Sony Ericsson's feature phones and can handle playlists, organize your tracks by albums, authors, etc. Album art is supported, but unfortunately there are no equalizer presets, stereo enhancements or visualizations.</paragraph>
+			<paragraph>Its design matches the whole multimedia menu and looks good, but this beauty doesn't completely disguise the rather basic functionality.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA X2 sports stereo speakers on its back and they sound loud enough to satisfy most users, but you need to put the handset into an appropriate position otherwise you may muffle them.</paragraph>
+			<paragraph>Windows Media Player is also on board, but we all know it's pretty useless.</paragraph>
+			<paragraph>Full DivX/XviD support for the video player, incapable hardware</paragraph>
+			<paragraph>Much like the gallery, Sony Ericsson have an alternative video player, which is better than the stock Windows variety.</paragraph>
+			<paragraph>Surprisingly it has native DivX/XviD support and can play videos up to 720p resolution. There is even subtitle support, but there are no settings for it and we think it's kind of buggy and needs some more work.</paragraph>
+			<paragraph>Now here comes the bad news. The player handled perfectly all videos up to WQVGA resolution with no dropped frames or rendering problems. Come any video higher than that and things get ugly. Higher-res videos barely ran at 5-10 fps, which made them impossible to watch. Again, it's probably the outdated hardware at fault.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio<subsectionTitle>
+			<paragraph>Similar to HTC Touch PRO 2, the XPERIA X2 has FM radio receiver inside but it?s not enabled and there?s no software to control it on board. Again, hopefully Sony Ericsson will deliver that with an upcoming firmware update in March.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is a bit disappointing<subsectionTitle>
+			<paragraph>Unfortunately the audio quality of the Sony Ericsson XPERIA X2 is a real step backwards compared to its successor. Don't get us wrong - it's not unbearable or anything - it's just that the first XPERIA was excellent and the XPERIA X2 is average at best.</paragraph>
+			<paragraph>The X2 has its highest frequencies cut-off, unlike its predecessor that had an almost perfect frequency response. The noise levels and the dynamic range are also worse and so is the stereo crosstalk.</paragraph>
+			<paragraph>Total harmonic harmonic distortion is the only area where improvement is noticed but the intermodulation distortion (which was the worst part of the X1 audio output) is even worse now.</paragraph>
+			<paragraph>Here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Sony Ericsson XPERIA X2 vs Sony Ericsson XPERIA X1 frequency response graphs</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Surprisingly good camera, disappointing video recording<subsectionTitle>
+			<paragraph>Sony Ericsson XPERIA X2 is equipped with a 8 megapixel autofocus camera with a maximum image resolution of 3264x2448 pixels. It also has a LED flash that is supposed to assist night photography but as usual its power is inadequate for producing a decent photo at distances over a meter. On the positive side it can also be used as a video light unlike its xenon siblings.</paragraph>
+			<paragraph>The camera interface resembles those of the CyberShot series, this time upgraded and optimized for thumb use. Pop-up sub-menus enhanced with icons and the Multi Menu packing all the available settings are here to facilitate the user experience.</paragraph>
+			<paragraph>The camera toolbar gives access to shoot mode, scenes, focus, flash, exposure and the settings Multi Menu. ISO setting is not available in XPERIA X2.</paragraph>
+			<paragraph>In the advanced settings you will find options for white balance, picture quality, picture size, effects, self-timer and geotagging.</paragraph>
+			<paragraph>The other notable camera features include touch focus and image stabilization. The touch focus works like a charm, allowing you to choose the focus point, while the image stabilization speaks for itself - just don't expect any miracles.</paragraph>
+			<paragraph>The status bar at the bottom is a new addition and it displays all the options you have chosen in the viewfinder - from size to self-timer. It is very nice of Sony Ericsson to save us all the digging in the menus just to check if geotagging is on for example.</paragraph>
+			<paragraph>Image quality</paragraph>
+			<paragraph>The image quality is surprisingly good, outclassing a top-end Cyber-shot like the C905. Colors are rich and accurate, there's no over-sharpening or purple fringing, white balance is fine, there is enough resolved detail with foliage looking especially good. It's only that we believe the resolved detail could be somewhat better, but we are nitpicking here.</paragraph>
+			<paragraph>However we noticed that the Sony Ericsson XPERIA X2 is having the pink spot issue that we know from the HTC HD2 camera. It might be mistaken for wrong white balance in busier scenes but when you point the camera towards a white wall it becomes pretty evident. You can also clearly see it our res-chart shot below. HTC already came up with a fix for that issue so we are hoping Sony Ericsson will follow suite soon.</paragraph>
+			<paragraph>Synthetic resolution</paragraph>
+			<paragraph>We also snapped our resolution chart with the XPERIA X2. You can check out what that test is all about here.</paragraph>
+			<paragraph>Video recording is useless</paragraph>
+			<paragraph>The camcorder interface copies the camera one. The XPERIA X2 is capable of capturing videos at 30 fps and uses the LED flash as a video light. Unfortunately, the video quality is just awful. The captured videos have almost no detail, they are blurred, pixilated and are completely useless. Even the actual frame rate goes up to 10-15 fps and the rest is just duplicated frames. In fact the videos look more like a QVGA sample at 10 fps extended to WVGA @ 30fps.</paragraph>
+			<paragraph>Here is a sample video for you to see.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Top-notch connectivity<subsectionTitle>
+			<paragraph>When it comes to connectivity the Sony Ericsson XPERIA X2 has it all - HSDPA 7.2Mbps, HSUPA 2Mbps, Wi-Fi with DLNA support, stereo Bluetooth + EDR. It hasn't added 802.11n yet but that is still extremely rare to be seen in a mobile phone.</paragraph>
+			<paragraph>The X2 has quad-band GSM support for worldwide roaming and dual-band 3G - 900 and 2100 MHz bands are supported (that is Europe and the likes). You can check out our Worldwide GSM Network Bands distribution database for further reference.</paragraph>
+			<paragraph>USB 2.0 connections are supported as well, through a microUSB port. When connected to a computer, the XPERIA X2 prompts you to select among ActiveSync, Mass Storage or Modem mode.</paragraph>
+			<paragraph>The 3.5mm audio jack for the audio purists is also onboard, and it serves the TV out function too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Internet Explorer Mobile has full Flash support<subsectionTitle>
+			<paragraph>As you may have expected, the web browser is Internet Explorer 6 Mobile, which has received a nicer touch-optimized interface and cooler design since the Windows Mobile 6.5 update. It has even adopted some of the treats of Opera Mobile, including kinetic scrolling and Flash support.</paragraph>
+			<paragraph>There are five available font sizes and there is an optional mobile view mode. Still, with the high-res screen we are far more comfortable using the desktop mode as web pages look much more natural that way.</paragraph>
+			<paragraph>Zooming in is best done with a double tap on the text. Your other option is to hit the menu or tap and hold you finger on screen to launch the context menu and make a zoom slider appear. This kind of zoom has no Fit-to-screen mode.</paragraph>
+			<paragraph>A flaw of the IE browser is that it doesn't automatically rotate the pages with the built-in accelerometer. One would think that this is the easiest thing for the developers to do but they obviously saved themselves the effort here.</paragraph>
+			<paragraph>Anyway, you'll get there if you slide the keyboard. There isn't a setting for manually switching to landscape mode either so like it or not - sliding the hardware QWERTY keyboard out is the only way to go landscape.</paragraph>
+			<paragraph>The IE has Flash and Flash video support, thank to Flash Lite 3.1 and runs almost everything which requires Flash - even desktop YouTube streaming videos. Unfortunately, the browser is really slow and has a lot of lag, so don't expect much from Flash either. Of course you already know whose fault is that - the ageing hardware of the XPERIA X2.</paragraph>
+			<paragraph>We guess that and the handicapped zooming is exactly what dooms Internet Explorer Mobile to remain second best to Opera Mobile - and this is even after the major overhaul it has received.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Typical old school organizer<subsectionTitle>
+			<paragraph>Windows Mobile offers several time-management features and all of them are a breeze to synchronize with MS Outlook. It offers daily, weekly and monthly view. You can have the week start on either Monday or Sunday. Weekends can be hidden from the Calendar if you use it for business strictly.</paragraph>
+			<paragraph>As you may have guessed, this entire interface hasn't changed a bit since the dawn of the mobile OS and Sony Ericsson didn't bother to touch it either.</paragraph>
+			<paragraph>The To-Do list allows you to add tasks and assign them priority. The Notes also come in handy, as you can either type or directly write the text down on the screen. The Voice recorder and Calculator go without saying.</paragraph>
+			<paragraph>The Alarm clock has three alarm slots. Each Alarm can have its own repeat pattern. Due to the little customization options in the default Alarms application, we suggest you check out some free third-party alternatives.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>A mobile office and applications<subsectionTitle>
+			<paragraph>Among the other WM core applications is the Office Mobile package featuring support for viewing and editing Word, Excel, and PowerPoint files. With the latest version of Office Mobile, you also get the OneNote application.</paragraph>
+			<paragraph>Thanks to the Adobe Reader LE, there is also support for viewing PDF documents. We are pleased with the performance of the X2 in this area and with the TV-out support and the TV cable in the package, the XPERIA X2 would be ideal to present important docs wherever you like.</paragraph>
+			<paragraph>The rest of the apps include MSN Money and Weather, Windows Messenger, a YouTube client and a Search app. All of them are standard Windows Mobile stuff and we won't cover them in detail. You can also find a shortcut to the Windows Marketplace in the Start Menu.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GPS would be better off coupled with a satnav app<subsectionTitle>
+			<paragraph>The XPERIA X2 features a built-in GPS receiver with A-GPS support. The assisted GPS allows for a much faster satellite lock upon cold start thanks to current satellite data downloaded over Wi-Fi or the network.</paragraph>
+			<paragraph>Unfortunately, there is no navigation software preinstalled on the X2 so you will have to get one at your own expense. Of course, Google Maps comes preinstalled and it had no issues recognizing the receiver. Judging by this, we also reckon using it with a third-party app of your choice will be as easy as pie.</paragraph>
+			<paragraph>As usual, GPS navigation software is a regional thing and on your local market the XPERIA X2 can be pre-bundled with some sort of satellite navigation, but don't count on it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>WinMo gaming is possible<subsectionTitle>
+			<paragraph>There are four games onboard the Sony Ericsson XPERIA X2. The first two are the all too familiar Windows Mobile Solitare and Bubble Breaker, while the other two are way more interesting.</paragraph>
+			<paragraph>Xtrakt is a very good 3D racer with accelerometer control which is really responsive. Targets are touch optimized, so don't bother taking out the stylus. You can make impressive 3D stunts too using the accelerometer at the appropriate points in the game.</paragraph>
+			<paragraph>The second preinstalled game on the X2 is Experiment 13, a 3D logical puzzle. You play a professor who needs to collect shining spheres to activate teleport to the next level. No accelerometer control here.</paragraph>
+			<paragraph>Both games run smoothly and feature very nice graphics. We are sure there will be a lot more to come with the new Marketplace.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Sony Ericsson XPERIA X2 is supposed to carry the torch from the X1. Normally, you'd expect the successor to bring some innovations along but those are almost non-existent on the X2, save for the slightly (ever so slightly) larger display and the better snapper. Those aside, when we pop open the hood we find the old hardware lurking underneath the revamped exterior.</paragraph>
+			<paragraph>So, what's the point in releasing the XPERIA X2? Its hardware, put next to the competition, seemed outdated even back in September 2009 when the phone first saw daylight. And now, a few months later, when it is hitting the shelves, things look even worse.</paragraph>
+			<paragraph>There are lots of nice ideas incorporated into the Sony Ericsson XPERIA X2 (the improved panels, Flash support in the web browser, DivX and XviD video support out of the box) but you may be unable to enjoy them because of the slow system. Yep, 528 MHz sounded great two years ago, but feel pretty underpowered today in comparison with Snapdragons.</paragraph>
+			<paragraph>We really liked some of the panels too (if not all of them) but the sluggish interface and the unresponsive touchscreen ruined the experience.</paragraph>
+			<paragraph>If you already own the XPERIA X1 you could safely skip the upgrade to the X2. If, on the other hand, you're contemplating the purchase of a QWERTY-enabled PocketPC, the XPERIA X2 is pretty much in the picture, but it's not without alternatives.</paragraph>
+			<paragraph>We can think of at least three: the Samsung B7610 OmniaPRO, the HTC Touch Pro2 and the Acer M900. All of them pack side-slide QWERTY keyboards just like the X2 but unlike the X2, their screens are really big (reaching up to 3.8"). The HTC and the Acer are almost a year old and their hardware is similar to the XPERIA X2's, while the more recent B7610 OmniaPRO packs a faster CPU.</paragraph>
+			<paragraph>   Samsung B7610 OmniaPRO ? HTC Touch Pro2 ? Acer M900</paragraph>
+			<paragraph>Next up are the Nokia N97 and its light version, the N97 mini. Both run the Symbian OS but even if they have gone through a lot of software updates, their UI still feels immature. However, the Nokia N97 and Nokia N97 mini pack so many features and their prices have dropped so much you might be able to overlook this.</paragraph>
+			<paragraph>  Nokia N97 ? Nokia N97 mini</paragraph>
+			<paragraph>If you are sick of WinMo and want to taste something new, you could try the Maemo-powered Nokia N900. Nokia are working hard on improving Maemo, so its potential is growing by the hour. Another appetizing option is Motorola's great revival hope, the MILESTONE. Its cool looks, promising hardware, Android OS and the enormous capacitive touchscreen should be enough to make the competition tremble.</paragraph>
+			<paragraph>  Nokia N900 ? Motorola MILESTONE</paragraph>
+			<paragraph>No doubt, the XPERIA X2 is facing some strong competition and the few bright spots on its spec sheet are not enough to make it the definitive upgrade. The current street price of the smartphone is around 470 euro. And considering what you get for the money, that is steep.</paragraph>
+			<paragraph>WinMo 6.5 has tried to change the way we think of Windows Mobile. It is way more user-friendly now, much more thumbable, and the X-panels are not only fun but also useful. But it's obvious the XPERIA X2 would've made a lot more sense with Windows Mobile 7.</paragraph>
+			<paragraph>We can understand the predicament Sony Ericsson were in. The original XPERIA X1 is not a device to give up on just like this. But at some point they realized they needed to bring out an update before it was too late. And as it was becoming obvious WinMo7 was going to take too long, they decided to proceed with the XPERIA X2 as we know it.</paragraph>
+			<paragraph>No Snapdragon, no massive screen, they used the only thing that was available and they're good at: an 8 megapixel shooter. Is this good enough? Alright, fine. This may not be the whole story but in the end the X2 is very much like WinMo 6.5. A stopgap, a reflection of what could've been and a promise about what will be.</paragraph>
+		</subsection>
+	</page>
+</review>

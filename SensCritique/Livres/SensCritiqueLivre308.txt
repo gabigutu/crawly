@@ -1,0 +1,63 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le Garçon incassable</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2013</year>
+	<link>http://www.senscritique.com/livre/Le_Garcon_incassable/8844521</link>
+	<generalScore>6.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>16</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Le Garçon incassable</title>
+		<author>MediaYvetot</author>
+		<date>2013-10-23</date>
+		<score>0.8</score>
+		<content>Quelques mots sur l'auteure : Lauréate du Goncourt du Premier roman en 1995 pour "Les apparitions", Florence Seyvos a écrit plusieurs ouvrages pour la jeunesse. Elle est aussi la scénariste de quatre films de Noémie Lvovsky, dont le dernier, "Camille redouble". Sur le thème du regard de l'autre, Florence Seyvos brosse avec délicatesse deux portraits croisés, ceux de Buster et Henri, deux personnages très différents et pourtant semblables par leur solitude, leur façon d'être toujours comme en déséquilibre, en perpétuel décalage, en inéquation au monde qui les entoure... meurtris, fragiles et incassables à la fois. Un récit sobre et pudique, empreint d'une douce mélancolie, servi par une écriture sensible et sans pathos. (Le coup de coeur de Nathalie)</content>
+	</review>
+	<review>
+		<title>Le Garçon incassable</title>
+		<author>madametong</author>
+		<date>2013-09-29</date>
+		<score>0.8</score>
+		<content>"Le garçon inçassable" de Florence Seyvos : une écriture sensible, et un parallèle entre Buster Keaton et Henri, le demi-frère de la narratrice. Keaton donne l'impression d être dans son monde, tout comme Henri. Très beau récit.</content>
+	</review>
+	<review>
+		<title>L'impression d'être passé à coté de quelque chose...</title>
+		<author>Arnaud Malon</author>
+		<date>2015-07-06</date>
+		<score>0.6</score>
+		<content>Ce livre me laisse sur un sentiment d'inachevé... et d'un développement que j'ai eu du mal à cerner. Un parallèle intéressant entre l'histoire de Buster Keaton et celle de Henri, ce garçon "incassable"... mais qui finit par devenir artificiel, les échos entre les deux sont de plus en plus tenus... et on en sort, étonné que ça se finisse si brutalement, alors qu'il resterait tant à dire... ou est-ce qu'il restait encore tant à comprendre ? Bref, je suis perplexe... mais c'est sans doute mon esprit cartésien qui n'a pas trouvé de prise sur ce livre.</content>
+	</review>
+	<review>
+		<title>Henri plane... Buster pleure...</title>
+		<author>Fritz Langueur</author>
+		<date>2014-09-11</date>
+		<score>0.6</score>
+		<content>L’idée de départ était formidable. Une jeune femme superpose le destin de deux hommes, à aux étranges similitudes, qui partagent cette incroyable particularité d’être « incassable ». Il s’agit d’abord de Henri, son presque frère, souffrant d’un handicap mental et auquel elle est très attachée. L’autre est Buster Keaton, acteur mythique du muet au destin tragique presque à son insu sur lequel elle écrit une biographie. Ces deux hommes vont traverser leurs vies semées d’embuches, de chutes et de souffrances, sans en être toutefois, visiblement affectés. Florence Seyos dresse d’Henri un portrait tout en subtilité, plein de tendresse et aussi d’émerveillement face à cet être, sorte d’éternel petit garçon qui lui apporte tant. Cette même empathie aurait été souhaitable pour dresser le portrait de Keaton. A l’inverse, sa vie et sa carrière sont survolées sans approfondissement. L’auteure reste trop sur la réserve et ne propose en parlant de l’acteur, qu’un style épuré de toute passion. Il n’empêche que « Le garçon incassable » est un roman palpitant, délicat et très fluide. On pénètre dans cette intimité de ce frère hors norme et de cette sœur aimante, partageant leurs réflexions mais surtout cet amour infaillible qui les lit. Au-delà de l’émotion... le charme discret du bonheur…</content>
+	</review>
+	<review>
+		<title>Le Garçon incassable</title>
+		<author>Nenette87</author>
+		<date>2015-04-07</date>
+		<score>0.8</score>
+		<content>Je tiens tout d'abord à remercier les éditions Le Point pour m'avoir fait participer au Prix du Meilleur Roman, dans le cadre du quel j'ai reçu cet ouvrage. Voilà deux bien belles histoires. L'auteure nous raconte deux histoires en parallèle : celle d'Henri son demi frère handicapé mental et moteur depuis la naissance, et celle de Buster Keaton. Alors j'avoue ne pas bien avoir compris le lien entre les deux histoires. On passe d'une histoire à l'autre sans grande logique de mon point de vue. Pour autant, je n'avais jamais lu jusqu'alors une description si touchante et si vrai du handicap. L'écriture est très belle, et ce tout petit livre se lit en deux heures à peine tant il agréable à lire et attachant.</content>
+	</review>
+	<review>
+		<title>Le Sermon sur la chute de Buster Keaton</title>
+		<author>Seb C.</author>
+		<date>2013-08-16</date>
+		<score>0.7</score>
+		<content>Le « meilleur roman français de l'été » d'après un paquet de revues culturelles nous vient donc de Florence Seyvos, scénariste des films de Noémie Lvovsky (dont le dernier « Camille redouble ») et auteur d'une douzaine de livres pour la jeunesse publiés à l'École des loisirs. « Le Garçon incassable » serait autobiographique, relatant la croissance d'un frère handicapé mental et physique avec lequel la narratrice/l'auteur a vécu durant toute son enfance et une partie de l'âge adulte. Henri, c'est son nom, est un garçon squelettique, souffrant de difficultés à exercer les gestes du quotidien, calme, réservé et considérant la vie avec la candeur et l'ignorance d'un nouveau né. Le livre nous lance sur ses traces, de la maison d'Abidjan qui l'a vu grandir à son arrivée en France où, la vingtaine passée, il a été pris en charge par un centre spécialisé. Construit en une série d'anecdotes à la fois tendres, tristes et drôles, raconté du point de vue de la narratrice (qui est donc sa sœur), ce « Garçon incassable » nous dit pourtant aussi l'histoire de... Buster Keaton, acteur comique phare de la première moitié du vingtième siècle, célèbre pour sa mise en danger physique permanente dans des rôles très techniques. Florence Seyvos joue en effet sur deux tableaux en alternant le récit de la vie de ce frère avec celui de Keaton. De ces deux garçons, seul l'un est en apparence réellement incassable : Buster Keaton, dont la résistance physique a été mise très tôt à l'épreuve dans des numéros de cirque spectaculaires par ses propres parents, saltimbanques de profession. L' « incassable » du titre est donc plutôt à chercher dans la psyché de ces deux personnages, qui malgré leurs différences vont être tous deux mis face à d'extrêmes difficultés pour grandir. Malgré le pedigree de Seyvos et le titre même du livre, on « casse » beaucoup ici. De Buster Keaton, Seyvos racontera l'enfance puis l'âge adulte, fidèle à la réalité qui a vu se succéder l'ascension de l'acteur puis la chute de l'homme. On évite largement le pathos et on passe même par des moments d'humour assez réjouissants : la description des pièces du petit Keaton, utilisé comme projectile humain à l'âge de six ans, a de quoi faire sourire. Avec la même légèreté de ton, Seyvos raconte la croissance du frère. Cette partie-là est la plus réussie, on sent à l'évidence l'auteur plus proche d'Henri qui est raconté par une multitude de scènes très fortes, tour à tour tendres ou affreuses. Grâce à un écriture précise et sensible, on devine les tourments dont il est la proie, on partage aussi la douleur de ses proches unis dans l'effort de l'élever aussi normalement que possible. On en vient même, au fil du texte, à considérer ce qu'on lit de son propre point de vue, dans un mélange troublant de placidité et d'inquiétude, avec cette sensation de vivre dans un univers qui n'appartient qu'à soi mais, en sourdine, avec la certitude angoissante de mal intérpréter les choses sans pouvoir y remédier. Des moments d'empathie avec l'handicapé et avec sa sœur, le livre en regorge, plein de cœur et d'espoir, mais également traversé par la désolation (toujours pudique) de comprendre que c'est quelque part, comme le dit sèchement l'un des personnages, « une vie pour rien ». À ce niveau, on regrettera donc que Seyvos s'acharne à établir un parallèle avec la vie de Keaton, intéressant au début mais perdant en intérêt lorsqu'on comprend que l'auteur se contente de plus en plus d'en dérouler la biographie à la manière d'un roman-wiki. Rien de vraiment dommageable, même si cette dualité, vaguement désagréable (à y associer : la scène finale de la projection au cinéma, un peu lourde, censée faire le pont entre les deux vies) aurait pu être, sinon supprimée, peut-être un peu plus travaillée pour tenir jusqu'au bout. Tant pis, le bouquin reste largement recommandable, d'autant que son style à la fois élégant et pudique le rend accessible à tous. « Je regarde son visage, sa bouche charnue, le bord de ses incisives qui dépasse de sa lèvre supérieure. Henri a les dents du haut tellement en avant qu'il peine à fermer les lèvres. Ce qui fait que ses baisers sont invariablement mouillés et peuvent même laisser une petite mare de salive sur la joue. « Ferme la bouche, Henri, fais-moi un baiser sec », ne cesse de lui dire son père. François et moi redoutons les baisers d'Henri. Nous nous essuyons la joue avec force et dégoût. Je regarde ses yeux qui divergent, le gauche vivant sa vie solitaire. Henri a des yeux d'une très grande beauté. Ils sont immenses, d'un vert mêlé de noisette et pailleté d'or. Ses sourcils ont une ligne délicate et parfaite. Quand il est heureux, comme il l'est en cet instant, au restaurant de la plage, son visage est à la fois doux, confiant et illuminé. J'ai gardé une photo d'Henri prise un dimanche sur cette plage. C'est un enfant magnifique. Chaque fois que je la regarde, je ne vois que sa beauté. Et la joie dans ses yeux est si intense, si limpide qu'elle me pulvérise le cœur. »</content>
+	</review>
+</sensCritiqueEntity>

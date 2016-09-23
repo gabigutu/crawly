@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le Spectre aux balles d'or - Blueberry, tome 12</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1972</year>
+	<link>http://www.senscritique.com/bd/Le_Spectre_aux_balles_d_or_Blueberry_tome_12/373454</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>123</numberOfVoters>
+		<numberOfVoters>288</numberOfVoters>
+		<numberOfVoters>241</numberOfVoters>
+		<numberOfVoters>106</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Un chef d'oeuvre du neuvième art !</title>
+		<author>Alix Pradel</author>
+		<date>2012-04-16</date>
+		<score>1.0</score>
+		<content>Franchement une superbe BD (même si toutes les BDs Blueberry de charlier et Giraud sont géniales), surtout pour les amateurs de Western Italiens (ou Spaghetti, c'est pareil), qui se régaleront à coup sûr. On prend part avec le tres charismatique lieutenant Blueberry , le froid Wally Blount et l'attachant Jim macClure à une course poursuite épique à la recherche du mysterieux "Prosit" Luckner dans un désert du sud des USA, dans le but de retrouver un fabuleux trésor caché dans la Mesa du Cheval Mort, maudite selon les Navajos. l'histoire, dans laquelle on retrouve pas mal de clichés sortis de westerns de l'illustre Sergio Leone, comme l'idée fixe de la fortune qu'on retrouve dans la trilogie du dollar ou dans celle de l'histoire de l'Amérique est malgré cela passionnante, mais je ne spoilerai pas plus sur l'histoire. Les dessins tout simplement parfaits de Giraud et les très bons dialogues rendent l'environnement hyper immersif et l'histoire encore plus prenante. Quand je l'ai lu, je ne pouvait pas stopper cette aventure et je n'avait en même temps pas envie de la terminer. c'est d'ailleurs la le seul défaut que je lui donnerai, c'est que la BD est un peu trop courte. Malgré cela, il y a tout de même du suspense et beaucoup de questions que l'on se pose du genre qui se cache derrière le spectre, pourquoi a-t'il des balles en or, qui est réellement Luckner... En bref, c'est une superbe BD que je recommande à tous le monde, même ceux qui ne sont au départ pas réellement fan de western. Il est préférable de lire le Tome précédent, "La mine de l'Allemand perdu" pour comprendre l'histoire, même sil'on peut s'en passer.</content>
+	</review>
+	<review>
+		<title>Le Spectre aux balles d'or - Blueberry, tome 12</title>
+		<author>RiahLondes</author>
+		<date>2014-07-09</date>
+		<score>0.8</score>
+		<content>Bon y a pas à dire. C'est vraiment une super BD. Je range pour de bon les a priori que je pouvais avoir sur BlueBerry. Les personnages ont une sacrée présence, les dialogues toujours aussi prenants, tout comme l'histoire et l'intrigue qui montent en puissance par rapport au tome précédent. On s'attend toutefois au dénouement. Mais c'est pas si grave, j'ai passé un bon moment !</content>
+	</review>
+	<review>
+		<title>Paire incontournable</title>
+		<author>Muffinman</author>
+		<date>2016-03-25</date>
+		<score>0.8</score>
+		<content>Il arrive bien souvent qu'on lise à droite et à gauche que tel album est le chef-d'œuvre de la collection pour être ensuite déçu lorsqu'on le découvre enfin. Et bien cette fois-ci, ce n'est pas le cas. Le diptyque La Mine de l'Allemand perdu/Le Spectre aux balles d'or est impressionnant et ne vole absolument pas sa réputation. J'ai toutefois une certaine préférence pour le second tome, mais c'est anecdotique. Le scénario de Charlier est en béton armé (il laisse d'ailleurs de côté les ruses de Sioux de Blueberry ou les interjections très marquées et datées, ce qui fluidifie le récit et le rend beaucoup plus réaliste) et le dessin de Giraud rehaussé par la colorisation d'Evelyne Tranlé (sœur de Jean-Claude Mézières, qui colorise également tous les albums de VALERIAN - autre série phare de Pilote à la même époque), a atteint son style classique. Je n'étais pas franchement un grand amateur de western en BD, mais je dois bien avouer que les 12 premiers albums de BLUEBERRY (ainsi que les trois premiers de LA JEUNESSE DE BLUEBERRY) m'ont réconcilié avec le genre.</content>
+	</review>
+	<review>
+		<title>Le Spectre aux balles d'or - Blueberry, tome 12</title>
+		<author>Bertrand Mouden</author>
+		<date>2013-05-19</date>
+		<score>0.9</score>
+		<content>suite à la hauteur de la mine de l'allemand perdu.</content>
+	</review>
+	<review>
+		<title>Fascinant, mais...</title>
+		<author>Eric Pokespagne</author>
+		<date>2014-10-29</date>
+		<score>0.7</score>
+		<content>Ce deuxième tome du cycle des "Monts de la Superstition" est encore plus fascinant que le premier, mais on y sent les limites de la narration et de la mise en page caractéristiques de Blueberry, qui en rendent la lecture un peu difficile. Dommage ! [Ecrit en 2004]</content>
+	</review>
+</sensCritiqueEntity>

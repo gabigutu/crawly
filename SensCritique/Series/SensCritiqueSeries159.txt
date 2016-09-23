@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Panique au village</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2002</year>
+	<link>http://www.senscritique.com/serie/Panique_au_village/27737</link>
+	<generalScore>7.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>56</numberOfVoters>
+		<numberOfVoters>145</numberOfVoters>
+		<numberOfVoters>208</numberOfVoters>
+		<numberOfVoters>115</numberOfVoters>
+		<numberOfVoters>47</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>C'est comme si les Monty Python avaient 5 ans !!!</title>
+		<author>laurentN</author>
+		<date>2013-05-07</date>
+		<score>0.8</score>
+		<content>C'est totalement déjanté. Ça peut faire penser à ce qu'aurait pu être la possession, par les esprits des Monty Python, de corps de gamins de 5 ans, jouant avec des figurines en plastiques. Ou comment garder l'esprit de l'enfant qui joue à cow-boy, indien, cheval, dans un coin de sa chambre, en lui donnant un goût d'absurdus delirium délicieux, voire furieux.</content>
+	</review>
+	<review>
+		<title>Panique au village</title>
+		<author>geoff87</author>
+		<date>2011-02-14</date>
+		<score>0.9</score>
+		<content>Pur produit Belge, Panique au village déborde d'imagination et d'inventivité, comme si les histoires des figurines d'un enfant prenaient vie sous nos yeux, une série hilarante et incomparable, doté d'un doublage liégeois excellent.</content>
+	</review>
+	<review>
+		<title>Panique au village</title>
+		<author>matisovich</author>
+		<date>2010-12-07</date>
+		<score>0.9</score>
+		<content>Ca suffit les poissons! Rendez nous le jeu de cartes!!!!</content>
+	</review>
+	<review>
+		<title>Une oeuvre pour toute la crétintié</title>
+		<author>ryohji</author>
+		<date>2015-06-19</date>
+		<score>0.9</score>
+		<content>Au début des années 2000, les habitués de Canal + et Canal + Belgique découvrent une série de courts métrages hystériques par les papas de Picpic le cochon magik et André le mauvais cheval (Stéphane Aubier et Vincent Patard): Panique au village. Mais c'est quoi Panique au Village? Panique au village c'est d'abord un mélanges de matières. On a du plastiques pour les personnages et animaux qui sont ces figurines mal dégrossies de notre enfance, de la plasticine pour l'animation et du carton peint pour tout les reste. On a donc des personnages qui, paradoxalement, sont figé sur leurs socles mais qui bougent dans tous les sens a des vitesses affolantes, se dodelinant sur leur socles (toujours visible). Mu par des moyens techniques inventifs (qui sont très bien expliqué dans le making-Of présent sur le DVD de la série). Les saccades folles de leurs déambulations ne sont pas qu'une limitation technique et un choix artistique, c'est aussi un des nombreux supports de l'humour joyeusement idiot qui fait le sel de cette série. Panique au village c'est du son. Du son et des voix. Des voix connues comme Benoit Poelvoord après son 35ém expresso en hilarant Steven le fermier ou Bouli Lanners. Des moins connu comme l'auteur de bédé Frédéric Janin ou encore Aubier et Patard eux-même. Tous en commun une diction typique de la Wallonie, à la limite du patois pour certains, et des voix supportant le ridicule assumé des histoire et du non-sens de l'humour. Les bruitages, fait de casseroles entrechoquées ou de moulins à légumes rouillés, arrivent encore à en rajouter une couche. Panique au village c'est de la folie furieuse. Des météorites qui changent Coboy en Hulk rouge. Une équipe de foot en route pour le mondiale 86 qui affronte en match truquée les bras cassés du village. Un chasse au renard qui vire à la course poursuite. Un critérium cycliste idiot... Tout est prétexte pour Indien et Coboy, les deux principaux crétins, de se mettre dans des situations idiotes et dans les ennuies jusqu'au cou pour notre plus grand bonheur. Panique au village c'est un truc qui ressemble à rien d'autre. C'est frais, sans prise de tête. C'est un parfait ambassadeur de la créativité Wallonne et c'est un des rares trucs qu'on peut voir 5 fois à la suite sans se lasser. Un bijou.</content>
+	</review>
+	<review>
+		<title>Panique au village</title>
+		<author>durandal</author>
+		<date>2011-10-21</date>
+		<score>0.8</score>
+		<content>Un film d'animation si on peut dire. Fait avec trois bouts de ficelle, le côté volontairement amateur n'en est que plus drôle. J'ai beaucoup ri à la vision de ce film plein d'imagination. Un cheval qui ne cesse de s'excuser pour ses absences auprès de sa prof de piano du fait qu'il poursuit des méchants en plongée sous-marine, vous y croyez vous ? Et les accents belges des protagonistes ne font qu'ajouter à la cocasserie de l'ensemble.</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,49 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Monk's Dream</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1963</year>
+	<link>http://www.senscritique.com/album/Monk_s_Dream/5794005</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>11</numberOfVoters>
+		<numberOfVoters>40</numberOfVoters>
+		<numberOfVoters>109</numberOfVoters>
+		<numberOfVoters>84</numberOfVoters>
+		<numberOfVoters>33</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Monk's Dream</title>
+		<author>Sergent Pepper</author>
+		<date>2013-11-01</date>
+		<score>1.0</score>
+		<content>L'un des sommets de la carrière de Monk, jubilatoire et virtuose. Une référence absolue en la matière.</content>
+	</review>
+	<review>
+		<title>Monk's Dream</title>
+		<author>Kevin Gosse</author>
+		<date>2015-03-20</date>
+		<score>1.0</score>
+		<content>Jazzman singulier, Thelonious Monk dut, contrairement aux autres précurseurs du be-bop, Bird ou Gillespie en tête, attendre la fin des 50's pour obtenir le début d'une véritable reconnaissance publique et critique. Mieux, la nouvelle décennie lui offrira enfin la consécration attendue en le plaçant au panthéon des pianistes. Petit rappel des faits. 1962, Monk rejoint Columbia, label de son ancien comparse et bref sparring-partner musical, Miles Davis, avec lequel il enregistra une unique et mémorable session un 24 décembre 1954 (regroupée sur les deux albums essentiels Miles Davis and the Modern Jazz Giants et Bags' Groove). Détail amusant autour de ces deux illustres jazzmen aux caractères bien trempés, si l'ombrageux trompettiste enregistra pour le label Prestige une première version de 'Round Midnight, Davis intitula néanmoins son premier album pour la major du même nom que le standard de Monk en 1957. Fin de l'aparté. Enregistré à New-York dans l'illustre Columbia 30th Street Studio les 31 octobre, 1er, 2 et 6 novembre 1962, Monk's Dream synthétise, au sens propre comme au sens figuré, l'art du pianiste. Accompagné de son quartette, le saxophoniste ténor Charlie Rouse, le contrebassiste John Ore et le batteur Frankie Dunlop, Monk profite de ce nouveau contrat, et des nouveaux moyens qui lui sont octroyés, pour graver ce qu'il convient de définir aujourd'hui comme un parfait guide pour quiconque voudrait découvrir l'univers musical passé, présent et futur de ce jazzman d'exception. Dans la grande tradition monkienne, le pianiste va ainsi piocher dans son ancien répertoire, et lui offrir sinon une nouvelle lumière, du moins une interprétation proche de la perfection. Seule « originalité » concédée, Monk's Dream contient une composition inédite, Bright Mississipi, les autres, on l'aura compris, ayant déjà été joués en public et/ou enregistrés par Monk plusieurs années auparavant. Du classique éponyme aux standards Body and Soul et Sweet and Lovely, en passant par le renommé Blue Bolivar Blues, l'imprévisibilité et le style si particulier du pianiste établissent, si besoin est, le caractère rare de Monk, à une époque où le bop apparaissait dépassé. Au besoin, l'écoute de Just a Gigolo devrait convaincre les derniers indécis. En attendant 1964 et la couverture du Time Magazine un 28 février, et quelques mois plus tard, It's Monk's Time, un autre incontournable de sa riche discographie. http://www.therockyhorrorcriticshow.com/2015/02/cronico-ristretto-monks-dream.html</content>
+	</review>
+	<review>
+		<title>Intense, et lancinant</title>
+		<author>plvarnier</author>
+		<date>2016-06-01</date>
+		<score>1.0</score>
+		<content>Quelque part, on pourrait dire qu'il n'y a pas plus jazz que Monk, tant son art est le fruit d'une esthétique en opposition radicale avec celle de la musique classique (ou, plus généralement, la musique savante). En effet, si durant des siècles on a cherché l'harmonie, l'unité, la consonnance, la progressivité dans la musique, Monk vient ici nous livrer, plutôt qu'une poésie de la paix, celle de la souffrance et de la dissension. Son art se structure en fait par des va-et-vient entre des passages très tonaux et harmonieux mais de courte durée, et des chutes soudaines dans la dissonance, dans des écarts de hauteurs démesurés entre très aigus et très graves, avec une nuance en proie à des spasmes, un rythme dans un décalage constamment inconstant, un toucher d'éléphant, qui enfonce les touches non pas avec délicate progressivité mais avec une violence brusque pour les relâcher aussitôt et faire libre place au silence, afin de mettre en exergue cette folie musicale : car c'est à sa folie, et à sa souffrance profonde, que le pianiste laisse libre cours ; pourtant l'étalon est toujours maîtrisé, le dérèglement mental est conscient et toujours parfaitement cohérent, chaque morceau et chaque note sont parfaitement pensés, mais suivant les critères, constants mais inhabituels, de la folie et de l'emportement. Ses partenaires musicaux l'ont très bien compris : le swing s'en ressent, chaque temps de la mesure semblant lui aussi s'écraser de manière abrupte grâce à la walking bass pesante, engendrant un rythme très fort et lourd, et un son donnant envie de taper du pied avec hargne. L'esthétique de Monk est donc une violence vive mais toujours mue de mélancolie, capable de s'exprimer par des moyens très variés, l'instrumentiste disposant d'une créativité assez effervescente pour ce qui est de donner différents corps à son inspiration. Résultat, un album d'une personnalité très forte, solide et extrêmement intense, qui marquera l'esthétique jazz pour des générations.</content>
+	</review>
+	<review>
+		<title>Monk's Dream</title>
+		<author>FrançoisLesbre</author>
+		<date>2013-03-05</date>
+		<score>1.0</score>
+		<content>Thelonious est mon héros</content>
+	</review>
+</sensCritiqueEntity>

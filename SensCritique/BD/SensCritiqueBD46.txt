@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>The Sandman, Vol. 3: Dream Country</nameEn>
+	<nameFr>Domaine du rêve - Sandman, tome 3</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1990</year>
+	<link>http://www.senscritique.com/bd/Domaine_du_reve_Sandman_tome_3/398612</link>
+	<generalScore>8.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>39</numberOfVoters>
+		<numberOfVoters>88</numberOfVoters>
+		<numberOfVoters>78</numberOfVoters>
+		<numberOfVoters>30</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Domaine du rêve - Sandman, tome 3</title>
+		<author>Sebastos</author>
+		<date>2014-01-01</date>
+		<score>0.8</score>
+		<content>Un peu déçu par ce troisième tome, qui n'est qu'une compilation de chapitres sans lien entre eux, et c'est justement ce manque de liant qui me pousse à ne mettre que 8/10 à ce volume. Bon c'est toujours magnifiquement écrit et réalisé, mais c'est un peu moins bon que les précédents, et je l'espère, beaucoup moins bon que les tomes suivants...</content>
+	</review>
+</sensCritiqueEntity>

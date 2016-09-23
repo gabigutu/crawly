@@ -1,0 +1,156 @@
+<review>
+	<title>Charge test</title>
+	<description>Battle of the fast chargers</description>
+	<link>http://www.gsmarena.com/charge_test-review-1239.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Smartphone batteries piggybacked on the growing screen size to go up in capacity to support both the screen and faster chipsets. Slower to deplete, the new batteries also proved slower to charge so manufacturers tackled the issue with new standards.</paragraph>
+			<paragraph>USB 2.0, the most popular charger at the moment typically puts out 500mA. Gradually manufacturers started bundling more powerful chargers, going over 2A in some cases. USB 3.0 offers a bit more power than the older standard, but its wide adoption in smartphones is not happening anytime soon.</paragraph>
+			<paragraph>Both manufacturers and chipset makers were not content with this and developed their own standards. We'll be testing solutions from Qualcomm, Oppo, Samsung and Intel (the last two seem to use Qualcomm's tech). We also have two iPhones in the mix even though Apple doesn't have an official fast charge solution.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>There's a common standard on the horizon too - while USB 3.0 failed to take hold on mobiles, the USB Type-C connector might prove more successful. Reversible and capable of carrying more power - up to 3A at 5V for 15W total it looks to have what it takes. It's still larger than 2.0 connectors though, so we'll see if it will play nice with the ongoing struggle to make smartphones as slim as possible.</paragraph>
+			<paragraph>This matches the power from the Quick Charge 2.0 standard, though the latest USB standard also has an optional Power Delivery profile that can push up to 100W. That's intended for laptops and monitors, but the profile also has a number of lower steps which may one day land on phones and tablets.</paragraph>
+			<paragraph>We may or may not see USB Type-C mobiles this year, but it's clear that the current chargers will survive. Some of them fundamentally change the battery, Oppo for example splits it into multiple cells that are charged separately.</paragraph>
+			<paragraph>Since these charging standards work best when the battery is close to empty, we started with a fully depleted battery and wrote down the charge every five minutes. The phones were off initially and we powered them on after the first five minutes.</paragraph>
+			<paragraph>We'll compare all the phones together, but we'll also cover each phone's performance individually.</paragraph>
+			<paragraph>If you're new to charging tech, we researched each one we are testing and summarized our findings on the next page. You can quickly get acquainted or skim it and go to the following page for the showdown.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Qualcomm Quick Charge<subsectionTitle>
+			<paragraph>Qualcomm has been working on faster charging phones for a while now. Their Quick Charge tech, currently in its second generation, employs an extra Power management integrated circuit inside Snapdragon chipsets, which allows it to charge significantly faster.</paragraph>
+			<paragraph>Quick Charge 1.0 was introduced in 2012 and it made use of a 5V/2A charger, which could charge a phone up to 40% faster than conventional 5V, 1A chargers. That boost accounts for a 10W max charging power.</paragraph>
+			<paragraph>Qualcomm Quick Charge 1.0 was available on phones such as the Samsung Galaxy S III, LG Nexus 4 and LG Optimus G, the Sony Xperia T and the Redmi2.</paragraph>
+			<paragraph>Pretty much all Qualcomm Snapdragon 400 chipsets today come equipped with Qualcomm Quick Charge 1.0.</paragraph>
+			<paragraph>Qualcomm Quick Charge 2.0 was introduced later on in 2013 with the Snapdragon 800 chipsets. It made use of a 9V/1.67A charger, which improved on the existing design, by offering up to 75% faster battery topping than conventional 5V, 1A chargers. That accounts for a maximum of 15W charging power.</paragraph>
+			<paragraph>The charging current is actually adaptive and smartphones can negotiate either regular 5V/2A current or the higher 9V/1.67A current. These chargers are safe for use with regular phones as well. It's up to the phone to determine the charging speed, which is one of the reasons why a more powerful charger does not automatically mean faster charging.</paragraph>
+			<paragraph>Plenty of the latest devices support Quick Charge 2.0 including the Moto X 2nd gen and the Nexus 6, the Samsung Galaxy Note 4 and Galaxy Note Edge, Sony's Xperia Z3 and Z3 Compact, the HTC One M8 and the Xiaomi Mi 4. Not to mention the more recent HTC One M9 and the LG G Flex2, which utilize Qualcomm's latest Snapdragon 810.</paragraph>
+			<paragraph>To put the technology in perspective, Qualcomm quotes a laboratory test that they've carried out where within a 30-minute charging window a smartphone with a 3300mAh battery would charge the following:</paragraph>
+			<paragraph>It's a striking difference, indeed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Oppo VOOC Flash Charge<subsectionTitle>
+			<paragraph>Chinese manufacturer Oppo has been using Qualcomm's chips quite successfully, but Oppo has come up with a quick charging innovation of their own and it's in its second generation as well. They call it VOOC Flash Charging, with the VOOC standing for Voltage Open Loop Multi-Step Constant-Current Charging.</paragraph>
+			<paragraph>In the beginning Oppo's VOOC chargers such as the ones bundled with the Find 7 were bulky and supplied 5V/4.5A current for max charging power of 22.5W.</paragraph>
+			<paragraph>The second-gen chargers, called VOOC mini for the reduced size of the charging head, come as standard with the Oppo N3 and the R5 and allow for the cable to be separated from the charger. They also supply a maximum of 5V/5A current, meaning 25W max charging power.</paragraph>
+			<paragraph>But that's not the only thing Oppo does differently than Qualcomm. The battery on a VOOC-enabled phone consists of several battery cells and the high 5A current is split among those. Due to this, the battery has a higher number of contacts than usual. The technology also employs a special microUSB cable, which has 7 pins instead of the usual 5.</paragraph>
+			<paragraph>The charging current is also constantly monitored by a microcontroller unit inside the phone.</paragraph>
+			<paragraph>The battery is not charged all the time at this high current. As the promo materials have it when about 75% of the battery capacity has been reached, the charger will limit the output to 2A. Then, when about 85% has been reached, the charging current will drop down to 1A.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other quick charging solutions<subsectionTitle>
+			<paragraph>Samsung Fast Charge solution is no different than Qualcomm's Quick Charge 2.0. Samsung uses its own Exynos chipset for the Galaxy S6 and Galaxy S6 Edge so you'd reckon they didn't have the luxury of relying on Qualcomm's ready-made solution that comes with Snapdragon processors. Or did they?</paragraph>
+			<paragraph>After some research we found out that Qualcomm is actually offering their Quick Charge 2.0 technology to third-party OEMs royalty free. All they have to do is integrate the extra Power management integrated circuit into their designs.</paragraph>
+			<paragraph>The Galaxy S6 duo ships with the same 9V/1.67A chargers that you would get with their certified Qualcomm Quick Charge 2.0 products such as the Galaxy Note 4. Note that Samsung labels its compatible chargers with "Adaptive Fast Charging."</paragraph>
+			<paragraph>Intel seems to be using Qualcomm's Fast Charging 2.0 tech as well. What we found out is that the Asus Zenfone 2 ZE551ML for instance, even exceeds the standard specs. Its charger is capable of supplying up to 9V/2A current or up to 16W charging power. Asus has dubbed their tech ASUS BoostMaster Technology, but for all we know, it's just a marketing name and not a new quick charging technology of their own.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The Showdown<subsectionTitle>
+			<paragraph>Most phones display their charge in percentages, but chargers are rated in amps. We've plotted both battery charge in terms of percent and in milliamp hours (mAh), but it's the second chart that really separates charging tech into two classes.</paragraph>
+			<paragraph>Samsung, Oppo and Asus are grouped together, towering over Apple, HTC and Meizu's offerings. The Oppo N3 shoots up, reaching 2,000mAh first but between that mark and the 3,000mAh mark it slows down so it doesn't shorten the life of the battery.</paragraph>
+			<paragraph>This allows the Samsung Galaxy Note 4 to pass it, Samsung's flagship phablet has a slightly higher capacity battery but it finishes neck and neck with the Oppo. The Galaxy Note Edge matches the N3's 3,000mAh battery and fills it up just as fast.</paragraph>
+			<paragraph>Asus Zenfone 2's 3,000mAh battery takes longer to charge, despite using a charger with the same power rating. It starts to slow down around 70% charge, which caused it to lose this race.</paragraph>
+			<paragraph>The Samsung Galaxy S6 duo charges as fast as the Notes, however its speed tapers off for the final fifth of battery capacity.</paragraph>
+			<paragraph>The second group charges at practically the same speed in terms of milliamp hours, small surprise given their mostly standard chargers. The Apple iPhone 6 drops off from the group after about an hour and a half and fills up the final 10%-15% in about half an hour.</paragraph>
+			<paragraph>We also hooked up the Apple iPhone 6 Plus and HTC One M9 to more powerful chargers (rather than the ones that come in their respective boxes) - an iPad and a Quick Charge 2.0 chargers respectively. This significantly sped things up, pushing both phone close to the fast charge clique. Actually, the One M9 supports Quick Charge 2.0 so we expected to see it charge even faster.</paragraph>
+			<paragraph>When looking at the percent charge graph the same two groups form, though this time the Apple iPhone 6 almost manages to get into the fast charging group, largely due to having the smallest battery in the group.</paragraph>
+			<paragraph>The Oppo N3 is again the quickest off the mark, but this chart also shows that it slows down. The Samsung Galaxy S6 and S6 edge are the first to hit 100%, leading the higher-capacity Galaxy Note 4 and Note Edge by about 10 minutes.</paragraph>
+			<paragraph>The Notes very narrowly beat the Oppo N3 to 100%, by just a couple of minutes really. For quick tops the N3 is fastest and it keeps its lead all the way to around 90% when it applies the breaks.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>A quick note before we begin - for each phone we've calculated an Endurance rating after 15 minutes and after 30 minutes of charge. This assumes the phone starts at 0% charge and is calculated based on our traditional Endurance rating scaled according to how much charge is in the phones battery after the allotted time.</paragraph>
+			<paragraph>Also, we calculated the three other numbers - talk time, web browsing and video playback. As with the regular Endurance rating these numbers represent the maximum the phone can last under the specific workload.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S6<subsectionTitle>
+			<paragraph>Samsung's Galaxy S6 duo went back in battery capacity. The flat-screened Galaxy S6 has 2,550mAh, the price to pay for its thinness. Samsung ships it with an Adaptive Fast Charger, which puts out 5V/2A to regular devices or 9V/1.67A to supported devices.</paragraph>
+			<paragraph>The Galaxy S6 reached full charge in 1 hour 20 minutes. After 15 minutes of charging, it can do over 5 hours of 3G calls, 3 hours of web browsing or 3 hours of video playback. While it has a smaller battery, the Galaxy S6 is pretty efficient so less charge lasts longer.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S6 edge<subsectionTitle>
+			<paragraph>The Samsung Galaxy S6 edge has just 50mAh more battery capacity, but it's charging behavious was slightly different. It was a little slower at first, but caught up and even overtook the Galaxy S6 halfway through.</paragraph>
+			<paragraph>Still, considering the similar charging speed and identical endurance rating, the benefit from 15 minutes of charge is almost identical - over 5 hours of talking, 3 hours of web browsing or 3 hours of video playback.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Apple iPhone 6<subsectionTitle>
+			<paragraph>The Apple iPhone 6 has the smallest capacity battery in this test - just 1,810mAh. Apple also doesn't have an official fast charging solution, so we tested with the charger that came in the box (5V/1A).</paragraph>
+			<paragraph>After 15 minutes you can get about 1 and a half hours of calls, a bit less of web browsing and less still of video watching.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC One M9<subsectionTitle>
+			<paragraph>The HTC One M9 supports Qualcomm's Quick Charge 2.0, but HTC ships it with a regular 5V/1.5A charger. Penny pinching from the manufacturer doesn't impress consumers when they are paying for a flagship product, but we still decided to test if you should invest in a better charger.</paragraph>
+			<paragraph>We first tested the One M9 with the charger it came with and then switched to a more powerful charger. The box charger took 2 and a half hours to push the battery to 100%, after 15 minutes you can barely eek out 2 hours of calling, under an hour of web browsing or under an hour of watching videos.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>With a Quick Charge 2.0 compatible charger, though, the HTC One M9 completes the charging process almost 40 minutes faster. It also handles quick top ups much better, filling a third of the battery in half an hour. We expected even more from a QC2.0 device, though, the Galaxys finished at least half an hour quicker and had a lot more in their tank after 30 minutes.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Oppo N3<subsectionTitle>
+			<paragraph>The Oppo N3 has a 3,000mAh battery and comes with a massively powerful 25W charger. It's chunkier than other chargers, but it delivers the power at 5V, while others use a higher voltage. This is because Oppo charges multiple cells, a single one can't handle that much current.</paragraph>
+			<paragraph>The Oppo N3 wasn't the fastest to reach 100%, it took it an hour and a half, but the phones that finished ahead of it all have smaller batteries. In just 15 minutes the N3's battery was one third full, which is enough to last you over 4 hours of talking, 2 and a half hours of web browsing or 3 hours of video playback.</paragraph>
+			<paragraph>Considering the relatively large battery in the N3, it was impressive to see it 68% full after just 30 minutes. You can work it into your morning routine - by the time you're done eating breakfast, the Oppo will have enough charge to last the day even for heavy users.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note 4<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note 4 packs a 3,220mAh battery and comes with the same 9V/1.67A charger as the Galaxy S6 duo. It supports the same charging tech too, so it took a bit longer to reach 100% though those 700mAh didn't prove to be that much of a hurdle.</paragraph>
+			<paragraph>After just 15 minutes of charging you can get a lot done - over 6 hours of talking, 2 and a half hours of web browsing or four hours of video playback. Still, after 15 minutes the charge in the Galaxy Note 4 and the Galaxy S6 batteries was equal in terms of milliamps.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note Edge<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge has a 3,000mAh battery, this time the curve takes toll on the battery unlike the Galaxy S6 edge and its two curves. Still, the phone took basically the same time to charge.</paragraph>
+			<paragraph>The Galaxy Note Edge has a lower endurance rating, so you don't get as much out of it after 15 minutes. You can do about 4 and a half hours of talking, just under 2 hours of web browsing or a bit over 2 hours of video playback.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Apple iPhone 6 Plus<subsectionTitle>
+			<paragraph>Apple's first phablet, the iPhone 6 Plus, has nearly double the battery capacity of the iPhone 6. This made the charge time even slower, taking over 3 hours to reach full charge. That's not twice as slow as the iPhone 6, but still the slowest charge in the group.</paragraph>
+			<paragraph>The faster than expected charge time is due to the falloff in charge speed - it took more milliamps to get the iPhone 6 Plus to the point where it has to slow down. After 15 minutes you get just under 3 hours of talking, an hour of web browsing or 1 hour and a half of watching videos.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Next we hooked up the iPhone 6 Plus to an iPad charger (5.1V/2.1A), which cut down the charge time by an hour. Even short charges were much more helpful, getting the battery half full in half an hour - great if you're in a hurry. Still, the other phablets finish about 40 minutes quicker and have more charge after the first 15/30 minutes.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Zenfone 2<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 is the only Intel-powered device in the mix and while its charger works at 9V, it pushes out 2A instead of 1.67A that the Qualcomm's Quick Charge 2.0 uses. The Zenfone 2 has a 3,000mAh battery and it lived up to the promise of BoostMaster tech - 60% charge in 40 minutes. We couldn't get it to boot after 5 minutes, but it did power on at the 10 minute mark.</paragraph>
+			<paragraph>Five minutes after that, it had enough juice for 4 hours of talk time, 2 hours of web browsing or 2 hours of video playback. The charger does a great job of filling the battery, but the Zenfone 2 is quite power hungry so 15 minutes of charge is probably not long enough most of the time.</paragraph>
+			<paragraph>Update: We retested the web browsing battery life with Chrome instead of the Internet app and the score improved, so we updated the numbers here to match.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Meizu m1 note<subsectionTitle>
+			<paragraph>The Meizu m1 note comes with a standard 5V/2A charger to feed its capacious 3,140mAh battery so charging takes almost three hours. It's faster than the iPhone 6 Plus despite the slightly larger battery, but it still takes twice as long as other phablets.</paragraph>
+			<paragraph>The m1 note drains a lot of power in calls so 15 minutes of charge gives you less than an hour and a half of talk time. The phablet's battery life for web browsing and video playback is quite good, but the slow charger manages to put only about an hour's worth of charge for both.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>If you had any doubt on Page 1 it should be all gone now - fast charging, regardless of the exact tech is great. With it charging a phone goes from slow and tedious to something you can do over breakfast. And as the iPhones showed even if there is no official fast charging tech for the phone, it helps to use a powerful charger.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Oppo's VOOC was the standout of the test. Most others rely on upping the total power - a balance between volts and amps - Oppo took the divide and conquer approach and charges multiple battery cells simultaneously.</paragraph>
+			<paragraph>The effect is quite visible in the charts - the N3 fills up its tanks the quickest and reaches nearly 70% after half an hour. With this kind of haste, the Oppo N3 will rarely need to stay hooked up for longer than 30 minutes.</paragraph>
+			<paragraph>Samsung's Galaxy S6 and Note couples weren't quite as fast off the mark, though all four of them can easily get you through the day with 15-30 minutes of charge.</paragraph>
+			<paragraph>The Asus Zenfone 2 did Team Intel proud and delivered on the BoostMaster promise of 60% in 40 minutes.</paragraph>
+			<paragraph>At the base level, the Samsung and Asus use the same approach - dial the amperage back a bit and up the voltage. Their chargers are more compact than Oppo's VOOC charger, but not as fast either.</paragraph>
+			<paragraph>The HTC One M9 supports Quick Charge 2.0, which makes it a shame that HTC doesn't bundle it with a compatible charger. After seeing the other gulp up electrons, the One M9 just felt sluggish. The Meizu m1 note is in the same boat.</paragraph>
+			<paragraph>Same goes for Apple too, the 3 hour wait for the iPhone 6 Plus to charge up felt like an eternity. Luckily there's a solution - get a more powerful charger. Charger/phone negations mean the phone will only draw as much as its battery can handle, so at worst you won't get the fast charging.</paragraph>
+			<paragraph>Wireless charging is gaining traction - it buys convenience at the price of speed. The most powerful ones around push out about 1,000mA and some of that is lost on the very short journey to the phone.</paragraph>
+			<paragraph>For now cables remain the way to charge and luckily the old-school charging method is fast. From now on charging is opportunistic - sneak in 15-20 minutes when you can - instead of a 3 hour affair you have to plan.</paragraph>
+		</subsection>
+	</page>
+</review>

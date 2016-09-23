@@ -1,0 +1,90 @@
+<review>
+	<title>HTC One A9 hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/htc_one_a9-review-1327.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>HTC One A9 at a glance:<subsectionTitle>
+			<paragraph>Body: Aluminum unibody, 7.3mm thick</paragraph>
+			<paragraph>Screen: 5" AMOLED with 1080p resolution (441ppi); Gorilla Glass 4</paragraph>
+			<paragraph>Camera: 13MP with OIS and RAW mode and Hyperlapse; 1080p video; sapphire lens cover</paragraph>
+			<paragraph>Selfie camera: 4MP UltraPixel; 1080p video</paragraph>
+			<paragraph>Audio: 24-bit, 192kHz supported by Hi-Fi DAC; dedicated headphone amp with Dolby Audio</paragraph>
+			<paragraph>Security: Fingerprint sensor</paragraph>
+			<paragraph>Power: Snapdragon 617 (octa-core Cortex-A53, Adreno 405); 2GB/3GB of RAM</paragraph>
+			<paragraph>Storage: 16GB/32GB built-in; microSD card slot</paragraph>
+			<paragraph>OS: Android 6.0 Marshmallow with Sense</paragraph>
+			<paragraph>Battery: 2,150mAh; up to Quick Charge 3.0 support</paragraph>
+			<paragraph>Misc: Android Pay, Google Now on Tap; optional Dot View II flip cover</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>HTC is attempting a course-correction and the HTC One A9 is the phone to set it on its new path. Or rather its old path - HTC was synonymous with "premium Android" back in the day, but lost its way the last couple of generations.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The A9 may be a throwback to the days of the HTC Legend - a premium mid-ranger with a metal-clad body and an AMOLED screen, a handset designed with equal measures of form and function.</paragraph>
+			<paragraph>Like other premium design phones from HTC, the One A9 focuses on the trinity of Design, Camera and Audio. Here's the elevator pitch to get you started.</paragraph>
+			<paragraph>You may have fond memories of the Legend or of HTC's last attempt at an AMOLED screen paired to a metal unibody, the HTC One S. We doubt any One S users are still holding out for an upgrade, but now they have a chance to relive the premium mid-range experience that phone offered.</paragraph>
+			<paragraph>HTC's camera game has improved over the years. The One A9 has optical image stabilization and a relatively wide aperture, f/2.0 plus software tricks to provide pro-looking content with ease. No 4K video is a bummer though.</paragraph>
+			<paragraph>As with OIS, the company adopted fingerprint readers a few years ago with the One Max only to drop them later. The technology has been enjoying a comeback recently and the A9 is the second HTC smartphone to feature a reader under the screen after the HTC One M9+.</paragraph>
+			<paragraph>The audio experience is also subject to the great feature shuffle. We weren't very sad to see Beats go, especially now that HTC offers dedicated amps for high-quality headphones and hardware support for the best lossless audio. We do object over losing the front-facing stereo speakers though.</paragraph>
+			<paragraph>HTC is keen to point out that the A9 design is an evolution of previous One phones and if you look at the back of the HTC One the family resemblance is indeed clear. The front is a bigger break from the norm though. Even with pure-blooded lineage, the HTC One A9's exterior will be compared to the iPhone, that's for sure.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design<subsectionTitle>
+			<paragraph>One of HTC One A9's key selling points is its aluminum unibody. It has been dual brushed and bead-blasted to achieve its smooth matte finish. And it really is smooth to the touch, smoother than the iPhone 6s even. Four paintjobs will be available: Opal Silver, Carbon Grey, Deep Garnet and Topaz Gold (ours is the Carbon one).</paragraph>
+			<paragraph>The back is flat rather than curved as with previous One designs, which makes the phone thinner - 7.3mm, which makes it HTC's thinnest. The sides are not squared off, instead both the back and the front curve towards them, but there's a lip that separates them. This contrasts with iPhone's semi-circular sides.</paragraph>
+			<paragraph>Up on the front there's Gorilla Glass 4, which has been 2.5D shaped to flow into the sides. It's all glass on the front though, unlike previous metal HTCs, which reserved a sliver of metal for the speakers. That makes the phone a bit anonymous, if not for the HTC logo you could mistake it for any other phone with an all-glass front.</paragraph>
+			<paragraph>Below the glass is a 5" AMOLED display with 1080p resolution. HTC's last fling with AMOLED was back in the One S days, another metal unibody phone. It has been three years since but we're glad to see the company bring back the combo even though HTC LCDs have always been class-leading.</paragraph>
+			<paragraph>You're probably wondering why we haven't mentioned "front-facing Boomsound stereo speakers" yet, HTC's calling card. The reason is simple - there aren't any. Even though the A9 is tall for its 5" screen, there isn't a single loudspeaker on the front, just the earpiece.</paragraph>
+			<paragraph>The HTC One A9 measures 145.8 x 70.8 7.3mm. Tall as we said, but the width and thickness (which matter most for handling) are fairly standard for a 5" phone. The weight of 143g is what you would expect from a metal phone of this size too.</paragraph>
+			<paragraph>HTC's recent phones have been relatively bulky, the A9 feels much more refined in the hand. It still carries that premium aura, but it also feels compact. The finish on the metal offers some amount of grip (aluminum is usually slippery).</paragraph>
+			<paragraph>You may want to put a case to protect the pristine finish, HTC designed the second generation Dot View with just that in mind. It has a transparent back so you can still see the metal (unfortunately, not feel it), while the front creates a dot-matrix display for notifications and accepts gestures.</paragraph>
+			<paragraph>The fingerprint reader is positioned well below the screen. While it may look like a button, it doesn't depress. It is sensitive to touch though, it can be set to wake the phone on touch and unlock it on a longer touch. This ties in nicely with its security functions as it scans your fingerprint and verifies it lightning fast, it just feels like unlocking the phone.</paragraph>
+			<paragraph>All that speed and it's yet not the fastest way to take a photo. Instead, to get to the camera super-fast you hold the phone up horizontally and press the volume rocker (up or down, doesn't matter). The camera simply flicks on - it launches in 0.6 seconds and it takes just 0.1 seconds more to capture the first shot. This works best if you set the Volume rocker to double as a shutter key.</paragraph>
+			<paragraph>The final way to wake up the phone is the Power button on the right. It has a ridged texture, making it very distinct from the Volume rocker above it. We really dig this accent key even if it kind of reminds us of the One Plus 2.</paragraph>
+			<paragraph>The HTC One A9 has expandable storage, the left side of the phone features two cards slots - one nanoSIM and one microSD. You get 16GB or 32GB as base, but this is a great bit of future-proofing, especially if you're going to put that Hi-Fi DAC to good use with lots of lossless audio.</paragraph>
+			<paragraph>The bottom of the phone is where the solo loudspeaker is hiding out. Also here is a microUSB port with Quick Charge 3.0 support and a 3.5mm audio jack that is backed by a dedicated headphone amp.</paragraph>
+			<paragraph>On the top of the A9 there is a plastic "window" though unlike others this one doesn't cover an IR blaster, it's just for radio waves to pass unhindered.</paragraph>
+			<paragraph>HTC has designed a beautiful phone indeed, though we feel it could have been even better. We miss the front-facing stereo speakers and HTC has made them work, even when it included a fingerprint reader on the front (e.g. One M9+).</paragraph>
+			<paragraph>Another option would be to put it on the back like the One Max. Or at least give us capacitive keys around the fingerprint reader (which doubles as a Home key anyway), so that we don't lose any screen real estate to on-screen buttons. A 5-incher is hardly big enough these days.</paragraph>
+			<paragraph>Also, the 2,150mAh battery is on the low side, there are plenty of examples of thinner, smaller phones with bigger batteries. Despite the low(ish) capacity, HTC is promising 16 hours of talk time, 9 hours of web browsing and 12 hours of HD video. We'll see about that, come review time.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The main camera is a brand new unit, specially designed for the HTC One A9. It has a 13MP BSI sensor (4:3) behind an f/2.0 lens and armed with optical image stabilization.</paragraph>
+			<paragraph>A dual-tone, dual-LED flash will help out for night shots, while a sapphire cover keeps the lens from getting detrimental scratches. Good thing too since the camera protrudes slightly from the back (about as much as on the iPhone 6s).</paragraph>
+			<paragraph>The selfie camera uses HTC's UltraPixel sensor (4MP, 16:9), which also employs an f/2.0 lens.</paragraph>
+			<paragraph>HTC streamlined the camera UI, but it remains familiar to One users. Auto mode is for quick and simple shooting, while Pro mode lets you tweak shutter speed, ISO and other settings to get the perfect shot. For ultimate tweaking you can switch to RAW files that you can edit later.</paragraph>
+			<paragraph>The One A9 comes with an automatic RAW Enhancement option that takes several seconds to process the file and bring out the best quality. It doesn't allow manual tuning of the parameters though, you can use third-party software if you want total control over the processing.</paragraph>
+			<paragraph>Both cameras top out at 1080p @ 30fps video recording though, a limitation of the Snapdragon 617 chipset. There's no 60fps mode either for those action-packed scenes.</paragraph>
+			<paragraph>The A9 seems more focused on still photography than video excellence, aside from one thing - the Hyperlapse mode. We've seen several implementations of the hyperlapse concept (by Instagram, Microsoft and others), but if you're unfamiliar, hyperlapses are basically heavily stabilized time lapse videos shot by hand. They look impressive, and the best app we've seen so far - called Hyperlapse - is only available on iOS, so kudos to HTC for bringing that functionality straight inside the A9 camera.</paragraph>
+			<paragraph>Yes, the One A9 has OIS, but Hyperlapse makes it look like the camera is sliding on rails, giving the video a cinematic feel.</paragraph>
+			<paragraph>You can speed up time by up to 12x and then use Zoe to stitch several videos together, add some music and you're ready to share your vacation videos with friends.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android 6.0 Marshmallow<subsectionTitle>
+			<paragraph>The HTC One A9 is the first non-Nexus we see with Android 6.0 Marshmallow on board. Launching with Marshmallow is important for the HTC One A9 as it enables a number of important features. Android Pay is one of the big new features and while it will be available on all NFC-enabled Androids, the A9 has the fingerprint reader for added security. Any third-party app can use the fingerprint authentication as well thanks to the new APIs in v6.0.</paragraph>
+			<paragraph>Google Now on Tap is the next generation of ambient intelligence from Google. "Ambient" because it's like part of the scenery - it's there, it's helpful and you don't even have to ask it anything to get relevant info. Google Now so far has been something of a black box with no obvious way to guide it.</paragraph>
+			<paragraph>Now on Tap fixes that, it interacts with what's on your screen. Say you're visiting GSMArena.com and you see an article on HTC. Long pressing the Home key will trigger Now on Tap and you'll get relevant links and info about HTC. While reading an article about the movie "The Martian" you'll get links with information about the movie, its director Ridley Scott, etc.</paragraph>
+			<paragraph>Depending on the topic, there will be additional actions like booking seats at a restaurant.</paragraph>
+			<paragraph>Another novelty inside Android 6.0 is the new Doze power state and it's perhaps part of what enables the HTC One A9 to last so long on its relatively limited battery. Doze basically puts you're phone to sleep - if it's stationary and the screen is off, apps wake up less and less often to update.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>It has been a while since we got excited over an HTC device, the company just went into a cycle of re-releasing the One M9 with minor tweaks. Worse, a month after anyone buys an M9, a new, slightly better one comes along, souring consumers.</paragraph>
+			<paragraph>The HTC One A9 is the first device to properly feel like a new launch - the start of something new and hopefully a new path for the company. It's no secret that HTC has been hurting on profits and market share and it needs a hero device to pull it out of the rut.</paragraph>
+			<paragraph>How fitting then that the best device for the job is a successor to the Hero and Legend. The premium mid-range market is the fastest growing and success awaits the company that gets it right. The A9 checks all the right boxes for that, it offers luxury above its station and at the same time it's practical.</paragraph>
+			<paragraph>Better yet, it's a premium entry into the 5" field, when most devices in its class compete in the 5.5" segment. The 5" and below range is lacking in choice if you want anything better than a lower-end phone. Things like OIS and fingerprint readers are all but impossible to find. These along with the metal unibody make it hard to match by even crowd favorites like the Xperia Z5 Compact or the iPhone 6.</paragraph>
+			<paragraph>Our positive response to the HTC One A9 is tempered by three things. First, the design similarity to the iPhone is not perfect, but we don't think it's a major issue. Second, the chipset rules out 4K video and 60fps recording.</paragraph>
+			<paragraph>Last - and most worrying - is the price. HTC was never good at competitive pricing. Competition from China is churning out thin, metal phones with similar specs and offering killer deals on them. Samsung has not one but three budget Galaxy lines with AMOLED screens and thin profiles.</paragraph>
+			<paragraph>At $399 for the model with 3GB RAM and 32GB of storage HTC has priced the One A9 quite realistically, positioning it nicely as a excellent looking mid-ranger. We're not quite sure about the European price, which at ?430/?599 follows dangerously close in the steps of the unreasonable pricing Google has set out for the newly announced Nexus devices and it runs the risk of remaining a niche product.</paragraph>
+			<paragraph>We want to believe HTC has changed, the One A9 is certainly a break away from the torrent of One M9 clones. If it also parted with the mentality that it's entitled to an extra charge for its brand we may soon witness its resurrection. For the time being however, it seems only set at regaining the US market, which leaves us a little sad as in its heyday HTC used to have quite a following on the Old Continent as well.</paragraph>
+		</subsection>
+	</page>
+</review>

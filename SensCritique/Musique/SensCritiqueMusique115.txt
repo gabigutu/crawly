@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Glory</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Glory/22277906</link>
+	<generalScore>6.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>19</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

@@ -1,0 +1,105 @@
+<review>
+	<title>Samsung I9300 Galaxy S III hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/samsung_unpacked_2012-review-756.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Samsung very recently climbed to top as the phone vendor with most units shipped, but more importantly, it also became the maker with most smartphones shipped. They are a big player in the Android world, so with the announcement of their new droid flagship, fans of the OS should certainly take notice.</paragraph>
+			<paragraph>The Samsung Galaxy S III is the company's new Android flagship and it features a quad-core processor, a 4.8" 720p screen and an 8MP camera packed in a 8.6mm body (no chins this time).</paragraph>
+			<paragraph>Of course, it runs Ice Cream Sandwich with Samsung's latest TouchWiz interface that includes cool new ways to interact with the phone - S Voice (a direct Siri competitor), eye-tracking (Smart Stay) and several other clever tricks, which the smartphone has up its sleeves.</paragraph>
+			<paragraph>We're at the event and we managed to spend some time with the Galaxy S III, so hit the next page for our hands-on impressions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S III hands-on<subsectionTitle>
+			<paragraph>The Samsung Galaxy S III has a curvy design, unlike its predecessor. The screen has grown to an impressive 4.8", but the thinner bezel partially makes up for that and the phone hasn't grown that much bigger. At 133g, it's pretty easy to carry, too.</paragraph>
+			<paragraph>The phone is a 0.1mm thicker than its predecessor, but there's no hump at the back, so the thickness is a lot more uniform. The Galaxy S III will launch in Pebble Blue (which is nearly black) and Marble White. It's made of glossy plastic created using a brand new manufacturing process that Samsung calls Hyperglaze.</paragraph>
+			<paragraph>The screen is a whopping 4.8" big - topping even the HTC Titan II. Anyway, the resolution is 720p (as expected), but Super AMOLED screen uses a PenTile Matrix, as opposed to a conventional RGB one. Still, our first impressions of the Gorilla Glass 2-coverd display are extremely positive - it's even less reflective than that of the Samsung Galaxy S II and offers outstanding image quality.</paragraph>
+			<paragraph>When we popped open the back, we found a huge 2,100mAh battery accompanied by a microSD and a microSIM card slots (yep, no more regular SIM). The internal storage will come in three capacities - 16GB, 32GB and 64GB.</paragraph>
+			<paragraph>The phone is powered by an Exynos chipset, featuring a 32nm 1.4GHz quad-core Cortex-A9 processor and 1GB of RAM. The software is Android 4.0.4 Ice Cream Sandwich - no surprise here. It uses the latest TouchWiz software with a four column UI (not five) and no - there aren't on-screen buttons, Samsung decided to rely on hardware buttons once again.</paragraph>
+			<paragraph>There are several cool new usability features - most notably eye tracking and new voice commands. The eye tracking switches the display on and off, depending on whether the phone sees you looking at it (Samsung calls this Smart Stay). Samsung has also extended the voice command capabilities of the smartphone - the latest offering is called S Voice.</paragraph>
+			<paragraph>S Voice is obviously Samsung's answer to Siri. You activate it by saying "Hi Galaxy!". You can ask it about the weather, but you can also ask the phone to take a picture. Language support is its strongest weapon - besides English dialects, S Voice also understands Italian, German, French, Spanish and Korean.</paragraph>
+			<paragraph>The Galaxy S III also comes with a feature called Smart alert - when the phone detects that you have picked it up, it will vibrate if you have missed events.</paragraph>
+			<paragraph>The innovation doesn't stop here - Pop-up Play allows you to move the video player into a small floating window and continue watching while using another app.</paragraph>
+			<paragraph>The Samsung Galaxy S III features an 8MP camera with burst shot mode, which lets you take 3.3 shots per second. The phone also tracks people's faces and can automatically pick the best one of the several photos taken in quick succession.</paragraph>
+			<paragraph>Face zoom allows you to zoom in on peoples faces with a double tap. Face detection features continues - the software will automatically group photos, based on the people in the shot.</paragraph>
+			<paragraph>Much like the HTC One series, the Samsung Galaxy S III can take photos while recording 1080p video. The video camera has video stabilization, too.</paragraph>
+			<paragraph>The Samsung Galaxy S III has a notification LED to the left of the ear piece.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hands-on video and S Beam demo<subsectionTitle>
+			<paragraph>We also managed to capture a couple of videos of the Samsung I9300 Galaxy S II in action. Here comes the first of those, showing the refreshed TouchWiz launcher, running on top of Android 4.0.4 Ice Cream Sandwich. Even though the its firmware isn't finalized yet, the smartphone feels impressively smooth.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The second clip shows how easy it is to share files between NFC-enabled droids, using the S Beam feature. The transfer speeds were pretty decent as well at about 1.4MBps.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>And one more clip that gives a better look at the new homescreen, the camera UI and a quick tour around the phone.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>720p PenTile Super AMOLED display<subsectionTitle>
+			<paragraph>One of the big mysteries ahead of the Samsung Galaxy S III announcement was about its screen ? will Samsung use a SuperAMOLED HD display similar to the one on the Galaxy Nexus or go the SuperAMOLED Plus route like the Galaxy Tab 7.7.</paragraph>
+			<paragraph>We got close enough to the S III to snap a macro shot, which quickly revealed that Samsung has chosen a PenTile matrix for its flagship droid.</paragraph>
+			<paragraph>The green subpixel is long and thin, while the blue subpixel is of the same length but thicker. As for the red subpixel, appears rounder, which indicates that it?s shorter than the other two subpixels.</paragraph>
+			<paragraph>All this points to the matrix used in the Samsung Galaxy Nexus. That one used long thin green subpixels, thicker blues and shorter reds.</paragraph>
+			<paragraph>We have to point out that the 720p resolution on a 4.8&#x2033; screen works out to 306ppi pixel density and the display appears tack sharp. You can see the PenTile if you look close enough, but you will have a hard time noticing it in regular usage.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmark results<subsectionTitle>
+			<paragraph>Finally, we managed to put the Samsung Galaxy S III new Exynos 4 Quad chipset through its paces and see how it compares to its market rivals. With four 32nm Cortex-A9 cores clocked at 1.4GHz, a new and improved Mali-400MP GPU and 1GB of RAM the S III SoC looks quite well on paper and we were glad to find out that real-life performance doesn't disappoint. 
+ 
+.jrGraphContainer { background: none !important; border-bottom: 1px solid #eee !important;}
+ul.jrGraph { left: 140px; }
+ul.jrGraphControls { padding: 0; right: 20px; }
+ 
+var jrGraph_js_src = 'http://blog.gsmarena.com/wp-content/themes/gsmarena-v2-production/js/jrGraph/jrGraph2.js?v=5';
+
+if (typeof jQuery == 'undefined' && typeof JQUERY_IS_LOADING == 'undefined'){
+  JQUERY_IS_LOADING = true;
+  lazyLoadScript('https://ajax.googleapis.com/ajax/libs/jquery/1.6.1/jquery.min.js', function () {
+    lazyLoadScript(jrGraph_js_src, function () {
+      doJrGraphs();
+    });
+  });
+} else {
+  var s = document.createElement('script');
+  s.onload = doJrGraphs;
+  document.head.appendChild(s);
+  s.language ="text/javascript";
+  s.src = jrGraph_js_src;
+}
+
+function doJrGraphs() {
+    $(document).ready(function(){
+    	$('.jrGraph').each(function(){
+	    $(this).jrGraph();
+	});
+        if (window.location.host.substring(0, 2) == "m.")
+            $("ul.jrGraphControls").css("top", "-6px");
+    });
+}
+</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>On Quadrant, the Galaxy S III got the highest score we have seen so far - 5642 points. The HTC One X did come close as its quad-core CPU was able to match the performance of the S III processor, but the Mali-400MP GPU gave the Samsung smartphone the victory here.</paragraph>
+			<paragraph>On SunSpider, the CPU-stressing JavaScript benchmark, the Galaxy S III's four 32nm 1.4GHz Cortex-A9 cores posted super fast time, once again leaving all of its competitors way behind. We suspect Samsung has also done some fine tuning to its new smartphone's JavaScript engine, which helped it do so well here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The Samsung Galaxy S III performed quite spectacularly on the the BrowserMark HTML5 test. With a final result of 169811 points, it really blew competitors out of the water.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+</review>

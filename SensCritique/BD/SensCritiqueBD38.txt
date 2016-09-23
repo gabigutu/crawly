@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Patience</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Patience/18265475</link>
+	<generalScore>8.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Because I'm from the future and I'll incinerate your children</title>
+		<author>subhumans</author>
+		<date>2016-06-17</date>
+		<score>1.0</score>
+		<content>Je l'ai lu d'une (plus ou moins) traite en vo donc je pense que ça demande une relecture, mais à chaud, je l'ai trouvé fantastique. Les premières pages introduisent les deux protagonistes, Jack et Patience, un couple qui s'aime (vachement beaucoup) mais qui a du mal à s'en sortir. J'avais lu Like a velvet glove cast in iron et la différence du rôle et de l'importance du perso principal entre ces deux bds m'a marqué. Dans Patience, Jack est omniprésent et va un peu se perdre en voulant garder un certain contrôle (donc gros contraste avec Like a velvet glove in iron que je conseille aussi). Même si m'y connais pas beaucoup en bd je pense qu'il doit y avoir pas mal de choses à dire sur les références que peut faire Daniel Clowes, sur le traitement du fond et de la forme, ça peut être très sympa, si on a le bagage d'en reconnaître MAIS... impossible de pas faire de parallèle avec des œuvres de fictions qui traitent du voyage dans le temps, de l'effet papillon puisque c'est (entre autre) un thème qui fait fonctionner le récit et le gros délire métaphysique est pô mal. Pas de grosse rupture avec ce que j'ai déjà lu de Clowes dans la forme, même si c'est super coloré, c'est harmonieux, c'est psychédélique mais c'est pas criard. Au niveau de l'histoire et de son traitement, je l'ai trouvé très bien rythmée, y a des sauts dans le temps, des retours en arrière, etc mais je m'y suis (presque) pas paumée une seule fois. L'énorme suspens couplé à la profondeur psychologique des personnages et leur diversité (y en a des plus ou moins clichés je trouve comme la figure du redneck qui revient souvent) m'a pas permis de laisser le livre fermé plus d'une heure pour le continuer et le finir. Donc avis objectif et nuancé en sommes. Et je sais pas à quel moment on peut considérer que c'est du spoil mais... CETTE BD EST TELLEMENT GÉNIALE</content>
+	</review>
+	<review>
+		<title>il est sortie en france ?</title>
+		<author>Bishop1</author>
+		<date>2016-05-11</date>
+		<score>0.8</score>
+		<content>je suis trop impatient de le lire celui la !</content>
+	</review>
+</sensCritiqueEntity>

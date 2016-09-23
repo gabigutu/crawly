@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Trois amis en quête de sagesse</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/livre/Trois_amis_en_quete_de_sagesse/18094102</link>
+	<generalScore>6.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Trois amis en quête de sagesse</title>
+		<author>Médiathèque de Villepinte</author>
+		<date>2016-06-29</date>
+		<score>0.8</score>
+		<content>Trois regards sur l'expérience de la vie humaine, les aspirations, la capacité au bonheur, etc., à travers le prisme de la philosophie, de la psychologie et du bouddhisme. Avis de Mariane Designère : Un livre à garder et à relire. Ces trois amis auteurs y abordent, chacun avec leur propre vision, tous les thèmes de la vie. Pour le réserver : http://mediatheque.centreculturel-villepinte.fr/dk_opac15/search/IBDON/X244426</content>
+	</review>
+</sensCritiqueEntity>

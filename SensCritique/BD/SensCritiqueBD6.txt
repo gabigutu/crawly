@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Peter Pan (Vents d'Ouest) : L'Intégrale</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2009</year>
+	<link>http://www.senscritique.com/bd/Peter_Pan_Vents_d_Ouest_L_Integrale/8829261</link>
+	<generalScore>8.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>32</numberOfVoters>
+		<numberOfVoters>101</numberOfVoters>
+		<numberOfVoters>90</numberOfVoters>
+		<numberOfVoters>51</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

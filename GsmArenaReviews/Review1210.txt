@@ -1,0 +1,265 @@
+<review>
+	<title>Various brands overview</title>
+	<description>MWC 2012</description>
+	<link>http://www.gsmarena.com/various_at_mwc_2012-review-727.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>This year's MWC is a busy place, with pretty much every maker and every type of mobile device you can think of on display. We've covered the headliners, but now it's time to visit some of the less popular names, many of which had some very interesting gadgets to show.</paragraph>
+			<paragraph>We're kicking off with ZTE, who have a droid flagship to rival any of the top dogs here in Barcelona.</paragraph>
+			<paragraph>We're still roaming the MWC floors, scouring for exciting new gadgets and we'll be posting them here as soon as they're ready, so keep an eye on this space, as we'll be updating it with new info as it becomes available.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>ZTE Era hands-on<subsectionTitle>
+			<paragraph>We were able to get our hands on the new ZTE Era, and while the device was not turned on at the time, we were able to get a feel for it in-hand.</paragraph>
+			<paragraph>The Era is set to feature a QHD (960 x 540) 4.3 inch screen alongside 8GB of internal memory, all running on a quad-core processor with Tegra 3 chipset. It will also feature HD Voice and Dolby sound.</paragraph>
+			<paragraph>The feel was highly reminiscent of other 4.3-inch devices we have held, and while the 7.8mm thickness did make it fairly light in-hand, we weren't that impressed by the design. We got the feeling that somebody copied HTC's homework assignment.</paragraph>
+			<paragraph>ZTE claimed that they did not have a working prototype at the time, but that the ICS build should be ready by product launch.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE PF112 hands-on<subsectionTitle>
+			<paragraph>Also on hand was an unnamed ZTE device, the PF112, which seems to be an alternative version of the Era flagship.</paragraph>
+			<paragraph>This device features a larger 4.5" display, and apart from having a dual-core processor, the specs are the same as on the above Era.</paragraph>
+			<paragraph>Unlike the Era, however, this device was powered on, and we saw some prototype Ice Cream Sandwich action. We won't comment on the smoothness of the build, since it's too early to judge at this point, but we were once again underwhelmed by the build quality. It seems like for this model, ZTE stole a page or two from the Samsung Nexus design sheets. The screen was not that impressive either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Tania hands-on<subsectionTitle>
+			<paragraph>The ZTE Tania was announced late last year, and has been available for a short time prior to this event. Nevertheless, here's a hands-on.</paragraph>
+			<paragraph>The Tania was the first phone in ZTE's lineup to run Windows Phone 7.5, and it might also be the last, as the newly-announced Orbit is set to run the upcoming Tango build of Windows Phone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Orbit hands-on<subsectionTitle>
+			<paragraph>The ZTE Orbit slots in alongside the Tania with a fit and finish not quite up to scratch against its older sibling or similar devices within the same price bracket. That being said, it does its job as a fine example of a Windows Phone Tango II, making most of the lower hardware specs whilst still providing a slick user experience and one that we're more used to seeing on higher-end devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE T98 hands-on<subsectionTitle>
+			<paragraph>The ZTE T98 is the most compact of the bunch of slates announced by the Chinese manufacturer. The device is based on NVIDIA's Tegra 3 chipset and has its four CPU cores clocked at 1.5GHz.</paragraph>
+			<paragraph>The T98 utilizes a 7-inch TFT display of 1280x800 pixel resolution. It comes with 1GB RAM and 16GB internal storage. There is a 5 megapixel camera lens at the back and a 2 megapixel front-facing one. There is a SIM slot so it features wireless radio as well.</paragraph>
+			<paragraph>The T98 is running on the latest Android 4.0.3 Ice Cream Sandwich with no customization whatsoever.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE V96 hands-on<subsectionTitle>
+			<paragraph>The V96 is based on Qualcomm's Snapdragon MSM8960 with a dual-core 1.7GHz processor inside. You get 1GB RAM and 16GB of internal storage with this one, but there's no microSD card slot on board.</paragraph>
+			<paragraph>The V96 has a 10.1-inch 1280x800 pixel display, a 5MP main camera and a 2MP front-facing snapper and runs on the Android 4.0.3 Ice Cream Sandwich.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE PF100 hands-on<subsectionTitle>
+			<paragraph>The ZTE PF100 is another 10-inch tablet with a 1280x800 display based on the Tegra 3 platform. It packs a quad-core 1.5GHz processor, 1GB RAM and 16GB internal memory.</paragraph>
+			<paragraph>The PF100 also sports a SIM slot and modem - so you can connect to GSM and 3G networks.</paragraph>
+			<paragraph>The 5MP/2MP camera combo is available here too, while Android 4.0.3 ICS is the PF100 platform of choice.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Fujitsu Toshiba Mobile<subsectionTitle>
+			<paragraph>Fujitsu had some very interesting phones and instead of letting them bask in the limelight on their booths, they were put in scary-looking torture boxes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Fujitsu quad-core phone<subsectionTitle>
+			<paragraph>Let's start with the Fujitsu quad-core phone (it's still a prototype, they don't have a proper name for it). It's powered by Tegra 3 and runs Android 4.0 Ice Cream Sandwich. The 4.6" 720p screen looks great and we managed to get a close-up.</paragraph>
+			<paragraph>The Fujitsu quad-core phone packs a 13.1MP camera with 1080p video recording. And, as you're about to see in a moment, the phone is quite the tough guy and doesn't mind a dip in the fish tank.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Fujitsu ARROWS ES IS12F<subsectionTitle>
+			<paragraph>Next up is the Fujitsu ARROWS ES IS12F - it measures a mere 6.7mm, but its AMOLED screen guarded by Gorilla Glass can take a hit from a dropping metal ball and walk away. The IS12F is waterproof too. Unfortunately, this guy is heading to Japan's NTT docomo and we don't think the rest of the world will get to see it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Fujitsu F-12C Globetrotter Classic<subsectionTitle>
+			<paragraph>Another NTT docomo phone is the Fujitsu F-12C Globetrotter Classic. It looks pretty unique but it's a love it or hate it design.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Toshiba Windows Phone IS12T<subsectionTitle>
+			<paragraph>A Toshiba Windows Phone IS12T (boy, those guys sure have a knack for naming their gadgets) was also part of the Fujitsu Toshiba Mobile display. It's water resistant like the others.</paragraph>
+			<paragraph>Finally, here's a shot that might shock gadget lovers - all these phones sleeping with the fishes. Don't worry though, as you can see all of them are doing fine despite being in a situation that would spell the end of most pieces of fine machinery.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Press Conference<subsectionTitle>
+			<paragraph>We took a step outside the MWC premises today to pay Asus a visit, who had their launch event away from the crowds, at The Rock Museum across the Plaza d'Espana.</paragraph>
+			<paragraph>As soon as we sneaked into the auditorium, Asus Chairman Jonney Shih took to the stage to tell us about "The Next Transformation."</paragraph>
+			<paragraph>Of course, the next generation of devices in the EeePad Transformer family have been awash in rumor, but all speculation was laid to rest as two new devices were revealed on the stage in Barcelona this morning.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Transformer Pad 300 Series<subsectionTitle>
+			<paragraph>Before we delve into the details, it's worth noting the company has changed the Eee Pad Transformer naming scheme to "Transformer Pad", probably in an attempt to avoid the kind of lengthy names the likes of which Samsung typically laden some of their devices with. It also could logically be the result of Hasbro's lawsuit against Asus when the Transformer Prime name was all the rage.</paragraph>
+			<paragraph>Right, on with the show. The Asus Transformer Pad 300 Series broke cover to accompany its larger sibling the Infinity 700 series (which appeared at CES). Alongside the expected tablet/dock combo, the 300 is a quad-core device in the same vein as the Transformer Prime, albeit with an LTE radio now concealed within its metal body for an added speed boost.</paragraph>
+			<paragraph>The 300 Series comes with a 10.1" WXGA IPS display and 1.2MP camera on the front, an 8MP f2.2-endowed camera on the back and when plugged into the keyboard dock, promises battery life exceeding 15 hours (from the stand-alone tablet length of 10 hours). It will be available in red, black and white and is expected to come to market sometime in Q2, along with the 700 series.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Padfone hands-on<subsectionTitle>
+			<paragraph>The device everyone was waiting for also took to the stage, as the Padfone was finally realized in its finished form. Since its multiple appearances last year, the specs have been refreshed somewhat.</paragraph>
+			<paragraph>Now running Android Ice Cream Sandwich and rocking Qualcomm's latest 1.5GHz dual-core S4 chip, the 'phone' half of the Padfone system uses a 4.3" qHD SuperAMOLED display. There's also 1GB of RAM, an 8MP auto-focus camera and a front-facing VGA camera.</paragraph>
+			<paragraph>Now here's where it gets interesting, plug the 4.3" Padfone into the Padfone Station and in seconds the content on the screen scales to fit the tablet's 10.1" WXGA (1280x800) display, on top of that the battery-life is extended five-fold and the front facing camera gets upped to a 1.3MP unit. By adding the keyboard dock to the equation too, the battery life extends yet again to supposedly nine times greater than the standalone Padfone.</paragraph>
+			<paragraph>Jonney Shih, known for his theatrical presentation style didn't leave it there however and amidst his demonstration of the Padfone's new stylus, he revealed its secondary function, a Bluetooth handset. The 'ta-da' moment of the unveiling wasn't wasted on the crowd however, in real-world use, there's every chance this feature might not catch on due to the peculiar look of talking to a pen.</paragraph>
+			<paragraph>We took some time to look at the Padfone in a little more detail. Here's our hands-on of both the phone and tablet experiences:</paragraph>
+			<paragraph>The Padfone as a standalone device</paragraph>
+			<paragraph>The Padfone in use whilst docked in the Padfone Station</paragraph>
+			<paragraph>The GSM capable version of the Padfone will be coming to market in April this year, with an LTE variant scheduled for early Q3 release.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Panasonic Eluga hands-on<subsectionTitle>
+			<paragraph>Panasonic are hungry for some international smartphone action with two very attractive devices this year ? the Eluga and Eluga Power.</paragraph>
+			<paragraph>The Panasonic Eluga is based on the popular TI OMAP-4430 chipset utilizing a 1GHz dual-core Cortex-A9 processor and 1GB RAM. The screen is a 4.3" OLED unit of qHD (640x960) resolution, while on the back we find an 8 megapixel camera with LED flash.</paragraph>
+			<paragraph>The Eluga is running on Android 2.3.5 Gingerbread but the 4.0 ICS upgrade is planned for later this year.</paragraph>
+			<paragraph>What helps the Eluga stand out is its dust and water resistance. It's IP57 certified (dust and water) and should withstand meter-deep immersion for 30 minutes. We've got some live pictures to show and that should be more interesting than dry specs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Panasonic Eluga Power hands-on<subsectionTitle>
+			<paragraph>The freshly announced Eluga Power is the more interesting gadget. It features a huge 5-inch LCD touchscreen of HD resolution and is based on the powerful Qualcomm MSM8270 Snapdragon platform (1.5GHz dual-core Krait processor, Adreno 225 GPU and 1GB RAM).</paragraph>
+			<paragraph>The Eluga Power has an 8 megapixel camera as well, capable of capturing 1080p videos.</paragraph>
+			<paragraph>The phone is running on the latest Android 4.0 Ice Cream Sandwich with some minor custom touches to the interface.</paragraph>
+			<paragraph>Just like the Eluga, the Eluga Power is IP57-certified for dust protection and water resistance.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Toshiba AT270 tablet hands-on<subsectionTitle>
+			<paragraph>Despite trawling all the way through the Fujitsu/Toshiba booth for anything out of the ordinary, we came up short. That was of course until we caught wind of this innocuous little tablet lurking somewhere in the halls at MWC.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Toshiba had a number of phones and tablets on display at their main stand, but we found this unnamed device sitting amongst a host of similarly powered Tegra 3 devices at the Nvidia booth.</paragraph>
+			<paragraph>Nvidia told us that as far as they're aware, the tablet doesn't yet have an official name, although the settings screen referred to the device as the 'AT270'.</paragraph>
+			<paragraph>This 7.7" tab uses a beautifully bright and vivid WXGA (1280x800) SuperAMOLED display and runs Android Ice Cream Sandwich 4.0.3. Beyond that the specs list ran out (aside from the Tegra 3 aspect obviously), but we'll likely see its official release in the not too distant future.</paragraph>
+			<paragraph>In the meantime, check out our hands-on video, which samples some of the delights of the quad-core inside using Golden Arrow THD:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Alcatel One Touch 995 ULTRA<subsectionTitle>
+			<paragraph>We stopped by at the Alcatel OneTouch booth at the MWC this year as well. There we found a plethora of new entry-level phones, a few messengers and smartphones. We decided to present you only the most intriguing ones.</paragraph>
+			<paragraph>So, the first phone we took shots is the One Touch 995 ULTRA. It has a 4.3-inch WVGA display and has a single-core 1.4GHz processor in charge.</paragraph>
+			<paragraph>The OT-995 Ultra has a 5 megapixel camera capable of HD recording at the back and a VGA one at the front for video chats. There is an HDMI port for HDTV output on board. The phone runs on Android Gingerbread, but it will be upgraded to Ice Cream Sandwich. There are some Alcatel customizations on the UI too.</paragraph>
+			<paragraph>The OT-995 ULTRA looks pretty, while fingerprints and smudges are highly unlikely. Overall our impressions are nothing short of good.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Alcatel One Touch 991 SMART<subsectionTitle>
+			<paragraph>As the model number suggest this fella is going to be a cheaper smartphone than the OT-995. The OT-991 SMART is based on a less capable 800MHz (single0-core) processor and utilizes a bit smaller 4-inch WVGA display. There are also 3MP snapper at the back and a VGA one at front.</paragraph>
+			<paragraph>The OT-991 Smart runs on Android 2.3 Gingerbread and in some markets (if the carrier order it that way) it could be a dual-SIM device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Alcatel One Touch 595 TRIBE<subsectionTitle>
+			<paragraph>This fella has nothing really special, but we haven?t seen such a cute and small phone for quite a while. And it has a QWERTY keyboard!</paragraph>
+			<paragraph>So, the TRIBE is a QWERTY slider with smallish 2? screen, a 2MP camera, FM radio and a microSD card slot. It looks really nice and in some market it might be found as dual-SIM too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>ZTE PF200 and N910<subsectionTitle>
+			<paragraph>ZTE has really outdone itself this year. We already lost count on the announced devices at the MWC. We made another trip to ZTE's booth and we took pictures of every phone we missed the first time.</paragraph>
+			<paragraph>We started with the most interesting of the bunch - the LTE-enabled, dual-core PF200 and N910, which run on ICS.</paragraph>
+			<paragraph>The PF200 packs a 4.3-inch qHD screen, a 1.5GHz dual-core processor, 1GB RAM, 4GB storage and an 8MP camera plus an HD front snapper for video chats.</paragraph>
+			<paragraph>The N910 is slightly less capable with a 4.3-inch WVGA screen, a 1.2GHz dual-core processor and a 5MP/VGA camera combo.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Blade II<subsectionTitle>
+			<paragraph>ZTE Blade II, a successor of the one of the most popular carrier-bound devices ever - the first Blade - was announced at the MWC this year too. It has a 3.5-inch WVGA display and is based on Qualcomm's MSM7227A platform with a 1GHz processor and 512MB RAM. The specs sheet also includes a 5MP rear and a VGA front camera.</paragraph>
+			<paragraph>The Blade II runs on the latest Android Ice Cream Sandwich with some ZTE customizations on top of it.</paragraph>
+			<paragraph>The White Blade II looks and feels really good and the metallic battery cover is something we really like. We bet this Blade will follow the success of the first one.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Fashion TV phone<subsectionTitle>
+			<paragraph>In case you've missed the news, ZTE and Fashion TV launched a fashion version of the popular ZTE Blade. ZTE brought it on the MWC so we decide to take it for a few shots.</paragraph>
+			<paragraph>Nothing surprising though, it's a Blade with some Fashion TV logos and wallpapers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE U970 hands-on<subsectionTitle>
+			<paragraph>This unnamed fella is quite a powerhouse. It has a dual-core 1.2GHz dual-core processor and 1GB RAM, 4GB internal storage and a 5MP/0.3 camera combo.</paragraph>
+			<paragraph>The U970 features a 4.3-inch qHD display, but it doesn't feel that big. Its back uses a textured matte plastic, so fingerprints and smudges won't be a common thing.</paragraph>
+			<paragraph>Finally, the U970 runs a stock Android 4.0.3 Ice Cream Sandwich. Judging by the logo on the front, it will become available in China soon.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE N960 hands-on<subsectionTitle>
+			<paragraph>This one is a CDMA droid with a 4.3-inch WVGA screen and a 600MHz processor. Other specs worth mentioning are the 3 megapixel snapper, Wi-Fi and GPS.</paragraph>
+			<paragraph>Despite the modest chipset, the N960 smartphone is obviously capable enough to run Android 4 Ice Cream Sandwich.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Nova 4.0 hands-on<subsectionTitle>
+			<paragraph>The Nova 4.0 is another ICS-running droid. It has a 4-inch WVGA display and an 800MHz single-core processor. A 5MP rear and a VGA front camera are also on board.</paragraph>
+			<paragraph>The phone is very well built and its back is fingerprint-resistant.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Nova 3.5 hands-on<subsectionTitle>
+			<paragraph>The Nova 3.5 looks much like the Nova 4.0, but comes with a smaller 3.5-inch display with HVGA resolution and a less-capable 3 megapixel rear snapper. The rest of the specs and the design are similar to what the Nova 4.0 offers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Style Q hands-on<subsectionTitle>
+			<paragraph>ZTE Style Q should be an entry-level messenger with exchangeable battery covers. It has a 2.8" QVGA touchscreen and a four-row QWERTY keyboard below the display.</paragraph>
+			<paragraph>Style Q has a 600MHz processor inside, which once again turns out enough to run Android 4.0 ICS. There camera combo on board the smartphones includes a 3.2MP unit at the back and a VGA snapper at the front.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE V856 hands-on<subsectionTitle>
+			<paragraph>The ZTE V865 is another entry-level smartphone running on Android ICS. It has a 2.8-inch QVGA display, a 600MHz processor and a 2MP camera (with a VGA one at the front for video chats).</paragraph>
+			<paragraph>The key selling point of this smartphone is its dual-SIM functionality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Mimosa Mini<subsectionTitle>
+			<paragraph>The Mimosa Mini is the same glossy black device as the V858, but lacks the dual-SIM slots. To make up for that, it comes with a better 3.2 megapixel main camera.</paragraph>
+			<paragraph>The Mimosa Mini has a bigger Mimosa X sibling based on the Tegra 2 chipset and with a 4.3-inch qHD display, but it wasn't available at the ZTE's booth by the time we were there.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Acqua (Skate Acqua) hands-on<subsectionTitle>
+			<paragraph>Now we are going back to the 1GHz league with the (Skate) Acqua. It's based on the Qualcomm's MSM7227A chipset with a single core 1GHz processor, Adreno 200GPU and 512MB RAM.</paragraph>
+			<paragraph>The Acqua has a 4-inch WVGA display, 4GB internal storage and a 5 megapixel camera with HD recording. Its back is made of textured matte plastic, so no fingerprints here too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ZTE Kis hands-on<subsectionTitle>
+			<paragraph>The ZTE Kis is nothing you haven't heard from ZTE yet - based on the MSM7227A chipset (1GHz CPU, Adreno 200 GPU, 1GB RAM) and using a 4-inch WVGA touchscreen.</paragraph>
+			<paragraph>Just as expected, the ZTE Kis runs on Android 4 ICS, has a 5MP camera and 4GB internal storage. And its body is quite fingerprint-resistant as well.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>Acer, too made an appearance at the Mobile World Congress this year with two Android smartphones. The company, which is a by-word for cost-effectiveness, stayed in the shadows for the last couple of months, it seems, waiting to show what its been working on.</paragraph>
+			<paragraph>The Droids in question are the high-end Acer CloudMobile and the more value-oriented Acer Liquid Glow.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Acer CloudMobile<subsectionTitle>
+			<paragraph>Let's start with the CloudMobile, which continues Acer's design lines from previous phones, especially with the curved top and bottom ends of the device. From the very first touch we were quite impressed with the feel and grip its back cover provides.</paragraph>
+			<paragraph>The back cover aside, the Acer CloudMobile features a 4.3-inch IPS screen with an HD resolution of 720 x 1280 pixels. It's also one of the few Droids out there to sport software Android keys, rather than hardware ones. Overall, the screen isn't the best we've seen, but it definitely ranks as one of the better ones. Colors are bright and sharp, and blacks are deep and saturated.</paragraph>
+			<paragraph>That's because of Acer's way of putting the display together. They've used a single glass, which has literally zero air between it and the digitizer. This helps reduce reflection and increases the viewing angle.</paragraph>
+			<paragraph>The CloudMobile is powered by a 1.5GHz dual-core Qualcomm Snapdragon 8260A chip with 1GB of RAM and 8GB of storage. The microSD card enables you to extend the storage. At the back, the CloudMobile rocks an 8MP camera, which records videos in fullHD.</paragraph>
+			<paragraph>As we mentioned, the phone runs Android 4.0, but without crazy Acer UI skins on top. Acer has given the vanilla Android some sweet visual extras, like the interesting way to unlock the screen or check a missed call when the phone is locked. The device also operates with an microSIM card.</paragraph>
+			<paragraph>At the end of the day, the Acer CloudMobile is a very decent high-end Droid on a budget. Unlike its little brother - the Acer Liquid Glow, which we are going to overview now.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Acer Liquid Glow<subsectionTitle>
+			<paragraph>The Liquid Glow is Acer's first low-end Android phone to run the latest version of Ice Scream Sandwich. It's back, unfortunately, doesn't feature the rubberized back of the CloudMobile we liked, but a plain plastic one instead. That is for a reason, though. Acer will offer the Liquid Glow in black, white and pink.</paragraph>
+			<paragraph>Hardware-wise, the Liquid Glow doesn't impress, with a quad or a dual-core processor. Instead, it has a single-core 1GHz Qualcomm MSM8255 and 512MB of RAM. Still, Ice Cream Sandwich feels very snappy, despite the lack of a powerhouse under the hood.</paragraph>
+			<paragraph>At the front, there's an 3.7-inch WVGA TFT touchscreen and unlike the CloudMobile, the Luiqd Glow has four capacitive touch keys. At the back, there's a 5MP snapper with LED flash, recording 720p videos with ease.</paragraph>
+			<paragraph>Overall, both the CloudMobile and Liquid Glow are great looking phones with more than decent features for the price Acer will ask. While, we don't have specific information on pricing, don't expect them to break the bank. The Acer CloudMobile will go on sale in Q3 and as for the Liquid Glow, it's time to shine will be around Q2.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>ViewSonic<subsectionTitle>
+			<paragraph>The last stop in our journey around the MWC grounds was the ViewSonic booth, where we got to spend some time with the company's newly unveiled lineup. ViewSonic showcased a couple of Android smartphones, tablets running on the Google OS and one Windows 7-powered slate.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ViewPhone 4s<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ViewPhone 3<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ViewPad 7e<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ViewPad 10e<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ViewPad E100<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ViewPad G70<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>ViewPad 10pro<subsectionTitle>
+		</subsection>
+	</page>
+</review>

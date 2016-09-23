@@ -1,0 +1,134 @@
+<review>
+	<title>Samsung Galaxy Tab S2 9.7 hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_tab_s2_97-review-1290.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Tab S2 9.7 at a glance<subsectionTitle>
+			<paragraph>Display: 9.7" Super AMOLED unit with a resolution of 2048 x 1536 pixels; 264ppi; 4:3 aspect ratio</paragraph>
+			<paragraph>CPU: 1.9GHz quad-core Cortex-A57; 1.3GHz quad-core Cortex-A53</paragraph>
+			<paragraph>GPU: Mali-T760</paragraph>
+			<paragraph>Chipset: 20nm Exynos 5433 SoC with big.LITTLE architecture</paragraph>
+			<paragraph>RAM: 3GB</paragraph>
+			<paragraph>Memory: 32/64GB of built-in memory; microSD card slot</paragraph>
+			<paragraph>Dimensions: 237.3 x 169 x 5.6 mm; 389 grams (Wi-Fi model); 392 grams (LTE variant)</paragraph>
+			<paragraph>OS: Android 5.0.2 Lollipop with TouchWiz UX</paragraph>
+			<paragraph>Cameras: 8MP main camera with 1440p video capture @ 30 fps; 2.1MP front-facing unit</paragraph>
+			<paragraph>Connectivity: Wi-Fi 802.11 a/b/g/n/ac; Bluetooth 4.1; microUSB v2.0 with MHL TV-out; GPS with A-GPS, GLONASS; optional 4G LTE network connectivity</paragraph>
+			<paragraph>General: Built-in fingerprint sensor; dual speakers</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Samsung Galaxy Tab S2 9.7 is the Korean giant's latest entry into the market for premium full-size tablets. Launched alongside a compact variant with 8" display, the ultra-thin newcomer is aimed squarely at Apple's iPad family in its segment.</paragraph>
+			<paragraph>In a bid to attract the attention from current and prospective Apple iPad buyers, Samsung has made the Galaxy Tab S2 the thinnest and lightest slate in its class. With a 5.6mm waistline and 389 grams of weight, the Tab S2 is sleeker and lighter than the already impossibly thin Apple iPad Air 2.</paragraph>
+			<paragraph>Of course, as expected from a flagship tablet by Samsung, the specs of the Galaxy Tab S2 aren't too shabby either. Take a quick look at what the tablet has to offer below.</paragraph>
+			<paragraph>Displays with 4:3 aspect ratio have quickly become the norm in the Android tablet realm, so it is hardly a surprise that the Galaxy Tab S2 9.7 features one. Samsung first introduced a 4:3 screen on the budget-friendly Galaxy Tab A series of slates earlier this year.</paragraph>
+			<paragraph>Samsung's own 20nm Exynos 5433 chipset/3GB of RAM combo found in the Tab S2, while not as capable is the beastly Exynos 7420 found in the Galaxy S6 family, is surely not a slouch. The SoC was featured in a variant of the Samsung Galaxy Note 4.</paragraph>
+			<paragraph>With all that said, follow us on the next page for an unboxing of Samsung Galaxy Tab S2, followed by a closer look at its design and build quality.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>The retail box of Samsung Galaxy Tab S2 features the same design as that of the Galaxy S6 family. Inside it, you will find the slate, a wall charger, a USB cable, a tool to remove the microSD card, as well as the usual set of booklets.</paragraph>
+			<paragraph>Samsung will offer a number of additional accessories for the tablet. They include a wraparound flip cover, as well as a keyboard cover. The latter will only be available for the 9.7" variant of the Tab S2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Tab S2 9.7 design and hardware overview<subsectionTitle>
+			<paragraph>Design-wise, the Galaxy Tab S2 is unmistakably a member of Samsung's tablet lineup. However, because of the flagship slate's new screen aspect ratio, Samsung's signature trio of navigation buttons are now placed to access in portrait mode.</paragraph>
+			<paragraph>For comparison, the device's predecessor, Samsung Galaxy Tab S 10.5 had the navigation buttons placed in landscape mode. The setup was necessary due to its cinematic 16:10 display ratio.</paragraph>
+			<paragraph>In the flesh, the Tab S2 9.7 grabs the attention thanks to its ultra-slim body. The positive impressions continue once you handle the tablet, as its lightness is simply uncanny for a slate with such screen size.</paragraph>
+			<paragraph>The Galaxy Tab S2 9.7 is available in three color options. They include white, black, and gold.</paragraph>
+			<paragraph>Build quality of the slate is solid, though nowhere near as premium as that of Samsung's flagship smartphones and tablets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The 9.7" Super AMOLED display of the Tab S2 9.7 has a resolution of 2048 x 1536 pixels and a pixel density of 264ppi. Those numbers debuted for the first time in the Apple iPad 3 and are now more or less a standard for high-end Android tablets as well.</paragraph>
+			<paragraph>Resolution-wise, the newcomer's display is a step down from the eye-popping 2560 x 1600 pixels found on the screen of the first generation. However, combined with the beefier chipset and smaller battery, this should result in improved overall performance with similar battery life compared to those by last year's Tab S 10.5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Like we already mentioned, Samsung's trio of navigation buttons are located below the display of the Galaxy Tab S2 9.7. The home button has a metal ring around it and packs a built-in fingerprint sensor. Above the screen is where the 2.1MP front-facing camera, an ambient light sensor, and a Samsung logo reside.</paragraph>
+			<paragraph>There is nothing on the left side of the Galaxy Tab S2 9.7. The power/lock key, the volume rocker, and the microSD card slot of the tablet sit on the right.</paragraph>
+			<paragraph>You will find nothing on top of the tablet. The 3.5mm audio jack, microUSB port, and a duo of speakers.</paragraph>
+			<paragraph>The tablet's 8MP main camera is on the back. There we also find the two dot-like receptacles for snapping accessories to the tablet. The camera of the Tab S2 has no LED flash.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Samsung Galaxy Tab S2 9.7 features a 64-bit Exynos 5433 SoC with 1.9GHz quad-core Cortex-A57 CPU and 1.3GHz quad-core Cortex-A53 CPU, coupled with 3GB of RAM. The GPU is Mali-T760.</paragraph>
+			<paragraph>This particular chipset was featured a Samsung Galaxy Note 4 variant last year, so we know that it is no slouch. We put the tablet through the usual set of synthetic benchmarks. Take a look at its results below.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, Samsung Galaxy Tab S2 9.7 offers improved performance over last year's model, especially on the GPU side. However, it isn't as powerful as the 14nm Exynos 7420 found in the Samsung Galaxy S6 family and Galaxy Note5.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>Samsung Galaxy Tab S2 9.7 boots Android 5.0.2 Lollipop, dressed in the Korean giant's TouchWiz UX out of the box. The latest iteration of the Korean manufacturer's custom UI is highly capable and perfectly suited for large screen devices.</paragraph>
+			<paragraph>Split-screen multitasking is naturally available. It works like a charm on the large display.</paragraph>
+			<paragraph>Samsung Galaxy Tab S2 9.7 offers support for up to five active applications. The latter can be minimized and kept as small shortcuts on any homescreen for quick access.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Tab S2 9.7 camera samples<subsectionTitle>
+			<paragraph>Like its predecessor, Samsung Galaxy Tab S2 9.7 packs an 8MP main camera. This time around, the snapper has no LED flash - the manufacturer has bet that you will capture the majority of your photos with your smartphone and rightfully so.</paragraph>
+			<paragraph>While 8MP might not sound much, the Tab S2 camera is really capable as a video recorder - the camera on the tablet can record up to UHD video (2160p).</paragraph>
+			<paragraph>We snapped a few photos with the slate for you to take a look at. We will pass our final judgment on the camera in our full review of the device.</paragraph>
+			<paragraph>The front camera on the Tab S2 is only 2.1MP.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>Samsung has worked obsessively to make the Galaxy Tab S2 9.7 the thinnest and lightest slate in its class and has succeeded. We expect the device?s dimensions to be its defining feature and for a good reason - the Tab S2 9.7 breaks the rules about how a full size tablet should handle.</paragraph>
+			<paragraph>The chipset found in the device raised a few eyebrows, as it isn?t the most powerful solution available at the moment. It is however, a massive improvement over the SoC found in the tablet?s predecessor.</paragraph>
+			<paragraph>To sum things up for now, Samsung Galaxy Tab S2, like its direct rival from Apple, is made to complement your smartphone, which is preferably from the same brand. We will learn more about the slate while we?re preparing our full review, so stay tuned!</paragraph>
+		</subsection>
+	</page>
+</review>

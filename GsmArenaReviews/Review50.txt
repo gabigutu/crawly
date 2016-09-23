@@ -1,0 +1,330 @@
+<review>
+	<title>Nokia X6 review</title>
+	<description>Going up the ladder</description>
+	<link>http://www.gsmarena.com/nokia_x6-review-439.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Quad-band GSM support</paragraph>
+			<paragraph>Tri-band 3G with HSDPA support</paragraph>
+			<paragraph>3.2" 16M-color TFT LCD 16:9 capacitive touchscreen (360 x 640 pixels)</paragraph>
+			<paragraph>Symbian S60 5th edition UI</paragraph>
+			<paragraph>ARM 11 434 MHz CPU, 128 MB of RAM memory</paragraph>
+			<paragraph>5 megapixel autofocus camera with dual-LED flash</paragraph>
+			<paragraph>VGA video recording at 30fps</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g, UPnP technology</paragraph>
+			<paragraph>Built-in GPS receiver</paragraph>
+			<paragraph>32GB built-in storage</paragraph>
+			<paragraph>FM radio with RDS</paragraph>
+			<paragraph>Bluetooth and USB (standard microUSB connector) v2.0</paragraph>
+			<paragraph>3.5mm standard audio jack</paragraph>
+			<paragraph>Very good audio quality</paragraph>
+			<paragraph>Proximity sensor for screen auto turn-off</paragraph>
+			<paragraph>Accelerometer sensor for automatic UI rotation and motion-based gaming</paragraph>
+			<paragraph>Stereo speakers</paragraph>
+			<paragraph>TV out</paragraph>
+			<paragraph>"Comes with music" edition gives you a year of all-you-can-eat music subscription</paragraph>
+			<paragraph>Landscape on-screen virtual QWERTY keyboard</paragraph>
+			<paragraph>Ovi Maps 3.0 Touch</paragraph>
+			<paragraph>Further Ovi and MySpace service integration (direct image and video uploads)</paragraph>
+			<paragraph>Most regional retail packages include a set of the great Nokia WH-500 headphones</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>X6 is still quite pricey (around 500 euro at the time of writing)</paragraph>
+			<paragraph>UI is still immature with somewhat inconsistent user experience</paragraph>
+			<paragraph>Touch web browser not quite polished and with dodgy Flash support</paragraph>
+			<paragraph>No voice-guided navigation license</paragraph>
+			<paragraph>No office document viewer preinstalled</paragraph>
+			<paragraph>Doesn't charge off microUSB</paragraph>
+			<paragraph>Very poor sunlight legibility</paragraph>
+			<paragraph>Slow image gallery</paragraph>
+			<paragraph>No DivX/XviD support for the video player</paragraph>
+			<paragraph>No microSD card slot (as a connectivity solution)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>In the world of Nokia it's all about evolution, rather than revolution. So don't expect the specs on the X6 to blow your mind. The handset is the next step for the market leader scrambling to make up for a late start in touch- screens. To be honest, the Symbian S60 touch edition has been struggling to catch up with the standard setters in terms of user experience. And the X6 claims to have the answer: the responsiveness only a capacitive screen can bring.</paragraph>
+			<paragraph>The Nokia X6 is also the first XpressMusic handset to head straight for the high-end. Midrange is the highest the music Finns have gone so we are interested to see how this change of approach works. Nokia have always had a strong appeal to the masses, but pleasing the selected few is undoubtedly harder.</paragraph>
+			<paragraph>As you can see in the two lists above there is almost nothing new in the software package, so it all falls on the hardware to justify the high asking price. The well-stuffed retail package is a great place to start but does the capacitive screen improve usability enough to be worth the extra money over, say, the 5800 XpressMusic? And the difference in price is by no means trivial.</paragraph>
+			<paragraph>In the increasingly competitive touchscreen market manufacturers don't have much room for error. The unpolished S60 UI is enough of a burden already, so Nokia X6 has to be near perfect in every other respect. A tall task indeed, but let's see how they've tackled it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nicely geared retail package<subsectionTitle>
+			<paragraph>The retail box of the Nokia X6 really manages to sweeten the whole deal. It doesn't have too many items inside but the Nokia WH-500 headset is a real gem. At the price of an entry-level Nokia phone on its own, the stereo headphones are the kind of accessory music lovers will be delighted to get.</paragraph>
+			<paragraph>The WH-500 headset isn't of course the best piece of audio equipment money can buy but it gets near enough so most people won't even see (or rather hear) the difference. The audio experience is miles away from the one you get from the regular headphones Nokia usually include in their retail packages. And as a small bonus, the remote on the cord is also nicely designed.</paragraph>
+			<paragraph>Nokia must've thought (and quite reasonably) there's no way users will need a different headset, so they designed the whole thing together rather than using a detachable remote on the headphones.</paragraph>
+			<paragraph>Bear in mind though that Nokia chose to ship the X6 without a replacement in-ear set instead of the WH-500 headphones in some markets so you'd better check out the package contents before handing out the money. We don't say you shouldn't get the phone without them, we simply mean you should only do so if the price is adequately lower.</paragraph>
+			<paragraph>The other things that you will find in the box are a charger and a microUSB data cable. Luckily this time, Nokia included a regular cable rather than the extra short thingies they're so keen on shipping with their midrange phones.</paragraph>
+			<paragraph>A small booklet with the key you will need for enabling your Comes with Music service is also included. Finally, there's the usual CD and quick user guide that we suspect 95 percent of the users never get around to even unpacking.</paragraph>
+			<paragraph>You can also check out our Nokia X6 unboxing video.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia X6 360-degree spin<subsectionTitle>
+			<paragraph>At 111 x 51 x 13.8 mm, the Nokia X6 fit perfectly in our hands. That, of course, is strictly a personal thing and it's best that you check it out yourself. It doesn't take too much space in your pocket either but we've seen touchscreens go even slimmer.</paragraph>
+			<paragraph>The weight of 122 g is about what you would expect from a device of this size.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Focusing on the capacitive touchscreen<subsectionTitle>
+			<paragraph>The Nokia X6 centerpiece is, of course, its 3.2" 16M color touchscreen display with a resolution of 360 x 640 pixels. Its size is about average for a pocketable touchscreen device and so is the resolution. We have seen plenty of WVGA displays recently which sport quite a lot more pixels so we can hardly consider it too great of an achievement. Yet with the HVGA still being quite popular we wouldn't go as far as calling outdated either.</paragraph>
+			<paragraph>The main novelty that the Nokia X6 display brings (at least to the Nokia portfolio anyway) is capacitive technology. It only requires a very gentle touch, rather than a push for a click to be registered. The downside is it's impossible to use with gloves, styluses or (for the ladies) long nails.</paragraph>
+			<paragraph>We made a simple test to check the accuracy of the Nokia X6 display by drawing straight lines on it. Any bumpiness on them would indicate hardware inaccuracies of the screen but luckily there were almost none to be seen. In this regard it ranks very near to the top of the capacitive pyramid, almost rivaling the resistive screens accuracy.</paragraph>
+			<paragraph>Unfortunately, the underlying hardware is not powerful enough to make the best use of the increased responsiveness. While the improved sensitivity is visible in simple menus where the phone doesn't have a lot of calculations to make, in most cases it is simply nullified by the laggy software.</paragraph>
+			<paragraph>It's a good thing that Nokia try to move forward with this one, but the improvement has to be on more than one level for the user experience to change. As things stand now, there will be more people missing the stylus input option and handwriting capabilities than those that will appreciate the increased screen responsiveness.</paragraph>
+			<paragraph>Another bad thing about the Nokia X6 screen is its poor legibility under direct sunlight. As a matter of fact this is the worst display in terms of sunlight legibility that Nokia have produced in years. The Nokia 5800, 5230 and 5530 trio wasn't great but the X6 is the worse of all those.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Nokia X6 looks pretty nice with its opaque plastic finish. You can't be too imaginative when designing a full-touch handset but a huge display up front always has a positive impact on a handset's look.</paragraph>
+			<paragraph>Our main concern is the all plastic body. While it might suit nicely an entry or midrange handset, we can't help but wish for some metal both for looks and durability. We've never seen much steel on an XpressMusic phone, but then again, we've never had to pay this much to get one.</paragraph>
+			<paragraph>Below the display we find the three traditional for the S60 touch devices keys. Those include Call and End buttons as well as a menu knob. They aren't touch-sensitive so the transition between them and the screen might be a bit awkward. On the other hand their size and tactility renders no other usability obstacles.</paragraph>
+			<paragraph>At the top of the front panel of Nokia X6 we find the earpiece, the video-call camera and the Media key and a couple of sensors. The sensors are embedded in the earpiece hole this time rather than needing a separate space on the front panel.</paragraph>
+			<paragraph>The Media key is touch-sensitive and is noticeably more sensitive than those of previous Nokia touch phones.</paragraph>
+			<paragraph>The top of Nokia X6 is quite crowded with no less than four functional elements to be found here.</paragraph>
+			<paragraph>The power key, which is also used for alternating the active profiles and locking the device, is the first thing of interest. Next come the 3.5mm standard audio jack and the charger plug, followed by the microUSB jack. The microUSB slot is covered by a lid to prevent dust and dirt from accumulating.</paragraph>
+			<paragraph>The Nokia X6 right side features three keys - the volume rocker, the camera key and the screen lock slider. They are large and comfortable enough so using them is no trouble at all.</paragraph>
+			<paragraph>The stereo speakers and the SIM card slot are on the left side of the X6. You actually need to remove the battery to eject the SIM card but you don't have to do that when inserting it. Yet you shouldn't expect some kind of hot-swap functionality or anything like it. You still need to restart the device for the new card to work.</paragraph>
+			<paragraph>The bottom is quite bare. The microphone pinhole is here along with the gap you use to pry open the back cover.</paragraph>
+			<paragraph>The back side of Nokia X6 hosts the 5 megapixel camera lens and its dual-LED low-light assistant. The Carl Zeiss branding sits right next to it, suggesting good optical quality. Unfortunately, there is no lens protection aside from the edgy frame surrounding it.</paragraph>
+			<paragraph>Removing the battery cover reveals the 1320 mAh BL-5J Li-Ion battery. Its got an impressive performance rating on paper and in real-life scenario as well.</paragraph>
+			<paragraph>Quoted at up to 420 hours of stand-by and up to 8.5 hours of talk time, it could give you good two and a half days of extensive usage (half an hour of web-browsing, 20 minutes of talk-time, an hour of listening to music and 30 minutes of using the other features of the phone per day).</paragraph>
+			<paragraph>If you are planning to use the Nokia X6 as a dedicated music player (for which it definitely seems fit) it can give you an amazing 35 hours of playback. That of course counts only in offline mode with the display backlighting switched off. But it gives you an idea what to expect.</paragraph>
+			<paragraph>The general build quality of the Nokia X6 is quite nice. However we suspect that the opaque plastic might polish itself here and there when used for a longer time and lose a large part of its appeal.</paragraph>
+			<paragraph>On the positive side it is perfectly prone to fingerprints so the X6 doesn't become a smudgy mess.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface is the same, despite the new touchscreen<subsectionTitle>
+			<paragraph>As far as touchscreens go, the Nokia X6 is a first for Nokia -it's their first capacitive touchscreen phone. The S60 5th edition hoever hasn't changed at all. So, by now you should have seen plenty touch Symbian OS reviews and nothing here should come as a big surprise.</paragraph>
+			<paragraph>The first thing to note is kinetic scrolling which, in fact, works quite well and is available almost throughout the user interface - from file browser through gallery to contacts (and even web browser, though with quite spotty implementation). Unfortunately, it won't work in icon menus, like the main menu.</paragraph>
+			<paragraph>In those icon-centric menus you push the selection to the edge of the screen, which will scroll things in the opposite direction. It's very unintuitive and confusing, since everything else works the other way around. You can use the scroll bar for icon menus, but scrollbars are so 1990s.</paragraph>
+			<paragraph>Still, the good news is that finger scrolling has been improved everywhere as far as lists of items are concerned. You can scroll with the same ease as with the Apple iPhone - you push it one way and it moves in the oppsite direction as if you are pushing the actual list off the screen.</paragraph>
+			<paragraph>On the homescreen, the Contacts bar is side-scrollable and thus accommodates a lot more phonebook shortcuts.</paragraph>
+			<paragraph>Turning the handset landscape in text-input mode automatically brings a full QWERTY keypad up on the screen. Of course, there's still a long way to go. We'd still have to wait for auto-rotation of the homescreen, smart dial and a more elaborate Active Standby - with room for the WLAN scanner plugin, for instance.</paragraph>
+			<paragraph>Widgets are NSeries stuff so don't expect any of those here. And if you were expecting thumb-scrollable multiple homescreen panes, then you are out of luck as well, despite the fact that the touchscreen competition has had these for a long time.</paragraph>
+			<paragraph>S60 5th is in essence a direct translation of D-pad and soft-key action into touch. Although it has its benefits, the result is hardly the most fluent and intuitive touchscreen interface there is. Scrolling and accessing items across the interface is nothing like other touch platforms we've tried. On the other hand, soft-keys work just fine and enhance usability compared to other touch phones.</paragraph>
+			<paragraph>So, the user experience with S60 5th is a mixed bag and what you think of it will entirely depend on your background. If you know your way around S60, you'll be quite at home with the X6 interface. But if you come from an alternative touchscreen platform you'll find yourself climbing a fairly steep learning curve.</paragraph>
+			<paragraph>Opening an item in any of the listed submenus requires not one, but two presses - one to select, and another one to confirm the action. Now that's something that you don't normally see in other touch phones. You get used to it with time, but the main issue here is that the interface logic is different when you deal with icons instead of lists.When the opened menu uses icons to represent items as opposed to lists, then a single click usually does the job.</paragraph>
+			<paragraph>The scrolling as described earlier is equally confusing due to the two contradictory approaches. At least kinetic scrolling will make you feel way more comfortable than those first 5800 XpressMusic users. Plus, it does at least show Nokia are serious about polishing the Symbian touch platform.</paragraph>
+			<paragraph>Homescreen and main menu</paragraph>
+			<paragraph>The main menu structure leaves no doubt you're on Symbian turf. Icons are set in a 3 x 4 grid or a list and you can freely reorder. Screen orientation can be set to change automatically thanks to the accelerometer.</paragraph>
+			<paragraph>The homescreen, however, is one spot where auto-rotation is badly missed as the extra screen estate would've made it much more usable. For one, more shortcuts would've been visible on the Contacts bar. It's scrollable anyway - that's true - but if the 5730 XpressMusic can do it, why can't the touchscreen version?</paragraph>
+			<paragraph>Otherwise, the homescreen layout of the X6 is typical Symbian and looks exactly the same as it did on the Nokia 5530.</paragraph>
+			<paragraph>A single press on the clock starts the clock application (with an option for setting up an alarm) while tapping on the date opens a drop-down menu where you can either launch the calendar application or change the currently active profile, which does make using the the Power key for that purpose redundant.</paragraph>
+			<paragraph>You can also access the connectivity menu from here by tapping around the battery status indicator, which is the quickest way to initiate a WLAN search. It is not quite as quick as the 3rd edition plug-in where you only needed a single click for that purpose but it is better than nothing.</paragraph>
+			<paragraph>The Contacts bar follows right beneath: each contact is represented by the contact photo and their first name - and it's possible to have three contacts displayed at a time but the list is scrollable left or right.</paragraph>
+			<paragraph>For each contact you can add an RSS feed, so we guess it is a nice trick to add a contact that isn't a person just so that you'll have quick access to your favorite feeds on the homescreen.</paragraph>
+			<paragraph>Selecting a contact from the Contact bar brings up a screen with info on the contact (different from you get if you select the contact from the Contacts list). It has the contact photo, name and phone number. Underneath are four buttons - call, send message, update feed and settings.</paragraph>
+			<paragraph>Further down is an area that shows the communication history for that contact - both calls and messages. And finally, at the bottom there are the top two lines from an RSS feed.</paragraph>
+			<paragraph>Under the Contacts list, it's pretty much standard Active Standby but with fewer slots. You only get email notification showing the number of unread messages, along with the sender and subject of the most recent message. The blank area beneath is reserved for the music player and radio mini apps - they get displayed when either is set to play in the background.</paragraph>
+			<paragraph>At the very bottom of the homescreen is the Shortcuts bar. Both the Contacts and the Shortcuts tab are optional and can be hidden.</paragraph>
+			<paragraph>The Media key, placed above the screen on the right, is a shortcut to the Music player, Gallery, Ovi Share, Videos, and the web browser. It's an excellent control that offers quick access to the handset's multimedia features. It's haptic-enabled too with a slight vibration confirming each touch on screen.</paragraph>
+			<paragraph>The Nokia X6 features a task manager which is launched by a press-and-hold on the menu key. The task manager itself is identical to what you get on Symbian S60 3.2 devices. Much like in the previous version of the UI, it appears on top of every pop-up menu. There's no C key to close running applications - instead you press and hold the app's icon to display two virtual buttons: Open and Exit.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Pretty decent phonebook<subsectionTitle>
+			<paragraph>The Nokia X6 phonebook has virtually unlimited capacity and its functionality is certainly among the best out there. Nokia X6 contacts list also has kinetic scrolling enabled that's a welcome enhancement but nowadays all Nokia touch phones have that already.</paragraph>
+			<paragraph>Contacts can be freely ordered by first or last name and you can also set whether the contacts from the SIM card, the phone memory and the service numbers will get displayed.</paragraph>
+			<paragraph>When searching for a contact you make use of a clever dynamic keypad, which shows you only the letters that correspond to actual contacts. Once you type in a first letter, their number decreases, leaving only the ones that actually make up real contacts names (in our case - "E" and "X"). A really convenient tool indeed.</paragraph>
+			<paragraph>Editing a contact offers a variety of preset fields and you can replicate each of them as many times as you like. You can also create new fields if you happen to be able to think of one.</paragraph>
+			<paragraph>You can also assign personal ringtones and videos. If you prefer, you may group your contacts and give each group a specific ringtone.</paragraph>
+			<paragraph>The Call log keeps track of your recent communications. The application itself comes in two flavors - accessed by pressing the Call key on the stand-by screen or from the main menu. The first one brings 20 call records in each of its tabs for outgoing, received and missed calls.</paragraph>
+			<paragraph>If you access the Log application from the main menu, you'll see a detailed list of all your network communications for the past 30 days. These include messages, calls and data transfers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony: smart-dial nowhere to be seen<subsectionTitle>
+			<paragraph>Voice quality is good on both ends of calls, the earpiece sound is crisp and there were no reception problems whatsoever.</paragraph>
+			<paragraph>The only real downside is the still missing smart dialing functionality. Some may argue it's not as essential on a touchscreen phone but most of the competition has it duly covered. Not to mention WinMo devices have a very elaborate smart dial system that even searches in your Calls log for numbers that are not in your contacts list.</paragraph>
+			<paragraph>Voice dialing is an option with the Nokia X6 as with most other phones. The voice dialing mode is activated once you press and hold the Call key. It is fully speaker-independent and doesn't require pre-recording the names of your contacts. Bear in mind though, that if you have multiple numbers assigned to a contact, it will dial the default one.</paragraph>
+			<paragraph>Thanks to the built-in accelerometer, you can silence an incoming call (or snooze an alarm) by simply flipping the handset over. Also when in calls, the proximity sensor makes sure the screen turns automatically off when you pick the phone up to your ear.</paragraph>
+			<paragraph>Using the hardware screen-lock switch you can not only unlock the phone but also silence it.</paragraph>
+			<paragraph>The Nokia X6 scored a Good in our traditional loudspeaker test. This puts it on par with the majority of XpressMusic handsets, so while you might not hear it in the noisiest environments, you should be OK most of the time.</paragraph>
+			<paragraph>More info on our test can be found here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Touchscreen messaging quite adequate<subsectionTitle>
+			<paragraph>Nokia X6 supports all common message types - SMS, MMS and email. They all share a common intuitive editor which by this point should be quite familiar to everyone.</paragraph>
+			<paragraph>Delivery reports can be turned on - they pop up once the message reaches the addressee, and on the screen and are then saved in a separate folder in the messaging sub-menu. When you are exiting the message editor without having sent the message, you get prompted to save it in Drafts or discard it.</paragraph>
+			<paragraph>The email client is really nice, there to meet almost any emailing needs. The easy setup we found in the latest Nokia handsets is also available with the X6. If you are using any public email service (it has to be among the over 1000 supported providers), all you have to do is enter your username and password to start enjoying email on the go. The phone downloads all the needed settings to get you going in no time.</paragraph>
+			<paragraph>Multiple email accounts and various security protocols are supported, so you can bet almost any mail service will run trouble-free on your Nokia X6.</paragraph>
+			<paragraph>The client can download headers only or entire messages, and can be set to automatically check mail at a given interval. A nice feature allows you to schedule sending email next time an internet connection is available. This can save you some data traffic charges since you can use the next available WLAN connection instead.</paragraph>
+			<paragraph>Here might just be the right time to mention the input options on Nokia X6. The handset offers a standard alphanumeric on-screen keypad, which automatically turns into a full QWERTY keyboard when you tilt the handset thanks to the accelerometer.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image gallery way too slow<subsectionTitle>
+			<paragraph>The gallery of Nokia X6 is nicely touch optimized and there are sweep gestures enabled for flipping through photos displayed fullscreen.</paragraph>
+			<paragraph>You can sort images by date, title or size and you can also copy, move and delete them. Sending them via Bluetooth, email, MMS or sharing them online is also available straight from here.</paragraph>
+			<paragraph>The default view is portrait but you can go to landscape automatically thanks to the built-in accelerometer. A slide show is also available but it doesn't have as many customizable settings as on some Nseries handsets.</paragraph>
+			<paragraph>You can also zoom in the photos to see more detail. Zoom is controlled via either the volume rocker or an on-screen touch slider. In all other cases, images are displayed full screen.</paragraph>
+			<paragraph>Probably the main problem of the gallery is its speed. Loading a picture takes a couple of seconds even for small images. If you have a large amount of photos it might take ages before the thumbnails are generated.</paragraph>
+			<paragraph>Zooming and panning are not that much faster either. However as we mentioned the kinetic scrolling implementation has its flaws as it doesn't gain as much momentum as we would expect and stops too abruptly. That means that you will need several rapid sweeps to get from one end of an image to the other if you have zoomed in.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Same old music player<subsectionTitle>
+			<paragraph>Nokia X6 music player is pretty functional but its design could use a little freshening up - it hasn't change since we first saw it in the Nokia 5800 XpressMusic. With user friendliness such a key aspect of full touch phones, it would be nice from Nokia to add some fun to the mix.</paragraph>
+			<paragraph>Your music library is automatically sorted by artist, album, genre and or composer and searching tracks by gradual typing is available. You can also create your own playlists in no time.</paragraph>
+			<paragraph>The process of adding tracks to the library is as simple as choosing the refresh option. You won't need to do that if you upload the music via the proprietary PC Suite application. With the huge number of supported formats you will hardly ever come across an audio file that the phone won't handle.</paragraph>
+			<paragraph>Album art is also supported and if you don't like the default sound of the device you can enhance it by applying one of the five equalizer presets and if they seem insufficient you can create new ones in a matter of seconds.</paragraph>
+			<paragraph>Quite naturally, the player can also be minimized to play in background. In this case a tab appears on the stand-by screen indicating the currently running track. You can pause the current track or skip to next/previous. Of course, you can go back to the full music player app using the dedicated Media key above the screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Playlist DJ makes the music fit your mood<subsectionTitle>
+			<paragraph>One of the new additions to the multimedia arsenal of the Nokia X6 is the Playlist DJ. It's similar to Sony Ericsson's SensMe, but is controlled a little differently.</paragraph>
+			<paragraph>You have four sliders - Joy, Passion, Anger and Tempo. You adjust the sliders according to what kind of music you're in the mood for - joyful or angry, slow and passionate and so on. After setting the sliders to the desired positions, the Playlist DJ will go through your music library and create a playlist.</paragraph>
+			<paragraph>It also offers the "Playlist of similar songs" that finds songs with a mood similar to the current song you're listening to. This definitely seems like the more useful option making the joy, passion and anger sliders seem a bit redundant.</paragraph>
+			<paragraph>To work with Playlist DJ, each song must be analyzed (profiled) and profiles are downloaded from the Internet, so keep that in mind.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Music Store and Comes With Music<subsectionTitle>
+			<paragraph>The Music Store is present in a lot of other Nokia handsets but we haven't paid too much attention to it. But with the Nokia X6 we just can't ignore it - the X6 comes with a year of free subscription to the Nokia Music Store.</paragraph>
+			<paragraph>The Comes With Music subscription means unlimited free downloads (apart from possible data charges) and you get to keep the songs when the subscription runs out, though the songs are DRM protected.</paragraph>
+			<paragraph>With 32GB of internal memory, that means you can download a huge music collection. But you can also listen to the songs on your PC and burn a song or album up to ten times on a CD (though that might not be available for all songs).</paragraph>
+			<paragraph>The Music Store keeps things simple - a banner for a popular performer from your country, a search bar and the option to browse songs and albums by genre or charts from the chosen country. Searching is done by performer or title.</paragraph>
+			<paragraph>Below that you have a section for new releases, top songs, top albums, playlists like Best of 2009, French Hip Hop and so on.</paragraph>
+			<paragraph>Selecting an album or song displays the basics on top - album art, year of release, genre and label. There's more comprehensive information too. You can download a song or entire album. For each song you can listen to a 30 seconds preview of the song before downloading.</paragraph>
+			<paragraph>There's also an "Inspire me" section at the bottom of the info page for the performer, album or song suggesting similar music you might like.</paragraph>
+			<paragraph>The whole interface is browser based, which makes it a little sluggish as you have to wait for the content and interface. Aside from that, we don't really have any complaints about the Music Store. It's intuitive and easy to work with and comes with a comprehensive selection of music.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Pretty good audio quality<subsectionTitle>
+			<paragraph>We are now used to seeing the XpressMusic handsets deliver excellent audio quality so the Nokia X6 hardly managed to surprise us. It isn't too much better than that of its much more affordable siblings but that is enough to secure it a place quite close to the best in business.</paragraph>
+			<paragraph>Save for the slightly high intermodulation distortion, Nokia X6 performs excellently in every part of our test. The frequency response is great with the slightly larger number that appears in the table is only due to the extreme heights of the audible range being slightly cut off.</paragraph>
+			<paragraph>Compared to the Nokia 5800 XpressMusic the X6 has an edge in the stereo crosstalk reading, while in the other elements trails behind by the slightest of margins. Here goes the table and the graph so you can see for yourselves.</paragraph>
+			<paragraph> Nokia X6 frequency response graph</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>No DivX/XviD support for the video player<subsectionTitle>
+			<paragraph>The ample screen generally makes watching a video on the Nokia X6 a pleasure. However the lack of DivX and XviD codecs makes actually playing one somewhat of a harder task.</paragraph>
+			<paragraph>Of course, you can use the Nokia PC suite built-in application that automatically converts all kinds of video files to the format and resolution your phone supports. The automatic converter though seems to compress the videos too much even at the highest quality setting and they look over pixilated' but so far it's the easiest way of getting compatible video to your handset.</paragraph>
+			<paragraph>The video player itself only works in fullscreen landscape mode but, since anything else would have made the widescreen display useless, this is understandable. When in fullscreen, a tap on the screen shows the controls which are normally hidden.</paragraph>
+			<paragraph>Using the RealPlayer or the Video center (accessed by the Media key positioned above the display), you can not only watch the videos saved in the phone's memory or in the memory card but also to stream Internet video content.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS<subsectionTitle>
+			<paragraph>The FM radio on Nokia X6 has a neat and simple interface and can automatically scan and save the available stations in your area. It also has RDS support and automatic scanning for an alternative frequency. This means that if you're on the go, the X6 should take care of auto-switching to the frequencies of your selected radio station.</paragraph>
+			<paragraph>The radio station name gets displayed with cool effects across the whole screen, while the rest of the RDS readings are printed in nicely legible text on a line at the bottom. Perhaps we would have preferred this font a bit larger, but it isn't that much of an issue.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The camera has its ups and downs<subsectionTitle>
+			<paragraph>Nokia X6 has a 5 MP camera with a maximum image resolution of 2592x1944 pixels. Carl Zeiss optics promise nice photos with a lot of detail.</paragraph>
+			<paragraph>The camera UI is similar to the one found in 5800 XpressMusic and a carbon copy of the one in N97 and N97 mini - the few changes made are not really for the better.</paragraph>
+			<paragraph>All the settings are squeezed in a common menu, except for the flash, which has its own dedicated shortcut. We understand that a tabular layout isn't the easiest of things on this kind of device but some of the more important features could have had their own shortcuts too.</paragraph>
+			<paragraph>At least the range of settings that the Nokia X6 offers is extensive enough: from manual white balance and ISO to exposure compensation, sharpness and contrast. Various effects are also at hand, labeled as Color Tones.</paragraph>
+			<paragraph>The geo-tagging option is available out of the box.</paragraph>
+			<paragraph>Nokia X6 lacks all the modern features that the other competing manufacturers are using such as face detection, smile detection and even blink prevention.</paragraph>
+			<paragraph>The viewfinder on the Nokia X6 doesn't occupy the whole screen - a bar on the right is reserved for the touch controls. You have a settings button that launches a semi-transparent overlay of all available shooting options, a dedicated Flash button, an on-screen shutter key and finally, the Options menu key.</paragraph>
+			<paragraph>The on-screen shutter key seems absolutely redundant - it doesn't have a half press/full press action to properly handle auto focus. It would've been way better to have a Quick Settings button instead.</paragraph>
+			<paragraph>Image quality</paragraph>
+			<paragraph>The picture quality is pretty decent by our books. First of all the picture detail is enough to qualify the photos as very nice. The next thing is that the noise reduction algorithm is mature enough and finds a good balance between noise levels and detail. There is no purple fringing and the white balance and auto ISO settings worked just fine. Photos have good contrast and accurate colors.</paragraph>
+			<paragraph>The typical-for-Nokia slight yellowish tint is present in the Nokia X6 camera too, but it's not too obtrusive and most consumers prefer photos with warmer colors.</paragraph>
+			<paragraph>And there go some photo samples from the X6 camera.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic resolution<subsectionTitle>
+			<paragraph>We also snapped our resolution chart with the Nokia X6. You can check out what that test is all about here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The camcorder interface doesn't differ from the still camera much. The camera can capture video in either VGA or the screen resolution (640 x 352 px) resolution, in both cases at 30 frames per second.</paragraph>
+			<paragraph>The X6 video capture quality is OK. Colors and white balance turn out just fine, but the compression seems too aggressive in most of the clips and produces noticeable video artifacts. Anyway, VGA@30fps seems to be the best that Nokia can offer right now.</paragraph>
+			<paragraph>Here are two samples from the Nokia X6:</paragraph>
+			<paragraph>Sample 1, VGA@30fps Sample 2, 640x352@30fps</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity is great<subsectionTitle>
+			<paragraph>Smartphones are usually well-heeled in terms of connectivity and the Nokia X6 is no exception: all contemporary means of data transfer are supported.</paragraph>
+			<paragraph>All kinds of network connectivity are at the user disposal - GPRS, EDGE and 3G with HSDPA (3.6Mbps). The GSM/EDGE networking of course comes in quad-band flavor and the 3G in tri-band - 900/1900/2100.</paragraph>
+			<paragraph>Both USB and Bluetooth are version 2.0 and the latter naturally also sports A2DP. Wi-Fi with UPnP support is also at hand. There is no shortcut key for the Wi-Fi manager, but it can be easily found in the Connectivity menu and connecting to a WLAN network is two taps away.</paragraph>
+			<paragraph>Finally, the storage. Unlike a lot of other phones, the Nokia X6 doesn't have a microSD card slot and doesn't need one either. With 32GB built-in memory, we can't imagine filling it up and needing more space.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser still has some catching up to do<subsectionTitle>
+			<paragraph>The S60 web browser is decently usable, especially now that is also offers kinetic scrolling. Yet there is quite a lot of work remaining before it is able to rival the best in class. The Android and iPhone browsers are miles ahead in terms of usability and user-friendliness.</paragraph>
+			<paragraph>But let's not digress. The Nokia X6 browser has a good rendering algorithm, displaying most of the sites we visited correctly. It also offers some nice functionality such as different font sizes (5 options), auto fill-in of web forms and a password manager.</paragraph>
+			<paragraph>The built-in RSS reader will handle your feeds, while the download manager allows you to download any kind of files while surfing. There's also a popup blocker, but bear in mind that you cannot open a new window in any other way but clicking a pop-up link. We'd have really preferred to see an option to open links in new window.</paragraph>
+			<paragraph>A minimap is available for finding your way around large pages and the Find on page feature allows you search for keywords. The visual history is a nice bonus that can help you find a page you've visited more easily.</paragraph>
+			<paragraph>And now we get to Flash support. Yes, there is Flash support, but we had a miserable experience with YouTube (and the other video sharing sites we tested). Half the time, the player wouldn't even load and when it did, simply turning the phone in landscape orientation was enough to crash the browser.</paragraph>
+			<paragraph>Another disadvantage of the web browser concerns the kinetic scrolling - it is certainly a nice feature to have on board and all but its implementation in the web browser needs polishing. The scrolling is there but it lacks the momentum you see when scrolling listed items in the menu and you'll need several sweeps for even moderately-sized pages.</paragraph>
+			<paragraph>Double tapping any text zooms it in on screen, but again, the text doesn't fit the zoomed area and you still need to scroll sideways.</paragraph>
+			<paragraph>So, generally speaking, the S60 touch-browser is going in the right direction but there's still a lot of work to be done to catch up with the rest. The improved usability is a nice start but it's nowhere near the iPhone or Android standards. The same goes for the resolution, which is a lot better than the QVGA non-touch predecessors but hardly a match for WVGA.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer misses a document viewer<subsectionTitle>
+			<paragraph>The S60 5th edition organizer is pretty well stocked although its applications are already in need of refreshment - especially on a touchscreen. Some of the apps are starting to look boring and dated, having had the same interface for over 3 years now.</paragraph>
+			<paragraph>The developers are still hesitant to put the touch input of Nokia X6 to some good usage and maybe some cool new features. They have only gone as far as to touch-optimize the S60 3rd edition apps.</paragraph>
+			<paragraph>The calendar has four different view modes - monthly, weekly, daily and a to-do list, which allows you to check all your To-Do entries regardless of their date. There are four types of events available for setting up - Meeting, Memo, Anniversary and To-do. Each event has unique fields of its own, and some of them allow an alarm to be activated at a preset time to act as a reminder.</paragraph>
+			<paragraph>Unfortunately, the Quickoffice application wasn't preinstalled on our Nokia X6. It's available from Ovi Store but it costs 25 euro and the PDF reader is sold separately for 10 euro. Today a document viewed is about as basic as email, so even if document editors are paid, the viewer should be free and preinstalled. Many feature phones have one, so why not this high end device?</paragraph>
+			<paragraph>The calculator application is very familiar but it lacks the functionality of some of its competitors. The square root is the most complicated function it handles and this is no longer considered an achievement. If all you do with it is split the bill at the bar though, you're free to disregard that last sentence.</paragraph>
+			<paragraph>The organizer package also includes a great unit converter, voice recorder, as well as the Notes application.</paragraph>
+			<paragraph>The alarm application allows you to set up as many alarms as you want, each with its own name, trigger day and repeat pattern. If this seems too complicated, there is a quick alarm setup where all you do is set the time and you're good to go. Thanks to the built-in accelerometer you can also snooze the alarm by simply flipping your phone.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Ovi Maps 3.0 comes to back up the GPS<subsectionTitle>
+			<paragraph>The Nokia X6 comes with a built-in GPS receiver The handset managed to acquire a satellite lock from a cold start in about a minute upon the first attempt (A-GPS turned off at the time) and keeping the lock was not an issue for the X6 even in dense urban environments.</paragraph>
+			<paragraph>The large high-resolution screen sounds like a serious candidate for genuine use as a dedicated navigation unit. Unfortunately, the X6 has only a 10-day trial voice-guided navigation (region dependant) and you need to pay for more. There's a lifetime City Explorer license though.</paragraph>
+			<paragraph>The phone comes with Ovi Maps 3.0 Touch preinstalled (the rebranded Nokia Maps). As you might have guessed this is merely a touch-enabled version of the standard Nokia Maps 3.0 application. It offers extensive map coverage for free but you do need to pay for most of its extra features such as traffic information or city guides.</paragraph>
+			<paragraph>As we just mentioned you will also have to buy the voice-guided navigation license, should you pick the application for the purpose. At least the actual purchase itself is quite simple directly via the phone interface. If you prefer an alternative navigation software, you might want to carefully look around for a compatible version.</paragraph>
+			<paragraph>The touch-enabled Ovi Maps application itself is doing pretty well in terms of features too. It has four different view modes including satellite and hybrid maps. Those however do need an internet connection. The more regular 2D and 3D view modes are also at hand.</paragraph>
+			<paragraph>The route planning algorithm is also rather easy to customize to best suit your preferences. Toll roads and motorways can be avoided and so can tunnels and ferries. Route selection can be set to either fastest or shortest. The app is also usable for pedestrian navigation or you can switch the GPS receiver off and use the phone as a hand-held map.</paragraph>
+			<paragraph>One of the gripes we had with Maps 3.0 was the lack of "Go to my location" shortcut. On the positive side, panning and zooming in the maps is really fast and the high-res screen is capable of showing quite a lot of data.</paragraph>
+			<paragraph>The overall impression with GPS navigation on Nokia X6 is positive but, you have to factor in that a 1-year voice-guided navigation costs a lot and we are not sure whether many people will go for that. And the screen doesn't do too well under sunlight, which is a major drawback if you want to use the Nokia X6 as a replacement for dedicated SatNav units.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Ovi Store<subsectionTitle>
+			<paragraph>Browsing the Ovi Store, you can choose between several sections - Applications, Games, Audio and Video content, Personalization, Recommended and of course, My Stuff, which shows you the apps you've already installed.</paragraph>
+			<paragraph>The structure of the Ovi Store client is simple - a list with the name and logo for each app (or podcast, or whatever), the category it's in (Entertainment, Utilities, etc), price and a three star rating.</paragraph>
+			<paragraph>Selecting an app, gives you more details - a description, info on size, reviews by people who have tried it, the ability to write a review yourself or sent the description page to a friend, a list of related apps and a Report issue button, which helps you report fraud, spam, abuse, etc., but not bug reports or feature requests.</paragraph>
+			<paragraph>Searching the Store is quite easy if the Recommended section and the Related apps list don't get you what you're looking for.</paragraph>
+			<paragraph>Our Nokia X6 came with very few preinstalled apps - just a few games and apps. Some of them are very handy tools for reading news, handling social networks, weather forecasts, etc.</paragraph>
+			<paragraph>Of course, since this is Symbian we are talking about, you can also pay a visit to some of the numerous sites for software available online. Here is one to get you started, while a simple Google search will show you the rest.</paragraph>
+			<paragraph>You can download the apps straight from your phone or from your desktop computer and than transfer them as you find fit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Applications<subsectionTitle>
+			<paragraph>The Nokia X6 comes with just a few preinstalled applications. One of the interesting applications is Ovi Files. You have to install an application on your computer but after that's done, you can access all the files on that computer from your phone or a browser on another computer. You also get "Anytime files", which lets you store 10GB of data that is accessible even if the computer is turned off.</paragraph>
+			<paragraph>Amazon is a simple application with different categories. There is also a search engine, which opens results directly in the Amazon site. You are also allowed to choose in which country you'd like to look for an item, which is great for the local buyers.</paragraph>
+			<paragraph>There's also a Facebook application.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Games to pass the time<subsectionTitle>
+			<paragraph>The Nokia X6 comes with three games preinstalled, all of which are quite familiar.</paragraph>
+			<paragraph>The first one is Spore - a simple but fun arcade game with a twist. You gain DNA points in the game that can eventually be spent to "evolve" the little critter that you control and make it faster, stronger and so on.</paragraph>
+			<paragraph>Next up is Asphalt 4: Elite Racing. With its pseudo-3D graphics, it's hardly worth bragging about with today's portable gaming machines.</paragraph>
+			<paragraph>Finally, there's the DJ Hero wannabe - DJ Mix Tour, a simple rhythm game.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>A first capacitive screen for Nokia and a first truly high-end device in the XpressMusic lineup, the X6 is a phone that requires attention. It's good that Nokia do try and improve their touchscreens and respond to users' demands.</paragraph>
+			<paragraph>Yet we don't think the screen sensitivity is the main problem of the Nokia touch phones. Resistive screens have strengths of their own (better accuracy, stylus use and handwriting, etc.) over capacitive ones, so it's more about picking your priorities rather than ranking the two technologies.</paragraph>
+			<paragraph>Don't get us wrong - we are pleased with Nokia for giving their users a choice. It's great that they are creating handsets for different customers, rather than relying on the one-size-fit-all approach. However, there are other issues that need more urgent attention and we believe Nokia should focus their efforts there.</paragraph>
+			<paragraph>That focus should be the software on their smartphones, of course. The S60 UI is neither user-friendly nor attractive enough to rival the best in class. The core functionality is all there but when we are talking about that much money, only covering the basics just doesn't cut it.</paragraph>
+			<paragraph>The Nokia X6 is an expensive device all right (around 500 euro), even if we discount the Comes With Music license and the great headphones. And at this price point the flaws are not easily forgiven. Competition in this segment is tough to start with, and the fact that there's too many affordable alternatives with comparable feature sets doesn't help either.</paragraph>
+			<paragraph>The Nokia 5800 XpressMusic, 5530 XpressMusic and the 5230 might be placed in a much lower segment but they do match most of the X6 functionality and cost a lot less. If you are willing to sacrifice some screen estate and GPS (5530) or Wi-Fi (5230) and a couple of megapixels of image resolution (5230) you can save yourself more than half the money and get the same software package, even with the Comes with music goodies (5235).</paragraph>
+			<paragraph>   Nokia 5800 XpressMusic ? Nokia 5800 XpressMusic ? Nokia 5230</paragraph>
+			<paragraph>The HTC Hero and Acer Liquid are the two Android alternatives that give you great performance, a much more fluid UI and solid multimedia capabilities. They don't offer the same in-box headphones or all-you-can-eat music downloads but cost less and you can use the money you save on either of those. And all other things equal, the Nokia loses on points despite the 32GB built-in storage.</paragraph>
+			<paragraph>  HTC Hero ? Acer Liquid</paragraph>
+			<paragraph>All those alternatives listed above pinpoint the main weakness of Nokia X6: its low bang-for-buck ratio. The capacitive display is nice but when the performance necessary to back it up is missing, there is little benefit for the user. And real audiophiles are likely to already own a top-notch headset, so another major selling point is moot.</paragraph>
+			<paragraph>There is always a chance that the market will see to it that the X6 price is adequately adjusted, which will improve the phone's prospects. At this stage, the handset is not really a smart buy in the way that the 5800 XpressMusic is. But maybe smart buys belong in the midrange, premium phones are a different story.</paragraph>
+		</subsection>
+	</page>
+</review>

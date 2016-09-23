@@ -1,0 +1,369 @@
+<review>
+	<title>LG Optimus GJ review</title>
+	<description>Wild child</description>
+	<link>http://www.gsmarena.com/lg_optimus_gj-review-965.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support, dual-band 3G with HSPA</paragraph>
+			<paragraph>4.7" 16M-color 720p True HD-IPS Plus LCD touchscreen</paragraph>
+			<paragraph>Android OS v4.1.2 Jelly Bean; LG Optimus UI 3.0</paragraph>
+			<paragraph>Quad-core 1.5 GHz Krait CPU, 2 GB RAM, Adreno 320 GPU</paragraph>
+			<paragraph>13 MP autofocus camera with LED flash, geotagging, Intelligent Auto, image stabilization, Time catch shot, smart shutter and VR panoramas</paragraph>
+			<paragraph>1080p video recording @ 30fps with continuous autofocus and stereo sound;</paragraph>
+			<paragraph>1.3 MP front-facing camera, 720p video recording</paragraph>
+			<paragraph>16GB of built-in storage; microSD card slot</paragraph>
+			<paragraph>MHL-enabled microUSB port, USB host support</paragraph>
+			<paragraph>Independent content output over MHL (Dual Screen Dual Play), Miracast protocol support</paragraph>
+			<paragraph>Bluetooth v4.0</paragraph>
+			<paragraph>Wi-Fi a/b/g/n, Wi-Fi Direct and DLNA</paragraph>
+			<paragraph>GPS with A-GPS</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Voice dialing</paragraph>
+			<paragraph>Multi-tasking with mini-apps and optional app window transparency (QSlide)</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>User-replaceable 2,280mAh Li-Po battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Reflective screen doesn't do too well outdoors</paragraph>
+			<paragraph>Doesn't have the latest Android build at launch</paragraph>
+			<paragraph>The 13MP camera is only marginally better than the leading 8MP shooters</paragraph>
+			<paragraph>1080p video quality is unimpressive</paragraph>
+			<paragraph>Quickly overheats, leading to slower performance</paragraph>
+			<paragraph>No FM Radio, LTE, or NFC support</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Waterproof smartphones have become a growing trend this year, and it is slowly turning into a feature that is not so much a bonus as it is a requirement. Enter LG's Optimus GJ. The device is IPX7-certified to withstand submersion of up to one meter for 30 minutes, complete with a removable back panel and a robust 1.5GHz quad-core Krait CPU.</paragraph>
+			<paragraph>Sony was the first to give a flagship the IP dust-and-water proofing treatment in the Xperia Z, and Samsung, not to be outdone, quickly responded with a rugged version of its own Galaxy S4 - the Galaxy S4 Active. LG is not to be outdone either.</paragraph>
+			<paragraph>Besides an awkward model name, the LG Optimus GJ has got the same internals and Android build as the LG Optimus G, which means that the user experience is, for the most part, identical. Unfortunately, the GJ had to shed its LTE, NFC and FM antennas as well as some of its internal storage to get the waterproofing trick to work, but LG has made up for that by adding a microSD card slot and a beefier battery.</paragraph>
+			<paragraph>Let's take a closer look at the key features of the LG Optimus GJ:</paragraph>
+			<paragraph>At first glance, it may seem like the Optimus GJ is just plain late to the party. The Optimus G is getting a little long on the tooth, and with no significant upgrade over those specs in the GJ, both of the aforementioned rugged offerings from Sony and Samsung handily outclass the LG device in both processing power and display fidelity.</paragraph>
+			<paragraph>Pitting the Optimus GJ against the 5-inch 1080p displays and more robust processors found in the S4 Active and Xperia Z seems like a recipe for disaster, but its biggest drawbacks may turn out to be its greatest strength. Here's why.</paragraph>
+			<paragraph>LG is just weeks away from unveiling its new G2 flagship, which will render the aging Optimus G (read: GJ) firmly into midrange territory. This means that rather than contend with more robust waterproof flagships, the Optimus GJ slips into the category of powerful midranger able to undercut the competition as one of the few IP-certified offerings without a flagship pricetag.</paragraph>
+			<paragraph>But we are getting ahead of ourselves by discussing its potential market impact. Let us first take a look at the hardware package offered by the waterproof LG Optimus GJ. Up next, we get underway with our usual hardware tour.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard retail package<subsectionTitle>
+			<paragraph>The LG Optimus GJ came in a box holding no surprises. Inside, you'll find a 1.2A charger, USB cable, and a QuadBeat headset with some extra earbuds.</paragraph>
+			<paragraph>The headset has an in-ear design with flat cabling and a remote with a call button.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>360-degree spin<subsectionTitle>
+			<paragraph>The LG Optimus GJ measures 136.9 x 68.9 x 9.4mm - some 5mm taller and almost a millimeter thicker than the Optimus G, though oddly the device weighs nearly 4 grams less than its counterpart. This is likely down to the missing NFC and LTE radios.</paragraph>
+			<paragraph>Still, at 141g and a 4.7-inch screen diagonal, the device feels comfortable in hand, and the added height does not adversely affect single-handed operation.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The LG Optimus GJ certainly takes after the G in terms of specifications, but the design language is noticeably different. It's more angular and drops the faux-glass textured back in favor of a removable rear panel. The camera no longer sits on a beveled bump, but instead rests flush along the back.</paragraph>
+			<paragraph>The front of the device is black, regardless of the paintjob on the rest of the body, which is characteristic of the Optimus G.</paragraph>
+			<paragraph>While the removable back panel fits snugly and removes easily (a rare combination), it detracts from the higher build quality which is more inherent to non-removable panels like the one found on the Optimus G.</paragraph>
+			<paragraph>Also gone are the exposed screw heads from the bottom edge, which used to lend to this aesthetic.</paragraph>
+			<paragraph>Although both devices are of identical width, the 4.7" 720p screen on the Optimus GJ is slightly taller yet not as wide, which means slightly larger bezels, although not overly so by any stretch.</paragraph>
+			<paragraph>Anyway, above the display we find the usual setup - a centrally located earpiece, a proximity sensor and the secondary 1.3 MP video-call-enabled camera. There's also a status LED that lights up in different colors depending on the notification - incoming or missed calls, alarms, calendar reminders, apps, etc.</paragraph>
+			<paragraph>Below the display, you'll find three capacitive buttons: a Home button surrounded by Back and Menu keys. There's also a small microphone pinhole towards the right.</paragraph>
+			<paragraph>The left side of the Optimus GJ features a single-piece volume rocker, while the right is bare, save for a lonely lanyard eyelet towards the bottom.</paragraph>
+			<paragraph>The top of the GJ holds the 3.5mm audio jack and the power/lock button. The bottom is bare save for the MHL-enabled microUSB port. Both the audio jack and the USB port are exposed - while this is nothing out of the ordinary for the former, a non-sealed USB port is a bit at odds with the water-proofing.</paragraph>
+			<paragraph>The battery cover is made entirely of glossy plastic, and although it is doesn't feature the interesting dot pattern like on the Optimus G, it has a luxurious red finish that appears almost pearlescent in the way it reflects light. The logo towards the bottom reads Optimus G, which indicates that LG aim to identify this device as a variant of the G flagship rather than a separate device.</paragraph>
+			<paragraph>Towards the top you'll find the 13MP camera lens alongside an LED flash, with a loudspeaker grille towards the bottom.</paragraph>
+			<paragraph>A peek under the battery cover reveals the microSIM card slot (it's obstructed by the battery so you can't hot swap it), the hot-swappable microSD card slot and the 2,280mAh battery itself.</paragraph>
+			<paragraph>The back panel has a layered border along its inner edge that offers extra protection to the microSD, SIM, and battery areas from moisture. The microUSB and 3.5mm ports on the top and bottom are not protected by flaps like on some other waterproof devices, but are rated to withstand water regardless.</paragraph>
+			<paragraph>The Optimus GJ has a solid feel in-hand, but it doesn't compare to its flagship predecessor. It's got a user-replaceable battery which is a plus in any device - particularly a waterproof one. It also comes in a more compact and lighter package compared to the likes of the Samsung Galaxy S4 Active and Xperia Z, although it can't match the build and finish of the latter.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>LG's True HD IPS Plus display has always been one of the preferred LCD panels around, and the good viewing angles and sharp colors found on the Optimus GJ are a testament to that. While a 720p display seems almost archaic in a modern-day market overflowing with 1080p flagships, the quality of the LCD panel found in the GJ is certainly towards the upper range when it comes to smartphones.</paragraph>
+			<paragraph>Images on the screen indeed look great and colors pop, especially the reds. For display purists, LG panels feature some of the most accurate color reproduction to be found on smart devices.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We also compared the Optimus GJ to the regular Optimus G. The smaller phone has a screen of 318ppi and, while you can't quite see individual pixels, you can still notice jaggies on curves and diagonals.</paragraph>
+			<paragraph>The Optimus GJ's screen has higher brightness, though the contrast is somewhat worse. It has a noticeable advantage in viewing angles, the Optimus G screen starts showing a shift in contrast earlier and the effect is much stronger. The Optimus GJ screen is a bit more reflective though.</paragraph>
+			<paragraph>The capacitive sensor on the screen is very sensitive and will detect touches even if you're wearing gloves, using a long fingernail or an improvised stylus (like keys, some pens, etc.). Unfortunately, there was also a fair number of accidental taps as the screen is a bit too receptive.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>You can find all about our display testing routines here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The LG Optimus GJ features a 2,280 mAh battery, which helped it achieve an endurance rating of 39h in our dedicated test. That's not a particularly great score, but it still means you will be able to go through a day of usage without any trouble.</paragraph>
+			<paragraph> LG Optimus GJ battery test scorecard</paragraph>
+			<paragraph>You can find out more about our dedicated testing procedures here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android Jelly Bean with Optimus UI<subsectionTitle>
+			<paragraph>The LG Optimus GJ is powered by Android 4.1.2 Jelly Bean, which is the most recent available Android build for any device in the Optimus line. The interface is overlaid with the company's own Optimus UI topping out of box, and the customizations run deep with a rich selection of themes, changeable icons and home-brewed apps.</paragraph>
+			<paragraph>We've shot a quick video showing off the user interface on the Optimus GJ. Check it out:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The LG lockscreen is virtually unchanged since the days of the original Optimus G. Swiping from any spot on the lockscreen creates a magnifying bubble effect, allowing a peek of what's underneath as if you're looking through a rain drop. You can also place up to four shortcuts that will unlock the phone straight into an app.</paragraph>
+			<paragraph>You can change the lockscreen clock style too.</paragraph>
+			<paragraph>The bottom of the homescreen fits up to 6 shortcuts (including the shortcut to the App Drawer), which is more than what TouchWiz offers on the Samsung Galaxy S III. You don't have to use all available slots though - you can discard all but the App Drawer shortcut if you want.</paragraph>
+			<paragraph>As usual, the shortcuts are visible on any of the homescreen panes. With the exception of the app drawer shortcut, you can rearrange, delete or replace any of these with shortcuts of your choosing, even folders. In fact, most aspects of the phone's behavior can be customized, you can go to as small detail as the capacitive key backlight and the transition effect between homescreen panes.</paragraph>
+			<paragraph>LG's home-baked tweaks and enhancements are by no means limited to the visuals. The Q Slide option makes it possible for you to watch a video while using other apps, while the system-wide QuickMemo integration allows you to take a screenshot anywhere in the phone and write notes over it.</paragraph>
+			<paragraph>You can resize widgets or you can even shrink a widget down to the corresponding app's icon. Also, if you move a widget over an occupied slot on the homescreen, the icons underneath immediately move out of the way, which is really neat and comes as part of Jelly Bean.</paragraph>
+			<paragraph>Adding stuff to the homescreen is done by tapping and holding on a blank area of a homescreen. A context menu appears, allowing you to add various customizations to your phone. The tabs along the bottom let you select the appropriate app, widget or wallpaper, which you can add to the homescreen of your choice. Gridlines will appear when you hold and drag an app or widget, allowing you to easily place it on the homescreen.</paragraph>
+			<paragraph>LG has also enabled plenty of other customization options for the homescreen. There's a dedicated setting for looped homescreen scrolling and the so-called screen effect changes the transition effect between homescreen panes.</paragraph>
+			<paragraph>There are several homescreen themes to choose from. Each theme has a different set of icons and you can even make custom ones. Holding down an icon and then releasing it in the same place prompts a small paintbrush to appear over it that lets you adjust the icons appearance.</paragraph>
+			<paragraph>The notification area has also been tweaked by LG to let you rearrange the toggle buttons available. You are also free to add and remove toggles from the edit menu. You can add an insane amount of shortcuts here, and don't have to worry about whether they'll fit on the screen - the row becomes side-scrollable so you can still access them all.</paragraph>
+			<paragraph>As usual, if you have a music track playing in the background, quick controls will show up here. You can also swipe notifications to the left or right to dismiss them.</paragraph>
+			<paragraph>By default you get seven homescreen panes to fill up with widgets and shortcuts, but you are free to delete any that you don't need to speed up navigation. You can also set any one of the homescreen panes as default.</paragraph>
+			<paragraph>The task switcher hasn't changed a whole lot since ICS. It shows you all of the currently running apps, which can be swiped left or right to terminate. The task switcher is accessed by holding down on the hardware home button. There, you'll also find a shortcut to Google Now.</paragraph>
+			<paragraph>Additionally, there are number of icons at the bottom, which let you quickly open up a particular app or even stop all apps simultaneously.</paragraph>
+			<paragraph>Finally, there's a shortcut to the task manager.</paragraph>
+			<paragraph>LG's task manager lists the currently running apps, but also lets you uninstall apps and gives you info on your storage. It comes with its own dedicated widget, which shows a graph of the available RAM and conveniently offers a button to clear up memory.</paragraph>
+			<paragraph>The app drawer lists all your available apps and widgets, with a dedicated tab for user downloads. There is a button in the top right corner, which triggers edit mode and lets you to easily reshuffle or uninstall applications. This is great for quickly checking which apps can be uninstalled, and which cannot.</paragraph>
+			<paragraph>You can opt to make the icons in the app drawer smaller too. If you select an app whilst in edit mode, a pop up will let you see information like storage usage.</paragraph>
+			<paragraph>LG borrowed a trick from Samsung's TouchWiz and implemented its own version of Samsung's Smart Stay - called Wise screen. It uses the front-facing camera to detect whether you're looking at the screen. This means you can browse the phone for hours on end without it auto-locking itself. We can confirm that the feature works very well.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now gets it done<subsectionTitle>
+			<paragraph>Google Now was first introduced in Jelly Bean 4.1 and is constantly being updated by Google to be smarter than ever.</paragraph>
+			<paragraph>It's accessed by swiping up on any of the on-screen controls and gives you a short overview of information it believes is relevant to you. Going to work the same route every morning? Google Now will let you know there's a big traffic jam on your usual way to the office and will offer an alternative route.</paragraph>
+			<paragraph>It can interpret a lot of things from your search history as well. If you've been searching for, let's say, your favorite football team, Google Now will prepare a card showing you the next match the team is playing and will provide you with score updates once the game begins.</paragraph>
+			<paragraph>If you allow it, the service can also scan your email for upcoming flights, deliveries or restaurant reservations and let you know when they are due. There are also numerous kinds of cards like birthdays (yours and those of your contacts and friends in the Google+ social network) and what distance you've walked in a particular month.</paragraph>
+			<paragraph>Google has also integrated Voice Actions. They can handle stuff like sending messages (SMS or email), initiating a voice call, asking for directions, taking a note or opening a site. Google Now can also launch apps, check and manage your calendar and look for nearby places of interest and stuff like movie theater listings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The LG Optimus GJ boasts a quad-core Krait CPU cores clocked in at 1.5GHz, 2GB of RAM and the Adreno 320 GPU. Although this configuration is the same as the one found on the somewhat dated Optimus G, it's still robust enough to hold its own under most circumstances.</paragraph>
+			<paragraph>There are superior quad-core processors around - the Snapdragon 600 chipset is a fine example, powering the likes of the Galaxy S4 and the Optimus G Pro, and so is the Cortex-A15 on the Samsung Galaxy S4, so the GJ isn't going to rival those top flagships.</paragraph>
+			<paragraph>In Benchmark Pi (which is all about single-threaded performance), the Optimus GJ scored right around the Xperia Z flagship and its variants. Linpack adds multi-core performance into the equation, and again the GJ comes in alongside the Xperia Z devices.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu, Quadrant and Geekbench 2 are all compound performance benchmarks, all of which test the system as a whole. The GJ posted some very respectable results considering its pedigree. Although it was outclassed by some of the newer flagships, it isn't expected to compete with them directly.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We ran both of the GLBenchmark benchmarks in off-screen mode at a fixed resolution, which lets us test raw GPU power. The Optimus GJ didn't disappoint, scoring as towards the middle of the pack with some respectable numbers.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.7 T-Rex (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>But most games will probably want to run at native resolution, so we're including Epic Citadel, which uses the Unreal Engine 3. Unreal Engine is popular with mobile game makers, so it's a pretty important test. The benchmark was run at the highest quality setting and yet the LG Optimus GJ did as well as the rest of the flagships in our chart.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Our browsing benchmarks have the GJ in the middle of the pack again, with Vellamo and Browsermark 2 throwing HTML 5 into the equation.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Optimus GJ provides some great performance, but with one important caveat: the device tends to overheat quickly, likely due to its watertight chassis. LG combat this by automatically underclocking the processor and lowering the screen brightness whenever the temperature reaches a certain threshold. There is no way to adjust or disable this feature.</paragraph>
+			<paragraph>This results in performance which doesn't accurately reflect the above benchmark results - many of the benchmarks scores dropped by 10-15% after just several minutes of usage.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good-looking phonebook<subsectionTitle>
+			<paragraph>The phonebook of the Optimus GJ is pretty much the standard Jelly Bean affair with Optimus UI goodies sprinkled on top. It has a tabbed interface, in which the Contacts tab lists all contacts alphabetically. You can navigate the tabs by swipes or, alternatively, touch the specific tab labels.</paragraph>
+			<paragraph>Contact images, where available, are displayed and there's a quick alphabet scroll on the right. There's also a regular search bar on top of the contacts list. The other tabs are Groups and Favorites on the right and Dial and Call logs on the left.</paragraph>
+			<paragraph>Filters keep the phonebook from getting messy - you can choose which groups are displayed and which are hidden (e.g. Family, email contacts, Twitter contacts and so on). The list can be sorted by first or last name and you can choose how contacts are displayed - First Name, Last Name or the opposite.</paragraph>
+			<paragraph>In the usual Android fashion, a tap on a contact photo brings up the quick contacts shortcuts. You can call the contact, send a text or email, or view their profile. You can also make a video call.</paragraph>
+			<paragraph>Tapping on the name of a single contact brings up their details. Once you're there, you can edit the contact info by hitting the pencil icon in the upper right corner, while the star icon in the upper right will add them to favorites. Editing a contact is pretty straightforward; you can add or remove fields as needed, as well as specify the types of phone numbers, email addresses, ringtones, additional fields and even add notes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Smart telephony<subsectionTitle>
+			<paragraph>The LG Optimus GJ had no trouble holding on to signal (even where signal was poor) and the in-call audio is consistently good and decently loud.</paragraph>
+			<paragraph>The Dialer is basically a part of the Contacts app and integrates the Call log, Contacts and Favorites, within its own tab. Again, these tabs are side-swipeable.</paragraph>
+			<paragraph>The Call log is clever and groups some of the calls, e.g. 3 missed calls from the same contact on the same day. A number next to the contact name shows the number of events. It's a great space saving feature.</paragraph>
+			<paragraph>Smart Dial is available and works for both numbers and names. Only one matching contact is displayed, but if you tap the down arrow button, the rest show up as well.</paragraph>
+			<paragraph>During a call you can pop-up the dialer should you need to dial another number. Also you can use the phone while on a call, just hit the menu key and a small green line replaces the notification area and acts like a shortcut back to the call.</paragraph>
+			<paragraph>The original Optimus G had one of the most powerful speakers we've tested recently, and we were eager to see how its waterproof counterpart would fare. Unfortunately, just like most submersible smartphones, the speakers sound a bit muffled, resulting in a speaker loudness score of Average for the Optimus GJ.</paragraph>
+			<paragraph>You can find more on the testing procedure here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>The LG Optimus GJ can handle all common message types: SMS, MMS and email. Email capability is excellent with support for Exchange available out of box, and social media buffs will be pleased with the level of SNS integration as well.</paragraph>
+			<paragraph>A press-and-hold on the text box gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc.</paragraph>
+			<paragraph>Adding multimedia to a message is pretty straightforward - just hit the attach button next to the text field and select a number of available options, such as images, videos, voice recording, etc. You can even customize the appearance and background of the messaging interface.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Gmail app has been extended to include the new categories view, which separates messages of different types, such as those from social networks. The Gmail client still includes operations, which allow multiple emails to be archived, labeled or deleted, as well as spam report and of course a conversation-style email view mode.</paragraph>
+			<paragraph>The generic email client supports multiple accounts, and operates in much the same fashion as the Gmail one. If you add multiple accounts, then the Combined Inbox feature will come in handy, although there's no conversation-style view like in Gmail.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>QWERTY, Swype, voice and handwriting<subsectionTitle>
+			<paragraph>The LG Optimus GJ offers a standard QWERTY keyboard, which features both portrait and landscape typing. The keyboard fills up the screen nicely and offers great ergonomics with ample spacing between keys, still leaving enough room above the keyboard for you to see what you're actually typing.</paragraph>
+			<paragraph>The level of speed and accuracy are commendable in both portrait and landscape. There's a dedicated setting that enables keypress vibrations.</paragraph>
+			<paragraph>There is Swype-like (LG dubbed it Path keyboard) input as well, though it's somewhat uncomfortably out of sight in the Input Language submenu.</paragraph>
+			<paragraph>Voice input is enabled too, as well as handwriting. Furthermore, since this is a Jelly Bean device there's also support for offline voice typing, as long as you have preinstalled the required language packages. We are really pleased with its speed and accuracy, too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery is robust and responsive<subsectionTitle>
+			<paragraph>The LG Optimus GJ uses the same gallery app as the Optimus G - in effect, a near stock Adroid gallery with a few custom touches here and there. It automatically locates images and videos no matter where they are stored on the phone. By default, images are sorted by albums, but you can sort by location or time as well. Albums, which are on an inserted microSD card, are indicated as such by a small icon.</paragraph>
+			<paragraph>The different sets are tiled neatly across the screen. You can expand or shrink individual albums using a pinch gesture, making the elements of the grid of photos either really huge or very tiny.</paragraph>
+			<paragraph>Once selected, you can view an image close up by pinch zooming or double tapping on the desired area. There is a sliding gallery along the bottom which allows you to quickly browse other images in the album. On the top there are three shortcuts for quickly sharing, editing or deleting the selected photo.</paragraph>
+			<paragraph>The Share feature offers quick sharing via Email, Google+, Picasa, Memo, MMS, SmartShare, Social+ or Bluetooth.</paragraph>
+			<paragraph>The Gallery app displays images in full resolution. Zooming and panning involves no lag whatsoever thanks to the quad-core Krait CPU.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The music player on the LG Optimus GJ also looks much like the one inside the Optimus G. The interface is simple, easy to use, but still offers a lot of functionality.</paragraph>
+			<paragraph>The Now playing interface places a big album art image in the center with controls above and below it. Swiping the album art left or right is the easiest way to skip songs back and forth. The interface now has a metallic look to it instead of the dark grey theme of old.</paragraph>
+			<paragraph>A press and hold on the album art will bring up a search menu, if you need to look up the title, artist or the album. After that you can pick where to search - your music collection, YouTube or a general Internet search. Flipping the device to landscape mode while on the Now playing screen squeezes in a list of other songs by the same artist.</paragraph>
+			<paragraph>There are equalizer presets, which become available when you plug in a pair of headphones.</paragraph>
+			<paragraph>When you're playing a song it also gets displayed in the notification area, where you can pause and change tracks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Powerful video player<subsectionTitle>
+			<paragraph>The video player on the Optimus GJ has a fairly simple interface, giving you just a grid of all the videos on the device. There's an alphabet scroll to help users locate videos faster but that's about it. You can, of course, play videos from the Gallery if you prefer its folder-centric organization. For each video you've started, the thumbnail gets a tiny clock icon, which shows how far into the video you are.</paragraph>
+			<paragraph>To get the basics out of the way, the available controls during playback include a scrubber for jumping to various parts of the video along with the standard play/pause and skip buttons. There's a pop-out button at the bottom right corner too, indicating that the app is part of the QSlide functionality on the Optimus UI. LG have implemented MX Player-like controls too - a swipe left or right will move the video forward or backwards, while a swipe up or down will tweak brightness.</paragraph>
+			<paragraph>Another feature is a Video Speed control (you can set values from 0.5x up to 2x). There's a lock button too, which hides all controls for pure full-screen viewing. Another cool addition in the video player is Live Zooming. You can zoom in (with the familiar pinch gesture) during playback and some serious magnification is allowed, not just a quick resize or fit to screen.</paragraph>
+			<paragraph>The LG Optimus GJ handled everything we threw at it - DivX, XviD, MKV and MP4/MOV up to 1080p resolution. The AC3 audio codec (among lots of others) is supported, so you don't have to worry about the sound. There are were no issues with higher bitrates and file sizes, either, and subtitle support is chock-full of customizations.</paragraph>
+			<paragraph>LG took Samsung's pop-up play feature a whole lot further with QSlide. In the latest Optimus UI iteration, LG has added a new batch of apps that take advantage of the functionality. Those include the web browser, Memo, QVoice, Calendar and Calculator. Furthermore, you can launch any of them from the notification drawer.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output decently clean, but too quiet<subsectionTitle>
+			<paragraph>The LG Optimus GJ showed nicely clean output in both parts of our traditional audio quality test. The smartphone got pretty decent scores, but was led down by its volume levels, which were well below average.</paragraph>
+			<paragraph>There's very little degradation even when you plug in a pair of headphones. The stereo crosstalk worsens a bit but the rest of the readings are virtually unaffected. Unfortunately, the volume levels plummet even more on that occasion and are among the lowest we have seen, so we can't give the water-loving smartphone full marks here.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> LG Optimus GJ frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13 megapixel camera with HDR stills<subsectionTitle>
+			<paragraph>The main camera on the LG Optimus GJ has a 13MP sensor that captures photos with a maximum resolution of 4208 x 3120 and 1080p videos at 30fps. There's also a 2.1MP front-facing camera that shoots 720p videos.</paragraph>
+			<paragraph>The interface has been remodeled from the Optimus G, but retains a similar controls layout. You get a bar on the right with the still/video toggle, a virtual shutter key and gallery shortcut on the right and a column with five shortcuts on the left.</paragraph>
+			<paragraph>You can edit the top four of these shortcuts so you can have one-tap access to the features you use most. By default, the top shortcut toggles between shot resolution, the second activates the "cheese shutter" (which lets you snap a photo by saying "Cheese!", "LG" or a few other words), the Time catch shot (which we'll get to in a moment), shooting mode and settings.</paragraph>
+			<paragraph>You can pick between one of four shooting modes - Normal, HDR, Panorama and Continuous shot.</paragraph>
+			<paragraph>The Time catch shot feature (also called Time machine camera) snaps a photo, but also records several photos of what happened before you hit the shutter key. You can save any of the photos on that list that you like.</paragraph>
+			<paragraph>The image quality of the photos shot with the LG Optimus GJ is very good. There is accurate although slightly oversaturated color reproduction and some noise, but shadows are well exposed and the dynamic range is good.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The LG Optimus GJ has the same camera sensor as the Optimus G. See how they compare, as well how the Optimus G Pro figures into the equation in our Photo compare tool.</paragraph>
+			<paragraph>   LG Optimus GJ in our Photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera with dual recording<subsectionTitle>
+			<paragraph>The interface on the video camera is basically the same as on the still camera.</paragraph>
+			<paragraph>The LG Optimus GJ can record 1080p videos at 30fps with the rear shooter, and 720p video with the 1.3MP front-facer.</paragraph>
+			<paragraph>Live effects can be applied in real-time (that is, ones that are visible in the viewfinder as you shoot the video, not ones applied during post-processing).</paragraph>
+			<paragraph>You can either use funny face effects (with automatic face detection) or do a sort-of green-screen effect by replacing the static background of the video with something more exciting (this works best with a tripod as shaking the camera causes the whole image to change).</paragraph>
+			<paragraph>Videos are stored in MP4 files with a bitrate of 17Mbps for 1080p@30fps mode. Audio is recorded in stereo at 156Kbps and a sampling rate of 38kHz.</paragraph>
+			<paragraph>Those are good specs on paper but the actual results aren't that impressive. The videos are smooth and hover around the 30fps consistently, but the level of fine detail is lower than that of the leading 1080p shooters, the sharpening is overly strong, the dynamic range is on the low side and the colors are oversaturated. The continuous autofocus and the automatic exposure are both hair triggers and go off way too often.</paragraph>
+			<paragraph>Check out this FullHD video sample from the Optimus GJ.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>Check out how the LG Optimus GJ stacks up against other 13MP / 1080p shooters and also many others using out dedicated Video compare tool.</paragraph>
+			<paragraph>   LG Optimus GJ in our Video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Full range of connectivity<subsectionTitle>
+			<paragraph>The LG Optimus GJ comes with a wide range of connectivity options. It has quad-band GSM/GPRS/EDGE for global roaming and dual-band 3G with HSPA.</paragraph>
+			<paragraph>Local connectivity is plenty fast with dual-band Wi-Fi a/b/g/n. The Wi-Fi capabilities also include Miracast wireless display, DLNA, Wi-Fi Direct and Hotspot.</paragraph>
+			<paragraph>SmartShare is an app that lets you control a DLNA network - you can play media from other devices (e.g. NAS) on your phone or play something from the phone onto another device (e.g. a DLNA-enabled TV).</paragraph>
+			<paragraph>Wi-Fi Direct is a technology, which lets devices connect to each other without the need for a Wi-Fi hotspot. The beauty of it is that only one device has to be Wi-Fi Direct-ready for the magic to happen.</paragraph>
+			<paragraph>Using this technology up to eight devices can share files in a more advanced, fast and secure way, paving the road to the eventual demise of Bluetooth.</paragraph>
+			<paragraph>There's also Bluetooth 4.0 for connecting accessories.</paragraph>
+			<paragraph>The MHL-enabled USB port on the LG Optimus GJ can be used as a wired TV out. You'll need a MHL-to-HDMI dongle (sold separately). The Dual Screen Dual Play feature lets the TV screen and GJ screen display different things, so you can check Facebook while streaming a movie to the TV or hook up a projector to the MHL port to show presentation slides while reading your notes on the smartphone.</paragraph>
+			<paragraph>The USB port has yet another feature - it enables USB On-The-Go. You'll need an adapter for that too (again, there isn't one in the box).</paragraph>
+			<paragraph>The last connectivity option worth noting is the 3.5mm audio jack on top of the Optimus GJ.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent web browser<subsectionTitle>
+			<paragraph>The LG Optimus GJ features the standard Android browser (with some LG modifications on top), but also comes with Chrome preinstalled so you are given a choice right from the start.</paragraph>
+			<paragraph>The standard browser offers the typical minimalist interface, with the address bar (used both for typing web addresses and initiating web searches) on top and a control bar at the bottom (with options hidden by default).</paragraph>
+			<paragraph>Scrolling down moves the address bar out of view. The bottom control bar houses the back and forward keys, homepage shortcut as well as new window and bookmarks keys. You can hide that bar by dragging it down.</paragraph>
+			<paragraph>One change in the GJ browser is the button just to the left of the address bar - it puts the browser into QSlide mode, turning it into a floating mini app. You can't switch between tabs in this mode, but the control bar at the bottom is still available.</paragraph>
+			<paragraph>The web browser comes with Incognito mode, which enables you to surf the web without the browser keeping track of your history or storing cookies. A more minimalist UI is available from the Labs entry of your settings page. It hides most of the browser's user interface and gives you a quick five-button panel when you slide your finger inwards from the side of the screen.</paragraph>
+			<paragraph>The browser can save pages for offline reading: they go in the Saved section of your bookmarks, and can be accessed even when you're no longer connected to the internet. The bookmark list shows a thumbnail of the bookmarked page and you also get a history section in addition to the Saved pages list.</paragraph>
+			<paragraph>Find on page, Always request desktop site and Share page options are available from the advanced menu. If you tap and hold on some text you get the usual markers and select/copy/find/web search/share options.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Full-featured organizer<subsectionTitle>
+			<paragraph>The Optimus GJ comes with the usual set of organizing apps and a great document editor as well.</paragraph>
+			<paragraph>The app in question is Polaris Office 4. You can of course view documents - Word, Excel and PowerPoint documents and PDF files too, and there's an option as well to export Word and PowerPoint docs as PDFs.</paragraph>
+			<paragraph>Edit mode offers almost a full set of options - text style, justification, paragraph formatting, bullets, and even creating tables. If you're editing an Excel file, you get a formula wizard, resize rows/columns, border style, cell merging and so on. Full-featured PowerPoint presentations can be created too.</paragraph>
+			<paragraph>The Optimus GJ could become the essential presenter tool with SmartShare. It can stream content over HDMI (via MHL) or over Wi-Fi (Miracast) and audio over Bluetooth so you can run the presentation from your phablet. The app can also push content to compatible LG devices with Beam. Remember that with Dual Play Dual Screen you can use the phone's screen for something else (e.g. read notes) while the TV/projector is showing the slides.</paragraph>
+			<paragraph>The calendar app has a split screen interface - the top part is reserved for the monthly calendar and one on the bottom for the agenda/daily/weekly view. This way you will always have your monthly view visible. The border line between the two sections is not fixed and you can easily move it. You can hide the monthly view completely, but you can't do the same with the other section.</paragraph>
+			<paragraph>The calendar supports QSlide so you can check your schedule while writing an email without having to switch between apps all the time. The GJ is syncable with multiple online calendars.</paragraph>
+			<paragraph>The LG Optimus GJ features an alarm clock application, which lets you set multiple alarms, each with its own start and repeat time, and ringtone. You can enable application autostartup, so the calendar/email/music player/ tasks/weather app launches when the alarm goes off.</paragraph>
+			<paragraph>There's also a clever feature called puzzle lock, which will make you solve a simple puzzle to disable the alarm. This way you will only be able to stop the ringing when you have properly woken up.</paragraph>
+			<paragraph>The Timer, World Clock and Stopwatch features are also part of this app.</paragraph>
+			<paragraph>The organizer package also includes a useful voice recorder and a nicely touch-optimized calculator. The latter is QSlide enabled to be always at hand.</paragraph>
+			<paragraph>The Memo app allows you to take notes and add media to them, such as images, audio, or location.</paragraph>
+			<paragraph>Notebook is more advanced and lets you create books with multiple pages, add multimedia, draw and eventually export as PDF and email them.</paragraph>
+			<paragraph>The so-called QuickMemo function is integrated in the phone's OS, allowing you to capture screen shots of anything (including the lockscreen!) and scribble notes over them like you would on the LG Optimus G and Vu. You can save the result as an image or add it to the Notebook app.</paragraph>
+			<paragraph>There's also a nice weather app that can show you the current forecast, as well as four days ahead. You can add multiple cities as well.</paragraph>
+			<paragraph>There's also the Quick Translator app, which uses the camera to scan text (a word, line or block at a time) and translate it from one language to another. It's a bit slow and requires a data connection, but it can help you out if you're abroad and don't speak (or read) the language. The OCR (scanning the text) sometimes runs into trouble and produces garbage, but the translations are fairly good by automatic standards - that is to say, sometimes it works, sometimes it doesn't.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and Navigation<subsectionTitle>
+			<paragraph>The LG Optimus GJ managed to get GPS lock in about a minute from cold start without A-GPS. A-GPS can speed up the lock (but it involves data traffic). Cell-ID and Wi-Fi positioning are also available if all you need is a rough location, but they need a data connection too.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package, and the latest version features an even more minimal UI. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere. 3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>You can plan routes, search for nearby POI and go into the always cool Street View.</paragraph>
+			<paragraph>Voice-guided navigation has become a viable solution since the v5.0 update. Vector maps are smaller and easier on the data traffic and reroute is an option if you go off course without the need to connect to the Internet. In fact, the only time you need a data connection is when you initially plan the course - Navigation will cache the needed maps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play has the apps<subsectionTitle>
+			<paragraph>The Google Play Store, previously known as the Android Market, lets you download various apps for your device. Upon launch of the Market app you're greeted with the tiled interface of the Featured window. A swipe to the right takes you to the Categories view.</paragraph>
+			<paragraph>Swiping to the left takes you through Top Paid, Top Free, Top Grossing, Top New Paid, Top New Free and Trending. New sections are available such as Staff Picks, Editor's Choice and more.</paragraph>
+			<paragraph>Downloads are easy and won't take more than a couple of seconds. Before you agree to download an app, Google Play will show you what features the app requires access to (e.g. Internet connectivity, access to the file system, etc.). You can also see if updates are available for your currently installed apps by going to My Apps in the contextual menu.</paragraph>
+			<paragraph>The LG SmartWorld app store is also on board. It's similar to the SamsungApps market - there you can find various content and promotions exclusive to LG users.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Summing things up, the LG Optimus GJ has a spectacular screen, a really capable chipsetand all sorts of nifty connectivity features. It lacks the last Android release and update schedule is never clear with LG, but it's still relatively up-to-date (it has Jelly Bean) and it's feature-rich with several proprietary software perks of its own. Its camera capabilities may not be high-end, but it's a good snapper nonetheless.</paragraph>
+			<paragraph>Its biggest usability flaw is that under heavy load, it tends to heat up pretty quickly and the automatic underclocking takes away a bit of its performance edge.</paragraph>
+			<paragraph>Indeed, the LG Optimus GJ is an intriguing offer. This, however, is not because of its software package (the Android 4.1.2 build on the Optimus G Pro is more robust), its hardware (it's virtually identical to the Optimus G), or even its IPX7 water resistance. With the Optimus GJ, it's the market segment placement that's crucial to its success.</paragraph>
+			<paragraph>As we stated at the start of our review, LG is mere weeks away from releasing its next flagship, the G2. This will effectively move the Optimus G (and, in turn, the GJ) firmly into midrange territory. The GJ will then no longer have to compete with the more robust flagship waterproof offerings from Sony and Samsung - namely the Xperia Z and Galaxy S4 Active - but instead moves into the relatively barren upper-midrange market of submersible smartphones.</paragraph>
+			<paragraph>With most manufacturers looking at their flagship lineup, few are thinking about providing IP-certified devices below that price point. Few doesn't mean none, however, as although the waterproof bandwagon hasn't come full force to all market segments, Sony has just released what is shaping up to be the Optimus GJ's main competitor, the Xperia ZR.</paragraph>
+			<paragraph>Featuring a notably more compact and lighter (but thicker) construction, the Sony Xperia ZR shares the same 720p display resolution, slightly smaller 4.55" screen, quad-core Krait CPU, 2GB of RAM, and even a 13MP camera. You'll be giving up some storage space and the front-facer only has VGA recording, but Sony has managed to squeeze in LTE, NFC and FM radio antennas - all of which are missing on the Optimus GJ.</paragraph>
+			<paragraph> Sony Xperia ZR</paragraph>
+			<paragraph>Sony also has a couple of older waterproof offerings that could give the Optimus GJ a run for your money, depending on what you're looking for. The Sony Xperia V and the Xperia acro S both feature 4.3-inch 720p displays, although neither has the horsepower to content with the GJ in the processing department. Both devices are notably more compact than the GJ as well, and have the aforementioned antenna support that the LG device lacks.</paragraph>
+			<paragraph>  Sony Xperia V &#x2022; Sony Xperia acro S</paragraph>
+			<paragraph>Finally, if water resistance is not that critical to you, the original Optimus G may be a better option. Its 4.7-inch True HD-IPS + display has Gorilla Glass 2 protection, plus you get NFC, FM radio, and LTE support. The software package is identical, although you'll have to make do with the limited 25 GB of user-available memory as there is no microSD card slot. Also, the smaller 2100 mAh is non-removable.</paragraph>
+			<paragraph> LG Optimus G E975</paragraph>
+			<paragraph>Whether or not the trend of IP certified devices - being pushed most heavily by Sony at the moment - will end up as more than a fad remains to be seen. If it does take off, however, devices like the LG Optimus GJ will be the prime beneficiaries. Although its lack of connectivity options detract slightly from its appeal, the robust processor and capable software package make it an attractive midranger.</paragraph>
+		</subsection>
+	</page>
+</review>

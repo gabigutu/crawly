@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le Mystère Chtokavien - Les Trois Fantômes de Tesla, tome 1</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Le_Mystere_Chtokavien_Les_Trois_Fantomes_de_Tesla_tome_1/22065501</link>
+	<generalScore>6.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>17</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Tesla on my Mind</title>
+		<author>grutboy</author>
+		<date>2016-09-16</date>
+		<score>0.9</score>
+		<content>Tesla est un personnage fascinant, et je ne peux que saluer l'initiative des auteurs à bâtir leur histoire autour de lui et de ce qu'il véhicule. Je vous invite à lire Des Eclairs de Jean Echenoz ; facile, croustillant, édifiant. On retrouve aussi un Tesla fabuleusement campé par David Bowie, dans le Prestige de Christopher Nolan. Tesla est bien moins connu qu'Edison, alors qu'il est une beaucoup plus belle personne, un bien plus brillant scientifique. Je suis surpris de voir des avis aussi peu enthousiastes concernant ce premier volume. Les séquences s’enchaînent agréablement d'une page à l'autre ; C'est très dynamique, les personnages, et ils sont relativement nombreux sont immédiatement attachants, l'histoire avance immédiatement... Dessin, encrage et couleur sont fins et impeccable. L'ambiance est remarquablement bien posée, le dynamisme là... Le tout est cohérent ; On y trouve le style de l'époque du récit... L'intérieur de l'album est tout à fait à l'image de sa belle couverture. C'est un premier volume très enthousiasmant. Bien maîtrisé, cohérent, beau. Et puis j'y revient : Cette époque, ces découvertes, Tesla contre Edison...</content>
+	</review>
+</sensCritiqueEntity>

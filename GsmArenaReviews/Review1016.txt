@@ -1,0 +1,312 @@
+<review>
+	<title>Sony Xperia Z vs. HTC Butterfly</title>
+	<description>A tale of two screens</description>
+	<link>http://www.gsmarena.com/sony_xperia_z_vs_htc_butterfly-review-906.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Flagships have evolved significantly during the past year, and in screen terms in particular, what once looked like overkill has become the gold standard for both size and resolution. HTC was the first of the major manufacturers to set the bar high with a fullHD five-incher, and saw the competition scrambling to respond. The Sony Xperia Z wasn't too late to follow, and turned some heads with its sharp design, coupling professional elegance with great performance.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>While the HTC Butterfly is no longer in charge of the HTC Android lineup (that honor belongs to the just-announced HTC One), it still is an impressive device in its own right. It debuted back in October as J Butterfly for Japan and visited the US in November as the DROID DNA.</paragraph>
+			<paragraph>The Butterfly/DNA's spell alone at the top wasn't long enough to make a huge difference, financially. That's largely down to its limited availability too. Even now, the HTC Butterfly is hard to come by in many markets, which is the exact opposite of what Sony's doing with the Z.</paragraph>
+			<paragraph>So, the Xperia Z is an all-round flagship, while the HTC Butterfly has just slipped down the pecking order. One is readily available and enjoying high demand, the other is a regional version that some markets just won't get. But we don't care which one's better at making money. We've got some quad-core Kraits to benchmark, screens to compare, and batteries to test. So, who's up for a ride?</paragraph>
+			<paragraph>As usual, let's start by taking a look at what advantages each device has over the other.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia Z over HTC Butterfly<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC Butterfly over Sony Xperia Z<subsectionTitle>
+			<paragraph>In terms of sheer specs, the two devices are very similar. In addition to the same screen size and resolution, both phones are powered by a quad-core 1.5 GHz Krait CPU running on the Qualcomm APQ8064 chipset, alongside Adreno 320 graphics. All of the connectivity features are doubled between the two devices, and with the exception of the higher-res camera sensor and battery on the Xperia Z, so is everything else - all the way down to the Android release.</paragraph>
+			<paragraph>In the coming chapters we'll break down how each device performs and where one has an advantage over the other, in areas such as camera performance, sound quality, and benchmarks. But first, let's take a closer look at the exterior.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>From a purely design standpoint the two devices are very different ? the otherwise cool-looking polycarbonate unibody somewhat lacks the sophistication of the glass-clad Xperia Z. In terms of footprint, they are largely the same, but the Xperia Z is more than a millimeter thinner at 139 x 71 x 7.9mm, against 143 x 70.5 x 9.1mm for the Butterfly. What we should note here is that the curved screen edges and the symmetrically sloping borders rearside make the HTC Butterfly feel equally slim in hand ? which it most certainly isn?t.</paragraph>
+			<paragraph>Looking at the Xperia Z, the elegant design is initially its most eye-catching aspect, and the glass panels on both the front and rear lend not only to this, but also make the package more solid and of higher quality. The HTC Butterfly's polycarbonate unibody is perhaps more sensible, but the "wow" factor is clearly stronger in the assertively angular Xperia Z.</paragraph>
+			<paragraph>Since both phones feature non-removable back panels most ports and slots are under plastic flaps along the edges. Because of its IP57 rating, the Xperia Z has every one of its ports covered, and it's the same with the Butterfly except for its 3.5mm audio jack. It's important to note that the Butterfly's microUSB port cover is too hard to open, which is a major annoyance considering how much it gets used.</paragraph>
+			<paragraph>Weight-wise, the devices are again very close, with the Xperia Z (146 g) being heavier by just 6 grams. It?s certainly not the kind of difference you can feel in hand.</paragraph>
+			<paragraph>As we mentioned earlier, both feature 5-inch 1080p displays, and are almost identical in terms of how much space they take up on the front of the device. The important difference here is that the HTC Butterfly has the main capacitive keys below the display and thus offers a little bit more real estate for actual content than the Xperia Z, which has on-screen controls. Effectively, the two phones have nearly the same amount of lower screen bezel and while the HTC uses this properly, on the Xperia it's just blank space.</paragraph>
+			<paragraph>The HTC Butterfly?s screen is curved at the tall sides, making it easier to start swipes from outside the screen. In contrast, the Xperia Z's hard edges make this gesture more difficult.</paragraph>
+			<paragraph>The notification LEDs for both phones are located on the upper right, above the display, but the Butterfly has a second LED on the back, which comes convenient when it's laying on its screen.</paragraph>
+			<paragraph>As for the other features, the volume rocker is on the right edge of both devices, and both feature power/lock buttons which are not standard - the Xperia has a circular one that juts out on the right, while the Butterfly has one that lies in the direct center of the top, and is almost entirely flush with the surrounding surface. The positioning and lack of definition of the button are an odd design choice and make it very hard to use, and given that this is the most often used hardware button, that's quite irritating at times.</paragraph>
+			<paragraph>Both devices feature 3.5mm audio jacks on top (the Xperia's is covered). On the Butterfly, the microSIM compartment and microSD slot are on the top under the same flap, while on the Xperia the microUSB and microSD slots are on the left, separately. The Butterfly has the microUSB port at the bottom.</paragraph>
+			<paragraph>When all's said and done, the pocketability of both devices is about the same, although the glass panels on the Xperia Z make it a bit more slippery.</paragraph>
+			<paragraph>Winner: Sony Xperia Z. Personal design preferences aside, the Xperia Z's construction feels more solid, and the IP57 rating is a nice bonus. The HTC Butterfly, while also a solidly built device, is hampered by its hard-to-open microUSB port cover, as well as poorly placed and designed power/lock button.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display comparison<subsectionTitle>
+			<paragraph>There are two major things to consider when you rate a phone's screen quality: how well you can see what's on the display and how good it looks.</paragraph>
+			<paragraph>One thing that becomes immediately apparent at first glance is the superiority of the image seen on the Butterfly. As we've seen before across numerous Xperia's dating all the way back to Sony Ericsson, the screens tend to have pretty poor viewing angles, but this time Sony didn't get the contrast right either.</paragraph>
+			<paragraph>The Butterfly has a Super LCD3 screen and the Xperia Z has a TFT screen with the Mobile Bravia Engine 2, both of full HD (1080 x 1920) resolution. They are both laid out in a full RGB stripe.</paragraph>
+			<paragraph>While both displays are of the LCD variety, the Xperia Z performed markedly worse compared not only to the Butterfly, but to other displays as well. While neither device can compare to the deep blacks of AMOLEDs, the Butterfly does well with a rating of 0.45 cd/m2, against the poor 0.70 cd/m2 for the Xperia Z.</paragraph>
+			<paragraph>When it comes to contrast ratio, anything above 1000 is usually good enough unless you're in a very dark environment. Things are once again bad for the Xperia Z here with a score of 705, while the 1104 put up by the HTC Butterfly is notably superior. The superior contrast is also garnished with livelier colors, so everything comes punchier on the Butterfly screen than on the Xperia Z display.</paragraph>
+			<paragraph>One other factor that comes into the picture in regards to contrast ratio is screen reflectivity. The Butterfly's Gorilla Glass 2 screen is made of a more reflective material than what the Xperia Z uses, which means that regardless of its inferior contrast, the Sony screen does better outdoors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>As far as display sharpness goes, both devices have screens of equal size and resolution, with pixels arranged more or less in the same way and both resulting in a pixel density of 441 ppi.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Winner: HTC Butterfly. The Xperia Z display is a distant second when it comes to viewing and contrast - it's even worse than most of the 720p we have seen in those two aspects. Two weak points are way too many for a flagship screen and the slightly superior sunlight legibility doesn't even come close to making up for that. </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The HTC Butterfly features a 2020 mAh Lithium Polymer battery, while the Sony Xperia Z has a 2330 mAh battery of the Lithium Ion variety. While at first instinct it is tempting to assume that the higher capacity will result in longer life, it's not simply question of numbers, as our tests will show.</paragraph>
+			<paragraph>A quick side note first. The Butterfly uses a Li-Po battery, which supposedly will last more charge cycles than the standard Li-Ion found in the Xperia Z. That's good to know, because putting a fresh battery in either device is no easy task and will probably require a visit to a service center.</paragraph>
+			<paragraph>Voice calls are just one of the many features of a modern smartphone, but still an important one. The Sony Xperia Z posts one of the best times we've seen - a whopping 16 hours of talk time before the battery runs dry. The Butterfly did pretty well with over 12 hours of continuous talking before running out of juice, but that's only good enough to second place here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Talk time<subsectionTitle>
+			<paragraph>In our web browsing test, both devices came in about even at around 6 and a half hours. Those aren't scores to brag about, but the large high-res screens certainly take their toll on the battery.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browsing<subsectionTitle>
+			<paragraph>Other than web browsing, watching videos is the next area where a big screen is of major benefit. If you're on a long commute or on a plane, for example, the HTC Butterfly will last for nearly 8 and a half hours before the battery hits 10% (many phones refuse to play video below that threshold, so that's where we end this test). That's enough for quite the movie marathon on a long transatlantic flight (note: we do the test in offline mode).</paragraph>
+			<paragraph>The Xperia Z failed to match that time. It only took 5:39 before the battery meter showed 10%. Although codec support between the two devices is generally the same (the only real problem the two share in common is the lack of AC3 audio support), it's kind of a mystery as to why the Butterfly does so much better.</paragraph>
+			<paragraph>While you probably won't watch videos on the HTC device for 8 hours straight, you can watch a three hour movie and have plenty of battery left over. Doing the same on the Xperia Z will leave you with less than 50%, even if you started on a fully charged battery.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video playback<subsectionTitle>
+			<paragraph>When we tally the numbers and take standby efficiency into account, the Sony Xperia Z lasts two full days on a single charge in a usage pattern involving an hour each of calling, web browsing and watching video per day. Despite its poor video playback endurance, the Xperia Z showed better standby efficiency than its competitor, which helped it achieve an important victory here.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>In comparison, the HTC Butterfly comes in just short of the two day mark, with a rating of 45 hours. It has some great overall performance across all three of our tested categories, but it seems that Sony was able to do better when it comes to keeping your device in standby mode. Not to mention that the Xperia Z also offers a Stamina mode, which boosts stand-by efficiency even further.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Winner: Sony Xperia Z. If you plan on watching a lot of videos on your smartphone, then the HTC Butterfly has the edge, but the Sony Xperia Z has the upper hand elsewhere and that's without taking advantage of its home-baked Stamina mode. </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>Although both manufacturers supply their smartphones with Android Jelly Bean 4.1 out of box their personalization approach is quite different. Still thanks to Jelly Bean's native Project Butter both phones are incredibly responsive, and they also get the other goodies of the 4.1 release - old widgets move out of the way when placing new ones and there's Google Now on board.</paragraph>
+			<paragraph>Here are the two UIs on video to get you started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is one area where the two devices aren't too similar. The lockscreen on the Xperia Z uses a new cool animation and has two shortcuts for quick access to the camera (swipe to left) and to the dedicated music controls (swipe right). When the music player is active, the lockscreen will show the music controls by default, but you can hide them with a swipe if you want. You can also enable Face, Pattern, PIN or Password unlock, in ascending order of security.</paragraph>
+			<paragraph>There's no way of accessing other applications besides the music player and camera, unlike on HTC's Sense UI.</paragraph>
+			<paragraph>HTC Butterflly's Sense lockscreen has four shortcuts and a ring at the bottom, all of which are customizable, but there's a catch - in order to change the apps that display on the lockscreen you need to manually change them from the homescreen dock.</paragraph>
+			<paragraph>But that's not the end of it - the HTC Butterfly comes with nine different lockscreens preinstalled. You can access the others from the Personalize menu - a photo album, Friend Stream, Weather, Clock, Stocks, Productivity, People, Music or just a plain wallpaper.</paragraph>
+			<paragraph>The notification area on the Xperia Z features several connectivity toggles (Sound, Bluetooth, Wi-Fi and Mobile Data). There's also a quick shortcut to the settings menu. For some reason, the notification area isn't accessible from the lockscreen. Naturally the notification pane also displays the various notifications from different apps and you can resize those with pictures in them, as well as lists of emails.</paragraph>
+			<paragraph>The Sense notification area gives you a Settings shortcut here if you need to power something on or off. There's also a Clear button to dismiss all notification or you can swipe them off one by one.</paragraph>
+			<paragraph>Unlike the Xperia Z, the HTC Butterfly offers just one toggle here - the Power Saver on/off switch. It does exactly what it's supposed to do - toggles the power saving mode or (if you tap on its name) takes you to the Power Saver options. If the phone detects headphones it will also display the Beats Audio on/off switch in the notification area. The notification area is also available in the lockscreen.</paragraph>
+			<paragraph>The Xperia Z gives you the option to change the number of homescreen panes (by adding more or removing some of the default 5) and even select any of them as home. You can't have more than seven panes at any given time though.</paragraph>
+			<paragraph>Adding stuff to the homescreen is done by tapping and holding on a blank area of a homescreen or using the pinch zoom out gesture. A context menu appears, allowing you to add various customizations to your phone - add widget, shortcuts to apps, change the wallpaper and change the theme. You can also add shortcuts from the app drawer by holding your finger over an icon and dragging it to the add to homescreen area.</paragraph>
+			<paragraph>Sony has added a number of its own, custom widgets. Unfortunately they are not resizable by default but are still more adequately sized to boot and don't take up the entire screen.</paragraph>
+			<paragraph>There is no overview mode as it was with previous Sony Xperia smartphones. Instead, you get the homescreen edit menu when you do the familiar pinching gesture. More on this later.</paragraph>
+			<paragraph>A gripe we have with the HTC Butterfly and Sense in general is that it doesn't make sense for a widget to take up an entire homescreen panel on the Butterfly's big and pixel-dense screen. The fact that most Sense widgets cannot be resized adds to the problem.</paragraph>
+			<paragraph>The homescreen has an auto-hiding indicator of which screen you're on and a dock with five shortcuts - the middle one is locked to the app drawer, while the other four can be customized as you please (you can even put a folder there, if four shortcuts isn't enough).</paragraph>
+			<paragraph>Leap view is still here - tap the home key (while on the default homescreen) or do a pinch gesture to zoom out (with an awesome animation) to display the thumbnails of all homescreen panes at once. Upon a press and hold you can drag to reposition the homescreen panes. A small house icon indicates the default homescreen, which cannot be changed, although its order can be moved around.</paragraph>
+			<paragraph>The Xperia Z app drawer is organized in pages and you can sort the apps manually, alphabetically, by the most used or most recently installed. If you tap and hold on an app a green Add to Homescreen area will appear on top of the app drawer. Just drag the icon there and you will go back to your homescreens where you can put a shortcut.</paragraph>
+			<paragraph>The main menu on the Butterfly has the typical grid layout, which is composed of horizontal pages with shortcuts sorted alphabetically. You can set different sorting options - alphabetical, most recent or oldest - but you can't rearrange them manually. There are Search and Play Store shortcuts along with a menu for some options.</paragraph>
+			<paragraph>Placing a widget, changing the wallpaper or theme, etc. is done by either holding a finger on an empty spot on the homescreen or doing a pinch gesture on the screen. You can edit the homescreen panes here, swipe widgets and apps through a list and dragging them or tapping them onto the desired screen.</paragraph>
+			<paragraph>Sense UI does it more or less in the same way, however it gives the priority to the widgets and apps view and shrinks the homescreens significantly. You tap a homescreen to select it and then select a widget to add to it (or you can just drag the widget).</paragraph>
+			<paragraph>There's a search option to speed things along or you can choose a widget from the dropdown menu and then select which size you like, but that still feels like an extra step-the old method of picking a widget and then picking the size (if any) seemed simpler.</paragraph>
+			<paragraph>The Sony Xperia Z has a nice task manager we first met with in the Xperia T. It lets you go to the recently opened apps as well as remove them with a side-swipe. The so-called "small apps" are on tap as well. Sadly you still cannot close all opened apps at once, but that's also the case with the Butterfly.</paragraph>
+			<paragraph>HTC has a remodeled app switching interface - screenshots of the running apps are displayed, slightly tilted sidewise. They're ordered horizontally (instead of vertically as is the ICS standard) and you can swipe up to remove them. The not so-good news is that you can only see three of them at a time, even in landscape mode - a waste on such large screen.</paragraph>
+			<paragraph>Sense UI was among the first custom launchers to offer in-depth customization of the OS, but Sony is doing all it can to catch up. For now they have done so in terms of visuals - selecting a new theme changes the lock and home screen wallpapers and the color of the system icons (toggles, menu icons, etc.).</paragraph>
+			<paragraph>HTC's response is the much further reaching Personalize menu. The proprietary Scenes function is an essential part of Personalize - essentially five custom homescreen setups (Work, Travel, Social, Play and default). Each scene changes the wallpaper and the set of widgets. For instance, the Work scene has a stock ticker, while the Social offers a Twitter widget. Those can be customized, of course, and you can download and assign new ones.</paragraph>
+			<paragraph>Switching between scenes takes a couple of seconds, but they're a handy feature if you use your Butterfly as both work and personal phone.</paragraph>
+			<paragraph>HTC Sense has another customization option called Skins. Every skin changes the look and feel of most of the onscreen buttons, application screens, option menus, and other items. They also come with unique wallpaper each and use different colors for various UI elements.</paragraph>
+			<paragraph>Keep in mind that both the lockscreen and the launcher (which is the homescreen + app drawer) can be replaced with a 3rd party app, so you're not tied to a particular combo if you buy the Xperia Z or the Butterfly.</paragraph>
+			<paragraph>To sum up, the lockscreen on the Butterfly is superior, the widgets on the Xperia Z are slightly more thought-out, the Sony also has a more useful notification area while Sense UI excels at personalizing the feel.</paragraph>
+			<paragraph>Winner: Tie. Overall two very different approaches to the same underlying OS. What it comes down to here is personal taste - what you prefer. Both interpretations have their strengths and weaknesses but the good news is they both provide solid user experience.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The HTC Butterfly and Xperia Z are running on the same power setup. A quad-core Snapdragon Pro chipset with four 1.5 GHz Krait cores, 2 GB of RAM and the Adreno 320 graphics chip. With this configuration on tap it's safe to say that both phones have a strong claim to be among the elite in current top tier devices. Also the playing field is level due to the same resolution on the displays. So things could come down to which proprietary OS is heavier - Sony's or HTC's Sense - and which manufacturer coached its device better for the specific benchmark (yes, they do that).</paragraph>
+			<paragraph>We have included the HTC One and LG Optimus G Pro as references as they both boast the superior Snapdragon 600 with its more advanced Krait 300 cores.</paragraph>
+			<paragraph>We start off with BenchmarkPi. Calculations per core is the target of the test and the lower score the better. Here the Krait 300 cores inside the Optimus G Pro and HTC One have the upper hand with close to twice as good a score compared to the Xperia and HTC. Still both devices got great results, besting the Oppo Find 5 and Optimus G among others.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Linpack judges single and multi-threaded processor performance. It's more of the same here - the Optimus G Pro topped the chart while the Xperia Z and Butterfly trail just behind the HTC One, but only slightly.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu is a compound benchmark - it test everything from memory speed to CPU and GPU performance. Here the Xperia Z did take a slight advantage over the HTC Butterfly.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GLBenchmark is one of the more serious graphics benchmarks available. We tested the off-screen performance as that shows the true prowess of a graphics chip. The Sony Xperia Z managed 29fps on the 1080p off-screen test, while the Butterfly came close behind at 27.9 fps.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>SunSpider is JavaScript-based, where the the HTC Butterfly finished just behind the Xperia Z. Truth be told the Sony smartphone had some luck here as its score vastly improved with the Chrome update pushed yesterday. Before that, it was doing way worse than its competitor here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The same can be said about BrowserMark 2, which adds HTML5 performance to the equation. The Xperia Z again managed to beat the HTC Butterfly here and this time it did so pretty comfortably.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Winner: Sony Xperia Z (by the smallest of margins). The Butterfly and the Xperia Z were tied on most tests we ran and the real-life performance of the two is pretty similar, but the newly released Chrome update helped the Sony smartphone to the victory here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera interface and features<subsectionTitle>
+			<paragraph>The camera interface on the Xperia Z consists of two panes. The right one holds four virtual buttons - a shortcut to the gallery, video and still shot shutter keys, and a primary/secondary camera toggle. On the left you get the shooting mode selection key in the top corner, followed by three customizable shortcuts. The final shortcut here opens the drawer with all available settings for the given shooting mode.</paragraph>
+			<paragraph>Sony has also included the Superior Auto Mode. The difference between the Superior auto mode and regular mode with all settings set to auto is that the first tries to guess what kind of scene you are trying to capture and adjusts all image parameters accordingly. This includes color saturation, contrast, metering mode and what not. The regular auto mode only sets the exposure automatically, but lets you fiddle with the other settings if you prefer.</paragraph>
+			<paragraph>The good news is the Superior auto mode also tells you what it guessed so you can easily intervene if it gets it wrong. From what our experience so far shows, though, it gets things right almost every time, so unless you are a photography enthusiast or just have to have that extra megapixel of resolution, you're probably better off sticking to Superior auto.</paragraph>
+			<paragraph>The camera interface of the HTC Butterfly, or HTC ImageSense, is the same for both the still camera and the video camera - no they don't "look alike", the camera just has the UI shared between both functions.</paragraph>
+			<paragraph>The right-hand side features the Effects button, shutter key, camcorder record key and a shortcut to the gallery that shows the last photo taken. On the left is the flash setting toggle, a front camera switch, general settings and shot mode (we'll get back to that in a moment).</paragraph>
+			<paragraph>To snap a photo, you tap the shutter key. To record video you tap the button below - and you can still tap the shutter key to snap a full-res photo, even while recording video. Another cool option is the burst mode, which we mentioned in the gallery - you press and hold on the shutter key and it will snap multiple photos and let you pick which one to keep (you can keep all of them of course).</paragraph>
+			<paragraph>The effects button brings out a tab on the left with the usual set of color effects (sepia, solarize and so on). There's also some other cool effects such as shallow depth of field , which lets you blur parts of a photo that fall outside a predefined circular area. It's like having Instagram built right into the camera app UI.</paragraph>
+			<paragraph>The main problem with the shared camera interface is that framing 4:3 photos and 16:9 videos on the same viewfinder is really tricky.</paragraph>
+			<paragraph>The Butterfly slightly redeemed itself by allowing you to capture 6MP stills while recording video. The Sony Xperia Z also offers that but it only produces 1MP shots, which is actually half the resolution of the individual frames in the video, so the feature is barely worth using.</paragraph>
+			<paragraph>Winner: Sony Xperia Z. Both camera apps have all key features covered, but the shared still camera/camcorder UI on the HTC is hardly the most convenient solution.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera: image quality<subsectionTitle>
+			<paragraph>The Sony Xperia Z features the new Exmor RS sensor and has the upper hand in pixel count with its 13MP sensor.</paragraph>
+			<paragraph>The HTC Butterfly compensates with a slightly wider-angle lens and a brighter f/2.0 lens compared to the f/2.2 of the Xperia Z. In theory this should let the HTC smartphone capture more light, which should result in slightly better low-light performance.</paragraph>
+			<paragraph>In order to compare the two devices on level footing we'll show the Xperia Z 13 MP samples compared with a native 8 MP photo from the HTC Butterfly and an upscaled version so you can easily judge the amount of resolved detail on each sample.</paragraph>
+			<paragraph>HTC's image processing algorithms have always been very aggressive and the Butterfly is no exception. The over-processed images with oversaturated colors and lots of traces of oversharpening looks good when downsized to the native resolution of a computer monitor, but lack in per-pixel detail when zoomed in.</paragraph>
+			<paragraph>Sony's default approach is a more conservative one - the Xperia Z produces more natural images, that might lack the punch when downsampled, but have more detail and room for post processing. The good news is that if you favor the HTC approach better you can enable the superior auto mode, which usually produces similar punchier images.</paragraph>
+			<paragraph>Looking at the first pair of crops you'll immediately notice the Sony Xperia Z's superiority in terms of dynamic range and color reproduction. The Butterfly is over-sharpening everything, which makes its image look sharper, but it actually has about the same amount of detail as the Sony shot.</paragraph>
+			<paragraph> Sony Xperia Z vs HTC Butterfly (native resolutions)</paragraph>
+			<paragraph>You can notice that more easily when you compare the Sony Xperia Z sample with an upsized version of the Butterfly photo. The fences on the terraces are much better defined on the Xperia Z photo. You can also spot the noise advantage that the Sony smartphone has over its competitor here.</paragraph>
+			<paragraph>Sony Xperia Z vs HTC Butterfly (upscaled)</paragraph>
+			<paragraph>Moving on to the second pair of samples, we see more of the same - the Sony Xperia Z image has less noise, better dynamic range and way more accurate colors than the Butterfly sample.</paragraph>
+			<paragraph>Sony Xperia Z vs HTC Butterfly (native resolutions)</paragraph>
+			<paragraph>Up-scaling makes things even more evident, and lets you spot the different amount of noise on the two samples more easily. Sony Xperia Z vs HTC Butterfly (upscaled)</paragraph>
+			<paragraph>Finally we've picked a shot that shows the difference between a 13MP and a 8MP clearly. As you can see the Xperia Z handles the fence at the top of the building better and the individual bars are easy to distinguish. The HTC Butterfly on the other hand fells victim to its aggressive noise reduction, which eradicates much of the (already scarce) fine detail.</paragraph>
+			<paragraph>Sony Xperia Z vs HTC Butterfly (upscaled)</paragraph>
+			<paragraph>Again you can see that the Xperia Z produces truer colors and the Butterfly again had trouble with the blue color, making it darker and unrealistic.</paragraph>
+			<paragraph>Sony Xperia Z vs HTC Butterfly (upscaled)</paragraph>
+			<paragraph>When it comes to high dynamic range both phones have a dedicated mode on tap, which captures two sets of exposures and combines them in a single image with a wider dynamic range.</paragraph>
+			<paragraph>The Sony Xperia Z takes a more conservative approach and only adds a little extra dynamic, producing more natural images, while the HTC Butterfly goes for the exaggerated effect. Which one you prefer here is mostly a matter of personal preference.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If you'd like a look for yourself here are the samples of both devices. We start you off with the ones captured in the default mode.</paragraph>
+			<paragraph>And here are the full resolution HDR samples.</paragraph>
+			<paragraph>We tested the Sony Xperia Z in its normal mode, but since we mentioned Superior Auto Mode we've also included samples of it in action.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison tool<subsectionTitle>
+			<paragraph>Here's our side by side comparison of the Sony Xperia Z and HTC Butterfly images captured in the controlled environment of our studio.</paragraph>
+			<paragraph>    Sony Xperia Z vs HTC Butterfly in our Photo compare tool</paragraph>
+			<paragraph>Winner: Sony Xperia Z. The Sony flagship has a clear advantage in terms of image quality over its competitor.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camcorder quality<subsectionTitle>
+			<paragraph>Both the Sony Xperia Z and the HTC Butterfly can capture 1080p videos at 30 frames per second. The Xperia Z can also capture images while shooting video but it only produces 1 MP stills, which is hardly a feature at all. Any video player with a snapshot taking feature can do twice better.</paragraph>
+			<paragraph>The Sony Xperia Z also features HDR video - one of the first devices to do so. The implementation of HDR video isn't all that impressive, though. You only get a minor amount of extra detail in the highlights and in many cases you'd be hard-pressed to tell the HDR video apart from a normal video.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>HTC's camcorder also features simultaneous image and video capture but does so by doing a 1080p video and capturing 16:9 6 MP stills. They're not as good as the normal photos captured via the camera app but still outclass Sony's pathetic 1 MP samples.</paragraph>
+			<paragraph>Here are two samples captured at the same time to get you started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia Z records videos in MP4 format. The bitrate is around 18 Mbps with a framerate of 29 fps. Audio is recorded in stereo with a bitrate of 129 Kbps with a sampling rate of 48 kHz. The HTC Butterfly also uses the MP4 format with a much lower 10 Mbps and a 29 fps. Audio is also stereo with a bitrate of 95 Kbps and a sampling rate of 48 kHz. So overall Sony's got the advantage here - higher bitrate means less detail falls victim to compression.</paragraph>
+			<paragraph>Video processing on the two competitors is similar to that of still images, but the HTC approach works much better here. The HTC Butterfly is still a distant second in terms of color reproduction and dynamic range, but the extra sharpening it applies makes its videos appear sharper than those of the Xperia Z. And since you are far less likely to post-process your videos than your images the soft look of the Xperia Z is probably what you'll end up with.</paragraph>
+			<paragraph>Sony Xperia Z vs HTC Butterfly video crop</paragraph>
+			<paragraph>When we came back to our studio the HTC Butterfly got its chance to shine, as its sub-par dynamic range didn't matter too much. It outdid the Xperia Z in terms of resolved detail and while its colors were again not as accurate as those of the Sony flagship, the extra saturation makes them look pretty pleasing.</paragraph>
+			<paragraph>Sony Xperia Z vs HTC Butterfly studio crop (good light)</paragraph>
+			<paragraph>When most of the lighting goes off both phones dip in quality, but the brighter lens of the Butterfly gives it some advantage and the HTC flagship generally produced the better videos.</paragraph>
+			<paragraph>Sony Xperia Z vs HTC Butterfly studio crop (low light)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison tool<subsectionTitle>
+			<paragraph>Here's our side by side comparison tool. You can view in detail the video samples of the Xperia Z and Butterfly compared with whichever device you want.</paragraph>
+			<paragraph>   Sony Xperia Z vs HTC Butterfly in our Video quality compare tool</paragraph>
+			<paragraph>Winner: HTC Butterfly (just). The extra sharpening, along with the punchier colors work much better for video than for still images. Plus its brighter lens gives it an edge in low-light conditions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Audio quality<subsectionTitle>
+			<paragraph>The Sony Xperia Z has pretty decent audio output. It did very well when connected to an active external amplifier and it didn't degrade too badly when we plugged in a pair of headphones.</paragraph>
+			<paragraph>However, the Sony flagship is no match for the HTC Butterfly and its Beats audio amplifier, which produces the finest audio quality we have seen in the past year or so. The Butterfly is louder and cleaner than its rival and generally has an output closer to what we are used to seeing from the best tablets, rather than smartphones.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Sony Xperia Z frequency response</paragraph>
+			<paragraph> HTC Butterfly frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+			<paragraph>Winner: HTC Butterfly. The Xperia Z did well, but it's just no match for the Beats-powered HTC smartphone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Loudspeaker performance<subsectionTitle>
+			<paragraph>The Sony Xperia Z and the HTC Butterfly both have mono loudspeakers. On the Butterfly it's located at the bottom around back. It scored a Good mark in our test and it was among the louder smartphones that have come to the office recently.</paragraph>
+			<paragraph>The Sony Xperia Z is an entirely different story, however. The loudspeaker is awkwardly placed in the bottom right corner of the phone, meaning you can easily cover it while watching a video or playing a game in landscape.</paragraph>
+			<paragraph>Partly due to the phone's water resistance perhaps, the loudspeaker on the Xperia only managed to post a Below Average score. You'll hear the phone ring when it's on a desk in front of you and the vibration will make sure you'll feel it in your pocket. But if you carry the device in a purse or bag things don't look all that promising.</paragraph>
+			<paragraph>After we tested the water resistance, the loudspeaker sounded muffled - perhaps down to a wet membrane. Sony says this is normal but it did take about an hour and a half for it to get back to normal.</paragraph>
+			<paragraph>More info on our loudspeaker test as well as other results can be found here.</paragraph>
+			<paragraph>Winner: HTC Butterfly. The Xperia Z just isn't powerful enough (perhaps due to its water resistance) while the HTC Butterfly boasts respectable sound.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Image galleries<subsectionTitle>
+			<paragraph>It's usually the hardware that makes a proper flagship - be it the chipset, the camera sensor, the screen resolution or the amount of RAM. Yet, it's only half the work done. The other half gets delivered on the software end. And we don't just mean a custom launcher or skin.</paragraph>
+			<paragraph>Sony for example have put a lot of effort in its own gallery, music and video player. There are connectivity apps too that boost your experience with connected devices such as TVs, PCs, etc.</paragraph>
+			<paragraph>The gallery on the Xperia Z is called Album and it's among the most fluid and visually appealing apps you could find on any smartphone platform. Images are organized into stacks of thumbnails and sorted by date. You can opt to show all of your albums in one place, and there are three tabs above the stacks - Pictures, Map and Online.</paragraph>
+			<paragraph>Pictures is the main tab and one of its features managed to impress us: you can pinch to resize the image thumbnails. The whole thing is super responsive and hundreds of thumbs fall in and out of differently sized grids with cool animation.</paragraph>
+			<paragraph>The Online tab displays pictures from Google Picasa and Facebook. You have options to tag, like and comment on Facebook photos.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Quick sharing via Picasa, Email apps, Facebook, Bluetooth or MMS is also enabled.</paragraph>
+			<paragraph>The BRAVIA engine enhances contrast, colors and sharpness, while simultaneously reduces noise, but the truth is videos and images still look better on the HTC Butterfly superior display.</paragraph>
+			<paragraph>HTC's gallery isn't as rich in terms of visuals but gets the job done. It's the go-to place for both stills and video, pooling everything together. It can also sync your albums on Dropbox, Facebook, Flickr, Picasa and SkyDrive, which is a step up from Sony's online coverage.</paragraph>
+			<paragraph>Wherever you choose you'll get to a familiar screen - stacks of photos arranged in albums. There is a dropdown menu where you can sort the photos by Events - which is to say, the date they were taken. The app automatically locates images and videos, no matter where they are stored.</paragraph>
+			<paragraph>You can also choose to hide specific folders (for instance a dedicated Album art folder), so that they don't get in the way of your picture browsing.</paragraph>
+			<paragraph>Once you pick one of the "stacks" (each representing a folder), you're presented with a grid of the photos inside. Some photos have an icon indicating it's not a single photo but a burst shot instead. You can later go back and pick the one to be used as a thumbnail.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video players<subsectionTitle>
+			<paragraph>Both smartphones boast 1080p screens with a massive 5" diagonal that's more than enough for watching movies on the go. As such they need proper video codec support to let you enjoy the full experience but the software that displays the content is equally important.</paragraph>
+			<paragraph>Both the Xperia Z and Butterfly managed to play just about every video we threw at them. Xvid, DivX, MKV were all fine (save for some dodgy ones we have with the MPEG audio 1 and 2). Both phones struggled with AC3 audio codecs but that's common for most smartphones out there. Anyway, the HTC Butterfly and Sony Xperia Z are on equal footing when it comes down to codec support.</paragraph>
+			<paragraph>The video player of the Xperia Z is dubbed Movies and it too has a new interface. It's connected to Gracenote, which helps you find additional information about the movies you have preloaded - although it identified our version of The Mask not as the famous Jim Carrey flick, but rather a horror movie from 1961 by the same name.</paragraph>
+			<paragraph>The video playing interface is nothing out of the ordinary. It has a slightly WP8-influenced interface with an overlay featuring play/pause and FF/rewind along with a timeline, which can be scrubbed to jump to specific scenes.</paragraph>
+			<paragraph>There's an option to "throw" the video to a connected BRAVIA TV set, as well as an ample sound settings menu. You can enable surround sound, clear stereo (which reduces channel crosstalk) and if you're watching a video with the built-in speaker instead of headphones you can enable xLOUD and Clear Phase (which automatically adjusts the quality). In truth we found only the clear stereo and surround sound options to really make a difference. Finally you can hop into the display settings straight from the video player.</paragraph>
+			<paragraph>As we said, the video player on the HTC Butterfly is built into the Gallery app - there's no dedicated shortcut inside the app drawer.</paragraph>
+			<paragraph>The video playing interface has a view mode toggle (full screen or best fit) and you can scrub through videos. There's a shortcut that lets you adjust screen brightness and another one to take screenshots of videos. Overall the included options are more than enough and they are all implemented in a nice out-of-the-way manner.</paragraph>
+			<paragraph>You can choose between Beats Audio or No effects. Beats is only enabled for headphones and improves the sound experience significantly.</paragraph>
+			<paragraph>Subtitle support is available and you can manually pick a subtitle file - the only requirement is the subtitle files must be in the video folder.</paragraph>
+			<paragraph>DLNA connectivity comes handy too - the Butterfly can stream the videos wirelessly to your TV via the 'Select player' option.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music players<subsectionTitle>
+			<paragraph>The music player on recent Xperias is the Walkman and it's divided into Playing and My music panels. In the My music section, you can update your album art and music information like album, year released, and more. SensMe is included, meaning you can filter your songs by mood - upbeat, energetic, mellow, dance, etc. Creating playlists is enabled and you can also view your Facebook friends' activity if they too use the Walkman player.</paragraph>
+			<paragraph>The Now Playing screen offers the standard music controls, shortcuts to the library, "Infinity" key and the album art. The Infinity key lets you quickly look up a song on YouTube or browse for the lyrics, among others.</paragraph>
+			<paragraph>Sony has improved on the Walkman player's settings. There's a new ClearAudio+ option, which determines the best audio quality settings depending on the song you're listening to.</paragraph>
+			<paragraph>There's Surround sound mode, which imitates the Studio, Club or Concert Hall experience. The Clear stereo mode enhances the perceivable stereo channel separation.</paragraph>
+			<paragraph>And audio fans will be pleased to know there is a configurable 5-band equalizer with bass adjustment. However die-hard audiophiles might prefer additional players, which sport a 10-band or even 20-band equalizer.</paragraph>
+			<paragraph>The Music app on the HTC Butterfly starts off by offering you several shortcuts - music library on the phone, SoundHound track recognition, TuneIn Radio or 7digital. Below is a line that shows a recently played song and further down is the currently playing song.</paragraph>
+			<paragraph>Once you get into the music library available on the phone you get a dropdown menu to browse it by artist, album, playlist or genre. There's a search tool, too.</paragraph>
+			<paragraph>The now playing interface is a Cover-Flow-like visualization of the current playlist - you can swipe sideways to skip songs back or forward. You can opt to view the full playlist if you need to skip more than a few tracks.</paragraph>
+			<paragraph>You can tap the ellipsis to automatically fetch album art for a track or look it up on Google or YouTube. From the Menu you get a Select player option, which is how you can play the song on a DLNA-enabled sound system or over Bluetooth.</paragraph>
+			<paragraph>The HTC Butterfly has the Beats Audio logo stamped on the back, which means your sound is enhanced to boost the sonic experience - you can use it with any headset you want. The problem is that turning the Beats option on and off is just about the only thing you can do. We would have liked to be able to save our own equalizer settings or at the very least been able to choose from a few presets.</paragraph>
+			<paragraph>The lockscreen shows the album art and name of the song and artist along with playback controls. You can drag this card into the ring to unlock the phone and go straight to the music player.</paragraph>
+			<paragraph>SoundHound is built right into the music player and is the track recognition of choice for HTC and they've even integrated it into the music player UI. It easily ID's a song from just a short sample. Or you can say the name of the artist and song and SoundHound will find it for you, including lyrics. The free app however only offers a limited number of uses (99).</paragraph>
+			<paragraph>Winner: Xperia Z. The Sony smartphone gets the nod here on account of its dedicated video player, the eye candy gallery and a music player with richer settings menu and more room for audio output tuning.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>When rumors of a fullHD 5-inch phone from HTC first surfaced, the web was abuzz with anticipation of what it could bring to the table. Here you have a device you could hold in your hand, which had the same resolution as the 50-inch TV in your living room - it sounded almost incredulous.</paragraph>
+			<paragraph>But soon the place was ablaze with other manufacturers looking to capitalize on the latest smartphone trend. 441ppi started to get thrown around in almost every new flagship announcement or rumor, and in only a matter of weeks, it became apparent what the new gold standard of smartphones would be.</paragraph>
+			<paragraph>Despite all of the hype, the Butterfly (initially released as the DROID DNA in the US) just wasn't able to get off the ground in a big way. Many (including HTC itself) blame poor marketing and availability for the lack of big sales numbers - a mistake it is keen to correct with their new flagship, the HTC One. Whether it will be successful this time around, however, is likely a story for another shootout.</paragraph>
+			<paragraph> HTC Butterfly</paragraph>
+			<paragraph>When it comes to what you can expect if you are able to get your hands on a Butterfly, however, is very fast quad-core Krait performance, a high quality display - not only in terms of sharpness, but also in regards to color rendering and contrast - and a fully-featured Android interface with HTC's own Sense UI 4+.</paragraph>
+			<paragraph>Recently, Sony has been rather late to the party when it comes to releasing flagships, but it was dead set on not missing the boat this time around. The Sony Xperia Z hit the ground running with its sharp design and super powerful spec sheet, coupled with market deployment that a tech giant like Sony can easily manage.</paragraph>
+			<paragraph> Sony Xperia Z</paragraph>
+			<paragraph>On paper, the two devices offer so many of the same features that it requires a serious shootout like this one to really see what's what. In terms of the user interface, both run Android 4.1.1 Jelly Bean out of box, with a planned upgrade to 4.2 (Sony has historically been less consistent with its updates than HTC). While the Android version is the same, the individual software packages have strengths in different areas.</paragraph>
+			<paragraph>On the Xperia Z, you get a more functional UI and richer multimedia experience with Album, and the Gracenote-enhanced video player and the Walkman music player. On the other hand, we've found HTC's UI to be more customizable than the one provided by Sony, giving you the ability to make your phone cater to you individual needs more effectively. Finally, with connectivity features more or less on equal footing between the two, the overall Android experience comes down to personal preference.</paragraph>
+			<paragraph>From a hardware standpoint, the two devices again have different strengths. The 1080p display of the Butterfly is great, especially considering it's one of the first around. It gives good viewing angles, contrast, and nicely saturated colors. The Xperia Z can match the sharpness and even better the sunlight legibility of its competitor, but is still a distant second in terms of overall image quality.</paragraph>
+			<paragraph>Benchmarks and battery performance are very similar (although both slightly favor the Xperia Z), while the Butterfly gives you better loudspeaker performance, the best audio output we've seen recently, and superior video recording. Still imaging on the other hand is where the Xperia Z get the upper hand.</paragraph>
+			<paragraph>When all's said and done, the current crop of Android flagships are a huge improvement from what we've seen in the past, even when compared to just a generation ago. If you're willing to look beyond their few flaws - the Xperia Z's less than stellar screen and the Butterfly's limited availability - the HTC and Sony 1080p offerings are both pinnacles of great technology. Here's hoping that what's next is even better.</paragraph>
+		</subsection>
+	</page>
+</review>

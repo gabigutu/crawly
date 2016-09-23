@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Animals.</nameFr>
+	<typeEn>Series</typeEn>
+	<typeFr>Séries</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/serie/Animals/18303752</link>
+	<generalScore>6.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>29</numberOfVoters>
+		<numberOfVoters>49</numberOfVoters>
+		<numberOfVoters>84</numberOfVoters>
+		<numberOfVoters>44</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Niveau 0</title>
+		<author>fabulousrice</author>
+		<date>2016-04-07</date>
+		<score>0.1</score>
+		<content>Alors, on s'appelle HBO mais on va surtout pas se casser la tête à embaucher des animateurs pour notre série. Ca sera animé au rythme de dingue de 2 images par secondes, et puis on n'animera jamais les bouches des personnages quand ils parlent, trop chiant. Donc ils parleront, mais toujours la bouche fermée. Et puis on va pas s'embarrasser avec de jolis dessins c'est surfait la qualité visuelle pour une série. De l'humour? c'est quoi ca? Naaaaaaan, on va pas s'embêter avec ça, c'est des animaux qui parlent avec des voix d'adultes, c'est mal dessiné, mal écrit, les hipsters vont se l'arracher, promis.</content>
+	</review>
+	<review>
+		<title>La Caverne</title>
+		<author>Vivienn</author>
+		<date>2016-07-16</date>
+		<score>0.4</score>
+		<content>Produite par HBO pour une bouchée de pain, Animals est une série d’animation aux dialogues partiellement improvisés suivant chaque semaine un groupe d’animaux différents au cœur de la ville de New York. Dans l’équipe créative, on retrouve les frères Duplass, piliers du mumblecore dont la dramédie Togetherness diffusée sur la même chaîne vient d’être annulée au terme de sa seconde saison. Animals c’est une animation laide, des dialogues souvent aussi creux que superficiels, une qualité irrégulière – ce sont des faits qu’il faut statuer dès le départ : ils gêneront n’importe quel spectateur. Difficile de se faire à ses personnages semblables à des marionnettes unidimensionnelles, aux lèvres fixes et au panel d’expressions inexistants. Difficile de se faire à cette « écriture » du rien, où on parle pour ne rien dire dans la pure tradition du mauvais cinéma indépendant américain. Mais alors, qu’est-ce qui est réussi dans Animals ? Entre deux storylines affligeantes de nullité, ce sont tout d’abord des introspections touchantes, d’une poésie surprenante dans leur naïveté ou leur lourdeur. Il ne faut pas sortir de Saint-Cyr pour comprendre ces allégories aussi subtiles que l’animation de la série : on nous parle tantôt du sens de la vie du point de vue de mouches à merde, du système carcéral depuis les yeux d’un clébard, de la lutte des classes version chats ou encore du capitalisme par des rats ; cela fait très rarement rire, mais les thématiques avancées ici et là sont souvent curieuses et opérées avec pas mal d’inventivité. Les parallèles tracés par exemple entre une prison et un parc à chien, ou entre la caverne de Platon et une bouche d’égout, font, à juste titre, sourire. Si on peut douter de la capacité de Animals de se renouveler une saison de plus, elle mérite sans doute le coup d’œil : typique de la série qui divisera les foules de façon très polarisée (on pourra se heurter très facilement à son mur artistique initial), elle est clairement un visage singulier du petit écran actuel. On ne pourra pas lui reprocher de ne pas avoir une forme originale – pour ce qui est du fond, c’est cependant moins évident.</content>
+	</review>
+	<review>
+		<title>Une série d'animation bien barrée</title>
+		<author>marcusquick</author>
+		<date>2016-05-10</date>
+		<score>0.7</score>
+		<content>Une série d'animation bien barrée comme les américains savent en faire. certes, l'animation est pour le moins spartiate, mais la série se rattrapent par une écriture incisive et des dialogues qui deviennent assez jouissifs quand ils sont mis dans la bouche (et plutôt la gueule le bec) des différents animaux qui évoluent dans New-York, avec autant de folie que peuvent le faire les êtres humains. Chaque épisode met principalement en scène un type d'animal spécifique : pigeons, rats,chats, chiens...pris dans les turpitudes quotidiennes de la ville de NY. Par exemple, on retrouve une fête avec des rats, dans laquelle les protagonistes ont le temps de draguer, s'accoupler, avoir des enfants, les élever, draguer la progéniture de leurs amis, tout ça au cours de la même soirée! Pas facile la vie de rats des ville. Ou encore, ce chien qui découvre le temps d'une journée la vie d'une pension pour chien, façon prison de haute sécurité, avec ses bandes rivales, ses matons, ses plans d'évasion... Quatre épisodes pour l'instant, et je ne me lasse pas du concept. A découvrir d'urgence pour tous les mordus d'animation, ça sort vraiment de l'ordinaire.</content>
+	</review>
+</sensCritiqueEntity>

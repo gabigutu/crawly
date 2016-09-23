@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>At Folsom Prison (Live)</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1968</year>
+	<link>http://www.senscritique.com/album/At_Folsom_Prison_Live/6133734</link>
+	<generalScore>8.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>240</numberOfVoters>
+		<numberOfVoters>506</numberOfVoters>
+		<numberOfVoters>342</numberOfVoters>
+		<numberOfVoters>124</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>At Folsom Prison (Live)</title>
+		<author>SanFelice</author>
+		<date>2012-08-24</date>
+		<score>0.8</score>
+		<content>Qui d'autre que Johnny Cash aurait pu faire un tel concert ? Non qu'il ait été lui-même un ex-prisonnier (contrairement à ce qu'affirme la légende, il n'a passé que quelques nuits en cellule), mais le sort des prisonniers a été un cheval de bataille très important pour le chanteur. Et on sent une grande complicité avec son public tout au long de ce disque. Il faut dire qu'il sait très bien mener son concert : altenance de chansons rythmées, légères, et de titres plus sombres et calmes, textes sur la prison, le crime ou la drogue, et même, à la fin, chanson écrite par un des prisonniers de Folsom. Quelques commentaires entre les chansons, et le public est dans la poche ! En bref, un concert remarquable et d'une grande humanité, variant les sentiments et les rythmes et envoûtant les auditeurs.</content>
+	</review>
+	<review>
+		<title>At Folsom Prison (Live)</title>
+		<author>bozovata</author>
+		<date>2012-01-31</date>
+		<score>0.9</score>
+		<content>Que dire, c'était un grand homme...</content>
+	</review>
+	<review>
+		<title>Hello, I'm Johnny Cash</title>
+		<author>rivax</author>
+		<date>2011-12-23</date>
+		<score>0.9</score>
+		<content>Un de mes lives favoris</content>
+	</review>
+	<review>
+		<title>Johnny pose ses couilles</title>
+		<author>Edouard Lebigmac</author>
+		<date>2014-12-16</date>
+		<score>0.9</score>
+		<content>At Folsom Prison est un des plus grands albums live de tout les temps. Point barre.</content>
+	</review>
+	<review>
+		<title>At Folsom Prison (Live)</title>
+		<author>CraneAncestral</author>
+		<date>2016-09-14</date>
+		<score>0.9</score>
+		<content>Cet album devrait servir de modèle à tous les groupes et artistes qui font des albums lives ! L'album ne tombe pas dans l'erreur d'être juste un best of avec des applaudissements entre chaque morceau, on ressent vraiment le concert ! Ca déconne, ça demande de l'eau, ça parle avec les gens, et ça c'est cool. L'ambiance du public est vraiment bien captée, on entent tout le monde rire sur les chansons drôles et fermer sa gueule sur les morceaux plus sombres. Ecoutez ça, Iron Maiden.</content>
+	</review>
+</sensCritiqueEntity>

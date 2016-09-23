@@ -1,0 +1,115 @@
+<review>
+	<title>Sony Ericsson Xperia Neo preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/sony_ericsson_xperia_neo-review-577.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Sony Ericsson is keen to start 2011 in style with strong additions to the XPERIA lineup to please every taste. The Arc is the one true flagship, the Pro is the business messenger and the Play is the gaming smartphone. What?s in there for the Neo then?</paragraph>
+			<paragraph>The Sony Ericsson Xperia Neo has the appearance of a Vivaz and an Android heart. Is this what the original Vivaz should have been? A conclusion would be premature at this point but consider the advantages. Android instead of the rough-around-the-edges Symbian, bigger and better display, multi-touch support and greater processing power. We guess we shouldn?t be looking at the past though. The XPERIA Neo is stopping in for a quick preview and we want to make the best of the short time we have with it before it?s released.</paragraph>
+			<paragraph>Having met with the Arc already, it feels right to put things into perspective. There are fine differences between the two smartphones and screen size alone won?t be enough to tip the scales. The Neo will have to show some respect but it?s not a simple flagship - patrol boat hierarchy.</paragraph>
+			<paragraph>The price tags will ultimately make the biggest difference and ? the way things look ? the Neo will make a lot of sense as the more affordable phone, which offers relevant features like continuous autofocus and video light.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA Neo will be marketed as a cameraphone. An 8 megapixel camera and HD video capture are a strong mix and we?re more than eager to see them in action.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Ericsson XPERIA Neo at a glance:<subsectionTitle>
+			<paragraph>The XPERIA Neo is an all-round smartphone and a capable cameraphone. If the actual performance lives up to the expectations, Sony Ericsson might just have a another winner on their hands (after the Vivaz).</paragraph>
+			<paragraph>You?re welcome to follow us as we explore the Neo ? we?ve got plenty of action coming up after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Ericsson XPERIA Neo 360-degree spin<subsectionTitle>
+			<paragraph>The all-plastic Sony Ericsson XPERIA Neo stands at 116 x 57 x 13 mm and weighs 126 grams. It looks slimmer than the numbers will tell you, because of its all-gloss body with blue-black hues. The back has the trademark human curvature shape that we?ve seen from most other recent Sony Ericsson phones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Sony Ericsson Neo shares a lot of DNA with the Vivaz ? sloping top and bottom and human curvature shape at the back. This is by no means an accident ? the Neo is a true successor of the popular HD-video capable cameraphone. It was even previously rumored as Vivaz 2.</paragraph>
+			<paragraph>The Neo will be available in thee color versions: Silver, Blue Gradient and Red. We have the pleasure of the Blue Gradient variety. It?s still a pre-production test unit, so some things will probably be improved along the way to the stores too.</paragraph>
+			<paragraph>Quite as expected, the body of the Neo is entirely made of plastic. But just like the Vivaz, the Neo doesn?t seem to need metal on the body ? the shape, weight and finish completely make up for that. Of course the glossy plastic rather easily gets covered with smudges that are hard to clean up.</paragraph>
+			<paragraph>Most of the phone?s front is taken by the 3.7" 16M-color LCD screen with resolution of 854 x 480 pixels. The Neo uses the same kind of screen as the XPERIA Arc ? a Reality display using the Sony Bravia Mobile Engine. The high-quality LED-backlit LCD has good enough viewing angles and pleasing colors. Contrast and sunlight legibility are decent too. The on-screen contents remain quite visible even when viewing at an angle but the contrast quickly degrades and the colors get washed out.</paragraph>
+			<paragraph>Although the Reality display is no match for the Samsung?s SuperAMOLED, it?s on the better side of LCDs and the latest Sony Ericsson smartphones (Neo, Arc and Pro) will benefit from using it.</paragraph>
+			<paragraph>Below the screen we find the same three keys as on the Arc: a Back button, Home key that brings up recently used apps tab upon long press and a Menu key. The controls are rather thin but are quite solid to press and since they are seated on a subtle chin, they are a pleasure to use.</paragraph>
+			<paragraph>It gets pretty crowded above the display: you?ll find a proximity sensor, the earpiece, a tiny LED (could be a camera tally light) and the VGA video-call camera.</paragraph>
+			<paragraph>The left side of the XPERIA Neo is completely bare, while the right one features the volume controls and two small knobs: power/lock button and shutter key. A small status LED right next to the power/lock key indicates charging.</paragraph>
+			<paragraph>It?s busy at the top too ? there we find the microUSB and microHDMI ports on each side of a 3.5mm audio jack. Both the USB and HDMI ports are sealed with small plastic lids.</paragraph>
+			<paragraph>The back of the Sony Ericsson Neo reveals its key feature ? the camera. Just like it was on the Vivaz, the 8MP lens is unusually placed almost in the middle. The lens is recessed to ensure protection against scratches and smudges. Next to it, there is a LED flash, which is mostly useful as a video light.</paragraph>
+			<paragraph>The loudspeaker is also here at the back.</paragraph>
+			<paragraph>The microSD card slot is under the battery cover, though not beneath the battery itself and is therefore hot-swappable. The Neo supports 32GB cards and will come with an 8GB microSD card in the box.</paragraph>
+			<paragraph>The SIM card compartment is under the impressive 1500mAh battery.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA Neo is quite reasonably sized and well within limits of pocketability despite its 3.7? display. It?s well built and there is nothing to complain about other than the fingerprint issues. The XPERIA Neo has a solid feel and doesn?t look cheap although it uses a similar color scheme as the XPERIA X8. The phone looks a bit like the Vivaz but it?s obvious Sony Ericsson were after a consistent styling for the latest generation of their XPERIA smartphones.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Eye-candy user interface<subsectionTitle>
+			<paragraph>The Sony Ericsson XPERIA Neo takes its cue from the XPERIA Arc. There are two important changes to note: Android 2.3 Gingerbread is in and the Mediascape UI was is out. Perhaps Sony Ericsson decided the vanilla gallery is less confusing or maybe it was a performance-driven decision. The Timescape app is still there.</paragraph>
+			<paragraph>We've prepared a short video demo of the XPERIA Neo user interface to get us started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>At first glance, it?s not that easy to see the changes brought by Android 2.3 Gingerbread and those by the custom Sony Ericsson UI. The new edition brought lots of new APIs and extended the platform?s gaming capabilities, but the interface elements haven?t been dramatically changed, just polished.</paragraph>
+			<paragraph>The Overview mode, which debuted on the XPERIA Arc, is available on the Neo too. You pinch zoom out of any of the 5 homescreen panes and a new screen opens up with a cool transition effect. All your widgets gather there and you can click the one you want and go to its screen.</paragraph>
+			<paragraph>In terms of functionality, it?s similar to the HTC Leap view or what Samsung have on the Galaxy S. However here widgets are not ordered in mini screens so you cannot see what?s on each of them. Instead all widgets are shuffled so they can utilize the space more efficiently and remain as big as possible and thus more thumbable.</paragraph>
+			<paragraph>The next thing worth mentioning are the four docked shortcuts (two either side of the launcher key) on the homescreen. Those are visible on all five homescreen panes and are editable: they can be either single icons or folders with multiple items in them.</paragraph>
+			<paragraph>Creating folders is simple, using the logic (and the visual layout) of iOS devices. You drag one icon over another and a pop-up appears, prompting you to select an icon and a name for the folder you?re about to set up.</paragraph>
+			<paragraph>There are new animations when moving items around the homescreen, sorting them in folders or deleting them. There are no new wallpapers included in Gingerbread, but you can get as many as you want at the Android Market anyway. Sony Ericsson have included 24 static wallpapers and there are 11 live wallpapers too (available in every other droid), you can also set a picture from your gallery.</paragraph>
+			<paragraph>Upon entering the launcher you will see shortcuts in the bottom corners. They let you sort your icons within the grid ? you can either go for the automatic options (alphabetical, most used or recently installed) or you can manually move the icons.</paragraph>
+			<paragraph>Text selection is a major change in the user interface. Gingerbread really takes things to a whole new level by placing two large pointers either side of the marked text. You can then drag each of those easily to make the selection you need. It really doesn?t get much simpler than that.</paragraph>
+			<paragraph>As far as general speed is concerned, the Sony Ericsson XPERIA Neo does as well as we expected. It?s based on the same Qualcomm MSM8255 Snapdragon platform as the Arc featuring a 1 GHz Scorpion CPU and the Adreno 205 GPU. Gingerbread optimizations help it do a bit better than some high-end Froyo powered phones.</paragraph>
+			<paragraph>The actual performance is almost as good on the Arc - almost because we did notice occasional brief lags. Maybe it?s the fact that ours is a pre-release unit and we should wait and see what a market-ready Neo is really capable of.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The music player is a looker<subsectionTitle>
+			<paragraph>The music player on the XPERIA Neo is quite similar to the music section of the axed Mediascape app. The interface is laid out in four tabs for the available sorting options: all artists, all tracks, playlists and albums.</paragraph>
+			<paragraph>If you hit the menu key you?ll get a search shortcut, as well as send and delete options.</paragraph>
+			<paragraph>The Now Playing screen offers nothing but the standard music controls, shortcuts to the library and the Infinite key, which allows you to quickly look up a song or album on YouTube or Sony Ericsson?s own Play Now arena.</paragraph>
+			<paragraph>The only available visualization is the album art.</paragraph>
+			<paragraph>The music fans will appreciate the equalizer: it?s a rich selection of presets.</paragraph>
+			<paragraph>The XPERIA Neo has an FM radio, you just need to connect the headset to function as the radio antenna.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Premium 8 megapixel sharpshooter<subsectionTitle>
+			<paragraph>The XPERIA Neo boasts an 8 megapixel snapper accompanied by a single LED flash. Both the Neo and the Arc use an Exmor R backlit sensor which, in theory, provides better low-light images. In reality the advantage of the backlit technology is marginal at best.</paragraph>
+			<paragraph>The user interface of the Neo?s camera is the same as the Arc?s. You have a bar with five shortcuts to popular features on the right, a bar with the latest captured images on the left and still camera/camcorder switch at the bottom.</paragraph>
+			<paragraph>The five most used shortcuts allow you to change the camera in use (front/rear), set capturing mode, manage scenes, choose flash mode and change the focus mode (macro, face detection, touch focus, etc).</paragraph>
+			<paragraph>Upon pressing the menu key you get some extra customizable options like resolution, white balance, geotagging, image stabilization, etc.</paragraph>
+			<paragraph>The image quality is really good, though we notice considerable corner softness in both left and right, but the image in the center is exceptional. Other disadvantages include geometric distortion and visible purple fringing in high-contrast edges, but we hope those could be fixed with some software fine-tuning from the Sony Ericsson R&amp;D.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>We?ve also added the Sony Ericsson XPERIA Neo to our Photo Compare database. The tool?s page has a quick how to guide.</paragraph>
+			<paragraph>You will notice that the camera on the XPERIA Neo is pretty much identical to the one on the XPERIA Arc.</paragraph>
+			<paragraph>   Sony Ericsson XPERIA Neo in the Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HD video recording<subsectionTitle>
+			<paragraph>The HD video recording is also a really popular feature recently and the XPERIA Neo is doing pretty well with its 30fps. We noticed a few duplicated frames, but still won?t pass any judgments before we try the retail unit.</paragraph>
+			<paragraph>Other than that, the videos are relatively smooth with excellent colors and resolved detail.</paragraph>
+			<paragraph>The Neo?s camcorder joins the select few with continuous autofocus. Its approach is the same as on the XPERIA X10: it may take a few seconds to refocus after you reframe instead of fast and constant re-focusing. It?s the better option because the fast re-focusing may ruin the video.</paragraph>
+			<paragraph>Check out the 720p samples that we captured with the XPERIA Neo.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>Alternatively you can download this untouched sample, taken straight from the device.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A Flash-capable web browser<subsectionTitle>
+			<paragraph>The XPERIA Neo?s browser is a strong performer. With added Flash 10.1 support and the latest Android version, it really does a great job.</paragraph>
+			<paragraph>The user interface is minimalistic with almost no visible chrome by default. Once the page loads, all you see is the URL bar and the bookmark button at the top of the screen. Once you zoom in and pan around though even that disappears (scroll to the top or press menu to bring it back).</paragraph>
+			<paragraph>That way you have the entire 3.7? screen to fill with actual content. The Neo?s browser supports three zoom methods: double tap, dedicated virtual controls and the multitouch pinch-zooming.</paragraph>
+			<paragraph>The minimalist UI is quite powerful ? hit the menu key and six keys pop up. You can open a new tab, switch tabs, refresh the page, go forward, and open bookmarks. The last button reveals even more options (text copying, find on page, etc.).</paragraph>
+			<paragraph>One of the important new features in the web browser is the full Flash support. YouTube videos didn?t play quite smoothly but we expect this to be sorted out in the production software. After all, there?s a Snappdragon under the hood.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>An important thing we know at the end of this quick preview is it?s worth waiting for the Sony Ericsson XPERIA Neo. And it?s not going to be a long wait.</paragraph>
+			<paragraph>The Neo is a compact, handsome and powerful. It carries the best features Sony Ericsson have to offer nowadays: Reality display, an impressive 8 megapixel camera with Exmor R sensor, good HD video recording and the latest Android Gingerbread.</paragraph>
+			<paragraph>The Snapdragon platform with the Adreno 205 GPU is more than enough for the average user ? and more than enough for a phone that isn?t the typical high-end monster.</paragraph>
+			<paragraph>The 3.7 inch screen is ideally sized usability wise and the relatively thick profile is the only thing that can potentially put off smartphone/cameraphone aficionados.</paragraph>
+			<paragraph>Nevertheless, we?re sure the XPERIA Neo will make itself quite comfortable in the upper midrange. It?s a safe place to be and that where bestsellers are more likely to come from.</paragraph>
+			<paragraph>The Sony Ericsson XPERIA Neo is a well-built phone using the latest in hardware and software. It ticks the right boxes as a smartphone and does remarkably well as a cameraphone. There?s an intriguing price tag hanging on it already, which doesn?t look bad at all. We?ll just have to see how the market feels about it.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,49 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Palermo Hollywood</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Palermo_Hollywood/20923815</link>
+	<generalScore>6.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>18</numberOfVoters>
+		<numberOfVoters>32</numberOfVoters>
+		<numberOfVoters>85</numberOfVoters>
+		<numberOfVoters>68</numberOfVoters>
+		<numberOfVoters>40</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Palermo Hollywood</title>
+		<author>Victor Blutch</author>
+		<date>2016-04-22</date>
+		<score>0.7</score>
+		<content>Une fois encore, BB signe un album pétri de spleen, d'une voix suave qui trouve son origine dans le giron de Gainsbourg. Égal à "La Superbe", son meilleur album, ce voyage en musique assoit l'importance de Biolay dans la chanson française.</content>
+	</review>
+	<review>
+		<title>L'album français de 2016</title>
+		<author>Emmanuel Racaud</author>
+		<date>2016-05-01</date>
+		<score>0.9</score>
+		<content>Un des sommet de son art.. Après son chef d'oeuvre La Superbe., et un Vengeance moins réussi.. on l'attendait avec impatience .. On est pas déçu.. Une atmosphere argentine présente, on a l'impression d'être à Bueno Aires. et ces compositions .. Paroles et musiques . Il suffit d'écouter les arrangements de "Pas Sommeil" cordes, trompettes, orgue Tout est là en place.. et ces paroles... Et puis Biolay se réinvente avec la Noche Ya no Existe et le bonus de la fnac.. Masterchef. Classe, somptueux, majestueux.. Tout est dit . le meilleur album de l'année Simplement.</content>
+	</review>
+	<review>
+		<title>Suavemente</title>
+		<author>CarolinePako</author>
+		<date>2016-04-26</date>
+		<score>0.9</score>
+		<content>BBiolay revient plus beau et plus fort que jamais, des textes forts, doux, cet album caresse le cœur des sensibles. Du spleen à la Gainsbourg comme toujours, un grand voyage dans son univers, et un petit tour en Argentine avec des sonorités hispaniques. BBiolay est un grand chanteur et surtout, un grand compositeur. Un second album devrait sortir bientôt, suivant le modèle de Palermo Hollywood.</content>
+	</review>
+	<review>
+		<title>"Benjamin Biolay, le prodige de la chanson française"</title>
+		<author>Milan Boëhm</author>
+		<date>2016-08-13</date>
+		<score>0.2</score>
+		<content>Pour ceux qui se demandent ce que donne un vieux con dans le corps d'un jeune con, chanteur à la mode, voici Benjamin Biolay, la bouse de l'année, ringard au possible et prétentieux en plus.</content>
+	</review>
+</sensCritiqueEntity>

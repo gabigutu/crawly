@@ -1,0 +1,63 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Illuminations</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1886</year>
+	<link>http://www.senscritique.com/livre/Illuminations/73285</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>29</numberOfVoters>
+		<numberOfVoters>69</numberOfVoters>
+		<numberOfVoters>209</numberOfVoters>
+		<numberOfVoters>360</numberOfVoters>
+		<numberOfVoters>343</numberOfVoters>
+		<numberOfVoters>248</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Le dernier métro</title>
+		<author>yaya-dc</author>
+		<date>2014-02-08</date>
+		<score>1.0</score>
+		<content>"Le pavillon en viande saignante sur la soie des mers et des fleurs arctiques ; (elles n’existent pas.)" Barbare Dans certaines situations les mots ne peuvent retransmettre ne serait-ce que la plus infime partie de ce qu'on ressent. Alors soit on se sent seul, soit on se sent en harmonie avec l'infini. Ma lecture de tes Illuminations a complètement dépassé le cadre du livre, pour s'imprégner intégralement dans mon monde réel, établissant des connexions entre tous ses éléments... Je ne devrais pas "critiquer" ce qui sort du plus profond de ton esprit, car tu as traversé des contrées si lointaines dont j'ignore totalement l'existence. Alors qui suis-je pour te donner une "note" ? Je ne suis qu'un simple étranger qui voit au loin ton navire partir toujours, toujours plus loin. Mais justice doit être faite malgré tout à ton génie. Je n'y connais pas grand chose en poésie. Donc je peux dire que la façon dont tu utilises les mots pour créer un ensemble harmonieux est magistrale, mais je serais totalement incapable de comprendre comment tu y es parvenu, quels codes tu as rompu, etc. Et c'est tant mieux, ça me permet de mieux plonger la tête la première dans ton monde qui ne peut pas, je pense, s'expliquer au final. Vendredi soir, fin de semaine. Station République, ligne 8. Je lis un de tes poèmes, complètement inconscient de ce qui est en train de se produire : "Il est l'affection et l'avenir, la force et l'amour que nous, debout dans les rages et les ennuis, nous voyons passer dans le ciel de tempête et les drapeaux d'extase." Entre chaque ligne, mon esprit se remplit de pensées partant dans tous les sens, un peu comme à la lecture de chacun de tes poèmes. J'observe les autres passagers. Chaque bruit, chaque expression de visage, chaque vibration, sont en corrélation avec la forme et le fond de tes mots. Ton génie est déjà là, présent parmi nous dans ce métro. Mais je ne m'en rends pas bien compte encore, je ne sens que sa présence diffuse. Ma lecture de ce poème s'étire, je dois changer de ligne. Invalides, ligne 13. Un musicien de métro est déjà là, il souffle dans son saxophone et chante. Je l'ignore d'abord et me replonge dans ma lecture passionnée. Mais ma lecture et la musique progressent ensemble. Et plus elles progressent, plus ton génie refait surface. Je quitte de nouveau ma lecture. Le son du saxophone. Il est beau. Le musicien ne s'arrête pas, il aime ce qu'il fait, il sourit et veut nous partager cet amour. Mais nous ne le recevons pas et l'ignorons, parfois contre notre gré. Il fait la manche et ne récolte que deux pièces. Mais il continue de sourire, totalement indifférent face à sa situation "précaire" et face à notre mentalité condescendante. Alors il se remet à chanter, sa musique ramenant de nouveau le bonheur dans cet environnement morose. Il descend. Je n'ai pas très bien saisi le sens de cette scène mais mon coeur est déjà rempli. Je me replonge lentement dans ton poème. Je tourne la page. Je me rends compte qu'il s'agit là du dernier poème de ton recueil. Je relève mes yeux vers le musicien sur le quai. Toujours le sourire aux lèvres, il continue de jouer. C'en est trop. Une larme coule. Ton génie est là, devant mes yeux. Il est là dans tes mots. Il est là dans son sourire. Il est omniprésent ici et maintenant. Et ENFIN j'arrive à l'apercevoir de très loin, sous cette forme totalement abstraite. Les portes se referment et je lis tes derniers vers. Et chaque mot me donne un violent coup de fouet. Tu résumes là parfaitement tout ce que tu m'as appris durant l'éprouvante lecture de ce recueil : Du Déluge à Jeunesse, en passant par les Ponts ou le Métropolitain, ton Génie conclut magistralement tes Illuminations. Je referme le livre, une joie intense est mêlée d'une nostalgie imminente. Je descends du wagon et remonte à la surface. Tu m'as ouvert les portes d'un nouveau monde, que je ne connaissais qu'en théorie, que dans mes rêves, que dans mes pensées. Tu m'as prouvé qu'il existait. Tu m'as prouvé que le monde rationnel peut être transcendé, que le monde inconnu et immense de notre esprit et de l'univers ne tiennent au final qu'à nous mêmes. Ainsi, nos possibilités sont infinies. Tu m'as tout simplement libéré d'un poids que je portais depuis bien trop longtemps. Tu m'as donné envie de vivre mes rêves et de rêver toute ma vie. Tu m'as montré le beau à travers un angle complètement nouveau. Devant tant de perfection, tu m'as convaincu d'explorer ce nouveau monde et de marcher sur tes traces. Tu m'as véritablement rendu amoureux de l'art, et ainsi tu as comblé un manque terrible que je pensais pourtant avoir déjà rempli. Tu me remets constamment à ma place et me rappelle que je ne suis qu'un simple être humain, qui ignore absolument tout de la vie. A travers la puissance infinie de chacun de tes mots, tu partages tes illuminations. Et je t'en remercie du fond du coeur. Enfin, je me sens illuminé. "Un rayon blanc, tombant du ciel, anéantit cette comédie." Les Ponts</content>
+	</review>
+	<review>
+		<title>Illuminations</title>
+		<author>Socratiques</author>
+		<date>2010-11-13</date>
+		<score>0.9</score>
+		<content>Bordel, le nom du recueil c'est Illuminations, et pas LES illuminations.</content>
+	</review>
+	<review>
+		<title>Fils du Soleil.</title>
+		<author>lionelbonhouvrier</author>
+		<date>2015-08-04</date>
+		<score>0.9</score>
+		<content>"Je suis le saint, en prière sur la terrasse - comme les bêtes pacifiques paissent jusqu'à la mer de Palestine. Je suis le savant au fauteuil sombre. Les branches et la pluie se jettent à la croisée de la bibliothèque. Je suis le piéton de la grand-route par les bois nains ; la rumeur des écluses couvre mes pas. Je vois longtemps la mélancolique lessive d'or du couchant. J'ai tendu des cordes de clocher à clocher ; des guirlandes de fenêtre à fenêtre ; des chaînes d'or d'étoile à étoile, et je danse. Et, presque chaque nuit, aussitôt endormi, le pauvre frère se levait, la bouche pourrie, les yeux arrachés - tel qu'il se rêvait ! - et me tirait dans la salle en hurlant son songe de chagrin idiot. J'avais en effet, en toute sincérité d'esprit, pris l'engagement de le rendre à son état primitif de fils du Soleil, - et nous errions, nourris du vin des cavernes et du biscuit de la route, moi pressé de trouver le lieu et la formule. Enfant, certains ciels ont affiné mon optique : tous les caractères nuancèrent ma physionomie. Les Phénomènes s'émurent. - À présent, l'inflexion éternelle des moments et l'infini des mathématiques me chassent par ce monde où je subis tous les succès civils, respecté de l'enfance étrange et des affections énormes. - Je songe à une Guerre, de droit ou de force, de logique bien imprévue. C'est aussi simple qu'une phrase musicale."</content>
+	</review>
+	<review>
+		<title>Illuminations</title>
+		<author>MarleneCr</author>
+		<date>2014-03-14</date>
+		<score>0.9</score>
+		<content>Mon poète préféré. Mes poèmes préférés. Ce recueil de Rimbaud m'a fait aimer la poésie en plus de me donner l'envie d'en écrire. Bien que parfois assez compliqué à comprendre, il est une oeuvre symboliste à part entière, qui représente à la perfection ce mouvement.</content>
+	</review>
+	<review>
+		<title>Illuminations</title>
+		<author>Sharline Chevalier</author>
+		<date>2013-09-12</date>
+		<score>0.1</score>
+		<content>Je comprends que certains puissent apprécier ce recueil de poésie. Pour ma part, je reste hermétique à ce style d'écriture, où le sens est quasi inexistant. Il faut passer énormément de temps sur un poème pour le comprendre et encore, certaines choses ne peuvent être comprises, ce qui m'agace fortement.</content>
+	</review>
+	<review>
+		<title>Illuminations</title>
+		<author>BionicToxic</author>
+		<date>2013-04-23</date>
+		<score>0.9</score>
+		<content>Que dire? Rimbaud. Je crois que seul son nom suffit. Des poèmes plus beaux les uns que les autres, qui me touchent et me bouleversent.</content>
+	</review>
+</sensCritiqueEntity>

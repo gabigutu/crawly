@@ -1,0 +1,240 @@
+<review>
+	<title>Samsung Galaxy Tab 2 7.0 review</title>
+	<description>Take two</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_tab_2_70_review-review-781.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>7.0" 16M-color PLS TFT capacitive touchscreen of WSVGA resolution (1024 x 600 pixels)</paragraph>
+			<paragraph>Weighs 344 g</paragraph>
+			<paragraph>TI OMAP 4430 chipset: Dual-core 1GHz processor; 1GB of RAM; PowerVR SGX540 GPU</paragraph>
+			<paragraph>Android 4.0.3 Ice Cream Sandwich with TouchWiz UX UI</paragraph>
+			<paragraph>Optional quad-band GPRS/EDGE and tri-band HSPA connectivity (HSDPA, 21 Mbps; HSUPA, 5.76 Mbps)</paragraph>
+			<paragraph>Support for voice calls, texts and MMS for the 3G version</paragraph>
+			<paragraph>8/16/32 GB of built-in memory</paragraph>
+			<paragraph>3.2 MP camera, 2048x1536 pixels, geotagging</paragraph>
+			<paragraph>Front-facing camera supports video calling</paragraph>
+			<paragraph>720p HD video recording @ 30 fps</paragraph>
+			<paragraph>Wi-Fi 802.11 a/b/g/n Wi-Fi Direct, dual-band, Wi-Fi hotspot</paragraph>
+			<paragraph>Stereo Bluetooth v3.0</paragraph>
+			<paragraph>microSD card slot</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Adobe Flash 11 support</paragraph>
+			<paragraph>GPS with A-GPS support; digital compass</paragraph>
+			<paragraph>1080p DivX/XviD/MKV video support with subtitles</paragraph>
+			<paragraph>Accelerometer and proximity sensor; three-axis Gyroscope sensor</paragraph>
+			<paragraph>Polaris office document editor preinstalled</paragraph>
+			<paragraph>4000 mAh Li-Po rechargeable battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Front-facing camera is only VGA resolution</paragraph>
+			<paragraph>No LED flash for primary camera</paragraph>
+			<paragraph>Has a non-replaceable battery</paragraph>
+			<paragraph>Uses a proprietary 30-pin connector port for charging and connectivity</paragraph>
+			<paragraph>One of the lowest-capacity batteries in the range</paragraph>
+			<paragraph>No USB charging</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It seems that Samsung have taken it upon themselves on literally making a tablet for everyone. With all of the Galaxy Tab variants out there, the Galaxy Tab 2 7.0 it seems like systematic attempt by Samsung to put a unique tablet variant in the hands of every living person on the planet.</paragraph>
+			<paragraph>After just 6 months since the release of the original Galaxy Tab 7.0 Plus, the Tab 2 7.0 has hardware which is, frankly, not much of an upgrade in most cases. It features the same 7 inch (obviously) PLS LCD display, and the connectivity features are identical as well. The processor has been downgraded from a dual-core 1.2GHz to a dual-core 1GHz silicon.</paragraph>
+			<paragraph>From software standpoint we have a different story, as the Tab 2 runs an improved Android build compared to its predecessor. The Android ICS build 4.0.3 on the Tab 2 is much more responsive than Honeycomb and actually makes for a user-friendly experience. And of course, the Tab 2 7.0 is more affordable than the Tab 7.0 Plus as well.</paragraph>
+			<paragraph>For now, here are the features and downsides of the new Tab 2 at a glance:</paragraph>
+			<paragraph>For whoever's keeping track, it also doesn't have an infrared port, but we're not really sure if anyone even used the one on the original Tab 7.0, or its preloaded Smart Remote app, so it's not that great of a loss.</paragraph>
+			<paragraph>One thing to keep in mind is that in the 7" Android tablet market the name of the game is affordability rather than features. Coming up is our hardware examination of the Galaxy Tab 2 7.0, where we see how much bang you get for your buck. The slate is essentially Samsung's answer to the hot-selling Amazon Kindle Fire. It offers an entry into the Android tablet realm at a highly affordable price (the 8GB Wi-Fi only version costs $249.99).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The resemblance between the Samsung Galaxy Tab 2 7.0 and the Galaxy Tab 7.0 Plus is uncanny. Both have a very minimalistic design, with rounded corners and smoothly beveled back.</paragraph>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 is built around a 7.0" PLS LCD screen with a resolution of 1024 x 600 pixels, the same as in the 7.0 Plus. While the screen is among the smallest and lowest-resolution in the Samsung tablet lineup (original Galaxy Note aside), and is far from stellar, it sets the standard for 7" tablets right now.</paragraph>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 has no hardware controls at the front. As has been the case since Honeycomb, the tablet doesn't require any for the user to get around the interface.</paragraph>
+			<paragraph>All you get at the front is the camera, some sensors and an earpiece. Yes, you can put the tablet up to your ear and use it as a phone, but using a wired or wireless headset might feel and look more sane. The earpiece is naturally missing in the Wi-Fi version of the slate.</paragraph>
+			<paragraph>At the top we find the 3.5mm audio jack and the secondary microphone used for stereo audio in camcorder mode. The other one is at the bottom and you are warned upon launch of the camcorder app against covering the microphones.</paragraph>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 uses a proprietary 30-pin connector for charging and connectivity, which is located at the bottom of the tablet, in between the two speakers. You have to be careful not to place your palms over the speakers when you hold the tablet horizontally. The primary microphone is also located at the bottom.</paragraph>
+			<paragraph>Single, multi-function ports like the 30-pin connector on the Tab 2 7.0 mean you'll need a proprietary cable for both hooking up the tablet to a computer and even charging it. Hooking it up to your computer's USB port does not charge the device, but it does provide a minimal amount of juice so your battery level at least doesn't drop further. The lack of USB charging is a common trait among tablets, but that doesn't mean we have to like it.</paragraph>
+			<paragraph>The sides of the slate accommodate lots of stuff. On the left you'll find the SIM compartment and microSD slot, both sealed with plastic lids. Logically, the there is no SIM slot on the Wi-Fi only version.</paragraph>
+			<paragraph>The right side features the Power/Lock button and the thin volume rocker.</paragraph>
+			<paragraph>The back of the Tab 2 is where the primary 3MP camera rests. The plastic on the back is textured to be smooth yet resistant to fingerprints, and is pleasing to the touch. This time around the camera comes alone, as there's no LED flash like in the Tab 7.0 Plus.</paragraph>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 is powered by a 4000 mAh Li-Ion battery. As is the case with most tablets, the back panel is not meant to removed, so changing the battery is not an option.</paragraph>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 can easily be held in one hand and will slip into a coat pocket or a purse. The curved back doesn't help with the thickness perception, but makes it easier on your hands when holding the tablet.</paragraph>
+			<paragraph>Up next is our examination of Android 4.0 ICS - the software behind the Galaxy Tab 2 7.0.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface: TouchWiz-ed Android ICS<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 is shipping with Android 4.0.3 Ice Cream Sandwich. As usual it is skinned with the proprietary TouchWiz UI, which adds more customizations to the interface than its Honeycomb counterpart.</paragraph>
+			<paragraph>The typical Android navigation keys are in the bottom left corner of the homescreen: Back, Home and Task switcher (plus a screenshot key courtesy of TouchWiz). The search shortcut is in the top left, the app drawer in the top right and finally, the notification area with quick toggles in the lower right corner.</paragraph>
+			<paragraph>The pinch gesture familiar from TouchWiz phones lets you add, delete and rearrange homescreens easily. The same pinch gesture can be used in the app drawer to again let you rearrange pages. You can't delete or add new pages this way though.</paragraph>
+			<paragraph>The taskbar at the bottom has an arrow that flips up a row of what Samsung calls Mini Apps. The Galaxy Tab 10.1 had them too, so they're not new, but they're still fairly unique in the Android world.</paragraph>
+			<paragraph>Mini Apps are small, independent windows that always overlay everything else - homescreens, regular full-screen apps, anything. You can fit two or three of those on the large 10.1" screen and they really improve the multitasking abilities of the tablet.</paragraph>
+			<paragraph>Available Mini Apps include a dialer, messaging, email, calculator, music player, S Memo, even a task manager. If you're not using some of those apps, you can always choose to hide them.</paragraph>
+			<paragraph>Each Mini App has a button in the top left that launches the corresponding full-featured app and a close button in the top right. Such overlaid windows have been a staple of desktop OSes, but they feel a little odd in Android at first.</paragraph>
+			<paragraph>The notification area has the connectivity toggles that we've come to know from the smartphone edition of TouchWiz. They offer more functionality than the stock ICS quick settings - including GPS, Wi-Fi and Bluetooth controls - which saves you the extra effort of entering the extended settings menu. The rest of the toggles are Notifications, Sound, Auto-rotation and Flight mode.</paragraph>
+			<paragraph>The search shortcuts (voice and text) are in the top left corner of the homescreen, while the app drawer button stays in the top right.</paragraph>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 comes with plenty of preinstalled apps that cannot be found on other tablets - Social Hub, Music hub, Pulse reader, AllShare, Polaris Office, Video player and My files. Some of the other apps like the music player and the calendar have been modified as well.</paragraph>
+			<paragraph>We ran the traditional Android benchmarks on the Galaxy Tab 2 7.0 (powered by the TI OMAP 4430 SoC, featuring a 1GHz dual-core Cortex-A9 and a PowerVR SGX540 GPU). The processing power is hardly the best around, but is more than decent for the price range.</paragraph>
+			<paragraph>As expected, the Samsung Galaxy Tab 2 7.0 comes with about the same CPU performance as the other Galaxy Tabs we've tested recently, but the PowerVR SGX540 GPU is less-capable than the Mali-400MP in the Exynos chipset. It holds its ground quite well against the ULP Nvdia GeForce inside the Tegra 3, though.</paragraph>
+			<paragraph>As you can see, there's not much difference in terms of pure performance between the slates running Android Honeycomb and the ICS-packing Tab 2 7.0. However, that's just more proof that benchmarks can, at times, be misleading as the overall UI experience is a lot faster here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Contacts are as good as you expect them to be<subsectionTitle>
+			<paragraph>There is no History tab for every contact like there used to be in the Honeycomb phonebook, instead individual contacts logs are accessed via the settings menu in the upper right corner.</paragraph>
+			<paragraph>The contact management is fairly straightforward on the Samsung Galaxy Tab 2 7.0. Your contacts get automatically synced with your Google account unless you explicitly disable this and you can also let the Galaxy Tab 2 7.0 sync your social network contacts if you want.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You get your contacts listed by either first or last name in the left part of the screen, while the details of the currently selected contact appear on the right. There is a handy search field on the top left corner, as well as a shortcut for adding a new contact or deleting the selected one at the opposite side.</paragraph>
+			<paragraph>The advanced menu offers a few more options - edit contact, import/export, join with another contact, send or print a name card, get friends via social services, etc.</paragraph>
+			<paragraph>Editing a single contact is done via a popup window, where the available fields are displayed, with plus and minus signs on the right that let you remove or duplicate details.</paragraph>
+			<paragraph>There's also an Add another field button at the bottom that lets you insert a field that hasn't existed so far for the specific contact.</paragraph>
+			<paragraph>Custom field names aren't available.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Email and Gmail<subsectionTitle>
+			<paragraph>The Galaxy Tab 2 7.0 comes with two familiar email applications out of the box - one for your Gmail and a generic one to use with any POP3/IMAP account you want.</paragraph>
+			<paragraph>They both have a split-screen interface. Initially, your folders are listed on the left and the emails in the currently selected one appear on the right. Upon clicking on a single message, the list of emails moves to the left tab while the body of the selected one pops up on the right.</paragraph>
+			<paragraph>Bulk actions are supported too, so you will easily manage mailboxes that get tons of messages.</paragraph>
+			<paragraph>You can set up the automatic email retrieval interval or you can disable that completely and only check your mail manually. There's also a handy setting that makes your client automatically download attachments only when you are connected over Wi-Fi.</paragraph>
+			<paragraph>It's basically the same treatment you get on Android smartphones with a few further optimizations permitted by the larger screen.</paragraph>
+			<paragraph>Writing emails is reasonably comfortable with the virtual Samsung QWERTY keyboard occupying about half of the screen. Now, this is no match for a hardware keyboard, but you won't notice any big difference when handling short emails.</paragraph>
+			<paragraph>In case the keyboard is too big for you, there is a dedicated virtual key on its top left, which will shrink it a bit. The keys become smaller and thinner, making more room for the message body. It's still comfortable enough to type on - this is actually our preferred keyboard size.</paragraph>
+			<paragraph>There's auto correction and auto capitalization available, and you can enable sounds on key presses. There's haptic feedback too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A gallery we love<subsectionTitle>
+			<paragraph>The Galaxy Tab 2 7.0 gallery is a pretty standard Android affair in terms of functionality, feeling pretty comfortably on the large screen. Naturally, your Picasa web albums are automatically synced with your tablet.</paragraph>
+			<paragraph>There is one difference between the Honeycomb and the ICS gallery - the latter has bigger album thumbnails.</paragraph>
+			<paragraph>You can sort your images by album, date, location or tag. You can also choose between displaying images, videos or both.</paragraph>
+			<paragraph>The upper left corner holds the sorting options while the right one has the shortcuts to the camera, and some extra settings (like the option to make Picasa albums available offline).</paragraph>
+			<paragraph>When you are browsing a specific album/date/location/tag the shortcuts change a bit - the camera shortcut is replaced by a button that starts a slide show. The icon in the very top left corner becomes active and clicking it brings you back to the full gallery view.</paragraph>
+			<paragraph>The gallery app of the Galaxy Tab 2 7.0 displays the images in full resolution and a double tap zooms to the handy for pixel-peepers 100%.</paragraph>
+			<paragraph>There is one more fancy way to zoom in and out using multi-touch. Just put your thumbs on a picture and tilt the tablet up or down to zoom in and out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The music player is free of hassles<subsectionTitle>
+			<paragraph>The Galaxy Tab 2 7.0 has the custom TouchWiz music player, which is more functional than the stock Android app, but lacks the cover-flow-like browsing.</paragraph>
+			<paragraph>You can now sort your tracks by album, artist, genre, folders, composer or year. Playlists are enabled too: the most played and recently added lists are automatically generated. Naturally, there's also a search option, which will be appreciated by those with large music collections. It gets activated by pressing the magnifying glass icon in the upper right corner.</paragraph>
+			<paragraph>When you select a specific album (or a group of tracks based on any filter) the interface splits into three screens - the filters on the left, the album in the middle and the now playing track on the right.</paragraph>
+			<paragraph>Tapping on the song name brings you to a dedicated now playing screen where you have a repeat (one or all) and shuffle options, as well as a setting to add the currently playing track to favorites.</paragraph>
+			<paragraph>Equalizers are available too, along with various sound effects like concert hall, clarity etc.</paragraph>
+			<paragraph>Finally, if there is a track playing in background, a dedicated row appears in the notification area showing its name along with the usual music shortcuts (something missing on the Honeycomb 3.1 version on the bigger Galaxy Tabs). There is also an option to shut down the music player directly from this menu.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The video player is a class leader<subsectionTitle>
+			<paragraph>Stock Android doesn't have a dedicated video player app, but Samsung always provides one of their own for the Galaxy Tabs. The Tab 2 7.0 is no exception. Allowing thumbnail, list and folder view modes, it's a pretty capable application. There's also searching so even if you fill that ample storage with short clips you should be able to find the one you need.</paragraph>
+			<paragraph>The Galaxy Tab 2 7.0 supports DivX/XviD/MKV files out of the box. Even high-res videos are handled trouble-free - the tablet played anything we tried, including 1080p videos. Subtitles are also available and there is rich encoding support. There was nothing the Tab 2 7.0 wouldn't play. It seems Samsung has ensured support for every common audio and video codec.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>3.2MP still camera just in case you need one<subsectionTitle>
+			<paragraph>A 3.15 megapixel main camera capable of doing 720p videos and a VGA front-facing camera is what you get with the Samsung Galaxy Tab 2 7.0. Given that tablets aren't the most photography-friendly devices, it's probably as much as you are going to need anyway.</paragraph>
+			<paragraph>The two cameras are mostly there to cater for video-chatting and augmented reality apps, as well as the convenience of snapping a label or two as a memory aid.</paragraph>
+			<paragraph>The camera interface is an oversized version of what you find on the Galaxy line of smartphones, with the available settings on the left and the shutter key and the video/stills switch on the right.</paragraph>
+			<paragraph>We've got a few samples to demonstrate the image quality of the Galaxy Tab 2 7.0 camera. Surprisingly, it is on a really high level. The 3 megapixel camera resolves lots of detail and even though the dynamic range is not that great, frequently resulting in blown highlights, the noise levels are pretty low even in low light situations.</paragraph>
+			<paragraph>Overall, the Galaxy Tab 2 7.0 has a nice snapper on its back - more than fit to do its purpose.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Very good HD videos<subsectionTitle>
+			<paragraph>The camcorder interface is not much different, really. There are fewer options available here, but the layout is basically the same. The Galaxy Tab 2 7.0 is capable of recording 720p videos.</paragraph>
+			<paragraph>The 720p videos are top-notch with stereo audio recording, full of detail, low in noise and, generally, nice and smooth.</paragraph>
+			<paragraph>Check out the 720p sample that we captured with the Galaxy Tab 2 7.0.</paragraph>
+			<paragraph>And here goes a 720p video sample from the slate that we uploaded to YouTube.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Rich connectivity as expected<subsectionTitle>
+			<paragraph>The entry-level Samsung Galaxy Tab 2 7.0 kicks the connectivity suite off with a/b/g/n Wi-Fi support, with both 2.4GHz and 5GHz band compatibility. Wi-Fi Direct and DLNA support are also available.</paragraph>
+			<paragraph>There is a microSD card slot as well, on top of the 8/16/32GB of internal storage.</paragraph>
+			<paragraph>Naturally, Samsung Galaxy Tab 2 7.0 supports USB-on-the-go, but you will need to buy an adapter for that (the original connectivity kit with 2 adapters - SD reader and USB port - costs $25). With that you can connect card readers, USB flash drives and other compatible devices to your tablet and access their contents through the file manager. Mice and keyboards are supported as well. But for tablets Bluetooth peripherals are usually the better option.</paragraph>
+			<paragraph>There's no NFC connectivity on the Galaxy Tab 2 7.0, though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent web-browsing<subsectionTitle>
+			<paragraph>The web browser is another key app as far as tablets are concerned. There is full Flash 11 support and tabbed browsing.</paragraph>
+			<paragraph>The tabs are kept in a bar on top, much like on a desktop browser. The address bar and search bar are incorporated in a single field - typical Android - which scores another point for the Galaxy Tab 2 7.0.</paragraph>
+			<paragraph>Bookmarks and History have their own screen with a split-screen interface. In History you can check the pages browsed today, yesterday or over the past week. There's also a most visited and today tabs.</paragraph>
+			<paragraph>Synchronizing the browser with your desktop Google Chrome doesn't need any extra software - you check a box in the settings menu and you are done.</paragraph>
+			<paragraph>There's also auto-complete for forms and passwords.</paragraph>
+			<paragraph>A neat feature allows you to access quick page controls (back, forward, refresh, bookmark etc.) by a swiping gesture performed near the right edge of the screen.</paragraph>
+			<paragraph>As for the Flash performance - the Galaxy Tab 2 7.0 does great at 360p, 480p and 720p videos right in the browser. Flash games run well too.</paragraph>
+			<paragraph>By the way, if you find Flash content to slow down your page load times or cause panning stutter, you can switch it to on-demand in the settings menu (or even turn it off all together).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer has you fully covered<subsectionTitle>
+			<paragraph>A good set of organizer apps are available on the Samsung Galaxy Tab 2 7.0, including the Polaris Office with both viewing and editing documents enabled. It has a nice user interface and solid file management. It supports both internal and web storage (via Box.net).</paragraph>
+			<paragraph>Viewing and editing word documents, spreadsheets and Power Point files is hassle-free. There's a PDF reader in the bundle as well.</paragraph>
+			<paragraph>Printing options are also available.</paragraph>
+			<paragraph>The calendar has five different types of view: daily, weekly and monthly.</paragraph>
+			<paragraph>Adding a new event is quite straightforward and you can also set an alarm to serve as a reminder.</paragraph>
+			<paragraph>The calculator app is nicely touch optimized with huge, easy to hit buttons.</paragraph>
+			<paragraph>The Alarm app is optimized for big-screen use and is pretty intuitive. You can set multiple alarms.</paragraph>
+			<paragraph>The World Clock app is full of eye-candy. You get an animated globe where you can pick time zones or cities, there are country flags, day and night animations, etc.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Applications<subsectionTitle>
+			<paragraph>There's a bundle of custom apps provided by Samsung on the Galaxy Tab 2 7.0: My files, S Memo and Photo editor.</paragraph>
+			<paragraph>The S-Memo is a pretty simple application for taking notes with sticky-note-like interface. In addition to the text it allows you to draw pictures and offers some extra options such as color, background, etc.</paragraph>
+			<paragraph>My Files is a familiar app - it's the nicely functional Samsung file manager.</paragraph>
+			<paragraph>Finally, the Photo Editor offers some basic picture edition tools - selections, rotate, resize, crop, color effects and adjustments, etc.</paragraph>
+			<paragraph>There is a video editor app as well. It covers all the basics - trimming, merging, transitions and effects.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and unlimited navigation, in supported countries<subsectionTitle>
+			<paragraph>The Samsung Galaxy Tab 2 7.0 comes with a GPS receiver, which got a satellite lock in under two minutes with A-GPS turned off. A-GPS can speed this up quite a bit, but requires Internet access. We didn't experience any issues with signal reception.</paragraph>
+			<paragraph>The Galaxy Tab 2 7.0 comes with Google Maps and Navigation. Voice-guided navigation has become a viable solution since the v5.0 update. Vector maps are smaller and way easier on your data plan and 3rd party SatNav apps are in danger.</paragraph>
+			<paragraph>For now though, turn-by-turn voice guidance using Google Maps Navigation is only available in select countries and unless you live in one of them, the best you can do is plan a route in advance and keep an eye on your current location during travel.</paragraph>
+			<paragraph>Quite naturally, the app also supports the Street View mode. If it's available in the area you're interested in, you can enjoy a 360-degree view of the surroundings. When the digital compass is turned on it feels like making a virtual tour of the location.</paragraph>
+			<paragraph>If Google Maps Navigation doesn't do it for you, you can grab an alternative app from the Android Market - there are both free and paid ones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play has the apps, the Hubs have the books and the music<subsectionTitle>
+			<paragraph>The Android market, now called Google Play, is the fastest growing app repository around, so you can be sure that you won't be having a shortage of software to install on your Galaxy Tab 2 7.0. True, some apps aren't designed to work on a WXGA screen, but most scale well, so the only thing you have to worry about is finding enough time to enjoy all those apps.</paragraph>
+			<paragraph>The new design makes it easier for you to find the quality apps. There are featured apps, editors' picks and staff-recommended apps in addition to the usual top free and top paid.</paragraph>
+			<paragraph>The top new paid and top new free lists are worth checking out too and you shouldn't forget the trending apps. Naturally, there is a built-in search and categories for the different types of apps so you don't get lost. Recommendations are also based on your location to make it even easier to spot a quality app in the new Android market.</paragraph>
+			<paragraph>And if by some reason, this app repository on the market isn't enough for you, you might want to check out some of the alternatives. Amazon has set up its own appstore and so has Opera, plus a few more minor app stores here and there. The available choice is one of the best parts of the open platform.</paragraph>
+			<paragraph>Samsung's own store called SamsungApps is also on board. There you can get some select free apps for your tablet.</paragraph>
+			<paragraph>Music Hub is here too. It has quite the music collection and the prices are pretty much the same as on the iTunes Store.</paragraph>
+			<paragraph>Another interesting store is the Readers Hub. There you can purchase subscriptions (or single issues) of newspapers (PressDisplay service), magazines (Zinio service) and e-Books (Kobo service). It's really comfy to have this entire functionality in a single reading app - good job, Samsung!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Entry into the realm of Android tablets can hardly get any easier than with the Samsung Galaxy Tab 2 7.0 in your hands. The tablet offers a capable hardware and solid build quality, to go with a low price tag for the entry-level model. The camera is decent, despite the small sensor, while the TouchWiz-ed Android Ice Cream Sandwich offers one of the most polished software experiences with Google's own OS.</paragraph>
+			<paragraph>Of course, not everything about the slate is perfect with the most notable letdown being the PLS LCD display. It is far from being the greatest around. At this price point however, expecting anything more would simply not make sense.</paragraph>
+			<paragraph>Like we already mentioned to you, the Samsung Galaxy Tab 2 7.0 is aggressively priced at $249.99 for the entry-level version with 8GB of built-in memory. The entry-level price point has become increasingly popular with manufacturers lately, so here are a couple of other options.</paragraph>
+			<paragraph>The most obvious alternative to the Samsung offering is the Amazon Kindle Fire. Priced at $199.99, it is cheaper and offers the same internals as the Samsung slate, coupled with a better screen. The lack of camera and expandable memory however should make you think twice about grabbing one of those. Not to mention the restricted, non-Google Play supporting version of Android 2.3 Gingerbread, which the Kindle Fire boots.</paragraph>
+			<paragraph> Amazon Kindle Fire</paragraph>
+			<paragraph>The Acer Iconia Tab A100 is from last year's crop of 7" tablets. It costs as much as the Samsung, but packs NVIDIA Tegra 2 silicon. If you look hard enough, you can find this one at a serious discount so it might be worth a look.</paragraph>
+			<paragraph> Acer Iconia Tab A100</paragraph>
+			<paragraph>The Google Nexus 7 is also a mighty good option. Quad-core CPU, bundled with a bag full of jelly beans sounds great to us. If you are an Android purist, this should be your top choice. Keep in mind however, that the Asus-made tablet lacks expandable memory, which might turn out a rather big deal. Also, TouchWiz user interface is much more user friendly than the stock Android one.</paragraph>
+			<paragraph> Asus Google Nexus 7</paragraph>
+			<paragraph>More participants in the segment of entry-level tablets are bound to enter in the coming months - most manufacturers have realized that trying to beat Apple's iPad in the $500 price range is not as easy as it might have seemed. The Samsung Galaxy Tab 7.0 2 is not exactly the most powerful option around, but thanks to it overall polished nature, is surely bound to appeal to many.</paragraph>
+		</subsection>
+	</page>
+</review>

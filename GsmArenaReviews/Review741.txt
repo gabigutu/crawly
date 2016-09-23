@@ -1,0 +1,117 @@
+<review>
+	<title>Samsung Galaxy J2 (2016) preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_j2_2016_-review-1462.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy J2 (2016) at a glance:<subsectionTitle>
+			<paragraph>Android 6.0.1 Marshmallow</paragraph>
+			<paragraph>5.0-inch 720p Super AMOLED display</paragraph>
+			<paragraph>Quad-core 1.5GHz Spreadtrum SC9830 processor</paragraph>
+			<paragraph>1.5GB RAM, 8GB expandable storage</paragraph>
+			<paragraph>8 megapixel rear camera with LED flash, 5 megapixel front camera</paragraph>
+			<paragraph>Dual SIM support</paragraph>
+			<paragraph>LTE Cat4 150/50 Mbps with VoLTE</paragraph>
+			<paragraph>Smart Glow, Turbo Boost Technology, S bike mode, Ultra data saving mode courtesy Opera Max</paragraph>
+			<paragraph>2600mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The 2016 Galaxy J2 is Samsung's latest budget Android device. It is the successor to last year's Galaxy J2 and improves upon it in several areas, most predictably in the specification department. However, Samsung has also added some new features, such as the Smart Glow, a unique ring LED notification light around the rear camera that lights up in various colors, and also S Bike mode, and something Samsung calls Turbo Boost Technology.</paragraph>
+			<paragraph>The phone runs the latest Android with a clean UI, which Samsung doesn't call TouchWiz, but instead refers to The New User Interface. The Ultra data saving mode is more than welcome however and the mobile data saving technology has been integrated on a system level so it can potentially work for all apps - not just for web browsing.</paragraph>
+			<paragraph>Will all this be enough for the phone to survive in the fiercely competitive budget Android phone market? We took a quick look at the device to find out.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The J2 looks similar from the front to most recent Samsung phones, with the familiar physical Home key at the bottom flanked by capacitive keys. The corners are bit more curved on this device, which makes it more comfortable to hold. The edge around the front is slightly raised over the display and has a chrome-like finish.</paragraph>
+			<paragraph>The back of the phone, however, is all new and, unlike any other Samsung phone. Although the camera, loudspeaker, and flash are in familiar positions, there is a striated band running across below them with the Samsung logo on it. The lines then bend near the edge and run across the sides.</paragraph>
+			<paragraph>The key design feature, however, is the Smart Glow LED ring around the camera. While we will talk about the software side of it later but from a design point of view, the ring sits flush with the back of the phone with only a gentle bump for the camera lens. There are four LEDs hidden into the ring, and they can light up with any color from the RGB spectrum.</paragraph>
+			<paragraph>While it does look fancy, the Smart Glow LED ring's main purpose is to serve as a notification light. The problem with that is its location on the back of the phone. As you can already guess, you can't readily spot it when the phone is lying on the back, which is usually the normal way to keep your phone.</paragraph>
+			<paragraph>The only way to see the LED ring light up is by having the phone face down. It's worth noting that this is the only notification system on the phone, as there isn't an LED on the front, and the phone doesn't support Ambient Display mode.</paragraph>
+			<paragraph>Aside from that, the build quality and finish on the phone are a bit disappointing. The phone feels overwhelmingly plasticky, and the plastic also flexes a bit around the back, particularly around the flash. This isn't a premium device, but it doesn't even try to hide its price category.</paragraph>
+			<paragraph>Having said that, Samsung phones are known to be reliable despite their plasticky appearance, so you probably don't need to give it the kid glove treatment.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The J2 has a 5.0-inch 1280x720 Super AMOLED display. Resolution aside, the display is quite nice. The colors and contrast are great, and so are the viewing angles. It also gets reasonably bright. Samsung ships it with its four display modes so that you can adjust the color to your liking.</paragraph>
+			<paragraph>The display is covered by a scratch-resistant glass (which we got to test with a knife) even if Samsung doesn't specify its type. Unfortunately, there is no oleophobic coating on it, which means it always looks like a mess, ruins the selfie camera images, and makes the phone look particularly cheap. Also, the touchscreen only supports 2 point multi-touch, so if you start typing quickly you will find the display has a hard time keeping up with you.</paragraph>
+			<paragraph>The J2 also lacks an ambient light sensor for automatic screen brightness. Samsung includes an 'Outdoors mode' that puts the screen's backlight into overdrive, beyond what you can achieve with a manual slider but you have to set it up manually each time.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The Galaxy J2 (2016) ships with a new version of Samsung's skin running on top of Android 6.0.1 Marshmallow. It has what Samsung calls 'Turbo Boost Technology', which is a combination of lighter native apps and services, proactive app management, and intelligent memory control that all combine in an effort of improving the user experience.</paragraph>
+			<paragraph>The launcher has been updated with a new app drawer, which is now a vertically scrolling list, just like in the Google Now Launcher. Samsung has dropped many of the app drawer features here, such as the ability to create folders and manually rearranging apps.</paragraph>
+			<paragraph>The key feature of the phone is the Smart Glow, which gets an app of its own. Here you can control the functions related to the LED ring on the back. Smart Glow app lets you enable the ring light for three features: Priority Alerts, Usage Alerts, and Selfie assist.</paragraph>
+			<paragraph>In Priority alerts, you have four slots, and you can fill them up with an app or contact of your choice. If you get a notification from that app or contact, the LED ring on the back will glow.</paragraph>
+			<paragraph>The other function is Usage alerts. Here you can enable the lighting for things like low battery, excess data usage, and low storage.</paragraph>
+			<paragraph>Lastly, there is something called Selfie assist, and it's meant to help you frame a selfie shot with the rear camera. You can point the rear camera towards you, and the ring will guide your framing by blinking so you know which direction to move your camera. When your face is in the center of the frame, the entire ring will light up in blue before taking the picture. Or you could just, you know, use the front camera.</paragraph>
+			<paragraph>We like the general concept of having such configurable notification light on the back of a smartphone, but the Smart Glow implementation is quite limited in features to be properly useful.</paragraph>
+			<paragraph>The LED ring doesn't double as a notification LED like on any other phone, and it won't glow for just about any app or notification - only one of the four apps or contacts specified in the Priority alerts list can make the light glow. Once you get over that absurdity, you might find some solace in the fact that the four apps/contacts can have custom RGB lighting so that you can choose a specific hue for each of them.</paragraph>
+			<paragraph>For the rest of the apps you don't get any light at all even if you download an app like Light Flow as Samsung has not provided an API for devs to access the Glow light controls.</paragraph>
+			<paragraph>Another thing to remember is that the light will blink only up to three times and would then stop completely, so if you missed spotting, you are out of luck.</paragraph>
+			<paragraph>Another addition on this phone is Smart Notifier. It splits your notifications into four sections: All, Priority, Utility, and Social. You can choose which apps fall under which section and then those notifications will only show up there. It reduces clutter in your notifications and lets you organize them better.</paragraph>
+			<paragraph>Samsung also added some lockscreen shortcuts. By swiping from the icon in the center, you get four shortcut icons for the radio, calculator, mirror (turns on the front camera), and flashlight. We couldn't find a way to customize these, but you can customize the phone and camera icons in the corners and also disable them.</paragraph>
+			<paragraph>Other than that there is the S bike mode that Samsung introduced on the J5 and J7 to help cyclists and motorcycle riders have an uninterrupted ride. Whenever the mode is active, a pre-recorded message will let your callers know you are on the bike right now and that it would be hard to pick up. They can press 1, if it's urgent, and the call will be sent through to the phone but you can only answer once you pull over and you're stationary.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>There is also the Ultra data saving mode, which uses Opera Max to compress all data, including over Wi-Fi, by routing it through Opera's VPN service. It not just compresses browser data but also videos and now audio over music streaming apps as well. Samsung claims up to 50% data saving using this mode.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The phone also comes with a boatload of Microsoft apps, including the full Office suite, OneDrive, OneNote, and Skype. That's good unless you don't plan on using those as they take up some of the limited storage on the phone and cannot be uninstalled.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Samsung Galaxy J2 (2016) runs on the Spreadtrum SC9830 SoC, with a quad-core ARM Cortex-A7 CPU clocked at 1.5GHz and Mali-400 MP2 GPU. You also get 1.5GB of RAM and 8GB internal storage, which is expandable with microSD or OTG device for media files only.</paragraph>
+			<paragraph>In terms of connectivity, there is dual SIM (micro) support with LTE and VoLTE, Wi-Fi, Bluetooth, and A-GPS. The phone misses out on NFC (so no Google Pay). There is not even a magnetometer or a gyroscope so using VR tech such as Google Cardboard would not be possible.</paragraph>
+			<paragraph>As for the actual real-life performance, Samsung's claims fall flat. You realize the performance enhancement features aren't a luxury but more of a necessity to mask the inadequate hardware. The truth is that the Spreadtrum chipset just does not have enough power. This shows in the phone's performance, which often stutters in several places in the UI.</paragraph>
+			<paragraph>To give you an example, the phone is almost unusable with Snapchat's extremely popular camera filters, as the processor simply does not have enough power to render the real-time virtual effects.</paragraph>
+			<paragraph>Gaming is also a no-go, unless you are into light 2D gaming, and even then you might see an odd stutter here and there.</paragraph>
+			<paragraph>Samsung also had to employ some aggressive app management to make up for the limited 1.5GB RAM. But there is nothing they could do to make up for the lack of storage. The phone has 8GB internal storage, of which only about 1.4GB is available to the user. You then have a measly amount of storage left for your own apps. Even though there is microSD support and the phone runs on Marshmallow, you cannot format a memory card as internal storage to extend the storage space, so you really are stuck with the 1.4GB for your apps, which runs out faster than you can spell out the phone's full name. Moving apps to the SD is an option to alleviate the situation but that's a hassle.</paragraph>
+			<paragraph>In case you are interested in the benchmark numbers, we have those as well:</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Galaxy J2 (2016) has some fairly standard cameras, with an 8 megapixel shooter on the back and a 5 megapixel sensor on the front. There is an LED flash on the back but there isn't one on the front like some of Samsung's other budget phones.</paragraph>
+			<paragraph>The rear camera quality is passable. At first glance, the images look decent, good even. Upon closer inspection you realize there is not much detail in them, as it's mostly smeared by the noise reduction algorithm. This leaves the images looking very soft when you zoom right in. The dynamic range is also not impressive and there is no HDR mode available. Fortunately, the colors look alright and the autofocus also works reliably most of the time. The camera is also quick to start thanks to the universal double tap Home button gesture.</paragraph>
+			<paragraph>The video recording is similarly passable. It's limited to 720p but good enough to view on the phone's display or share to social media. There is no image stabilization, however, so handheld videos look shaky.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery Life<subsectionTitle>
+			<paragraph>The 2016 Galaxy J2 has a 2600mAh removable battery. We didn't do a full battery life test but in our usage we got around one full day of use with 4-5 hours of onscreen time. The phone lacks fast charging and takes about three hours to charge completely.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Verdict<subsectionTitle>
+			<paragraph>The 2016 Galaxy J2 looks to be a product of some blatant cost cutting. The fact that it comes from a reputable brand that knows how to make an affordable phone likable doesn?t help much either.</paragraph>
+			<paragraph>The Smart Glow puts a novel spin on the smartphone notification system, yet the feature is underdeveloped with limited features and functionality. Having it on the back of the phone is a questionable decision, to begin with.</paragraph>
+			<paragraph>The AMOLED display is certainly a key selling point but it gets covered in smudges in no time due to the lack of an oleophobic coating and subjectively, it?s quite hard to keep clean.</paragraph>
+			<paragraph>The Spreadtrum chipset is disappointing in terms of performance and even the leaner software can?t help its case. The limited built-in storage on the phone also means downloading new apps from the Play Store will be a huge hassle even if you purchase an extra microSD card.</paragraph>
+			<paragraph>The lack of an ambient light sensor is a nuisance but the lack of a magnetometer (compass) and gyroscope would mean there is no chance you could get Google VR working on this one.</paragraph>
+			<paragraph>To sum up, the Samsung Galaxy J2 doesn?t strike us as a good deal. The industry has changed and Chinese smartphones are everywhere. They are aggressively priced and have a set of features, which can easily make the J2 2016 look outdated and outclassed. Owning the lower end would certainly take more budget and effort than what has gone into the making of the Galaxy J2 (2016) and we hope to see Samsung back to the drawing board and one-upping the competition.</paragraph>
+		</subsection>
+	</page>
+</review>

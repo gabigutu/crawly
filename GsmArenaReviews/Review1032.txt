@@ -1,0 +1,82 @@
+<review>
+	<title>Acer at IFA 2016</title>
+	<description>Liquid Z6 and Z6 Plus hands-on</description>
+	<link>http://www.gsmarena.com/acer_at_ifa_2016-review-1489.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Acer Liquid Z6 at a glance<subsectionTitle>
+			<paragraph>Display: 5.0" LCD screen, 720 x 1,280px resolution (294ppi)</paragraph>
+			<paragraph>OS: Android 6.0 Marshmallow</paragraph>
+			<paragraph>Platform: MT6737 chipset (4x Cortex-A53 at 1.25GHz, Mali-T720MP2); 1GB of RAM and 8GB storage; microSD slot</paragraph>
+			<paragraph>Camera: 8MP sensor, autofocus, LED, 1080p video at 30fps</paragraph>
+			<paragraph>Selfie cam: 2MP</paragraph>
+			<paragraph>Connectivity: Single or Dual-SIM; LTE Cat. 4 (150Mbps down, 50Mbps up); FM radio</paragraph>
+			<paragraph>Battery: Removable 2,000mAh Li-Ion</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Acer Liquid Z6 at a glance<subsectionTitle>
+			<paragraph>Display: 5.5" IPS screen, 1,080 x 1,920px resolution (401ppi)</paragraph>
+			<paragraph>OS: Android 6.0 Marshmallow</paragraph>
+			<paragraph>Platform: MT6753 chipset (4x Cortex-A53 at 1.3GHz, Mali-T720MP3); 3GB of RAM and 32GB storage; microSD slot</paragraph>
+			<paragraph>Camera: 13MP sensor, autofocus, LED, 1080p video at 30fps</paragraph>
+			<paragraph>Selfie cam: 5MP</paragraph>
+			<paragraph>Connectivity: Single or Dual-SIM; LTE Cat. 4 (150Mbps down, 50Mbps up); FM radio</paragraph>
+			<paragraph>Battery: Removable 4,080mAh Li-Ion</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>While Sony unveiled high-end smartphones and Huawei focused on midrangers, Acer had the low-cost options. We saw three devices premiere at IFA: the Liquid Z6, Liquid Z6 Plus, and Iconia Talk S.</paragraph>
+			<paragraph>The Iconia Talk S is a tablet capable of making phone calls, but it wasn't available for hands-on at the Acer's booth. The Liquid Z6 and Z6 Plus were though, and we are giving them the proper close-up treatment.</paragraph>
+			<paragraph>Acer also introduced a very interesting StarVR goggles headset, which not only looks futuristic, but will be used in some innovative setups. More on that later.</paragraph>
+			<paragraph>Our hands-on coverage kicks off right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Acer Liquid Z6 hands-on<subsectionTitle>
+			<paragraph>Acer's Liquid Z6 is quite an affordable smartphone at ?119 and yet it seems to tick all the right boxes. The Z6 offers a very stylish and seamless design and while it is entirely made of matte plastic, it still looks beautiful.</paragraph>
+			<paragraph>The Liquid Z6 utilizes a 5" regular LCD panel of 720p resolution, and while its pixel density won't impress anyone, it's more than enough for a budget phone. The viewing angles are OK, the contrast is very good, and the colors look punchy. The screen is covered with the trending 2.5D glass, but there was no word on extra protection qualities.</paragraph>
+			<paragraph>The Z6 runs on the MT6737 chip with a quad-core 1.25GHz Cortex-A53 processor, Mali-T720MP2 GPU, and 1GB of RAM. This sounds about right for a budget phone and the lightweight Marshmallow should be behaving. Heavy-duty games are out of the question, but you should be fine with anything else.</paragraph>
+			<paragraph>The rest of the Liquid Z6 specs include 8 gigs expandable storage, an 8MP main camera, a 2MP selfie cam and a 2,000mAh battery.</paragraph>
+			<paragraph>The Z6 is very compact and lightweight and fits great in every pocket. Handling it revealed no surprises - fingerprints stick on the front glass, but the matte plastic isn't prone to them.</paragraph>
+			<paragraph>There are no surprises in the control set of the Liquid Z6 either - there are three capacitive keys below the screen, volume and power keys around the sides, and the mandatory microUSB port and (still) 3.5mm jack.</paragraph>
+			<paragraph>The Liquid Z6 will be released this November in the EMEA region at ?119 ($130).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Acer Liquid Z6 Plus hands-on<subsectionTitle>
+			<paragraph>The Acer Liquid Z6 Plus is an impressive upgrade over the regular Z6 and if it wasn't the mediocre chipset we might have considered it a proper midranger.</paragraph>
+			<paragraph>The Z6 Plus is made of metal which is a perk in that price bracket. There are noticeable plastic strips around the back to hide the antennas, which stand out a little unpleasantly.</paragraph>
+			<paragraph>The Acer Liquid Z6 Plus, as the name suggests, is the bigger one with a 5.5" IPS 1080p display, enhanced with a 2.5D curved glass. It is powered by a snappier MT6753 chip with a quad-core 1.3GHz Cortex-A53 CPU, Mali-T720 GPU, and 3GB of RAM.</paragraph>
+			<paragraph>There are other upgrades too, worth the extra cash and the Plus moniker. The Liquid Z6 Plus comes with 32GB of expandable storage, a fingerprint scanner, a 13MP main camera, a 5MP selfie shooter, and a beefy 4,080mAh battery.</paragraph>
+			<paragraph>The IPS matrix upgrade allows for better viewing angles and greater contrast, while the colors look even punchier. The screen bezels are nothing to talk about, but we like the accented Home key, which doubles as fingerprint scanner.</paragraph>
+			<paragraph>The battery is sealed, quite expectedly because of the metal shell, and once again no surprises in the layout of the phone's controls.</paragraph>
+			<paragraph>Handling the Liquid Z6 Plus is a pleasure given its metal exterior. It's big at 5.5" and yet single-handed operation is comfortable enough. The thin shell helps the handling too, but the grip is compromised by the curved profile.</paragraph>
+			<paragraph>Indeed, Acer upped the screen size and resolution, upped the camera resolution on both sides, there is a faster processor and GPU, triple the RAM, double the storage and double the battery.</paragraph>
+			<paragraph>The substantial upgrade has its cost though - the phone will be sold in the EMEA region starting December for ?249 ($280).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Acer Predator 21 X hands-on<subsectionTitle>
+			<paragraph>Acer didn't bring just smartphones at IFA - the company is among the biggest PC makers worldwide and one of the main focuses at IFA were the new Windows 10 notebooks. The most interesting one is the Predator 21 X with a curved display aimed at the serious, on-the-go gamers.</paragraph>
+			<paragraph>There's no doubt that the Predator 21 X is a monster. It's the first gaming laptop to sport a 21" curved IPS display of 2560 x 1080px and its dual Nvidia GeForce GTX 1080 GPUs support the awesome G-Sync technology. The CPU options include the latest 7th-gen Intel Core K-series.</paragraph>
+			<paragraph>Inside the belly of the beast is space for up to 64GB of DDR4 RAM and four terabytes of SSD storage. This machine isn't light, at near 8 kilos, but we guess that was to be expected. It was designed to be moved easily, not to be light on your lap.</paragraph>
+			<paragraph>It's heavy and there are other goodies to blame for that too - Tobi eye-tracking, LED RGB mechanical keyboard with CherryMX switches and a SoundPound2+ sound system (4 speakers and 2 subwoofers). The list of cool features goes on with a numpad that flips over to become a touchpad, a large window that shows off a few of the five cooling fans.</paragraph>
+			<paragraph>You bet Acer brought the Predator 21 X at IFA and it looks, well, alien. It's impressive however you look at it, and while it is heavy, it offers uncompromising gaming experience and a ton of coolness.</paragraph>
+			<paragraph>Each Predator 21 X will be made to order and shipping starts in January, 2017. Pricing is yet to be detailed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Acer StarVR hands-on<subsectionTitle>
+			<paragraph>Acer collaborated with Starbreeze and IMAX for a new breed of VR headset. Acer didn't want to compete in the home VR experience segment and instead jumped on the public entertainment, such is the IMAX.</paragraph>
+			<paragraph>This new StarVR will be available in the LA's IMAX VR Center, which will have a grand opening this year. This is just the first experience center of many others to follow soon after.</paragraph>
+			<paragraph>As you can see StarVR isn't even targeting the end users, instead Acer wants to ship it directly in mass batches to businesses.</paragraph>
+			<paragraph>The StarVR has 5K resolution and offers a 210-degree field-of-view. It looks really good and is almost like having a full peripheral vision at your disposal, blur-free. The effect is achieved by two different panels positioned at a specific angle and a sophisticated set of lenses.</paragraph>
+			<paragraph>Instead of two individual ocular lenses, the headset has just one big viewport for your eyes, like a ski mask. Interestingly, the seam between the two panels is barely noticeable, but it's there.</paragraph>
+			<paragraph>The good news is that the headset is quite lightweight.</paragraph>
+			<paragraph>Currently the headset supports only head-tracking, but Acer says it is experimenting with room-tracking and even other sensors. Right now they are testing a shotgun accessory with tracking and shooting.</paragraph>
+			<paragraph>It seems Acer's experiments may indeed succeed into blurring the line between the spectator and participant in movies and games, but we are yet to experience that. Then again, the first game centers utilizing the headset will open later this year - we can't wait to try one of these in action.</paragraph>
+		</subsection>
+	</page>
+</review>

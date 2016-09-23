@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Emily's D+Evolution</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Emily_s_D_Evolution/19266955</link>
+	<generalScore>7.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>21</numberOfVoters>
+		<numberOfVoters>28</numberOfVoters>
+		<numberOfVoters>26</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Schizophrénie Musicale</title>
+		<author>Paul Roy</author>
+		<date>2016-04-01</date>
+		<score>0.8</score>
+		<content>C’est le retour de la meilleure nouvelle artiste des Grammy’s Awards de 2011. La contrebassiste de 31 ans revient avec son album aux sonorités rock, blues et jazz. Sortie de la prestigieuse Berklee College of Music, le talent de l’américaine ne fait que de se confirmer au fur et à mesure des albums. Emily’s D+Evolution est dans la lignée des excellents Chamber Music Society (2010) et Radio Music Society (2012). La différence dans celui-ci est que Esperanza Spalding semble s’éloigner, sans pour autant marquer une rupture, avec ses influences jazzy d’origine pour se tourner vers un style plus electro-funk. Plus qu’un simple album musical sorti de la tête de l’artiste, cet album est un véritable trip psychédélique à l’intérieur de l’esprit de la muse spirituelle de Spalding. Elle décrit elle-même cette « muse » comme un guide intérieur, une seconde personnalité qu’elle introduit au sein d’un projet musical pour « développer les envies non cultivées de son passé ». Ainsi, on ne semble pas entendre Esperanza Spalding mais Emily Spalding. Schizophrénique et déroutant, le premier titre Good Lava met en exergue le génie instinctif musical de la compositrice. Histoire d’une jeune femme au flow se comparant à la lave d’un volcan sur une musique résolument rock. Pour la suite des morceaux, on pourra noter que l’américaine forge, avec un swing et un style incomparable, le personnage de Emily. Elle nous attire irrémédiablement à la suivre à travers les méandres de son esprit. Elle décrit également cet album comme un moyen pour elle de « créer un monde autour de chaque chanson », comme une histoire incroyable à développer à travers la musique. On ressent toutes les influences jazz déterminantes dans la création de l’artiste dans un titre comme One ou encore comme le dernier titre de l’album I Want It Now. On appréciera encore plus la voir en concert grâce à la mise en scène des chansons « a*utant que nous les jouons en habitant un personnage* ». Un concert est notamment disponible en ligne. Esperanza Spalding décrit également sa musique comme une fusion entre une musique basée sur les codes bien acquis du jazz et une autre plus électronique aux influences plus modernes. Loin de l’ensemble des codes commerciaux qui marquent de leurs empreintes la musique, elle ne désire être jugée que sur sa musique et non pas sur ce qu’elle appelle son « over sex appeal ». Elle est en soit, un concentré de talent à l’état pur qui ne mérite que d’être reconnu à sa juste valeur. Chronique disponible sur ALCHIMY</content>
+	</review>
+	<review>
+		<title>Emily's D+Evolution</title>
+		<author>Victor Blutch</author>
+		<date>2016-08-11</date>
+		<score>0.6</score>
+		<content>Emporté par des expériences musicales et une facture opératique, notamment grâce à la voix tout en arias d'Esperanza Spalding, cet album charme. Mais il n'écrit pas à la surface des sens une profondeur suffisante pour excéder son seul projet.</content>
+	</review>
+</sensCritiqueEntity>

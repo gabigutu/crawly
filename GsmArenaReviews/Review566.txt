@@ -1,0 +1,320 @@
+<review>
+	<title>Huawei Ascend Mate2 4G review</title>
+	<description>Value king</description>
+	<link>http://www.gsmarena.com/huawei_ascend_mate2_4g-review-1102.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>6.1" 720p IPS+ LCD display with Gorilla Glass 3, usable with gloves; 79% screen to body ratio</paragraph>
+			<paragraph>Android 4.3 Jelly Bean with Emotion UI 2.0</paragraph>
+			<paragraph>1.6GHz Cortex-A7 quad-core CPU, Adreno 305 GPU; Qualcomm MSM8928 Snapdragon 400 chipset; 2GB of RAM</paragraph>
+			<paragraph>16GB of built-in storage; microSD card slot; 20GB of free Bitcasa cloud storage for 2 years</paragraph>
+			<paragraph>13MP Sony BSI camera with LED flash, 1080p video recording; 5MP front-facing unit</paragraph>
+			<paragraph>3,900mAh battery; ability to charge other devices via a dedicated cable</paragraph>
+			<paragraph>FM radio</paragraph>
+			<paragraph>Attractive pricing without carrier contract</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Android 4.3 is already an outdated OS choice in mid-2014</paragraph>
+			<paragraph>Emotion UI 2.0 might not fit all tastes</paragraph>
+			<paragraph>No changes in design since the previous generation</paragraph>
+			<paragraph>No NFC</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Huawei Ascend Mate2 4G is a landmark for the manufacturer in the United States. The 6.1" LTE phablet is the first device, which the company will offer in the country as a standalone OEM, via its own online store, without partnering with a wireless carrier. The device offers mid-range specs, coupled with a large IPS display, a monstrous 3,900mAh battery, and affordable pricing sans carrier commitment.</paragraph>
+			<paragraph>Indeed, the Huawei Ascend Mate2 4G is strictly a niche product in today's Android smartphone landscape, but its manufacturer is comfortable with such state of affairs.</paragraph>
+			<paragraph>The large 3,900mAh battery is a standout in the phablet's spec sheet. Coupled with the power-sipping chipset and the display with low resolution by today's flagship standards, it promises to make the Huawei Ascend Mate2 4G a stellar choice for power users on a budget.</paragraph>
+			<paragraph>The presence of Android 4.3 Jelly Bean (or rather the lack of the more recent Android 4.4 KitKat) out of the box is a major question mark. Huawei is one of the largest smartphone manufacturers globally and few competitors have the resources that the Chinese giant possesses. Therefore, it is difficult to comprehend why the Ascend Mate2 4G doesn't boot the latest Android build.</paragraph>
+			<paragraph>Emotion UI 2.0 might not suit all tastes either. The colorful, texture rich user interface is the exact opposite of today's increasingly fashionable, flatter-looking custom Android solutions. It also lacks the traditional app drawer - which seems to be a trend among Chinese manufacturers.</paragraph>
+			<paragraph>At first glance, the Huawei Ascend Mate2 4G fully lives up to its manufacturer's claim that it is a niche product. We are now going to find out if it is worthy of being on your shopping list. As always, we will kick the review off with unboxing, followed by design and build quality walkthrough.</paragraph>
+			<paragraph>Editorial: You may notice that this review is shorter than usual and doesn't include some of our proprietary tests. The reason is it has been prepared and written away from our test labs. Still, we think we've captured the essence of the device in the same precise, informative and detailed way that's become our trademark. Enjoy the good read!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G ships in a sleek-looking retail box which contains only the basics. The handset comes bundled with a charger, microUSB cable and some paperwork.</paragraph>
+			<paragraph>A pair of bundled headphones bundled with the phablet would have certainly been appreciated. Considering the budget nature of the device though, we don't see their lack as a deal-breaker.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design, build quality, handling<subsectionTitle>
+			<paragraph>Depending on one's worldviews, the design of the Huawei Ascend Mate2 4G can be described as either utilitarian, or just plain dull. Regardless how you look at it, the phablet will certainly not wow you with its appearance.</paragraph>
+			<paragraph>Like its predecessor, the handset is available in two color schemes - black and white. The former is definitely the stealthier option, while white will surely appeal to those who like a flashier alternative.</paragraph>
+			<paragraph>Build quality of the device is nothing short of exceptional. The body of the Huawei Ascend Mate2 4G is superbly well crafted from high-quality polycarbonate, while its display is entirely covered by Corning Gorilla Glass 3.</paragraph>
+			<paragraph>The physical measures of Huawei Ascend Mate2 4G are 161 x 84.7 x 9.5 mm, while its weight tips the scale at 202 grams. The phablet is slightly more compact, but a tad heavier than its predecessor, the Huawei Ascend Mate (163.5 x 85.7 x 9.9 mm and 198 grams).</paragraph>
+			<paragraph>Handling the Huawei Ascend Mate2 is unsurprisingly manageable, though far from perfect. The phablet has a fine texture on its back, so it is not overly slippery. It has one-hand screen mode as well, though we reckon that the best way to handle it is with two hands.</paragraph>
+			<paragraph>The power/lock key is easily reached with one hand on the right side of the device. The same goes for the volume rocker.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G totes a 6.1" IPS+ LCD display with a resolution of 1280 x 720 pixels. Its pixel density comes in 241ppi - not mind-blowingly sharp, though respectable enough for a large-screen device with budget-friendly aspirations.</paragraph>
+			<paragraph>The screen is made with low temperature poly-silicon for power efficiency. It also boasts brightness control which adapts with the content on display.</paragraph>
+			<paragraph>Despite its far from impressive resolution by today's flagship device standards, the display of the Huawei Ascend Mate2 4G boasts impressive viewing angles with no color shift and only slight contrast loss thanks to its IPS nature. Contrast isn't too shabby either, especially considering the price tag of the phablet.</paragraph>
+			<paragraph>The screen has a dedicated mode for use with gloves too. It is activated via a switch in the settings menu.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The earpiece is located above the display. It is joined by the ambient light and proximity sensors, as well as the front-facing 5MP snapper. There is absolutely nothing under the display.</paragraph>
+			<paragraph>The power/lock key and the volume rocker are located on the right side of the device. There is nothing on the left side.</paragraph>
+			<paragraph>A 3.5mm audio jack and a microphone pinhole can be found on the top. The mouthpiece and the microUSB port sit on the bottom.</paragraph>
+			<paragraph>The back of the Huawei Ascend Mate2 4G is home to the 13MP Sony BSI camera, its single LED flash, a small latch to remove the thin cover, as well as the 1W speaker. A subtle Huawei logo keeps them company.</paragraph>
+			<paragraph>Removing the thin back cover of the device reveals the micro-SIM card slot and the microSD card slot. Both can be hot-swapped. The handset's battery is sealed and not removable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>We had high expectations toward the battery performance of the Huawei Ascend Mate2 4G and the handset delivered. The 3,900mAh battery unit of the device propelled it to the impressive endurance rating of 106 hours. This means that the Huawei Ascend Mate2 4G will make it through well over four days of usage if you go for an hour each of telephony, web browsing, and video playback daily.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The above endurance rating makes Huawei's phablet the longest lasting Android device we've tested to date. It barely lost to the Nokia Lumia 1520 in the battle for the overall crown, though it handily beat the Microsoft royalty in all disciplines, but the standby power consumption.</paragraph>
+			<paragraph>Our routine also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating. Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+			<paragraph>You can also use the phablet's battery to jumpstart and charge dead phones via a dedicated cable. The feature is quite neat and useful, not to mention it would give you a constant supply of tease rights against your friends with less enduring devices.</paragraph>
+			<paragraph>You can find out all about the battery performance of the Huawei Ascend Mate2 4G in our dedicated post.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G comes with quad-band 2G/GPRS/EDGE, penta-band 3G with HSDPA and HSUPA (up to 42Mbps downlink and 5.7Mbps uplink), as well as penta-band Category 4 LTE support (50 Mbps uploads and 150 Mbps downloads). You can use the device virtually anywhere in the world. It also works on both AT&amp;T and T-Mobile in the United States, as well as on the smaller virtual carriers which use their networks.</paragraph>
+			<paragraph>Local connectivity is covered by dual-band Wi-Fi a/b/g/n with DLNA, so you can easily play media (photos, videos, music) from DLNA-enabled storage devices or push content from your phone to a DLNA TV or music player.</paragraph>
+			<paragraph>Bluetooth 4.0 is also on board with A2DP, EDR, and LE. The microUSB 2.0 port supports USB host so you can attach USB flash drives or connect mice/keyboards.</paragraph>
+			<paragraph>GPS and GLONASS support is present. There's FM radio on board too.</paragraph>
+			<paragraph>The only major connectivity feature which is oddly missing is NFC.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G boots Android 4.3 Jelly Bean with the company's Emotion UI 2.0 on top. You can take a quick look of the device in action in the video below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is fairly busy. At its center is a circle with shortcuts in the four cardinal directions: simple unlock to the south, camera to the north, messaging to the east and dialer/call log to the west.</paragraph>
+			<paragraph>The upper area of the lockscreen displays the time and date. If the music player is running, the time and date are replaced by the music player controls.</paragraph>
+			<paragraph>Beyond the lockscreen is the Android homescreen with five customizable shortcuts docked at the bottom. The default selection is phone app, messages, mail, web browser and contacts but you can have any app really, or folders with multiple items, visible on all homescreens.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The homescreen<subsectionTitle>
+			<paragraph>There are nine homescreen panes at most - at least a couple of them will accommodate actual apps. In the absence of an app drawer, anything you install pops up on the homescreen. There're no shortcuts as such -the usual routine of removing icons (dragging them up to a recycle bin at the top of the screen) will uninstall the corresponding app.</paragraph>
+			<paragraph>The thing is fool-proof and you just can't accidentally uninstall essential apps like the gallery or email client.</paragraph>
+			<paragraph>The downside of the flat structure is you cannot get rarely used apps out of the way. Folders partially make up for that.</paragraph>
+			<paragraph>A pinch on the homescreen triggers the familiar Overview mode to let you check out and organize the homescreen panes currently in use, remove or add panes as you please. Alternatively, the overview can be displayed when you hit the Thumbnails shortcut in the menu that appears upon a tap and hold on a blank spot of the screen.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Widgets are available too - tap and hold on the homescreen, then choose Widgets. Of course, you can get third party widgets from the Play Store.</paragraph>
+			<paragraph>The menu displayed upon a tap and hold on the homescreen also lets you set wallpaper and homescreen transition effects.</paragraph>
+			<paragraph>Live, static and scrollable static wallpapers are supported. You can activate the Shake to change wallpaper setting, or turn on Random change and set a specific time interval (5 min, 15 min, 30 min, 60 min, and every day).</paragraph>
+			<paragraph>Themes are available as well. A theme will change your homescreen wallpaper, lockscreen style, system icons, system font and the sound profile. There are different lockscreen styles with different unlock gestures, time widgets and shortcut style and layout.</paragraph>
+			<paragraph>The notification area features up to nine toggles on a single side-swipeable row. Hitting More will reveal all the available toggles and you can choose which of the 15 toggles in total will feature on the top row.</paragraph>
+			<paragraph>The standard Android notifications stack up below the toggles. The notifications can be expanded or collapsed with a pinch gesture. You can also swipe to dismiss a notification.</paragraph>
+			<paragraph>A shortcut to the Settings Menu and a Dismiss All button are available in the top right corner of the notification area.</paragraph>
+			<paragraph>If the Music Player or FM radio apps are running in background, media player controls will be available in the notification area too.</paragraph>
+			<paragraph>The first toggle on the notification area is Profiles. Upon a tap, a virtual dial appears to choose the setting you need: Normal, Outdoor, Meeting, or Sleep. Each of them has predefined settings - you can't have your own presets or customize the available ones.</paragraph>
+			<paragraph>The Settings menu has two tabs. The first one is called General and offers only a limited set of settings Huawei thought you'll use most often. The other tab - All Settings - has the default Android list of settings plus a few extra additions by Huawei.</paragraph>
+			<paragraph>Another new setting is the Power Manager. It has three customizable modes - Smart, Normal and Endurance. You can configure each of those modes, setting up what apps run at startup, as well as which are allowed to run in the background and which aren't.</paragraph>
+			<paragraph>One hand operations allows you to move the screen unlock, dialer, and the keyboard left or right on the screen, depending on which hand you are using. It's a handy feature to have on such a big device.</paragraph>
+			<paragraph>The Suspend Button will give you a semi-transparent shortcut dial you can place wherever you like on the left or right side of the screen. The shortcuts available are calculator, gallery, messages and notes. The gallery and messages shortcuts will open the full-screen apps, while the calculator and notes launch a tiny widget-like application on top of the app you are currently running.</paragraph>
+			<paragraph>The task switcher's interface is the same as the stock Android Jelly Bean solution, but offers a few extra options. Each app thumbnail now has a dedicated close key (in addition to the default swipe to close gesture). There is also a "Kill all" key at the bottom that will terminate all running apps.</paragraph>
+			<paragraph>Users who find the default homescreen too busy can opt for a simple layout. The latter essentially turns the phablet into a glorified feature phone with large, easy to ready menu layout.</paragraph>
+			<paragraph>Overall, the user interface of the Huawei Ascend Mate2 4G is as feature-rich as we expected it to be. However, we can't help but frown at the look of Android Jelly Bean out of the box. Having such an outdated OS out of the box is inexcusable for the company with the size and the resources which Huawei has on tap.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G is powered by a Qualcomm MSM8928 Snapdragon 400 chipset with 1.6GHz quad-core Cortex-A7 CPU. The GPU is Adreno 305, while 2GB of RAM make sure that apps run without any hiccups.</paragraph>
+			<paragraph>GeekBench 3 and AnTuTu 4 are all-round benchmarks that test the entirety of the hardware build. In the first test - GeekBench 3 - the Ascend Mate2 scores a middling result.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 4<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Next up we have GFXBench's 2.7 T-Rex and 3.0 Manhattan. The device's performance is hardly impressive, though it performed in line with similarly equipped offerings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>BrowserMark 2.1 looks at HTML 5 performance, while Mozilla's Kraken 1.1 is JavaScript-centric. Once again, the handset showcased results which are in line with its price tag.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Basemark X is designed to put the Adreno 305 GPU to the test. It is fair to say that the device did not set the benchmark on fire.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X (anti-cheat)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II tests the overall CPU performance. Again, we witness a score which is typical for a Snapdragon 400-equipped device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (anti-cheat)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core. anti-cheat)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core. anti-cheat)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, the Huawei Ascend Mate2 4G didn't surprise us with its benchmark scores - it performed in line with similarly equipped offerings. It is worth noting that in real life, we didn't experience any performance hiccups with the handset - it ran every app we threw at it without breaking a sweat.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>The phonebook is laid out across three tabs that can be navigated by swipes. The one in the middle is the default tab, listing all contacts. Contacts are displayed with a name and a picture to the left. They can be sorted by first or last name and displayed with the first or last name first.</paragraph>
+			<paragraph>There's a permanent alphabet scroll on the right to jump straight to contacts starting with a certain letter. There's a regular search too.</paragraph>
+			<paragraph>Tapping on the contact image now brings up a tabbed popup. The tabs are phone and email with a list of the available numbers/addresses. These tabs can be swiped sideways too.</paragraph>
+			<paragraph>The single contact view top row has a star to favorite a contact, a pencil to edit it, and a Settings button that lets you share, copy or delete a contact as well as set the phone to redirect calls from that contact straight to voice mail.</paragraph>
+			<paragraph>While editing a contact, you can add new fields of different types to fill in more contact details. You can link contacts too, if you've added the same person on multiple services.</paragraph>
+			<paragraph>The contacts can be filtered by service (e.g. hide all Facebook contacts) and even by group (so you can hide all contacts not in a group, for example).</paragraph>
+			<paragraph>The other two tabs in the phonebook are Groups and Favorites. Groups are listed by service (e.g. your Gmail account), while favorites are a listed as a grid of large contact photos, which is really thumbable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The dialer and the call log share the same screen. The dialer offers smart dialing and it works both with names and numbers; it offers a shortcut to the Contacts app and vice versa.</paragraph>
+			<paragraph>The in-call quality from the device is superb. We tested the Huawei Ascend Mate2 4G on AT&amp;T's network in the United States.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>The messaging section is business as usual. All SMS/MMS communication is organized into threads - which can be mass-deleted - and each thread is displayed like an IM chat session, the latest message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them (to prevent deletion). You can use search to find a specific message in all conversations.</paragraph>
+			<paragraph>You can add multimedia (photos, videos, sounds, etc.), which will convert the message to an MMS. If you need multiple slides or multiple attachments, you can go to a full-blown MMS editor as well.</paragraph>
+			<paragraph>In addition to Gmail, there is also a generic email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>The Huawei keyboard is quite comfortable to type on. The ample screen further helps the typing experience.</paragraph>
+			<paragraph>You can switch to the default Android keyboard too. It is preloaded out of the box.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G comes with a highly-capable image gallery. As there is no dedicated video player, it's also used to play videos. It defaults to the standard Album view, where you see all of your media divided by albums. Video files are signified by a special icon.</paragraph>
+			<paragraph>The settings menu lets you do simple edits to a photo (rotate, crop) or go into a more capable editor with a lot more options. The editor offers light adjustments (so you can bring out the shadows or the highlights), effects, color styles, red eye correction, straightening a photo, sharpening and face glow (which detects faces automatically). Most of these options have a slider that lets you fine-tune the intensity of the effect.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The Huawei Ascend Mate2 4G doesn't have much of a video player - you just open videos from the gallery and that's that. On the up side, it handled most videos we threw at it - all the way up to 1080p, DivX, XviD, MKV and even WMV.</paragraph>
+			<paragraph>We had no issues with sound either - AC3 and DTS codecs give most phones a headache - and there's Dolby Mobile 3.0+ available to enhance the audio.</paragraph>
+			<paragraph>You get play/pause and a slider to scrub through the video plus a Dolby on/off switch. That's it.</paragraph>
+			<paragraph>The integrated video player (just like the Music player) offers non-customizable equalizer presets only when you plug a pair of headphones in. You can pop up the preset list with a tap on the Dolby Mobile virtual switch at the top of the Now Playing screen. In case you are using the loudspeaker, a tap on the Dolby logo will just turn on or off the Dolby Mobile enhancement.</paragraph>
+			<paragraph>Subtitles are supported, you just need to name the subtitle file the same as the video.</paragraph>
+			<paragraph>The 6.1 HD display is perfect for watching movies on the go. In case you need more functionality, you can also download a third-party movie player.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The Now playing interface features more eye-candy including album art. You can swipe to skip tracks or tap on one of the floating album covers to bring out a list of all songs in that album.</paragraph>
+			<paragraph>Curiously, the music player does not feature an equalizer. It only has a DTS on/off button.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G has a built-in FM receiver. It can play through the headset or the loudspeaker, but you'll need to have the headset plugged in as it serves as an antenna. We were disappointed not to find RDS - radio stations need to be named by hand.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is great, for the most part<subsectionTitle>
+			<paragraph>The Huawei Ascend Mate2 4G audio output is quite impressive when used with an active external amplifier. The phablet aced the first part of our test, posting perfect scores top to bottom with very high volume levels to boot.</paragraph>
+			<paragraph>The volume is every bit as high even when you plug in a pair of headphones, but the output degrades a bit. Quite a lot of harmonic distortion creeps in, while the stereo crosstalk raises significantly. It's a very decent performance overall, but not quite as great as in the first test.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Huawei Ascend Mate2 4G frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP still camera<subsectionTitle>
+			<paragraph>Huawei Ascend Mate2 4G features a 13MP Sony-made camera sensor, capable of capturing still photos with a resolution of 4208 x 3120 pixels. A single-LED flash helps the snapper in low-light situations.</paragraph>
+			<paragraph>The camera interface looks pretty standard - you get a still/video camera toggle, a virtual shutter and a shortcut to the gallery on the right. The fun stuff is on the left side - you get multiple shooting modes (we'll cover those in a second), color effects, face effects and general settings.</paragraph>
+			<paragraph>The Huawei Ascend Mate2 produces some really good quality camera samples. We even suspect the camera sensor is the same as the one used by the Oppo Find 7/7a and the LG G3 as the level of resolved detail is quite similar. The colors are a bit oversaturated, but they nevertheless look pleasant. Beyond that, the details at 1:1 magnification have a quite natural look even though that leaves noticeable amounts of noise (which we don't mind).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>The video camera interface is unsurprisingly similar to that of the still camera. The recording button is on the right, while the settings are located on the left.</paragraph>
+			<paragraph>The 1080p videos captured by the Ascend Mate2 have a constant framerate of 30fps. The video stream is encoded with a bitrate of 20Mbps, while the stereo audio stream has a bitrate of 156Kbps.</paragraph>
+			<paragraph>Unfortunately, the 1080p videos shot by the Huawei Ascend Mate2 are nowhere near the high quality of the still images produced by the camera. On the positive side, the colors are nicely oversaturated as the still photos, the framerate is smooth and the contrast is fine, but overall, the videos look somewhat soft.</paragraph>
+			<paragraph>You can check out a sample from the device on YouTube below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Also if you want to check out what the uncompressed videos look like, you can download this 1080p@30fps sample (10s, 26MB).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Web browser<subsectionTitle>
+			<paragraph>The Ascend Mate comes with two excellent web browsers - the stock Jelly Bean edition and Google Chrome. The two browsers feature similar layout, though we found Google Chrome to be more to our liking - it is simply more up to date than the stock Jelly Bean solution.</paragraph>
+			<paragraph>Thanks to the large 6.1" display of the device, web browsing is a real pleasure.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>Google Drive is the default office document editor out of the box. It is highly capable and completely free.</paragraph>
+			<paragraph>The phone manager app helps users optimize the performance of their device. It has a built-in scanner which identifies problematic areas that need to be tweaked.</paragraph>
+			<paragraph>The calendar features four views - Daily, Weekly, Monthly and Agenda. The app can easily handle several online calendars as well as the local calendar. You can add multiple reminders for each event and search all events.</paragraph>
+			<paragraph>The clock app supports multiple alarms, each with its own start and repeat time. World Clock, Stopwatch and Timer functions are available as additional tabs.</paragraph>
+			<paragraph>You also get a Sound recorder. Its interface is clean and easy to work with.</paragraph>
+			<paragraph>The good old calculator is here too - it has big, easily thumbable keys and you can swipe to the left to bring up the advanced functions (trigonometry, square root, brackets, etc.).</paragraph>
+			<paragraph>Finally, there's the flashlight app. It holds no surprises.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Huawei Ascend Mate2 4G key test findings<subsectionTitle>
+			<paragraph>Build quality is exceptional, especially for the price</paragraph>
+			<paragraph>The 6.1" IPS+ display looks great despite its low resolution</paragraph>
+			<paragraph>The 3,900mAh battery has class leading performance</paragraph>
+			<paragraph>Still camera quality is good</paragraph>
+			<paragraph>The native video player is well equipped to handle all sorts of videos</paragraph>
+			<paragraph>The Android Jelly Bean OS is outdated and the Emotion UI might not fit all tastes</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>After spending plenty of quality time with it, we can safely conclude that the Huawei Ascend Mate2 4G proved to be exactly what we expected. By combining quality mid-range specs headed by a large IPS display, a beefy battery with outstanding endurance, and affordable contract-free price tag, the phablet is one of the best value-centric offering available at the moment.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Huawei?s choice for the first device to enter the US market is as curious as it is wise. While far from spectacular in terms of hardware, the Ascend Mate2 4G is still attractive thanks to the combination of sizable battery and screen it offers. It also sits in a price bracket which is devoid of direct competitors.</paragraph>
+			<paragraph>The large 3,900mAh battery is undoubtedly the feature which helps the Huawei Ascend Mate2 4G stand out among its price peers. Its chart-topping performance should make the phablet a must-have if you hate charging your phone every day.</paragraph>
+			<paragraph>The rest of the device's hardware features aren't too shabby either. The display is a quality piece despite its low resolution and both the 13MP Sony-made main camera and its 5MP selfie partner showcased solid performance.</paragraph>
+			<paragraph>Qualcomm's Snapdragon 400 chipset didn't set the benchmark scores on fire, yet it showcased no signs of oomph shortness on most occasions related to everyday use.</paragraph>
+			<paragraph>Of course, the phablet is far from perfect. We are still scratching our heads over the launch of a device with Android 4.3 Jelly Bean this far into 2014. Android 4.4 KitKat update will surely arrive at some point in the future, but it is worth noting that the world is already talking about the next major build, Android L.</paragraph>
+			<paragraph>The Emotion user interface is also not cutting edge by today's standards, which promote flat and sleek UI designs. Huawei's UI is rich in features, but overwhelms with heavy colors and textures. The lack of app drawer on the other hand, requires some getting used to if you are coming from most other Android phones.</paragraph>
+			<paragraph>Huawei Ascend Mate2 4G is priced at $299.99 with no carrier commitment. The Chinese manufacturer has set up its own online store; it also has the phablet on offer on Amazon.</paragraph>
+			<paragraph>As usual, here go some alternatives for your budget worthy of your consideration.</paragraph>
+			<paragraph>Samsung Galaxy Mega 6.3 is the Korean giant's version of budget-friendly phablet. Announced last year, the device has the same SoC like the Ascend Mate2. It offers a rich set of additional features plus a removable battery, but it is $100 to $150 more expensive depending on whether you want 3G-only or LTE version.</paragraph>
+			<paragraph> Samsung Galaxy Mega 6.3 I9200</paragraph>
+			<paragraph>Sony Xperia T2 Ultra is another big name alternative to Huawei's phablet. Again with a Snapdragon 400 chipset on board, the device offers rich feature set and good battery life. Once again though, it is roughly $100 more expensive than the Huawei Ascend Mate2 4G.</paragraph>
+			<paragraph> Sony Xperia T2 Ultra</paragraph>
+			<paragraph>LG Optimus G Pro is undeniably a more capable alternative to the Ascend Mate2 4G. The handset packs last year's flagship specs which include a Snapdragon 600 SoC, gorgeous 5.5" display, and 13MP camera. Newegg currently has it on offer for $329.99 unlocked, contract free.</paragraph>
+			<paragraph> LG Optimus G Pro E985</paragraph>
+			<paragraph>OnePlus One blows the Huawei Ascend Mate2 4G out of the water in terms of both design and specs. Again, this one only has a 5.5-inch screen, but it outclasses the Mate2 4G and its price pretty much matches the Mate2 4G's. It is priced at $299 for the 16GB version, but you can't buy one for its actual retail value at the moment as the official store only sells their short supply on an invitation basis.</paragraph>
+			<paragraph> OnePlus One</paragraph>
+			<paragraph>Huawei has major ambitions for the US market and the Ascend Mate2 4G has the privilege of being the first standalone device offered by the OEM. As a niche product, it will not appeal to everyone, though, thanks to its specific talents, it can just as easily turn out to be the perfect device for the users who know what they are after and who know what they're getting.</paragraph>
+		</subsection>
+	</page>
+</review>

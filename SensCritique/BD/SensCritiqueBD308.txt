@@ -1,0 +1,49 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Transmetropolitan : Année Deux</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2014</year>
+	<link>http://www.senscritique.com/bd/Transmetropolitan_Annee_Deux/11019628</link>
+	<generalScore>8.6</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>55</numberOfVoters>
+		<numberOfVoters>118</numberOfVoters>
+		<numberOfVoters>154</numberOfVoters>
+		<numberOfVoters>81</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Le journalisme sociologique est un sport de combat</title>
+		<author>Gritchh</author>
+		<date>2014-08-10</date>
+		<score>0.9</score>
+		<content>Malgré la date de parution de cette « Année deux » de Transmet, j’ai compris qu’il s’agit d’une série de 60 épisodes publiés mensuellement par DC Comics à partir de 1997. Ce recueil des épisodes 13 à 24 est une réédition de l’album « La nouvelle racaille » de Panini Comics paru en 2008. Transmetropolitan a pour personnage principal un journaliste acerbe, Spider Jerusalem, travaillant dans une mégalopole américaine d’un futur malheureusement assez proche. Le dessinateur, Darick Robertson, est américain, mais le scénariste, Warren Ellis, est britannique. Spider Jerusalem est insupportable. Pourtant, il a suffisamment de charisme pour que nous ayons envie de le suivre dans ses enquêtes, coups d’éclat et engagements, souvent excessifs, parfois sordides, toujours jubilatoires. C’est un journaliste politique, au sens étymologique du terme (citoyen), ou plutôt un journaliste sociologique puisqu’il décrit et dénonce la dégradation des relations humaines et de cette société du futur dans laquelle nous vivons déjà. Il vit tout à fond, fumant comme un barbecue, consommant toutes sortes de drogues par toutes sortes de voies, et se mettant en permanence en danger... Ces aventures qui pourraient être totalement sinistres sont sauvées par un humour (souvent noir) omniprésent et décapant. Spider Jerusalem est cynique et désespéré mais il se soigne par l’action et nous entraîne dans ses turpitudes, trouvant l’énergie dans la prise d’un cocktail de stimulants licites et illicites auquel le commun des mortels ne survivrait pas longtemps. Sa soif inextinguible de vérité excuse finalement sa violence verbale et physique ; nous sommes choqués mais nous sommes obligés de lui pardonner. Le dessin de Darick Robertson est en parfaite résonnance avec le scénario. Il est perturbant... Le découpage des cases, au scalpel, donne un effet assez glacial. Les dessins sont parfois d’une qualité et d’un réalisme irréprochable, avec de beaux effets de contre-plongée ou de perspective. Mais ils sont parfois mal proportionnés ou irréguliers au point que l’on ne reconnait pas immédiatement certains personnages. Tout cela est sans doute volontaire : à l’image des lunettes de Spider Jerusalem (un verre vert rectangulaire et un verre rouge rond), nulle stabilité, nul équilibre n’est accordé au lecteur. Tout est fait pour nous déstabiliser afin que nous vivions la monstrueuse mégalopole de l’intérieur. Le peu d’équilibre, de confiance à laquelle nous pouvons nous raccrocher au milieu de ce bazar sans espoir est le caractère entier, l’irréprochable intégrité de Spider Jerusalem.</content>
+	</review>
+	<review>
+		<title>Et qu'est ce qu'il y a derrière un sourire?</title>
+		<author>belgandhi</author>
+		<date>2015-03-22</date>
+		<score>1.0</score>
+		<content>Spider, tu me donne envie de vomir, je te hais, je hais ce que tu représente. Je hais ta quête de vérité, car tu ne trouve rien Je hais ton engagement, car tu vas en crever Je hais ton monde, car c'est un peu le mien... Ton message, c'est de la crasse, cette merde que l'on essaye d'enlever de ses chaussures, puis qu'on essaye d'oublier. Pourquoi je m'évertue à te lire, alors que tout ce que je veux, c'est de l'espoir, rêver d'avenir et des raisons de me lever le matin? Tu es une partie sombre en nous, celle qui nous dit de crever, celle qui veut détruire, piétiner, et hurler à mort, celle qui ne croit pas, celle qui ne croit plus. Putain ça te rend tellement humain! Et dire qu'aujourd'hui faut aller voter... je crois que je vais plutôt aller prendre un bain.</content>
+	</review>
+	<review>
+		<title>I Hate It Here</title>
+		<author>Benjamin Lacaille</author>
+		<date>2014-08-17</date>
+		<score>0.7</score>
+		<content>Ellis prend plus son temps que dans le tome précédent mais prouve, malgré son humour sévèrement cru, que Transmetropolitan est un récit intelligent et hautement jubilatoire pour ceux qui arriveront à aimer l'humour de Spider Jerusalem. Un tome donc, transitoire, qui sert à approfondir le personnage de Spider, les thèmes principaux de la série et surtout à introduire une suite prometteuse.</content>
+	</review>
+	<review>
+		<title>Les gens normaux aimeront...</title>
+		<author>CorsairePR</author>
+		<date>2015-07-07</date>
+		<score>0.6</score>
+		<content>Le premier (10/10) détonnait par son anticipation et sa science-fiction corrosive, le tout passé à la moulinette du splendide Spider Jérusalem. Dans ce second volume, notre journaliste règle son compte avec la politique qui là pour le coup fait preuve d'un réalisme bien triste surtout si c'est pour calquer le système ricain donc un peu à son image de couverture, on se fait un peu chier. Et donc du coup, toutes les réflexions futurologistes s'effondrent. Dans le prologue, l'auteur avertit que le futur est déjà là, oui bon ok, mais là ce n'est que le système politique américain, rien de plus. Pire, le héros s'il fait bien son boulot de critique acerbe ne propose aucune alternative ce qui gâche un peu la crédibilité qu'il pourrait avoir...</content>
+	</review>
+</sensCritiqueEntity>

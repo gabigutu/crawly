@@ -1,0 +1,215 @@
+<review>
+	<title>Sony Ericsson Satio vs. Samsung Pixon12</title>
+	<description>12MP shootout</description>
+	<link>http://www.gsmarena.com/12mp_shootout_satio_pixon12-review-406.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>A year's truce must've been enough and some heavyweight sharpshooters are called to arms again. In fact, there's never been a ceasefire in the battle for profit. But we're about to look at the future of cameraphones and the battle to take place is more for glory than anything else.</paragraph>
+			<paragraph>So, if 5 and 8 megapixel shooters are busy tipping the scales in favor of this or that maker, are the 12 megapixel monsters taking on low and mid-range digicams? Of course, cameraphones are still limited compared to even the most basic of point-and-shoot cameras - optical zoom for example. Samsung are working on that, but there is still plenty of time to go.</paragraph>
+			<paragraph>It doesn't mean though that we'll just sit and wait. We've got two contenders here, eager to fight it out for the Ultimate cameraphone title. The Samsung M8910 Pixon12 and the Sony Ericsson Satio each have legacies to live up to and quite a challenge to conquer.</paragraph>
+			<paragraph>  Samsung M8910 Pixon12 ? Sony Ericsson Satio</paragraph>
+			<paragraph>The Samsung cameraphone hit the shelves several months earlier, but maybe Sony Ericsson used the extra time to fine tune their output and outdo their rival. Amazed as we were when we reviewed the Pixon12, we would be even happier if the Satio is able to bring the cameraphone world another step forward.</paragraph>
+			<paragraph>Sony Ericsson have been hitting low lately and the Satio might just be the right stuff to turn the tide. Yes, the Satio is a full-touch Symbian handset bringing the latest in mobile phone technology. But it will be the cameraphone we guess, not the smartphone, that will get most of the credit.</paragraph>
+			<paragraph>Before we proceed with the actual shootout there is an important note to make. The Samsung Pixon12 sports a 30mm wide-angle lens (advertised as 28mm) and that gives it roughly 17 percent wider field of view than the Satio's regular 35mm lens.</paragraph>
+			<paragraph>Wide angle lens is pretty useful when taking landscape and architecture photos as you don't need to go as far back to fit the whole subject in the frame. However fitting more stuff in the frame means that the things in it are actually smaller (drawn by fewer pixels, if you wish). In effect, the extra angle of view is not always needed but you are always losing some scene detail (unless you compensate by doing the legwork to get physically closer).</paragraph>
+			<paragraph>So now that we've got that cleared, we can move on and get busy shooting.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Resolved detail<subsectionTitle>
+			<paragraph>Speaking of resolved detail, it's very important to have the different focal lengths in minds. The 30mm lens of the Pixon12 might give it the advantage of fitting more in the frame, but can also make it seem like it resolves less detail at 100% viewing magnification.</paragraph>
+			<paragraph>To make a proper judgment on this one we took all photos with equal framing, meaning that we took some steps closer to the subject with the Pixon12. That way none of the cameraphones has a resolved detail advantage or a disadvantage due to its focal length.</paragraph>
+			<paragraph>As it turned out the Pixon12 slightly outdoes the Satio, producing slightly more detail, as you can see from the 100% crops.</paragraph>
+			<paragraph>Winner: Samsung M8910 Pixon12 (only just)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Dynamic range<subsectionTitle>
+			<paragraph>The next photographic test is dynamic range. Dynamic range is one of the most important aspects of the photo quality of a camera and it's used to describe the light range (from near-black to near-white) that can be captured by the sensor.</paragraph>
+			<paragraph>There is no way to fix the blown highlights, or underdeveloped shadows, which are the most prominent result of limited dynamic range.</paragraph>
+			<paragraph>The two contenders in our test performed very similarly in this aspect throughout our test. That means that unless they've got the light metering wrong, they usually deliver one and the same level of detail in the shadowy and highlight areas of the photos. Thus we're going to assume that their dynamic range is pretty much equal (and we wouldn't be surprised if they use one and the same 12MP image sensor).</paragraph>
+			<paragraph>Winner: Tie</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Noise<subsectionTitle>
+			<paragraph>The two cameraphones have taken a different approach to reducing noise in their photos. While the Pixon12 works mostly on the chroma noise, doing as little noise suppression as possible, the Satio goes the other way round.</paragraph>
+			<paragraph>As a result the photos produced with the Satio have a lot of fine detail lost, due to the aggressive algorithm. While the difference might not be as obvious in some real-life shots, it will be pretty prominent in foliage or other similar fine detail patterns when shot under the same lighting.</paragraph>
+			<paragraph>The worst part is that the Satio noise-reduction still doesn't deliver completely noise-free photos despite its aggressive setup. There's almost the same amount of noise as in the Pixon12 shots - it's only that it's of the worse looking chroma type (notice the color blotches in the sky).</paragraph>
+			<paragraph>For people who aren't much into photography it might seem that the smooth chromatic (meaning that it is colored) noise of the Satio photos is not as much as the luminance (the white grain) noise in the Pixon12 shots because it has somewhat finer structure. The problem is that the colored noise is virtually impossible to get rid of and is preserved to a much larger extent when downsizing the images, while the film-grain-like luminance noise is both more tolerable to have in your photos and easier to hide with noise suppression on the computer.</paragraph>
+			<paragraph>Winner: Samsung M8910 Pixon12</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Low light performance<subsectionTitle>
+			<paragraph>This test aims to show how the contenders fare under low light, when the subject is out of the flash range. Since the Satio doesn't have an ISO setting we shot with both cameras set to auto.</paragraph>
+			<paragraph>In the first shot, taken at dusk, the Pixon12 decided to increase the ISO to 100 (its base ISO being 50) and gave us a shutter speed of 1/28s. The Satio, on the other hand, used its base ISO 80 and went down with the shutter speed to 1/15s, which made it almost impossible to hand hold without inducing camera shake blur. Still both cameraphones exposed the scene equally thanks to the slightly faster lens (F/2.64 vs F/2.8) of the Pixon12. That however was not the case in the next low light shot.</paragraph>
+			<paragraph>When faced with almost complete darkness the Satio went for 1/8 s and ISO 320 (virtually impossible to hand hold), while the Pixon12 chose ISO 250 and a speed of 1/15 s. That way the Samsung image came up with a less noise and easier to hand-hold, but the scene got underexposed. Which approach is better for you depends on what exactly do need the photo for, so we will leave this one as a tie.</paragraph>
+			<paragraph>What we can conclude from our low light test is that despite the increased maximum resolution, the two cameraphones low-light performance is not sacrificed as compared to the previous batch of 8 megapixel shooters. They're even better than their predecessors rather than worse.</paragraph>
+			<paragraph>Winner: Tie</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Color rendering<subsectionTitle>
+			<paragraph>The results of the two handsets are pretty similar as far as color rendering is concerned. Surely there are cases when one of the handsets produces slightly more saturated colors in an attempt to give punchier results straight out of the camera, but usually they are on par.</paragraph>
+			<paragraph>To make better judgment we snapped the color chart in our studio with the Canon 5D Mark II DSLR camera. We developed its RAW file with the color profile set to Faithful, and hand-adjusted its white balance so the results should be a perfectly good reference. When we compared its output to the two handsets the Sony Ericsson Satio came closer, and thus clinched the win in this category.</paragraph>
+			<paragraph>Here go some some real life examples where the two handsets demonstrate their slightly different behavior. We are hardly the ones to judge which is better as it is primary a matter of taste here. Besides, the differences are minimal.</paragraph>
+			<paragraph>Winner: Sony Ericsson Satio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Exposure and focus performance<subsectionTitle>
+			<paragraph>Looking at all the photos we took for this test (not only the actually published ones), we can say focus accuracy is great on both contenders.</paragraph>
+			<paragraph>Yet we do find the performance of the Samsung M8910 Pixon12 a lot better than that of the Satio in well-lit conditions. The Samsung is simply much faster in obtaining focus lock which can make the difference in quite a lot of situations.</paragraph>
+			<paragraph>The Sony Ericsson Satio replies with faster low-light and close-up focusing. The Symbian smartphone can focus from shorter distances and achieves quicker lock when the subject isn't properly lit. The Samsung usually takes its time and often fails to lock proper focus.</paragraph>
+			<paragraph>The decisions that the two cameras make in terms of exposure are pretty good. We only had several over- and underexposed shots in the whole shootout and these were all in pretty tricky conditions where every digicam would have had problems.</paragraph>
+			<paragraph>Note that the default metering mode of the Samsung Pixon12 is set to center-weighted, rather than matrix. It means that the handset gives priority to getting the middle of the frame properly exposed, rather than retaining as much information as possible in the whole frame.</paragraph>
+			<paragraph>Permanently going for the alternative matrix metering mode, allowed it to meter the scenes just as the Sony Ericsson Satio - whit results which we find preferable.</paragraph>
+			<paragraph>Winner: Tie</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Flash<subsectionTitle>
+			<paragraph>Flash performance is another category that turned easier to decide on than suspected initially. Both the Pixon12 and the Satio are equipped with proper xenon flash units, which suggest equal performance in the flash category.</paragraph>
+			<paragraph>Once we tested them however we saw that there was virtually no room for comparison. The Pixon12 managed to produce better exposed shots, while at the same time keeping the ISO lower.</paragraph>
+			<paragraph>Additionally, the Sony Ericsson Satio lacked a "Forced ON" option for its xenon flash, meaning you can't use it as fill light with backlit portraits in the day.</paragraph>
+			<paragraph>We have to note that we are extremely pleased that none of the cameraphones went too far with reducing the shutter speeds. The 1/30 and 1/33 values that they chose were possible to hand-hold, even if not too easy. Freezing fast moving subjects is out of the question of course, but still, you will get quite a few low light shots right.</paragraph>
+			<paragraph>Winner: Samsung M8910 Pixon12</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Lens quality<subsectionTitle>
+			<paragraph>Normally we would think that a 35mm lens is easier to produce than a 30mm. Yet we don't see any advantage for the Satio as far as lens quality is concerned.</paragraph>
+			<paragraph>Right on the opposite, the Samsung seems to have a tad better edge-to-edge sharpness, with the Satio lens showing some corner softness. This of course was mentioned in the chapter on resolved detail above, so we don't feel that promoting the Pixon12 again on the same ground is justified.</paragraph>
+			<paragraph>And as far as the other issues a lens might have, we are pleased to say that both contenders are equally good. There was no sign of chromatic aberrations, even in extreme conditions. They were also both nicely resistant to flare.</paragraph>
+			<paragraph>Winner: Tie</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Macro<subsectionTitle>
+			<paragraph>Here comes another category where calling a winner is as tough as it gets. The Samsung M8910 Pixon12 is a really excellent performer in close ups, producing great resolution and excellent depth of field.</paragraph>
+			<paragraph>The Satio on the other hand allows you to get closer to the subject, which is quite important in macro shooting.</paragraph>
+			<paragraph>The Pixon12 of course has the benefit of the better resolved detail, which is quite important here as well, but again, we gave it the deserved credit for that in the first test, so we'll go ahead and call this one a tie.</paragraph>
+			<paragraph>Winner: Tie</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Speed<subsectionTitle>
+			<paragraph>Those two came pretty close in terms of speed. You can see the times we measured in the table below.</paragraph>
+			<paragraph>The start-up time is the time from pressing the camera key (or opening the camera lens in the Satio's case) to the moment when the handset is ready to focus and take a photo.</paragraph>
+			<paragraph>The shot-to-preview and preview-to-standby times are pretty self-explanatory. It's how many seconds it takes a cameraphone to take a shot after the user has pressed the shutter key and how much more it takes to return to standby mode when the preview is turned on.</paragraph>
+			<paragraph>The final column indicates the shot-to-shot times that we managed to achieve with the preview turned off.</paragraph>
+			<paragraph>Both of the handsets perform admirably in this test. Even though they have 50 percent more information to process than their 8MP predecessors, they still manage to be faster. We find the results of the Satio particularly impressive as smartphones usually have much slower camera interfaces than feature phones. That and the fact that it manages to do better in the most frequently used shooting-with-preview scenario are enough for us to pronounce it the winner here.</paragraph>
+			<paragraph>You shouldn't also forget that the Satio comes with the ultra fast BestPic burst shooting mode, which takes up to 9 shots in a rapid succession in full resolution.</paragraph>
+			<paragraph>Winner: Sony Ericsson Satio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video<subsectionTitle>
+			<paragraph>The Satio manages VGA video @ 30fps, while the Pixon12 goes somewhat higher to D1 @ 30fps. In addition, the Samsung cameraphone manages 120fps slow-motion videos at QVGA resolution. While not our most frequently used feature, the slow motion video recording is a really neat trick that is nice to have onboard.</paragraph>
+			<paragraph>Here go the samples for you to check out.</paragraph>
+			<paragraph>Sony Ericsson Satio VGA@30fps video Samsung M8910 Pixon12 D1@30fps video</paragraph>
+			<paragraph>There are actually a couple of cameraphones on the market that can deliver video of higher quality than the two 12MP shooters. The undisputed Samsung S8300 UltraTOUCH and the 720p-capable Samsung i8910 Omnia HD are probably what video-fans should check out first.</paragraph>
+			<paragraph>Yet, as we don't have those two competing here, we easily pronounce the Sony Ericsson Satio the winner in this category. The extra resolution of the Pixon12 videos is fine and everything but the colors lack the vibrancy of the Satio and the compression applied is just too much for us to take.</paragraph>
+			<paragraph>Winner: Sony Ericsson Satio</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera features roundup<subsectionTitle>
+			<paragraph>We're looking at two of the best cameras the mobile phone world has to offer. Both the Sony Ericsson Satio and Samsung Pixon12 shoot 12 megapixel images and combine the advantages of the LED and xenon flash.</paragraph>
+			<paragraph>On paper, the Pixon12 seems to offer more but the purpose of this shootout is to find out if any of these extra features are actually worth it or are more on the gimmick side. Let's have a look at what the two contenders claim to bring.</paragraph>
+			<paragraph> Samsung M8910 Pixon12 camera user interface</paragraph>
+			<paragraph>Basic camera features</paragraph>
+			<paragraph>Both the phones come with the basic set of settings available on point-and-shoot digicams - white balance, scene modes, self-timer, color effects and exposure compensation. A dedicated macro mode is available as well. The Satio inexplicably omits a setting for storage - it stores photos on the memory card if there is one and that's that.</paragraph>
+			<paragraph>Samsung Pixon12 has Sharpness/Saturation/Contrast settings that the Satio lacks.</paragraph>
+			<paragraph>Focus modes also include touch focus. Here, the Pixon12 outdoes the Satio by offering object tracking focus, but performance varies depending on the object and how fast it's moving. The Sony Ericsson in turn has an Infinite setting for the focus, which might turn useful for landscapes.</paragraph>
+			<paragraph>ISO settings</paragraph>
+			<paragraph>Manual ISO is useful when you want to minimize noise by setting it at the lowest or when you want to freeze the action in a low-lit scene by flicking it up to the max.</paragraph>
+			<paragraph>The Sony Ericsson Satio doesn't have manual settings for the ISO, instead it relies on Scene modes, which pick the proper ISO setting among other things. The Samsung Pixon12 on the other hand offers a choice between Auto and specific ISO settings ranging from 50 to 1600.</paragraph>
+			<paragraph>Flash settings</paragraph>
+			<paragraph>The cameraphones in this shootout boast both xenon and LED flashes. That allows them to use the high-performance xenons for stills and the continuous light from the LEDs for capturing video.</paragraph>
+			<paragraph>The settings associated with the flashes are Automatic, On, Off and Red-eye reduction. The Satio however doesn't have the "Forced ON" option, which could have made the flash useful as fill light in backlit portraits.</paragraph>
+			<paragraph>Burst shooting mode</paragraph>
+			<paragraph>Almost every cameraphone out there has its own approach to Burst mode. Sony Ericsson Satio uses BestPic mode to take up to 7 images in a row at the highest resolution. Once they are taken, they are pretty easy to view as the phone doesn't save them before you've picked the keepers.</paragraph>
+			<paragraph>The Pixon12 significantly underperforms here - its Continuous mode shoots 9 photos at VGA resolution. You'd be better off taking a shot at full resolution instead of picking the best out of nine very low-resolution images.</paragraph>
+			<paragraph>Panorama shooting mode</paragraph>
+			<paragraph>For shooting panos, the Satio has an edge again - it shoots three photos at 3MP resolution, while the Pixon12 does 4 shots at 1280 x 960 pixels. Automation on both phones is on the same level though - stitching was mostly problem-free and once you take the first shot, there are visual guides to help you better align the next shots.</paragraph>
+			<paragraph>The Pixon12 has a dedicated vertical panorama setting as well (holding the phone vertically), but you can take one with Satio as well just by turning the phone on its side.</paragraph>
+			<paragraph>Geo-tagging</paragraph>
+			<paragraph>Both the Pixon12 and the Sony Ericsson Sation support automatic geotagging of your photos. It's already a quite common option so we're not going to stop for further details here.</paragraph>
+			<paragraph>Face, smile and blink detection</paragraph>
+			<paragraph>Face detection is one of the high-end cameraphone features that make regular phones jealous. It automatically finds and tracks a face in the frame for better portrait photos. It can have problems with faces looking down but face detection on both phones works very well in general.</paragraph>
+			<paragraph>Smile detection is a nice add-on to the face detection gadgetry. When smile detection is enabled, it sets the camera in auto shutter mode, so instead of shooting right up when you press the shutter all the way down it waits for a smile on the currently detected face and snaps only when the time is right.</paragraph>
+			<paragraph>In this section, the Pixon12 offers one more - blink detection. It detects if someone blinked and warns you promptly - but only after the shot is taken.</paragraph>
+			<paragraph>Digital image stabilization</paragraph>
+			<paragraph>And finally, digital image stabilization helps you keep your camera steady in low light scenarios. It won't be of help if your subjects are moving, but it can theoretically help you when your hands are - it allows you to shoot sharper low-light cityscapes, for instance. Both the Satio and Pixon12 have image stabilization, but the effect is somewhat dubious - the dedicated digicams with their optical stabilization are far better.</paragraph>
+			<paragraph> Sony Ericsson Satio camera user interface</paragraph>
+			<paragraph>Special features</paragraph>
+			<paragraph>Samsung have their own Wide Dynamic Range (WDR) implemented on the Samsung Pixon12. The WDR mode helps with high contrast images by overexposing them a bit. You get nicely developed detail in the shadows; however the brighter areas of the photos tend to lose detail. An exposure meter setting is also present - the choice is between center-weighed, matrix or spot. There's also a "beauty shot" mode but its use is questionable.</paragraph>
+			<paragraph>Another interesting discovery we made reviewing the Pixon12 is that it comes with a variable aperture. It offers two aperture values - F/2.64 to let a standard amount of light in and F/3.61, which is a bit smaller aperture opening, which given there is enough light, has a few potential benefits. Technically the photos taken with a smaller aperture opening (indicated by a larger F-stop value) should be sharper and with greater depth of field than those at larger ones.</paragraph>
+			<paragraph>Samsung didn't provide any kind of manual control over the aperture value, so we couldn't actually test whether the shots taken at F/3.61 are indeed better. Since Samsung have not even mentioned the variable aperture in their promos, it's a fair guess the difference shouldn't be that huge.</paragraph>
+			<paragraph>The Satio strangely lacks the Sony Ericsson in-house equivalent of WDR - Smart Contrast. The Sony Ericsson C905 Cyber-shot had it and we quite appreciated it.</paragraph>
+			<paragraph>Both the Pixon12 and the Satio offer some sort of automatic scene selection. Pixon12 calls it "Smart Auto", while in Satio it's "Smart mode". These modes won't do a better job than you in picking the right settings, but at least they won't sweat it - it's all done automatically. There's a reason why "point-adjust-settings-and-then-shoot" is not a popular catch phrase.</paragraph>
+			<paragraph>Sony Ericsson Satio put up a good fight - the BestPic functionality is especially commendable. However, Pixon12 won us over with more manual control over the shooting process and the better assortment of high-end technologies, which hold promise of better quality given the user devotes the time to do the tinkering for each particular scene.</paragraph>
+			<paragraph>WINNER: Samung M8910 Pixon12</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Interface looks and user-friendliness<subsectionTitle>
+			<paragraph>Cameraphones are in a tough spot. They have to go against the laws of physics to get more megapixels, better low-light performance and so on. That's what keeps engineers busy but it's the interface design that sets up people's expectations.</paragraph>
+			<paragraph>A fast snappy camera interface, with easily accessible options will be more enjoyable to use and encourage people to actually tweak the settings before taking the shot. No one wants to dig deep in the menus just to get to the Sports scene for example - most just won't bother. However, using the best settings is crucial for a good photo, so even the best camera can be let down by a badly designed interface.</paragraph>
+			<paragraph>Interface looks and usability</paragraph>
+			<paragraph>Holding the Sony Ericsson Satio and the Samsung Pixon12 you'll immediately see that the UI designers of both phones were faced with similar challenges and made similar decisions.</paragraph>
+			<paragraph>The screens of both phones have a widescreen aspect ratio. The sensors are 4:3 though, so the actual viewfinder is in the center of the screen, a vertical bar of icons on each side.</paragraph>
+			<paragraph>Visually, they are similar too - grayscale icons with blue gradient marking the active selection. But here the Satio edges slightly ahead, at least aesthetically. The icons may be grayscale but they have a slight gloss to them for a bit more volume and the blue gradient is much more elaborate. The icons Pixon12 do look a little flat.</paragraph>
+			<paragraph>Tapping on an icon brings up a pop up menu with more settings. While in the Pixon12 things just pop up, in Satio they fade in smoothly.</paragraph>
+			<paragraph>Both interfaces are very snappy, but here the Pixon12 takes the lead - for example, when you change the scene mode in Satio, the scene mode icon takes three or four seconds to update. It wouldn't have been such a big deal, but it seems it's not the icon that takes its time.</paragraph>
+			<paragraph>It's the switching of the mode itself, which means it's a few seconds before you can shoot again. With the Pixon12, changes are noticeably faster, giving a better overall experience.</paragraph>
+			<paragraph>Menu structure and organization</paragraph>
+			<paragraph>As we already mentioned, both the Satio and the Pixon12 have the same arrangement for the viewfinder - it's placed in the center, with shortcuts arranged in vertical bars on each side. They are semi-transparent and can be hidden, which comes in handy when shooting in widescreen mode.</paragraph>
+			<paragraph>Both camera interfaces have practically the same set of shortcuts - shoot mode, scenes, flash, exposure compensation, gallery, extended settings and back.</paragraph>
+			<paragraph>Here's where the Satio and Pixon12 begin to differentiate. Take the scenes shortcut for example - the first thing you'll notice is the number of scenes (8 on Satio, 14 on Pixon12).</paragraph>
+			<paragraph>It's not just the number - in Satio scenes are represented just by their icon and selecting one simply switches it on. On Pixon12, each scene has a label underneath it and what's even better - selecting one displays a thumbnail and a short description of the scene.</paragraph>
+			<paragraph>The descriptions are one or two sentences long but can be very helpful to novices. For example, the Fireworks or Night scenes say "Keep camera still", or the Fall color scene says it "emphasizes red and green".</paragraph>
+			<paragraph>This won't magically turn you into a professional but it will help you get better pictures the first time around. And next time, you'll know what to do to get the same good results.</paragraph>
+			<paragraph>Satio has a different approach - while the Scene selection popup is on screen, there's an info button. Tapping it brings up another popup, which lists the scenes and what they do.</paragraph>
+			<paragraph>Judging the winner is tough here. It obviously depends on how advanced the user. The Pixon12 is more user-friendly but takes longer to set as it needs an additional click to store the selection of a Scene preset.</paragraph>
+			<paragraph>The extended settings are similar on both phones - tabs are used to separate settings into groups and since there are more settings that can fit on the screen, you need to scroll down to see all of them.</paragraph>
+			<paragraph>Satio does a little better here as it uses a scroll bar for smooth scrolling and it has the settings for both still images and video recording accessible simultaneously. Quite the opposite with the Pixon12 you need to switch to video mode to alter video recording settings.</paragraph>
+			<paragraph>Hardware camera shortcuts</paragraph>
+			<paragraph>Sony Ericsson Satio and Samsung Pixon12 have different approaches to starting the camera. Satio has a mechanical lens cover, which needs to be opened manually. It's an active cover which automatically starts the camera. Closing the cover, naturally turns the camera off. Pixon12 in turn is started by a dedicated camera button and the lens cover retracts automatically.</paragraph>
+			<paragraph>In both cases, the camera can be started even if the phone is locked so we have to call it even. The sliding cover of the Satio is big enough so that accidental smudges on the lens are unlikely. The Pixon12 has a piece a glass on top of its lens cover, and its proneness to scratches is a major drawback.</paragraph>
+			<paragraph>Hardware shortcuts are easier to use than on-screen ones - the tactile feedback offered by today's touchscreens is no match for pressing an actual button. But it's because of their touch operated nature that both phones have precious few hardware buttons.</paragraph>
+			<paragraph>If fact, besides the shutter key, the only camera related button on the Pixon12 is the dedicated button that launches the camera (and of course the volume rocker handles digital zoom).</paragraph>
+			<paragraph>Satio tops that with a button that toggles still shots and video recording and a dedicated Gallery button. There's no camera-launching button, but the active lens cover takes care of that.</paragraph>
+			<paragraph>Neither phone comes close to, say, the Sony Ericsson C905 when it comes to physical camera shortcuts, let alone the Samsung W880 AMOLED 12M monster - it even has a mode dial!</paragraph>
+			<paragraph>The occasional lag in the camera interface in Satio bugged us, but the UI seems more modern and the unprotected lens of the Pixon12 means you always have to be gentle in handling it or risk compromising picture quality</paragraph>
+			<paragraph>WINNER: Tie</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The ability to quickly preview the shot you've just taken is perhaps one of the main advantages of digital photography over good old film. Let's have a look at how well the two contenders perform as a digital photo frame, shall we? There are two sides to this - hardware and software. We begin with the hardware, or more to the point - the display.</paragraph>
+			<paragraph>The screens of the Samsung Pixon12 and Sony Ericsson Satio are quite different. Pixon12 comes with an AMOLED touchscreen of WVGA resolution, which has lively colors and great contrast. All that in the shade though, in sunlight the display doesn't perform too well.</paragraph>
+			<paragraph>Satio has the lead in terms of sunlight legibility. And while the pixel count (pixel density too) are not as high, the 3.5" screen is noticeably bigger and nHD resolution is still good enough for a display this size. Due to aspect ratio considerations however, photos previewed on the Satio display are not much bigger than on the Samsung, certainly not 0.4" bigger. And in favorable indoor lighting TFT is not as good as OLED.</paragraph>
+			<paragraph>Now for the software - both the Pixon12 and the Satio offer well organized galleries, which arrange photos by date and have tags as a means to group your photos.</paragraph>
+			<paragraph>Satio is ahead yet again in aesthetics with its Media application - the well-known interface, known from Playstation to mobile phones. It runs silky smooth - it will zoom in on a 12MP photo without breaking a sweat. Everything is animated too, not even the background sits still.</paragraph>
+			<paragraph>Some things are not very well thought-out though - for example, when selecting multiple photos the difference between selected/unselected is only indicated by opacity (to show off the animated background perhaps) but that just doesn't work for some photos (especially darker ones).</paragraph>
+			<paragraph>The Pixon12 on the other hand lacks the glitter, but instead relies on no-nonsense usability - the one finger zoom for one is a very nice feature as it eliminates a lot of panning, you just zoom in on what you want. Accelerometer-based scrolling is mostly a gimmick but will wow your friends the first time.</paragraph>
+			<paragraph>Both galleries also come with slideshow capabilities and direct web uploading to all the popular sites. There are also the built-in image editors - not quite on par with Photoshop, we admit, but they should be enough to crop, downsize and sharpen a photo before uploading.</paragraph>
+			<paragraph>Pixon12 offers two editors - Image editor and Dynamic canvas. The Image editor is good for applying effects, image levels adjustments and resizing, while the Dynamic canvas takes advantage of the touchscreen and lets you draw with your fingers.</paragraph>
+			<paragraph>Overall the editors in both phones are quite capable (as far as editing on the phone goes), enough to handle the basic and most commonly used tricks, maybe even a quick joke with a photo of someone. The one on Pixon12 offers more effects to stylize an image (the usefulness of this is questionable), while Satio has red-eye correction which will certainly come in handy.</paragraph>
+			<paragraph>For indoor viewing OLED is king, but indoors we also have computers - it's viewing photos on the device while outside that we want. The speed of the gallery (especially in zooming) is also a major point. The image editors of the Pixon12 might seem like a big advantage, but they're not - it tends to present you with a whole screen of similar looking effects, which confuses more than it helps. The editor in Satio offers the basics without unneeded complexity.</paragraph>
+			<paragraph>WINNER: Sony Ericsson Satio </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Having put the cameras to so many tests, we can safely conclude that the Pixon12 beats the Satio in terms of image quality. The output is better in the elements that we consider most important for producing better shots in real life scenarios.</paragraph>
+			<paragraph>Yet picking a winner between those two cameraphones is anything but easy. The Satio has its own strong points and we know picture quality is only one part of the general experience. Besides, the difference is not that great so it's completely up to the user to decide what compromises can be made.</paragraph>
+			<paragraph>The Sony Ericsson Satio has a better looking camera and gallery interface, a superior BestPic burst shooting mode, an active lens cover and a hardware key to toggle stills, video and gallery. It also takes an edge in the video recording department.</paragraph>
+			<paragraph>On the other hand, the Samsung Pixon12 camera interface has several additional features such as blink detection and WDR, but the easily exposed lens glass is almost sure to get scratched.</paragraph>
+			<paragraph>In addition to that, we feel the different focal lengths of both cameraphones will make some difference too and give users another tough choice to make. The wide-angle 30mm lens of the Pixon12 is better for landscapes, cityscapes and group shots taken indoors. But portraits (the head-and-shoulders type of shots) come off slightly better with the 35mm lens of the Satio. Inevitably, the wide angle lens creates more optical distortion, which can make faces look a bit awkward.</paragraph>
+			<paragraph>So in conclusion, if you have only scanned the article to find the winners in different categories we suggest you go back and pay more attention - at least to the tests that matter most to you. Only then will you be able to decide which camera will suit you better depending on what is really important to you.</paragraph>
+			<paragraph>We guess the difference in physical size, the smartphone OS behind the Satio and the local pricing will be the three other major factors for you to consider before splashing the cash. In any case, we doubt it anyone will regret purchasing either of the two handsets. They're both excellent performers and if one was victorious we hope both emerged wiser from the battle. One thing we know though is that in technology there's no battle to end all battles.</paragraph>
+		</subsection>
+	</page>
+</review>

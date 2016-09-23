@@ -1,0 +1,66 @@
+<review>
+	<title>Huawei MWC 2013</title>
+	<description>Ascend P2 hands-on</description>
+	<link>http://www.gsmarena.com/huawei_mwc_2013-review-894.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Huawei has become one of the world's prominent smartphone makers, and the company's new Android smartphone, the Ascend P2 launches to great interest. It's the successor to the P1, but borrows the quad-core processor of the D1 series.</paragraph>
+			<paragraph>The screen is a 4.7" IPS LCD of 720p resolution, which gives it 312ppi pixel density, so it's not quite the 1080p monster that was rumored earlier. The handset is good-looking nonetheless - check out our impressions on the following page. It has the touchscreen layer integrated right into the LCD cell and it offers something they called Magic Touch, which basically means it will work even with your gloves on.</paragraph>
+			<paragraph>The phone runs Android 4.1.2 Jelly Bean at the moment, dressed in Emotion UI 1.6, we'll see what Huawei has to say about updates.</paragraph>
+			<paragraph>The Ascend P2 is the first phone to support LTE Cat 4 - it can potentially reach download speeds of up to 150Mbps, instead of the 100Mbps of regular Cat 3 LTE phones. Huawei are claiming the "world's fastest" title for the P2. We are yet to see European carriers launch such high-speed LTE networks.</paragraph>
+			<paragraph>The camera is a 13MP shooter with a BSI sensor and, as is fashionable lately, has HDR mode for both stills and video.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Huawei Ascend P2 hands-on<subsectionTitle>
+			<paragraph>The Huawei Ascend P2 features a 4.7" IPS LCD screen of 720p resolution. Contrary to what Huawei's CEO tried to convey on stage, the viewing angles are not exactly perfect - there's some contrast loss when you tilt the phone. However, the screen is quite bright and images look pretty good outdoors, even in direct sunlight.</paragraph>
+			<paragraph>The screen is protected by the ubiquitous Gorilla Glass 2, which is curved at the sides to meld better with the rest of the phone. Huawei calls this "Infinity edge display". The screen features Magic Touch (just like the 6.1-inch Ascend Mate), which means you can operate the phone even with gloves on or with fingernails.</paragraph>
+			<paragraph>The camera at the back of the Ascend P2 can shoot 13MP stills and 1080p video and do HDR in both modes. The front-facing camera is a 1.3MP snapper. Huawei are proud of their Super Zoom, which promises better quality when you zoom up to 2x, but didn't go into details about how it works. We tried it out and we think it's standard digital zoom, so nothing special there.</paragraph>
+			<paragraph>Here are three samples we managed to snap before we lost the light.</paragraph>
+			<paragraph>The Ascend P2 is 8.4mm at the waist, which isn't chubby, but it's by no means the thinnest phone around.</paragraph>
+			<paragraph>The handset will come in Black and White. The plastic on the back doesn't seem like anything special, but is quite nice to the touch.</paragraph>
+			<paragraph>The back of the phone also features a secondary noise-cancelling mic.</paragraph>
+			<paragraph>The Huawei Ascend P2 has a hardware shutter key on the right side, along with the Power/Lock key and microSIM card slot. There's no microSD card slot and the internal storage is 16GB, of which only 10.5GB are available to the user.</paragraph>
+			<paragraph>Inside the phone there is a 2,420mAh battery, along with some clever power-saving tech and quick charging mode. Huawei promises up to 25% better battery life and shorter charging times.</paragraph>
+			<paragraph>The Ascend P2 is powered by a 1.5GHz quad-core processor and runs Android 4.1.2 Jelly Bean. The interface is very smooth, but our first impressions of the Emotion UI 1.6 are that it's a bit confusing. We'll spend some more time with the phone and see if we warm up to its custom skin.</paragraph>
+			<paragraph>It's a one level UI called Uni Home, similar to the iOS interface or that of MIUI. It's very customizable too, apparently there are 100 themes and fonts to choose from. Here it is in action:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Huawei is aiming high with the connectivity on the P2 - it's the first phone capable of LTE Cat 4 connectivity. While other LTE-enabled phones are Cat 3 rated (100Mbps downlink), this one can get up to 150Mbps. Uplink speeds are still at 50Mbps.</paragraph>
+			<paragraph>There's also NFC on board and the proprietary Swift sharing tech that enables file transfers between phones over Wi-Fi (something along the lines of Wi-Fi Direct). To ensure the best Wi-Fi speeds, the Huawei Ascend P2 packs two Wi-Fi antennas.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Huawei Ascend P2 benchmark performance<subsectionTitle>
+			<paragraph>We tried to get to know the Huawei Ascend P2 as well as we could during our brief encounter and that includes some benchmarks.</paragraph>
+			<paragraph>Benchmark Pi gauges single-core performance and what we're seeing is in line with Cortex-A9 at 1.5GHz.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>AnTuTu and Quadrant are compound benchmarks, testing the overall performance. The Ascend P2 seems on par with the outgoing flagships, but is no match for the new generation. It did manage to give the Nexus 4 a run for its money, but that phone just doesn't benchmark well for some reason.</paragraph>
+			<paragraph>Note that the P2 has a 720p screen, while some of the other phones on the list have 1080p screens, that's over twice as many pixels. This affects the score as the benchmarks have a set of GPU performance tests.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We also ran a SunSpider test to see how the browser performs (the Huawei Ascend P2 uses the Android browser rather than Chrome), but the results didn't seem realistic, so we'll leave that for later.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>Day 1, no scratch that, Day 0 of the MWC is drawing to an end. The Huawei event is over and we're heading back to our base. We thought we'd share our first impressions of the Ascend P2 along the way.</paragraph>
+			<paragraph>While the P2 is certainly a nice phone, we don't quite know what to make of it. Our biggest gripe is that specs-wise, it's last year's flagships' equal - the HTC One X, LG Optimus 4X HD, and the Samsung Galaxy S III. Too bad two of those have already been replaced and the third one will get succeeded pretty soon as well.</paragraph>
+			<paragraph>But you won't see that in the price tag - Huawei is planning to ask ?400 for it in Q2, while a Galaxy S III can be had for ?450 and an HTC One X is ?420 as we speak.</paragraph>
+			<paragraph>True, the Ascend P2 is the first with LTE Cat 4 - 150Mbps downlink is is an offer no other phone can beat at the moment, but then again, no major carrier can offer a matching high-speed network either. And the 13MP camera may be beating the old flagships by sheer resolution, but we won't bet our wages on it winning an image quality competition against them.</paragraph>
+			<paragraph>Then, there are a few other nags too - like having only 16GB of built-in memory (with only 10.5GB being user-available, and no microSD card slot in sight. And calling 8.4mm "ultra-thin" is a bit misleading (Huawei's own Ascend P1s is 6.7mm thick, now that's what we'd call ultra-thin).</paragraph>
+			<paragraph>The user interface didn't win us over either - some might like Emotion UI 1.6, but others will hate it. Huawei included a long list of tech like cloud integration, tight control over the phone's resources and other things we didn't have time to get into, but there's no "killer app", not that we see it.</paragraph>
+			<paragraph>We'll be revisiting the Huawei Ascend P2, but our initial impressions are that it doesn't seem to have a place to call its own in the densely populated mobile landscape. Huawei doesn't have the brand recognition to push last year's specs, not in the highly competitive field of Android smartphones.</paragraph>
+		</subsection>
+	</page>
+</review>

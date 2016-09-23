@@ -1,0 +1,123 @@
+<review>
+	<title>Moto 360 review</title>
+	<description>Eye catcher</description>
+	<link>http://www.gsmarena.com/motorola_moto_360-review-1176.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>1.56" LCD display; 320 x 290 pixels; 205ppi; Corning Gorilla Glass 3</paragraph>
+			<paragraph>TI OMAP 3 chipset; 512MB RAM; 4GB of built-in storage</paragraph>
+			<paragraph>320mAh battery rated at a full day of mixed use; Qi wireless charging with bundled cradle</paragraph>
+			<paragraph>46mm in diameter; 11.5mm thick</paragraph>
+			<paragraph>Stainless steel case with IP67 rating</paragraph>
+			<paragraph>Available in different finishes with metal or genuine leather band (off-the-shelf standard 22mm band)</paragraph>
+			<paragraph>Bluetooth 4.0 LE connectivity</paragraph>
+			<paragraph>Dual-microphone setup for voice commands</paragraph>
+			<paragraph>Built-in optical heart rate monitor and pedometer</paragraph>
+			<paragraph>Android Wear OS with Google Now integration</paragraph>
+			<paragraph>Incredibly light at 49 grams with the leather band</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>The screen is not fully circular</paragraph>
+			<paragraph>There are competitors with more pixel-dense displays</paragraph>
+			<paragraph>Android Wear tries to do too many things at once</paragraph>
+			<paragraph>Battery life could be better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Announced back in March, Motorola's Moto 360 is undoubtedly one of the hottest wearable devices of the year. The Android Wear flagship is the first device of its kind to effectively blur the lines between a smartwatch and a regular mechanical timepiece in terms of design.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>We call the Moto 360 an Android Wear flagship for a good reason. The gadget is the first and will probably remain the only smartwatch developed with direct input from the search giant. Motorola only recently changed ownership from Google to Lenovo.</paragraph>
+			<paragraph>Moto 360 is unique not only because of its appearance, but internals too. Motorola's creation is the only Android Wear device to swap Qualcomm Snapdragon 400 for a Texas Instruments chipset. Check out the device's key features below.</paragraph>
+			<paragraph>Motorola Moto 360 lags behind some of its competitors in terms of hardware specs, though this is hardly a surprise. After all, the device is one of the first Android Wear products to hit the market.</paragraph>
+			<paragraph>The smartwatch appears to make up for its hardware shortcomings with looks and broad appeal. None of its competitors can match the variety of styles that Moto 360 is available in.</paragraph>
+			<paragraph>We will kick our Moto 360 review with an unboxing, followed by a look at its design and hardware. Head over to the next page for a closer look at the smartwatch!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>The retail box of the Moto 360 is round like the smartwatch inside it. In addition to the device, the package contains a Qi wireless charging cradle, a wall charger, and a USB cable.</paragraph>
+			<paragraph>The charging dock of the smartwatch is probably the coolest solution of its kind we've seen to date. When placed into it, the Moto 360 offers a dedicated ambient clock mode, which looks great on a desk or a nightstand.</paragraph>
+			<paragraph>Available accessories for the Moto 360 include genuine Horween leather straps in three different colors (black, brown, and stone) and metal bands with black or genuine metal finish. They are priced at $29.99 and $79.99 respectively.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Motorola Moto 360 is arguably the best looking smartwatch available at the moment. With round body and a display with no bezels, the device looks more elegant and desirable than any of its competitors.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>A variety of available metal case finishes assures that the looks of the Moto 360 will fit just about every taste. The smartwatch is available in natural stainless steel finish, black, and champagne gold.</paragraph>
+			<paragraph>The champagne gold and the stainless steel version of the Moto 360 can be ordered with a slim 18mm metal band, which will appeal to female tech lovers. Motorola deserves a hat tip for offering such color combination - it is the only manufacturer to do so for the time being.</paragraph>
+			<paragraph>Build quality of the smartwatch is solid. Its stainless steel case handles daily wear without breaking a sweat as does the single button on its right side.</paragraph>
+			<paragraph>Gorilla Glass 3 covers the display of the Moto 360, so it is not likely to scratch easily from regular use. You can always opt for a screen protector if you want to take an extra step to prevent accidents.</paragraph>
+			<paragraph>Moto 360 is incredibly light despite its metal construction. At 49 grams with the genuine leather band, the device makes for a good daily companion - you will barely feel that you are wearing it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>The hardware layout of Moto 360 is simple. The touchscreen and the button on the left side of the smartwatch are in charge of controlling it.</paragraph>
+			<paragraph>Underneath the device is where the heart rate sensor can be found. The lugs for the watchband are there as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>Motorola Moto 360 packs a 1.56" backlit LCD display with a resolution of 320 x 290 pixels. The unit's pixel density clocks in at 205ppi.</paragraph>
+			<paragraph>As you probably know by now, the display of Moto 360 is not completely circular - the ambient light sensor of the device, as well as the LCD driver, take up a small part of its bottom. The sensor is particularly visible if you use a light colored watch face, though it doesn't have any effect on the device's functionality.</paragraph>
+			<paragraph>The screen offers stellar, though far from perfect contrast. Colors are good and so are the viewing angles. Sunlight legibility could have been better, but we didn't find it to be a deal breaker.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Moto 360 is powered by a 320mAh battery, which is quoted at offering all day of mixed use. The Qi wireless cradle tops the battery up in about an hour.</paragraph>
+			<paragraph>Our experience with the device's battery fell mostly in line with Motorola's original claims. When using the smartwatch between 8am and midnight without the always-on ambient display, it burned through roughly half of its battery capacity.</paragraph>
+			<paragraph>Naturally, if you opt for turning ambient display on, you can expect a dip in the battery life of the device. We reckon however, that it will still make it easily through 12-14 hours of use - enough to get you through most of the day.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android Wear<subsectionTitle>
+			<paragraph>Moto 360 runs Android Wear version 2.0 based on KitKat. Google is expected to update the OS with the latest Lollipop code in the coming weeks or months. For now though, every Android Wear smartwatch is running the same version, as Google is keeping things under tight control regarding custom manufacturer skins.</paragraph>
+			<paragraph>Because of this, the UI of the device is the same as that of the rest of the Android Wear gang. Take a look at the Moto 360 in action below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Announced at Google I/O this past summer, Android Wear is the company's take on how a smartwatch should behave. It has to be noted, that you need to pair it with an Android phone to be fully functional, though. Phones using other OS's won't work.</paragraph>
+			<paragraph>The user interface of Android Wear is organized in different cards, much like Google Now. A swipe from the bottom brings up all the notification cards that are pending on your phone and your Google Now activity. With the cards now active, a swipe to the left dismisses the current card and an opposite swipe shows contextual options for it.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The cards interface harness the full power of Google Now and can also offer you navigation, calendar and note reminders. Android Wear allows you to interact with them as well. The navigation card is one of the coolest as it gives you turn-by-turn directions on how to get to your destination - straight to your wrist.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If you don't feel like getting notifications for a certain time, you can mute them by a swipe from the top. This will also show you the battery status and the date.</paragraph>
+			<paragraph>A single tap on the watchface brings up the voice command interface of Google Now. This is also activated by saying "OK, Google" when the watch is active. Overall, voice recognition of the Moto 360 is superb.</paragraph>
+			<paragraph>If you don't feel like talking, you can swipe up from the voice command screen and browse through the available options. Searching Google is just part of the story here, as you can directly manipulate the phone through the watch. You can take notes, set reminders, play music, open a stopwatch and measure your heart rate, just to name a few.</paragraph>
+			<paragraph>Motorola has preloaded a ton of watchfaces for you to choose from, ranging from classic to modern. In short, there is a watchface for every taste.</paragraph>
+			<paragraph>A recent firmware update even brought the option to create your own watchface. You can further tweak available watchfaces though the Motorola Connect app.</paragraph>
+			<paragraph>When you wake up the watch back to active state (which happens even when you raise your hand to check the time), the hand updates and jumps over to the correct time, but not without you noticing it first. That's seriously annoying as anyone would expect their watch to show the correct time at any given moment.</paragraph>
+			<paragraph>Of course, that's a minor nuisance, when compared to the quirks of the Android Wear user interface on a circular display. It's not too uncommon to see letters cut off towards the edges, making you unable to read parts of a message.</paragraph>
+			<paragraph>Pressing the crown awakens the watch and a long press gets you into the settings menu. There you can adjust the brightness, see the connected Bluetooth devices, toggle airplane mode and get into the developer options.</paragraph>
+			<paragraph>You can also start Android Wear dedicated apps right on the smartwatch. Preloaded are Google Fit, Play Music and Google Keep. There are many more you can install from the Play Store. For instance, you can have a go at a custom launcher or a custom watchface maker app like Facer.</paragraph>
+			<paragraph>Motorola Connect, like we already mentioned, allows you to customize the watchfaces of the Moto 360. You can also locate your lost or stolen smartwatch through the app. An option to personalize your wellness profile through Moto Body is also available.</paragraph>
+			<paragraph>The Moto 360 is also controlled from the dedicated smartphone Android Wear app. It enables you to customize the apps opened upon the different voice actions. Changing the default music app from Play Music to an alternative is quite easy. The Android Wear app is mainly used to pair your smartphone with the watch and fine tune its settings.</paragraph>
+			<paragraph>But regardless of Android Wear's imperfections at this time, Moto 360 performs well. The chipset and 512MB of RAM are keeping the UI smooth and snappy no matter what you're doing, though admittedly, you can't do that much on the watch itself.</paragraph>
+			<paragraph>Overall, Google has made a lightweight, practical Android-based UI, which is user-friendly and it's nice to look at. We just wish there were more things you could do on the watch without a paired smartphone. For instance, as soon as your phone is out of reach (or out of battery), your notes or appointments are no longer accessible on the watch, even though these could have been synced to the watch storage in the meantime.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>Moto 360 looks and feels great in person</paragraph>
+			<paragraph>Motorola Connect adds a plethora of customization options</paragraph>
+			<paragraph>It would have been great if the display was sharper and fully round</paragraph>
+			<paragraph>A bigger battery would have been great, though you still get a full day of usage</paragraph>
+			<paragraph>Android Wear needs more independence from the smartphone</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Motorola Moto 360, like many first generation devices, is as characterful as it is imperfect. As a first generation product in hardware and software alike, the smartwatch can surely use polish, though this doesn't mean however, that the Moto 360 is devoid of charms.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The gadget is a lovely thing to look at and a true conversation starter. Motorola and Google deserve credit for making it equally desirable as both a tech product and a fashion accessory. The available finishes and various metal and leather bands assure that there is a Moto 360 for just about every user out there.</paragraph>
+			<paragraph>The display of the Moto 360 is arguably its biggest shortcoming. It is not as sharp as the units offered by the newer Motorola competitors, especially the round P-OLED found in the LG G Watch R, which we reviewed recently. Of course, that doesn't mean the screen is a bad quality.</paragraph>
+			<paragraph>The battery could have been bigger, though we easily got a day of regular usage out of it. The Qi wireless charging dock is probably the coolest bundled accessory we've seen on any mobile device in 2014. Its design and implementation are superb.</paragraph>
+			<paragraph>Android Wear has a way to go before it can call itself polished. However, a couple of major updates since the launch of the Moto 360 suggest that Google is serious about wearable devices. An Android 5.0 build is bound to arrive in the near future and make the platform even better.</paragraph>
+			<paragraph>Our biggest gripe with Android Wear is that it's sitting on the fence about being only a companion notifications monitor, a fitness monitoring gadget or a standalone smart device. It's neither of these in full and it hardly excels in any department.</paragraph>
+			<paragraph>The Motorola Moto 360 is priced at $249.99 for a model with genuine leather band. Stainless steel band adds another $50 to the price tag, while the champagne gold model with 18mm metal bracelet goes for $329.99.</paragraph>
+			<paragraph>LG G Watch R is undeniably the biggest competitor of the Moto 360. Priced at $299.99, it offers a better display and bigger battery. However, LG's entry is has a more rugged look and its screen is smaller in diameter.</paragraph>
+			<paragraph>Asus ZenWatch is another competitor worth mentioning, which, at $199.99, is priced cheaper than the Moto 360. The Taiwanese offering is stylish, though it lacks the versatile look and the variety of available finishes of the Moto.</paragraph>
+			<paragraph>A watch is an even more intimate product than a smartphone, so design and tactility are extremely important. Moto 360 excels in both, so it is a safe pick for an Android Wear device despite its better-equipped competitors.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,244 @@
+<review>
+	<title>Six-way camera shootout</title>
+	<description>Smartphone roulette</description>
+	<link>http://www.gsmarena.com/six_way_camera_shootout-review-998.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Camera shootouts are a proud GSMArena tradition and the latest edition features by far the most technologically advanced cameraphones yet. We have large sensors, sky-high resolution, optical image stabilization, clever image processing and a selection of cool tricks all in pocketable packages with flagship-grade hardware and software.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Six top notch phones, three smart platforms, and a total just shy of a hundred million pixels, prepare to meet the contenders.</paragraph>
+			<paragraph>Obviously, this shootout just has to include the Nokia Lumia 1020 - it took over from the 808 PureView as the most advanced cameraphone with a camera, inheriting all the benefits of the other PureView phones so far (the PureView 808 and the Lumia 920). The 1/1.5" optically stabilized sensor with the whopping 41MP of resolution is one of its kind and the xenon flash is equally rare these days.</paragraph>
+			<paragraph>Sony is also aiming high without crossing any lines in terms of practicality. The Japanese went ahead and put the largest sensor that would fit in an 8.5mm slim phone, and the result is quite impressive: a 1/2.3" 20.7MP imager, which may not have optical image stabilization, but it sure doesn't have a bulge on the back either. We had to get a second Z1 unit for this shootout as the first one had some issues with its lens but now the promising cameraphone can show its full potential.</paragraph>
+			<paragraph>Then there are the other Android hopefuls, which stick to the well proven Sony-made 13MP sensors. The LG G2 spices things up with optical stabilization plus 1080p video capture @ 60fps. The Samsung Galaxy Note 3 trumps that with 2160p video capture as well as 1080p @ 60fps, but it skips the OIS.</paragraph>
+			<paragraph>The updated Apple iPhone 5s camera is in the ring too - it has a larger sensor and brighter optics compared to the last generation, but the droids seem leaps and bounds ahead on paper. But that's not what we are after here - it's the real life performance that matters and the iPhones have managed to deliver more than their specs sheets suggest.</paragraph>
+			<paragraph>Finally, the HTC One is the oldest phone we're putting to the test but it's the first Android to include OIS and its different approach is certainly interesting to compare. Using fewer but large pixels (dubbed UltraPixels) goes against the grain, and we are interested to see how it works out.</paragraph>
+			<paragraph>Obviously we'll be testing the still photo and video recording prowess of all six phones, in both good and bad lighting scenarios. We're also including some of the commonly used features like HDR and panorama, and even pitting Nokia's video zoom against Samsung's take on the feature. This one is shaping as a one intense competition.</paragraph>
+			<paragraph>We start off with the still camera functionality and then break down image quality. Join us after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera hardware and features<subsectionTitle>
+			<paragraph>Camera features fall into two categories - hardware and software features. The hardware obviously creates the base of what can be achieved (e.g. great low-light shooting thanks to brighter optics or shake-free photos with optical image stabilization), with the software building on that by allowing better control of the camera or using the robust chipset to create fun effects.</paragraph>
+			<paragraph>Let's go over the hardware first, as that's the most important part by some distance. The Nokia Lumia 1020 obviously leads the charge here - it's the one area where this phone is miles ahead of the competition.</paragraph>
+			<paragraph>It has a massive sensor to begin with - a little over 50% bigger in terms of surface area compared to the closest competitor (Xperia Z1) and has double the resolution. The Xperia is almost an exception like the Lumia 1020 itself, the norm is 1/3" sensors - a quarter the surface area of the 1020 sensor - and anywhere between 3x and 10x fewer pixels.</paragraph>
+			<paragraph>It also has a fairly wide aperture - f/2.2 - which is impressive considering the sensor size. The Xperia Z1 and HTC One have f/2.0 lenses, though that is in part thanks to the smaller sensors. The only camera here that has a slower than f/2.2 aperture is on the LG G2 with f/2.4.</paragraph>
+			<paragraph>Speaking of lenses, we should mention that half of the phones have optical image stabilization (OIS) - Lumia 1020, LG G2 and HTC One. It's obviously a desirable feature for a flagship phone, though we've seen the iPhone 5s fare impressively well going only digital for video stabilization. It comes at a price though - digital stabilization reduces the field of view (it only uses the central part of the sensor with the borders acting as a buffer) and it can get confused by fast moving objects, causing an unpleasant shake effect even if the phone is perfectly still.</paragraph>
+			<paragraph>The OIS will help a bit with low-light photography, but without a doubt, it's more advantageous in video capturing. For photos in poor lighting, a strong flash is what is needed (a wide aperture and large sensor help too). The Lumia 1020 flexes its muscle here with its xenon flash, which is considerably more powerful than LEDs. The iPhone 5s does well for itself with a dual-LED flash (that also promises a better "True Tone" white balance), while the rest are stuck with a single-LED flash and, as we're about to see, that's often not enough.</paragraph>
+			<paragraph>The final - and not least important - feature of the hardware is how long it takes to process the shot and get ready for the next one. All phones are satisfyingly sub-second fast, except for the Lumia 1020 - it takes a staggering 4 seconds between photos. It may not sound like much, but in practice this is highly annoying and waiting for the phone to churn out those 38MP photos might result in missed photo opportunities more often than not (and no, shooting at just 5MP doesn't speed things up).</paragraph>
+			<paragraph>Time to cover the software features. Some of them actually help you take a better shot - the Nokia Lumia 1020 shines again here with full manual controls that lets you take over things like focus, shutter speed, EV and more. The Lumia 1020 is also the only phone here with a mechanical shutter.</paragraph>
+			<paragraph>The Sony Xperia Z1 has a "manual control" mode but that's in name only as it doesn't actually enable more controls than other Android cameras (it just unlocks more options compared to Superior Auto that does all the setup automatically).</paragraph>
+			<paragraph>The Apple iPhone 5s has AE/AF lock, which can be very useful in some situations, but virtually no other controls. The HTC One also has AE/AF lock, while the rest depend on automatic settings.</paragraph>
+			<paragraph>The high resolution sensor of the Lumia 1020 allows it to do something none of the others can - it can zoom in up to 3x on a 5MP shot, without noticeably degrading the quality. It can even do it for videos too, but we'll get to that later.</paragraph>
+			<paragraph>Other than allowing you to adjust the settings, the software can enhance the camera in other ways. For example, HDR mode allows you to shoot nicely exposed shots in tricky lighting conditions and is a very important feature for otherwise limited dynamic range of the phone cameras.</paragraph>
+			<paragraph>All phones except the Lumia 1020 have an HDR mode (the Xperia Z1 limits the resolution to 8MP though). The Lumia does automatic EV bracketing, which is like HDR but without the automatic fusing afterwards. Some people will prefer it - it can capture up to 5 photos in a -3EV to +3EV range, much wider than what other phones can and then do an HDR photo on your computer later on. Also, another thing to consider is that some phones go too far with the HDR effect (or go too conservative and you can barely tell the difference), with EV bracketing you can create the HDR manually, tuning every setting to your liking (which fits well with 1020's manual controls).</paragraph>
+			<paragraph>Then there's the panorama - all phones can do it, but the South Koreans (LG G2 and Samsung Galaxy Note 3) can do spherical panoramas too (think Photo Spheres and Google Street View), while the iPhone 5s does sort of an HDR panorama. The panoramas also differ in the field of view they cover and the final resolution, we'll get back to that.</paragraph>
+			<paragraph>Then come the fun features. Some of them can be quite useful - e.g. the dual shot capabilities (shooting with the front and back cameras simultaneously) of the LG G2 and Samsung Galaxy Note 3, which allow whoever is holding the phone to be in the shot too.</paragraph>
+			<paragraph>There are ways to remove moving objects - e.g. a passerby walking in your shot. Those are called different things like Eraser or Shot &amp; Clear but they all do the same thing (Note 3, LG G2, HTC One, Lumia 1020). Then there's Drama / Action / Sequence shots (Note 3, Lumia 1020, HTC One), which insert a moving object multiple times in the shot instead of removing it.</paragraph>
+			<paragraph>Another trick is to capture a photo before you even press the shutter key - the phone continuously captures and discards photos and saves the ones, captured when you hit the shutter key plus several before that. That's called Timecatch shot or Timeshift burst (LG G2, Xperia Z1).</paragraph>
+			<paragraph>There are more cool tricks to be had - like shooting GIFs, which are highly popular on the Internet. That's Cinemagraph or Animated Photo (Lumia 1020, Galaxy Note 3).</paragraph>
+			<paragraph>One last thing: field of view. The Nokia Lumia 1020 beats all phones in this category, save for the HTC One. It photos are a little wider (for 16:9 photos), while the Lumia's photos are taller. We shot 4:3 photos with it, so keep in mind you can go wider with the 16:9 mode thanks to Nokia's special sensor design. The Xperia Z1 FoV is almost as wide as the 1020's, while the Galaxy Note 3 is the one with the narrowest FoV.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still photo quality in good light<subsectionTitle>
+			<paragraph>Those fun software features might be of interest to the Instagram crowd, but most of you are probably here for raw image quality. Since we're comparing phones of wildly different resolution capabilities (from 4MP to 38MP), we split this section into two.</paragraph>
+			<paragraph>First, we'll be looking at photos at native resolution, taking the 5MP PureView photos of the Nokia Lumia 1020 and the 8MP Superior Auto photos of the Sony Xperia Z1. Keep in mind that SA mode on the Z1 produces 16:9 photos rather than 4:3, so the difference in vertical resolution isn't that big. The bigger difference is the Nokia's wider field of view.</paragraph>
+			<paragraph>Here's the first batch of 100% crops:</paragraph>
+			<paragraph>And the second one:</paragraph>
+			<paragraph>On pixel-peeping level, the Nokia Lumia 1020 makes its superiority clear. Yes, 5MP may not be that much in terms of maximum resolution, but the level of resolved detail is amazing. Thanks to the supersampling (not to mention the large sensor and high quality lens) the 5MP shots have amazingly little noise and plenty of detail. The Lumia also wins out in terms of color balance.</paragraph>
+			<paragraph>The Sony Xperia Z1 has a fairly large sensor of its own, plus its own version of supersampling. The resolution vs. resolved detail applies to the Z1 too, though to a lesser extent. The photos are not quite as sharp and detail-rich as the Lumia 1020's images, but they look very good. If you don't mind the colder white balance.</paragraph>
+			<paragraph>The Samsung Galaxy Note 3 and LG G2 both shoot 13MP stills and both resolve virtually the same amount of detail. The difference comes from processing. The LG G2 tends to overexpose photos, but has more accurate colors. The Galaxy Note 3 gets the exposure right and it looks like its photos are sharper, but that's just due to a stronger sharpening filter. There is a bit more noise in the sky too.</paragraph>
+			<paragraph>The Apple iPhone 5s photos are true 8MP shots - it gains no advantage from supersampling or similar tricks. This results in less detail than the 13MP cameras and its colors tend to be off (not to mention the consistent yellowish tint).</paragraph>
+			<paragraph>The HTC One is firmly at the bottom. The 4MP shots don't leave much room for fine detail. We are not resolution freaks, but the HTC One doesn't stand a chance. With only 1MP less in terms of resolution and comparable FoV, the One's photos are miles behind the 5MP Lumia 1020 shots.</paragraph>
+			<paragraph>Okay, we've been talking about captured detail, time to get a closer look at it. We upscaled all photos to match the 38MP shots in terms of resolution (for the Xperia Z1 we used the nominal 20.7MP resolution and then upsized from there). The reason we went for upsizing should be self-explanatory. Downsizing takes away the resolution advantage of the higher megapixel cameras so upsizing all shots to one and the same resolution is the only fair way of comparing their real-life detail resolving powers (real life as opposed to shooting ISO charts in a studio setting).</paragraph>
+			<paragraph>The Lumia 1020 has a big advantage at its native resolution - there's noise, but still plenty of detail and looking at these huge photos at 100% feels like "seeing" more of the subject than with any other phone.</paragraph>
+			<paragraph>The Sony Xperia Z1 comes pretty close here - you can see some jaggies on the diagonal bars (this seems to be an artifact from the sharpening filter), but the fine texture of the plaster that can be discerned in the Lumia photos can be seen here too.</paragraph>
+			<paragraph>The Samsung Galaxy Note 3 also manages to capture them, though not at the level of the Lumia 1020 and Xperia Z1. You can also see that a lot of that sharp feel Note 3 photos have is down to strong sharpening, which gets exaggerated to an extent in the upsizing.</paragraph>
+			<paragraph>The LG G2's overly-enthusiastic metering results in overexposure deprived low-contrast bright of some detail, but at least its sharpening is less aggressive than the Note's.</paragraph>
+			<paragraph>The Apple iPhone 5s also misses the subtleties - it just doesn't have the resolution for it, but at least its self-restrained processing doesn't cause any halos.</paragraph>
+			<paragraph>The HTC One completely misses the mark here - yes, the large ratio of upscaling works against it as it softens and pixelates the photo, but it's clear that the detail of the higher resolution cameras is just not there in the first place.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HDR mode<subsectionTitle>
+			<paragraph>Another thing to look at is HDR mode - all phones but Nokia's have it, though this is a good place to let the wide dynamic range of the PureView sensor shine. As we mentioned already, EV bracketing lets you do HDR if you really need it, but you'll need to do post-processing for that.</paragraph>
+			<paragraph>The thin silhouette of the crane against the clouds with the sun behind them is lost on some phones, while the relatively dark shadow of the building causes yet more headaches for the cameras.</paragraph>
+			<paragraph>The Samsung Galaxy Note 3 looks pretty good here - it resolves the crane even without HDR and with it, it fills in the sky better. It leaves the shadows almost untouched, perhaps for the best - squeezing too much dynamic range could degrade contrast and produce a flat unrealistic photo with poor contrast.</paragraph>
+			<paragraph>The Apple iPhone 5s also looks pretty good in normal mode, while the effects of the built-in HDR are pretty minor. We do have one big complaint here though - strong artificial noise in the sky. You can see it better in the full resolution shot below. That doesn't speak well of the iPhone's processing. The iPhone 5s may have some advantages to a regular shot, but they are the least perceivable.</paragraph>
+			<paragraph>The LG G2 has big issues with this shot due to its tendency to overexpose photos. HDR mode helps a bit, but imperfect alignment of the exposures smudges out some detail in the shadows.</paragraph>
+			<paragraph>The Nokia Lumia 1020 photo (we took the 5MP one) looks pretty great though - the crane is all there and you can see detail in the foliage in the shadows. A single wide dynamic range shot has certain advantages over stacking multiple exposures into one HDR photo - for HDR all objects in a photo must align or the detail will get badly smeared. This means handshake and moving objects can be an issue most often than not. Still, with that dynamic range it would have been amazing if it had an actual HDR mode - except just two exposures would take about 8 seconds with 1020 slow shooting speed.</paragraph>
+			<paragraph>The Sony Xperia Z1 HDR mode does a good job of enhancing the highlights, but the foliage becomes a water painting due to either misalignment of the photos or issues in processing.</paragraph>
+			<paragraph>The HTC One does the worst here, actually losing detail compared to the normal shot. The highlights look the worst and the shadows are over-processed to the point of looking bad.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Panorama<subsectionTitle>
+			<paragraph>The LG G2 and the Samsung Galaxy Note 3 both have a spherical panorama option, but since all phones have sweep panorama we'll compare that instead.</paragraph>
+			<paragraph>The Samsung Galaxy Note 3 produced a panorama with a whopping 60MP resolution with tons of detail and very little stitching artifacts (the tiles on the ground get a little messed up and so does a moving car).</paragraph>
+			<paragraph>The Apple iPhone 5s managed only about half the resolution - 27MP - and the panorama isn't quite as wide and the colors look a bit dull, but it still looks great and with almost no stitching artifacts. Best if all, new to the iPhone 5s, the exposure of these panoramas turn way better. It's almost HDR-like, which is what puts it on par with the Note 3.</paragraph>
+			<paragraph>The HTC One did well here too, producing a wide panorama even if the resolution is rather low (just under 10MP). There are a few blemishes in the stitching, but nothing major.</paragraph>
+			<paragraph>The LG G2 panorama is reasonably wide and the stitching looks okay, though the 6MP resolution is unbecoming of a 13MP camera and a Snapdragon 800 chipset. The biggest issue is the exposure - the phone just didn't do a good job of handling the transition from the shade behind the mall and the bright, sunlit areas.</paragraph>
+			<paragraph>The Sony Xperia Z1 is finicky with panos - your panning shouldn't be too slow, but not too fast either - and it achieved the lowest resolution of the bunch, 5MP (from a 20.7MP camera and with a Snapdragon 800 doing the math, it's just poorly written software). The panorama is full of ghosting artifacts too. At least objects are roughly where they belong, which can't be said for the next phone.</paragraph>
+			<paragraph>The Nokia Lumia 1020 panorama has 12MP resolution, but isn't very wide. The stitching, however, belongs to the abstract school of art, not to mention that the white dots the camera UI presents are not the ideal solution (a couple of the dots were over white clouds, which made them hard to spot). The app also tends to put each dot higher up than the next one, so you end up with the phone tilted up even if you didn't start that way.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still photo quality: low light<subsectionTitle>
+			<paragraph>Most photos are taken during the day, but the mark of a great camera is low-light performance. Phones are typically at a disadvantage here with their small sensors and weak flashes, but that's not the case with some of our contestants.</paragraph>
+			<paragraph>We broke this challenge down in two, depending on whether flash was used. Sometimes you just can't use flash, for example, if your subject is too far away - and as we're about to see, "too far away" is not all that far from some phones.</paragraph>
+			<paragraph>Here are the crops we made from the best and worst photos we took with each phone. This image shows the results for both cases - flash off and on - to demonstrate what kind of difference flash makes (or fails to make). The worst shot shows how consistent a phone is, that is, can you snap just one photo with it and count on it being as good as possible.</paragraph>
+			<paragraph>Flash off</paragraph>
+			<paragraph>The Nokia Lumia 1020 crushes the other phones in terms of resolved detail - we're using the 5MP shots here - the full-res shots have a lot of visible noise and it makes more sense to share the 5MP supersampled image. You can see the whiskers on the mouse and facial detail. The difference between best and worst shot is minimal too, but the phone completely missed the mark on the white balance. The wall behind the mouse should have been white.</paragraph>
+			<paragraph>This test is the HTC One's forte and the amount fine detail trumps that of the 13MP and 20.7MP competitors. White balance is off and there's some visible noise, but the HTC One performed quite reliably here.</paragraph>
+			<paragraph>The Apple iPhone 5s did quite well too - it has a bigger sensor and wider aperture than the previous model, but on paper it doesn't have too great advantage over the other 5 phones in this shootout. And yet, the amount of resolved detail looks good despite the noise, and white balance is decent. Plus, the worst shot looks virtually as good as the best shot, which makes the Apple smartphone one of the most reliable when the lights go out.</paragraph>
+			<paragraph>The LG G2 has OIS, but it drops the shutter speed too much and shakiness still manages to sneak in - the worst shot is noticeably shakier than the best one. Photos don't have a lot of noise, but that's due to aggressive noise reduction, which takes its toll on fine detail too.</paragraph>
+			<paragraph>The Sony Xperia Z1 also has the advantage of downscaling its shots - we used Superior Auto for this test. Even that left the low-light photos quite noisy, and lacking in detail.</paragraph>
+			<paragraph>Finally, the Samsung Galaxy Note 3 had quite a hard time in this test - a large portion of the shots we took turned out blurry beyond usable and even when we picked out the best shot it was nothing spectacular - leftover noise even after heavy noise reduction that takes away most of the detail doesn't make for a great photo.</paragraph>
+			<paragraph>Flash on</paragraph>
+			<paragraph>We turned the flash on and took new photos, again picking the best and the worst.</paragraph>
+			<paragraph>The Nokia Lumia 1020 dominated even more decisively in this test - the powerful xenon flash helped the already capable sensor produce an amazing shot. White balance issues were mostly resolved (a hint of yellow still there to be seen) and you can see the fur and intricate lace details on the mouse. Results were quite consistent too.</paragraph>
+			<paragraph>The Apple iPhone 5s climbed to 2nd place here and for good reason - the dual-LED flash helped a great deal to capture hints of fur and a lot of the lace detail. The two-colored True Tone flash proved its worth and the result is more accurate than the Lumia photo in terms of white balance. The consistency was quite good too.</paragraph>
+			<paragraph>The strong flash saw the Samsung Galaxy Note 3 push up from the bottom and the camera produced decent, consistent results.</paragraph>
+			<paragraph>The HTC One is very close behind, it's just that the low resolution prevents it from capturing some of the finer detail. Its flash didn't help all that much though - it caused the noise to drop, but photos are underexposed.</paragraph>
+			<paragraph>The Sony Xperia Z1 flash is not particularly powerful and turning it on helped more detail come through but there was still a lot of noise in the shot.</paragraph>
+			<paragraph>The LG G2 flash didn't actually make a great difference in this test. There was next to no difference when we enabled it, except for a tiny bit of extra detail and the smartphone slid down the ranks. Things aren't as well defined as on the Note 3 or HTC One, though and shots are usable and consistency was good, it's the worst performer in this test. On one occasion the photo had a strong blue tint, though, and as luck would have it that was the best shot with the most detail.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video camera features<subsectionTitle>
+			<paragraph>As with the still camera, the video recording capabilities can again be divided into software and hardware features. Hardware features describe the integrated recording capabilities allowed by the hardware (like 4K video recording) while software features encompass the extras provided by the user interface.</paragraph>
+			<paragraph>Again the Nokia Lumia 1020 comes out pretty strong in terms of hardware offerings. We went over its camera sensor in detail in the still image section, so here we'll focus on what the 41MP sensor can do in terms of video recording.</paragraph>
+			<paragraph>The Lumia 1020 has some heavy duty optical image stabilization (OIS) under the hood, which should give shake-free videos in tricky conditions without sacrificing field of view. There's also the stereo WDR microphones, which along with the proprietary Rich Audio Recording algorithms from Nokia gives you distortion-free sound recording in loud environments. The Lumia 1020 is also the only smartphone in our test that offers 4x lossless zoom.</paragraph>
+			<paragraph>The 8MP shooter on the Apple iPhone 5s is capable of the standard 1080p video at 30fps, and it also has a 120fps video mode at 720p for capturing slow-motion clips. The digital image stabilization comes at the cost of a narrower field of view compared to the rest, but the result is quite impressive and better than some devices with OIS. It's a pity that you have no option for switching the feature off for those cases when you have a tripod or something to rest your hands against as you'd be able to get the full filed of view of the camera.</paragraph>
+			<paragraph>The Samsung Galaxy Note 3 is among the plethora of droids featuring 13MP shooters, but is the only device in this shootout to feature 4K (2160p) video recording. The larger sensor allows for up to 2x lossless zoom in 1080p videos, after which point things switch to digital zoom (more on this later). Its fullHD videos are also available in 60fps flavor - a feature that only the G2 can match.</paragraph>
+			<paragraph>The 20.7MP sensor found on the Sony Xperia Z1 was highly-vaunted prior to its release, and is the largest you'll find on an Android-powered smartphone. Maximum recording is at 1080p at 30fps, and while Sony's digital image stabilization algorithm SteadyShot performs well, it does so at a huge expense to the FoV.The good news is that unlike Apple, Sony gives you the option to switch SteadyShot off.  The Xperia Z1's SteadyShot comes at a significant cost to sensor real estate</paragraph>
+			<paragraph>The 13MP sensor on the LG G2 is very similar in terms of specifications to the one found on the Galaxy Note 3, offering the same 60fps recording at fullHD (but no 2160p recording). The G2 offers OIS, but the digital stabilization on the Note 3 is so good that the G2 is only able to beat it just barely (again at the price of narrower FoV, though).</paragraph>
+			<paragraph>Finally, the HTC One enters into the equation with its 4MP sensor and optical image stabilization, as well as HDR video recording (at significantly reduced field of view).</paragraph>
+			<paragraph>While many manufacturers have similar extras for still images, when it comes to features thrown into the recording interface things can vary widely. Here we'll point out some of the major ones.</paragraph>
+			<paragraph>The Samsung Galaxy Note 3 features the ever-evolving TouchWiz camera UI. Like many recent droids, it features an integrated camcorder and camera interface that eliminates the need to toggle between the two. When switching to 4K mode, the Note 3 warns you that dual-shot and still images during recording will be disabled. Video stabilization will also be disabled, as shooting in 4K requires full use of the sensor.</paragraph>
+			<paragraph>LG also features an integrated camera/camcorder interface, but the G2 has a few more cool additions than its Korean counterpart from Samsung. Live Effect lets you alter the faces of people you're shooting in real time, although the resulting videos are only 480p. Tracking Zoom is a nifty feature that lets you selectively zoom into certain sections of the frame, letting you highlight important things while still showing the bigger picture. The best part is that you can relocate the preview window and zoomed-in section while recording.</paragraph>
+			<paragraph>The Sony Xperia Z1 gives you the same manual controls interface for the camcorder as it does for the still image camera, including scene selections, white balance, exposure controls, and shooting modes.</paragraph>
+			<paragraph>The Lumia 1020 comes with Nokia's new Pro Camera app, which gives you a great amount of control over any of the camera settings while letting you see your changes dynamically on the display. Zooming is done easily enough through the on-screen ring, but we would have liked some indicators letting us know when we're at 2x, 4x, etc.</paragraph>
+			<paragraph>With iOS 7, Apple redid the camera interface, resulting in a very minimalist approach with only a large record button at the bottom, a front-facing camera toggle, and a camera flash toggle. The iPhone 5s continues to record using mono sound, which is extremely disappointing considering the device has multiple microphones.</paragraph>
+			<paragraph>The HTC One saw the introduction of Zoe, which shoots a 3 second clip (1 second before and 2 seconds after you press the shutter) alongside every photo you take. The camera is also capable of taking HDR videos and 2MP still images while recording.</paragraph>
+			<paragraph>It's hard to pick a clear winner when it comes to features, as each phone has its own strengths and weaknesses. That being said, the Lumia 1020 and the Galaxy Note 3 each provide extras that the others simply can't match - 4K video recording, lossless zoom, OIS, HDR video, and more. Since certain users will value the feature set on one device over the other, both of these devices tie for first place.</paragraph>
+			<paragraph>Up next comes the LG G2, since it's the only real device to go out of its way by offering some actual recording software extras - the Live Effects are pretty cool, and the 1080p@60fps video recording and OIS help sweeten the pot.</paragraph>
+			<paragraph>Despite its age, the HTC One still has some trump cards above the rest of the competition, with HDR video, OIS, and Zoe for nifty video and still image collages.</paragraph>
+			<paragraph>The Sony Xperia Z1 and iPhone 5s bring up the rear when it comes to features, as despite the 20.7MP sensor found on the Xperia, you get no high framerate or dual-shot video capabilities, and the iPhone 5s is the only device out of the bunch that still records in mono.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good light recording comparison<subsectionTitle>
+			<paragraph>While recording conditions won't always be ideal, the best way to get a gauge for how much a camera can do is under good lighting conditions. Here we've taken our six competitors and shot our traditional video recording test from the same place and at the same time of day. These 30 second clips are taken with minimal time in between, so as to minimize any external factors which may affect their performance differently. Let's take a look at each device in detail.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Note 3<subsectionTitle>
+			<paragraph></paragraph>
+			<paragraph>Under normal lighting conditions, the Samsung Galaxy Note 3 has the best camcorder on a smartphone we've ever seen. The colors are spot on, the level of detail is unparalleled, and the exposure and contrast are nailed perfectly. It doesn't have the best dynamic range of the bunch (the Nokia Lumia 1020 has it beat there), but the Note 3 is about as good as it gets without going for professional cameras.</paragraph>
+			<paragraph>The Note 3 also shoots in 4K, although at the expense of dual-shot mode, still image shooting while recording, and image stabilization. We took a side-by-side look at how its 4K video stacks up to 1080p, and found that the higher recording resolution really pays off when it comes to the amount of resolved detail. Below, we've rendered it alongside the 1080p video so you can get an idea of how it stacks up.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Galaxy Note 3 also offers 1080p@60fps video recording although that mode has a few shortcomings that we'll cover in more detail on the next page.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG G2<subsectionTitle>
+			<paragraph>For all its great recording extras (the Tracking Zoom feature is very cool), LG seemed to have lost sight of the basics required to make a decent video recording experience. The G2's exposure is so far off that it absolutely ruins the clips, and the constant refocusing quickly goes from distracting to infuriating. The colors are more or less accurate but the exposure affects them as well.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia Z1<subsectionTitle>
+			<paragraph>The Sony Xperia Z1 has great potential, but ultimately ends up being doomed because of its poor contrast. If you can get past that, you'll see that the colors are accurate, the exposure is correct, and the dynamic range is rather good. There are a few issues with an overly-enthusiastic autofocus, but it's not nearly as bad as what you'll find on the G2.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 1020<subsectionTitle>
+			<paragraph>Nokia certainly packed the most hardware into the camera department with the Lumia 1020, so needless to say big things were expected. The camera certainly records with the best dynamic range of the bunch, but it also has the most inaccurate colors. Granted, color enhancement may come down to personal preference, but there's also a slight red hue to the images, which we doubt anyone will like.</paragraph>
+			<paragraph>Let's also not forget that the 1020 features Nokia's advanced recording algorithm which records far better sound than any of the other smartphones by a wide margin - just compare the audio from the sample below to any of the others and judge for yourself.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Apple iPhone 5s<subsectionTitle>
+			<paragraph>Apple made many new improvements with the introduction of iOS 7, and video recording was among them. While the audio is still recorded in mono for some reason, you get some very accurate colors and very good level of detail. The white balance is a little warmer compared to the iPhone 5, but colors come out pleasing..</paragraph>
+			<paragraph>While recording, the iPhone 5s is able to capture still images at 1080p, which in effect is the equivalent of taking a frame from the video, but since stills actually use the wider FoV from the still camera there's at least some point to them.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The digital image stabilization on the 5s is top notch, even beating out the likes of the HTC One's dedicated OIS, but it does reduce the field of view significantly.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC One<subsectionTitle>
+			<paragraph>The HTC One is the earliest released device of the bunch by several months, but it holds its ground decently. The wider FoV means there are fewer pixels to describe the objects in the frame, but the detail level is still decent. Colors are some way off, though, and the dynamic range leaves us wanting.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The HTC One features OIS and HDR video recording. The former helps immensely if you're shooting on the move, and doesn't waste any of your precious pixels to do so. The latter will help with your dynamic range, and provides better results than the Xperia Z1, for example, but results in a significantly narrower FoV. When it comes to shooting in 60fps mode the output is in 720p, but is very pixelated and looks more like an upscaled VGA video - nothing even close to what the iPhone 5s or Note 3 can do.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Verdict<subsectionTitle>
+			<paragraph>To get a better idea of how these devices stack up side-by-side, we've combined the same part from the above videos at 100%.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>It's pretty easy to see who the clear loser and winner are. The LG G2 consistently failed to find the proper exposure, and its constantly-readjusting continuous autofocus is enough to ruin any video. At the end of the spectrum, the Samsung Galaxy Note 3 provides unparalleled detail and accurate colors without any noise or distortion.</paragraph>
+			<paragraph>Second place is a bit trickier, so much so that it's a tie between the Apple iPhone 5s and the Nokia Lumia 1020. With the Lumia you get the best dynamic range and audio recording of the bunch, but the colors are way off and don't represent the scene accurately. The iPhone, on the other hand, provides good colors but can't quite match the sharpness and dynamic range of its competitor.</paragraph>
+			<paragraph>The Sony Xperia Z1 comes next. In still images it proved to have a capable sensor, and we would imagine it would be closer to the top three devices if it wasn't devastated by its poor contrast. The One is the most senior of the bunch by a good margin, and we would imagine a lot of engineers at HTC are rethinking the decision to go with a 4MP sensor.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Zoom comparison<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 has a distinct advantage over the competition when it comes to zooming, due to its lossless optical zoom at up to 4x magnification. The Samsung Galaxy Note 3 also offers lossless zoom but only until you reach about 2x under 1080p. The Galaxy Note 3 will let you go up to 4x, but its quality-reducing digital zoom after that point.</paragraph>
+			<paragraph>We've decided to see how the two zoom levels stack up against one another. Check it out:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>As you'll notice, the end result is largely the same, which is very impressive considering that at full zoom the Note 3 is relying on digital zoom rather than optics.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>High framerate recording<subsectionTitle>
+			<paragraph>Several of our tested devices offer the ability to record slow motion video, i.e. video recorded at higher frames per second than the industry standard 30fps.</paragraph>
+			<paragraph>We mentioned the HTC One's ability to record in 120fps at 768 x 432 pixels, but the low resolution produces results that are far from stellar to say the least. The iPhone 5s also capable of slow motion video, except at a more acceptable 720p resolution which produces significantly better videos.</paragraph>
+			<paragraph>Below, we re-encoded it to 30fps for YouTube.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Samsung Galaxy Note 3 and LG G2 are both capable of 1080p video at 60fps, which both manufacturers intend as videos with smoother motion. You can achieve a slow motion effect similar to the one found in the above iPhone 5s sample by playing it at 30fps.</paragraph>
+			<paragraph>1080p@60fps is an impressive feat, but it does come at a price. In both devices you'll see a significant amount of degradation when the framerate gets doubled to 60fps. Since no video upload service is able to support 60fps uploads at the moment, the following crops will have to illustrate our point.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Low light video recording<subsectionTitle>
+			<paragraph>While things may be fine and dandy when it comes to shooting in well-lit conditions, under low light things can change drastically. Let's take a look at how things stand when the lighting is not ideal.</paragraph>
+			<paragraph>All our low-light samples can be found in our dedicated video compare test. Because you can only compare three at a time, we've ordered the top three and the bottom three devices in the two links below. The tools' page will tell you how to switch between devices as needed.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>In a very drastic twist, the Samsung Galaxy Note 3 came in dead last due to its inability to find the proper exposure and contrast under low lighting. Even its 2160p 4K resolution was not enough to salvage the lost detail. The Lumia 1020 does very well here, and is able to get the highest amount of detail as can be seen in the blue background texture that really only shows up here and to a smaller extent in the HTC One's samples. The Sony Xperia Z1 also has traces of detail in the background, but the noise reduction has smeared most of it.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Nokia Lumia 1020 does have some issues with compression in its shadows, however, but we'd gladly sacrifice having some shadow artifacts for the excellent level of detail and low noise.</paragraph>
+			<paragraph>The HTC One makes a strong comeback when the lights go off. Despite the slightly underexposed videos and occasional noise patches, the One is able to provide very good detail and very decent contrast in these tricky conditions.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia Z1 and iPhone 5s are very close this time around. The Sony offering just edged out the iPhone with better colors, less noise, and better contrast, despite the higher amount of detail found on the Apple smartphone.</paragraph>
+			<paragraph>The LG G2 is once again an exposure nightmare, with some badly overblown colors to boot. We lose most of the detail thanks to the camera's inability to properly expose the image under low light.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Time to wrap things up - we wondered if maybe we should split the final decision into two, still photography and video recording, but the results came out consistent enough to declare a clear winner.</paragraph>
+			<paragraph>And it is, drum roll please, the Nokia Lumia 1020. It's not a huge surprise, the Lumia 1020 is entirely geared towards camera excellence. In broad daylight it showed clear superiority for photos and it won the low-light challenge even if poor white balance betrayed it on one occasion.</paragraph>
+			<paragraph> Nokia Lumia 1020</paragraph>
+			<paragraph>The Lumia 1020's high dynamic range, lossless zoom, excellent low-light skills and quality audio also helped it do excellently in the video test. It didn't quite top the good light part of that challenge, but it wasn't too bad either..</paragraph>
+			<paragraph>And that device comes in second, it's the Samsung Galaxy Note 3. The phablet was a very adequate still shooter, but it's the video recording that makes it stand out from the crowd. Narrow field of view aside, with 2160p recording, high quality 1080p @ 60fps and video zoom that's almost as impressive as that of the Lumia, the Note 3 video skills are very hard to match.</paragraph>
+			<paragraph> Samsung Galaxy Note 3</paragraph>
+			<paragraph>It's low-light shooting abilities - for both photos and videos - leave a lot to be desired, but the pretty strong flash partially makes up for that. And we mustn't also forget the excellent panorama and HDR, plus a long list of fun features that help you spice up your photos.</paragraph>
+			<paragraph>The Sony Xperia Z1 does beat the Galaxy Note 3 in daylight photography and its videos were very good too. However, low-light results left something to be desired and the value-added features aren't on the level of the Note 3. Also, with a 20.7MP sensor and the same Snapdragon 800 chipset, the Z1 could have had a video zoom feature even more impressive than the Note's. Or at least a great panorama - Sony's work isn't done here.</paragraph>
+			<paragraph> Sony Xperia Z1</paragraph>
+			<paragraph>The LG G2 comes in fourth. Daylight photos were on the level of the Note 3, but it lagged behind in video recording. And low-light shooting - Note 3's Achilles heel - is not a strength of the G2 either. It has a long list of cool software features, too, but in the two most commonly used ones - panorama and HDR - it didn't score as high as the Note 3.</paragraph>
+			<paragraph> LG G2</paragraph>
+			<paragraph>The Apple iPhone 5s comes in fifth, which is very impressive considering the competition. The iPhones were always well-rounded rather than heavily skewed towards one discipline (like the Lumia 1020 is). The 8MP stills are good, but a bit behind the times when compared to 13MP / 20.7MP / 41MP shooters. In several areas it actually beats the previous two phones and in the daylight its videos match those of the Lumia 1020. Finally, low-light performance is pretty decent and the panorama is one of the best.</paragraph>
+			<paragraph> Apple iPhone 5s</paragraph>
+			<paragraph>Lastly, we come to the HTC One. Its Ultrapixel camera is somewhat of a one-trick pony that fares pretty poorly when lighting is good (which is actually most common). In the dark, the One's result were quite good - the videos especially - but unless all you do is record videos at bars and discos, there are better cameraphones you can have.</paragraph>
+			<paragraph> HTC One</paragraph>
+			<paragraph>Nokia set out to make the best smartphone camera and they succeeded - whether or not that's enough to carry the entire device is another matter and beyond the point of this article.</paragraph>
+			<paragraph>The other participants are cutting edge smartphones, where the amazing camera is just one of the host of features they offer. If anything, we should compliment them on the fact that they came so close to the PureView beast, instead of bashing them for failing to beat it. And it's not like they didn't manage to show Nokia a few areas where it can improve for its next generation cameraphone flagship.</paragraph>
+		</subsection>
+	</page>
+</review>

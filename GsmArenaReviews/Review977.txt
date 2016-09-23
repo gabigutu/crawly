@@ -1,0 +1,280 @@
+<review>
+	<title>Setting up your Android smartphone</title>
+	<description>The sequel</description>
+	<link>http://www.gsmarena.com/setting_up_your_android_the_sequel-review-942.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>OK, it's a sequel and these don't always work as planned. But we had fun the first time and got a great response. It sure looked like you enjoyed it too.</paragraph>
+			<paragraph>At the turn of last year, we had a go at how we'd set up a brand new Android device. We looked at some of the must-have apps and tools available in the Google Play Store to help newbies (but not only) get the best of their smartphone.</paragraph>
+			<paragraph>With the number of apps nearing a million and Google Play downloads in the range of tens of billions, with at least three different software versions in circulation, getting the best for you isn't the easiest job in the world. You'll need to sift through a vast collection and cherry-pick the relevant bits.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The good news is, if you care about personalizing your smartphone experience, Android is the right OS. Sure, you can upgrade any smartphone with add-ons from the respective app store, but Google is by far the most hands-off platform owner in terms of what users are allowed to do to customize their devices.</paragraph>
+			<paragraph>Android smartphones are increasingly better equipped right out of the box but there're always more than enough ways to make your device more efficient. In the pages to come, we'll look at some of our favorite ways to customize the user experience and then move on to apps that really put all the available processing power to good use and make you more productive on the go.</paragraph>
+			<paragraph>We'll even fill one of the missing pieces in the previous article, video player apps. What we'll not cover - again - is games. Sorry, but the vast majority of available titles out there and the subjective nature of the gamin topic in general means we can't really do all of them justice. We're sure our picks in the other categories are not necessarily everyone's favorites, but those will hopefully serve to teach you something new you can do with your phone and then you can chose the actual tool to help you on your own.</paragraph>
+			<paragraph>Anyway, Episode 2 of our Setting Up Your Android series will again look at ways to make an enjoyable and versatile Android smartphone even more enjoyable and versatile. And these would be but a fraction of the options to choose from.</paragraph>
+			<paragraph>So, sit back, have your droid close at hand and prepare for a ride down Google Play avenue. Just hold on with the master reset. There's only a few pages to go.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface makeover<subsectionTitle>
+			<paragraph>So, let's kick things off with how to change the look and feel of the user interface so it best suits your taste. Android offers a level of customization that no other mobile platform can match, allowing you to go well beyond wallpapers and font sets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Custom Launchers<subsectionTitle>
+			<paragraph>Custom launchers change the behavior and looks of the Android homescreen. But some custom launchers will also customize the app drawer and even come with their own settings menus.</paragraph>
+			<paragraph>Launchers are the easiest way to give Android a totally different look and feel. They don't require rooting or any lengthy preparations, they are simple .apk files to download and install just like regular apps.</paragraph>
+			<paragraph>There are literally thousands of custom launchers to choose from. Our previous article gave an overview of ADW, Nova, Go Launcher EX and Windows Phone 7 Launchers. However, the Android ecosystem is constantly evolving and here are some of our favorite alternatives.</paragraph>
+			<paragraph>Our first entry in the recommended Android launcher category is of a minimalist nature. Don't be fooled by its looks though, the Smart Launcher is one of the highest-rated homescreen stand-ins to have come out for Android recently.</paragraph>
+			<paragraph>And it doesn't take long to see why it appeals to so many people. Smart Launcher offers unbeatable simplicity with just a single homescreen, which houses a ring of bubbles. Each acts as a shortcut to whichever app you assign them to. A long press adds or removes bubbles from the ring.</paragraph>
+			<paragraph>The app drawer gives you a structured way of viewing your apps. They are automatically sorted in categories: Phone, Settings, Multimedia, Games, etc. A very neat feature is the option to configure the app drawer to start from a slide off the edge of the screen. Overall, Smart Launcher transforms the seemingly complex Android UI into a more mature - and user-friendly experience.</paragraph>
+			<paragraph>As with anything, there are a couple of drawbacks. The big one is that with the single homescreen you don't get the benefit of adding any widgets. You have is the default clock widget, and that's really it.</paragraph>
+			<paragraph>Like most launchers, Smart Launcher comes with support for third-party themes. Both paid and free options are available in the Play Store. Currently, the pro version of Smart Launcher retails for $3.99, but the free version is sure to suffice too.</paragraph>
+			<paragraph>Get Smart Launcher (Free) | Get Smart Launcher Pro ($3.99)</paragraph>
+			<paragraph>From one of the simplest looking custom launchers for Android, we move on to probably the most elaborate and feature-rich of them all. Meet TSF Shell, a custom launcher which means business - you'll know by just looking at the price.</paragraph>
+			<paragraph>At near $17.00, it's clearly a premium offering and rightly so, as it adds a ton of customization options and user interface features that elevate the Android experience to new heights.</paragraph>
+			<paragraph>The TSF Shell has everything redone from the homescreen panes, the app drawer, folder and icon design to custom animations and widgets. It introduces a lot of new ideas that really stir the place up.</paragraph>
+			<paragraph>The changes run so deep and the new features are so many that words alone will hardly give you the best idea of what it actually feels like. So here come the TSF Shell screenshots and video demo below, which should help get you up to speed.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>With all the animations, customizations and craziness that TSF Shell brings to Android, you would expect the custom launcher to be lacking in the performance department. Luckily, that's not the case, and you aren't likely to regret spending big.</paragraph>
+			<paragraph>Here's a little hint though: head over to the developers' All Apps page on Google Play and you can download all the cool 3D widgets and enjoy at least part of the TSF Shell experience free of charge before you fork out the cash.</paragraph>
+			<paragraph>Get TSF Shell ($16.81)</paragraph>
+			<paragraph>Created by Russian developer team Yandex, this custom homescreen is heavily influenced by another popular launcher dubbed SPB.Shell. It has most of the functionality, including the famous 3D Carousel design for switching between screens. Speaking of them, you are not limited to the usual 7 or 9 homescreen panes - in Yandex.Shell you can have up to 20 of them.</paragraph>
+			<paragraph>Additionally, you get search in the App drawer, cool widgets, as well as custom Dialer and Contacts apps to match the design of the Yandex.Shell.</paragraph>
+			<paragraph>All of this comes to you absolutely free, and although that's not a bad thing at all, it's probably the main reason behind the lack of any fancy animations and homescreen modes. Yandex.Shell keeps the core Android design mostly unchanged.</paragraph>
+			<paragraph>Still, it's a light alternative that doesn't cost a dime, and offers enough customizations to get you started. The Dialer and Contacts apps are a nice addition, too.</paragraph>
+			<paragraph>Get Yandex.Shell (Free)</paragraph>
+			<paragraph>Probably the only Android launcher that adapts to the user's current interests, Everything.Me isn't the typical homescreen replacement. Unlike other offerings which change the look of Android and allow you to endlessly customize it, Everything.Me concentrates on context and gives you app and website suggestions based on topics you care about.</paragraph>
+			<paragraph>If you fancy a pizza at this exact moment, just type in "pizza" in the "What's on your mind" field. Everything.Me will take over and offer you a mini-version of an app drawer, with a matching background, and suggest relevant websites and apps.</paragraph>
+			<paragraph>The launcher will bring to the fore apps you have installed on your phone that are relevant to what you're interested in, then pull up app suggestions and websites. The app is still in early beta, and is available only in US, Canada, Spain and Germany. It currently works best with simple queries like types of food, movie titles, music and celebrities.</paragraph>
+			<paragraph>Otherwise, Everything.Me isn't much different from the stock Jelly Bean launcher on which it is based. You can't remove or add new homescreens, set different homescreen transitions here.</paragraph>
+			<paragraph>Check out the overview video of Everything.Me below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Get Everything.Me (beta) (free)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Live Wallpapers<subsectionTitle>
+			<paragraph>For battery saving purposes, most of you will probably stick to static wallpapers, but we all know they can't match the coolness of live wallpapers. The number of active backgrounds is infinite on the Play Store and range from simple and subtle to really flashy and complex animations, to even mini-games that may or may not require your participation.</paragraph>
+			<paragraph>Last year we offered you a batch of what we thought were cool live wallpapers, and now we are going to refresh that list.</paragraph>
+			<paragraph>Beautifully designed and packing stunning visuals, the Forest HD live wallpaper really does bring the magic of the forest onto your Android homescreen. In addition to the trees, grass and scenery, there's also wildlife such as owls and deer. You can customize it to feature waterfalls, cabins and signs. The latter support custom photos, as well.</paragraph>
+			<paragraph>You can get even more additional perks for this particular live wallpaper. They are sold in add-on packs, which may as well cost you a bit. Still, it's light on the battery and the performance is nothing short of silky.</paragraph>
+			<paragraph>Get Forest HD Live Wallpaper ($0.99)</paragraph>
+			<paragraph>Next up on our list is My Log Home. It has beautiful graphics of a cozy and welcoming log cabin, spanning your homescreen as you scroll through the different panes.</paragraph>
+			<paragraph>With both free and premium versions available, you can test the look and feel of this live wallpaper before you decide to buy. The free version has a limited set of options, while going for premium unlocks tons of customizations. You can change the entire look of the room or switch between different presets.</paragraph>
+			<paragraph>Get My Log Home Free Live Wallpaper</paragraph>
+			<paragraph>When the Ubuntu mobile OS was announced, many people fell in love with the custom lockscreen design it had. Now, a group of fans have made an identical looking live wallpaper for Android.</paragraph>
+			<paragraph>Feature-wise it's not as great as the Ubuntu OS alternative. It doesn't offer Twitter, Facebook, SMS or call integration to feed you with live information about missed and upcoming events. The only thing the Ubuntu live wallpaper offers you is integration with the system clock and battery to display the time and charge.</paragraph>
+			<paragraph>Sadly, customization is limited to setting the battery and clock formats and visual customization isn't yet built-in.</paragraph>
+			<paragraph>Get Ubuntu Live Wallpaper</paragraph>
+			<paragraph>If you're a fan of arcade space games, then this wallpaper is definitely worth checking out. The Pixel Fleet live wallpaper sets up three fractions that battle each other in space ships right on your homescreen. As the name suggests, it does so in a pixel-art design, which is light on the GPU and in turn the battery.</paragraph>
+			<paragraph>Provided you run Android 4.2, you can set Pixel Fleet as a Daydream as well, and it's reasonably entertaining to watch a space battle of epic proportions right on your smartphone screen. It's not very interactive, letting you only destroy any battleship you choose by double tapping it, but nevertheless it's worth the install.</paragraph>
+			<paragraph>Our experience with the wallpaper has been exceptional and battery drain is nothing to worry about. There are two versions of this live wallpaper. The free one gives you 3 ships, one from each fraction and Daydream support. Going for the paid one doubles the ships, gives you dynamic backgrounds generated for different battlefields, scores and stats.</paragraph>
+			<paragraph>Get Pixel Fleet (free) | Get Pixel Fleet Pro ($1.99)</paragraph>
+			<paragraph>Staying in the pixel-art class of live wallpapers, the Origami Live Wallpaper generates random, colorful, fading rhombs to sustain a unique look. The live wallpaper features tons of customizations. There are 9 different themes for quickly changing the look and feel of the theme.</paragraph>
+			<paragraph>However, if you have the time, you can fiddle with 62 customization options, guaranteed to give you the look you desire. The Origami live wallpaper also comes with its own widget, which allows you to change the look of the wallpaper with a tap or even create a static version of it, to save battery.</paragraph>
+			<paragraph>Unfortunately, there's wallpaper only comes for a fee, which is a bit of a setback.</paragraph>
+			<paragraph>Get Origami Live Wallpaper ($1.00)</paragraph>
+			<paragraph>Changing the wallpaper of your Android can be a fiddly task. Why not automate this while having a cool set of fresh and good looking wallpapers pushed to your phone instead? With the BetterThanExpected Wallpapers app you can do just this.</paragraph>
+			<paragraph>Its title does sound cocky, but it really isn't far off. Once you download it, it's just a matter of assigning the app as the usual run-of-the-mill live wallpaper. The app takes over the rest, as it downloads fresh wallpapers submitted to different Subreddits (www.reddit.com). Naturally, you can choose which subreddits to get your wallpapers from based on your interests. There are a dozen predefined (City, Nature, Animals, Design, Sky, so on).</paragraph>
+			<paragraph>The settings menu is quite extensive and allows you to choose the time of day to download new wallpapers, the number of pictures to download as well as the wallpaper change interval.</paragraph>
+			<paragraph>Get BetterThanExpected Wallpapers (free)</paragraph>
+			<paragraph>Most of the entrants in this category have been more on the aesthetic side than the functional one. There are however some, which serve useful information, and Battery Core live wallpaper is one of them. Just like its name suggests, this wallpaper offers real time information about the battery of your Android device.</paragraph>
+			<paragraph>The things that are being monitored include your battery charge percentage, temperature, voltage and charging status. The animation is pretty cool too. It's tied to the actual battery charge of your phone - the more power you have, the faster the core will spin. Or, it'll slow down the less juice there is.</paragraph>
+			<paragraph>Available in both free and premium versions, the wallpaper sports a lot of options in its latter variation. You can change the background, the particle effects, battery core type, color and glowing effects.</paragraph>
+			<paragraph>Get Battery Core Live Wallpaper (free) | Get Battery Core Live Wallpaper ($0.99)</paragraph>
+			<paragraph>If you've ever used Google Now, you've noticed the header images on top of the app, which change depending on your location and time of the day. With the Google Now Wallpaper HD, all the different images Google uses for its Now service are put straight on your homescreen. Once you've install it, just pick which of the preset locations you want to use as wallpaper.</paragraph>
+			<paragraph>Get Google Now Wallpaper HD (free)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Icon Packs<subsectionTitle>
+			<paragraph>The final touch to making your Android smartphone look as stylish as possible with the least amount of effort, is to install a custom icon pack. Available in the Play Store are tons of various icon sets, each with different styling and price tag.</paragraph>
+			<paragraph>It's fairly easy to change the look of the app icons on your Android smartphone, provided you have a custom launcher that supports that kind of user interface intervention. Among the most popular supported launchers are Action Launcher, ADW Launcher, Apex Launcher, Go Launcher EX, Nova Launcher and Holo Launcher.</paragraph>
+			<paragraph>The creators of the icon set combine Google style with their own unique design and the result is Coolors. With more than 780 icons in its set, Coolors should be good for the majority of the apps installed on your phone, with more and more added regularly.</paragraph>
+			<paragraph>Get Coolors icons ($1.23)</paragraph>
+			<paragraph>The Minimal UI icon set offers simple looking icons for more than 720 apps. Users can even send requests for new icons to be added in future updates via an online form. This particular icon set currently costs $ from the Play Store.</paragraph>
+			<paragraph>Get Minimal UI Icons ($1.49)</paragraph>
+			<paragraph>Updated frequently. If you want a truly minimalist icon set, then look no further. With more than 1050 icons in the set, you'd have to look hard to find a popular app that doesn't have its icon restyled in the Tiny White icon pack. Best of all - it's free on the Play Store.</paragraph>
+			<paragraph>Get Tiny White Icon Pack (free)</paragraph>
+			<paragraph>If you like the look of the MeeGO OS, may it rest in peace, the MeeUI icon pack is your thing. Available in both standard and high quality in the Play Store, this icon pack contains really high quality material that'll give your Android smartphone a MeeGO look and feel without too much hassle.</paragraph>
+			<paragraph>Get MeeUI Icons Pack (free) | Get MeeUI Icons Pack ($1.01)</paragraph>
+			<paragraph>The DCikonZ pack is among the more elaborate and ornate icon sets on offer. With more than 2270 HD icons on tap, this particular icon pack is impressively rich in color and quality graphics. It's also free and doesn't feature any ads.</paragraph>
+			<paragraph>Get DCikonZ (free) | Get DCikonZ ($1.50)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Web Browsers<subsectionTitle>
+			<paragraph>Unlike other browsers opting for animated tabs and other layout tweaks, the Naked browser is deliberately un-designed, aiming for the most efficient resource management instead. This rather unusual browser looks a bit weird but loads pages extremely quickly. It very much cares about privacy as well, with its developer clearly explaining the ins and outs of the permissions required and how the browser works.</paragraph>
+			<paragraph>The user interface takes some time to get used to though, as it doesn't look anything like your run-of-the-mill web browser. Tap and hold on a tab to close it and swipe to the right to reveal a bookmarks list. Minimalist doesn't even begin to describe how light and basic the user interface is.</paragraph>
+			<paragraph>Among the cool features of the Naked Browser are crash restore, one finger zoom, infinite tabs, support for Flash (if you have the .apk installed). The browser is extremely secure and is based on the WebKit engine - like both the stock Android browser and Chrome. The result is properly rendered web pages that load very quickly.</paragraph>
+			<paragraph>The paid version of the app gives you multiple methods for closing tabs, taking screenshots of web pages, the option to load images only on Wi-Fi, whitelist rules per website for images, JavaScript, user agent and cookies, and much more.</paragraph>
+			<paragraph>Get Naked browser (free) | Get Naked browser Full ($1.76)</paragraph>
+			<paragraph>By the same team which gave us Go Launcher (featured in the previous article) comes the Next browser. Much like the rest of the team's creations, it features a very beautiful and intuitive user interface with tabbed browsing capabilities, custom speed dial for quick access to your favorite websites, very easy and versatile search, as well as browser extensions and bookmark syncing across other mobile devices.</paragraph>
+			<paragraph>As an added extra feature, the browser comes with its own news reader-like experience dubbed Next View. It allows you to read what's new in different categories like tech, politics, health and motoring, among others, but lacks adding new categories or choosing sources for the existing ones.</paragraph>
+			<paragraph>The Next browser app is free on the Google Play Store making it as easy as it gets to try.</paragraph>
+			<paragraph>Get Next browser (free)</paragraph>
+			<paragraph>Opera has made significant changes to its browsers with the transition to the WebKit rendering engine. However, that's not the main change that the beta version of the Opera browser has introduced, being available as a separate app.</paragraph>
+			<paragraph>Back to the feature list of the Opera beta for Android at hand, the usual bandwidth-saving algorithms are still in place. The user interface is freshened up and features a clean visual style that's easy to navigate around. Speed dial is improved with support for folders and looks a lot better than it used to. Swipe left to switch to a special discover page that has a built-in RSS reader. There's a pretty nifty download manager as well, allowing you to easily download media files.</paragraph>
+			<paragraph>Get Opera browser Beta (free)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Misc<subsectionTitle>
+			<paragraph>When Facebook launched an updated of their regular Messages app, many people got excited because of a single unique featured dubbed Chat heads. These are a simple image circles of your friend?s profile photos that overlay and sit on top of everything that?s happening on your display so that you can quickly access the chat window and continue your conversation.</paragraph>
+			<paragraph>This idea has been expanded by an app dubbed Floating notifications, which covers nearly all apps that have notifications coming your way. You can choose which app can be displayed in a floating notifications. The app even supports shortcuts so that if you tap on one, you can reply directly to a message or return a call, for example.</paragraph>
+			<paragraph>The developer of the app provides a trial and paid versions, with the former offering a 30 days of full use before disabling itself. This gives you plenty of time to see if this notifications concept is up to your liking and go for the pro version.</paragraph>
+			<paragraph>Get Floating Notifications (trial) | Floating Notifications Unlock ($1.97)</paragraph>
+			<paragraph>Google Keep is a note taking application for Android that syncs with your Google Drive account. It is a very basic note taking app meant for quickly jotting down your thoughts without any unnecessary frills. The most you can do here is set a color for your note to organize or identify them quickly and add a image from the camera. For some reason, you can't add images from the Gallery and can only attach camera images. You can also make quick lists and the app automatically puts items in a bullet point format.</paragraph>
+			<paragraph>You can access your notes from the Google Keep website as well. It also lets you create notes, which you can then access from the Android app. Interestingly, the web app lets you add any image you want to your note, unlike the Android app. It also comes with three widgets - a small one for quickly adding notes, a bigger one that also shows all your note and you can scroll through them within the widget and a third one for Android 4.2 users that you can put on the lockscreen.</paragraph>
+			<paragraph>The app is free and can be installed by devices running Android 4.0 and above.</paragraph>
+			<paragraph>Get Google Keep (free)</paragraph>
+			<paragraph>We all have had the need to do some quick math at some point in time, whether it'd be calculating a tip or a percentage. Now there's a quick method to just this and more thanks to an app called Quick Math.</paragraph>
+			<paragraph>While there are a slew of similar apps, Quick Math does trivial everyday calculations with unmatched flair. All you have to do is pick what kind of calculation you need to do from the big list of categorized tasks, fill the numbers and Quick Math will do the rest. Best of all, it doesn't cost a dime.</paragraph>
+			<paragraph>Get Quick Math (free)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Video players<subsectionTitle>
+			<paragraph>The MX Player has been unanimously rated as one the best video players on Android for quite a while now and there are good reasons for this. One of them is the built-in hardware acceleration which is very efficient due to a new hardware decoder. The MX Player also supports multi-core decoding, making it up to 70% more power-efficient on dual-core devices than on single-core chipsets.</paragraph>
+			<paragraph>Additionally, there are features such as pinch-to-zoom, allowing you to zoom in on the video during playback. A wide range of subtitle file formats are supported; there's a subtitle scroll feature as well. Finally, there's a kids lock option for locking the controls so that kids can't make calls or fiddle with the phone.</paragraph>
+			<paragraph>Best of all, MX Player is free at the Android market with plenty of codecs available for those pesky files that wouldn't play at first.</paragraph>
+			<paragraph>Get MX Player (free) | Get MXPlayer Pro ($5.70)</paragraph>
+			<paragraph>If you don't want to necessarily play files on your Android device, but rather stream them from or to your PC, then the Emit player is definitely worth a look. You can use Emit to download videos to your Android smartphone or tablet for offline viewing. iTunes transfers are supported, as are multiple audio tracks. The player has support for various subtitle formats, as well as DVD covers.</paragraph>
+			<paragraph>To make it work, you have to install both the Android app and the corresponding desktop software for PC, Mac OS or Linux. The service works best over Wi-Fi, but if you have a fast data plan, it'll work as well, if not as reliably.</paragraph>
+			<paragraph>Get Emit (free) | Emit website</paragraph>
+			<paragraph>Originating on the PC app scene, the BS Player is also available for Android smartphones and tablets, bringing all the core features users are looking for. Hardware decoding and acceleration, Android 4.2 support as well as support for a slew of media files and formats, and playback of files from shared network resources are just a number of the available features of the free, ad-supported version of BS Player.</paragraph>
+			<paragraph>If you are not a fan of in-app ads, you can purchase the premium version of the player, which is expensive.</paragraph>
+			<paragraph>The user interface supports additional custom-made skins. With so many features on tap, the BS Player is a video player app that you should definitely have on your shortlist the next time you visit the Google Play Store.</paragraph>
+			<paragraph>Get BS Player (free) | Get BS Player Full ($6.50)</paragraph>
+			<paragraph>The Archos video player is among the premium offerings in the media category. The app has a very stylish user interface that puts the videos from your device and network on the main stage with their respective cover art.</paragraph>
+			<paragraph>Naturally, for the relatively high price for an app of this sort, Archos provides a slew of handful features. It can automatically retrieve movie as well as TV show posters and information, and also download subtitles off the web. The player is compatible with keyboards as well as remote controls when hooked up to a TV set.</paragraph>
+			<paragraph>One downside of the player is that it doesn't support as much video file formats as the competition, but it covers the basics with MKV, MP4, AVI files.</paragraph>
+			<paragraph>Get Archos Video Player (free) | Get Archos Video Player Pro ($4.99)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music players<subsectionTitle>
+			<paragraph>Built around Google Now's design etiquette, the Now Playing music player is a clean-looking, straight-to-the-point music player that packs a lot of punch whilst sporting a nice suite of features.</paragraph>
+			<paragraph>One of them is support for Last.fm and scrobbling, as well as fetching album and artist arts from there. Lyrics are fetched automatically with subtle scrolling animation and gesture navigation: swipe right to see the song queue, while a left swipe gets the lyrics for the currently playing song. Shuffle and repeat controls are brought up with a swipe from the bottom.</paragraph>
+			<paragraph>Sadly, the player doesn't feature a separate equalizer, but can use the phone's built in one. Additionally, the app doesn't have a free version, just a 5-day trial option, but that should be enough to give you an idea of its functionality.</paragraph>
+			<paragraph>Get (free) | Get Now Playing ($1.08)</paragraph>
+			<paragraph>While Spotify, Pandora, Rdio and Google Music All Access are dominating the online music streaming, they're all paid options. If you want to experience the service without spending a dime, Earbits is a great place for a first dive. Granted, it doesn't yet offer the most famous artists out there, but it has a beautifully designed website, and the Android app isn't shabby at all either. You'll get the chance to explore not so mainstream artists and music in various genres, which can't be a bad thing.</paragraph>
+			<paragraph>Best of all, the app is completely free, and it has features like favorites and search. The Earbit music library packs north of 100 thousand songs at the time of writing. Once installed on your Android device, the app will analyze the already uploaded music and recommend channels and artists based on it.</paragraph>
+			<paragraph>Check out the Play Link below to try Earbits out and find out the cool way the company has managed to stay off ads, sponsors and fees to keep its service alive.</paragraph>
+			<paragraph>Get Earbits (free)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Social<subsectionTitle>
+			<paragraph>Twitter announced its new service named Vine in January, letting you share short looping videos on the popular social network. Back then a Vine app was only available for iOS, but that exclusivity has finally come to an end. The service, which already has about 13 million active users, is available for Android.</paragraph>
+			<paragraph>Vine for Android currently offers unlimited uploads, instant posting of videos on Vine and sharing on Twitter. The app lets you find, follow and interact with people and you can also explore trending posts. The important features such as front-facing camera support, search, mentions and hash tags and Facebook sharing, which are currently missing, are in the pipeline.</paragraph>
+			<paragraph>Get Vine (free)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Cinemagram<subsectionTitle>
+			<paragraph>Cinemagram is a social network where you record short videos, which are then converted to looping GIFs and posted to your account. You can also share these GIFs on other social networking sites such as Facebook and Twitter.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If this sounds a lot like Vine, it's because it is, except Vine arrived later and, more importantly, Vine posts actual videos and not just GIFs, which means they also have audio to go with the video - which Cinemagram fails to provide.</paragraph>
+			<paragraph>Still, if you want to get in on some looping short video action on your Android device, then Cinemagram should scratch that itch.</paragraph>
+			<paragraph>Get Cinemagram (free)</paragraph>
+			<paragraph>Rando is an experimental photo sharing network and platform, but with a twist. Photos that you send and receive are dubbed a "rando", and in order to receive a rando, you must send one in exchange. You'll never know who has received your rando, and you'll never know who sent you one. And that's the beauty of this experiment, really.</paragraph>
+			<paragraph>You can build rando collections, for example of monuments around the world. There are no likes, comments or direct communication. If you really want to see what an anonymous social network feels like, Rando is a great place to start.</paragraph>
+			<paragraph>Get Rando (free)</paragraph>
+			<paragraph>Twitter clients for Android are a dime a dozen these days, but very few of them manage to set themselves apart with the flare of Falcon Pro. The app is extremely fast and sports a great UI with smooth scrolling, inline preview of videos and images, as well as an in-app browser.</paragraph>
+			<paragraph>Multiple accounts are supported and can be managed from the left sliding menu. Slide your finger from the right and you'll see a menu with lists, world and local trends and saved searches. Falcon Pro also comes with scrollable widgets and an offline mode.</paragraph>
+			<paragraph>Get Falcon Pro  ($1.96)</paragraph>
+			<paragraph>In our previous article on Android, we covered the trinity of social networks, Facebook, Twitter and Google+. This time around, it's Reddit's turn. It's a social news and entertainment site that is divided into many subreddits, each devoted to a particular topic.</paragraph>
+			<paragraph>Users can publish "self" posts or links to external websites that then get up- or downvoted by other Reddit users.</paragraph>
+			<paragraph>With that description of Reddit in mind, the corresponding Android app aims to let you effortlessly browse the vast website. The user interface is really great and takes seconds to master.</paragraph>
+			<paragraph>Get Reddit is Fun (free) | Get Reddit is Fun Full ($1.99)</paragraph>
+			<paragraph>If you feel like you're wasting too much time posting on major social networks such as Facebook, Twitter and Google+, but don't want to cut back on their usage, then the Quick Social app is designed for you. It allows you to post to social networks directly from the notification drawer.</paragraph>
+			<paragraph>Currently, only the big three social networks are supported. Quick Social is paid on the Play Store, but its low price makes it a must-see for social network buffs.</paragraph>
+			<paragraph>Get Quick Social ($0.99)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photo<subsectionTitle>
+			<paragraph>Since Instagram popularity exploded, camera replacement apps that come with cool real-time effects have started to spread like wildfire. Understandable, given that stock Android camera app just doesn?t offer much flexibility when it comes time for advanced fiddling with the settings.</paragraph>
+			<paragraph>Luckily, there are great camera app alternatives out there. Some of them may not be as popular just yet, but they still do a solid job.</paragraph>
+			<paragraph>If you think Instagram has a lot of filters, then you should check out the Camera 2 app to have your jaw hit the floor. The app has effects ranging from classic (making a photo look like it has been taken in the 20?s, 40?s, 50?s, 60?s 70?s or 80?s) to lomos, comic, sci-fi and art. And you?re not limited to the resolution of the photos you can take an apply effects to. Even video recording with all of the effects is supported.</paragraph>
+			<paragraph>Moreover, you can tweak each effect to your liking as well as add animated effects. They look really funky, and the Camera 2 app allows you to share them with your friends with ease.</paragraph>
+			<paragraph>Get Camera 2 ($2.99)</paragraph>
+			<paragraph>Handy Photo focuses its efforts on photo editing and retouching. The app sports numerous effects, features and styles to easily and quickly apply to your existing photos. You are not bound to just making the photo sharper and punchier, you can manipulate it as well by moving objects around, for example.</paragraph>
+			<paragraph>The app supports applying different frame styles, textures, and photo filters with ease. You can modify large resolution photos, too (2GB needed for 24MP shots).</paragraph>
+			<paragraph>Get Handy Photo ($1.99)</paragraph>
+			<paragraph>Back to applying filters to photos, there?s Paper Camera, which is currently the easiest way to make your photos look like you?ve drawn them with a pencil. The app doesn?t have a plethora of options, but you can choose how thick the lines can be and what type of effect you want to achieve.</paragraph>
+			<paragraph>It?s a great app if you intend to make a comic book out of your photos without spending hours in Photoshop.</paragraph>
+			<paragraph>Get Paper Camera ($1.99)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>IM<subsectionTitle>
+			<paragraph>If you've ever used a text service for sending personal messages, chances are you've had a need at some point to send a message at an exact point in time. Schemes comes to the rescue, as one of the best scheduled messages app for Android.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Schemes works with regular SMS, Facebook, Twitter and Gmail. It's great for sending birthday wishes at exactly midnight or sending a business email right on the hour. Neatly, all SMS messages are added to their respective threads in the Messaging app.</paragraph>
+			<paragraph>Get Schemes (free)</paragraph>
+			<paragraph>Yet another replacement app, Ninja SMS is destined to be a lightweight alternative to the famous Go SMS Pro, Handcent SMS messaging replacement apps. The main feature of Ninja SMS is its support for multiple floating messaging windows at the same time. They are totally customizable and can be moved all over the screen as well as minimized, and of course - closed.</paragraph>
+			<paragraph>The app integrates a similar approach to the Facebook Chat heads when a message window is minimized and shows a photo of the person you?re texting in a small floating box. You should give it a shot, as its free on the Play Store.</paragraph>
+			<paragraph>Get Ninja SMS App ($1.50)</paragraph>
+			<paragraph>Hangouts is Google?s latest attempt to unify its handful of messaging services (Google Talk, Google+ Messenger, Gmail Messenger). It?s cross-platform and features notification syncing meaning that if you read a message on your phone, it won?t appear as unread on your PC or tablet.</paragraph>
+			<paragraph>The app comes with support for video chatting with multiple people from your Google+ circles. Hangouts also supports different features from GTalk and G+ Messenger such as saving chats in history, setting a status and a mood, a ton of emoji icons as well as going off record for when you don't want to preserve a chat history.</paragraph>
+			<paragraph>Get Google Hangouts (free)</paragraph>
+			<paragraph>Last, but not least, there's MightyText - an app designed especially for the Android platform that allows you to sync SMS texts to your PC, read and respond right from the comfort of the big physical keyboard. Once you receive a new SMS text, your are immediately notified.</paragraph>
+			<paragraph>The app even notifies you when there's an incoming call. This way, you know right away who is calling. We urge you to check it out if you live and breathe SMS. It'll save you quite a lot of time both in writing and reading. Not to mention it's free on the Play Store, so you have nothing to lose checking it out.</paragraph>
+			<paragraph>Get MightyText (free)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Various tools<subsectionTitle>
+			<paragraph>Idea Growr is a simple application that strives to provide you with the creative medium to write down every single idea that pops up into your brain. However, the app sets itself apart from the pack by offering you to attach multiple notes to an idea and the cool feature allowing you to answer a series of simple questions from 4 themed question sets. Their goal is to help you develop your thoughts and ideas better and keep everything neatly organized.</paragraph>
+			<paragraph>Once you have an idea written down, you can share it via various channels.</paragraph>
+			<paragraph>Get Idea Growr (free)</paragraph>
+			<paragraph>Ultra Compass and Level app for Android is a beautifully designed compass app that can use the main camera of your device to make your navigation easier. The app even measures the current magnetic field, if you are interested in that sort of information.</paragraph>
+			<paragraph>A must-have app for every hiker at heart out there that wants to have a compass in hand at all times without the need to carry a separate device.</paragraph>
+			<paragraph>Get Ultra Compass &amp; Level (free) | Get Ultra Compass &amp; Level Pro ($1.49)</paragraph>
+			<paragraph>We strive not to dive into rooted apps in this article, since we think the average user shouldn?t be getting into such deep waters without better understanding of the Android ecosystem. However we are making an exception for this one as we recently discovered it and found it to work quite well. It's probably not worth the effort of rooting your smartphone by itself but if you already went that way, you should definitely check it out.</paragraph>
+			<paragraph>The main reason for battery drain on Android devices is the background processes that some apps initiate to keep themselves up to date. Dropbox's famous Camera upload feature is one such example. It has a background process which constantly checks if you have taken a photo, and once you have uploads it to the cloud. Facebook, Google+, Twitter and many other apps too have background processes in place, which result in poor battery life.</paragraph>
+			<paragraph>Greenify puts a stop to this madness. It is a very important app that has saved a ton of battery life on many Android devices. Not to be confused with a task killer app, Greenify?s main job is hibernating battery hogging apps which launch new background processes. This means that the apps function normally when you open them, but once you close them, they don?t work in the background. As a result, push notifications function on hybernated apps will seize to work. Naturally, they won't all be working as smoothly as the Google platform would usually allow them but more often than not, you won't be able to spot the difference.</paragraph>
+			<paragraph>Get Greenify [ROOT] (free)</paragraph>
+			<paragraph>The conversations you're having on your Android phone needn't be lost forever after they're over. Call Recorder Pro comes to the rescue. Available in both free and pro versions, this app is the easiest way to record your conversations without the need of having to root your device.</paragraph>
+			<paragraph>All you have to do is flick a switch after launching the app, and start talking on the phone. The recorded conversations will be listed in the app itself and stored on the internal or external memory. There?s a number of settings as well that can dramatically improve the quality of the recordings.</paragraph>
+			<paragraph>Mind you, the legal aspects of doing such a thing are questionable and are in a moral grey area, so proceed with caution and check out your local laws before attempting to record anything. Also beware that the app may not function as advertised on all devices due to the complexity of the task at hand. In case of malfunction, seek help from the developer?s website, as this might get fixed if you fiddle with the settings.</paragraph>
+			<paragraph>Get Call Recorder | Get Call Recorder Pro ($5.57)</paragraph>
+			<paragraph>PushBullet is an app that many will find useful as it allows you to send webpage links, files, notes, lists , addresses and more from your computer or Android tablet to your smartphone. Once sent, the thing of interest is displayed in the notification drawer for easy access. You can control what to send from the PushBullet website or via the official Google Chrome extension.</paragraph>
+			<paragraph>The app sports a simple user interface and best of all is free on the Play Store.</paragraph>
+			<paragraph>Get PushBullet (free)</paragraph>
+			<paragraph>Ever wanted to learn a new language but didn't know from where to start? Fret not, as a great app called Duolingo has recently been launched on the Play Store. Featuring a great-looking user interface that really helps focus on learning the new language at hand, Duolingo focuses on repetition of a handful of core foreign words combined with images to help you remember more quickly.</paragraph>
+			<paragraph>The app currently supports Spanish, French, German, Portuguese, Italian, and English and it?s free without ads. Duolingo also has an achievement system that should in theory help your motivation.</paragraph>
+			<paragraph>Get Duolingo (free)</paragraph>
+			<paragraph>A handful of Samsung Android smartphone with TouchWIz UI have a feature to make your own custom vibrations for various ringtones and notifications. Now, there's an app for that available to all smartphones running Android 2.2 and up. Dubbed Vybe, the app sports an attractive UI and the ability to assign a custom vibration directly to a contact. It's also free on the Google Play Store.</paragraph>
+			<paragraph>Get Vybe Custom Vibrations | Get Vybe Custom Vibrations ($0.99)</paragraph>
+			<paragraph>The app is intended to regulate the volume of the ringing sound of your Android smartphone based on the ambient noise levels of your surrounding. If you?re in a library, for example, and you've forgotten to turn your sound off, Intelligent Ringer will kick in, detect that it?s quiet around you and ring appropriately.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Intelligent doesn't work if you have manually switched off your sound or turned on vibrate. Additionally, the app detects whether the phone is in your pocket and boosts the volume up to make sure you don't miss a call.</paragraph>
+			<paragraph>Get Intelligent Ringer | Get Intelligent Ringer Pro ($0.99)</paragraph>
+			<paragraph>Finding your car after you?ve parked in a large parking lot or at the side of a unknown street can indeed be a hard task that causes lots of unnecessary stress. Valet Parking app for Android comes to the rescue by marking your car?s current location on the map. The app also sports a timer function to let you know if your parking ticket is about to run out as well as turn-by-turn walking navigation to get to the vehicle.</paragraph>
+			<paragraph>Priced at $1.99 on the Play Store, Valet Parking has a final trick up its sleeve. If your car supports Bluetooth audio or phone connectivity, the app will know when the connection between the system and your phone has been lost and mark the location of the car without the need to do anything.</paragraph>
+			<paragraph>Get Valet Parking Where's my car ($1.99)</paragraph>
+			<paragraph>Since your smartphone holds sensitive information such as your contacts, messages, bank and personal info, as well as location data, intrusive apps can get hold of it and misuse it. Clueful Privacy Advisor comes to the rescue by analyzing each app and how it intrudes your privacy.</paragraph>
+			<paragraph>Once the app is started it scans all of the apps and their required permissions. Then, Clueful Privacy Advisor chunks up a total "Privacy score" and allows you to see which app does what with your sensitive information. The app is very useful if you have the habit of installing apps without reading too much into their requested permissions.</paragraph>
+			<paragraph>Get Clueful Privacy Advisor (free)</paragraph>
+			<paragraph>Ever wanted to fully backup your Android smartphone, but all apps require you to root your device first? Simple ADB Backup is here to fix this, giving you a simple yet beautiful interface that gives you access to Android's native backup function. As a result, you don't need to get your phone rooted, as some other apps would require you to.</paragraph>
+			<paragraph>However, the app works only with Android 4.0 Ice Cream Sandwich and up, since the native backup function of the OS has been introduced with this version. To start the backup procedure, you need to install both the .APK and desktop app (depending on your OS) from the developer's website. Then, it's a matter of firing the desktop application and choosing what you wish to do.</paragraph>
+			<paragraph>Get Simple ADB Backup 2.0 (free)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>The Android operating system is like a living thing, the more you care and love it, the stronger it grows. Metaphors aside, Android is a great place to be if you're keen on experimenting and wouldn't settle for what comes in the box.</paragraph>
+			<paragraph>Of course other platforms will too gladly offer you plenty of tools to improve your productivity or keep you connected, but when it comes to personalization, Android is second to none. Google has put the key to the beauty drawer in the hands of developers and users alike. It's simple, really. Every person is unique and wants that reflected in their device. And that's increasingly tough otherwise in a market that's steadily moving towards a uniform design.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>One can't quite say that Android is keeping a straight face about the brand new iOS 7 or the quickly evolving Windows Phone - and that's only because Android has many faces. Some might argue that the liberty the platform affords in terms of customization options is only making things confusing, but the truth is you only need to care about it if you want. Sticking with what you get out of the box is still going to give you a well functional platform and squeezing the extra potential is not required if you don't need it.</paragraph>
+			<paragraph>Well, 800K apps and counting are as good a bait as any. Of course, a select few are worth your time and money. And our selection doesn't pretend to be comprehensive or even fair. It's you and your phone. Thank God for the master reset.</paragraph>
+		</subsection>
+	</page>
+</review>

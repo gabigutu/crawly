@@ -1,0 +1,321 @@
+<review>
+	<title>Sony Xperia E dual review</title>
+	<description>Something extra</description>
+	<link>http://www.gsmarena.com/sony_xperia_e_dual-review-882.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Dual-SIM (dual stand-by)</paragraph>
+			<paragraph>Quad-band GSM/GPRS/EDGE and dual-band UMTS support</paragraph>
+			<paragraph>7.2 Mbps HSDPA and 5.76 Mbps HSUPA</paragraph>
+			<paragraph>3.5" 256K-color capacitive TFT touchscreen of HVGA resolution (320 x 480)</paragraph>
+			<paragraph>Android OS v4.0.4 Ice Cream Sandwich</paragraph>
+			<paragraph>1 GHz Cortex-A5 CPU, Adreno 200 GPU, Qualcomm MSM7227A chipset</paragraph>
+			<paragraph>512 MB of RAM</paragraph>
+			<paragraph>2GB of user-accessible built-in storage (4GB total)</paragraph>
+			<paragraph>microSD slot (32GB supported)</paragraph>
+			<paragraph>3.15 MP fixed-focus camera, geo-tagging</paragraph>
+			<paragraph>VGA video @ 30fps</paragraph>
+			<paragraph>Wi-Fi b/g/n, Wi-Fi hotspot</paragraph>
+			<paragraph>GPS with A-GPS</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Stereo FM radio with RDS</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v2.1</paragraph>
+			<paragraph>User-accessible battery, Li-Ion 1530 mAh</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Feeble chipset</paragraph>
+			<paragraph>Poor screen quality</paragraph>
+			<paragraph>Fixed-focus camera with poor image quality, No LED flash</paragraph>
+			<paragraph>No front-facing camera</paragraph>
+			<paragraph>Mediocre audio output</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>In 2012, Sony decided to alter its smartphone strategy and launched numerous affordable entry level smartphones, aiming to bring solid Android at prices close to those of some featurephones.</paragraph>
+			<paragraph>It seems the move paid off handsomely, as the company is continuing the push at the start of this year. The Xperia E dual, like its name suggests, is the dual-SIM half of the wallet-friendly and reasonably feature-packed Xperia E duo.</paragraph>
+			<paragraph>The Xperia E and Xperia E dual have identical internals, with the extra SIM slot the only notable hardware difference. However, that same SIM slot is probably what prevented Sony from shipping the Xperia E dual with Jelly Bean, like its single-SIM twin. Ice Cream Sandwich is still an extremely competent platform full of nice features, but it already has two successors, so it does come as a slight disappointment for us.</paragraph>
+			<paragraph>Still, corners were always going to be cut when we talk a smartphone with this kind of price. And the Xperia E dual still has plenty going for it so the lack of Jelly Bean is not something that should make you lose interest in it altogether. Let's take a closer look the all the features it has to offer.</paragraph>
+			<paragraph>The Sony Xperia E specs sheet is not stuff from the geeks' dreams, but it makes it extremely competitive in its own price class. The chipset does raise concerns, but since it's not going to need to deal with a demanding 720p display, it might turn out quite adequate. The lower screen resolution itself is not that much of a problem either as it's spread on a pretty compact screen by today's standards.</paragraph>
+			<paragraph>As usual, we start the review than with our traditional hardware tour. We'll meet you right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Xperia E dual<subsectionTitle>
+			<paragraph>The retail box of the Xperia E dual has nothing but the basics - a wall-mount plug, a USB cable for computer connections and charging, and a one-piece headset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia E dual 360-degree view<subsectionTitle>
+			<paragraph>The Sony Xperia E dual is a fairly compact and lightweight smartphone, coming in at 113.5 x 61.8 x 11 mm and weighing 115 grams. It's one of the easiest smartphones to pocket we have seen recently.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design, build quality and handling<subsectionTitle>
+			<paragraph>The Sony Xperia E dual borrows some design queues from the Xperia J, including the front panel lines and the thin silver frame, but introduces a completely new back panel. Unlike most of the 2012 Xperia smartphones that came with flat matte battery covers, the Xperia E dual cover is made of a textured rubberized plastic that attracts almost no prints or smudges.</paragraph>
+			<paragraph>The one place that will get smudgy all the time is the screen glass and the glossy black plastic surrounding it. Unfortunately it's a tough job to clean the front, a (really clean) microfiber cloth will do the job, but it will take you twice the time as it would have taken to do the same with a Galaxy S III or an iPhone 5, for example.</paragraph>
+			<paragraph>The Xperia E dual is not the best looking handset out there, but it's certainly built better than most of the otter offerings in its price range. There might not be fancy materials like carbon fiber or anodized aluminum here, but the plastic selected feels both adequately sturdy and nice to the touch. the Xperia E dual textured back provides excellent grip and the smartphone handles really comfortably.</paragraph>
+			<paragraph>Sony did an excellent job during the actual manufacturing of the Xperia E dual, too. There are no squeaks or creeks and no too wide gaps between the panels.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Most of the Xperia E dual front is occupied by the 3.5-inch TFT HVGA display. Just above the screen is the centered earpiece, the hidden status LED light and the proximity sensor.</paragraph>
+			<paragraph>Below the screen we find the capacitive Back, Home and Menu keys. They light up briefly as you unlock the screen, but the backlighting is otherwise off until you tap on one of them. There's no setting to change this behavior and the lack of an ambient light sensor means they won't illuminate automatically. The keys are haptic enabled, producing short sharp vibrations upon a tap. There's a microphone pinhole just below the Menu key.</paragraph>
+			<paragraph>The left side of the Xperia E dual has the lonely microUSB port used for charging and connections. It has no protective cover to keep it from getting filled with dust.</paragraph>
+			<paragraph>The right of the Xperia E dual is pretty crowded - all three hardware controls are here. From the top to bottom we find a thin volume rocker, a tiny but comfortable metal Power/Lock key, and the camera shutter near the bottom. We were really surprised to find a dedicated camera key on a budget phone with a fixed-focus camera, but nonetheless we are happy it's here.</paragraph>
+			<paragraph>On top of the Xperia E dual resides only the 3.5mm audio jack. While at first glance the bottom seems appears bare, there's actually a hidden LED right where the chrome frame meets the slanting bottom edge of the front. It glows for a few seconds each time you unlock your Xperia E dual, matching the currently selected color theme. The tiny status LED next to the earpiece is in charge of notifications (messages, battery status, missed call etc).</paragraph>
+			<paragraph>At the right bottom edge you can find a lanyard eyelet.</paragraph>
+			<paragraph>The back of the Xperia E dual has the 3.1MP camera lens and the loudspeaker grille just between the removable battery cover and the soldered plastic at the bottom.</paragraph>
+			<paragraph>Once you slide the battery cover up and remove it, you'll get to the hot-swappable microSD card slot and the 1530mAh battery.</paragraph>
+			<paragraph>Removing the battery cover will give you access to the two SIM compartments. Neither of those is hot-swappable, but both of them support 3G networks. We'll go more in-depth with the dual-SIM telephony later in a while.</paragraph>
+			<paragraph>Sony put a 1530mAh battery inside the Xperia E dual. We put the handsets through our battery routine, but we were sure to supply it with two SIM cards. It scored 30 hours, which means you'll only need to charge the smartphone every 30 hours if you use it for an hour of talk-time, an hour of web browsing and an hour of video-watching per day. Quite disappointing result indeed.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>HVGA display<subsectionTitle>
+			<paragraph>The Sony Xperia E dual comes with an HVGA LCD screen, measuring 3.5 inches in diagonal. These numbers add up to a pixel density of 165ppi, which is some way off the Retina standards, but not bad enough to be an eye-sore. You can find slightly better densities in this class, but the difference won't be too great.</paragraph>
+			<paragraph>As for image quality, the Xperia E dual's display offers fairly low contrast, poor viewing angles and sunlight legibility. Sadly, a mediocre screen is still one of the things you have to live with if you decide to save some money on a smartphone. Here are the results from our traditional display tests.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contrast ratio<subsectionTitle>
+			<paragraph>And here is the Xperia E dual's RGB matrix under a microscope.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android Ice Cream Sandwich ticks inside<subsectionTitle>
+			<paragraph>The Sony Xperia E dual runs Android 4.0.4 Ice Cream Sandwich out of box and Sony has yet to make any announcement about a possible Jelly Bean update. That being said, the Xperia E single-SIM variant runs on Jelly Bean out of box, so it seems likely that Sony will bring that to the dual-SIM version as well. If you are not familiar with the features specific to the various Android versions, make sure you check out our dedicated Android version scoop.</paragraph>
+			<paragraph>If you're familiar with Sony's latest droid smartphones, the Xperia E dual shouldn't hold many surprises for yoy. Sony has added its custom launcher on top of the Android 4.0.4 OS, modifying almost every part of the UI. In fact the launcher has seen some updates since the last time we saw it on an entry level Sony smartphone and it has received the notification area toggles that we saw on the Xperia V.</paragraph>
+			<paragraph>Here's a brief video rundown of the Xperia E dual user interface:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia E dual has the usual five-pane homescreen configuration, but there is no option to add or remove panes. Along the bottom, there are five docked shortcuts (the app drawer shortcut and two on each of its sides). These are visible across all five homescreen panes and are user configurable: they can be either single icons or folders with multiple items in them. For folders, you get smaller icons of the first four items inside.</paragraph>
+			<paragraph>As with older Sony smartphones, you can change the color theme of the launcher according to your preferences. Depending on the color you've chosen the hidden LED light below the screen will light up with the same color tone.</paragraph>
+			<paragraph>The homescreen does a neat trick called Overview mode, which lets you quickly find a widget across any of your homescreen panes. Pinch to zoom out on any of the 5 homescreen panes and a new screen opens up showing all active widgets for easy viewing and selection. Tapping on a widget takes you directly to the homescreen that it is on.</paragraph>
+			<paragraph>The Xperia E dual has some custom-made Sony widgets in addition to the standard set. Those include the Timescape widgets (stream and friends) and a Mediascape-like widget for photos and videos (the actual app isn't there anymore, but the Album gallery is).</paragraph>
+			<paragraph>There is a dedicated widget (in two different sizes) for the dual-SIM options, where you can quickly switch between the SIM cards (for voice calls and messages only). To choose a different SIM for data traffic you'll still need to go to the settings menu.</paragraph>
+			<paragraph>Pressing on an empty area of a homescreen opens up a contextual menu. It gives you the customization options - choose a widget, a wallpaper, a theme, an app shortcut and create a new folder.</paragraph>
+			<paragraph>Moving and removing widgets hasn't changed and is as simple as on droids of old - hold a finger over a desired widget and move it around. The action has a cool wobble animation to it. Sadly, since this is not a Jelly Bean smartphone, widgets that have already been positioned will not move out of the way of the new ones you are trying to place.</paragraph>
+			<paragraph>A cool addition to the lockscreen, missing from some Xperia phones of old, is the Walkman widget which lets you control music playback without unlocking the phone. You can also enable Face, Pattern, PIN or Password unlock, in ascending order of security.</paragraph>
+			<paragraph>The standard notification area is also present, and features a couple of connectivity toggles (Bluetooth and Wi-Fi), a sound toggle, a dedicated SIM card switch (for calls and messages only, not data) and a settings shortcut. The notification area is also accessible from the lockscreen.</paragraph>
+			<paragraph>The usual task switcher, part of vanilla ICS, is also on board. You can access it with a tap and hold on the Home key.</paragraph>
+			<paragraph>As a part of the ICS package, you get the Data usage app. It is able to track the usage of your two SIMs individually and you will be asked every time to choose a SIM card should you try to open it. There is an SMS counter as well. It works exactly like the data counter, but instead of bytes, it counts the text messages sent from each SIM. Warnings and limits, as well as history log are also available.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance benchmarks<subsectionTitle>
+			<paragraph>The Sony Xperia E dual is powered by a Qualcomm MSM7227A chipset, which packs a 1GHz ARM Cortex-A5 processor, 512MB of RAM and Adreno 200 GPU. Those are hardly the guts of a benchmark champion, but they are quite common among entry level smartphones.</paragraph>
+			<paragraph>As was to be expected, the raw CPU performance is quite poor, even when you don't care for multi-core architectures.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BenchmarkPi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Quadrant and GeekBench 2 gives the smartphone an all-round grade for processing (calculative and graphic, memory speed, SD card writing, etc). The Xperia E did quite well in the first one, posting a very decent score. It didn't come close to the other contestants at GeekBench 2, but that's because we normally only run this benchmark on far more capable smartphones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Adreno 200 GPU is an old design, but it can handle the HVGA resolution on most occassions. As you an see from the graphic benchmarks it managed to score 27.7 fps on NenaMark 2 and 30.9 fps on the newly released Epic Citadel - an excellent result for a mid-range device, suggesting that you'll be able to play quite a few games on it. It won't always be the smoothest experience, but lower demanding titles should offer very playable framerates.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Web browsing benchmarks scores were reasonable considering the Xperia E dual internals. It won't be the quickest to load and the smoothest to scroll, but it's not too bad either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>The visually customized phonebook of the Xperia E dual is virtually the same as on vanilla Android and can store extensive contact information. A tabbed interface allows you to access your contact list, recent calls, and info from social networking services.</paragraph>
+			<paragraph>The contact list can be sorted by either first or last name. There are two contact search options - a dedicated search field on top of the contact list, and an alphabet scroll to jump to names starting with a specific letter.</paragraph>
+			<paragraph>Quick contacts are enabled - a tap on the contact's photo brings up shortcuts for calling, texting or emailing the contact.</paragraph>
+			<paragraph>You can sync with multiple accounts, including Exchange and Facebook, and you can selectively show or hide contacts from certain accounts and SIM cards(you can fine-sift specific groups from an account), or set the phonebook to display only contacts with phone numbers or only contacts that are online.</paragraph>
+			<paragraph>If a contact has accounts in multiple services, you can "link" their details to keep everything in one place. Their Facebook photos and interests (part of the Facebook integration) will show as extra tabs.</paragraph>
+			<paragraph>Each contact can have a variety of fields (and repeat fields of the same type), there's an Add field button and the X button lets you remove fields as needed. The fields cover anything from names (including a field to write the name down phonetically) to addresses, nicknames and notes.</paragraph>
+			<paragraph>There is an option to redirect calls directly to voicemail, and custom ringtones are enabled too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Dual-SIM telephony<subsectionTitle>
+			<paragraph>The Xperia E dual supports dual standby, meaning that both of its SIM cards can accept calls at any time (just not simultaneously). In addition both SIMs can connect to a 3G networks.</paragraph>
+			<paragraph>There is one thing you should know though - while you are in a call with one of the SIMs, the other card will be inaccessible. By default the phone automatically forwards your calls to the other SIM card and if it supports call waiting, you should be able to get the call or put it on hold (additional charges might apply if you take the call).</paragraph>
+			<paragraph>However, you can use only one of your cards for network data transfers and you'll have to set that from the dedicated Dual SIM settings menu. From there you can also set names for the SIM cards, choose the default one for calls and messages, turn on/off SIMs, and turn on/off the auto-switch options.</paragraph>
+			<paragraph>You can quickly switch the default SIM card for messaging and calls via the dedicated widgets or the SIM toggle in the notification area, though - you don't need to go to the settings menu every time.</paragraph>
+			<paragraph>The signal strength is relatively strong and we had no issues with in-call quality.</paragraph>
+			<paragraph>The phone app features smart dialing which searches for matches in both the contacts' phones and names. The call log is integrated in the dialer - it shows a list of recently dialed, received and missed calls in the top half of the screen and the keypad on the bottom half. Once you start typing, the call log is replaced by the smart dial list. You can hide the keypad the make more room for the call log.</paragraph>
+			<paragraph>Thanks to the proximity sensor, the Sony Xperia E dual automatically disables the touchscreen when you place it next to your face during a call.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test on the Sony Xperia E dual, and it scored an Average mark. It's just 1db below our Good result though and missed calls and notification are highly unlikely. The test was made using the xLOUD option, which is active by default. You'd do well to stick with that as otherwise the speaker was too quiet.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging<subsectionTitle>
+			<paragraph>Text messages and MMS use a standard threaded layout. Each thread is displayed as an IM chat session, with the most recent message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them against deletion.</paragraph>
+			<paragraph>Search is enabled to locate a specific message in all conversations and you can also activate delivery reports.</paragraph>
+			<paragraph>Adding multimedia (photos, videos, sounds, etc.) will convert the message to an MMS.</paragraph>
+			<paragraph>Moving on to email, the Gmail app supports batch operations, which allow multiple emails to be archived, labeled or deleted. The app supports multiple Gmail accounts, but there's no unified inbox for other email services.</paragraph>
+			<paragraph>However, the generic email app can do that as well. It can handle multiple POP or IMAP accounts and you have access to the messages in the original folders that are created online.</paragraph>
+			<paragraph>Google Talk handles Instant Messaging. The GTalk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>As for text input, the Xperia E dual offers a customized on-screen full QWERTY keyboard. Typing on the portrait keyboard is not as convenient as on some of the larger screens seen in the Xperia line, but is still fairly comfortable.</paragraph>
+			<paragraph>Flipping the phone to landscape gives you even bigger, easier to press buttons.</paragraph>
+			<paragraph>You can also try the so-called Gesture input if hitting those keys individually doesn't give you the desired typing speed. It works the same as Swype, and even if you've never used Swype input before, you'll quickly get used to it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Album handles pictures<subsectionTitle>
+			<paragraph>The Sony Xperia E dual comes with the proprietary Sony image gallery, dubbed Album.</paragraph>
+			<paragraph>Images are organized into stacks of thumbnails and sorted by date. You can opt to show all of your albums in one place, and there are three tabs above the stacks - Pictures, Map and Online.</paragraph>
+			<paragraph>Pictures is the main tab and one of its features managed to impress us: you can use pinch gestures to make the image thumbnails bigger or smaller. The whole thing is super responsive and hundreds of thumbs fall in and out of differently sized grids with very smooth transitions.</paragraph>
+			<paragraph>Map reminds us of the iOS gallery, where all geotagged pictures are shown on a world map.</paragraph>
+			<paragraph>The Online tab displays pictures from Google Picasa and Facebook. You have options to tag, like and comment on Facebook photos much like you did in the previous Xperia Gallery.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Quick sharing via Picasa, Email apps, Facebook, Bluetooth or MMS is also enabled.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Movies app is your video player<subsectionTitle>
+			<paragraph>The video player is dubbed Movies and it too has a new interface. It's connected to Gracenote, which helps you find additional information about the movies you have on board.</paragraph>
+			<paragraph>The Xperia E dual video player handles most of the common formats - it played all DivX, XviD and MP4 videos up to WVGA resolution. MKV files, the AC3 audio codec and subtitles are not supported though. Despite that it did far better than we expected and we are really glad about that. Nicely done!</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Walkman audio player<subsectionTitle>
+			<paragraph>Another of the redesigned Sony media apps which received a facelift with Sony's arrival at ICS is the new Walkman music player. It retains all the functionality of the older music players but adds a little bit extra here and there. It is divided into Playing and My music panels.</paragraph>
+			<paragraph>In the My music section, you can update your album art and music information like album, year released, and more. SensMe is included, meaning you can filter your songs by mood - upbeat, energetic, mellow, dance, etc. Creating playlists is enabled and you can also view your Facebook friends' activity if they too use the Walkman player.</paragraph>
+			<paragraph>The Now Playing screen offers the standard music controls, shortcuts to the library, "Infinity" key and song cover art. The Infinity key lets you quickly look up a song on YouTube or browse for the lyrics, among others.</paragraph>
+			<paragraph>Sony has improved on the Walkman player's settings. There's Surround sound mode, which imitates the Studio, Club or Concert Hall experience, while Clear Stereo mode enhances the perceivable stereo channel separation.</paragraph>
+			<paragraph>The xLOUD enhancement for increasing the loudness of the internal speaker is here too.</paragraph>
+			<paragraph>And audio fans will also be pleased to find a configurable 5-band equalizer with bass adjustment. However die-hard audiophiles might prefer additional players, which sport 10-band or even 20-band equalizers.</paragraph>
+			<paragraph>There are music controls on the lockscreen. Swiping them to either side brings back the clock. The notification area also offers the now playing screen with music controls and the option to jump into the Walkman player app.</paragraph>
+			<paragraph>The Sony Xperia E dual also features an FM Radio aboard complete with RDS support. The app automatically seeks and adds bookmarks to stations in range, although you'll need to have a set of headphones attached to use as an antenna.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Mediocre audio output<subsectionTitle>
+			<paragraph>The Sony Xperia E dual failed to impress in our audio quality test, posting some pretty mediocre results in both parts. When connected to an active external amplifier the Xperia E dual got only average scores for noise levels and dynamic range, while its frequency response left a lot to be desired. The volume levels were pretty poor, too, so the overall performance is rather disappointing here.</paragraph>
+			<paragraph>The good news is there's little degradation when headphones come into play. Stereo crosstalk rises does take a hit and distortion levels rise, but the frequency response, noise levels and dynamic range actually improve slightly. Unfortunately the volume levels are even lower here and given that even the improved scores are far from perfect, we'd suggest audiophile keep away from this one.</paragraph>
+			<paragraph>And here come the full results so you can see them for yourselves:</paragraph>
+			<paragraph> Sony Xperia E dual frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>3MP fixed-focus camera<subsectionTitle>
+			<paragraph>The Xperia E-dual sports a 3 megapixel fixed-focus camera and there is no LED flash. That should be enough to tell you that the smartphone's camera should only be resorted to in case of emergencies.</paragraph>
+			<paragraph>The camera controls on the Xperia E dual are available on two taskbars on either side of the viewfinder. On the left you get four shortcuts to various settings (scenes, exposure compensation, self-timer and geotagging), while the still camera/camcorder toggle, the virtual shutter and a thumbnail of the last photo taken are on the right.</paragraph>
+			<paragraph>The menu key brings up a few extra settings - resolution, capturing method, shutter sound and data storage, among others. You can customize all four of the shortcuts on the left.</paragraph>
+			<paragraph>The image quality is nothing to talk about, really. There is very little resolved detail, particularly towards the edges of the frame and noise levels are fairly high. The dynamic range is pretty limited and while the colors are nice, we wouldn't recommend the Xperia E dual to any cameraphone enthusiasts.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image quality comparison<subsectionTitle>
+			<paragraph>We've put the Xperia E dual against other 3MP snappers so you can check the image quality for yourselves. You can choose other adversaries as you please, and all you need to look for explained in the tools main page.</paragraph>
+			<paragraph>   Sony Xperia E dual in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>VGA video recording is so-so<subsectionTitle>
+			<paragraph>The Sony Xperia E dual captures VGA video at around 25 fps, which is about all you can expect out of a single-core processor and a 3MP camera.</paragraph>
+			<paragraph>The camcorder has the same interface as the still camera and some of the same settings.</paragraph>
+			<paragraph>Videos are recorded in MP4 files with a bitrate of 2.0Mbps and stereo AAC sound (128Kbps, 48kHz). The resolved detail isn't great, as expected from a VGA shooter, but at least the noise reduction is less aggressive here so some of it remains in the resulting videos.</paragraph>
+			<paragraph>Here is a VGA@30fps sample from the Xperia E dual.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Rich connectivity<subsectionTitle>
+			<paragraph>The Sony Xperia E dual has quad-band 2G and tri-band 3G connectivity. Mobile data speeds go at 7.2 Mbps of HSDPA and 5.76 Mbps HSUPA. Only one SIM card can be connected to a 3G network and usually this is the SIM card you've chosen for mobile data (you can still make and receive calls on that SIM, don't worry). The other SIM will be connected only to a GSM network.</paragraph>
+			<paragraph>There are options to auto-switch SIM cards depending on the time of day or day of the week (work days or weekends). You can set the primary SIM for calls to switch automatically on specific intervals, instead of you doing it yourself. You can do the same with the data traffic too.</paragraph>
+			<paragraph>Local connectivity is covered by Wi-Fi b/g/n with DLNA and Wi-Fi Direct, so you can easily share content from your phone on a DLNA TV or music player. There's also Bluetooth 2.1 with A2DP.</paragraph>
+			<paragraph>There is no support for USB on-the-go.</paragraph>
+			<paragraph>There's a Connected Devices app that also lets you manage DLNA connectivity with the Xperia E dual. You can either browse content on other DLNA-enabled devices on the same Wi-Fi network, or set the E dual as a media server for other devices.</paragraph>
+			<paragraph>The Xperia E dual also comes with Sony's Smart Connect app, which replaces the former LiveWare manager, although the functionality remains basically the same. With Smart connect, you can set your device to do a variety of things, like launch an app or set an alarm, whenever you connect an accessory, e.g. a headset or a charger.</paragraph>
+			<paragraph>You can do Wi-Fi tethering too, as it's part of the default Android functionality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android web browser or Google Chrome - the choice is yours<subsectionTitle>
+			<paragraph>Sony Xperia E dual has the default ICS browser on board. It offers a streamlined interface, incognito browsing and other cool features.</paragraph>
+			<paragraph>The browser interface is quite minimalistic; all you get is a URL bar with a tabs shortcut. Hitting the Menu key gives you more options - Refresh, Forward, Save to bookmarks, Share page, Find on page, full settings and a couple of more - Request desktop site (no more hunting for that "Desktop" option buried at the bottom of the site) and Save for offline reading.</paragraph>
+			<paragraph>The full settings menu includes some really interesting options. For example, you can set your search engine to Yahoo or Bing, you can adjust text size and the amount a double tap will zoom in on a page.</paragraph>
+			<paragraph>The bowser offers the nice Search Result Preloading feature - when searching for something, if the browser is confident you'll click on a certain search result, it will start preloading that page right away so that it opens faster if you do click it. You can set this feature to work over Wi-Fi only to preserve data.</paragraph>
+			<paragraph>The other trick is Incognito mode - there's no global setting, but you can open individual Incognito tabs.</paragraph>
+			<paragraph>Speaking of tabs, the tab switching interface looks exactly like in the Recent apps list. You can even close tabs by swiping them off the screen.</paragraph>
+			<paragraph>Quick controls (available from the Labs settings) reveal five controls (New tab, Tabs, URL, Bookmarks, More) when you slide your finger in from the side. These really improve the browser experience. Another cool feature from Labs is Full screen, which squeezes out a little more screen real estate by hiding the status bar.</paragraph>
+			<paragraph>Adobe Flash is officially not supported on Android already, so you can't expect to have it working. You can still find the APK file on the internet, but we doubt the Xperia E dual will handle Flash content well.</paragraph>
+			<paragraph>You can also opt for the much-improved Google Chrome web browser, which has also been pre-installed. It's pretty smooth, considering the limited hardware it has at its disposal. The interface is pretty simple - you get a combined URL and search bar at the top. To the right of it there's a tab switcher with the number of open tabs on it. Hitting the menu button reveals options like new tab, bookmarks, look at closed tabs on other devices, request desktop site, etc.</paragraph>
+			<paragraph>To switch between tabs you just swipe to the left or right to move between various open pages. In the tab interface you can also swipe away tabs you don't want anymore, except this time with a cooler animation.</paragraph>
+			<paragraph>Chrome offers full synchronization with your Google account. Just type it in and it will immediately connect to all of your devices with Chrome installed. The only thing that doesn't get synced is your passwords.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizational apps<subsectionTitle>
+			<paragraph>The Sony Xperia E dual comes with the OfficeSuite 6 viewer. OfficeSuite 6 allows you to view almost any type of document, although you'll have to fork over for the Pro version if you want editing capabilities as well.</paragraph>
+			<paragraph>File Commander is on boards - it's a full featured file manager that'll do everything you may need to organize your files.</paragraph>
+			<paragraph>There's a Notes app that comes with the Xperia E dual. It's pretty simple to use - you can select the color of the note and just start typing or doodling. There's also an option for Evernote integration.</paragraph>
+			<paragraph>The calendar has three different types of view - daily, weekly and monthly. The lower section of the screen is reserved for a list of upcoming events. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The Calendar also pulls info on upcoming events from your Facebook account. Facebook events appear just like regular calendar entries, except that you can't edit them from the app.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized - the buttons are really big and easy to hit. You can expand to reveal advanced functions (trigonometry, logarithms).</paragraph>
+			<paragraph>The alarm clock app supports multiple alarms, each with its own start and repeat time. The Alarms app can also work as a desk clock - you have a big toggle for the brightness, as well as weather info and shortcuts to gallery slideshow and the music player. There's no world clock, stopwatch or timer though.</paragraph>
+			<paragraph>For everything else not included, the Google Play store is full of free apps that will cater to all your organizational needs.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps handles the navigation<subsectionTitle>
+			<paragraph>The Sony Xperia E dual comes with a GPS receiver, which took about a minute to get satellite lock upon a cold start. You can use the A-GPS functionality to get near instantaneous locks. Alternatively, network positioning will do if you only need a rough idea of your location.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>Google Maps uses vector maps, which are very data efficient. The latest version has an easy to use interface for caching maps - you just choose "Make available offline from the menu" and pan/zoom around until the desired area is in view (there's an indicator showing how much storage caching that area will take). You can later view cached areas and delete ones you no longer need.</paragraph>
+			<paragraph>Note that there's a limit to the size of the area you can cache - you can't just make the entire United States available offline, not even a single state. We managed to fit New York and some surrounding area before Maps told us the area is too big. Also, there's no address search in the cached maps and you can only cache map data in supported regions of the world.</paragraph>
+			<paragraph>You can plan routes, search for nearby POI and go into the always cool Street View. The app will reroute you if you get off course, even without a data connection.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Play Store with plethora of apps<subsectionTitle>
+			<paragraph>Running on Android ICS, the Xperia E dual has access to a huge number of apps from the Android Play store but the limited amount of onboard storage means you'll need to be careful with large apps or just look for ones that support moving to a microSD card.</paragraph>
+			<paragraph>The Store is organized in a few scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. The in-app section is untouched though and it's very informative - a description, latest changes, number of downloads and comments with rating. There is usually a demo video and several screenshots for most apps.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Sony Xperia E dual offers quite the feature package for such a conservative price point. It's a very well built dual-SIM smartphone from a tier-one manufacturer that is powered by the really functional Android Ice Cream Sandwich.</paragraph>
+			<paragraph>ICS is no longer the best Android out there, but it gives you pretty much everything you may need for your daily routine. It has rich multimedia functionality that gets even better with Sony's home-baked image gallery and media players, while its customization options are still far better than any non-Android device out there.</paragraph>
+			<paragraph>Sony also included an office package, file browser, the Smart Connect feature and great social integration to make this an even more attractive offering.</paragraph>
+			<paragraph>The hardware strengths of the Xperia E dual begin with the dual-SIM functionality with dual-standby support and 3G networks compatibility on both cards. Then you have the sleek design with great grip, the 3 megapixel snapper to capture important moments, the microSD slot and more.</paragraph>
+			<paragraph>Despite the dated hardware, the Xperia E dual provides a smooth enough ride around the interface with almost no lag and decent app loading times. The 1GHz CPU upgrade has really helped bring the user experience from slightly irritating to acceptable and that is no small thing in this class.</paragraph>
+			<paragraph>The Xperia E dual is priced quite decently, too, at about ?150. It squeezes the maximum out of its hardware to give you a solid smartphone experience. The handset delivers on every promise its specs sheet makes and even has a few nice surprises on top of that.</paragraph>
+			<paragraph>Not that long ago, dual-SIM smartphones were quite hard to come by, but as manufacturers turn their focus to developing smartphone markets things are starting to change quite rapidly. The past year saw every major smartphone manufacturer, except Apple release a smartphone with dual-SIM. The competition has gotten quite fierce out there.</paragraph>
+			<paragraph>Sony released the Xperia tipo dual last year - it runs on an 800MHz processor and has a 0.3-inch smaller screen size. If phones with a small footprint are your thing, then maybe you should check it out. It is cheaper than the E dual, but the performance difference is bigger than the 200 MHz CPU clock difference suggest.</paragraph>
+			<paragraph> Sony Xperia tipo dual</paragraph>
+			<paragraph>Samsung has a couple of dual-SIM droids threatening the Xperia E dual. The equally-priced Galaxy Ace is supposed to be a direct rival to the compact Sony smartphone, but coming with a long outdated hardware and Android 2.3 Gingerbread, it can't really match its user experience.</paragraph>
+			<paragraph>  Samsung Galaxy Y Duos S6102 ? Samsung Galaxy Ace Duos S6802</paragraph>
+			<paragraph>However, if your budget isn't too strict you might want to have a look at the Galaxy S Duos. This one is powered by the same hardware as the Xperia E dual, but has a bigger high-res screen as well as more RAM and storage capacity. The Galaxy S Duos also has a 5MP autofocus camera and a secondary front-facing snapper for vide-chats to justify its ?50 price premium.</paragraph>
+			<paragraph> Samsung Galaxy S Duos S7562</paragraph>
+			<paragraph>The Optimus L5 Dual is the best LG can offer in this class. It runs on less capable hardware (the same as Xperia tipo dual), but comes with a bigger 4-inch screen and a 5 megapixel camera. If those features are important for you, it's definitely worth checking it out.</paragraph>
+			<paragraph> LG Optimus L5 Dual E615</paragraph>
+			<paragraph>If you are willing to look at the lesser known brands, Acer offers the Liquid Z110 (?100) and Liquid Gallant Duo (?200). The Liquid Z110 has similar specs to the Xperia E dual, but lets you save nearly a third of the price, while the more expensive Gallant Duo brings more processing power as well as much better screen (4.3-inch qHD), and camera.</paragraph>
+			<paragraph>  Acer Liquid Z110 ? Acer Liquid Gallant Duo</paragraph>
+			<paragraph>Sony Xperia E dual is an excellent offering, striking good balance between functionality and affordability. The snappy performance came as a nice surprise to us and if it wasn't for the limited storage for installing apps we'd be recommending it in a heartbeat.</paragraph>
+			<paragraph>Yet, even as things stand now, the Xperia E is a very competitive package that will tick the right boxes for many and would provide a lot of bang for your buck. Whether or not it's the best for you depends greatly on your priorities, but it's certainly not a purchase you'll end up regretting.</paragraph>
+		</subsection>
+	</page>
+</review>

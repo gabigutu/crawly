@@ -1,0 +1,70 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>StarCraft : Brood War</nameFr>
+	<typeEn>Game</typeEn>
+	<typeFr>Jeuxvideo</typeFr>
+	<year>1998</year>
+	<link>http://www.senscritique.com/jeuvideo/Star_Craft_Brood_War/331301</link>
+	<generalScore>8.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>11</numberOfVoters>
+		<numberOfVoters>41</numberOfVoters>
+		<numberOfVoters>112</numberOfVoters>
+		<numberOfVoters>463</numberOfVoters>
+		<numberOfVoters>972</numberOfVoters>
+		<numberOfVoters>733</numberOfVoters>
+		<numberOfVoters>362</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Yes sir ? Ab-so-lutely!</title>
+		<author>machinbizarre</author>
+		<date>2011-04-08</date>
+		<score>0.9</score>
+		<content>L'extension indispensable de Starcraft. J'y joue encore. J'avais écrit un truc pendant une heure mais ma souris et ses Pxxxxx de boutons ultrasensibles de Mxxxx, sur le côté, m'a gentiment fait revenir à la page précédente. Je la hais. En vrac : Titre culte. A influencé des tas d'autres jeux. Y jouer au moins une fois dans sa vie. Marines, Zerg, Protoss s'affrontent. Mode campagne (missions comme un film dont vous êtes le héro. Une fabuleuse épopée. Guerre, trahison, et tout) / mode réseau (combat vs autres joueurs ou ordinateurs => durée de vie infinie - même quand on connait les maps par cœur. ) Musique sans âge, graphismes qui tiennent le coup. Maniabilité parfaite. ~ Les conseils de mamie cerveau ~ En cours de partie : - prendre le centre ; - microgestion des combats. Pour les plus perfectionnistes (tarés) : - calculer le temps de fabrication de chaque chose pour optimiser tout ça à la seconde près. - Réviser les raccourcis clavier. On fait une interro la semaine prochaine les enfants. - Cliquer comme un(e) dingue tout le temps et partout afin d'impressionner ses adversaires (même si c'est l'ordinateur, il le mérite) et ne pas perdre une microseconde. Le mieux étant de ne pas cliquer au hasard. -> Les plus : ce jeu c'est de la balle. -> Le moins : les unités ne progressent pas en se battant = restent toujours aussi nulles même après avoir gagné 10 combats = chaire à canon.</content>
+	</review>
+	<review>
+		<title>elle s'est réincarnée !!!!!</title>
+		<author>the_hunter</author>
+		<date>2014-11-11</date>
+		<score>0.9</score>
+		<content>debout ma fille, debout! par ta volonté père! que tout ce qui soppose à l'overmind, craignent la fureur de la nuée! c'est bien cérebrattes, aujourd’hui nos ennemies ont perdus, qu'aucun Terranes ne survivent!</content>
+	</review>
+	<review>
+		<title>StarCraft : Brood War sur PC</title>
+		<author>Bishiboosh</author>
+		<date>2010-06-07</date>
+		<score>1.0</score>
+		<content>Je suis pas critique de jeux vidéos comme certains (kikoo euh trop de gens en fait), mais bon, Starcraft garde une place privilégiée dans mon éducation vidéoludique. Pour l'ambiance, le scénar, les voix, tout, en fait.</content>
+	</review>
+	<review>
+		<title>StarCraft : Brood War sur PC</title>
+		<author>Wor</author>
+		<date>2012-12-21</date>
+		<score>0.9</score>
+		<content>Un très bon add-on. La campagne a été particulièrement soigné pour un add-on. On a toujours une excellente trame scénaristique, et le très bon système de jeu de Starcraft, enrichi de qulques unités supplémentaires, dont certaines sont bien amusantes (en particulier le templier noir Protoss capable de convertir les unités ennemis). la Difficulté a été quelque peu relevé par rapport au jeu de base, en particulier les dernières missions sont vraiment dures.</content>
+	</review>
+	<review>
+		<title>StarCraft : Brood War sur PC</title>
+		<author>Ryve</author>
+		<date>2011-01-10</date>
+		<score>0.8</score>
+		<content>Cette extension est solide et propose une durée de vie incroyable pour une extension. Si on aime Starcraft, l'extension est indispensable !</content>
+	</review>
+	<review>
+		<title>Un incontournable!</title>
+		<author>thibautmet</author>
+		<date>2014-10-22</date>
+		<score>0.8</score>
+		<content>Si Starcraft a été (et est toujours) un véritable must-have, Broodwar en a sublimé l'expérience! Un scénario béton, des ajouts aux différentes races et à la jouabilité assez géniaux... bref, le tout se résume en un jeu de stratégie incontournable, terriblement chronophage mais vraiment passionnant! À (re)jouer de toute urgence!</content>
+	</review>
+	<review>
+		<title>StarCraft : Brood War sur PC</title>
+		<author>CédricY</author>
+		<date>2013-01-25</date>
+		<score>0.8</score>
+		<content>Une bonne extention a starcraft.</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,310 @@
+<review>
+	<title>HTC Nexus 9 review</title>
+	<description>Game on</description>
+	<link>http://www.gsmarena.com/htc_nexus_9-review-1160.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Optional quad-band GSM, CDMA, penta-band HSPA, 4G LTE</paragraph>
+			<paragraph>64-bit Nvidia Tegra K1 chipset; 2.3GHz dual-core Denver CPU; Kepler DX1 GPU</paragraph>
+			<paragraph>8.9" QXGA (2048x1536 pixels) IPS display with 4:3 aspect ratio; Corning Gorilla Glass 3</paragraph>
+			<paragraph>Android 5.0 Lollipop with material design; brand new ART runtime for improved performance and responsiveness</paragraph>
+			<paragraph>8MP f/2.4 camera with auto-focus and single LED flash; 1080p @30fps video capture</paragraph>
+			<paragraph>1.6MP f/2.4 front-facing unit with 720p video capture</paragraph>
+			<paragraph>16/32GB of built-in memory</paragraph>
+			<paragraph>Wi-Fi a/b/g/n/ac; Bluetooth 4.1 with aptX; NFC; A-GPS; GLONASS; microUSB 2.0</paragraph>
+			<paragraph>BoomSound front-facing stereo speakers; dual microphones</paragraph>
+			<paragraph>6,700mAh Li-Po battery</paragraph>
+			<paragraph>Premium design and build; three available color options</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No memory card slot , doubling the built-in memory is Apple-like expensive , no 64GB memory option</paragraph>
+			<paragraph>3GB of RAM would have fitted the chipset better</paragraph>
+			<paragraph>Some might find the new display ratio a tad awkward</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Google Nexus 9 will be curiously gazed upon by both Nexus 7 and Nexus 10 owners, as HTC gets back on the roster to take over from Asus and Samsung. The 8.9" beauty is a return for HTC to both the Nexus family and the tablet realm in general. Almost five-years passed since HTC made the Google Nexus One, while its last tablet dates back to 2011.</paragraph>
+			<paragraph>The HTC Nexus 9, like the Motorola Nexus 6, also marks a major shift in product strategy for Google. Unlike past Nexus tablets, which cut a few corners in order to keep the price super attractive, the latest iteration makes no compromises. The Nexus 9 is a bona fide powerhouse with highly capable hardware, premium build, and a brand new Android version to boot.</paragraph>
+			<paragraph>Hardware-wise, the Nexus 9 leaves nothing to chance. Its Tegra K1 chipset is the most powerful silicon available for Android tablets. The 8.9" 4:3 QXGA display isn't too shabby either - its brand new ratio puts it squarely against the Apple iPad family, although the choice of size make sure it gets some room to breathe.</paragraph>
+			<paragraph>Design and build quality have been taken up a notch as well. The Nexus 9 looks and feels as premium as its specs suggest. Its three available colors, like the 4:3 display, are another subtle swing at Cupertino.</paragraph>
+			<paragraph>However, powerful hardware and premium design are only one part of the picture. The brand new Android 5.0 Lollipop is arguably the biggest piece of news about the Nexus 9. The latest OS build from the search giant brings fresh design, coupled with brand new ART runtime, which promises improved performance and responsiveness.</paragraph>
+			<paragraph>As always, we will kick the review off with unboxing of the Nexus 9, followed by design and build quality inspection. Flip to the next page for a closer look at the tablet.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>The Nexus 9 by HTC comes in a white box adorned with a large number 9. Inside, you will find the device itself, alongside a dual-voltage USB charger, USB cable, and a bunch of booklets.</paragraph>
+			<paragraph>Additional accessories for the tablet include an origami-inspired magnetic cover, as well as a keyboard folio. Both accessories look decidedly premium and pack a great deal of functionality.</paragraph>
+			<paragraph>Flipping the corner of the origami cover that covers the camera for example automatically activates it. The folio keyboard on the other hand boasts five months worth of battery life.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The design of the HTC Nexus 9 is in line with that of the Nexus 7 it replaces. The device features an all-black front and a back that's dominated by a large Nexus logo.</paragraph>
+			<paragraph>The metal frame of the device differentiates it from past models. It gives it a premium aura that is in line with its upmarket aspirations.</paragraph>
+			<paragraph>There are three available colors for the slate - black, white, and sand. Users have a choice of toting an understated device like the black unit we tested, or something flashier like the remaining two options.</paragraph>
+			<paragraph>The build quality is impeccable. Gorilla Glass 3 covers the front of the Nexus 9, while its back features the same soft-touch plastic as the one found in the Nexus 7 (2013). Not only does the metal frame look great, but it provides extra rigidity and further assures the user that this is a high-quality product.</paragraph>
+			<paragraph>We can't say we're surprised by the stellar build. HTC has a long track record of superb finish to its devices and the Nexus 9 is no exception - it is ready to meet the expectations of even the most discerning user.</paragraph>
+			<paragraph>The physical measures of the Nexus 9 are 228.2 x 153.7 x 7.9mm, while it tips the scale at 425 grams (436g for the LTE version).</paragraph>
+			<paragraph>The device is slightly thicker, but unsurprisingly more compact than the 9.7" iPad Air 2 (240 x 169.5 x 6.1 mm and 437 grams). However, due to its significantly larger battery, it is nowhere near as svelte as the Samsung Galaxy Tab S 8.4 (212.8 x 125.6 x 6.6 mm and 294 grams).</paragraph>
+			<paragraph>The Nexus 9 is easy to handle. The matte plastic on the back enhances grip and handles smudges well. The metal frame on the other hand, adds to the pleasure of handling and the solid feel.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>HTC Nexus 9 features 8.9" IPS LCD display with 4:3 aspect ratio and QXGA (2048 x 1536 pixels). The aforementioned aspect arrives on a Nexus tablet for the first time - it puts the HTC slate squarely against the iPad family.</paragraph>
+			<paragraph>With pixel density of 281ppi, the screen of the Nexus 9 is sharper than the 9.7" Retina of the iPad Air 2 (264ppi), which has the same resolution. However, it is nowhere near the eye-popping 359ppi of the Samsung Galaxy Tab S 8.4.</paragraph>
+			<paragraph>As expected from a high-end IPS unit, the screen offers pleasingly natural colors, top notch viewing angles, and high brightness for any scenario. Contrast is impressive, though it doesn't match that of today's AMOLED displays.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Sunlight legibility is good too. Android Lollipop has an adaptive brightness feature that adjusts the brightness accordingly - we found it to work quite well.</paragraph>
+			<paragraph>Overall, the 8.9" screen of the Nexus 9 is a real pleasure to look at for extended periods of time.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>Above the display in portrait mode, you will find the 1.6MP front-facing camera and one of the BoomSound stereo speakers. The other one sits below the display.</paragraph>
+			<paragraph>There is nothing on the left side of the tablet. The power/lock key, a microphone pinhole, and the volume rocker sit on the right side.</paragraph>
+			<paragraph>The 3.5mm audio jack sits on top of the tablet. The microUSB port and a tiny microphone pinhole are on the bottom.</paragraph>
+			<paragraph>The back of the device features an 8MP main camera and its single-LED flash - they are located in the top left corner. The signature Nexus logo is there too, accompanied by a small HTC badge.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The HTC Nexus 9 features a robust 6,700mAh battery. The tablet is quoted at up to 9.5 hours of Wi-Fi browsing, the same amount of time in video playback, and up to 30 days of Wi-Fi standby.</paragraph>
+			<paragraph>Naturally, we put the Nexus 9 through our own battery test. The tablet managed almost 12 hours of video playback and close to 10 hours of web browsing.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Battery saver mode is available for the moments when you want to conserve your tablet's power. It reduces the tablet's performance and restricts background data. You can tune it to turn on automatically or switch it on by yourself.</paragraph>
+			<paragraph>The lockscreen of Android 5.0 Lollipop shows the time necessary for the battery to charge. Nexus 9 takes a tad over three hours to fill up from 15% remaining with the bundled charger.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The HTC Nexus 9 offers a rich connectivity set, headed by optional quad-band GSM, CDMA, penta-band HSPA, and 4G LTE. Wi-Fi a/b/g/n/ac, Bluetooth 4.1 with aptX, NFC, A-GPS, GLONASS, and microUSB 2.0 are also on board. You can also cast the tablet's screen to a compatible device.</paragraph>
+			<paragraph>There's nothing major missing in the Nexus 9 in terms of available connectivity. IR port would have surely been sweet but, to be fair, it's never been a Nexus family staple.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android 5.0 Lollipop at your service<subsectionTitle>
+			<paragraph>It's certainly not all about the hardware here - the fact that Google Nexus 9 is the first tablet to boot the latest Android 5.0 Lollipop makes it just as interesting. The latest Android build features brand new material design, as well as a new ART runtime. Check it out in action in the video below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen can display all your notifications. It contains a camera shortcut that activates the snapper by simply swiping from the right side. Gone are the widgets from Android versions of old.</paragraph>
+			<paragraph>You can unlock your device via a swipe, a pattern, a pin, or a password. There's an option to have no screen lock at all if you would like quicker access and don't need the extra security.</paragraph>
+			<paragraph>The homescreen of Android 5.0 Lollipop features a brand new app arrangement. There are three folders with apps alongside the Play store app - Google, Create, and Play. Each folder contains contextually grouped Google apps.</paragraph>
+			<paragraph>The homescreen dock contains six app shortcuts. Out of the box, you will find Hangouts, Gmail, Chrome, YouTube, Photos, and Camera lined up from left to right.</paragraph>
+			<paragraph>The trio of on-screen navigation buttons has changed too. Home button is now circular, app switcher a square, while the back button is a triangular arrow.</paragraph>
+			<paragraph>You can have as many homescreen panes as you like (we gave up trying to add more at 11). Adding a new homescreen pane is as easy as long pressing an app and dragging it to the left of the homescreen.</paragraph>
+			<paragraph>Like before, the homescreen customization options can be accessed via a long press. The latter gives you access to the available widgets, the Google Now settings, as well as the option to change the wallpaper.</paragraph>
+			<paragraph>Creating a folder is a familiar affair. You simply drag an app over another you want to group it with.</paragraph>
+			<paragraph>One finger swipe from the top of the homescreen will open the notification area, which features a cleaner look in Android 5.0 Lollipop. Additional swipe reveals quick toggles that include Wi-Fi, Bluetooth, Airplane mode, screen auto-rotate, flashlight, location on/off, and the option to cast the screen.</paragraph>
+			<paragraph>Of course, you can also adjust the brightness of the screen and go into the tablet's settings menu too. You can access the user profiles available on the tablet as well.</paragraph>
+			<paragraph>The app drawer has a new look too. It appears in a window with white background, though its functionality hasn't changed.</paragraph>
+			<paragraph>The app switcher has a neat card interface that allows you to select the app you need by swiping up or down. You can close apps by swiping left or right, or by hitting the dedicated button on the top right corner of each card.</paragraph>
+			<paragraph>Swiping to the left of the homescreen reveals Google Now. You can access via swiping from the bottom of the screen too.</paragraph>
+			<paragraph>Google Now has brand new material design, but its functionality hasn't changed much. You can manage your daily routine and all your interests by using the service.</paragraph>
+			<paragraph>Overall, the best part about the user interface of Android 5.0 Lollipop is that it truly feels new, well polished, and superbly executed. The new ART runtime is a huge deal too - it eliminates any form of lag and makes interaction with the device feel a lot more immediate.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>HTC Nexus 9 features 64-bit Nvidia Tegra K1 chipset with 2.3GHz dual-core Denver CPU, Kepler DX1 GPU, and 2GB of RAM. The setup is arguably the best available for an Android tablet at the moment and fits the high stature of the tablet.</paragraph>
+			<paragraph>In the CPU benchmark section, the Nexus 9 posted the highest scores we've seen on most occasions. It handily crushed the competition on most occasions and by quite a margin.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Basemark OS II (multi-core) section is where the dual-core chipset fell slightly short from the quad-core competitors. However, its single-core performance came second only to that of the iPhone 6 Plus.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Nvidia's Kepler DX1 GPU produced truly eye-popping benchmark scores. It blazed past 60fps in the GFX T-Rex off-screen test and went past 30fps in the incredibly taxing GFX Manhattan off-screen test. Both scores are the highest we've seen to date on any device and a new measuring stick in the segment.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The tablet excelled in the Kraken 1.1 JavaScript benchmark too. It beat all android devices in BrowserMark, though it fell short from Safari for iOS.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, HTC Nexus 9 is an absolute beast when it comes to hardware performance. There's no task that the tablet won't munch through with ease.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Contacts<subsectionTitle>
+			<paragraph>The contacts manager has received a thorough refresh in Android 5.0 Lollipop. The app features tabbed interface, which displays all contacts and the favorites.</paragraph>
+			<paragraph>You can sync with multiple accounts including Google and Exchange. A button to add a new contact is constantly present in the bottom right corner - you can choose which account to sync the new addition with.</paragraph>
+			<paragraph>Viewing a contact is a straightforward affair. Missing profile pictures are replaced by solid color.</paragraph>
+			<paragraph>Overall, the new contact manager boasts the usual high functionality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and text input<subsectionTitle>
+			<paragraph>Gmail for Android has been thoroughly refreshed with the released of 5.0 Lollipop. The latest version of the app is now the only email client you will need on your Android device - it can handle any account you throw at it, including non-Google ones.</paragraph>
+			<paragraph>Overall functionality of the app has remained similar to the one it replaces. Swiping from the left reveals the inbox and the various email folders. You can also switch email accounts from the top left corner.</paragraph>
+			<paragraph>A button to start a new message sits at the top right bottom of the app. The composition screen holds no surprises.</paragraph>
+			<paragraph>Google has found a cool way to tell you about the new Gmail functionality. There's still an icon for the generic email client. However, once pressed, it prompts you to go to Gmail.</paragraph>
+			<paragraph>As expected, the default Android keyboard has been refreshed too. It offers two sleek-looking, brand new skins - Material Dark and Material Light. The duo matches the new look of Android 5.0 Lollipop.</paragraph>
+			<paragraph>Users who don't like change can choose the old Holo theme. Overall, the stock Android keyboard is one of the best in the business and a great option to have out of the box.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Loudspeaker<subsectionTitle>
+			<paragraph>The Nexus 9 tablet has stereo speakers on its front - that's the HTC special sauce - and they provide good quality sound. They are not too loud though, which hampers their usability for notification a bit, but the tablet still compares favorably against its competition.</paragraph>
+			<paragraph>You can find out more about our loudspeaker test here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photos<subsectionTitle>
+			<paragraph>Google Photos is the default gallery app in Android 5.0 Lollipop. Upon opening the app you'll see two tabs - one for all photos and another one for highlights. Above those two tabs you will find shortcuts for settings and bulk selection.</paragraph>
+			<paragraph>You can view photos synced to your Google cloud, or images stored only on your device. Local photos are separated depending on their source (e.g. camera or screenshots).</paragraph>
+			<paragraph>Viewing a single photo gives you a number of options. You can share it, set it as wallpaper or contact photo, or edit it. The built-in Photos editor is incredibly powerful - it gives you limitless options and filters to tweak your images.</paragraph>
+			<paragraph>Overall, Photos is an incredibly capable app to handle all your images. It is well laid-out and easy to use.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player remains basic<subsectionTitle>
+			<paragraph>The video player in the Android 5.0 Lollipop is somewhat of an afterthought - there is no dedicated app, so you will have to seek out you videos via the Photos app.</paragraph>
+			<paragraph>Supported codecs include H.263, H.264 AVC, MPEG-4 SP, and VP8. The app will play most major file formats, though serious video fans should certainly seek out a more capable solution from the Google Play store.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play Music<subsectionTitle>
+			<paragraph>Google Play Music is the default player for your tunes out of the box. The app has been treated to the new material design, though it functionality remains unchanged - it can play your local files, as well as stream music from the cloud.</paragraph>
+			<paragraph>You can tweak the sound via the built-in equalizer. There are dedicated toggles for surround sound and bass.</paragraph>
+			<paragraph>The Now Playing screen uses the song album art and gives you a quick shortcut to the rest of the artist's songs along with the play controls. While the player is working, the entire lockscreen features the album art and track info for the current song along with dedicated playback controls. The notification area also lets you control the playback via an expandable notification.</paragraph>
+			<paragraph>Google will give you three months of free subscription to its music streaming service. The latter is one of the most capable around and certainly worth a try.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Best-in-class audio output<subsectionTitle>
+			<paragraph>If there's one thing you can trust HTC with, it's creating devices with excellent audio output. The Nexus 9 made the active external amplifier part of our test look like a piece of cake, matching perfectly clean output with the loudest volume we've seen for a few years now.</paragraph>
+			<paragraph>The stereo crosstalk degradation when you plug in a pair of headphones is minor and it's the only affected reading, meaning we get an equally impressive performance here. There's no shortage of tablets to deliver audiophile-grade audio output, but if you want the best you will have to side with the Nexus 9.</paragraph>
+			<paragraph>Check out the table and see for yourself.</paragraph>
+			<paragraph> HTC Nexus 9 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>8MP main camera<subsectionTitle>
+			<paragraph>HTC Nexus 9 packs 8MP f/2.4 camera with single LED. You can activate the snapper via a swiping gesture from the lockscreen or from the homescreen shortcut.</paragraph>
+			<paragraph>The camera UI is intuitive and requires practically no time to get used to. The image capture button is on the right side. Timer, flash settings, grid view, and the ability to switch to the front-facing camera are available via a menu in the top right corner.</paragraph>
+			<paragraph>The shooting options are located on the left side. They include regular shots, Panorama, Lens Blur, Photo Sphere, and Video.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Users can opt to set their image exposure manually via a toggle in the settings menu. Resolution of the photos, as well as the quality of the panoramas can also be tweaked.</paragraph>
+			<paragraph>The image quality of the Nexus 9 is quite nice for the 8MP league and particularly so for a tablet. There's plenty of detail, colors are pleasingly rendered, and contrast is very good.</paragraph>
+			<paragraph>Dynamic range isn't the best around and there's a fair amount of noise, but its mostly of the less obtrusive luminance kind.</paragraph>
+			<paragraph>Flash is nicely powerful and usable even at medium ranges. Overall, the Nexus 9 produces highly respectable photos and proves that tablets can be good casual photography tools when necessary.</paragraph>
+			<paragraph>Here's how the Nexus 9 camera stacks up against the iPad Air 2 and the Sony Xperia Z3 Tablet Compact.</paragraph>
+			<paragraph>   Nexus 9 in our Photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video capture<subsectionTitle>
+			<paragraph>The video recorder and its settings have the same layout as the still camera. Users can downsize their videos to 720p if they wish.</paragraph>
+			<paragraph>Videos captured with the tablet display good colors and plenty of detail, coupled with smooth framerate. Contrast is stellar too. However, the dynamic range and the contrast could be better.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can download an untouched video sample here - 0:09, 16.8MB.</paragraph>
+			<paragraph>The Nexus 9, iPad Air 2 and the Sony Xperia Z3 Tablet Compact all shoot 1080p video, you can use our Video compare tool to put them head to head.</paragraph>
+			<paragraph>   Nexus 9 in our Video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Chrome<subsectionTitle>
+			<paragraph>Google Chrome is unsurprisingly the default browser in the Nexus 9. Its design was updated recently, so it matches to overall look and feel of Android 5.0 Lollipop.</paragraph>
+			<paragraph>One of Chrome's strengths is its ability to seamlessly sync with the desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+			<paragraph>Google Chrome is generous with the available settings as well. You can control almost every aspect of your web browsing from choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups. Reduce data usage does what it says - Google servers compress the webpage (using Google-developed tech like SPDY and WebP) and send it to the device.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Calendar<subsectionTitle>
+			<paragraph>Google Calendar received a major overhaul with Android 5.0 Lollipop. The app features sleek new look that features different graphic for each month. It can automatically add events straight from your Gmail account, so you don't need to worry about flights, dinner reservations and the likes.</paragraph>
+			<paragraph>You can now add photos and maps to your calendar events. A button to add events can be seen at the bottom right of the app.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Docs, Sheets, Slides<subsectionTitle>
+			<paragraph>Google Docs, Sheets, and Slides handle creating and editing office documents. The apps sync with Google Drive and can work while offline as well - files will sync with the cloud when your device goes online again.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>Google Fit is the search giant's freshly launched fitness platform. It syncs with Android Wear devices and other compatible accessories such as smart scales. You can record activities, set goals, and keep track of you progress.</paragraph>
+			<paragraph>Google Fit can also send you notifications and reminders to keep you on track. The functionality of the platform will certainly grow further going forward.</paragraph>
+			<paragraph>The stock Android clock has a new look, but has retained its familiar functionality. The same goes for the calculator.</paragraph>
+			<paragraph>Google Keep handles basic note taking. It syncs with your account and is as easy to use as it gets.</paragraph>
+			<paragraph>Google Maps is at your service with the usual array of options to find your way both indoors and out. You can save maps and routes for offline usage as well, although re-routing isn't an option and even if you have saved a map you can't get a route calculated without a data connection.</paragraph>
+			<paragraph>Google Play store has a new look, but the same functionality. There are no surprises here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key review findings<subsectionTitle>
+			<paragraph>Hardware-wise, the Nexus 9 is the most powerful droid we've seen to date</paragraph>
+			<paragraph>The IPS display is a high quality unit</paragraph>
+			<paragraph>Android 5.0 is a huge step forward in terms of both UI and functionality</paragraph>
+			<paragraph>The stereo speakers truly bring the user experience up a notch</paragraph>
+			<paragraph>Battery life is stellar</paragraph>
+			<paragraph>64GB memory version should have been available as an option</paragraph>
+			<paragraph>Split-screen multitasking would have been a great feature to have</paragraph>
+			<paragraph>Audio quality is the best in class</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The HTC Nexus 9 is a proper, no-compromise Android tablet flagship. By combining sleek design, top-notch build quality, immensely powerful hardware, and spanking new OS version, Google's slate is probably the best challenger to the Apple iPad.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>HTC should be pleased with its effort too. Three years after leaving the tablet market, the Taiwanese manufacturer couldn't possibly have returned to it with a bigger bang. The Nexus 9 combines all the strengths that HTC has been known for with Google's newly found upmarket philosophy for the product range.</paragraph>
+			<paragraph>Hardware-wise, the performance of the Nexus 9 is truly jaw dropping. The 64-bit Tegra K1 chipset is the most powerful piece of silicon we've seen in an Android device. It handily crushed all competitors in our benchmark tests.</paragraph>
+			<paragraph>The IPS display, in line with HTC's track record in the field, is a quality piece too. It is the perfect platform to showcase that brand new OS Google built.</paragraph>
+			<paragraph>Speaking of OS, we are pleased to tell you that Android 5.0 Lollipop truly is a game changer. The new ART runtime, coupled with Google's material design bring an altogether new, more fluid experience. Gone are the occasional hiccups of old - the Nexus 9 feels as snappy and responsive as the best Apple has to offer.</paragraph>
+			<paragraph>Users will enjoy the BoomSound stereo speakers too. They are a perfect complement to the vivid display and the powerful multimedia credentials of the Nexus 9.</paragraph>
+			<paragraph>Lack of more built-in memory options is our biggest gripe with the HTC Nexus 9. The 16GB version will not be of much use to a large portion of the users, so the 32GB option is a must. We reckon that the latter should have been the entry-level option for a tablet of such stature, with 64GB next in line.</paragraph>
+			<paragraph>Split-screen multitasking is still a notable omission in stock Android. With the Nexus 9 hardware easily up to the task, we really hope that Google adds the productivity feature in the future. Samsung already showed how big a difference it can make and it's about time Google follows suit.</paragraph>
+			<paragraph>The HTC Nexus 9 is priced at $399 for the 16GB Wi-Fi-only version. Doubling the memory on the Wi-Fi model brings its price to $479, while the LTE version (available only in 32GB flavor) costs $599.</paragraph>
+			<paragraph>The price tag of the latest Nexus tablet puts it squarely in the premium segment and rightfully so. Here are some of the alternatives available at the moment for a similar budget.</paragraph>
+			<paragraph>Apple iPad Air 2 is arguably the closest rival to the HTC Nexus 9. The ultra-slim tablet entices with metal body, the same screen resolution, and a wealth of optimized apps. However, it carries a noticeable price premium ($499 for 16GB Wi-Fi-only; 64GB is $100 more) and lacks the stereo speakers of the Nexus 9.</paragraph>
+			<paragraph> Apple iPad Air 2</paragraph>
+			<paragraph>The Samsung Galaxy Tab S 8.4 and Tab S 10.5 handily beat the Nexus 9 in terms of display quality and resolution. Samsung's TouchWiz UI also adds a lot of functionality to Android that is missing in the stock version, particularly in the productivity department.</paragraph>
+			<paragraph>  Samsung Galaxy Tab S 8.4 LTE &#x2022; Samsung Galaxy Tab S 10.5</paragraph>
+			<paragraph>However, both tablets are way behind in terms of hardware oomph. You will also have to be patient when it comes to receiving your OS updates.</paragraph>
+			<paragraph>The Sony Xperia Z2 Tablet and Xperia Z3 Tablet Compact are the Japanese giant's take on the high-end Android tablet theme. The duo features sleek waterproof bodies, and some exclusive apps that Sony delivers. However, neither of the tablets can match the display resolution of the Nexus 9 or its powerful hardware.</paragraph>
+			<paragraph>  Sony Xperia Z2 Tablet Wi-Fi &#x2022; Sony Xperia Z3 Tablet Compact</paragraph>
+			<paragraph>The Nvidia Shield is arguably the closest Nexus 9 competitor in the Android realm. It's powered by the 32-bit version of the Tegra K1 SoC and offers slightly lower display resolution for less money.</paragraph>
+			<paragraph> Nvidia Shield</paragraph>
+			<paragraph>The Shield Tablet has serious gaming credentials thanks to the optional controller and its ability to stream high-quality video games. Those who like gaming on Android should take a look at it. It doesn't have Lollipop just yet and chances are it won't be getting soon.</paragraph>
+			<paragraph>The Xiaomi Mi Pad 7.9 is a cheaper alternative to the Nexus 9 with 32-bit Tegra K1 hardware. However, the Chinese entry looks decidedly cheaper than the HTC slate. Its UI might not fit all tastes either.</paragraph>
+			<paragraph> Xiaomi Mi Pad 7.9</paragraph>
+			<paragraph>The HTC Nexus 9 is Google's take on a flagship Android tablet, so it deserves close attention from everyone on the market for a slate. This year, thanks to the brand new, pure Android 5.0 Lollipop and the beastly hardware, even iPad users may apply. The newcomer is a safe bet to impress.</paragraph>
+		</subsection>
+	</page>
+</review>

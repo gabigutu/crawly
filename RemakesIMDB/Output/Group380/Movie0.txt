@@ -1,0 +1,20 @@
+<movie>
+	<title>Robin Hood</title>
+	<link>http://www.imdb.com/title/tt0002465/</link>
+	<year>1912</year>
+	<generalScore>0.5599999999999999</generalScore>
+	<review>
+		<date>2005-04-10</date>
+		<username>David Carper</username>
+		<score>0.4</score>
+		<shortDescription>Historically interesting, but hard to follow</shortDescription>
+		<fullReview>Sadly, some parts of this film have been lost. The print I saw, a newly restored version, was still missing quite a few parts of the first few scenes. As such, the viewer is pretty much thrown into the middle of the story.Even knowing the Robin Hood legends, this is hard to follow. The story-boards do little to tell you what is going on; mostly limited to "Back at the Castle" rather than actual dialogue. Overall, enjoyable as a movie geek to see an early Robin Hood, but it pales compared to later versions. See only if you are already familiar with the story; otherwise you'll have no idea what is going on.The version I saw was restored by the Fort Lee Film Commision. I don't know if there are other prints available.</fullReview>
+	</review>
+	<review>
+		<date>2006-03-25</date>
+		<username>boblipton</username>
+		<score>0.4</score>
+		<shortDescription>Lost In Sherwood Forest</shortDescription>
+		<fullReview>This early version of Robin Hood has turned up at a couple of recent shows sponsored by the Fort Lee Film Commission as one of the films shot at Fort Lee, New Jersey, one of world's major film centers in the early 20th century. The print that survives is in pretty good shape for such an orphan, aided by a lot of tinting in the process.While it survives in good shape physically and as a historical document, it does not connect to the audience well. The acting is well over the top; the plot is frequently obscured and the compositions, given the lovely background, is at best plebeian.Worst of all, to the modern eye, is a bit of telegraphing: the morality or personalities of the characters are revealed by doing a fade into animals. The effect is laughable.Avoid this one unless you have a strong interest in film history.</fullReview>
+	</review>
+</movie>

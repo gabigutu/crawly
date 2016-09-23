@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>I Put a Spell on You</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1965</year>
+	<link>http://www.senscritique.com/album/I_Put_a_Spell_on_You/5900762</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>77</numberOfVoters>
+		<numberOfVoters>235</numberOfVoters>
+		<numberOfVoters>182</numberOfVoters>
+		<numberOfVoters>67</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

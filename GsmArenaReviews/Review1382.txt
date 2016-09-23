@@ -1,0 +1,64 @@
+<review>
+	<title>LG Optimus 2X first encounter</title>
+	<description>How fast is Tegra 2?</description>
+	<link>http://www.gsmarena.com/lg_optimus_2x-review-561.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>But let?s first have a look at the key features of the LG Optimus 2X:<subsectionTitle>
+			<paragraph>General: Quad-band GSM/GPRS/EDGE support; 3G with HSPA</paragraph>
+			<paragraph>Form factor: Touchscreen bar phone</paragraph>
+			<paragraph>Dimensions: 123.9 x 63.2 x 10.9 mm, 139 g</paragraph>
+			<paragraph>Display: 4" 16M-color TFT LCD capacitive touchscreen, 480 x 800 pixels</paragraph>
+			<paragraph>Platform: Dual-core 1GHz ARM Cortex-A9 proccessor, Ultra Low Power GeForce GPU, Tegra 2 chipset</paragraph>
+			<paragraph>OS: Android 2.2 (Froyo)</paragraph>
+			<paragraph>Memory: 8GB onboard storage, microSD card slot</paragraph>
+			<paragraph>Camera: 8 megapixel auto-focus camera with face detection and touch focus; 1080p video recording @ 24fps and 720p@30fps</paragraph>
+			<paragraph>Connectivity: Wi-Fi 802.11 b/g/n, Bluetooth 2.1 with A2DP, standard microUSB port, GPS receiver with A-GPS, 3.5mm audio jack, micro HDMI port</paragraph>
+			<paragraph>Misc: Adobe Flash 10.1 support, FM radio, accelerometer, proximity sensor, gyroscope, DivX and Xvid video support up to 1080p</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Surely 2011 will be remembered as the year that dual-core CPUs made their smartphone breakthrough. Here we have the LG Optimus 2X pioneer and we are rushing to give you a preview of what dual-core CPU has to offer to you today.</paragraph>
+			<paragraph>It?s not one of our typical previews you will be seeing here ? we are just going to focus on the performance of the Optimus 2X and hopefully, the Tegra 2 platform it pioneers. Normally, we avoid getting into details about the performance of non-retail units, but this one is so good that it will almost be unfair to save the praise.</paragraph>
+			<paragraph>It doesn?t take a specialist to recognize that the LG Optimus 2X is the most capable smartphone released to date. You could probably argue whether a Retina screen or a SuperAMOLED aren?t contributing more to the general user experience, but as far as smartphone tasks are concerned, the Tegra 2 is what you would want to have by your side.</paragraph>
+			<paragraph>Of course, that is only valid if the dual-core baby performance cashes all the checks that the LG PR department wrote. Everyone wants to feel a noticeable improvement in performance and unless the Optimus 2X provides, the bubble might burst.</paragraph>
+			<paragraph>So let?s see what those benchmarks have to say about it. Join us after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>There is an important note to make before we proceed with the LG Optimus 2X benchmark results. At this point (2.2 Froyo) the Android OS isn?t capable of making the best use of dual-core processors. That means that the second core is merely acting as an assistant to the first, rather than taking over half of the work.</paragraph>
+			<paragraph>Android 2.3 Gingerbread is hardly any different so until 3.0 Honeycomb updates start hitting dual-core smartphones (if at all), those won?t be living up to their full potential.</paragraph>
+			<paragraph>Despite this fact, the Nvidia Tegra 2 still represents a worthy upgrade over any of the existing chipsets.</paragraph>
+			<paragraph>See, the dual-core architecture isn?t the only thing that Tegra 2 brings on the table. There is also the completely new Cortex-A9 core inside (two of them actually) and that makes quite a difference.</paragraph>
+			<paragraph>We also shouldn?t forget the GeForce GPU that outperforms the currently existing smartphone GPU units and even delivers hardware acceleration support for Adobe Flash.</paragraph>
+			<paragraph>A vital part of the Tegra 2 SoC is also the powerful dedicated video decoding chip that makes possible watching 1080p video on the smartphone.</paragraph>
+			<paragraph>You can read all about the Tegra 2 platform in our dedicated scoop.</paragraph>
+			<paragraph>So essentially, the Optimus 2X can outperform any of the currently existing processors by a significant margin even with one hand tied behind its back. Here?s a quick comparison between the Optimus 2X calculating muscle and the Galaxy S (running on Android 2.2 Froyo) Cortex-A8 CPU on some popular benchmarks.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Update, 02 June: We updated our Optimus 2X with the latest firmware available at the moment (V10B) and ran new tests. We compared the 2X against the Samsung Galaxy S II and Galaxy S Plus. Here are the results - for more, you can check out our dedicated head-to-head article.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Javascript performance<subsectionTitle>
+			<paragraph>We also decided to compare the Javascript performance of the Optimus 2X and Samsung I9000 Galaxy S. To give you a better perspective we also included the results of a first-gen Atom CPU clocked at 1.6 GHz, the Apple iPad A4 platform that has a 1GHz Cortex A8 core and the 1.2 GHz VIA C7-M ULV CPU.</paragraph>
+			<paragraph>As you can see the Optimus 2X passed the test with flying colors, outdoing the two mobile processors, beating one of its desktop siblings and getting pretty close to the other.</paragraph>
+			<paragraph>Update, 02 June: We retested JavaScript performance too, but since the original test we used is now defunct, we used other tests - SunSpider and BrowserMark. Again, the LG Optimus 2X is competing against the Samsung Galaxy S II and Galaxy S Plus. You can check out our new head-to-head article for more on the web browsers of the three phones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Real-life experience<subsectionTitle>
+			<paragraph>Having seen all these numbers, you probably expect to hear that the LG Optimus 2X is much faster than the current crop of Android smartphones in each and every task, but we are afraid we will have to disappoint you here.</paragraph>
+			<paragraph>In real life the Optimus 2X feels buttery smooth but it doesn?t feel much different than the Samsung Galaxy S, for instance. The Samsung flagship is pretty smooth already and there is not much room for improvement in terms of pure UI responsiveness.</paragraph>
+			<paragraph>It?s resource-heavy games where the differences should become prominent, but at this point there aren?t too many of those around the Android market. And those that do exist run well enough on the current single-core 1GHz CPU?s so you won?t be able to tell the difference ? not with only one core enabled anyway.</paragraph>
+			<paragraph>We guess the first titles that would really make the difference prominent are the ones that make use of the Tegra 2 advanced GPU. Nvidia already announced that we?ll see Android games using the Unreal 3 engine (Dungeon Defenders) and perhaps even the iDTech 5 engine (Doom 4 and Rage) and the Frostbite engine (Battlefield: Bad Company).</paragraph>
+			<paragraph>It will take some time to see the software make use of the hardware, but once it?s done, the Tegra 2 will be the go-to Android platform for gaming. So there?s no question that the Optimus 2X is way better future proofed than its single-core contemporaries.</paragraph>
+			<paragraph>Update: We've shot a new video demo using a retail LG Optimus 2X running the latest firmware available as of June 2010 (version V10B). </paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>We are pretty pleased with the LG Optimus 2X for the short time we spent with it. The handset proved that it has plenty of oomph under the hood and it should be able to meet the needs of the most demanding software for quite some time to come.</paragraph>
+			<paragraph>However if you are expecting to see some major upgrade over your current Android flagship you might be a bit disappointed. See the Optimus 2X is more of an investment in the future that should remain up to date for at least another year (unless LG fails to deliver on the software update end) than a great value-for-money purchase right now.</paragraph>
+		</subsection>
+	</page>
+</review>

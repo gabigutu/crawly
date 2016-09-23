@@ -1,0 +1,27 @@
+<movie>
+	<title>Suspicion</title>
+	<link>http://www.imdb.com/title/tt0094083/</link>
+	<year>null</year>
+	<generalScore>0.5900000000000001</generalScore>
+	<review>
+		<date>2001-09-12</date>
+		<username>pushbuttonkitty</username>
+		<score>0.7</score>
+		<shortDescription>Good movie ...as long as you don't have high expectations.</shortDescription>
+		<fullReview>I've never seen the original Suspicion, so I cannot do a comparison of the two. This movie starts off rather slowly, but it has a good build up. Unfortunately, the ending isn't quite emotional enough to be really believable. It left me with the feeling that the story wasn't really complete. As far as performances go, Andrews' performance brings his scoundrel-like character to life. Not a very likeable character, but a great performance. Curtin, however, did not deliver well. One can hardly lay blame on her, however, since she was not the actress to be cast in the role. Over all, the movie was enjoyable, and I'd watch it again, but I'd watch it more for light amusement than as a real thriller.</fullReview>
+	</review>
+	<review>
+		<date>2007-06-24</date>
+		<username>robert_a_ruiz</username>
+		<score>0.7</score>
+		<shortDescription>Rather Pointless Remake Save for the Musical Score</shortDescription>
+		<fullReview>Rather pedestrian direction leaves Jane Curtin seeming needy and not particularly skilled as a dramatic actress, and Anthony Andrews seeming little more than smug in most scenes. Curtin's wardrobe by Ralph Lauren is nice, the look of the film is nice, but most of all what I love about the film is the melancholy score by Larry Grossman. That alone has kept the film in my mind for nearly 20 years now (I first watched it on PBS's American Playhouse curled up in the San Francisco Bay Area with the fog rolling in and a pot of tea before me -- a magical combination). I wish the score were available on CD, but alas it doesn't appear to be. Perhaps there will be a collection of Larry Grossman's music in the future that features it.</fullReview>
+	</review>
+	<review>
+		<date>2001-04-03</date>
+		<username>artzau</username>
+		<score>0.4</score>
+		<shortDescription>**Spoiler Alert**</shortDescription>
+		<fullReview>This fine old Hitchcock film is rendered senseless by Mr. Andrew's expression of a spoiled playboy who just ate the family goldfish thinking it was a cucumber and water-cress sandwich on white bread with cream cheese with bits of pimento. I'm always amazed at how his ham-laden performance can ruin a production. Enough said. There's no video and it's only likely you might see this disappointing remake of old Hitch's thriller on the PBS reruns. Take my advice and watch some Sesame Street reruns instead: Big Bird has more facial expressions than AA.</fullReview>
+	</review>
+</movie>

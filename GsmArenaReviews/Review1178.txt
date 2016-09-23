@@ -1,0 +1,237 @@
+<review>
+	<title>Nokia Asha 302 review</title>
+	<description>E-serious</description>
+	<link>http://www.gsmarena.com/nokia_asha_302-review-758.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>Penta-band 3G with 14Mbps HSDPA and 5.76Mbps HSUPA</paragraph>
+			<paragraph>Asha S40 platform</paragraph>
+			<paragraph>Four-row hardware QWERTY keyborad</paragraph>
+			<paragraph>2.4" QVGA 256K-color TFT display</paragraph>
+			<paragraph>1GHz processor</paragraph>
+			<paragraph>128MB RAM, 256MB ROM</paragraph>
+			<paragraph>3 megapixel fixed-focus camera</paragraph>
+			<paragraph>VGA video recording at 15fps</paragraph>
+			<paragraph>Wi-Fi b/g/n</paragraph>
+			<paragraph>Stereo FM radio with RDS</paragraph>
+			<paragraph>Bluetooth v2.1 (with A2DP)</paragraph>
+			<paragraph>Standard microUSB port (charging enabled)</paragraph>
+			<paragraph>USB On-The-Go support</paragraph>
+			<paragraph>microSD card slot (32 GB supported, 2GB included)</paragraph>
+			<paragraph>3.5mm audio jack</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No multitasking</paragraph>
+			<paragraph>Fixed-focus camera</paragraph>
+			<paragraph>No smart dialing</paragraph>
+			<paragraph>No video-call camera</paragraph>
+			<paragraph>No document viewer</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Nokia Asha 302 comes between the Asha 300 and the Asha 303 in Nokia's updated featurephone lineup, but it doesn't quite follow the numerical order. Although obviously not a smartphone, this S40 messenger is almost halfway there. It aims to bring good connectivity and more than reasonable processing power without unnecessarily complicating the interface.</paragraph>
+			<paragraph>Touchscreen and dual-SIM support are the two extremes in the Asha lineup but the Nokia Asha 302 sticks to the middle, finding balance and confidence in robust functionality and good build quality. It's a value package with plenty to offer to many potential upgraders looking to replace their S30 or S40 phones.</paragraph>
+			<paragraph>The Asha 302 is compatible with any GSM network worldwide and features both 3G and Wi-Fi connectivity. It makes sure your email, Facebook and Twitter accounts are never more than just a click away. That's where the QWERTY keyboard is most welcome too. On the outside, a side-mounted memory card slot and metal accents make the best out of a classic messenger design. Here's what goes on inside.</paragraph>
+			<paragraph>So, the Nokia Asha 302 is raising the stakes in the low-cost telephony but makes sure it doesn't get into fights it cannot win. Halfway between a Nokia C3 and an E63, it looks on the safe side of the line. We cannot think of a better example to follow than the immensely popular Nokia C3 but it should be aware of the potential pressure of affordable smartphones - Symbian and Android alike.</paragraph>
+			<paragraph>The Asha 302 is ready for a presentation, and so are we. Proceed to the next page where we begin to discover what the latest of the Ashas is really made of.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Asha 302<subsectionTitle>
+			<paragraph>There's only room for the basics in the Asha 302's retail package. A typical Nokia charger is supplied, as well as a single piece headset. You'll also find a 2GB microSD card already inserted in the memory slot. There is no USB cable inside though. We should note however that the Asha 302 can charge off USB, unlike the more basic Asha 200.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Asha 302 360-degree spin<subsectionTitle>
+			<paragraph>The Asha 302 is almost the same size and weight as its cheaper sibling, the Asha 200. At 115 mm tall by 59mm wide, it's quite easy to handle. In fact, QWERTY messengers don't usually get much smaller than that. The Nokia Asha 302 weighs 106 g and, although it's not the thinnest phone around, the subtly curved back is shaped for comfortable hand fit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>There's nothing unique about the Asha 302 but there is a reason this form factor has been a long-time Nokia favorite. Building upon the likes of the Asha 200 and the C3, the Asha 302 is venturing to bring Eseries-grade build quality to the Finns' feature phone lineup.</paragraph>
+			<paragraph>Not that we've been disappointed with the Asha phones so far, but the 302 has the design and build to match its more advanced feature set. The metal battery cover adds some extra strength and style without putting too much weight.</paragraph>
+			<paragraph>Not quite as many as the eight color versions of the Asha 200, the Asha 302 is available in a variety of different paintjobs. Users get to choose between Dark Grey, Mid Blue, Plum Red, White and Golden Light. The dark grey version that we're testing seems to attract no fingerprints at all. The matte finish of the plastic used on the body is a welcome change over the cheap gloss of the Nokia Asha 200.</paragraph>
+			<paragraph>Up front, a familiar 2.4" QVGA display and a four-row QWERTY keyboard are separated by a navigation deck, built around the usual D-pad.</paragraph>
+			<paragraph>The 2.4" QVGA screen (don't mind the resolution, it's a cheap phone after all) is as good a unit as you'd expect in this price bracket. It offers above average sunlight legibility, good contrast and viewing angles. Colors could've had a bit more punch but, overall, it's a good enough screen. Just like any other S40 phone though - the recent editions anyway - the 302 doesn't have any kind of display brightness control, so we ran our brightness test at 100% brightness only.</paragraph>
+			<paragraph>Unfortunately, sunlight legibitily isn't a particularly strong point of the Asha 302 display performance. 
+  
+    $(document).ready(function(){
+    	//$("#jrGraphTwo").jrGraph();
+    	$('.jrGraph').each(function(){
+		    $(this).jrGraph();
+		});
+	});
+</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Contrast ratio<subsectionTitle>
+			<paragraph>Above the display we find the lonely earpiece.</paragraph>
+			<paragraph>Below the display is the navigation deck set within a separate piece of plastic unlike the Asha 200, where it was part of the screen bezel. Around the D-pad, you'll find the usual soft keys, call buttons and shortcuts to the Phonebook and Messaging. Despite having the icons of the respective apps painted on, the shortcuts you assign to the hot keys can be different from Contacts and Messaging. The soft keys and the four directions of the D-pad are user-configurable too.</paragraph>
+			<paragraph>The flat call keys and the soft keys are conveniently separated by thin plastic ridges. The D-pad is perhaps a bit smaller than we're used to but has decent feedback in all directions. The navigation keys and the QWERTY keyboard have different finish from the phone's main color - a bronze shade mixed with the original grey.</paragraph>
+			<paragraph>The different finish makes the QWERTY keyboard stand out against the surrounding dark grey surface. Well-defined and convex, the buttons are very tactile but are not as solid to press as we expected. All the keys have a low stroke but the ones at the sides are worst affected. They're harder than usual to press bordering on the very edge of the phone's front.</paragraph>
+			<paragraph>The numpad is centrally placed and you can assign speed dial to the number keys 2 to 9. The Space button is a WLAN hotkey allowing single-click search and connection to wireless networks. The backlighting is impressively sharp and solid. The Asha 302 looks like a premium E-series phone in the dark.</paragraph>
+			<paragraph>The left side of the Nokia Asha 302 has the hot-swappable microSD slot covered with a plastic lid. The right side is bare - the only thing to note is the lanyard eyelet. There is no volume rocker or dedicated camera key, the D-pad is to be used instead.</paragraph>
+			<paragraph>The Asha 302's top side is quite busy: there's a 3.5mm audio jack, along with a microUSB port and the 2mm Nokia charger plug. The Asha 302 can charge off USB too.</paragraph>
+			<paragraph>The bottom has nothing of interest.</paragraph>
+			<paragraph>There are only two things to note at the back - the 3MP camera lens and the loudspeaker grille next to it. The metal battery cover takes almost the whole rear side of the Asha 302. It fits perfectly in its place, so you can expect no squeaks there. The slim metal sheet adds almost no extra weight to speak of - the phone weighs the same as the all-plastic Asha 200.</paragraph>
+			<paragraph>Underneath is the 1430mAh BL-5J battery, which is quoted at the impressive 830h (that's 35 and half days) of 3G standby and 6 full hours of talk time. With the GSM radio off, you should squeeze up to 50h of continuous music playback. Now, those numbers are only attainable in a controlled environment, but we've never had issue with the endurance of phones like the Asha 302.</paragraph>
+			<paragraph>The Nokia Asha 302 hardware really managed to exceed our expectations. The solid build and classic looks are close to meeting Eseries standards and the feature set is well above the average S40 package. The QWERTY keyboard is the only thing we're not so impressed with. The keys are rather soft and a little short of the precise press of some of Nokia's other messengers, feature phones included. Other than that though, the features and the build help the Asha 302 stand out among its S40 siblings.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Old-fashioned S40<subsectionTitle>
+			<paragraph>The Nokia Asha 302 is running Series 40 and is going back to basics with keyboard-and-softkey input only. The icons resemble those of Symbian Belle, which is good - we like the unified look.</paragraph>
+			<paragraph>Here is a video demo of the S40 interface running on the Nokia Asha 302:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Active standby mode is available as usual, only here Nokia calls it Home screen more. It divides the screen into three sections, each effectively a widget. The top row of the screen (above the widgets) is reserved for status indicators (time, signal, etc.).</paragraph>
+			<paragraph>By default, the Social widget is on top (Facebook, Twitter and Flickr integration), then there's the Favorite contacts widget and the Shortcuts bar. You can easily replace those with others - Radio and Media, WhatsApp, WLAN, Calendar, Chat and a few others are available.</paragraph>
+			<paragraph>There are a number of keys that can be assigned shortcuts. The softkeys default to Go to and Names. The D-pad can also be used - left for a new message and right for the Calendar (if you disable Home screen mode, you can use up and down for shortcuts too).</paragraph>
+			<paragraph>Then there are the two dedicated shortcut keys - the Contacts and Messaging keys. They bring the total of keys available for shortcuts to 6 (or 8, depending on the home screen mode).</paragraph>
+			<paragraph>Each key can be assigned any function from the phone you like - for example, the Messaging key can fire up the Twitter client or the Nokia Chat app, it doesn't have to be an SMS-related function.</paragraph>
+			<paragraph>The main menu has only two views - Grid and List. The grid layout offers numpad shortcuts but they aren't very well implemented - you get four shortcuts per row on the screen but the numpad buttons are three on a row. So, the first numpad on the second row (the number 4), opens up the last (fourth) shortcut on the first row of the menu. It's not very intuitive, but you can get used to it.</paragraph>
+			<paragraph>You can also rearrange the icons in the menu in whichever order you like, in both grid and list view.</paragraph>
+			<paragraph>The familiar Go To shortcut is available and it gives you access to a list of several homescreen shortcuts. You can customize which shortcuts are available here.</paragraph>
+			<paragraph>The lockscreen is standard Nokia - it tells you how to unlock the phone or gives you the date and time if you press the red receiver key.</paragraph>
+			<paragraph>The biggest omission as usual is multitasking - we've given up hope that Nokia will add that a long time ago.</paragraph>
+			<paragraph>You can't leave an app running in the background (other than the music player), but a lot of the built-in services (that cover things like email and chatting) work just fine. Third-party apps are another story, however.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Easy phonebook<subsectionTitle>
+			<paragraph>The phonebook of the Nokia Asha 302 will store about 2000 contacts depending on the fields you use, which isn't as good as unlimited storage but should do for those of us that aren't that popular. You can set the phonebook to display contacts from the phone memory, SIM memory or both.</paragraph>
+			<paragraph>Adding a contact is simple and straightforward - the phone asks for number, first and last name and that's it. When you need to add other details you can always go back and edit the contact. The phonebook can be set up to automatically store new contacts in a chosen location (phone, SIM) or to always ask.</paragraph>
+			<paragraph>Each contact can be assigned a variety of fields but the phone numbers are limited to 5. First names are separate from last names, eliminating problems which may occur with synchronization. You can assign individual ringtones to each contact.</paragraph>
+			<paragraph>A handy shortcut in the Options menu for each contact brings up the SMS conversations you've had with that contact.</paragraph>
+			<paragraph>The phonebook has search functionality too. Contacts can be copied, moved or deleted either individually or in bulk.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>We had no issues with signal reception with the Nokia Asha 302 and the in-call sound was loud and clear.</paragraph>
+			<paragraph>Making a call with the Asha 302 brings up memories from the past - you can use the numpad keys to enter a phone number (if you were wondering about smart dialing, don't - there isn't any), or you can pick a contact from the names menu (by using the QWERTY keyboard to search for the one you need).</paragraph>
+			<paragraph>Speed dialing can be enabled if you need to dial some contacts more conveniently or you can use the Favorite contacts widget.</paragraph>
+			<paragraph>The Nokia Asha 302 supports Voice clarity, which enhances the quality of in-call sound.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test and the Asha 302 received an Excellent mark. The loudspeaker is very powerful and you're unlikely to miss any calls, though at the loudest setting it tends to distort the audio. More info on the test itself as well as other results can be found here</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>QWERTY-fied messaging got WhatsApp<subsectionTitle>
+			<paragraph>The Nokia Asha 302 comes with the standard (and quite capable) S40 messaging. It can handle all the common message types including SMS, MMS, as well as flash and audio messages and there's easy email setup, too.</paragraph>
+			<paragraph>The physical QWERTY keyboard is an added bonus for the heavy texter - it can run circles around regular 12-button numpads.</paragraph>
+			<paragraph>The standard Inbox view is available but you also get a Conversations view mode (that's the threaded message feature).</paragraph>
+			<paragraph>The editor is well organized and you won't spend too much time finding your way around.</paragraph>
+			<paragraph>Pushing the left soft key reveals options where you'll find insert symbol and object. Symbols is an easy way to insert smileys or the symbols also available through the QWERTY keyboard.</paragraph>
+			<paragraph>When composing a message there's a character counter and message part counter available, and when you're done you can pick the recipient from the contacts list, the recently used numbers, the call log or contact groups. You can have a favorite contact too (just one).</paragraph>
+			<paragraph>Inserting an image automatically transforms the text into a multimedia message.</paragraph>
+			<paragraph>WhatsApp comes preloaded on the Nokia Asha 302. It has a simple tabbed interface and you can chat with all contacts in your phonebook that have the app on their phone. Besides regular text messages, you can also send photos, video and audio files.</paragraph>
+			<paragraph>There's a WhatsApp widget available for the home screen so you can easily start a new chat and check incoming messages.</paragraph>
+			<paragraph>The Mail app lets you create multiple accounts on multiple networks with just your email address and password. It works with POP3, SMTP, and IMAP4 protocols and supports multiple email accounts. The email client supports SSL.</paragraph>
+			<paragraph>Emails are received in the background and you can put a Mail widget on the homescreen to keep track of new emails (the widget offers practically no info on the new emails though).</paragraph>
+			<paragraph>The physical keyboard is a great help when composing messages. Writing even long messages is pretty easy to do.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Image gallery works well enough<subsectionTitle>
+			<paragraph>The Photos app on the Nokia Asha 302 offers a couple of viewing modes - a grid of 12 pictures on the screen or Timeline. The landscape orientation of the screen helps when viewing photos because there are no black bars around the images.</paragraph>
+			<paragraph>Zooming in on photos is quite fast thanks to the speedy processor inside the Asha 302. It's not pinch zoom, but pressing and holding the center key/right softkey to zoom in and out works okay. Panning is fairly fast and smooth although we would have appreciated kinetic scrolling here.</paragraph>
+			<paragraph>There's a basic image editor on board, which can crop/rotate images, add text, clipart and effects, plus adjust brightness/contrast and color.</paragraph>
+			<paragraph>You can organize photos into albums, view them in Timeline and, of course, you can start a slide show. The Timeline option lets you pick the date and shows a 6 x 2 grid of photos taken on that date.</paragraph>
+			<paragraph>Creating an album is very straightforward and the album view makes it easier for you to sort through your photos.</paragraph>
+			<paragraph>You can also start a slide show, with user-defined settings like the interval between pics and transition effects.</paragraph>
+			<paragraph>As for the old-fashioned Gallery app, it's still here - but it's hidden in the Applications menu. It's a capable file manager, especially for a feature phone. It can manage folders and files - both one by one and in bulk.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player does DivX/XviD<subsectionTitle>
+			<paragraph>The Nokia Asha 302 handled videos better than we expected - it even played DivX/XviD/MP4 videos at up to D1 resolution with very few videos failing to run properly. The most common problem we encounter was that the sound didn't work. The player didn't shy away from big videos - full-length movies and files over 1GB worked okay.</paragraph>
+			<paragraph>The interface is simple and to-the-point - users get a rewind, pause/play and forward buttons, going into options gives you fullscreen mode among others.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Plain music player<subsectionTitle>
+			<paragraph>The music player on the Nokia Asha 302 is pretty basic. There are no great visuals and the now playing screen is as simple as it could get - just the name of the artist, album and song, and the usual set of controls: rewind, forward, pause and a timeline bar.</paragraph>
+			<paragraph>Unfortunately, there are some annoying limitations - for example, hitting the red receiver key turns off the music player and goes to the homescreen. The player can work in the background, but you have to go to Options &gt; Play in background for that.</paragraph>
+			<paragraph>You can use the home screen widget - it's called Radio and media - for at-a-glance info on the currently playing track (artist and title) and for skipping tracks (along with fast forwarding and rewinding tracks). First you have to highlight the widget and the press left/right to change the song or press and hold to FF/rewind.</paragraph>
+			<paragraph>There are several basic equalizer presets hidden deeper in the Music player menus, two of which you can customize.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio with RDS<subsectionTitle>
+			<paragraph>The music player interface has carried over to the FM Radio one and covers the same basic functions. It can play in the background too.</paragraph>
+			<paragraph>RDS support is available and you can make the handset search and save all available stations in your area. RDS info and frequency appear on the homescreen, much like with the music player.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is a mixed bag<subsectionTitle>
+			<paragraph>It's hard to describe the Nokia Asha 302 audio output in a single word as its performances varied quite drastically in the two parts of our test.</paragraph>
+			<paragraph>With no resistance applied to its line-out (when used with an active external amplifier), the Nokia Asha 302 was one of the best performers we have ever seen. It could easily match both the scores and the volume levels of even Apple's iPhone and that should really tell you something.</paragraph>
+			<paragraph>The bad news is, there's severe degradation when headphones come into play. The frequency response gets severely distorted and loads of intermodulation distortion creeps in. Stereo crosstalk increases too, adding up to a pretty mediocre overall result. So whether or not the Asha 302 audio output would be good for you mostly depends on how you use your phone.</paragraph>
+			<paragraph>And here come the full results so you can see for yourselves:</paragraph>
+			<paragraph> Nokia Asha 302 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>3 MP fixed-focus camera<subsectionTitle>
+			<paragraph>The Nokia Asha 302 has a 3MP fixed-focus camera that produces photos with maximum resolution of 2048 x 1536. The camera interface has been updated so it's a lot more like Symbian.</paragraph>
+			<paragraph>On the screen you get a column on the bottom with the virtual shutter key in the center and the options and back keys besides it.</paragraph>
+			<paragraph>A left or right click on the D-pad on the screen reveals two shortcuts for video camera mode and gallery. Up and down on the D-pad control the digital zoom (but we'd advise against using it).</paragraph>
+			<paragraph>Going into the Options menu, you get controls for effects (greyscale, sepia, negative), fun frames (Polaroid photo, a Wanted poster, etc.), white balance, exposure, a viewfinder grid and extended settings. There's live preview of effects and frames, which helps you choose the best one for the given situation.</paragraph>
+			<paragraph>You can't expect much from the Asha 302 camera - it will do if you really have nothing else to snap a photo with. Levels of fine detail and noise are decent, but colors are not terribly accurate. There also seems to be a lot of fringing going on.</paragraph>
+			<paragraph>Here are the results themselves.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Nokia Asha 302 has a 3MP camera and qualifies to enter our photo quality comparison database. The synthetic resolution chart shows the camera is not the best, even in the 3MP category along with heavy fringing.</paragraph>
+			<paragraph>The yellowish fringing is present in the second chart, which also shows that colors in photos are accurate though a little dull. Under artificial lighting (the third chart) we can see a blueish tint in the whites.</paragraph>
+			<paragraph>   Nokia Asha 302 in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>VGA video camera<subsectionTitle>
+			<paragraph>The Nokia Asha 302 is also capable of VGA@15fps and QVGA@30fps video capture.</paragraph>
+			<paragraph>The interface of the camcorder is the same as the camera. Options include setting the video length from MMS to maximum available. You can also use effects or record videos without sound.</paragraph>
+			<paragraph>Video is a traeoff between resolution and framerate. VGA videos have good detail (though there are visible compression artifacts) but they are quite choppy, while QVGA videos are smooth, but the low-res frames are compressed way too much. So, VGA@15fps is the way to go, you'll just have to swallow the choppiness.</paragraph>
+			<paragraph>Here is a video sample (VGA@15fps) for you to check out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent connectivity<subsectionTitle>
+			<paragraph>The Nokia Asha 302 has excellent connectivity that reaches beyond its price point - quad-band 2G/GPRS/EDGE along with penta-band 3G enable it to work on any GSM network. The 3G is fast too - 14.4Mbps downlink and 5.76Mbps uplink - though the only way to really appreciate all that speed is if you're using the 302 as a data modem for your computer.</paragraph>
+			<paragraph>The way to do that is through the microUSB port. It's also used for charging, mass storage and USB On-The-Go. We tried out several card readers and a good deal of them worked (but then some didn't).</paragraph>
+			<paragraph>The Asha 302 has Wi-Fi b/g/n connectivity, which means that it will work even with new routers without issues. We've gotten used to Wi-Fi Hotspot functionality from smartphones, but the Asha doesn't do that.</paragraph>
+			<paragraph>There's Bluetooth 2.1 with A2DP available too for stereo Bluetooth headset connectivity and local data transfers.</paragraph>
+			<paragraph>And finally, there's the standard 3.5mm audio jack, which allows you to use your own headphones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>S40 browser for basic browsing<subsectionTitle>
+			<paragraph>The browser found on the Asha 302 is the Nokia Browser, which uses server-side compression to keep those data charges in check. Another plus of the compression method is faster page loading times.</paragraph>
+			<paragraph>The start page is easy to navigate with a unified URL field and search field at the top and shortcuts at the bottom for Social network, entertainment, news and more. There's a History and a Favorites tab available too.</paragraph>
+			<paragraph>There's also a data counter on board to keep track of how much you've used out of your monthly data plan. Pages are rendered okay but some mobile sites turn out too zoomed in and users can only view a single article at a time.</paragraph>
+			<paragraph>There are no advanced features such as the tabs and syncing offered in Opera Mini.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>The calendar application, like on every S40 Nokia phone out there, is pretty good. You can set reminders, meetings, calls, birthdays and more. The landscape layout offers a dual-screen viewing solution so you see the appointments you have without leaving the month view.</paragraph>
+			<paragraph>Though Nokia isn't one to leave the customer without all the required organizing apps you will be able to find some in the Nokia Store as well.</paragraph>
+			<paragraph>The Nokia Store is the place to download free and paid apps and games for your Nokia Asha 302. The interface is easy to navigate and each app comes with a description, screenshots and user reviews to help you decide.</paragraph>
+			<paragraph>The notes and to-do apps are self-explanatory. There is a stopwatch and a countdown timer too.</paragraph>
+			<paragraph>The calculator app uses the familiar D-pad and soft buttons layout to access the basic operations. The Asha 302 also comes with a voice recorder with no time limit and an alarm clock. The alarm clock still doesn't offer an option to set multiple alarms.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Nokia C3 was (actually, still is) an immensely popular S40 QWERTY messenger. Back in 2010, it was a solid texting and social device for those on a tight budget, with Wi-Fi connectivity a big point in its favor.</paragraph>
+			<paragraph>Fast forward a couple of years and we have the Nokia Asha 302 - the rightful heir of the C3, bringing substantial improvements in several areas. The more powerful hardware makes for a snappier overall experience and the camera has entered "almost usable" territory.</paragraph>
+			<paragraph>Fast, globe-trotting penta-band 3G is a big win too - along with the quad-band 2G, the Asha 302 will work on any GSM/UMTS network out there. The addition of Wi-Fi 802.11n support adds more compatibility at home - great if you're slowly moving away from Wi-Fi b/g devices and on to the newer and faster standard.</paragraph>
+			<paragraph>Plus, with all those Internet connectivity options you'll always have access to your email, Facebook, Twitter and WhatsApp contacts. You can even use the 302 as a 3G data modem, though you'll have to do it the old fashioned way - with a USB cable and the PC Suite.</paragraph>
+			<paragraph>Potential buyers of the Nokia Asha 302 are looking for a bargain, so let's see if there's more bang for their buck to be had elsewhere.</paragraph>
+			<paragraph>The Nokia Asha 200 is slightly cheaper than the 302 and is a dual-SIM phone, but short of the Asha 302's 3G, 1GHz processor and improved camera. If you want to go up instead, the Nokia Asha 303 is worth a look - its screen is bigger and touch-enabled. Then, the C3 may still be an option if you really want bargain basement prices.</paragraph>
+			<paragraph>   Nokia Asha 200 &#x2022; Nokia Asha 303 &#x2022; Nokia C3</paragraph>
+			<paragraph>The Sony Ericsson txt is a good deal cheaper than the Asha 302 but it obviously comes without 3G and a fast processor. The Sony Ericsson txt pro is the side-sliding version and throws in a 3" WQVGA screen for not much more cash. Another side-slider is the Samsung B5310 Corby Pro - it has a 2.8" QVGA touchscreen and 3G with HSDPA on its side.</paragraph>
+			<paragraph>So far, so good and so many feature phones. If you're willing to venture up from the &#x20ac;100 threshold, you can find a Nokia E5 with Symbian S60 and a 5MP camera.</paragraph>
+			<paragraph>    Sony Ericsson txt &#x2022; Sony Ericsson txt pro &#x2022; Samsung B5310 CorbyPRO &#x2022; Nokia E5</paragraph>
+			<paragraph>There's a ton of QWERTY-packing low-end Androids too - a Motorola Fire XT311 perhaps or a Sony Ericsson Xperia X10 mini, a Samsung Galaxy Y Pro B5510 or even an HTC ChaCha if you want to splurge. Those usually charge up to a &#x20ac;50 premium over the Asha 302.</paragraph>
+			<paragraph>    Sony Ericsson Xperia X10 mini pro &#x2022; Motorola FIRE XT311 &#x2022; Samsung Galaxy Y Pro B5510 &#x2022; HTC ChaCha</paragraph>
+			<paragraph>The number of QWERTY messengers on a budget seems overwhelming, so here are a few pointers - the droids are pricier and their batteries won't last as long, but the OS is much more capable than Nokia's S40. As for the feature phones, it's basically all a matter of preference.</paragraph>
+			<paragraph>No matter what spin you put on it, the Nokia Asha 302 is from another era and touchscreen is just too tempting. Androids with plummeting prices are making it a tough sell too. It's a fine phone that no doubt many will enjoy free on cheap contracts. Symbian smartphones and discounted droids are a real threat but the Asha 302 doesn't look scared.</paragraph>
+		</subsection>
+	</page>
+</review>

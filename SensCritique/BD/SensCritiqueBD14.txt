@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>Peanuts</nameEn>
+	<nameFr>Snoopy et les Peanuts</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1950</year>
+	<link>http://www.senscritique.com/bd/Snoopy_et_les_Peanuts/175289</link>
+	<generalScore>8.3</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>18</numberOfVoters>
+		<numberOfVoters>51</numberOfVoters>
+		<numberOfVoters>134</numberOfVoters>
+		<numberOfVoters>299</numberOfVoters>
+		<numberOfVoters>247</numberOfVoters>
+		<numberOfVoters>180</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Snoopy et les Peanuts</title>
+		<author>2goldfish</author>
+		<date>2010-06-15</date>
+		<score>1.0</score>
+		<content>Pour expliquer l'attrait de Peanuts, Schulz avait coutume de dire un truc du genre "La plupart des gens sont plus familier de l'expérience de la défaite que de celle de la victoire". Bref, ce qui est bien dans ces cachouètes, c'est qu'il y en a pour tout le monde : - Si vous avez déjà été loser, vous vous reconnaitrez dans chaque avanie endurée par Charlie Brown. - Si vous avez déjà été amoureux de la fille la plus chiante de la terre, vous reconnaitrez Lucy, et vous vous reconnaitrez en elle dans les strips où son amour pour Schroeder rencontre une impasse. - Si vous avez déjà consacré trop de temps à une oeuvre d'art mineure, vous êtes Schroeder. - Si vous vous êtes déjà posé des questions sur la vie, l'univers et tout le reste, vous êtes Linus. - Si vous êtes la manifestation fantasque des joies d'une aventure extra-conjuguale, vous êtes Snoopy. En résumé, Peanuts c'est bien, même si la vie c'est dur. La preuve : quand tout le monde demandait à Schulz comment il faisait pour dessiner avec ce trait hésitant si particulier sur la fin, il pouvait répondre "c'est simple, j'ai eu une attaque".</content>
+	</review>
+	<review>
+		<title>Qu'est-ce que ça changera dans 500 ans ?</title>
+		<author>slowpress</author>
+		<date>2013-09-24</date>
+		<score>1.0</score>
+		<content>Snoopy et les Peanuts, c'est comme la couette de Linus, ça réconforte. On se sent moins seul face à l'infini quand on lit les pérégrinations de ces étranges enfants. En trois cases et quelques coups de crayons, Shcultz arrive à poser une émotion profonde. J'en suis au 7e tome, et je ne me lasse toujours pas des explications loufoques supposées scientifiques de Lucy, de la relation de Schroeder avec son piano et Beethoven, du nuage de poussière qui suit Pig-Pen partout, de Charlie Brown qui lutte vainement contre le monde, et de Snoopy qui tente de se transformer en vautour ou autre animal absurde. C'est une mélancolie douce que de lire Snoopy et les Peanuts.</content>
+	</review>
+	<review>
+		<title>"Ça s'apprend de dire les choses comme elles sont" Charlie Brown.</title>
+		<author>Galante_Clément</author>
+		<date>2014-09-03</date>
+		<score>0.9</score>
+		<content>La série retrace le quotidien de plusieurs enfants, dont Linus, Lucy, Sally, Patty, Schrœder et surtout Charlie Brown et son chien, Snoopy (et son ami Woodstock, un petit oiseau jaune). Chacun de ces personnages à ses propres émotions et son caractère, leurs activités (notamment le baseball) et se posent beaucoup de questions qui ne trouveront souvent pas de réponses (mais comme le dit Sally, parfois, « on s'en moque »). Ces enfants se mettent parfois à réfléchir comme des adultes, à vivre les événements du quotidien et à se remettre en question avant de repenser comme des enfants. Le monde de Charlie Brown et ses amis est tout petit, mais il donne l'impression d'avoir une plus grande portée. Charlie Brown se pose souvent des questions, lui l'éternel loser mais qui n'abandonne jamais pour autant. Snoopy lui, qui au fil du temps est devenu un personnage plus humain que chien, se laisse porter dans son imagination (il est tour à tour joueur de hockey ou patineur professionnel l'hiver), alors que les enfants se prennent moins à ces jeux. Tout le monde peut (et devrait) lire Snoopy! Snoopy est une de ces séries intemporelles, qui peut plaire à tous avec son trait et son humour fin. Pas besoin de vraiment connaître les personnages que l'on apprécie rapidement. Ceux qui n'auraient encore jamais lu ne serait-ce qu'un seul Snoopy ne devrait en aucun cas manquer l'occasion !!</content>
+	</review>
+	<review>
+		<title>Snoopy et les Peanuts</title>
+		<author>Ewen</author>
+		<date>2010-05-17</date>
+		<score>1.0</score>
+		<content>A lire, à relire, l'avoir sur sa table de chevet est le meilleur endroit! Quel que soit le tome!</content>
+	</review>
+	<review>
+		<title>ça vaut son pesant de cacachuètes</title>
+		<author>Uzeste</author>
+		<date>2014-12-09</date>
+		<score>1.0</score>
+		<content>une bd comme je les aime : le trait précis, les 4 cases, les personnages instantanément attachants et plongés dans l'action, la candeur de l'enfance, un brin de philosophie. et puis ce snoopy, toujours present même quand il n’apparaît pas. c'est une oeuvre extraordinaire, tout y est, elle contient bien d'autres à venir. c'est un livre de chevet génial, très créatif et jouissif, qui sous couvert d'une certaine naïveté, cache un gros travail de recherche et de renouvellement, pour rester accessible aux plus grand nombre tout en cachant subtilement bon nombre de références. cette édition contient un essai sur la vie et l'oeuvre de SCHULZ, suivi d'un entretien où on en apprend des belles! 4eme de couverture : "l'univers de peanuts est un microcosme, une petite comedie humaine pour le lecteur candide comme lettré" umberto eco</content>
+	</review>
+</sensCritiqueEntity>

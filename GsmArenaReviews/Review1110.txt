@@ -1,0 +1,69 @@
+<review>
+	<title>Sony Xperia X hands-on</title>
+	<description>A closer look</description>
+	<link>http://www.gsmarena.com/sony_xperia_x-review-1425.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia X at a glance:<subsectionTitle>
+			<paragraph>Form factor: metal body, 2.5D glass rounded bevel screen</paragraph>
+			<paragraph>Screen: 5" Triluminos display, 1080p resolution (441ppi)</paragraph>
+			<paragraph>Camera: 23MP/1080p with 1/2.3" sensor, f/2.0, Predictive Hybrid AF; 13MP selfie camera</paragraph>
+			<paragraph>Chipset: Snapdragon 650 (2x A72 + 4x A53 cores); 3GB of RAM</paragraph>
+			<paragraph>Storage: 32GB, expandable with microSD cards</paragraph>
+			<paragraph>OS: Android 6.0 Marshmallow</paragraph>
+			<paragraph>Audio: stereo speakers, Hi-Res audio, DSEE HX, LDAC</paragraph>
+			<paragraph>Battery: 2,620mAh</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Sony invited us over to Tokyo to give us a glimpse of the upcoming Xperia X - the pioneer in the company's new lineup that puts an end to 6 generations of Xperia Z flagships.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia X is not a direct successor to the Z5, mind you, this is a burden the Xperia X Performance will have to deal with. Instead, it ushers in Sony's new design language, which let's face it, does build upon the fundamentals of the old one.</paragraph>
+			<paragraph>The Xperia X also introduces us to most of the flagship's hardware, while still letting it keep exclusivity on some features - IP68 certification and top-class chipset in particular.</paragraph>
+			<paragraph>The Xperia X does get the top-spec camera of its bigger brother (or should we say wiser, as they're both 5-inchers) - that means 23MP maximum resolution, phase detection autofocus, and a f/2.0 aperture lens. What it misses out on is 4K video recording, which is inexplicably missing from the Xperia X Performance spec sheet, too.</paragraph>
+			<paragraph>We already got a chance to handle the Sony Xperia X a couple of months ago at MWC, so this time, we'll approach our hands-on with a focus on the camera department. We figured we'd spend the few precious moments we had with the phone on the important stuff.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>23MP main camera, but also a 13MP selfie shooter<subsectionTitle>
+			<paragraph>The camera on the Sony Xperia X is a 23MP unit, and it captures images up to 5,520 x 4,140 pixels in a 4:3 ratio. The lens has an aperture of f/2.0 and a field of view equivalent to a 24mm lens in 35mm film terms.</paragraph>
+			<paragraph>All of the above sounds a lot like the setup of the Xperia Z5 and its two brethren. And it's only logical that Sony has taken its current top camera and refined it for the Xperia X - it doesn't seem very sound practice on any level for such complex hardware to have a single generation lifespan.</paragraph>
+			<paragraph>And then, do you remember Sony's old 20.7MP snapper, which was used in 4 generations of Xperias from the Z1 to the Z3+? Admittedly, Sony's generations didn't work quite the way they did with other makers, but those four still account for two and half years of flagships.</paragraph>
+			<paragraph>But we're not bringing up the Z1's camera without a reason. Sony itself compared the X's camera to the one of the Z1 to emphasize how thin the new smartphone's module has gotten, while still managing to fit 6 optical elements.</paragraph>
+			<paragraph>With a total height of 5.62mm this new camera assembly is the thinnest one to house a Type 1/2.3" sensor, Sony says. Compare that to the 6.32mm height of the Z1's unit and you're looking at an 11% reduction, which is indeed quite impressive in these already miniature devices.</paragraph>
+			<paragraph>Another key point in Sony's presentation of the Xperia X's camera is autofocus. Introduced on the Xperia Z5, the Hybrid autofocus system has been taken a step forward and has gotten Predictive now, but it is in its essence, based on a hybrid use of contrast and phase detection.</paragraph>
+			<paragraph>The Predictive Hybrid autofocus system is meant to assist with shooting of moving subjects by tracking and analyzing their motion and anticipating their change of position in the time it takes between pressing the shutter button and the camera actually capturing the image (what is commonly referred to as shutter lag).</paragraph>
+			<paragraph>Sony's suggested use cases that take full advantage of it include approaching vehicles and moving children and pets. In practice we found its use limited and also initial setup was tricky - you need to be very precise when tapping on the screen to select the subject you want to track. That said, there may be users that can better incorporate it in their smartphone photography.</paragraph>
+			<paragraph>We were most impressed with how quickly the camera can launch and capture an image, by pressing and holding the two-stage manual shutter release, itself a rarity on a smartphone. Sony claims that standby-to-shot-taken time is less than 0.6s and they had a rig set up ready to prove it, which the Xperia X did every single time.</paragraph>
+			<paragraph>The one thing we're not thrilled about is the lack of 4K video recording. The Snapdragon 650 chipset is capable of doing the number-crunching, so the reason for the 2160p capture must lie elsewhere. It could be battery life, it could be heat management, or it could be the most obvious one - reserve 4K recording for the true flagship, whichever that may be.</paragraph>
+			<paragraph>The rear camera is only part of the story, though. It's on the front, where the leap has been made, a leap from 5MP (where Z-series topped out) to 13MP. It's a rather large sensor too - a Type 1/3" unit, in a world dominated by 1/4" and 1/5" imagers. Additionally, like a proper camera, the front-facer gets autofocus and a (reasonably) bright f/2.0 lens.</paragraph>
+			<paragraph>The notable absentee is the front-facing flash, but Sony has the C and M-series for that, we guess. Mind you, the existing Xperia C5 Ultra, as well as the Xperia M5 have a similar selfie setup, going strictly by the numbers - so there might be some shared hardware here too.</paragraph>
+			<paragraph>Sony has also worked on the software side of things to improve the camera's image quality in low light. The approach they've used is multi-tiered, starting with pixel binning to create a lower-res, but cleaner image, then take a multitude of those and compare them to try and further reduce noise (what they call Multi-shot noise reduction), and finally upscale to the original resolution.</paragraph>
+			<paragraph>Normally that sounds like an awful lot of processing, and pixel binning and then upscaling isn't something you want your camera to be doing in daylight. When it comes to low-light photography, on the other hand, you'd be pleased with every algorithm that manages to rescue a shot. Sony did show us a photo, taken at ISO 6400 in 2lux of available light, and while the Xperia X can't work miracles, the results are quite usable.</paragraph>
+			<paragraph>For the non-believers, a room was set up with very dim lighting, where we could do a quick side-by-side, and the Xperia did indeed produce brighter images with decent detail.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Image quality<subsectionTitle>
+			<paragraph>Before examining the images, we should note that the sample unit we had was not running final software. In other words, the output from commercially available phones may differ from what we're getting at this stage of the Xperia X's development.</paragraph>
+			<paragraph>We got lucky with the weather and went for a stroll in a local park. Parks, you know, have a lot of foliage to capture so images there can test a camera's detail resolving powers. The Xperia X does rather well with that task and captures a lot of fine detail, combined with plenty of noise even in broad daylight. It's as if the engineers have decided not to do much in the way of noise suppression and instead leave the noise there along with the fine detail.</paragraph>
+			<paragraph>We had an iPhone 6s handy and shot a set of images for a quick comparison between the two. The Xperia has a wider field of view - the 24mm vs. 29mm difference in focal length leads to an obvious difference in the coverage.</paragraph>
+			<paragraph>Nevertheless, we set out to do a direct 100% crop of the images to evaluate the rendered detail at the pixel level. The results are below, and on each row, you have the following: original 12MP iPhone 6s shot, he original 23MP Xperia X shot, and a set of 1:1 crops from both the iPhone image and the original Xperia image.</paragraph>
+			<paragraph>The Xperia resolves a bit more detail on a pixel level, which is clearly visible in the thinnest of twigs, and tiniest of leaves on the row of images below. Then again, noise is abundant even in brightly lit areas - likely left there deliberately, so noise reduction wouldn't do away with detail. The noise pattern is not that nice to look at (same as on the Xperia Z5), but you would probably never attempt to pixel peep on your photos from so close in real life.</paragraph>
+			<paragraph>The Xperia has pleasing color rendition, but the Superior Auto mode handles colors differently from shot to shot, so the result is not always predictable. Our impression is that the entire Xperia lineup renders images with a cooler color balance with less saturation than the competition, and the Xperia X seems to follow suite.</paragraph>
+			<paragraph>The second comparison shows a similar result. The Xperia X outresolves the iPhone camera but comes with cooler hues. The iPhone has an advantage when it comes to dynamic range and it offers better detail preservation in both the highlights and the shadows.</paragraph>
+			<paragraph>We already mentioned the low-light advancements in the front facing camera on the previous page, but it's time to show you a sample photo taken in good light. The result is excellent and not even for a selfie camera. Sony's choice of a larger, higher-res sensor pays off and the shots taken with it could easily pass for ones captured by an excellent 13MP primary camera of a mid-ranger. We somehow even prefer the pixel-level processing by the front camera than that of the main one.</paragraph>
+			<paragraph>Video recording on the Xperia X is nothing special except perhaps for the excellent Electronic Image Stabilization (EIS). The video recording tops out at 1080p, as unfortunately, there is no 4K video on this phone. The videos are recorded with a bitrate just shy of 18Mbps, which is pretty much the industry standard, and audio is captured in stereo with a variable bitrate averaging 150-something Kbps.</paragraph>
+			<paragraph>Resolved detail is good, though not exceptional. The best bit is Sony's EIS, which helps greatly in minimizing camera shake when shooting videos without a tripod. We got another positive first impression from the autofocus mechanism during video recording, which is reliable and fast, though not as fast as the one on the Samsung Galaxy S7.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>As usual, we have a sample 1080p video for download.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Wrap-up<subsectionTitle>
+			<paragraph>The Sony Xperia X is a promising device, positioned high up in the midrange. It's got near-flagship-level hardware, and if you can live without 4K video recording, you can rely on it to cover all other bases.</paragraph>
+			<paragraph>We can't wait to get a final unit for proper testing and until then, we say Sayonara! to the Xperia X and Tokyo. We'll meet again soon!</paragraph>
+		</subsection>
+	</page>
+</review>

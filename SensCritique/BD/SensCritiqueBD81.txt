@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Gare au psychopate à rayures ! - Calvin et Hobbes, tome 18</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1999</year>
+	<link>http://www.senscritique.com/bd/Gare_au_psychopate_a_rayures_Calvin_et_Hobbes_tome_18/8416490</link>
+	<generalScore>9.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>103</numberOfVoters>
+		<numberOfVoters>71</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

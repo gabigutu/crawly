@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Times of Grace</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1999</year>
+	<link>http://www.senscritique.com/album/Times_of_Grace/360476</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>38</numberOfVoters>
+		<numberOfVoters>99</numberOfVoters>
+		<numberOfVoters>76</numberOfVoters>
+		<numberOfVoters>35</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Times of Grace</title>
+		<author>Nathan Oupresque</author>
+		<date>2014-02-07</date>
+		<score>0.9</score>
+		<content>Il s'agit peut-être de l'album le plus sinitre et le plus amer de Neurosis. Mais, quand certains groupes (de doom par exemple) pousseraient un dépressif au suicide, Neurosis au contraire vous montre toute la beauté qu'il y a à survivre à l'adversité. Il paraît qu'un journaliste musical ne doit pas faire de critique titre-à-titre d'un album, je vais pour ma part profiter un peu de ma liberté d'amateur. The Doorway et Under The Surface s'enchaînent parfaitement, ils ne devraient jamais être écoutés séparément afin de ne pas rater l'émouvante transition : quand The Doorway, morceau fermé, noir, insoluble, se termine pour laisser place à un superbe riff de basse (RE - SOL - LA - FA) qui ouvre Under The surface. The last you'll know illustre bien le côté plus calme et mélancolique de cet album (mélancolie étonnament bien transmise grâce à l'utilisation d'une ... cornemuse !), avec son passage presque jazzy (qui rappelle un peu certains titres de Callisto) ponctué d'affreux bruits qui semblent rayer la réalité. D'ailleurs, la musique de Neurosis est souvent hantée par d'étranges bruits qui ajoutent quelque chose d'onirique et d'inquiétant au tout. Belief, morceau rythmé par une respiration démoniaque, clôt parfaitement la première partie de l'album (qui s'écoute d'ailleurs assez bien toute seule, indépendamment des autres titres). Après un petit interlude, des bruits ténus et lointains, comme des chants d'animaux venus d'une dimension cauchemardesque, ouvrent le magnifique End of The Harvest, au cours duquel on atteint peut-être le point culminant de Times of Grace, quand le chanteur entonne "bind" à quatre reprises. Away, plus calme, ressemble presque à une ballade triste, malgré sa fin déchirante. Vient enfin le morceau-titre de l'album, le plus torturé, le plus sombre, lui aussi habité de sons fascinants, plus malsains cette fois, qui ressemblent peut-être à des cris de chiens infernaux (d'où la pochette de l'album ?), suivi d'un outro tragique et grandiose.</content>
+	</review>
+	<review>
+		<title>Equilibre parfait</title>
+		<author>MathieuCan</author>
+		<date>2015-01-05</date>
+		<score>0.9</score>
+		<content>Quelle découverte pour moi (je sais j'arrive après la bataille, mais qui rien ne sert de courir, il faut voler un boeuf). Cet album est vraiment réussi au niveau de l'équilibre entre la rage de The Doorway et la quiétude (même sombre) de Away, la complexité structurelle de The Last You'll Know et l'essentialité des transitions musicales come Exist ou de Descent. Il y a toujours un instant de plénitude avant d'attaquer un moment dur. Bref, quand c'est bon il ne faut pas en faire des caisses, il faut juste le recommander et ré-écouter.</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,271 @@
+<review>
+	<title>Asus Zenfone Max review</title>
+	<description>Tanking up</description>
+	<link>http://www.gsmarena.com/asus_zenfone_max_zc550kl-review-1445.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Asus Zenfone Max key features<subsectionTitle>
+			<paragraph>Dual-SIM, Dual Standby capability</paragraph>
+			<paragraph>5.5-inch IPS capacitive touchscreen of 720p resolution and 267ppi, Gorilla Glass 4</paragraph>
+			<paragraph>Qualcomm Snapdragon 410 chipset; quad-core 1.2 GHz Cortex-A53; Adreno 306 GPU</paragraph>
+			<paragraph>2GB of RAM, 8/16GB of storage and a microSD slot for further expansion, 5GB free lifetime ASUS WebStorage</paragraph>
+			<paragraph>13MP main camera with f/2.0 lens, laser autofocus, dual-LED dual-tone flash, 1080p@30fps video recording</paragraph>
+			<paragraph>5MP front camera with 85-degree wide-angle f/2.0 lens, 1080p@30fps video recording</paragraph>
+			<paragraph>Android 5.0 Lollipop with Asus ZenUI overlay</paragraph>
+			<paragraph>LTE Cat.4, Wi-Fi 802.11 b/g/n; Bluetooth v4.0; GPS, GLONASS, and Beidou; microUSB 2.0 port, USB host</paragraph>
+			<paragraph>5,000mAh non-removable battery</paragraph>
+			<paragraph>Plastic build, faux leather back covers</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Weak 1A charger in the box</paragraph>
+			<paragraph>Launches on Lollipop</paragraph>
+			<paragraph>Rather low resolution for the screen size</paragraph>
+			<paragraph>Battery is non-removable</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It may not be the fastest ride - and it sure ain't the hottest - but it comes with a full tank and mileage to spare. 5,000 milliamp-hours... That's more juice than many tablets get and enough to charge 3 iPhone 6's. The Asus Zenfone Max is no joke when it gets to battery backup. But it's a smartphone in its own right - an affordable midranger at that.</paragraph>
+			<paragraph>It has a 5.5-inch display with Gorilla Glass 4, and although the resolution is rather low at 720p, we can see how 1080p would have cost more and required more processing power - neither of which fits with the Max's main purpose: endurance.</paragraph>
+			<paragraph>The Snapdragon 410 doing the math is by no means a record breaker, but a decent chipset that carries dual-SIM support, LTE and 1080p video recording. With 2GB of RAM and 16GB of expandable inbuilt storage, the Max has the basics covered.</paragraph>
+			<paragraph>On the other hand, the 13MP laser autofocus camera from the Zenfone Laser and Zenfone Selfie didn't fall victim to budget and longevity constraints. On the front there's a 5MP wide-angle shooter, bright aperture too.</paragraph>
+			<paragraph>Perhaps the non-removable battery complaint is shaky when you simply have so much of it. Well, the plain 1A charger does become an issue then, even more so considering the chipset does support Qualcomm Quick Charge 2.0 but hey, the phone comes quite reasonably priced and an extra quick charger won't break the bank.</paragraph>
+			<paragraph>We know you want the battery numbers, but there's an established order here, and no Max is going to break it. Unboxing and the hardware overview follow on the next page, but our battery test is right around the corner.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing<subsectionTitle>
+			<paragraph>The Zenfone Max comes in the same type of box as all of the current generation of Zenfones, including the Zenfone 2 and the Zenfone Selfie. Inside, you'll find the basics: an AC adapter and a USB to microUSB cable, but also a USB OTG cable.</paragraph>
+			<paragraph>Our unit came without headphones, so if a wired headset is important to you, you might check out whether one is available in your region or else, you would have to factor in the price of a headset.</paragraph>
+			<paragraph>The premise behind the USB OTG cable is that you can use the Zenfone Max as a power bank and charge other devices. However, it will take you a while to fill up the Max itself - considering the sheer capacity of the 5,000mAh power unit, Asus could've done better than a 5.2V/1A charger.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Zenfone Max 360-degree spin<subsectionTitle>
+			<paragraph>The Asus Zenfone Max measures 156 x 77.5 x 10.6mm, which is more or less the same as the Zenfone Selfie, and a few millimeters taller than the regular 5.5-inch Zenfone 2 (the ZE551ML being one example of those). It's also a little wider, but you're unlikely to notice any of these differences.</paragraph>
+			<paragraph>What you inevitably will notice though is the heft of the Zenfone Max. At 202g, the increased weight is more than tangible. However, that's also a compromise that by definition goes with the high-capacity battery, and if the Max has made it to your short list, you should already be okay with it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>Immediately recognizable as a member of the Zenfone 2 family, the Zenfone Max won't be easy to tell apart from its siblings, just by looking at its front. Large bezels all around, capacitive keys below the display, and a chin with a brushed metal finish with concentric circle pattern - all of them have it.</paragraph>
+			<paragraph>Take a look at it from any other angle however, and you'll start to spot the differences. For one, the Zenfone Max has what appears to be a frame all around. Painted in gold, it serves as an accent to nicely complement the prevalent black color of our review unit.</paragraph>
+			<paragraph>The frame also houses a power button and volume rocker on the right. So, what happened to the back mounted volume rocker on other Zenfones, the more observant among you might ask. Well's that's another aspect where the Max designers took a different path, a more orthodox one.</paragraph>
+			<paragraph>There's nothing special about the port placement - a 3.5mm jack on top, microUSB on the bottom. A tiny pinhole next to it is for the primary microphone.</paragraph>
+			<paragraph>The texture of the rear is what you won't find on other Zenfones either - the faux leather effect works very nicely with the soft-touch plastic.</paragraph>
+			<paragraph>Other than that, you have a familiar arrangement of a centrally-mounted camera, flanked by a dual-LED flash and a cutout for the laser-assisted focus.</paragraph>
+			<paragraph>As with all other members of the family, the Zenfone Max features a removable back cover. Underneath it you'll find the large capacity battery, but you won't be able to swap it. Without tools that is.</paragraph>
+			<paragraph>On the Zenfone 2 the battery is sealed, but its component arrangement is such that the SIM slots are on top of the battery to better utilize the curvature of the back. Then the Zenfone Selfie has a lithium polymer battery you can easily pop out, and looking at the flat power pack of the Max, we can't help but wonder 'why not?'. We won't dwell on it that much though, 5,000mAh is 5,000mAh.</paragraph>
+			<paragraph>The Zenfone Max is undeniably a large device and quite heavy too. However, the curvature of the back, along with the soft grippy texture make for comfortable and secure handling.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Very good 5.5-inch IPS panel with 720p resolution<subsectionTitle>
+			<paragraph>The Asus Zenfone Max has a 5.5-inch 720p display. If you're at all familiar with Asus's naming convention, you could have extracted that info from the model name ZC550KL - the 55 in 550 means 5.5 inches, while the zero stands for HD resolution. FullHD resolution would have been 551, but there aren't Max versions with such, only Zenfone 2's and the Zenfone Selfie.</paragraph>
+			<paragraph>Anyway, the numbers make up for a pixel density of 267ppi, and you can tell pixels are larger than recent trends by looking at our microscope shot. It also reveals a standard RGB pixel arrangement with equal numbers of the three base color subpixels.</paragraph>
+			<paragraph>The screen is covered in Gorilla Glass 4 for scratch and shatter resistance.</paragraph>
+			<paragraph>In terms of maximum brightness, the smartphone does a great job. Its output is dependent on which one of the Battery saver modes is selected, and the maximum available brightness setting is higher in Performance mode, than say, in Normal.</paragraph>
+			<paragraph>That said, the Auto toggle will produce an equal result in bright sunlight regardless of power mode, also brighter than what you could achieve manually. It can go even brighter than the Moto X Play, which was already an excellent performer.</paragraph>
+			<paragraph>The screen's contrast remains unaffected by screen modes, and at a very good level around 1100:1. While that's no match for the Moto X Play, which can go as high 1520:1 thanks to its deep blacks, the Max's display outperforms most of the competition in this respect.</paragraph>
+			<paragraph>Color reproduction is one area Asus gives you plenty of control. Tinkering with the sliders in the Splendid app lets you adjust color temperature, hue and saturation and also gives you the option to filter out the blue tones light, if you consider it to be an issue in the hours prior to bedtime.</paragraph>
+			<paragraph>Alternatively, you can leave it in the default Balanced mode, where you get a pretty good color reproduction with an average deltaE of 4.2, not properly calibrated, but also more accurate than the flagship LG G5's 5.6, for instance. Even the maximum deviation is 6.8, which is quite constrained given that we often see numbers above 10.</paragraph>
+			<paragraph>Things aren't so great in bright outdoor light, where the Zenfone Max struggles, despite the high maximum brightness - quite possibly due to the reflective screen. Even so, it's markedly better than the Zenfone Selfie and on par with the Zenfone 2 ZE551ML.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Zenfone Max is a Dual SIM device with the full range of 2G/3G/4G bands supported on both cards. LTE is Cat.4 with theoretical speeds of up to 150Mbps down and 50Mbps up.</paragraph>
+			<paragraph>There is Wi-Fi 802.11 b/g/n, single-band, no Wi-Fi ac but, on a positive note, there's Wi-Fi Direct and hotspot support.</paragraph>
+			<paragraph>Bluetooth is in its 4.0 version, there's a GPS receiver with added GLONASS and Beidou support.</paragraph>
+			<paragraph>An FM radio receiver is provided too, but the Max lacks NFC.</paragraph>
+			<paragraph>The microUSB port comes with USB host support for attaching your choice of peripherals. You can also use the Max to charge other devices with the bundled USB OTG adapter. There's a standard 3.5mm jack too.</paragraph>
+			<paragraph>There's also a dedicated microSD card slot for storage expansion, which takes cards of up to 64GB.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Zenfone Max battery life<subsectionTitle>
+			<paragraph>The Zenfone Max's claim to fame is the battery, a 5,000mAh lithium polymer unit, sealed inside. It's one of the largest cells available in a phablet from a major brand, with most offerings hovering around the 4,000mAh mark. Coupled with the modest Snapdragon 410 chipset, it's a recipe for excellent endurance.</paragraph>
+			<paragraph>Indeed, that's what the Zenfone Max delivers. Some 20+ hours of web browsing, close to 16 hours of video playback and almost 28 hours of voice calls are all great numbers. That adds up to an endurance rating of 121 hours in our proprietary test - meaning second spot in our all-time chart. The leader is the Gionee Marathon M5, which has a 6,020 milliamp-hour battery and pretty similar specs.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android 5.0.2 with ZenUI on top<subsectionTitle>
+			<paragraph>The Zenfone Max comes with Android 5.0 out of the box, which certainly is not the latest available version but Asus is usually good in updating its phones down the line.</paragraph>
+			<paragraph>Google's OS has been the object of a total makeover by Asus, and the overlay is called ZenUI. It's not merely a skin too - instead, the company has added a host of proprietary apps and features.</paragraph>
+			<paragraph>Double tap to wake is enabled by default and sending the phone back to sleep can be done by double-tapping on an empty area of the interface. If you're running a full-screen app, double-tapping on the notification bar will do the trick. You could disable the feature in settings and use the power button located conveniently on the right side (unlike other Zenfones which have top-mounted power buttons.)</paragraph>
+			<paragraph>The lockscreen will be familiar to any previous Asus user. You're greeted by a time and weather widget, but also three shortcuts to the camera, dialer and messaging apps. They are customizable too, and you can assign any installed app of your choice to either of the three slots.</paragraph>
+			<paragraph>The list of notifications follows and, unlike some other Lollipop builds, double tapping on one takes you straight to the app that pushed it. Unlocking only works with an upwards swipe.</paragraph>
+			<paragraph>Beyond the lockscreen is the Android homescreen with four customizable shortcuts docked at the bottom, the app drawer shortcut always in the middle. You cannot add more icons beyond these four, but there is folder support. Removing one does not rearrange the others, leaving an odd empty space.</paragraph>
+			<paragraph>There are preloaded Asus and Google folders, packed to the brim with a selection of applications from the respective companies - custom Asus apps in one, and the default Google apps in the other. When you install a new app, the phone will suggest a folder for its placement, aiming to keep things nicely organized.</paragraph>
+			<paragraph>A pinch zoom lets you rearrange your homescreens, as well as select a default homescreen and add additional ones up to seven in total.</paragraph>
+			<paragraph>Holding your finger on a homescreen brings a popup menu. It gives access to icon packs (of which there's only one on board, but the Play Store has plenty), scroll effects and wallpapers. You can even set icon and text size!</paragraph>
+			<paragraph>Additionally, it provides another way to get to the app drawer and settings menu.</paragraph>
+			<paragraph>There's a theming engine with plenty of free themes available online, if you want to abandon the default cartoonish Asus theme, or go for an even more colorful one.</paragraph>
+			<paragraph>The app drawer has plenty of customization options itself. Grid size can be adjusted in the 3x3 to 5x5 range, with the latter making more sense on the 5.5-inch screen. Apps can be arranged alphabetically (the "All" setting), manually, or by frequent use, and you can also choose to only display the ones you downloaded yourself. Alternatively, you can have the Max group apps into folders according to their use.</paragraph>
+			<paragraph>The notification area has seen extensive customization as well. A single-finger pull-down only brings up the notifications and no quick toggles. Side swiping removes the notifications and a "clear" button does away with all of them at once. A second swipe from just below the date reveals the toggles, and whatever notifications you have left get squished to the little space underneath.</paragraph>
+			<paragraph>A two finger pull-down gets you straight to this state, which features a brightness slider with an auto mode, a 4-in-a-row set of quick tools and a 3x4 grid of toggles. Both the quick tools and the toggles can be chosen and rearranged, but you need to have exactly 4 tools and at least 8 toggles lined up.</paragraph>
+			<paragraph>The task switcher is the standard Lollipop style virtual rolodex, but with a twist. In-between the typical "Close all" button and shortcut to the Apps section of the Settings menu, you get an App Pin option. What that does is it allows you to keep the selected app in view regardless of any taps on the capacitive buttons. It's a convenient feature and might be used for locking a child into a certain app or game as it's a bit fiddly to get out of (it requires a press-and-hold on the back and task switcher buttons simultaneously.)</paragraph>
+			<paragraph>Quick trigger is Asus' answer to the problem of handling large devices single-handedly. It's evoked with a double-tap on the home button, provided you've enabled it first in settings. What it does is it shrinks the entire interface to a portion of the screen, which is resizable and can be moved around to suit left or right handed use.</paragraph>
+			<paragraph>With the touchscreen always-on for the double-tap-to-wake feature, Asus was able to implement a few other nifty shortcuts. For example, drawing the letter "C" on the screen while it's sleeping will wake the phone and straight up launch the camera app. "W" launches the browser and presumably stands for Web. While the letters are preset and you get six of them, you can assign any app of your choice to any letter.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Inside the Zenfone Max the Snapdragon 410 hums - another in a line of endurance-focused decisions on Asus' part. The SoC relies on a quad-core Cortex-A53 CPU, clocked at 1.2GHz, and the Adreno 306 GPU. There are 2GB of RAM on board.</paragraph>
+			<paragraph>Mind you, there's a recently released version of this generation Zenfone Max, the ZC550KL-6A076IN, limited to the Indian market. That one features a more powerful Snapdragon 615 chip and 3GB of RAM in some variants, so it should score markedly better in benchmarks than our Snapdragon 410 version (check the Zenfone Selfie results for reference). It'll also likely show shorter battery endurance numbers.</paragraph>
+			<paragraph>Anyway, the Snapdragon 410 is a modest performer, there's no two ways about it, and benchmarks are certainly not its forte. That shows quickly in GeekBench, where the Zenfone Max scores in the fifteen hundreds in multi-core. The Snapdragon 615's in the Selfie and the X Play and the Mediatek MT6753 in the Vibe K4 Note are capable of about 70% higher scores, while the Helio X10-powered Redmi Note 3 scores three times as much as the Zenfone Max. That said, Asus' marathon runner is still a bit more powerful than all three of Samsung's offerings with the same chip inside, so at least there's that.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In single-core the picture is very much the same - the Max posts rather low scores, and yet it's marginally ahead of the Galaxy J5 (2016) with the same chipset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In Antutu 6 the Zenfone Max scores in the mid-20,000s, a value we hadn't seen for a while before the Galaxy J5 (2016) and the Zenfone Max came in for review. That said, the Galaxy's score is still a few percent higher in this benchmark, for a change.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In Basemark II 2.0 it's more of the same - the Zenfone Max and its Snapdragon 410 are no match for higher-grade Snapdragons and Mediatek's alike. And yet, among its S410 peers, the Zenfone Max scores the highest.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In the graphics department the Zenfone Max is underpowered as well. In Basemark X the roles are reversed and Samsung's S410-powered models are ahead of the Max, with the J5 (2016) a notable upgrade over last year's model.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In GFXBench the Zenfone Max manages a mediocre 1.8fps in the offscreen 3.0 Manhattan test, which jumps to 3.9fps in the onscreen version of the test carried out at the phone's native 720p resolution.</paragraph>
+			<paragraph>While these scores won't win any prizes, it has got to be said that the Snapdragon 410 delivers quite playable game framerates even if it doesn't allow the games to run at their highest graphics quality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, the Asus Zenfone Max will deliver decent everday performance. We did observe the occasional stutter, but not to the point of it being an issue.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook covers the basics, adds some<subsectionTitle>
+			<paragraph>The Zenfone Max uses a combined interface for the phonebook and dialer. Out of the box it's laid out across five tabs - Telephone (dialer), Favorites, Contacts, Groups and Call Guard, for managing blocked numbers.</paragraph>
+			<paragraph>You can however edit the tabs and remove ones you don't use for a less cluttered interface. You can also add another tab, dubbed VIP for those among your contacts with a special status. Out of the six possible tabs you can have up to five at a time, and Telephone and Contacts cannot be removed, for rather obvious reasons.</paragraph>
+			<paragraph>Side-swiping lets you switch between those without needing to reach for the top, welcome on a sizeable 5.5-inch device.</paragraph>
+			<paragraph>You can display all your available contacts, or limit the list to the ones in your Google account, either of your SIM cards or the phone's internal memory. You also get quick access to a specific letter from the alphabet as well as a search box with voice search capability.</paragraph>
+			<paragraph>Opening a single contact gives a quick glimpse over the available means of communication with that person. Tapping on the pencil in top right corner reveals the usual myriad of options for editing with virtually every detail getting a dedicated field.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>There's no separate call log tab, instead it's combined with the dialer, and sits underneath the num pad. That one can be easily hidden though with a tap on the icon in bottom left. The call log gives you an option to show the calls by categories or all of them together, as well as a dedicated list for the VIP calls.</paragraph>
+			<paragraph>It's a dual-SIM smartphone, and as such the Zenfone Max offers a choice of options on how to handle the two cards. Within the settings menu you can enable/disable each of the SIMs, and also assign a name for easier distinction. Obviously, you can specify which one is used for different tasks such as voice calls or data transfer. Otherwise you'll get two call buttons below the num pad.</paragraph>
+			<paragraph>The Asus Zenfone Max posted an Average score in our loudspeaker test, on par with what we got from the Zenfone Selfie.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and text input<subsectionTitle>
+			<paragraph>The generic Messaging app on the Zenfone Max offers straightforward texts with Asus's take on design, and works well. You can attach a picture or a video or a number of other items and that automatically turns it into an MMS message.</paragraph>
+			<paragraph>There's a single keyboard installed on the Zenfone Max, dubbed Asus Keyboard. It's not lacking in functionality and has a separate number row, which is handy, while still allowing for plenty of usable screen estate. Secondary symbols are also available, for quick punctuation or old-school emoticons without changing the entire layout.</paragraph>
+			<paragraph>It comes in five sizes, but Tall takes up more than half the screen and is a bit excessive. Most users will likely stick with Normal or even move the slider towards Short, which still provides adequate size.</paragraph>
+			<paragraph>It's Swype-enabled, although the solution comes from a competing company and is called Trace input, but the concept is the same. Flick input lets you change between upper and lower case simply by taping on the key and flicking it up for uppercase and down for lowercase - a nifty feature, saving you a tap on the dedicated button. Trace and Flick can't work together, though.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Feature-packed gallery<subsectionTitle>
+			<paragraph>The Asus Zenfone Max comes with a custom Gallery app. It defaults to a view of your folders and the camera roll is highlighted over the top. The Gallery also supports events and people views, plus it can display images from various cloud services including ASUS, Omlet, Facebook, OneDrive, Google Drive, Google+ and Flickr.</paragraph>
+			<paragraph>A handy collage feature is also on board, and it's pretty comprehensive, with a host of aspect ratios, templates and backgrounds. Asus has upped the maximum resolution to 2,560 x 2,560 which is now usable for a bit more than social-media sharing.</paragraph>
+			<paragraph>The available features when viewing a single image are pretty standard - set image as wallpaper/contact image, share it, delete it, enter edit mode or just get more info. You also get quick shortcuts for rotation and additional information. The integrated editor offers various effects, frames, tools (crop, mirror, straighten, rotate, fisheye, doodle) plus light adjustments that let you bring out the shadows or the highlights.</paragraph>
+			<paragraph>The Zenfone Max's video player is part of the Gallery, there isn't a dedicated app. There are no premium features or particularly striking video decoder support. Its interface is very simple, too - just a playback scrubber and a play/pause button, alongside a sharing button at the top. The most advanced feature is picking up playback from where you left off the previous time.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Capable music player<subsectionTitle>
+			<paragraph>The Asus music player does decently in terms of functionality, covering all the basics. The interface features the usual set of panes for artists, songs, and genres, music stored on various cloud services can be pulled as well, different color themes can be applied to the interface, too.</paragraph>
+			<paragraph>There's a large Now Playing window with prominent album art, and also has integrated bass boost and surround sound options, although both of those only work with headphones. An equalizer is also available with multiple presets and a single custom setting. That's in addition to the system-wide AudioWizard sound enhancement software.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio with RDS<subsectionTitle>
+			<paragraph>A useful FM radio app is available on the Zenfone Max. The search function automatically stores all available stations. It has RDS and can retrieve the stations' names. You can set up to 5 favorite stations but they are displayed with their respective frequency, instead of the names.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is loud, headphones quality could use some work<subsectionTitle>
+			<paragraph>The Asus Zenfone Max impressed us in the first part of our audio test. The handset showed nicely high volume and excellently clean output for a great showing.</paragraph>
+			<paragraph>Plugging in our standard headphones caused quite a lot of damage though. The volume dropped from very high to average, frequency response got shaky and stereo crosstalk rose notably. There was also more intermodulation distortion than usual so things were pretty mediocre overall.</paragraph>
+			<paragraph>Here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP laser autofocus primary camera<subsectionTitle>
+			<paragraph>The Zenfone Max has a 13MP camera on the back with an f/2.0 aperture lens, laser autofocus, and dual-LED dual-tone flash. By the looks of it, the setup is identical to those used on the Zenfone Laser and Zenfone Selfie.</paragraph>
+			<paragraph>The camera app has a combined interface for still and video shooting with the familiar compromise - both actions are accessible from the same screen, but you can't frame your videos before hitting record, because 4:3 coverage is rather obviously different from 16:9. Unless you're a fan of 16:9 still images, in which case you'd be fine in terms of framing, but you will be missing out on the full sensor's resolution.</paragraph>
+			<paragraph>The Settings menu offers control over white balance, ISO, exposure compensation, the lot. The list is scrollable through still, video and general options with tabs for quick access. You also have a dedicated flash settings button.</paragraph>
+			<paragraph>An array of shooting modes are available on top of the Auto Mode, including Night, Panorama and HDR. Depth of field takes two shots and combines them into a single image for a closeup with a blurred background (bokeh). Super Resolution takes multiple shots and combines them to produce a 50MP image, while Smart remove allows you to delete unwanted passersby from your photos, again based on multiple exposures.</paragraph>
+			<paragraph>The All smiles mode takes five shots and selects the one with the highest number of smiling faces in it, and Effect applies one of a number of pre-selected filters to your shot, and is visible in the viewfinder's live view.</paragraph>
+			<paragraph>There's a comprehensive Manual mode as well, which offers you control over focus distance, shutter speed (1/1000s to 1/2s range), ISO (50-800), exposure compensation (-2/+2EV range in third-stop increments), and white balance with color temperature adjustment. An on-screen level is present, and so is a live histogram.</paragraph>
+			<paragraph>Image quality is not flagship grade, but is actually really good for the price range. Detail is good, and even if there's some noise, at least the images aren't overprocessed and unnecessarily sharpened. Contrast is high, to the point where shadows may appear too dark at times. Color reproduction is on the punchier side, which is how most people prefer their photos.</paragraph>
+			<paragraph>Asus has an Optimization feature, which is on by default, but we kept it off for the above samples. For the sake of comparison, we shot the same scenes with the Optimization set to Auto. As you'll see there are virtually no visible differences in our test scenario.</paragraph>
+			<paragraph>On the other hand, switching Optimization to Manual allows you to adjust some pretty advanced stuff regarding the camera's processing algorithms such as Saturation, Contrast, Sharpness, Noise reduction, Backlight, and Detail enhancement.</paragraph>
+			<paragraph>As usual, there's an HDR mode on the Zenfone Max, and if you're in Auto and the camera determines HDR is the way to go, it will suggest enabling it, but won't intervene all by itself. The HDR mode does well to light up the shadows acting conservatively and doesn't produce over-the-top unnatural looking results. Given that the images are quite noisy and burned out in the highlights to begin with, HDR doesn't sound like a bad idea as a shooting mode to keep on by default.</paragraph>
+			<paragraph>Then there's the Panorama mode. You can shoot in both portrait and landscape orientation and the app recognizes it. The panoramas aren't the best around, but if you refrain from pixel-peeping, they'll do.</paragraph>
+			<paragraph>Shot in portrait the images are about 1,700 pixels tall, depending on how steady your hands are in keeping the sweep in the same plane. However, there's little actual resolved detail. Issues with stitching can also be observed in the sky. Areas with texture are stitched better, provided they're far enough.</paragraph>
+			<paragraph>Naturally, we shot our test posters with the Asus Zenfone Max and here's how it fared next to the Lenovo Vibe K4 Note and Xiaomi Redmi Note 3. Of course, our tool allows you to compare it against any other smartphone that we've shot with.</paragraph>
+			<paragraph>The Zenfone Max has a 5MP selfie camera with an 85-degree f/2.0 lens. According to the specsheet on Asus's web site, it should have autofocus, but in our experience it behaved very much like a fixed-focus camera.</paragraph>
+			<paragraph>Its output is rather soft, and doesn't stand up to pixel-level scrutiny. For social network applications, though, where 1:1 magnification is rare, its nice colors would be appreciated.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video recording<subsectionTitle>
+			<paragraph>The Zenfone Max can record videos up to 1080p resolution at 30fps. Oddly, in the resolution settings you have one option called "Full HD 1920 x 1080" and another one called "1080p-30fps". We looked for differences, but couldn't find any.</paragraph>
+			<paragraph>There's a time-lapse mode where you can select the frame interval from 1s to 3s in half-second increments, as well as 5 seconds. There's also a slow-mo mode, but the way Asus understands it, it is now how a slow motion video is supposed to be like - at least we don't think that slowing down a regular video to ~6fps counts as slow motion. And it was the case with the other Zenfones too, so it's not a one-off with the Max.</paragraph>
+			<paragraph>There appears to be some issue with video recording on our review unit in particular and we cannot properly assess the video quality at this point. We're working with Asus to get a new unit, and we'll be updating the article as soon as possible.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A couple of browsers<subsectionTitle>
+			<paragraph>The Asus Zenfone Max comes with an Asus browser and Google Chrome pre-installed. The Asus Browser offers much the same powerful functionality as Chrome but differs in that it offers a navigation bar at the bottom with back/forward, tab manager, new tab and a quick shortcut to add the current page to the Do-It-Later app.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The Asus Zenfone Max offers its own file managing app that allows you to easily take care of your video, picture, and document files, although there is no document viewer/editor pre-installed. The file manager can sift through your internal storage and memory card, but also sync with cloud storage like Google Drive, OneDrive and Dropbox. Batch operations are also supported.</paragraph>
+			<paragraph>Asus Mobile Manager aims to give you granular control over app behavior and battery consumption. Auto-start manager keeps a reign on pesky apps that want to start in the backgroung without your knowledge.</paragraph>
+			<paragraph>Power consumption can be optimized using the Power Saver app. You can select from four pre-defined modes with different settings for CPU performance, screen brightness and network use. There's also a customized mode where you can set these yourself.</paragraph>
+			<paragraph>The Data usage section lets you set a cap on cellular traffic, as well as restrict individual apps from internet access - really handy if you want to receive your emails for example, but don't feel like ramping up traffic from social apps. To keep yourself focused, you can disable notifications too, again on an app-by-app basis. There's also a built-in antivirus app, with a shortcut inside Mobile Manager.</paragraph>
+			<paragraph>There's a handy flashlight app with an always-on mode, three-speed strobe, and SOS pattern. Alternatively it can light up the display, but oddly not the front flash. Thanks to the laser autofocus tech, you get a precise Laser ruler, which can measure distances up to 50cm. A simple sound recorder app is also on board.</paragraph>
+			<paragraph>Do It Later is the procrastinator's dream app for chores you want to postpone for a better time without clogging your calendar.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>A typical Zenfone design, the phone may be all plastic, but the faux leather back is easy on the eye and pleasant to touch;</paragraph>
+			<paragraph>Display is very bright at the Auto setting when the situation calls for it, contrast is very good across the brightness range, and color accuracy is well above average. Sunlight legibility could have been better;</paragraph>
+			<paragraph>Exceptional battery life. The Zenfone Max puts its 5,000mAh battery to good use to post an endurance rating of 121 hours;</paragraph>
+			<paragraph>The thoroughly customized Lollipop build offers some useful features missing in stock Android. It's no Marshmallow, and by the looks of it, the Max may end up without an update;</paragraph>
+			<paragraph>The Snapdragon 410 offers decent performance in basic tasks but is no good for 3D gaming;</paragraph>
+			<paragraph>The loudspeaker falls in the Average category;</paragraph>
+			<paragraph>The audio output quality via the 3.5mm jack is very good with an external amplifier but not so much with the added resistance from headphones;</paragraph>
+			<paragraph>The 13MP primary camera seems to be the same as in the Selfie and it's quite good for the asking price. You'll like the vivid colors and high contrast, but some noise is also present;</paragraph>
+			<paragraph>The front-facing camera shoots okay 5MP selfies;</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Asus Zenfone Max doesn't make a promise it can't keep. It's a true endurance champ, thanks to a massive 5,000mAh battery and longevity-driven design and hardware choices. The Snapdragon 410 chipset is one such compromise and perhaps the spot on the Max's spec sheet that's decidedly below par.</paragraph>
+			<paragraph>Yet, it may very well be thanks to it that the Zenfone Max scored a 121-hour endurance rating, with some 20 hours of web browsing, and close to 16 hours of video playback. Qualcomm's lower midranger may not be quick, but it sure is frugal.</paragraph>
+			<paragraph>The display is 720p and it gets stretched a little too thin on a 5.5-inch diagonal, but this sort of pixel density also requires less processing and battery power. And the panel is actually very good, with excellent brightness and contrast, though it does struggle in the sun. Imaging is okay on the Max too - the cameras are not great, but they are usable and are in fact pretty good for the price.</paragraph>
+			<paragraph>First and foremost, no Zenfone Max purchase will be undisputed unless you've checked out and dismissed Asus' own lineup, perhaps a little too diverse for its own good. An Atom-powered Zenfone 2 will give you miles better performance, the Selfie has a 13MP front-facing camera with a flash, some have FullHD displays, but none is a match for endurance.</paragraph>
+			<paragraph>An obvious rival, the Xiaomi Redmi Note 3 is more powerful (by a long stretch, regardless of which version you get) and has a FullHD display, but is no match for battery life. Add the Redmi Note 3's metal build and fingerprint scanner and this becomes a bout the Max can only power its way through.</paragraph>
+			<paragraph>Lenovo has the Vibe K4 Note in the same price bracket as the Zenfone Max, give or take. The K4 Note has a FulHD display, a fingerprint sensor, and superior build, not to mention it's significantly lighter. Again, the Max has longevity on its side.</paragraph>
+			<paragraph>The Samsung Galaxy J7 is a bit more expensive than the Zenfone Max, it has an AMOLED display and, believe it or not, beats the Max at video playback times. Far from Asus' phablet in the other battery disciplines, the J7 is a better performer and multi-tasker, whether it's Snapdragon 615 or Exynos 7580 ticking inside.</paragraph>
+			<paragraph>The Zenfone Max's strengths are clear: if a big screen, long battery life, and reasonable price is where you put your priorities, you're likely to struggle finding a better offer from an established manufacturer than the Zenfone Max. If you have room to maneuver on either of those, other devices may deliver more speed and dynamic performance. In the end though, the choice between a jet fighter and a tanker aircraft is not one you make every day.</paragraph>
+		</subsection>
+	</page>
+</review>

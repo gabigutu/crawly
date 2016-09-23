@@ -1,0 +1,136 @@
+<review>
+	<title>Apple iOS 6 preview</title>
+	<description>First Look</description>
+	<link>http://www.gsmarena.com/apple_ios_6-review-772.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>As expected, Apple used the keynote of its annual WWDC event in San Francisco to announce the latest version of their iOS mobile platform. The sixth major build of the OS aims to bring the user experience to the next level with no less than 200 new features, services and UI tweaks.</paragraph>
+			<paragraph>The number is certainly huge, but then again so were the expectations of the millions of Apple fans around the globe. The fact that iOS 6 will only go official in three months' time heaps even more pressure on the latest release of the platform. By that point Android will probably have Jelly Bean to chew on, while Windows Phone will have released the multi-core friendly Apollo.</paragraph>
+			<paragraph>The iOS 6 key features include a Siri upgrade, system-wide Facebook integration and brand new Maps with turn-by-turn voice navigation. There're plenty of lesser new goodies such as achievements in the Game Center, new App store UI and the Music app, improved Safari with full-screen mode, better Mail, etc.</paragraph>
+			<paragraph>The complete changelog is coming up, but first we'll get the issue of compatibility out of the way. iOS 6 is compatible with the three latest iPhone generations (3GS, 4 and 4S), iPad 2 and 3 and the fourth-gen iPod Touch. The first iPad is not on the list, so if you are still holding on to the original Apple slate, you might finally want to consider an upgrade.</paragraph>
+			<paragraph>A few other restrictions apply, too: the iPhone 4S has finally lost its Siri exclusivity, but it's only going to share it with the iPad 3. The turn-by-turn navigation and the Flyover mode in Maps can be used only on dual-core iDevices - iPhone 4S, iPad 2 and iPad 3.</paragraph>
+			<paragraph>Now let's not waste any more time and get down to testing. We installed the beta release on an iPhone 4S, so all impressions of the OS are based on its performance. If you have an older-gen Apple smartphone your mileage may vary.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>What's new in iOS 6?<subsectionTitle>
+			<paragraph>As we already mentioned, Apple claims there are more than 200 new features in the iOS 6. We are sure the number is right, but not all of the changes are actually visible or even worth mentioning.</paragraph>
+			<paragraph>Here is what we believe to be a detailed list of all noteworthy updates brought by iOS 6:</paragraph>
+			<paragraph>A long list it certainly is, but Apple got where they are with quality, not quantity. The iOS 6 may not exactly be 200 steps in the right direction but all those novelties promise to make a difference.</paragraph>
+			<paragraph>And of course, there are plenty of features we would have liked to see on the list. It's just not in Apple's nature to respond to wishes and requests. What the company prefers to do instead is take the user experience along new paths - even ones you have never thought of.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Multilingual Siri knows more<subsectionTitle>
+			<paragraph>The first and most important news about Siri is iPad 3 support. So, it's no longer exclusive to iPhone 4S but this is not quite what iPhone 4 owners wanted to hear.</paragraph>
+			<paragraph>Siri speaks new languages too: Canadian English and French, Spanish, Italian, the varieties of German, Italian and French spoken in Switzerland, Korean, Mandarin, Cantonese. These are also supported in the satnav app.</paragraph>
+			<paragraph>Support for POI search is supposed to get wider. Assistance with restaurant booking is part of Siri's new set of skills. It will find you exactly the restaurant you are looking for and filter the results based on user reviews. You can run impressively detailed searches based on food type, location, outdoor, pool, price range, ratings, etc. This feature is not available in every country, though.</paragraph>
+			<paragraph>One of the much-touted features is Siri's new-found flair for sports. It can answer lots of questions and isn't limited to game scores. History, stats, player bios, player comparison, teams, records, etc. Siri should be able to return most of the info right onto its own screen, without switching over to the browser.</paragraph>
+			<paragraph>The same applies to movies. You will get all of your movie-related answers right inside the Siri window - anything about actors, directors, awards, movie stats, premieres and tickets, reviews, trailers, etc.</paragraph>
+			<paragraph>The other new thing Siri can do is launch apps. Yes, it does look like one of those features that should have been there from the beginning, but better late than never, right? You can also have Siri update your Facebook and Twitter.</paragraph>
+			<paragraph>Apple announced they're working with various car manufacturers - BMW, GM, Mercedes, Land Rover, Jaguar, Audi, Toyota, Chrysler, Honda and others - to integrate Siri tightly with the car's audio systems.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Facebook integration comes a year too late<subsectionTitle>
+			<paragraph>When the iOS 5 was about to launch many people were hoping for Facebook integration. Instead Apple gave us Twitter.</paragraph>
+			<paragraph>A year later, Facebook is tightly integrated with the iOS. It even goes deeper than Twitter did in iOS 5.</paragraph>
+			<paragraph>We already pointed out that Siri can do your status updates for you. There are dedicated shortcuts for Facebook and Twitter updates in the Notification center as well.</paragraph>
+			<paragraph>This is just the beginning though. Just like in Android you can sync your Facebook contacts with the phonebook. If you do, the system will search email and phone numbers, so it can link your contacts with their Facebook profiles.</paragraph>
+			<paragraph>Upon a successful Facebook link, the contact's picture, addresses, important dates, emails, phone numbers and websites will be updated. You will also get a new Facebook field with a shortcut to the contact's Facebook profile. It will load in the Safari browser, not the dedicated Facebook app.</paragraph>
+			<paragraph>Unfortunately, the Facebook albums and feeds do not appear in the phonebook. All Facebook events will appear in the Calendar though.</paragraph>
+			<paragraph>You can share photos on Facebook right inside the Photo app. Addresses can be shared as well upon a drop of a pin in Maps.</paragraph>
+			<paragraph>Facebook integration extends to the App Store and the iTunes Store. Whenever you tap on an app, song, movie, TV show, etc. you'll get into the new store UI where there are three tabs - info, reviews and related. In review you can Like the app/song/?/movie on Facebook and write or read Facebook reviews.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>New Maps - TomTom takes over from Google<subsectionTitle>
+			<paragraph>Apple has finally done it. TomTom replaces Google as their supplier of maps and the entire Maps app has been redesigned.</paragraph>
+			<paragraph>An assortment of sat-nav apps has long been available in the app store (for a fee), with no other than TomTom having a prominent place on the list. They now supply the maps for Apple's own service, which comes with turn-by-turn voice guidance, real-time traffic updates, local search, Yelp reviews and the impressive Flyover 3D views.</paragraph>
+			<paragraph>The navigation will work even on the lockscreen or behind another app. Real-time traffic reports are available and Apple is also sourcing the live traffic info anonymously from iOS users on the road.</paragraph>
+			<paragraph>The 3D Flyover mode is a great bonus for your viewing pleasure. When you enable the 3D view (outside navigation) you will be able to explore cityscapes from birds-eye view. The currently available selection is extremely limited, but hopefully more areas will be added later on. You can zoom, tilt and rotate using two-finger gestures to explore 3D landmarks rendered in real time.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>PassBook<subsectionTitle>
+			<paragraph>The PassBook is a new e-ticket app that handles all kinds of electronic tickets (including boarding passes), loyalty cards, coupons, etc.</paragraph>
+			<paragraph>The location-aware app makes the right coupon available in the right place and at the right time. The PassBook will report the balance on coupons and cards, let you check your ticket seats and can even show you relevant notifications (e.g. gate or terminal change for a flight).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Updated Safari browser<subsectionTitle>
+			<paragraph>Apple has done some work on the Safari browser too. It is now faster than it was on the iOS 5 - you can see in the benchmark scores below.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTML5test.com<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>A cool new feature is the full-screen view - it has a dedicated button on the taskbar and works only in landscape mode.</paragraph>
+			<paragraph>iCloud tab syncing is enabled, along with offline reading. Finally, the new Safari allows access to your multimedia content without exiting the browser.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Shared Photo Streams<subsectionTitle>
+			<paragraph>Apple is creating a sub-social network for pictures right inside the Photo app. You will be able to choose what pictures to share and which people to share with. Your buddies on the receiving end will be able to like them and post comments.</paragraph>
+			<paragraph> The official Shared Photo Streams picture</paragraph>
+			<paragraph>The Shared Photo Stream is obviously not enabled yet, as we couldn't get it to work on our iPhone 4S.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>VIP contacts and Flagged emails<subsectionTitle>
+			<paragraph>The Mail app got a few new tricks as well. You can set a VIP list, and emails from people on the list will be delivered to a dedicated VIP mailbox and will appear highlighted in the regular inbox. You can also set a different notification regime for VIP emails - so they appear on the lockscreen, for example.</paragraph>
+			<paragraph>You can also flag important emails. After you flag your first message, a new Flagged mailbox will appear gathering all of your flagged emails.</paragraph>
+			<paragraph>If you use multiple email accounts, with the iOS 6 you can have different mail signatures for each of them.</paragraph>
+			<paragraph>The update button is now gone and there's pull to refresh instead. Also a new features is you can insert pictures or videos while composing an email - just tap and hold on an empty space and use the popup menu.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The iPhone Phone app gets better<subsectionTitle>
+			<paragraph>The Phone app has had a few tweaks and touches too. The dialpad itself looks different, though it brings nothing new.</paragraph>
+			<paragraph>A new (tell that to any Nokia from 2005 or thereabout) feature is Reject call with SMS. Alternatively, you can set a reminder to call back. Better late than never, we guess.</paragraph>
+			<paragraph>The new Do Not Disturb mode will silence all incoming texts and calls. When activated, a small crescent moon icon will appear on the status bar next to the clock.</paragraph>
+			<paragraph>You can configure the DND mode from the Notifications screen in Settings. It can be scheduled (i.e. between 10PM - 7AM) or activated manually. The DND will silence every call except from callers you've specifically excluded from the list.</paragraph>
+			<paragraph>Another neat option of the DND mode is Repeated calls. When turned on, a second call from the same contact made within less than three minutes from the first one will not be silenced, as it may be an emergency .</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FaceTime now works over 3G<subsectionTitle>
+			<paragraph>The iOS 6 finally allows the FaceTime to work over cellular networks, not just Wi-Fi. About time!</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The unified FaceTime/iMessages ID lets you receive calls on an iPad using your phone number.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Updated Stores and system apps, new icons, better Settings<subsectionTitle>
+			<paragraph>With iOS 6 Apple has updated the App Store and iTunes Store and content handling. Both stores have different Featured pages with scrollable rows rather than lists. The paintjob was changed too.</paragraph>
+			<paragraph>In addition to the added eye-candy the App Store now has a slightly different manner of operation. First you won't be prompted to enter your password when you just update apps. Second, you can see the change log in the Updates screen without actually opening the info screen.</paragraph>
+			<paragraph>Finally, after you buy or update apps you will no longer be kicked back to the homescreen - you can continue browsing the store. You can launch apps you've already installed from within the store too.</paragraph>
+			<paragraph>The Game Center is another part of iOS to get Facebook integration and it also now supports challenges. Those can be given to you from a friend or a game and you will earn an achievement if you beat it.</paragraph>
+			<paragraph>The Weather app and Music player have undergone slight redesigns, too, but their functionality has remained unchanged.</paragraph>
+			<paragraph>Another change is that the Camera UI is now black&gt; We also like the changed in the iPhone settings menu. The brightness setting is now in the wallpaper screen, while the Bluetooth toggle has been promoted and now sits right next to the Wi-Fi toggle - now that's a life-saver.</paragraph>
+			<paragraph>Also, if you turn on the auto brightness, your iDevice will be in full control of the brightness and will move the slider above the toggle to show the currently selected setting. This means that you can now see exactly how bright the screen is, but you are unable to fine-tune the auto mode like you could in the previous iOS versions.</paragraph>
+			<paragraph>The Settings and Clock apps have updated icons, too. And mentioning the Clock app, you must know that now you can access the iPod music library and assign any song as an alarm tone. Finally!</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Lost Mode and Guided Access<subsectionTitle>
+			<paragraph>The last two features we are going to mention are the Guided Access and the Lost Mode.</paragraph>
+			<paragraph>The Guided Access locks the iDevice to work with a single app only. It cannot be closed unless Guided Access is disabled. While active - all hardware controls are disabled - lock, home, volume and switch. When configured, you launch an app, then triple-tap the Home key, enter the password and done - the iGadget is now locked on to this specific app until you triple-tap the home key again and enter the right password.</paragraph>
+			<paragraph>This means that the Guided access could work quite well as as kid or test mode. It will allow you to give your iDevice to your kid without being worried that it will access inappropriate content or mess up your settings and apps.</paragraph>
+			<paragraph>The Lost Mode is part of the former Find My iPhone service. If you lose your gadget, you can lock (but not wipe) it remotely and send a message with your contact (and reward) information.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>The iOS 6 brings plenty of stuff and most of the new features are well implemented. There might not really be 200 things to cheer about, but there's enough to make a difference, giving a new lease of life to every iDevice that gets it.</paragraph>
+			<paragraph>The highlight feature is of course Maps. It's what Notifications was to iOS 5. Come to think of it, the two major novelties in iOS in two consecutive years are things the competition has already had for a while. The voice navigation is certainly a nice boost though, and the Siri integration might take the personal navigator experience to a whole new level.</paragraph>
+			<paragraph>Then again, maybe iOS 6 was never expected to win new customers from the competition. Maybe that is a task reserved for the upcoming iPhone 5 (or probably just new iPhone) which will debut alongside the platform, and iOS 6 was all about improving the user experience for those already in the Apple camp.</paragraph>
+			<paragraph>It certainly looks so and we are tempted to congratulate Apple on a job well done. This is a beta release of the iOS 6 for developers with the official release expected this fall. Delivering a few new tweaks and a few major additions is the typical Apple approach to software upgrade. It's not like they overpromised and under-delivered. Not at all actually. But their upcoming hardware is the real news we're all waiting for.</paragraph>
+		</subsection>
+	</page>
+</review>

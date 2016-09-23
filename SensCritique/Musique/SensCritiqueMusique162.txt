@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Future Present Past (EP)</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Future_Present_Past_EP/21447194</link>
+	<generalScore>6.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>13</numberOfVoters>
+		<numberOfVoters>23</numberOfVoters>
+		<numberOfVoters>63</numberOfVoters>
+		<numberOfVoters>99</numberOfVoters>
+		<numberOfVoters>48</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Les Strokes font la musique qu'ils veulent !</title>
+		<author>oyomastaz</author>
+		<date>2016-06-15</date>
+		<score>0.8</score>
+		<content>Je ne vais aps m'étendre sur un EP, après tout ce ne sont que 3 chansons + un remix. Mais comme le suggère le titre plutôt évident de l'EP, on a droit à une Drag Queen, dont le son est entre Comedown Machine et Julian Casablancas + the Voidz (derniers albums), Un Oblivius dont le style se rapproche bien plus de l'époque First Impression Of Earth (3ème album), et enfin Threat of Joy, on nage carrément dans Is this it et leur débuts. Et pour qui a suivi les Strokes et aimé leur parcours, chaque morceaux est un vrai kif. Et si vous avez été des intégriste de l'une ou l'autre des époques et êtes resté coincés dedans, il y a des chances que vous aimiez le morceau correspondant et pas les autres. Et je pense que tout ça veut dire : "Non, on a pas fait d'erreurs en faisant Comedown Machine, ou Angles, ou quelque soit la phase que vous n'avez pas aimé de notre carrière. On fait la musique qu'on a envie de faire parce que c'est comme ça qu'on prend du plaisir. Voici notre dernier cadeau aux différents fan de chaque époque, ceux qui nous détestent maintenant comme ceux qui nous aiment toujours, avant que l'on sorte un prochain album qui de toutes façons vous divisera encore. Ça ne servira à rien de dire Les Strokes sont morts depuis leur (insérez un numéro) album, laissez ceux qui veulent aimer le faire et foutez-nous la paix avec vos jugements à 2 balles." En tant que fan boy, je ne suis probablement pas le plus objectif possible (sincèrement je ne peux même pas dire avoir été déçu par un de leurs albums, je les réécoute tous régulièrement et j'aurais bien du mal à en choisir un seul si je devais), mais j'ai vraiment hâte d'écouter la suite, je sais que je serais surpris et ce sera tant mieux !</content>
+	</review>
+</sensCritiqueEntity>

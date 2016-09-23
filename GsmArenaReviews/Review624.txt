@@ -1,0 +1,171 @@
+<review>
+	<title>Sony Xperia Z3+ preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/sony_xperia_z3_plus-review-1257.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.2" IPS LCD, 1080 x 1920 pixels, 424ppi</paragraph>
+			<paragraph>Android 5.0 Lollipop with Xperia UI on top</paragraph>
+			<paragraph>IP68 certified - dust and water proof up to 1.5 meter and 30 minutes</paragraph>
+			<paragraph>Qualcomm Snapdragon 810 chipset with dual quad-core processor: 2 GHz quad-core Cortex-A57 plus 1.5 GHz quad-core Cortex-A53 processor, Adreno 430 GPU, 3GB of RAM</paragraph>
+			<paragraph>20.7MP camera, LED flash, 2160p video recording, dedicated hardware shutter key</paragraph>
+			<paragraph>5.1MP front-facing camera with 1080p video recording (along with Superior Auto and Video stabilization)</paragraph>
+			<paragraph>32GB of built-in storage, expandable via the microSD card slot</paragraph>
+			<paragraph>Cat. 6 LTE (up to 300Mbps); Wi-Fi 802.11 a/b/g/n/ac; Wi-Fi Direct; Bluetooth 4.1 with apt-X and Sony LDAC wireless HighRes Audio codec, GPS/GLONASS/Beidou receiver, Stereo FM with RDS; USB On-The-Go</paragraph>
+			<paragraph>Active noise cancellation with a secondary microphone</paragraph>
+			<paragraph>Digital noise cancellation available with certain Sony headsets</paragraph>
+			<paragraph>Front-facing stereo speakers</paragraph>
+			<paragraph>2,930mAh battery; STAMINA Power Saving Mode</paragraph>
+			<paragraph>Stylish dual glass-panel design</paragraph>
+			<paragraph>Qualcomm Quick charge certified</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non user-replaceable battery</paragraph>
+			<paragraph>No wireless charging</paragraph>
+			<paragraph>Qualcomm Quick charger not included in the retail package</paragraph>
+			<paragraph>Screen has the same specs third generation in a row, when rivals have mostly moved to 1440p</paragraph>
+			<paragraph>Battery downgrade hardly justified</paragraph>
+			<paragraph>Expected retail pricing is too steep</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Sony Xperia Z3+ was only recently announced and we're happy it made it to our testing grounds so quickly. While we're already busy working on a full review, we decided to give you an early taste of what it's like.</paragraph>
+			<paragraph>With all the other major players in the industry already having their flagships on store shelves, and some for quite a while too, it was Sony's turn to take the floor and announce the successor to the Xperia Z3.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The company released its pioneer top-end device, the Xperia Z, back in January 2013 and since then it's been the only company to put out two flagships a year, one in the spring and another in the fall. That strategy has proven two-fold.</paragraph>
+			<paragraph>While it has meant that the Japanese have had a hot new device to fight with Asian archrivals in the spring and Apple in the fall, Sony has also garnered criticism due to the only marginal updates that such a short update cycle inevitably dictates.</paragraph>
+			<paragraph>That brings to us the Sony Xperia Z3+, and as the name suggests, it's only sort of an update to the previous model, even by the company's own standards. So much so, that it didn't deserve a bump in the numeral and only got a "plus".</paragraph>
+			<paragraph>That "plus" has brought us the Qualcomm Snapdragon 810 chipset with faster Cat. 6 LTE and 32GB storage capacity as the only option, as opposed to the 16GB/32GB of the previous-gen. A 5.1MP front camera means the new model won't be out of touch with current selfie trends, a battery capacity decrease has brought the 3,100mAh to 2,930mAh. The phone compensates for that with less weight and an ever so slightly thinner profile. The otherwise the same looking screen should come even brighter now.</paragraph>
+			<paragraph>A few design tweaks have seen the charging pogo pins and the cover of the USB port go, but the headline IP68 hasn't been sacrificed.</paragraph>
+			<paragraph>Even though on the outside the Xperia Z3+ hasn't changed significantly, the update still managed to excite us enough to take the device for a spin. Consider this preview as a first taste of what's about to go down in the full review.</paragraph>
+			<paragraph>Join us on the next page, where we'll go into more detail on the hardware.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Body and design<subsectionTitle>
+			<paragraph>The Sony Xperia Z3+ measures 146 x 72 x 6.9 mm, which is exactly the same footprint as the Xperia Z3. Fractions of a millimeter have been trimmed off the thickness, 0.4mm to be precise. Sony is really proud it has achieved that without resulting in a protruding camera lens and indeed that's something. Both the iPhone 6 (6.9mm) and the Galaxy S6 (6.8mm) have one.</paragraph>
+			<paragraph>The difference in thickness between the Z3 and the Z3+ however is not readily noticeable in real life but we're sure it's there for the marketing department to peruse.</paragraph>
+			<paragraph>What is more tangible in practice is the decrease in weight. At 144g the new handset truly feels lighter than the Z3, more so than the 8g of difference would suggest.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If you've ever spent time with a Sony Z-series smartphone in the past two and a half years, you know the basics of its design language, which the company calls Omnibalance. A rectangular two-sided glass slab encapsulated in a metal frame makes for a premium styling which feels equally nice to look at and handle.</paragraph>
+			<paragraph>Sony has gone with a slightly different frame material this time around. While it's still matte, it has a bit more shine to it. The bumper corners are still present and whether or not they provide additional protection in case of drops, they still hurt the overall appearance.</paragraph>
+			<paragraph>What is perhaps the most welcome design feature is the capless microUSB port. Apparently the IP68 certification for dust and water ingress could be attained without the hideous flap, which brought hassle to every charging session.</paragraph>
+			<paragraph>The workaround to that issue used to be the magnetic dock which attached to the left side of the device and delivered power via a pair of pogo pins. Well, with the easy-to-access microUSB port, those have now been deemed unnecessary and the result is a much more refined overall look with less distractions on the frame.</paragraph>
+			<paragraph>There is a downside to the new arrangement, but it will hopefully affect a small percentage of prospective users. The thing is, with the omission of the pogo pins having the Xperia Z3+ on a dock in landscape orientation is no longer possible. A new dock will be sold optionally, which positions the Z3+ in portrait mode and plugs into the microUSB port. As you could guess, that tends to block the bottom speaker.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The speakers themselves mark a return to the Xperia Z2 in terms of placement. The relocation to the edges of the front means they are less obtrusive than on the Z3 and the front is now back to a solid glass panel with no cutouts.</paragraph>
+			<paragraph>Sony is keen to point out that their camera lens sits flush with the back despite the decrease in thickness, unlike pretty much every major competitor. An interesting detail is that now the lens is part of the glass panel, while the single-LED flash sits in a cutout, exactly the opposite solution to the previous model.</paragraph>
+			<paragraph>Looking at the back alone, you'd have to be a true Sony connoisseur to tell the Xperia Z3+ apart from the older models. We do have a Z3 for direct comparison so we admit that made our job much easier.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The controls of the Xperia Z3+ are located on the right side of the device. The aluminum circular power button, a highlight of the OmniBalance aesthetic, is joined by the volume rocker in the middle third of the side, while the dedicated two-stage shutter release button is in its natural position towards the bottom.</paragraph>
+			<paragraph>What used to be two separate slots on the right for microSD and nanoSIM cards, hidden behind a long 33mm flap on the right, has become a single slot on the left, where the microUSB used to be.</paragraph>
+			<paragraph>Behind the single flap on the Z3+ there's a thin plastic tray which can hold the nanoSIM together with a microSD card.</paragraph>
+			<paragraph>On the top of the phone you'll find the standard 3.5mm headphone jack in the same position as it was in the predecessor. For little apparent reason other than to move things around a bit, the secondary microphone has abandoned the 3.5mm jack and is now on the other end of the top plate.</paragraph>
+			<paragraph>What used to be a bare bottom plate is now home to the microUSB port in the middle and a lanyard eyelet towards the corner, an increasingly rare sight these days.</paragraph>
+			<paragraph>A fairly standard arrangement on the front sees the 5MP camera and sensor cluster on either side of the Sony logo, mirrored compared to the previous three generations, and back to the roots of the original Xperia Z.</paragraph>
+			<paragraph>The 20.7MP camera is in the top left corner on the back, where it has been since the Z1, and so is the single-LED flash.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Sony Xperia Z3+ is equipped with a 5.2-inch 1080p IPS display, which has the same specs as the one used in the Z3 but it's reportedly brighter. We'll leave detailed testing for later, but its sounds impressive on paper as the display in the Xperia Z3 already had excellent brightness and contrast scores.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android 5.0 with a touch of Xperia UI<subsectionTitle>
+			<paragraph>The Sony Xperia Z3+ boots Android 5.0 Lollipop out of the box. Sony typically adds little customizations to Google's OS, and that's the case on the Xperia Z3+ as well. The interface is consistent with previous generations and models across the company's lineup which provides simple transition when upgrading or switching devices.</paragraph>
+			<paragraph>The lockscreen is dominated by a clock widget, for which you get a choice of three clock faces. The lockscreen notifications, introduced with Lollipop, are below the clock. On the bottom you have shortcuts for quick access to the camera and dialer.</paragraph>
+			<paragraph>Past the lockscreen you're greeted by the standard Android homescreen with a five-icon dock, app shortcuts and widgets. The middle icon in the dock takes you to the app drawer where your apps can be arranged alphabetically, by most used or by most recently installed. Across the interface Sony relies heavily on the menu pane evoked with an inward swipe from the left edge.</paragraph>
+			<paragraph>The notification shade is the stock Lollipop flavor with a two-stage pull down, notifications in the first, and quick toggles in the second.</paragraph>
+			<paragraph>The task switcher is your familiar Sony take on the matter. It uses the Lollipop rolodex for sifting through the running apps and a Kill all button saves you countless swipes. Sony's small apps provide a sort-of multi-window experience though the number of apps is limited and the implementation could use some polishing.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The Xperia Z3+ comes with the usual setup of two browsers, a skinned stock app and Google Chrome.</paragraph>
+			<paragraph>Sony bundles its Xperias with proprietary multimedia apps and the Z3+ comes with Album, Movies and Music for the respective tasks.</paragraph>
+			<paragraph>Album is the gallery app and organizes images into groups of thumbnails and sorts them by date. You can change the thumbnails size by pinching. The navigation drawer in the left lets you select which albums to display and the app can pull images from your online albums, as well as other devices on the network.</paragraph>
+			<paragraph>Movies is the video player of the bunch and it also relies on a custom interface. The Gracenote integration helps you find additional information on the video you're watching. There's extensive subtitle support too.</paragraph>
+			<paragraph>Music is the audio playing app which carries the Walkman heritage. The interface is based on tiles that sort your music collection by Artist, Albums, Playlists, all songs and even the songs your friends are listening to (but you need to link your Facebook account).</paragraph>
+			<paragraph>The Xperia Z3+ packs an FM radio receiver with a nice interface, automatic station search and multi region support, but oddly, no RDS. Track ID works straight from the radio app, recognizes the track you're listening to and pulls info on the artist.</paragraph>
+			<paragraph>Sony provides a rather comprehensive activity tracker app, named Lifelog. It monitors a host of daily activities, including walking, running and sleeping, but also the music you listen and the photos you take. It then presents the info in a splitscreen view with a timeline on top and detailed numbers on the bottom.</paragraph>
+			<paragraph>Power management is not a standalone app, but is part of the settings menu. From there you can enable various stages of Stamina mode to extend battery life if need be. Sony promises a two-day battery life, but that's probably without resorting to Stamina mode, we'll need to wait for a production unit to test battery autonomy.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Sony Xperia Z3+ is powered by the Snapdragon 810 chipset with an octa-core processor, Adreno 430 GPU and 3GB of RAM.</paragraph>
+			<paragraph>Having a pre-production model with us, we only ran part of the typical benchmarks, just to get a glimpse of the device's performance. Mind you, the test results of the final devices that will ship to actual buyers, may perform differently.</paragraph>
+			<paragraph>First off, it's the CPU-centric GeekBench test, where the Xperia Z3+ scores virtually identical to the S810-equipped LG G Flex2, and inches ahead of the S808 LG G4. Another S810 device, the HTC One M9 is marginally better, but none gets close to the Exynos 7420 monster inside the Samsung Galaxy S6.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The compound Antutu benchmarks which throws memory and storage performance alongside processor power puts the Xperia Z3+ ahead of the Snapdragon 810 crop, though the Galaxy S6 is in a league of its own.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II 2.0 proves less favorable on the Xperia Z3+ and in overall results the Sony device trails both the S808 G4 and the S810 G Flex2. The One M9 posts an even lower score though, if that's any consolation.</paragraph>
+			<paragraph>The CPU result from the benchmark reveal the culprit for the low total score, and in this respect the Xperia Z3+ takes the last spot, a long distance behind even the LG G4 with its supposedly inferior chipset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We ran the Basemark X benchmark to test the graphics performance of the Xperia Z3+ and it did well, though not exceptionally. While it is better than the rest of the S810 smartphones, Sony's own Xperia Z4 Tablet (also a pre-production unit), posts a somewhat better score, though it has to deal with twice as much pixels.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Overall, the performance of the Sony Xperia Z3+ is in line with what's to be expected from its hardware. It is on par with the rest of the Snapdragon 810 smartphones, occasionally pulling ahead of them. It's no match for the Galaxy S6, and that shouldn't surprise anyone by now.</paragraph>
+			<paragraph>However, we need to reiterate, that we ran the benchmarks on a pre-production unit, so those results may change by the time the software is finalized.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera interface and samples<subsectionTitle>
+			<paragraph>The Sony Xperia Z3+ comes with the same 20.7MP camera, that's become synonymous with the Z-series flagship. The lens has an f2.0 aperture and ISO can be pumped all the way up to 12800. It shoots at a maximum resolution of 5248 x 3936 pixels (20.7MP) in manual mode, or 3264 x 2448 (8MP) in Superior Auto. An LED flash is present to help you with some low-light photos.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia Z3+ also has a two stage hardware shutter key, that you can set up to unlock the phone and start the camera. It can also snap a photo or start capturing video immediately. The hardware shutter key is especially handy for underwater shooting, as on-screen controls tend to not respond well in those situations.</paragraph>
+			<paragraph>The camera interface is laid across two panes and is shared with the camcorder - you can snap a photo or shoot a video without changing modes most of the time. Depending on the shooting mode selected, the video shutter key may be replaced by a still/video mode toggle.</paragraph>
+			<paragraph>The pre-production unit we have with us is not running final software, so while we did shoot some of our usual test shots, we won't pass judgement until a retail device comes our way.</paragraph>
+			<paragraph>We kick off with camera samples, shot with the Xperia Z3+ in manual mode.</paragraph>
+			<paragraph>The Superior auto mode takes more of the shooting parameters in its own hands and limits resolution to 8MP.</paragraph>
+			<paragraph>We had an Xperia Z3 at our disposal and shot a few images for comparison.</paragraph>
+			<paragraph>The Xperia Z3+ has an HDR setting, and not a separate mode. It is only available in Manual mode, and in resolution up to 8MP.</paragraph>
+			<paragraph>The 5MP front camera shoots images up to 2,592 x 1,944 pixels in resolution and our office mouse posed for a sample.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The camcorder on the Xperia Z3+ shoots videos up to 2160p@30fps, but time constraints meant we only shot a standard issue 1080p@30fps sample, which you you can watch below.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>In the brief time we've had with the Xperia Z3+, we couldn't do all that much with it in terms of our usual testing procedure. Add to that the simple fact that, as a preproduction unit, the one we have in our hands is not fully representative of the final commercially available devices, and a lot of questions remain unanswered.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>One thing's certain though, design and styling won't change from now on, and we appreciate Sony's efforts in polishing an already proven formula. The all-glass front and back, combined with the newly adopted materials in the frame give that extra feel of sophistication few other devices on the market possess. And the new capless microUSB port really takes the hassle out of daily charging.</paragraph>
+			<paragraph>The display remains the same size and resolution for yet another generation. Even if Sony's claim for improved brightness gets proven in our lab tests, we can't help but wonder if the Xperia Z3+ won't look dated in a market getting more and more crowded with QHD screens.</paragraph>
+			<paragraph>That should at least help the smartphone achieve the promised 2-day battery life - Sony insists that despite the new hardware and decreased battery capacity, you should be able to charge your phone only every other day. This leaves another aspect of the Xperia Z3+ performance that will remain a mystery until we get to properly test a production unit.</paragraph>
+			<paragraph>We've never been ones to complain about a light Android overlay, and Sony's Xperia UI is just one such example. Finally based on Lollipop, the interface retains the stock OS simplicity, while adding a touch or two where Sony deemed necessary. The multimedia apps are the company's strong suit and it doesn't disappoint, while Stamina modes offer extensive power saving features.</paragraph>
+			<paragraph>A lot has been written about the Snapdragon 810 chipset and initial worries ended up mostly true. To combat overheating issues, manufacturers have been forced to resort to downclocking aggressively the CPU and that shows in benchmarks, though we're yet to complain about real-life performance. Again though, don't take the results mentioned on the previous pages as final, because they are based on a pre-production sample.</paragraph>
+			<paragraph>At launch the Sony Xperia Z3+ won't come cheap with a pricetag of ?680-?700. Obviously, prices are region-dependent and carrier subsidies could offset a portion of that sum, but if you are after a commitment free device, this sort of pricing might prove a bit hard to swallow given the modest upgrades over the Z3.</paragraph>
+			<paragraph>We'll have a more detailed coverage of what it's like to use the Xperia Z3+ in our usual detailed manner later next week. Stay tuned!</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,379 @@
+<review>
+	<title>Google Nexus 10 review</title>
+	<description>Perfect ten</description>
+	<link>http://www.gsmarena.com/google_nexus_10-review-861.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>10.1" 16M-color Super PLS TFT capacitive touchscreen of WQXGA resolution (2560 x 1600 pixels), 300ppi density</paragraph>
+			<paragraph>Scratch-resistant Corning Gorilla Glass 2</paragraph>
+			<paragraph>Exynos 5250 chipset: dual-core 1.7 GHz ARM Cortex-A15 processor, Mali-T604 GPU, 2GB of RAM</paragraph>
+			<paragraph>Android 4.2 Jelly Bean</paragraph>
+			<paragraph>16/32 GB of built-in memory</paragraph>
+			<paragraph>5 megapixel camera with LED flash</paragraph>
+			<paragraph>1.9 MP front-facing camera</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g/n Wi-Fi Direct, Wi-Fi hotspot</paragraph>
+			<paragraph>Front-mounted stereo speakers</paragraph>
+			<paragraph>Standard USB port</paragraph>
+			<paragraph>microHDMI port</paragraph>
+			<paragraph>Bluetooth</paragraph>
+			<paragraph>3.5 mm audio jack</paragraph>
+			<paragraph>GPS with A-GPS support; GLONASS support; digital compass</paragraph>
+			<paragraph>NFC and Android Beam support</paragraph>
+			<paragraph>Accelerometer and proximity sensor, gyroscope sensor, barometer</paragraph>
+			<paragraph>9000 mAh Li-Po battery</paragraph>
+			<paragraph>Multi-user access</paragraph>
+			<paragraph>Attractively priced</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non-expandable memory</paragraph>
+			<paragraph>No USB host (can be enabled with an app though)</paragraph>
+			<paragraph>No mobile data-enabled version</paragraph>
+			<paragraph>Poor video-codec support out of the box</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Android took the smartphone market by a storm, going from a nobody to the one to beat in just a couple of years, but tablets proved a tougher nut to crack. Google and partners have only recently started finding their pace and giving the dominating iPad a real challenge.</paragraph>
+			<paragraph>It took nearly two years since the first iPad was released, for Android to have its first real shot at victory. The properly powered and aggressively priced Nexus 7 shook Apple out of their complacency and forced them to bring the game into the Android half.</paragraph>
+			<paragraph>Now, that was an invitation for Google to launch a counterattack on the big iPad, which has always been its main target. Emerging in recent years as the MVP in the Android team, Samsung is the partner of choice in what looks like a match Google is hell-bent on winning.</paragraph>
+			<paragraph>Enter the Google Nexus 10 - the Android tablet to rule them all. A brand new chipset and a Retina-killer of a screen are a great start, while the most feature-rich operating system on the market should help seal the deal. Not to mention that the Nexus 10 helps you save a pretty penny, undercutting the main rival by a good 20%.</paragraph>
+			<paragraph>Apple would go on and on about all those Retina-optimized tablet-friendly apps, but numbers can be deceptive. It looks nearly impossible for any slate on the market to match the functionality the Nexus 10 is offering right out of the box.</paragraph>
+			<paragraph>When it gets to that, the Nexus 10 should have a far easier time winning its own Android league than the Nexus 4. Custom launchers make quite a bit of difference on phones, where stock Android falls somewhat short in terms of small but useful add-ons.</paragraph>
+			<paragraph>On tablets, the differences are not as meaningful. And by the way, some neat features of Android 4.2 Jelly Bean are exclusive to tablets, which is clearly a point in the Nexus 10's favor. Lock screen widgets and multi-user access make lots of sense on a tablet and it was about time they were implemented.</paragraph>
+			<paragraph>Sounds like we can get busy reviewing the big Google tablet then. We start with the unboxing as usual, and that Retina-beating screen is coming up.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The usual modest retail package<subsectionTitle>
+			<paragraph>The Google Nexus 10 might be one badass tablet, but its retail box is nothing out of the usual. With tablets making far less profit per unit than smartphones, manufactures try to save as much as possible on accessories, so it would be foolish to expect a Nexus 10 selling at break-even to offer anything but the basics.</paragraph>
+			<paragraph>All you get with the Google Nexus 10 inside the rectangular box is the A/C adapter and a microUSB cable. The slate has a standard USB port, but you might want to keep that charger at hand (or at least get another high-powered one), as regular smartphone chargers take forever to fill the huge battery up.</paragraph>
+			<paragraph>We also got to play with the optional cover than you can purchase separately for your Google Nexus 10. It has a rather unorthodox way of attaching to the slate - you remove the plastic bit around the camera on the back and insert it in its place. The original plastic piece is rather thin and feels very fragile. Several changes didn't do any damage but we suggest you take extra care with this one (if you are planning to get the cover in the first place, of course).</paragraph>
+			<paragraph>The cover automatically turns the display off when closed and wakes the tablet up when opened. The cover is cut out at the top to not get in the way of the camera lens when folded around back, and the stereo speakers aren't overlapped in case you want to use the Nexus 10 as a portable speaker. The cover cannot be used as a kickstand though, which is a bit of a nuisance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Google Nexus 10 measures 263.9 x 177.6 x 8.9 mm, which is about right for a 10.1" tablet with a 16:10 screen. The bezels appear rather wide on those press images, but the truth is that the Nexus 10 has a smaller footprint than both the Samsung Galaxy Note 10.1 and the Asus Transformer Infinity Pad. The 603g is pretty much standard for the Android camp and a good 59g lighter than the iPad.</paragraph>
+			<paragraph>We are quite pleased with the design, although clearly the Nexus 10 doesn't set out to impress with fit and finish. Our review unit looks nice in black and handles superbly. The rounded corners are more practical than the iPad's sharp edges and the matte plastic is a very sensible choice of finish. Even the two different plastic pieces at the back look far nicer together than we expected.</paragraph>
+			<paragraph>And while we are perfectly happy with the Nexus 10's looks, the build quality isn't exactly standard-setting. The backside doesn't feel perfectly solid and slightly gives in when pressed at the center. It's not bad enough to make the tablet feel cheap, but it's nowhere near the solid metal feel of the iPad either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The 10.1" Super PLS TFT display with a resolution of 2560x1600 pixels is the Nexus 10 crowning feature. Google claim it is the first tablet screen to reach the 300 ppi mark (though our math says 299ppi) and, as you would expect, it's stunningly sharp. We have seen far better in phones, of course, but it's a first for tablets.</paragraph>
+			<paragraph>Keep in mind though, that the pixel density advantage that the Nexus 10 holds over the Retina iPad is not too easy to spot. Even if know what to look for, the difference in major real-life scenarios varies from minor to negligible.</paragraph>
+			<paragraph>Part of the problem is that neither Android nor iOS knows very well what to do with that kind of pixel density and, more often than not, won't let you zoom out to the point where text would be illegible on lower res-screens but still good on such high-res unit. It's only stuff like document editing, 3D gaming and picture browsing that can take proper advantage of the Nexus 10's screen resolution.</paragraph>
+			<paragraph>What is a bit easier to spot is the excellent image quality that the Nexus 10 high-res display has. Its colors are vibrant and punchy and, while the blacks aren't too deep, the contrast is pretty good, particularly for a tablet. The viewing angles are the best of any tablet we have reviewed to date, but again this is an area where slates need to catch up with phones. Had this been a smartphone screen, it would have only been average.</paragraph>
+			<paragraph>And here is a snapshot of the display's matrix.</paragraph>
+			<paragraph>  Google Nexus 10 and Apple iPad 4 display matrices compared</paragraph>
+			<paragraph>Overall, the Nexus 10's screen is the best to have on a tablet to date and should really help the Google slate on its mission. We'll see how the new GPU handles the increased strain in a minute, but the 10-inch Nexus passed the first important test with flying colors.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Google Nexus 10 has no hardware controls at the front - it doesn't need any with Android Jelly Bean inside. All you get here is the 1.9MP front camera and some sensors. There's also an LED notification light below the screen.</paragraph>
+			<paragraph>The two front-facing speakers are either side of the screen. We found this location to much better suit gaming and movie watching than the sides or the back of the slate. The grilles stretch to almost the same length as the tablet, but the speakers themselves are positioned in the upper half of the tablet, so covering them with your palms when holding the slate is not likely to be an issue.</paragraph>
+			<paragraph>At the top (in landscape) we the Power/Lock button next to the volume rocker.</paragraph>
+			<paragraph>The microphone is at the bottom, inside the dock connector.</paragraph>
+			<paragraph>On the left side we find the microUSB port and the 3.5mm audio jack. We can't really stress enough how happy we are that Google has once again used a standard USB connector, instead of a proprietary one like most other OEMs.</paragraph>
+			<paragraph>With microUSB cables and chargers so easy to find these days, the standard port means that you'll easily be able to hook up your Nexus 10 to just about every computer out there without having to carry the cable at all times.</paragraph>
+			<paragraph>You might also be lucky enough to find a powerful enough charger to top up your battery, but as we said, most of those that are meant for smartphones will take ages. The Nexus 10 doesn't have an MHL-enabled port so it doesn't offer TV out via USB, but it has a dedicated microHDMI port on the right, which is actually a way better solution.</paragraph>
+			<paragraph>microHDMI to HDMI adapters and cables are a dime a dozen these days, so you'll be able to cheaply connect your Nexus 10 to your TV and stream movies or games.</paragraph>
+			<paragraph>At the back of the Nexus 10 we find a 5MP camera with an LED flash next to it. The camera is quite capable of shooting the occasional photos and HD videos as long as you are willing to put up with looking weird doing it with a 10-inch slate. There's also a second microphone pinhole below the camera, but it's used for noise cancellation only and there's no stereo sound recording in videos.</paragraph>
+			<paragraph>The Google Nexus 10 is powered by a 9000 mAh Li-Ion battery. By Google's estimates, it will give you 9 hours of multimedia playback. In our tests the tablet managed just over 8 hours of video playback and 7:35h of web browsing. Not exactly what Google promised, but not too bad either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>The Google Nexus 10 can be held with one hand and operated with the other, but at just over 600g you will soon need to find some kind of support. The rounded corners are great - noshrap edges rubbing against your palm like with the heavier metal-clad iPad.</paragraph>
+			<paragraph>However, the landscape position is the only one that feels really natural on the widescreen slate. The Nexus 10 is just too tall for comfortable portrait hold.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Small but important changes to the UI<subsectionTitle>
+			<paragraph>The Nexus 10 tablet comes with Android Jelly Bean but it's the latest version, 4.2. While the update is mostly about polishing the experience than bringing something completely new to the table, Google has nearly perfected the interface.</paragraph>
+			<paragraph>Here's a taste of 4.2 Jelly Bean on video:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is one area where 4.2 vastly differs from 4.1 - there's so much new functionality that it will change the way you use tablets. As usual, there are multiple unlock routines, some more secure, some quicker to unlock, but the default is swipe to unlock.</paragraph>
+			<paragraph>The clock on the lockscreen is now a widget rather than a fixed item. You can have multiple widgets (you swipe left and right to go between them) and you can rearrange them similar to homescreen widgets. The difference is that only one widget can be visible at a time. The widgets that are available by default are a digital clock, Gmail and Calendar (you can have multiple copies of each). Apps can add their own lockscreen widgets to the list.</paragraph>
+			<paragraph>One difference between the phone and tablet versions of the 4.2 lockscreen is that you can't unlock straight into the camera app.</paragraph>
+			<paragraph>The other major novelty on the lockscreen is multi-user support. If you have more than one user set for the tablet, you'll see their images as circles at the bottom of the screen. This is a great way to share a tablet at home as everyone will get to use the Nexus 10 as they like - as long as you don't want to use it at the same time, of course.</paragraph>
+			<paragraph>You can tap a circle to switch to that user, which will also change everything from settings through what installed apps are installed to what files are accessible. So, if you snap a photo while signed into your account, it will only be accessible from that account. That works even when you hook up the tablet to a computer - you can't access files from another account.</paragraph>
+			<paragraph>If you try to install an app that's already installed on the tablet, but on another account, the OS will make it available for your account too (without re-downloading it). The apps files will be separate for the different accounts.</paragraph>
+			<paragraph>Overall, the multi-user support is a great way of sharing your Nexus 10 with your partner/kids or even friends and it's quite nicely implemented. It doesn't waste any storage and there's no need to fear that your settings will be messed up or your apps/saved files deleted. Nor is there the need to deal with other people's apps that you don't need either.</paragraph>
+			<paragraph>Anyway, the default Jelly Bean homescreen has hardly changed. It shares many similarities with what we were first introduced to in Ice Cream Sandwich. Long gone are the days of contextual hardware controls - everything is done on the display itself.</paragraph>
+			<paragraph>There are still the usual five homescreen panes, none to be added or removed.</paragraph>
+			<paragraph>A portion along the bottom of the display has been reserved for three on-screen buttons - Back, Home and Recent apps. These buttons are now placed in the center, which on a 10.1" tablet in landscape orientation can be hard to reach.</paragraph>
+			<paragraph>Above the row is the favorites tray. The Nexus 10 allows up to eight shortcuts to be placed within this dock, surrounding the app drawer shortcut in the middle. Any of the eight shortcuts can be customized by dragging icons into and out of the tray, and you can even create folders by dragging icons on top of one another.</paragraph>
+			<paragraph>Another permanent fixture is the Google Search bar at the top of the screen, which stays in place as you scroll the homescreen panes.</paragraph>
+			<paragraph>The improved notification area is another Jelly Bean highlight. It features a redesigned clock and date icons in the top left, followed by a larger Settings icon. The clear notifications button has also been refreshed and it looks much sharper now.</paragraph>
+			<paragraph>As you probably know, some notifications can be expanded to show more info (the top one is expanded by default, other can be expanded or collapsed by a two finger swipe). For example, you can view meeting or message reminders directly in the notification area, and even email the recipients directly from within the notification bar.</paragraph>
+			<paragraph>But with Android 4.2 the Notification area is split into two, much like the split-screen keyboard in iOS, so you actually get two separate pull-downs. We already saw the first one, the second holds various settings shortcuts. The one in the top left shows the current user and lets you switch to another one. Other settings include Wi-Fi, auto-rotate, battery info, airplane mode and Bluetooth. Wi-Fi and Bluetooth will bring you to the full settings instead of just toggling them on and off as is more common with notification area toggles.</paragraph>
+			<paragraph>The app drawer is pretty much the same as it was in Ice Cream Sandwich. It features two tabs - Apps and Widgets - that feature side-scrollable pages. If you don't like swiping (it's quite a distance on a 10.1" screen), you can tap on the margin on the left and right of the grid of shortcuts to quickly move between screens.</paragraph>
+			<paragraph>If you scroll past the available apps you automatically move into the Widgets tab. There's also a shortcut next to the tabs, for quick access to the Android app market. Apps and widgets are ordered alphabetically and there's no other sorting option or a way to manually rearrange.</paragraph>
+			<paragraph>Placing a shortcut or widget works as you would expect - you press and hold to grab it and then position it anywhere on the homescreen. While you're dragging, an Uninstall field will appear along the top of the screen, where you can drop to remove widgets.</paragraph>
+			<paragraph>Besides being resizable both vertically and horizontally (some can be resized only in one direction), widgets in Jelly Bean automatically adjust their size to fit where you want to put them. This is especially useful on an already busy homescreen. Also, if you drag one widget on top of the other, it will make space for itself by forcing the icons underneath to rearrange.</paragraph>
+			<paragraph>To resize a widget, you tap and hold and then release it. Four handles will appear on its sides, allowing you to change the widget's size in the direction you want.</paragraph>
+			<paragraph>Folders are created in much the same way as in the shortcut dock; you simply drag one shortcut on top of another. By default, a new folder won't have a label, but you can name it by opening it and tapping on the "Unnamed folder" label. Opening a folder expands it only as much as needed to display the icons inside.</paragraph>
+			<paragraph>The folder icons are circular with the shortcuts inside lined one behind the other as if looked at an angle (complete with perspective). They are lined up in order, so the first shortcut in the folder will be the only one clearly visible, with the rest falling behind progressively smaller and obscured.</paragraph>
+			<paragraph>The Recent apps button brings up a list of your recently-used applications. It displays thumbnails of the applications which you can press to open quickly, or swipe to the side to remove.</paragraph>
+			<paragraph>Android 4.2 Jelly Bean isn't just business and no play. Google has integrated a little feature called Daydream, which is simply a sort of a screensaver. Once turned on, you can set it up to show photo albums or the latest news from Google Currents when the device is either docked or idle.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now knows what you need before you do<subsectionTitle>
+			<paragraph>Google Now was first introduced back in Jelly Bean 4.1 and is definitely one of the most interesting additions to the OS. Simply put, it's Google's version of a personal assistant. Google Now is in the same neck of the woods as Apple's Siri, but it learns over time from your daily routines.</paragraph>
+			<paragraph>It's accessed by swiping up from the three navigation buttons at the bottom and gives you a short overview of information it believes is relevant to you right now. Going to work in the morning? Google Now knows this and lets you know there's a big traffic jam on your usual way to the office, so it offers you a re-route.</paragraph>
+			<paragraph>It can interpret a lot of things from your search history as well. If you've been searching for, say, your favorite football team, Google Now will prepare a card showing you the next match the team is playing and will provide you score updates once the game begins.</paragraph>
+			<paragraph>In Jelly Bean 4.2, Google Now has become even smarter and, if you allow it, can scan your email for upcoming flights, deliveries or restaurant reservations and let you know when they are due. There are also numerous kinds of cards like birthdays (yours and contacts') and what distance you've walked in a particular month. The last one could definitely feel creepy for some users, but it's easily turned off from the Google Now settings menu.</paragraph>
+			<paragraph>Google has also integrated Voice Actions. They can handle stuff like sending messages (SMS or email), initiating a voice call, asking for directions, taking a note or opening a site. Google Now can also launch apps, check and manage your calendar and look for nearby places of interest and stuff like movie openings in theaters.</paragraph>
+			<paragraph>One big advantage of Google's Jelly Bean is that the voice typing functionality doesn't require an Internet connection to work. You can enter text by speaking anywhere you can use the on-screen keyboard - be it the Messaging app or a note taking app - without the need for a data connection as long as you have pre-downloaded the needed language packs (and those only take about 20-25MB of your storage per pack).</paragraph>
+			<paragraph>Making dictation available offline also made it faster. What's even more impressive is that the transition hasn't cost anything in terms of accuracy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Google Nexus 10 is the first tablet to use a pair of Cortex-A15 CPU cores and only the second mobile device, after the new Samsung Chromebook. The chipset that powers both devices is the Exynos 5250 - it packs tow A15 cores at 1.7GHz, 2GB of RAM and a Mali-604 GPU.</paragraph>
+			<paragraph>With a next-gen CPU and GPU architectures (not to mention the latest Android), we expected the Nexus 10 to be a benchmark champion, but while it did score pretty well, it didn't really dominate. Perhaps it's the fact that two cores even of a new architecture can't quite four A9/Kraits, or it could be an issue that the benchmarks themselves have with the relatively young Android 4.2 Jelly Bean, but the Nexus 10 didn't do much better than the Nexus 4 we tested last week here.</paragraph>
+			<paragraph>Benchmark Pi is a single-threaded benchmark, so core count doesn't matter. The HTC One X+ with its Cortex-A9 cores clocked at 1.7GHz managed to post the best time here, while the Nexus 10 ended up trailing even phones with lower clockspeeds (though it did beat its Nexus 4 sibling).</paragraph>
+			<paragraph>Moving to the multi-threaded Linpack test, the Nexus 10 still had trouble beating the competition that uses the older Cortex-A9 and Krait CPUs. It did worse than the quad-core Krait CPU in the Nexus 4 too. We've removed the 600+ score of the LG Optimus G as we believe it was caused by a bug.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Then there's AnTuTu, which tests the whole system (RAM, storage, etc.) and the Nexus 10 tablet again come in the middle of the pack. It came at the bottom in the Quadrant ranking.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We tested the new GPU with GLBenchmark 2.5 - both on and off-screen. The difference between the two modes is that off-screen tests at a fixed 1080p resolution. While the powerful GPU in the iPad 4 remains out of reach, the Nexus 10 hits a playable 35fps framerate at this resolution.</paragraph>
+			<paragraph>When we move to on-screen mode (that renders graphics at the screen resolution), the framerate drops significantly. There were moments when the framerate was limited by VSync (60fps software limit), but most of the time it was lower. The average framerate was a choppy 23fps. Keep in mind that the Nexus 10 screen has a higher resolution than even the iPad 4.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt on-screen<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Browser benchmark scores usually improve with every new version of Android. Both the Nexus 10 and the Nexus 4 are running Android 4.2 with Chrome as the default browser and they both failed to impress, and traded blows in SunSpider and BrowserMark 2. The Vellamo score was good, but again not the best.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>People app<subsectionTitle>
+			<paragraph>While the Nexus 10 can't connect to a cell network for either voice or data, it still features the familiar Android 'People' app, which displays the contacts from your Google account. If you have other communication applications such as Skype installed, it will display the contacts from them as well.</paragraph>
+			<paragraph>Using the menu on the left, you can switch between All contacts, Groups, and Favorites.</paragraph>
+			<paragraph>The interface is split into two - the list of contacts on the left and individual contact details on the right. In case the contact has a Google Plus account, their updates will be posted in a third column on the right (it's visible only in landscape mode, but not in portrait).</paragraph>
+			<paragraph>There's a permanent scroll bar available that you can grab and drag to jump straight to contacts starting with a certain letter. There's a regular search feature, too.</paragraph>
+			<paragraph>When viewing a contact, a click on any of the contact details will open up the relevant application - an email address opens up the email or Gmail app, a Google+ IM opens up the contact in the installed Google+ messenger, and even pressing on a phone number can open up a relevant application for dialing phone numbers over the web, such as Skype (if you have it installed).</paragraph>
+			<paragraph>While editing a contact, you can add new fields of different types to fill in more info for the contact. You can link contacts too, if you've added the same person on multiple services. Also, contact pictures have been duly updated to allow a maximum possible resolution of 720x720, which massively improves the quality of the contact images, especially on the larger display of the Nexus 10.</paragraph>
+			<paragraph>Your Groups are listed by service (e.g. your Gmail account), while Favorites are a listed as a grid of large contact photos, which is really thumbable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Speakerphone loudness<subsectionTitle>
+			<paragraph>We put the Nexus 10 through our traditional loudspeaker test and it earned an Average score. The two front-facing speakers provide stereo sound, which is great for watching movies, but they aren't the loudest around.</paragraph>
+			<paragraph>You can find out more about the test here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Email and messaging<subsectionTitle>
+			<paragraph>The Gmail app offers a split-screen interface similar to that of the People app. You can add multiple Gmail accounts, but there's no combined inbox.</paragraph>
+			<paragraph>Along the top, there're shortcuts to compose, search or refresh, along with a contextual menu. The top menu changes when you have multiple emails selected, allowing you to perform batch operations such as archive, delete, create labels, or mark as read/unread.</paragraph>
+			<paragraph>A cool feature in Gmail is that you can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>Unlike its Gmail counterpart, this app supports a combined inbox view. It color codes the inboxes so you can easily tell where each message came from. Unfortunately, there's no moving between messages with sideways swipes here.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The GTalk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Text input<subsectionTitle>
+			<paragraph>Android 4.2 Jelly Bean on the Nexus 10 tablet comes with a standard looking Android keyboard. It's quite wide in landscape mode, so you might want to switch to portrait. This makes it much more manageable as you can actually reach the middle buttons with your thumbs.</paragraph>
+			<paragraph>Another option is to enable the so-called gesture typing and use only one hand for input. Gesture typing is similar to Swype and other third party keyboards in that you don't tap individual keys but swipe over instead.</paragraph>
+			<paragraph>It's very good at guessing what it is you're trying to type and a feature can be enabled that keeps a floating label above your finger with the current guess.</paragraph>
+			<paragraph>But you can go further and "type" hands-free too - Google has baked the voice recognition algorithms needed to run it into Android itself. Not only does this make Voice typing faster, but also eliminates the need for an internet connection.</paragraph>
+			<paragraph>Currently, you can download up to 15 localized language packs for offline voice typing, although we imagine that Google are working on adding more. The language packs are quite small in size (the default English (US) pack comes in at just 22 MB), so you don't need to worry about them using up your precious storage.</paragraph>
+			<paragraph>With Jelly Bean, the Android keyboard's nuts and bolts got updated as well. It now features smarter dictionary and learning algorithms, so the more you type, the better it can predict what you're trying to say. It resembles Swiftkey's smart dictionary system, but only time will tell if it performs as well.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery plus image and video editing<subsectionTitle>
+			<paragraph>The Default view of the gallery is Albums, a list of all folders with photos in a rectangular grid. The other views are Locations (photos are grouped based on where they were taken), Times (grouped by when they were taken), People (photos with tagged faces in them) and Tags (these are general tags you can add manually).</paragraph>
+			<paragraph>A handy option is the Make Available Offline feature - it lets you easily select multiple online albums and download them for offline viewing. The Gallery app supports online albums like Picasa (but not Facebook) and you can set it to sync photos only over Wi-Fi.</paragraph>
+			<paragraph>Getting inside an album displays all the photos in a rectangular grid, which is horizontally scrollable. When you try to scroll past the end, the photo thumbnails will tilt to remind you.</paragraph>
+			<paragraph>Viewing single images has been tweaked somewhat. You still get the convenient share button along with a menu with several options - Crop and rotate tools, a more feature-rich Editor (we'll get back to it in a minute) and a slideshow.</paragraph>
+			<paragraph>You can swipe left and right to move between images in an album and you can also pinch to zoom out to display a strip of three images at a time. This is an easy way to quickly browse photos but also delete some - you just swipe them up or down. When you discard an image, an undo button appears allowing you to restore it.</paragraph>
+			<paragraph>A small icon at the bottom left launches the Editor (or you can do it from the menu). The editor offers filters, frames, crop/rotate/straighten tools along with color correction effects ranging from autocolor to manual curves control. Most of these options have a slider that lets you apply the effect with the desired intensity.</paragraph>
+			<paragraph>The Movie Studio app is back - it handles video editing and is quite feature rich. You can add multiple videos to the timeline and set their start and end points, you can add titles and effects (including transition effects between clips) add music and there are multiple options available when you decide to export the video (resolution up to 1080p and a setting for video quality).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player still not a priority<subsectionTitle>
+			<paragraph>If you thought that having a microHDMI port on the Nexus 10 (or its excellent widescreen display for that matter) would make the video player a priority, you'd be wrong. There's still no dedicated videos app (you have to go through the Gallery) and the only supported format is MP4.</paragraph>
+			<paragraph>You have to consider that Google expects videos on the Nexus 10 to come from the Play Store, so they'll be appropriately encoded.</paragraph>
+			<paragraph>That's not a huge issue though, the Exynos 5250 chipset is quite powerful and you can always just grab a free third-party video player that supports the formats and other features you need (e.g. subtitles). After all, TV-out or not, that screen is just too good for video to go to waste.</paragraph>
+			<paragraph>Update: Using our usual test, we measured that the Nexus 10's battery lasts just over 8 hours when playing an SD video. We had to use MX Player to do it as our usual test video wouldn?t play on the stock video player due to the poor codec support on the Nexus 10. The big, high-res screen put more strain on the battery than the 7" screen on the Nexus 7.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video playback<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Play Music for listening and shopping<subsectionTitle>
+			<paragraph>The Nexus 10 comes with its own music player app and the interface is somewhat similar to the gallery - you get a grid of thumbnails, but instead of folders they represent albums here.</paragraph>
+			<paragraph>The dropdown menu is used to organize your music library - there's Recent (the default view), Albums, Artists, Songs, Playlists and Genres.</paragraph>
+			<paragraph>Most views use a grid with the album art (if any), though Recent uses a 3D view of the recent artists with a Shuffle all option included. You can tap on an item to open it or tap on the small arrow at the bottom right to open a menu with some options - queue the track/album/artist, add it to a playlist, look for more by that artist in your library or shop for more stuff by the artist, which of course takes you to the Google Play Store.</paragraph>
+			<paragraph>The Now playing interface features the album art with the track info and playback controls beside it. You can tap it to reveal more options - upvote/downvote the song, a scrubber and shuffle and repeat toggles. This interface makes sense on a phone, but on the Nexus 10 it seems like it doesn't make the best use of the 10.1" screen.</paragraph>
+			<paragraph>From the Settings key you can get into the equalizer. It can be turned on and off and features several presets along with a user defined one. If you plug in a headset, you can also play with the Bass boost and 3D effect sliders.</paragraph>
+			<paragraph>While the player is working, a playback control widget that features the album art and track info for the current song along with simple playback controls is added to the list of widgets on the lockscreen, pushing back the ones already there. There are playback controls in the notification area too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good audio quality<subsectionTitle>
+			<paragraph>As most other tablets the Google Nexus 10 did very well in our audio output test. It's not quite as good as the iPad 4, but the differences are mostly in terms of volume levels</paragraph>
+			<paragraph>The Google Nexus 10 has nicely when connected to an active external amplifier, managed get excellent readings all over the field.</paragraph>
+			<paragraph>Most of the scores remain great even after you connect a pair of headphones, while the volume levels remain above average. Some intermodulation distortion creeps in, but it's almost perfectly undetectable to the naked year.</paragraph>
+			<paragraph>Check out the table and see for yourself.</paragraph>
+			<paragraph> Google Nexus 10 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Okay camera<subsectionTitle>
+			<paragraph>The Google Nexus 10 packs an 5 megapixel camera, producing still shots with a resolution of 2560 x 1920 pixels. There's a single LED flash underneath it, but don't count on it doing wonders in most low-light situations. The front-facing camera does 1.9MP stills and 720p videos.</paragraph>
+			<paragraph>The camera interface has been given a fresh coat of paint with an interface you'll either love or hate. With a simple tap and hold, a circle pops out giving you access to the various options. Once your finger is on a particular setting icon, it expands to reveal its options.</paragraph>
+			<paragraph>This is very similar to Quick controls in the browser (except that it works everywhere, not just the corners) and is quite handy on the big screen (instead of having to reach for a particular icon). Alternatively, you can invoke the settings circle by pressing the icon in the top right corner.</paragraph>
+			<paragraph>On the right hand-side is a big blue button used for capturing. Beneath it is the camera/camcorder switch icon. From there you can choose to shoot panoramas and photo spheres, which we'll go in depth in just a second. Above the capture button is a shortcut to the settings menu.</paragraph>
+			<paragraph>Touch focus is available, too and works reasonably fast - just make sure you don't hold your finger for too long as the settings circle will appear.</paragraph>
+			<paragraph>The features have been cut down - there's no HDR mode or ISO settings, for example, though you can still adjust white balance and exposure compensation.</paragraph>
+			<paragraph>With Android 4.0, Google introduced the Panorama capturing mode, and now with Android 4.2 Jelly Bean users will get a cool feature dubbed Photo Sphere. It's a panorama mode on steroids and allows you to capture photos in multiple directions (up, down, left, right). Think Street View and you'll get the idea.</paragraph>
+			<paragraph>The user interface is friendly and intuitive. It shows you dots which you have to aim the camera at, then rinse and repeat until you get a 360-degree Photo Sphere photo.</paragraph>
+			<paragraph>After they've been captured and saved as JPEG files you can view them and navigate around the whole image. You can share the image on Google+ or, if you feel like it, contribute the Photo Sphere to Google Maps.</paragraph>
+			<paragraph>The interface lacks a shortcut to the Gallery app - it was replaced by a swipe to the right opens the Camera app's Filmstrip view. It gives you the ability to quickly discard any photos you've taken by swiping them up or down or just quickly glance at recent shots.</paragraph>
+			<paragraph>The image quality is pretty good - not quite the best 5MP shooter we've seen, but there's enough fine detail and accurate enough colors to make photos usable. The quality is comparable to that of the iPad 4, though the Apple tablet has the edge. We maintain that you shouldn't use tablets for snapping photos, but it will do in a pinch.</paragraph>
+			<paragraph>Keep in mind that the field of view is narrower than most phones, so you'll have to stand further back than usual to fit the same things into the frame.</paragraph>
+			<paragraph>Here go a few samples for you to check out - keep in mind that they weren't taken in the best lighting conditions, as the weather around the office hasn't been particularly favorable lately, you can normally get slightly better output.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>Naturally, Google Nexus 10 also entered our tool, which makes it a lot easier to compare its output to the other top of the line tablets and smartphones. The tool's page will give you information on what to watch out for.</paragraph>
+			<paragraph>   Google Nexus 10 in our photo compare test</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Passable 1080p video capture<subsectionTitle>
+			<paragraph>The camcorder interface of the Nexus 10 is almost the same as the still camera's - you get the same panel on the right and quick settings when you hold your finger over the viewfinder.</paragraph>
+			<paragraph>Videos are shot at 1080p and have a consistent 30fps framerate. The output is saved in MP4 files, having a bitrate of 13Mbps, which is on the low side for high-quality 1080p capture. The recorded sound is mono (105Kbps bitrate, 44kHz sampling rate).</paragraph>
+			<paragraph>The image quality is okay but far from the best in class. The low bitrate leads to some compression artifacts, which eats into the already unimpressive amount of resolved detail. Colors are a bit dull, too, and while the videos will easily do for less demanding users, they will hardly win the Nexus 10 any awards.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here's a 1080p video sample (0:07s, 10.9MB) taken straight from the Google Nexus 10.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The Google Nexus 10 also enters the video quality comparison arena.</paragraph>
+			<paragraph>   Google Nexus 10 in our Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Local connectivity only, but plenty of it<subsectionTitle>
+			<paragraph>The Nexus 10 tablet comes in two versions - 16GB/32GB - but neither of them offers mobile data connectivity. For local connectivity, you get Wi-Fi b/g/n along with Wi-Fi Direct and Bluetooth 3.0. The Wi-Fi uses MIMO tech, which promises faster speeds (Amazon made a big fuss about the Fire HD having it and the iPad and Nexus 7 not).</paragraph>
+			<paragraph>The Nexus 10 supports NFC along with the latest version of Android Beam. This enables simple transfer of images between two NFC-enabled phones and you can pair a Bluetooth speaker with a simple tap (if they support NFC, of course).</paragraph>
+			<paragraph>A cool thing about the NFC support is that it works on either side of the tablet - you don't have to tap things to the back of the tablet (which is uncomfortable with a tablet this size), putting them on the screen works just as well.</paragraph>
+			<paragraph>The tablet also comes with a built-in A-GPS receiver, which has GLONASS support and a barometer, both of which will help the tablet get faster, more accurate locks.</paragraph>
+			<paragraph>The microUSB port handles both charging and computer connections. You should note that there's no mass storage mode available, you'll have to use MTP instead. It works just as well for transferring most files but some files are a problem (e.g. a .ZIP file we needed to copy off the device didn't show).</paragraph>
+			<paragraph>While the Nexus 10 doesn't support USB OTG out of the box, you can easily enable it with an app. There are different apps - one that works on unrooted devices (though that one is paid) and a free one that requires root.</paragraph>
+			<paragraph>There's a microHDMI port used for HD TV-Out and a standard 3.5mm audio jack for audio too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Chrome syncs with your phone and computer<subsectionTitle>
+			<paragraph>The Nexus 10 tablet comes with Chrome only - just like the smaller tablet, it sticks to the Google browser rather than the Android browser.</paragraph>
+			<paragraph>The tablet version has tabs on the top, it all looks a lot like the desktop Chrome browser, complete with the new tab button. You can also use sideway swipes to switch between them. You'll need to be precise as even a short swipe will jump a couple of tabs. We would have liked something less sensitive.</paragraph>
+			<paragraph>When you open a new tab, you're greeted with a list of the most visited sites. You can also access your bookmarks from here or even tabs you have open on any other device you have Chrome running on (your computer, your phone, even other tablets). Incognito tabs are available, if you want to circumvent the browsing history and autocomplete features (e.g. you want to check your bank account or shop for a gift, without leaving any traces).</paragraph>
+			<paragraph>The URL bar has a couple of handy shortcuts - one allows you to perform a voice search, which is quicker than typing, and the other is the star, which allows you to add a site to your bookmarks (this one should be familiar from desktop Chrome).</paragraph>
+			<paragraph>The settings menu includes some really interesting options. For example, you can set your search provider to be Yahoo or Bing or request the desktop version of a site. You can also allow the browser to preload links from search results it's certain you're going to open, but you can enable this over Wi-Fi only to preserve bandwidth.</paragraph>
+			<paragraph>Flash is, of course, not supported but as the web moves towards HTML5, Flash becomes less and less relevant. Still, if it's that important to you, you should know that we manage to side-load the Flash Player and enable it on some of the alternative browsers available at the Play Store. So if Flash is a must, you can have it.</paragraph>
+			<paragraph>We also noticed that the Chrome browser isn't perfectly stable just yet. It would crash after every 30 minutes to 1 hour browsing, even though we didn't throw anything particularly heavy its way. It's not too bad and Google will probably fix it quite soon with an update, but it's worth noting nonetheless.</paragraph>
+			<paragraph>Update: We ran our browser battery life tests on the Nexus 10 and it lasted just over 7 and a half hours of browsing over Wi-Fi. That's an hour better than its 7" counterpart did, but out of reach of the 9-10 hours that the iPad 4 and mini do.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browsing<subsectionTitle>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer is sized for a tablet<subsectionTitle>
+			<paragraph>The Nexus 10 came without a Office suite, not even Google Drive, which is a pretty capable editor. That's not a big loss - installing Drive from the Play Store takes only a few clicks.</paragraph>
+			<paragraph>If you receive a document over email or have a file browser installed, you can still view Office docs and PDFs with the pre-installed QuickOffice viewer. There's no shortcut for it in the app drawer though and while you can save attachments offline, they go in the Downloads folder, which you can only access with a file browser or through the email app that saved them (either Gmail or the generic one). As you can imagine, this makes things more complicated than they should be.</paragraph>
+			<paragraph>The calendar has four views - Daily, Weekly, Monthly and Agenda. The Calendar makes good use of the bigger screen - daily and weekly views for example dedicate the top part of the screen to the day/week, while the bottom is taken up by a small monthly calendar, so you can quickly jump between dates. Similarly, the Agenda view uses a split-screen interface.</paragraph>
+			<paragraph>The app can easily handle several online calendars as well as the local calendar. You can add multiple reminders for each event and search all events.</paragraph>
+			<paragraph>The Clock app defaults to desk clock mode that might be of some use if you have a dock for your Nexus 10, other than that it's just a drain of battery power.</paragraph>
+			<paragraph>The usual alarm functionality is still present - you can set multiple alarms, each with its own repeat time, ringtone and label. A timer and stopwatch functions are also available.</paragraph>
+			<paragraph>The calculator is slightly different from what we're used to as the advanced functions (trigonometry, square root, brackets, etc.) are placed besides the number keys. Even with the extra controls, the keys are huge on the big screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Plus, Messenger and Currents<subsectionTitle>
+			<paragraph>The Google Plus app is preinstalled on the Nexus 10, perhaps as a way to bolster the user numbers of Google's social network.</paragraph>
+			<paragraph>The default screen shows the "What's hot" feed - a vertical list with big, beautiful images of interesting posts from around the Plus network. You can use the dropdown menu to switch to feeds from your various circles.</paragraph>
+			<paragraph>A split-screen interface lets you navigate more than just posts. It shows up on the left and displays your notifications plus shortcuts to other Plus features. From here you can access hangouts and events.</paragraph>
+			<paragraph>The Events feature lets you send out an invite (complete with a cool looped animation that describes what type of event you have in mind). All people who use Google Plus and join the event can snap photos, which will be merged into a common timeline, a cool unique feature.</paragraph>
+			<paragraph>Messenger complements the Google Talk app and lets you send messages to your Google Plus contacts. The interface is straightforward - it shows a list of all people in your circles, with the ones you've communicated recently on top.</paragraph>
+			<paragraph>Each message has small open letter icon that shows when the other person has read it. You can also easily snap a photo or pick one from the gallery to send to your friend or you can invite them to a video chat with the Hangouts button.</paragraph>
+			<paragraph>Google Currents is a beautiful news aggregator, similar to Flipboard. It follows the Holo UI design with flat graphics and sideway swipes. The Currents library starts off with several magazines but you can check out the trending news or quickly add more magazines.</paragraph>
+			<paragraph>When you hit the Add more button, Currents shows you categories you can pick from. Featured and Recommended should get you started, but there's also Curators (which lists Google+ accounts of interesting people) and Google Reader (RSS feeds from various sites).</paragraph>
+			<paragraph>Note that most of the subscriptions are free - actually, we didn't see any paid ones, but that's likely to change in the future.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Maps and Google Earth<subsectionTitle>
+			<paragraph>The Nexus 10 features a built-in GPS receiver that got a lock in about a minute. You can use A-GPS to speed that up or go for Cell-ID and Wi-Fi positioning for a rough lock (all three options however require an Internet connection), but the GLONASS support and the barometer allow it to get quick locks even offline.</paragraph>
+			<paragraph>Google Maps is an extensive mapping solution with everything from voice-guided navigation (in certain countries), through local search and the ever popular Street view.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>Google Maps switched to data-efficient vector maps a while back. This allowed for caching whole areas of the map for offline usage. It used to be a Labs feature, but now it's enabled by default (and you can cache a bigger area).</paragraph>
+			<paragraph>You just choose "Make available offline from the menu" and pan/zoom around until the desired area is in view (there's an indicator showing how much storage that area will take). You can later view cached areas and delete ones you no longer need.</paragraph>
+			<paragraph>Note that there's a limit to the size of the area you can cache - you can't just make all of Europe available offline, not even a whole country. We managed to fit New York and some surrounding area before Maps told us the area is too big. Also, there's no address search in the cached maps and you can only cache map data in supported regions of the world.</paragraph>
+			<paragraph>Google Earth came preinstalled on the Nexus 10. It's like a 3D version of Google Maps (well, except for the navigation bits). People interested in geography will appreciate Earth as it's much better at showing terrain, but it's not very useful for getting around a city like Maps is (e.g. finding a nearby cafe or navigating to an address).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Play Store for apps, multimedia and more<subsectionTitle>
+			<paragraph>The Play Store has several scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. It hooks into your Google Plus info and will recommend apps based on what your friends like, but also based on what other people like, even if they're not in your circles, but have installed the same apps as you.</paragraph>
+			<paragraph>When downloading an application, you get useful info on the app, like rating and comments along with the info, screenshots and demo videos by the developers. Before confirming the download, the Market will show you a list of permissions required.</paragraph>
+			<paragraph>The Play Store features much more than apps - you can also buy (or rent) movies, TV shows, magazines and books. You can even charge those to your phone bill rather than your credit card (it works only on some operators, in some countries).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Google Nexus 10 is a tablet that's near impossible not to like. It has the best screen on the market and is first to bring the new generation chipsets. It also runs on the latest version of the world's most popular and feature-rich smart platform and that Nexus middle name is assurance enough of staying up-to-date for quite a while. And all of this at a good $100 less than what the main rival would cost you.</paragraph>
+			<paragraph>If you are looking for an Android tablet and you don't have a special use of a stylus-enabled Galaxy Note 10.1, the Nexus 10 would be the straightforward recommendation. It's easily among the best and most complete tablets on the market at a price point that's just hard to beat.</paragraph>
+			<paragraph> Samsung Galaxy Note 10.1 N8000</paragraph>
+			<paragraph>There's probably a single 10" droid tablet that's even worth considering after we saw what the Nexus 10 can do. The Transformer Pad Infinity 700 has carved a comfortable niche for itself thanks to the neat keyboard dock with extra battery backup. It can't quite match the computing prowess of Nexus 10 or its attractive pricing, but its FullHD screen isn't bad at all, so if a keyboard matters to you, this one won't let you down.</paragraph>
+			<paragraph> Asus Transformer Pad Infinity 700</paragraph>
+			<paragraph>But, as we said at the beginning of this review, the Nexus 10 isn't after its Android peers. The Google 10" slate is reaching for the iPad's crown and won't settle for less.</paragraph>
+			<paragraph>The Google Nexus 10 is lighter than the iPad, has a higher-quality display and still tops it with GPS (which the base iPad version skimps), NFC and microHDMI. We also find the widescreen display and front-mounted stereo speakers far better suited for video watching, which is big in tablets, and while the aspect is not as good for browsing, the higher resolution makes up for it.</paragraph>
+			<paragraph>And it's not just the hardware either - the multi-user access, for example is great thing to have. It makes sharing your tablet with your partner and/or kids that much easier. You don't have to worry about them messing up your settings, filling up your homescreen with stuff you don't need or uninstalling your apps.</paragraph>
+			<paragraph>However this battle is not a one-way street. The iPad 4 strikes back with superior graphical power and audio output, better build and a greater number of optimized apps. The latter isn't as big as Apple might want you to believe, as Android is catching up fast, not to mention that it scales smartphone apps far better, but it still counts. To those looking to get a mobile data-enabled tablet it's no contest really - the iPad is the only one to offer a version with network support.</paragraph>
+			<paragraph> Apple iPad 4 Wi-Fi</paragraph>
+			<paragraph>Overall, though, the Google Nexus 10 seems to offer better value for money than its Apple rival. With the kind of limited availability it has, it probably won't be able to outsell the iPad and win the war all by itself but it manages to deliver an important message - Android doesn't need to fear iOS anywhere anymore, and it can fight it as an equal in tablets too.</paragraph>
+			<paragraph>One can't help but feel that Google should perhaps have intervened a little sooner and brought the Nexus tablets earlier to help struggling partner OEMs and the platform overall. Had that happened, things might have been different now. There's no need to dwell on the past though. What matters is here and now and we are more than happy with the package Google delivered with the Nexus 10. You'll probably feel the same, if you manage to snatch one from your local Play store.</paragraph>
+		</subsection>
+	</page>
+</review>

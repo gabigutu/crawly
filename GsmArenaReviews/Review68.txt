@@ -1,0 +1,335 @@
+<review>
+	<title>Nokia N900 review</title>
+	<description>A new hope</description>
+	<link>http://www.gsmarena.com/nokia_n900-review-421.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>3.5" 65K-color resistive touchscreen of WVGA (800 x 480 pixel) resolution</paragraph>
+			<paragraph>Maemo 5 OS</paragraph>
+			<paragraph>State-of-the-art Mozilla-based web browser with Adobe Flash 9.4 support</paragraph>
+			<paragraph>Slide-out three-row full QWERTY keyboard</paragraph>
+			<paragraph>ARM Cortex A8 600MHz CPU, PowerVR SGX graphics accelerator; 256 MB of RAM</paragraph>
+			<paragraph>Quad-band GSM and tri-band 3G support</paragraph>
+			<paragraph>5 MP autofocus camera with dual-LED flash and active camera lens cover</paragraph>
+			<paragraph>WVGA (848 x 480 pixels) video recording @ 24fps</paragraph>
+			<paragraph>10 Mbps HSDPA and 2 Mbps HSUPA support</paragraph>
+			<paragraph>Wi-Fi and GPS with A-GPS</paragraph>
+			<paragraph>32GB onboard storage</paragraph>
+			<paragraph>DivX and XviD video playback</paragraph>
+			<paragraph>Foldable kickstand</paragraph>
+			<paragraph>microSD card slot with microSDHC support</paragraph>
+			<paragraph>Built-in accelerometer</paragraph>
+			<paragraph>Proximity sensor</paragraph>
+			<paragraph>3.5 mm audio jack and TV-out</paragraph>
+			<paragraph>FM Radio receiver, FM transmitter</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v2.1</paragraph>
+			<paragraph>Solid audio quality</paragraph>
+			<paragraph>Kinetic scrolling</paragraph>
+			<paragraph>Contacts integration of Skype, Google Talk and other VoIP services</paragraph>
+			<paragraph>Great build quality</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Large and heavy</paragraph>
+			<paragraph>UI only works in landscape mode (for now)</paragraph>
+			<paragraph>No video call capabilities, smart and voice dialing</paragraph>
+			<paragraph>Outdated camera interface and features</paragraph>
+			<paragraph>No preinstalled voice-guided SatNav application</paragraph>
+			<paragraph>No voice recorder, no MMS, and no handwriting recognition</paragraph>
+			<paragraph>No FM radio application (despite that the hardware's there)</paragraph>
+			<paragraph>Limited third-party software availabilty</paragraph>
+			<paragraph>Limited 3G support in the US (no AT&amp;T)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It's crystal clear by now that the Nokia N900 has almost nothing to do with the traditional Nseries values. The full QWERTY side-slider may look similar to its double-digit mates but the Maemo experience is completely different. However, the N900 is not there for the mere sake of difference - a tablet and a phone, it tries to get the best of both worlds. These are worlds though where Nokia feels at home.</paragraph>
+			<paragraph>The internet tablet genes are strong in the Nokia N900 so connectivity and web-browsing are its greatest virtues. The large high-res display and great typing skills are the right kind of backup but we've seen plenty of similar packages already. We told you though - the N900 is different. It's a Maemo-powered phone with Mozilla browsing and all-you-can-eat connectivity. Call it good news, call it a good start or just call it good. Let's see if it calls back.</paragraph>
+			<paragraph>In our preview we saw the Nokia N900 as a lean and mean browsing machine. This price range though has little to no room for one-trick ponies. The chubby phone/tablet will have to play its best and that's where Nseries come in. Of course, the Maemo has still to catch up with Symbian in terms of system expandability but the N900 is an Nseries handset and all-round service is implied.</paragraph>
+			<paragraph>One thing to definitely note about the Nokia N900 is the WVGA screen, which is not too frequent to see in other smartphones - platform limitations are hard to get around. There is of course the Vodafone 360 H1produced by Samsung and running LiMo, which even adds 16M-colors support, but it's very much a niche device. Now add the QWERTY keyboard, which turned out pretty comfortable despite the three-row layout, and things are starting to get there.</paragraph>
+			<paragraph>So, it's time we checked what the Nokia N900 can do for you and where it can possibly fail. A new OS (new to phones anyway) should be able to at least come close to the current crop of smartphone platforms and show a high enough development potential. For what we saw in our preview, the Maemo and the N900 may as well be even more ambitious. But if you take nothing for granted you've come to the right place. Join us on the next page as we power up the N900 and the review unfolds.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Reasonable retail package<subsectionTitle>
+			<paragraph>The Nokia N900 retail package contains everything you would expect but will hardly surprise you with any extra niceties. In the box we found the mandatory charger, along with an adapter which makes older Nokia chargers compatible with the N900. Both preceding standards utilized by Nokia can be converted to microUSB to use with your Nokia N900.</paragraph>
+			<paragraph>There is also a TV-out cable inside the box and a microUSB cable. The one-piece headset won't let you replace the earphones and keep the remote. The last thing inside the Nokia N900 retail package is a cleaning cloth.</paragraph>
+			<paragraph>There is no spare stylus, nor a memory card, though the 32GB of onboard storage is more than welcome of course. You can safely do without a stylus for comfortably navigating your N900, so the lack of a spare unit isn't much of a problem either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia N900 360-degree spin<subsectionTitle>
+			<paragraph>Standing at 110.9 x 59.8 x 18 mm, the Nokia N900 has a total volume of 113 cc. This is more than the already pretty chubby Nokia N97 and perhaps too much compared to the N97 mini. The neat and simple styling though makes sure the N900 doesn't look intimidating or difficult to handle.</paragraph>
+			<paragraph>The weight is the sky-high 181 grams, which makes the Nokia N900 the heaviest phone we have reviewed since the HTC TyTN II.</paragraph>
+			<paragraph>If you are ready to admit that performance and functionality (the QWERTY keyboard mostly) come at a price, you'd be quite comfortable with the N900. After all, the size issues of the B7610 OmniaPRO and the HTC HD2 didn't make them any worse performers. And the N900 even compares favorably against them on some points. Just don't expect to simply slip the handset in your pocket and forget about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>A handset this size could've only done with pure minimalist styling and in fact we find the N900 quite likeable. The sleek plastic at the back and the glossy fro nt certainly combine nicely and the simplified design (a bit too conservative as it might be) is pretty much what we'd expect in a workhorse like the N900.</paragraph>
+			<paragraph>The Nokia E71 has certainly spoiled quite a lot of users by making a point that great business handsets don't necessarily have to be fat bricks. But we are talking a completely different class and form factor here.</paragraph>
+			<paragraph>The sleek glossy front does get messy with use - fingerprints and all - but the rest of the handset is completely immune to those. We are quite fond of the particular type of plastic Nokia used on the handset (and other recent Nseries devices too - N97, N97 mini, N86 8MP) and we are not too bitter about the N900 having no metal on its body.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display: 3.5 inches of class<subsectionTitle>
+			<paragraph>Nokia N900 packs a 3.5" resistive touchscreen of WVGA resolution (800 x 480 pixels). In fact this is the first wide VGA display ever produced by the Finnish company.</paragraph>
+			<paragraph>Quite as expected, a Nokia-made display with those specs delivers great image quality. Great contrast and vibrancy, even not so impressive images spring to life on the N900 screen. The sunlight legibility is splendid, coming close to the best in class.</paragraph>
+			<paragraph>Our only grudge with the N900 display is the brightness, which isn't quite as good as we are used to seeing from Nokia.</paragraph>
+			<paragraph>The sensitivity of the touchscreen is more than decent, but we've seen a few resistive units do even better. The N900 needs a slight push (rather than just a touch) for a tap to be registered but that's to be expected with resistive technology. There are still some exceptions where you can hardly find a difference at all.</paragraph>
+			<paragraph>To put it all in context, the Nokia N900 is better than the Nokia 5800 XpressMusic in terms of screen sensitivity and on par with the Nokia N97.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>QWERTY goodness<subsectionTitle>
+			<paragraph>The QWERTY keyboard is certainly one of the focal parts of the Nokia N900 hardware. The N900 doesn't open as wide as some other side-sliders we've seen which has reduced the available space for the keys.</paragraph>
+			<paragraph>That in turn has forced a three-row layout, which means that every key has to serve two or even three symbols. So the Alt and Shift keys will get a lot of use. It's good there is a virtual on-screen numpad so you won't have to dial using the QWERTY keyboard.</paragraph>
+			<paragraph>The keys themselves are pretty nice to type on. The press feedback and tactility are so good you can achieve pretty great speed. However, the limited space means smaller keys will less spacing in between, so users with large hands are advised to have a hands-on check before splashing the cash.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>There are no buttons on the Nokia N900 front panel, just the earpiece, video-call camera, LED status indicator and a couple of sensors on top. Those include an ambient light sensor in charge of adjusting the screen brightness and keyboard backlighting, and a proximity sensor to turn off the display when you hold the handset next to your ear during a call.</paragraph>
+			<paragraph>The status LED (or notification light as Nokia call it) can be set to blink on a number of different events - incoming email, SMS or instant message as well as missed calls.</paragraph>
+			<paragraph>The top (if the handset is held in the not so natural portrait mode) hosts one of the speakers along with the microUSB port and the lanyard eyelet.</paragraph>
+			<paragraph>The other speaker is at the bottom, next to the lock slider, the 3.5mm audio jack and the mouthpiece. The large and a bit cheapish-looking stylus also goes in here.</paragraph>
+			<paragraph>The left side of Nokia N900 has no controls whatsoever.</paragraph>
+			<paragraph>On the right you get the volume rocker, the power key and the camera button. The infrared port (!) is also here. A peculiar decision by Nokia is to give the users no control over it and leave it only for remote control applications (so no data transfers).</paragraph>
+			<paragraph>The back of Nokia N900 hosts the 5 megapixel camera lens and the dual LED flash. They are hidden under a small protective cover which should be more than enough to protect them from getting scratched.</paragraph>
+			<paragraph>The cover itself is active - automatically launching the camera when you slide it. Once you push it back, you'll exit the camera application.</paragraph>
+			<paragraph>There's also a kickstand here, which can be extended to allow setting the phone on a flat surface at an angle suitable for watching video. A small magnet takes care of retracting the stand when you're done using it. Neat indeed.</paragraph>
+			<paragraph>Removing the back panel reveals the microSD card slot (hot-swap enabled) and the 1320 mAh BL-5J battery. Nokia haven't said a word on battery life but judging from our own experience you can count on about a day and a half between charges. At least that's the battery life we got out of it with two hours of web browsing over Wi-Fi, a little less than an hour of telephony and one hour of using the other features. It's not bad we guess but not too impressive either.</paragraph>
+			<paragraph>The build quality of the Nokia N900 is rock solid. We didn't get to keep the handset long enough to see how it handles wear and tear in the long run, but the smart money are on it turning out pretty sturdy. We didn't hear any creaks or other suspicious noises for the time of our review either.</paragraph>
+			<paragraph>The slider is smooth enough, especially compared to the bumpy run of the two N97 handsets. The spring is still just a bit too stiff compared to most other sliders out there but the slider locks firmly in both positions. The QWERTY keyboard is near perfect, though let down by the 3-row layout. The N900 is still a very friendly handset that feels solid and secure in the hand and offers a new and exciting touch experience. And our scoop on that is coming up on the following pages.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Maemo OS takes on the big guys<subsectionTitle>
+			<paragraph>The Maemo OS 5th was hardly considered too serious as a smartphone platform at first. It was only when the world met it in flesh when we realized that it might actually be doing a better job than the Nokia mainstream S60 5th edition OS. There's none of the S60 one-click-here-two-clicks-there inconsistency to be witnessed with the Linux-based platform.</paragraph>
+			<paragraph>The first thing that you'll notice about the Maemo OS is that unlike most other smartphone OSes it is only works in landscape mode. The telephony and the Blocks game are the only parts of the UI that can work in portrait mode.</paragraph>
+			<paragraph>The good news is that Nokia are already working on a firmware upgrade that should enable portrait mode throughout the interface. It should be coming to the market before the end of the year and we'll do everything we can to update our review once it becomes available.</paragraph>
+			<paragraph>Maemo 5.0 is organized in three levels rather than two. The extra step added between the homescreen and the main menu is reserved for the task manager and it's skipped if there are no applications running in background. What that means is the only way to open the main menu from the homescreen is to open up the Task manager first and then hit the menu shortcut.</paragraph>
+			<paragraph>We certainly get the logic behind that solution as you always have your open applications at hand. And it's not only different applications that go there - the browser windows are listed there as well for easy tab switching.</paragraph>
+			<paragraph>Perhaps the developers were afraid that the applications, which always stay open, will fill up the available memory quite soon so they preferred to remind you of them every time you reach for the main menu to start a new application. Yet somehow we feel that giving the user the options for opening the main menu and the task manager separately would have been quite wiser - it certainly makes more sense for the advanced user.</paragraph>
+			<paragraph>Here's a quick video demoing the Nokia N900 user interface in action:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>We first meet the homescreen<subsectionTitle>
+			<paragraph>The homescreen consists of four side-scrollable screens that you can fill with widgets. There aren't too many widgets preinstalled on the Nokia N900 but all the basics are covered and you can easily download new ones.</paragraph>
+			<paragraph>In addition to widgets you can also add bookmarks and contacts to your homescreen. Clicking one of the bookmarks opens it in a new window in the web browser, while clicking a contact icon brings up shortcuts for initiating a call or an SMS.</paragraph>
+			<paragraph>Tapping at the top right corner brings up the set-up key and upon pressing it you get to rearrange the widgets and add new ones as you please. You can even disable some of the screens to make the rotation quicker.</paragraph>
+			<paragraph>Tapping on the status icons in the top right corner brings up shortcuts to the clocks and alarms, profiles, internet connections and Bluetooth. There is also a slider for adjusting the ringing volume directly form here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Next up is the Task Switcher<subsectionTitle>
+			<paragraph>The task switcher allows you to quickly get back to an already open application or close unneeded ones.</paragraph>
+			<paragraph>As we already pointed out Maemo OS and N900 in particular is highly pitched for its multi-tasking capabilities. You get reminded of that every time you go for the main menu as you always have to go through the Task Switcher as one extra step. We surely hope that Maemo developers will soon offer a way around that (a main menu widget would do we guess) so at least users have a choice.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Now about that main menu<subsectionTitle>
+			<paragraph>The main menu has two-tier structure unlike the flat menus that seem to be the trend nowadays. That means that you need to make an extra step to reach for the applications that Nokia deemed not important enough to sit on the main screen. Those sit in a scrollable list under the "More?" icon. And every app you would install after that also goes there.</paragraph>
+			<paragraph>That's another thing we found to be a bugger at times. We couldn't find an option for manual rearranging of the menu items either. It's true that some apps automatically install a homescreen widget and you can place a shortcut to the others so maybe Nokia expected the users to use the main menu quite rare.</paragraph>
+			<paragraph>If you have been keeping track you would find many of the icons familiar - they are the same as in Nokia's latest S60 smartphones. The settings location is pretty similar so if you know your way around Symbian devices you will find it easier to get used to Maemo.</paragraph>
+			<paragraph>The Nokia N900 also packs the kinetic scrolling throughout its UI, which greatly facilitates work with moderately long lists.</paragraph>
+			<paragraph>Exiting the main menu or going back a step is done by clicking somewhere outside the icons. This gets most people pretty confused at first but it's actually pretty comfortable once you get the hang of it. No need to reach for this or that corner - just press next to an icon and you are out.</paragraph>
+			<paragraph>On the downside if you didn't aim accurately for an icon the unpleasant result might be exiting the menu altogether.</paragraph>
+			<paragraph>A thing we find really comfortable is the integration of the hardware keys in the UI navigation. Nokia N900 has a full hardware QWERTY at hand and has made good use of it. For instance, pressing control and backspace simultaneously takes you back to the task manager, while the familiar PC shortcuts like Ctrl+C, Ctrl+V, Ctrl+Z all work just as you would expect them to starting the Copy, Paste and Undo commands.</paragraph>
+			<paragraph>Finally, we would like to mention a few things about the N900 graphics and the performance. The Nokia N900 offers a decent amount of eye-candy with the main screen getting out of focus when a dialog pops-up. Even the wallpaper goes out of focus much the same way when you open the menu. Apps also disappear with nice effect when closed from the task bar and the automatic rotation in the phonebook is pretty nice.</paragraph>
+			<paragraph>The homescreen behaves in a way similar to the Android handsets where the icons and the wallpaper move at different speeds to simulate great distance between them.</paragraph>
+			<paragraph>The best part is that the Nokia N900 runs pretty smoothly with no lags or hold-ups. There is some waiting when opening data-intensive applications like Ovi Maps or traffic-intensive web pages but that is to be expected. In general the handset is another great display of the great power of the 600 Mhz Cortex A8 CPU. Well, the 256 MB RAM memory don't do much harm either.</paragraph>
+			<paragraph>The fast processor also benefits the responsiveness of the screen from a user's point of view. There are very rare cases when Nokia N900 won't react immediately to your click.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Pretty basic phonebook<subsectionTitle>
+			<paragraph>Nokia N900's phonebook is hardly the most functional we have ever seen. In fact when you launch it from the phone application it looks a bit better, packing a letter search at the side.</paragraph>
+			<paragraph>When you open the main phonebook however you can only choose whether contacts should be ordered by first, last name or nickname. Searching here is only done by gradual typing of some of the contact's names. Grouping contacts is also possible.</paragraph>
+			<paragraph>Nokia N900 offers integration of the most popular instant messaging clients out there in the phonebook. Additionally, if you enter, say, a contact's Skype account to their details you will be also offered a choice between a regular and a Skype call the next time you want to dial that contact.</paragraph>
+			<paragraph>Editing a contact offers a good variety of preset fields but not as good as the Nokia S60 handsets. Yet we don't think the difference will be perceivable in real life usage. And you can still replicate each field as many times as you want.</paragraph>
+			<paragraph>An interesting omission is the option to assign specific ringtones to particular contacts. But we think that can be easily fixed in future software revisions.</paragraph>
+			<paragraph>The Nokia N900 doesn't have a call log in the classical meaning of the word. There isn't a dedicated application for that but the phone app shows all your recent communication as a scrollable list. Additionally when you look at a single contact's details in the phonebook you can check your past communications with that contact.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony has room for improvement<subsectionTitle>
+			<paragraph>We are really pleased with the in-call performance of Nokia N900. Reception was really clear and there were no interferences whatsoever. Only the earpiece wasn't as loud as most other Nokia handsets we have tested but it isn't too bad either.</paragraph>
+			<paragraph>Unfortunately, neither smart or voice dialing is an option with the N900 at this stage. Another pretty comfortable feature omitted by Nokia that we hope will make its way to the device in the near future. A third party app and a feature added by a firmware upgrade are both options and we hope at least one of them gets to the market soon.</paragraph>
+			<paragraph>Thanks to the built-in proximity sensor the Nokia N900 automatically turns off its display when you hold it against your face during a call. Once you take it away the display is reactivated so you can easily interact with the phone.</paragraph>
+			<paragraph>There is also the so-called turn-to-mute functionality on the N900 thanks to the accelerometer. All you need to do in order to mute an incoming call is flip the phone over.</paragraph>
+			<paragraph>A really cool innovative feature of the N900 allows the phone application to automatically start when you turn the phone to portrait mode. This feature is switched off by default and will probably be sacrificed altogether when portrait mode becomes available throughout the interface but it works pretty cool now.</paragraph>
+			<paragraph>There are four big buttons available when you are in a call - speaker, mute, hold, dial pad and end call. There's also a shortcut to the task manager which send the active call to background.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on Nokia N900. The handset didn't break any glass around the office but still managed to achieve a "Good" mark. That means that you are okay in most cases, but need to keep an eye on the phone in extremely noisy environments.</paragraph>
+			<paragraph>More info on our test can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging: it's got all but MMS covered<subsectionTitle>
+			<paragraph>Coming with a full QWERTY keyboard the Nokia N900 will naturally be regarded as a good choice for heavy texters. Indeed the handset is a pretty powerful messaging tool but there are a few limitations when compared to its S60 siblings and some other competitors.</paragraph>
+			<paragraph>For one Nokia N900 doesn't support MMS, which leaves SMS and email as your only messaging options. The audio messaging available on the S60 devices is understandably unavailable too as it is merely a type of MMS. Whether or not that matters to you or not is not something for us to say but it's good to have in mind when comparing options.</paragraph>
+			<paragraph>The SMS editor has a counter, indicating the number of characters left to the limit of 160. Naturally, you can also activate delivery reports to confirm that your message has reached its addressee.</paragraph>
+			<paragraph>When you are exiting the message editor without having sent the message, the Nokia N900 saves it and the next time you enter the editor resumes form where you left. It's can be irking at times when you want to save message as a draft and start another one but in the other cases that's the more comfortable solution.</paragraph>
+			<paragraph>The email client is also pretty nice on the Nokia N900 although its easy setup process isn't as easy as it was on the Nokia N97. We needed to enter a few of the settings manually in addition to the username and password.</paragraph>
+			<paragraph>For example, the handset filled our POP3 and SMTP servers automatically but left to us to activate the SSL protocol manually (Gmail works only over SSL encrypted connections).</paragraph>
+			<paragraph>There is no problem setting up multiple email accounts, which co-exist peacefully on the Nokia N900.</paragraph>
+			<paragraph>The client downloads the entire messages automatically so there is no option to get only the headers if you're stingy with the data traffic. You can enable the handset to check your mail at a given interval or when WLAN is available. The messaging format (HTML or plain text) is also customizable.</paragraph>
+			<paragraph>There is also support for attachments and you can open any incoming documents or other files with the suitable Nokia N900 applications. Signatures can be activated and customized too.</paragraph>
+			<paragraph>Finally, we need to mention that Nokia N900 offers a virtual QWERTY keyboard for text input in addition to the regular one. We cannot see too many cases where its use is justified, which explains why it is turned off by default but if you think otherwise, feel free to use it.</paragraph>
+			<paragraph>The N900 doesn't have handwriting recognition though, despite there's a stylus onboard.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>File manager does a fine job<subsectionTitle>
+			<paragraph>The file manager of Nokia N900 is splendid. It has decent graphics but what makes it so good is of course the functionality.</paragraph>
+			<paragraph>You can do basically anything you would like to with your files on the Nokia N900. Moving, copying, renaming or sorting - you name it.</paragraph>
+			<paragraph>There are only two things missing when we compare the Nokia N900 file manager with the S60 file browser. The first is the option to send a file straight from the file manager with the N900. The other omission is the search functionality for finding a file or a folder by just part of its name.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image gallery is pretty limited<subsectionTitle>
+			<paragraph>The image gallery of Nokia N900 is one of the things that confirm its non-multimedia dedication. It has an unassuming interface and its functionality doesn't reach far beyond the basics. No 3D-view or some Cover Flow-like animation.</paragraph>
+			<paragraph>At least sweep gestures work here, enabling you to go through your pictures by sweeping your finger across the screen.</paragraph>
+			<paragraph>Portrait and landscape mode aren't automatically alternated, despite the built-in accelerometer. You will have to use the on-screen control for that purpose or just silde the keyboard out.</paragraph>
+			<paragraph>Strange as it might this touchscreen phone doesn't have any touch-driven zooming in its gallery - the only way to zoom in and out is by using the volume rocker key.</paragraph>
+			<paragraph>On the positive side picture browsing is pretty fast and so are zooming and panning. Going from minimum to maximum zoom only takes about a second with 5 megapixel photo and that is good enough in our books. The smooth kinetic panning is also on the better side of implementations we have seen on other smartphones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Unimpressive music player<subsectionTitle>
+			<paragraph>The music player of Nokia N900, just like its gallery covers all the basics but that's basically all it does. If you just want to listen to music you'll be fine with it but features such as track recognition or automatically generated playlists are out of the question.</paragraph>
+			<paragraph>Album art is supported but there is no fancy animation to go with it. It just gets displayed on the thumbnails and next to the running track name in Now playing mode and that's that.</paragraph>
+			<paragraph>The music library of Nokia N900 can be sorted by artist, album and genre and can be searched by gradual typing. Custom playlists can also be created.</paragraph>
+			<paragraph>There are no equalizers on Nokia N900, leaving the shuffle and repeat as the only extra buttons in the Now playing screen. Well that and the finger-friendly volume key, but it doesn't really count.</paragraph>
+			<paragraph>The music player has its own homescreen widget which can be used for controlling it straight from the homescreen. If you don't fancy the prospect of the music player eating some of your valuable homescreen estate you can still minimize it to play in background and access it via the Task Switcher.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM transmitter - the quickest way to share your music<subsectionTitle>
+			<paragraph>The Nokia N900 also sports a built-in FM transmitter . This quite handy piece of hardware allows you to stream music tracks from your phone to any standard FM radio receiver nearby at a frequency of your choice.</paragraph>
+			<paragraph>The interface (if you can even call it that) of the FM transmitter is simple enough to guarantee smooth and easy operation.</paragraph>
+			<paragraph>If you live in a city with lots of radio stations, it might take some trying before you find a free frequency slot within the standard FM scale of 88.10 to 107.90 MHz.</paragraph>
+			<paragraph>The strength of the transmitter is decent. You can get good reception at 2.5-3 meters when the N900 and the receiver are in clear sight, and excellent when you move to within a meter of the radio antenna.</paragraph>
+			<paragraph>Strangely enough, even though the Nokia N900 has built-in FM radio receiver there is no preinstalled application to utilize it. Instead Nokia expects the users to find one themselves - an effort (little as it might be), which might have been saved.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Pretty good audio quality<subsectionTitle>
+			<paragraph>Nokia N900 audio output is pretty good with decent overall performance and no major weak spots. Our only concern is the relatively high distortion values but the rest of the readings are excellent.</paragraph>
+			<paragraph>The frequency response of the N900 is really great, matching the perfect line for most of the range. The greatest deviations are at the highest frequencies but they still don't deviate more than 0.32dB.</paragraph>
+			<paragraph>The noise level, dynamic range and stereo crosstalk readings are also very good, comparable to the best in class. Here go the results so you can compare it to some of the other handsets we have tested.</paragraph>
+			<paragraph> Nokia N900 vs Samsung B7610 OmniaPRO frequency response graphs</paragraph>
+			<paragraph>You can find more information about our audio quality test here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player: DivX at long last<subsectionTitle>
+			<paragraph>Just when we were getting tired of Nokia releasing smartphones that cannot handle DivX and XviD videos properly and here comes the N900 like a breath of fresh air. That little kickstand thingy at the back of the phone suggests that this time Nokia took video playback seriously and the result is pretty good. The stereo speakers help as well.</paragraph>
+			<paragraph>The large screen and the large number of supported formats that saves you the need to convert your videos are a great benefit to video-watching experience. At this stage video watching isn't too attractive on mobile phones so anything that complicates it might put the user off altogether.</paragraph>
+			<paragraph>We had no trouble playing any of our video samples of the Nokia N900 which suggests its excellent compatibility. And all of those ran pretty smooth too. We never reached past D1 resolution but we don't think the users will actually need anything more than that.</paragraph>
+			<paragraph>The video player itself only works in landscape mode but that hardly a surprise with the Nokia N900, now is it? Anything else would have wasted the widescreen display. When fullscreen, a press on the screen shows the controls which are normally hidden.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>5MP Carl Zeiss camera fails to impress<subsectionTitle>
+			<paragraph>The Nokia N900 comes with a 5 megapixel camera with a maximal image resolution of 2576 x 1936 pixels. A dual LED flash is supposed to assist is low-light capabilities but as you know its range is pretty limited so you shouldn't expect miracles.</paragraph>
+			<paragraph>The Carl Zeiss certification got us intrigued at first but as it turned out the camera of Nokia N900 is just another confirmation that the device isn't exactly meant to be a multimedia monster. Now don't get us wrong - it isn't too bad or anything but it is far from the best 5MP shooters.</paragraph>
+			<paragraph>The quite basic user interface was the first indication that got us thinking we should probably lower our expectations. The available settings include white balance, ISO sensitivity, flash mode and exposure compensation plus dedicated modes for portrait, macro, landscape and sports shooting.</paragraph>
+			<paragraph>There are also two different image sizes (5 and 3 MP) and geo-tagging capabilities and that ends the list. When full 5 MP resolution is selected, the viewfinder occupies only the central part of the display, to compensate for the different aspect ratio of the screen and the camera sensor.</paragraph>
+			<paragraph>The image quality is about average for a 5 megapixel shooter. The colors are good and the amount of resolved detail is very decent too. The image noise however is pretty high, especially in uniform areas like the blue sky. And it's been some time since we've last seen a similar kind of image processing. It's a bit immature as if coming from the early days of cameraphones.</paragraph>
+			<paragraph>The dynamic range is also average at best, but at least the contrast is decent. You can check out the photos below to see if you like the end results or not.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic resolution<subsectionTitle>
+			<paragraph>We also snapped our resolution chart with the Nokia N900. You can check out what that test is all about here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording let down by the framerate<subsectionTitle>
+			<paragraph>We were not really unhappy with the limited still camera options but the camcorder took things to the extreme. Called "automatic video" it only has two options available: white balance and exposure compensation. No alternative resolutions, no LED settings, no nothing.</paragraph>
+			<paragraph>The video recording of Nokia N900 sounds pretty good on paper. WVGA (848 x 480 pixels) is the second highest resolution among mobile phones we have tested, after the 720p of the Omnia HD. The 24fps framerate also sounded pretty decent.</paragraph>
+			<paragraph>Unfortunately, the Nokia N900 doesn't actually manage to keep up this framerate, especially in the first several seconds of a video. That results in subjectively quite choppy videos.</paragraph>
+			<paragraph>The compression applied is also a bit excessive and we would have been happier with a bit more saturated colors.</paragraph>
+			<paragraph>To put it simply, the Nokia N900 doesn't deliver the performance that one might expect by reading the specs. You can see for yourselves by downloading the sample video below.</paragraph>
+			<paragraph>Nokia N900 camera sample video in WVGA (848 x 480 pixels) resolution @ 24fps</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity at its best<subsectionTitle>
+			<paragraph>With web browsing being Nokia N900 thing, connectivity simply has to be good. But the handset even managed to surpass expectations by adding the Infrared connectivity to the basket, making a grand slam of data transfer means.</paragraph>
+			<paragraph>It's not that Infrared has too much application for file transfers or something. The lack of manual control over it suggests just the opposite but it's nice to have it onboard so you can use your handset as a universal remote control with the appropriate software.</paragraph>
+			<paragraph>The Nokia N900 has USB 2.0 support and Bluetooth 2.1 (A2DP support goes without saying). Wi-Fi connectivity is also at hand, easily manageable through the shortcut that appears when you touch the status icons from the homescreen.</paragraph>
+			<paragraph>All kinds of network connectivity are at the user disposal - GPRS, EDGE and 3G with HSPA. The GSM/GPRS/EDGE support is quad-band which makes the Nokia N900 capable of wordwide roaming, while the three supported 3G bands are 900, 1700 and 2100 MHz. HSDPA speed is up to 10 Mbps, while HSUPA reaches 2Mbps.</paragraph>
+			<paragraph>The bad news (for some of our American friends anyway) is that AT&amp;T's 3G network isn't supported by Nokia N900. Unless Nokia release another version of the N900, it's either T-mobile or no 3G with this hansdet in the US.</paragraph>
+			<paragraph>Finally, the Nokia N900 has a memory card slot, which combined with a proper card reader can usually give you the fastest data transfer rates. Indeed with 32GB onboard storage the card reader is more of a connectivity option than memory expansion.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser supreme<subsectionTitle>
+			<paragraph>Now this is an area where the Nokia N900 really excels. The internet tablet pedigree shows big time in the web browser, which is certainly the best part of its software equipment.</paragraph>
+			<paragraph>The Mozilla-based application gives a new meaning to the term desktop-like browsing. It sports the same rendering algorithm as what seems to be the favorite desktop browser around the office so the fact that every website renders perfectly goes without saying.</paragraph>
+			<paragraph>There is visual history, automatic form-filling and Google Search shortcut for maximum convenience. Double-tapping on a website element zooms it in to fill the WVGA resolution of the display. Another double tap and you are back at where you started. Panning and zooming is really fast and accurate.</paragraph>
+			<paragraph>Nokia have also came up with another zooming method for the N900 - you can make a spiral gesture with you finger. You simply start the spiral with a movement to the right side for zooming in and to the left for zooming out. However we find that too slow to be actually useful. You need to make four or five circles instead of two short taps. And there isn't auto-alignment when you use that gesture zooming.</paragraph>
+			<paragraph>Panning is pretty smooth provided that you have waited for the whole page to load. Not that with a WVGA display you will have to resort to it too often anyway.</paragraph>
+			<paragraph>Multiple tabs (or rather windows) are also available and each of them appears as a different application in the task manager. That means that their number is only limited by the available RAM memory.</paragraph>
+			<paragraph>The QWERTY keyboard also enhances the web browsing experience greatly. Instead of tapping once for the controls to appear, then deactivating full screen mode and clicking the address bar, you just start typing the address of the next page you would like to visit and press enter. It doesn't get much better than that really.</paragraph>
+			<paragraph>Finally, we would like to mention one of the most important features of the browser - its Flash support. Nokia N900 comes with full Adobe Flash 9.4 and not the Flash Lite that most other handsets support. We have never seen a handset handle Flash content as smoothly and quickly as the N900.</paragraph>
+			<paragraph>And here is some more good news for you. The Nokia N900 will also get an upgrade to Adobe Flash 10.1 with hardware acceleration when that becomes available. Take that, rest of mobile world!</paragraph>
+			<paragraph>If the web sites you browse have a lot of Flash elements you should definitely check out the Nokia N900 when looking for your next handset. Come to think of it, even if you don't need the Flash but still do a lot of browsing, you should probably consider N900 very seriously.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer has a few misses<subsectionTitle>
+			<paragraph>To be a true workhorse, the Nokia N900 should have an excellent organizer. The set of applications available isn't the most extensive we have seen but their performance is excellent. There are a few major gaps however that need to be filled and we really hope that will happen soon.</paragraph>
+			<paragraph>The calendar has the usual available view modes - monthly, weekly and daily. In addition you can see all the tasks that you have regardless of their date. The birthdays of all your contacts are automatically added to the calendar in a special smart event group.</paragraph>
+			<paragraph>The other groups of events are up to you to create, giving a different color to each so you can easily tell them apart. There is only a single type of event that you can create, but it offers all the commonly used options - start and end time, location, description and allow for an alarm to be set to act as a reminder.</paragraph>
+			<paragraph>The Nokia N900 calculator has two modes - Basic and scientific. That gives you the choice between simpler operation and better functionality. There isn't a cool way to change the two modes such as the iPhone, where the accelerometer comes into play but the functionality is all there.</paragraph>
+			<paragraph>The Mobile office that goes with the Nokia N900 is rather disappointing as it only offers a 15-days trial version after which you need to purchase the full version to continue using it. It handles .xls .doc and .ppt files but doesn't even allow editing.</paragraph>
+			<paragraph>Anyway you can try it for the trial period and than switch to a third party option if you don't want to hand out the cash.</paragraph>
+			<paragraph>At least the PDF viewer is a complete application with no hidden fees.</paragraph>
+			<paragraph>The organizer package also includes a Notes application, which automatically converts your notes to HTML and a sketch application where you can draw directly on the phone's display.</paragraph>
+			<paragraph>Unluckily, there's no unit converter among the preinstalled apps so you will have to get one yourselves after you purchase the handset. A voice recording app is not present either.</paragraph>
+			<paragraph>The alarm application allows you to set up as many alarms as you want, each with its own name, trigger time and repeat pattern. The interface is pretty simple and the graphics offered by the clock application are rather cool.</paragraph>
+			<paragraph>Thanks to the built-in accelerometer, you can also snooze an alarm by simply flipping your phone, much like with an incoming call.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>There are a few games too<subsectionTitle>
+			<paragraph>There are four preinstalled games on Nokia N900. That doesn't make it a game fury right away but it beats the crap out of Nokia N97 and its grand total of zero preinstalled games.</paragraph>
+			<paragraph>The first game has already been mentioned in the review. The Blocks games is a version of the good old Tetris that we all love and enjoy, played with the four arrows on the QWERTY keyboard. It does take time getting used to it but after all that's what the first few levels are for.</paragraph>
+			<paragraph>The chess can be played either directly from the touch screen or with the arrows and the enter key on the keyboard. There are four difficulty levels or you can play against a human opponent. The board is nicely drawn and there are also some sound effects so it might turn out a good time-killer for the fans of the classic games.</paragraph>
+			<paragraph>Mahjong is another classic where you need to remove matching tiles from the board until you clear it completely. You can only use the touchscreen for that one.</paragraph>
+			<paragraph>The final title is Marbles where you need to get a given number of marbles in a specific formation with as little moves as possible.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GPS: Ovi Maps will lead the way<subsectionTitle>
+			<paragraph>Nokia N900 comes with a built-in GPS receiver that we find to be very sensitive. It managed to find our position (although not with perfect accuracy) even indoors, about a meter away from the window. Once you go outside it also gets very accurate and has no problem keeping its satellite lock even in dense urban environments.</paragraph>
+			<paragraph>The large high-resolution screen sounds like a serious premise for good use as a dedicated navigation unit. But don't get too excited as the preinstalled Ovi maps application doesn't even support voice-guidance at this stage (not even for a fee).</paragraph>
+			<paragraph>The good thing is that routing and tracking come for free. That means that you can set up a route and follow it in real time, except that you will need to look at the display, and not listen to the instructions. A pretty annoying issue with that mode is its tendency to rotate randomly when you stop at a traffic light. If you haven't checked up in advance you might as well forget which way you were heading and make a wrong turn.</paragraph>
+			<paragraph>Navigation aside, the NAVTEQ-powered Ovi maps is a pretty decently running app, with relatively smooth panning and quick interface. It offers night mode and landscapes as well as three different map modes - Map, Satellite and Terrain.</paragraph>
+			<paragraph>Unfortunately, there is no way to customize the route-planning algorithm or indicate any obstacles on the road, such as roadwork.</paragraph>
+			<paragraph>So as you see the GPS experience delivered by the Nokia N900 greatly depends on your usage. It's by no means one-size-fits-all with all its limitations and you should really think if the things missing matter to you. If they don't - you have yourselves a free app with decent maps for free. If they do however you will have to wait for a 3rd party app to come around.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>3rd party applications<subsectionTitle>
+			<paragraph>The availability of third-party apps is currently among the weaknesses of Nokia N900 and the Maemo 5 platform as a whole. The young platform hasn't yet developed a large enough application base, mainly because it's on the market since only a few days.</paragraph>
+			<paragraph>It's true that the Nokia N800 and N810 ran on the same OS, but its previous version and as we found out not all applications are compatible with N900, if at all. Even Nokia still haven't released the Ovi store Maemo section. They promise this to happen soon though and it will be a good step forward for the platform.</paragraph>
+			<paragraph>Installing an application is pretty easy. All you need to do is download an installable file and the application manager launches automatically. It will then guide you through the installation process, which is pretty short in most cases.</paragraph>
+			<paragraph>The Maemo.org website probably has the largest base of applications for Maemo 5 right now but there are quite a lot of other developers that have a few offerings of their own. Most of the basics are covered so in most cases you are a Google search away from finding the app that you need.</paragraph>
+			<paragraph>Exactly the large amount of independent developers is what makes us believe that the Maemo 5 has such great potential. With so many devs (and users of course) so enthusiastic about the new platform good things are simply bound to happen.</paragraph>
+			<paragraph>We also think that Nokia will finally realize that they have struck gold with the Maemo and will put some serious effort into the marketing of the device. That nice price that they are selling it for (a launch price of 600 US dollars Stateside) at launch is a good way to get the device in more people's hands. And once the user-base is secured, the application flood is simply a matter of time.</paragraph>
+			<paragraph>With the rumors of Nokia throwing a second Maemo 5 device our way getting more and more frequent lately things seem to be getting even better. A QWERTY-less version will certainly have more mass-market appeal than the chunky N900 but its sales will benefit both devices.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Now that certainly was refreshing. The Nokia N900 is different from anything else we have seen recently in the touch phone market. Better yet, it's different with a purpose. The Maemo platform is all about simplicity and multitasking - we guess that's music to the ears of power users. The Maemo will certainly seem unusual but - take our word - never unfriendly.</paragraph>
+			<paragraph>Of course there are a few shortcomings left to fix but the internet tablet background has made sure none of them is a deal-breaker. And we certainly believe the Maemo community will be playing a key role in making having this smartphone and any upcoming ones an exciting thing.</paragraph>
+			<paragraph>Indeed passionate users and developers are the most valuable asset of a given platform. Just look at the Apple iPhone if you need further proof.</paragraph>
+			<paragraph>But Maemo is not another OS trying to beat the iPhone. While it certainly nears the easygoing cool handling of the iPhone, it's also reaching for the versatility of Symbian S60. However, even if N900 is a little short at both ends at this point anyone can see the promise. Most importantly though, it's Nokia who need to be aware of that promise and keep it.</paragraph>
+			<paragraph>The big and chubby device is anything but mass-market but that's perhaps Nokia's way of reiterating the fact that it's no run-of-the-mill handset either. We can see some of the low-key cautious design approach of the 5800 XpressMusic in the N900. However, the 5800, on which the touch-enabled Symbian debuted, was trying to get into everyone's pocket. It was so affordable it was literally trying to bribe people into forgiving all the Symbian touchscreen imperfections. The N900 in turn is not trying to paint the town red but it comes across as more elitist, insider kind of gadget for the real geeks. Anyway, the N900 is the better debut, by far.</paragraph>
+			<paragraph>But the competition counts big time for shoppers, so let's have a look at a few of the Nokia N900 alternatives among rival platforms.</paragraph>
+			<paragraph>We start with a family feud which might escalate into a major conflict. The Nokia N97 and N97 mini are more pocket-friendly and offer even more features. And while we do appreciate the Maemo experience, Symbian purists might prefer the "Home sweet home" feeling of the S60 5th edition.</paragraph>
+			<paragraph>  Nokia N97 ? Nokia N97 mini</paragraph>
+			<paragraph>The WinMo world probably has the largest number of alternatives to offer. The HTC Touch Pro2 and Samsung B7610 OmniaPRO (and we should probably include the Sony Ericsson XPERIA X2, too) are true power devices who have each other as their main problem. Given the incomparably larger number of applications available for WinMo, some users might take the readily available richer functionality over the great potential for growth. And we can't blame them either.</paragraph>
+			<paragraph>   HTC Touch Pro2 ? Samsung B7610 OmniaPRO ? Sony Ericsson XPERIA X2</paragraph>
+			<paragraph>Finally, we take a peek at one the most interesting Android offerings on the market. Motorola MILESTONE offers a slightly bigger display with a drop more resolution (3.7" and 480 x 854 pixels) and runs the latest Android - 2.0 Eclair. A bold comeback for Motorola against a Nokia revolution - it doesn't get more exciting than that.</paragraph>
+			<paragraph> Motorola MILESTONE</paragraph>
+			<paragraph>Now, how about revolution eating its own children? We doubt the N900 will fall victim to the market it's changing. There are very few handsets we would so much as consider against the N900 for Internet browsing. Its tablet roots are strong enough to take care of that. The N900 has put Maemo on the mobile platform map and has finally given Nokia an edge in the catch-up game they've been playing with their controversy-ridden Symbian S60 5th so far. Nokia now have two touch platforms to work with and we have front row seats. We can hardly wait.</paragraph>
+		</subsection>
+	</page>
+</review>

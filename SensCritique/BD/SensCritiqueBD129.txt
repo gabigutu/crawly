@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Sept Héros</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Sept_Heros/22303997</link>
+	<generalScore>6.7</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Trop vieux pour ces super pouvoirs</title>
+		<author>Graffiti</author>
+		<date>2016-08-31</date>
+		<score>0.7</score>
+		<content>Pour en savoir plus, lisez ma critique sur mon blog Le tourneur de pages https://tourneurdepages.wordpress.com/2016/08/31/7-heros/</content>
+	</review>
+</sensCritiqueEntity>

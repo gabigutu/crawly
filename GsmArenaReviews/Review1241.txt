@@ -1,0 +1,327 @@
+<review>
+	<title>Samsung Galaxy Nexus review</title>
+	<description>Opening new doors</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_nexus-review-699.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM; penta-band 3G support</paragraph>
+			<paragraph>HSDPA 21Mbps; HSUPA 5.76Mbps</paragraph>
+			<paragraph>Android 4.0 Ice Cream Sandwich OS with stock UI</paragraph>
+			<paragraph>4.65? Super AMOLED capacitive touchscreen with HD (720 x 1280 pixels) resolution; 16M colors; oleophobic surface</paragraph>
+			<paragraph>Slim profile at 8.9mm</paragraph>
+			<paragraph>Dual-core 1.2GHz Cortex-A9 CPU; PowerVR SGX540 GPU; TI OMAP 4460 chipset</paragraph>
+			<paragraph>16/32GB built-in storage; 1GB RAM</paragraph>
+			<paragraph>5 MP camera (2592x1936 pixels) with autofocus, LED flash; 1.3MP front-facing unit</paragraph>
+			<paragraph>1080p video recording @30fps; touch-to-zoom while recording</paragraph>
+			<paragraph>Wi-Fi 802.11 a/b/g/n</paragraph>
+			<paragraph>DLNA; Wi-Fi hotspot</paragraph>
+			<paragraph>Bluetooth 3.0 with ADP</paragraph>
+			<paragraph>Charging MHL microUSB port with TV-out (1080p) support</paragraph>
+			<paragraph>GPS receiver with A-GPS support</paragraph>
+			<paragraph>NFC connectivity</paragraph>
+			<paragraph>Accelerometer, gyro and proximity sensors; compass; barometer</paragraph>
+			<paragraph>Back cover made of Hyper Skin material for increased grip</paragraph>
+			<paragraph>Excellent audio quality</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Camera resolution is not on par with the rest of the high-end dual-core competition</paragraph>
+			<paragraph>Below average battery life</paragraph>
+			<paragraph>Lacks a dedicated camera key</paragraph>
+			<paragraph>No microSD card slot</paragraph>
+			<paragraph>No mass-storage mode (some files don't show up in MTP mode)</paragraph>
+			<paragraph>Android 4.0 Ice Cream Sandwich is yet to be fully compatible with all apps from the Android Market</paragraph>
+			<paragraph>No FM radio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Once again, it is the Nexus time of the year. This time, Google has left the Gingerbread cookies and, together with Samsung, has brought to us the Galaxy Nexus to deliver the Ice Cream Sandwich. And while a cold dessert is totally out of place this holiday season, the latest release of Android is more relevant than ever.</paragraph>
+			<paragraph>The Galaxy Nexus packs an impressive spec sheet, but it is (yet again) the OS which is the device?s main highlight. After all, Android 4.0 Ice Cream Sandwich is widely expected to put an end to the fragmentation, which currently plagues Google?s mobile platform.</paragraph>
+			<paragraph>Unlike its Nexus S predecessor, which was essentially a rebranded Samsung Galaxy S, the Samsung Galaxy Nexus is a completely different device from the current flagship of the company, the I9100 Galaxy S II. The latest Google phone sports a different GPU and chipset, which are, well, not as powerful as those found inside the Galaxy S II.</paragraph>
+			<paragraph>Here is a quick look at what the Samsung Galaxy Nexus has to offer, along with its main disadvantages.</paragraph>
+			<paragraph>A quick look at the key features of the Samsung Galaxy Nexus will show you that the smartphone?s hottest hardware feature is its Super AMOLED screen with HD resolution ? a first for a Samsung smartphone. The display combines amazing contrast ratio and superb viewing angles, with eye-popping size and resolution ? a perfect match for the spanking new OS on board.</paragraph>
+			<paragraph>As far as the rest of the hardware is concerned, we heavily suspect that Samsung has intentionally omitted a couple of Galaxy S II features such as the microSD card slot and a superior 8MP camera unit. The superior screen of the Galaxy Nexus, while giving it a touch of exclusivity hardware-wise, will not be enough to cannibalize the strong sales, which the I9100 still enjoys.</paragraph>
+			<paragraph>The latest Google phone will be aimed at the Android purists ? the crowd, which doesn?t like launchers or UI tweaks. And also the crowd that likes to get the latest OS updates from Google first. In this aspect, the smartphone is entirely in a league of its own.</paragraph>
+			<paragraph>So is the Samsung Galaxy Nexus a proper flagship for the company, or is it simply an Android 4.0 Ice Cream Sandwich flag bearer for Google? This is what we?re trying to find out in this review.</paragraph>
+			<paragraph>We are going to continue next with an unboxing of the smartphone, followed by design and build quality inspection.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A full retail package<subsectionTitle>
+			<paragraph>In the stylish white retail box of the Samsung Galaxy Nexus you will find a charger, a USB cable and a pair of premium Samsung earbuds.</paragraph>
+			<paragraph>A case of some sort and an MHL adapter would have been a welcome addition to the retail box of the Galaxy Nexus. Even in its current configuration though, it has your basic needs covered.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy Nexus 360-degree spin<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus has retained the impressive curved screen of its predecessor ? a good idea as it is currently a feature found only in the Samsung made Nexus Devices.</paragraph>
+			<paragraph>With measures of 135.5 x 67.9 x 8.9 mm, the smartphone has loads of presence. Thankfully, its slim profile and modest 135 grams of weight bode well for its pocketability.</paragraph>
+			<paragraph>As you can notice from the pictures above, the Galaxy Nexus is only a tad bigger than the Galaxy SII, despite its monster of a screen. This can be contributed to the fact that the phone has no hardware buttons at its front, thus saving precious space.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>With the design of the Galaxy Nexus, Samsung have accomplished something, which was rather unthinkable until recently. The smartphone has merely two hardware buttons. Combined with its dark gray color scheme, the device is a celebration of understated design. The slightly curved screen, while paying homage to its predecessor, does not make the Galaxy Nexus look overly familiar ? it is simply like nothing else on the market in terms of design.</paragraph>
+			<paragraph>The build quality of the Galaxy Nexus is superb. The back is made from grippy plastic (intriguingly called Hyper Skin), while the display has gotten the oleophobic treatment. Both features leave absolutely no room for fingerprints. While many might frown over the lack of any metal in the device?s construction, we do believe that the weight benefit from this step is well worth it.</paragraph>
+			<paragraph>The 4.65? Super AMOLED screen with HD resolution is nothing short than a thing of beauty. The bump in the number of pixels is a perfect complement to a display, which has been among the industry benchmarks for quite some time now. Its contrast ratio and viewing angles are still to be matched by its competition.</paragraph>
+			<paragraph>The contrast, of course, being infinite. We measured the brightness levels of the screen and they turned out surprisingly low. Putting the Galaxy Nexus next to the Galaxy Note, it doesn't seem that much dimmer. The difference certainly isn't the 73% that the numbers suggest.</paragraph>
+			<paragraph>Below the display of the Galaxy Nexus you will find? absolutely nothing. We surely hope that the lack of hardware buttons is what the future holds for Android smartphones. It looks quite neat on the Galaxy Nexus.</paragraph>
+			<paragraph>Things begin to look more familiar above the screen of the device. It is the home of the earpiece, ambient light and proximity sensors, as well as the front-facing camera unit.</paragraph>
+			<paragraph>The volume rocker is on the left side of the device. On the right side, you will find the power/lock key.</paragraph>
+			<paragraph>There is nothing happening on the top of the Galaxy Nexus. All you are going to see there is a tiny latch for removing the battery cover.</paragraph>
+			<paragraph>The bottom of the device is much busier. It houses the microUSB port, 3.5mm jack, and the microphone ? just like in the case of the Nexus S.</paragraph>
+			<paragraph>On the back of the Galaxy Nexus is where the 5MP camera with LED flash resides. It is kept company by the loudspeaker, which is located on the, typical for all upscale Samsung smartphones, chin at the bottom.</paragraph>
+			<paragraph>It is business as usual under the paper thin battery cover. All you are going to find there is the beefy 1750mAh battery and the SIM card slot.</paragraph>
+			<paragraph>In our battery test, the Samsung Galaxy Nexus performed rather poorly. It lasted only 31 hours of combined usage, which is one of the lowest times we've seen yet. It did okay as far as talk time goes - 8 hours and 23 minutes - and the video playback time was about average (6 hours and 2 minutes). Web browsing was abysmal however, lasting only a couple of minutes over 3 hours starting from a full charge.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can check our thorough battery test over at our blog.</paragraph>
+			<paragraph>The Samsung Galaxy Nexus is easy to handle, despite its massive size. The Hyper Skin material on the back is great in preventing accidental drops. It even allows you to operate the device with one hand without worrying about accidents.</paragraph>
+			<paragraph>We can?t find anything to frown about, regarding the design and build quality of the Samsung Galaxy Nexus. The smartphone is a massive improvement over its predecessor in terms of quality and feel ? both now match its unique looks.</paragraph>
+			<paragraph>We are now going to take a journey into the depths of Google?s latest Android 4.0 Ice Cream Sandwich OS. With premium hardware coming from just about every manufacturer these days, we believe that the software experience will drive the Galaxy Nexus sales.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus is the first phone to feature the latest major version of Android - 4.0 Ice Cream Sandwich (ICS). The interface is very much like the one in 3.0 Honeycomb, but parts of it have been revamped to work both on phones and on tablets.</paragraph>
+			<paragraph>We're dealing with the phone version here and there's barely any traces of Gingerbread left in it. Here's a video demonstration of ICS running on the Galaxy Nexus.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Let's start with the lockscreen. The unlock mechanism differs from both ICS and Gingerbread. There's a circle around a padlock icon at the bottom of the screen which can be dragged within the confines of a circle but only two positions actually unlock the phone - sliding to the right unlocks the phone, while sliding to the left unlocks it and starts the camera.</paragraph>
+			<paragraph>You don't have to be precise - just get the circle close enough to the unlocked padlock icon or the camera icon and it will snap to position.</paragraph>
+			<paragraph>This unlock isn't as flexible as some of the custom solutions we've seen - there are only two unlock actions that can't be customized and you can just tap anywhere and drag like you can on the Galaxy Note for instance.</paragraph>
+			<paragraph>Ice Cream Sandwich also brings the option to unlock the phone with your face - it's not the most secure way, but it's the fastest just point the camera at your face the phone will let you in.</paragraph>
+			<paragraph>Past the lockscreen is a very different homescreen. It brings major changes to how Android's UI on phones works; the biggest change being that the interface is completely free of hardware buttons.</paragraph>
+			<paragraph>A row at the bottom has been reserved for three on-screen buttons - Back, Home and the Recent apps. Occasionally, a Menu icon button appears to the right of the Recent apps button, but only for apps that need it. This one is rather cramped and uncomfortable (the other three keys don't reposition to make more room), so we hope apps get redesigned quickly to use the new interface.</paragraph>
+			<paragraph>That row is always visible - even on the lockscreen (the icons disappear, but the black bar where they live stays). The icons will rotate as needed to match the screen's orientation, which one advantage over their hardware counterparts, but some prefer hardware buttons.</paragraph>
+			<paragraph>ICS can use hardware buttons too, if the device has them, but the Galaxy Nexus will probably be a trend-setter in the Android world, so hardware keys might become are rarity.</paragraph>
+			<paragraph>Anyway, above that row is a dock - called favorites tray - of four shortcuts with the app drawer shortcut sitting in the middle. The shortcuts are easily customizable (you can drag them like any other shortcut) and you can even dock folders here.</paragraph>
+			<paragraph>Another permanent fixture is the Google Search bar at the top of the screen. It stays in place as you scroll through the homescreens (so it's not just a widget).</paragraph>
+			<paragraph>The notification area is present also and it too has received a facelift - it shows you icons next to the notification, such as the picture of the person who called or messaged you. There's a Settings shortcut (similar to that in Honeycomb) to make up for the fact that you can't go Menu &gt; Settings anymore (which was the quickest route to the full Settings menu).</paragraph>
+			<paragraph>Notifications can now be removed from the screen one at a time and all you have to do is swipe on them to remove them from the list.</paragraph>
+			<paragraph>There are five panes on the homescreen and you can neither add nor remove ones. They are populated with shortcuts, folders and widgets and the latter two have learned new tricks.</paragraph>
+			<paragraph>Widgets are resizable both vertically and horizontally (usually, some can be resized only in one direction). It's something we've seen in custom launchers before but is now part of the standard Android package.</paragraph>
+			<paragraph>To resize a widget, you tap and hold on it and then release it. Four handles will appear on its sides, allowing you to change the widget's size in the direction you want. Resizable widgets appear with a border around them in the app drawer (more on that later) to make them easier to spot.</paragraph>
+			<paragraph>Folders are different too - you create them by dropping a shortcut on top of another shortcut and you can name them by opening the folder and tapping the "Unnamed folder" label. Opening a folder expands it only as much as needed to fit the icons inside.</paragraph>
+			<paragraph>The folders themselves are circular with the shortcuts inside drawn as if they are in a line one behind the other and you're looking at them at an angle (complete with perspective). They are lined up in order, so the first shortcut in the folder will be the only one unobscured - the rest are harder to see, very hard to tell apart.</paragraph>
+			<paragraph>Live folders seem to be gone for good in this latest iteration of Android.</paragraph>
+			<paragraph>The app drawer is pretty much the same as it was in Honeycomb. It features two tabs - Apps and Widgets - that house side-scrollable pages. If you scroll past the available apps you move into the Widgets tab. There's also a Market shortcut next to the tabs, for quicker access to Android's app repository.</paragraph>
+			<paragraph>Apps and widgets are ordered alphabetically and there's no option to order them by something else or manually reorder them.</paragraph>
+			<paragraph>Putting a shortcut or widget works as you would expect - you press and hold to grab it and then position it somewhere on the homescreen. Two more options appear at the top of the screen while you're dragging - Uninstall (to quickly remove apps) and App info, which opens the application's entry from the Manage applications list. Drop the app or widget on either one to activate it.</paragraph>
+			<paragraph>The Recent apps list is borrowed from Honeycomb - it displays thumbnails of the running application rather than its icon and it's a vertical, scrollable list. There's one enhancement - you can dismiss apps with a simple swipe to the side.</paragraph>
+			<paragraph>Google is using a new typeface on Ice Cream Sandwich, called Roboto, which replaces the original Droid typeface found on previous versions of Android. There are also some new animations and transition effects and a new swipe gesture that works across the OS and lets you remove items from a list simply by swiping on it horizontally.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus packs two Cortex-A9 cores running at 1.2GHz inside its TI OMAP 4460 chipset, so in terms of CPU performance we expect to see it somewhere around the Galaxy S II (which uses two Cortex-A9@1.2GHz cores too), save for any optimizations brought about by the new OS.</paragraph>
+			<paragraph>And the first benchmark, BenchmarkPi, shows a promising result - the Galaxy Nexus bested the Galaxy Note (1.4GHz). But then, in Linpack the Galaxy Nexus fell behind the S II. Overall, the Galaxy Nexus is a strong performer in CPU performance, among the best, though it doesn?t leave current dual-cores in the dust.</paragraph>
+			<paragraph>The graphics performance is another matter - OMAP 4460 packs a PowerVR SGX540 GPU, which is quite old (it was used in the original Galaxy S) and there's almost 720p worth of pixels to push to the screen.</paragraph>
+			<paragraph>"Almost" because the bar with the on-screen keys is visible even when running a 3D game and it will be like that for a while (current games weren?t designed for ICS).</paragraph>
+			<paragraph>Anyway, NenaMark 2 posted a score of 24 frames per second, which isn't stellar but should be good enough. We've seen slower performers and game devs need to take them into account as well, so the Galaxy Nexus should have no problem playing games.</paragraph>
+			<paragraph>The Android browser has received a lot of updates for Ice Cream Sandwich, let's see if that includes JavaScript engine updates. And it does - the Galaxy Nexus breezed through SunSpider making the current crop of smartphones look like a bunch of slowpokes. It's the fastest score for a mobile device yet (yes, even the iPhone 4S) by a healthy margin.</paragraph>
+			<paragraph>BrowserMark, which adds HTML5 tests to the mix, also pointed to the ICS-running Galaxy Nexus as the fastest mobile device for web browsing by a sizable margin over the competition.</paragraph>
+			<paragraph>The good news here is that it's not the CPU, it's the browser engine - and all phones that get Ice Cream Sandwich will enjoy a major boost to web browsing performance.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook got redesigned<subsectionTitle>
+			<paragraph>The phonebook has been completely redesigned and looks closer to the new Android Market than to the previous version of the app. It's made up of three tabs that you can switch between with sideways swipes.</paragraph>
+			<paragraph>The middle tab is the default - a list of all contacts. Contacts are listed with a name and a picture to the right. They can be sorted by first or last name and displayed with the first or last name first.</paragraph>
+			<paragraph>There's a permanent scroll bar available that you can grab and drag to jump straight to contacts starting with a certain letter. There's a regular search too.</paragraph>
+			<paragraph>The quick contacts has been redesigned - tapping on the contact image now brings up a tabbed popup. The tabs are phone and email with a list of the available numbers/addresses. These tabs can be navigated with sideways swipes too.</paragraph>
+			<paragraph>Anyway, the single contact view displays the contacts name along with a star to favorite a contact and a Settings button that lets you edit, share or delete a contact as well assign custom ringtones to them or set the phone to redirect calls from that contact straight to voice mail.</paragraph>
+			<paragraph>Under that is a list of all contact info sorted by category - phone numbers, emails, events, notes and so on.</paragraph>
+			<paragraph>While editing a contact, you can add new fields of different types to fill in more info for the contact. You can link contacts too, if you've added the same person on multiple services.</paragraph>
+			<paragraph>We should note that while Facebook came preinstalled on the phone, it wouldn?t add its contact list to the phonebook. That's a move Google made for its Nexus phones as far back as Android 2.3.3 citing the way Facebook stores contacts on the phone.</paragraph>
+			<paragraph>The contacts that the phonebook displays can be filtered by service (e.g. hide all Facebook contacts) and even filtered by the group they are in or not it (so you can hide all contacts not in a group, for example).</paragraph>
+			<paragraph>Anyway, the other two tabs in the phonebook are Groups and Favorites. Groups are listed by service (e.g. your Gmail account), while favorites are a listed as a grid of large contact photos, which is really thumbable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The in-call sound was good and loud and the curved shape of the screen conforms to the face nicely. However, the audio quality dropped when the signal strength was reduced and the call even started breaking up in the area of worst reception.</paragraph>
+			<paragraph>The dialer features the new neon-blue on black theme, but hasn?t grown any new functionality. There's still no smart dialing, for example.</paragraph>
+			<paragraph>The Samsung Galaxy Nexus does feature a secondary microphone for active noise cancellation.</paragraph>
+			<paragraph>The dialer is just the first tab of the phone app, the other two being the Call log and the Favorites tab (the same you get in the Phonebook). In the Call log, you can't delete individual entries, which was mildly annoying.</paragraph>
+			<paragraph>We put the Samsung Galaxy Nexus through our traditional loudspeaker test and it scored Below Average. You can find out more about the test here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging is mostly the same, still good<subsectionTitle>
+			<paragraph>The messaging section is business as usual but with some improvements. All SMS/MMS communication is organized into threads ? each thread consists of all messages between you and one of your contacts. A cool new feature is that you can select multiple threads to mass delete them.</paragraph>
+			<paragraph>Each thread is organized like an IM chat session, the latest message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them (to prevent deletion). You can use search to find a specific message in all conversations.</paragraph>
+			<paragraph>Quick contacts work here too and there's a call shortcut at the top of the screen when viewing a thread.</paragraph>
+			<paragraph>You can set the Galaxy Nexus to delete older messages (by default, it keeps 500 texts and 50 MMS). You can activate delivery reports and read reports too (they are notifications that the receiver has read the message).</paragraph>
+			<paragraph>Composing a text is still frustrating as the text box starts off as a single line and grows only up to three lines, which makes working with longer texts hard. We mostly let it slide on previous versions, but with a 4.65" screen there's no excuse not to make the text box bigger.</paragraph>
+			<paragraph>You can add multimedia (photos, videos, sounds, etc.), which will convert the message to an MMS. If you need multiple slides or multiple attachments, you can go to a full-blown MMS editor as well.</paragraph>
+			<paragraph>Moving onto email, the Gmail app has grown handy shortcuts at the bottom of the screen but is mostly unchanged. It supports batch operations, which allow multiple emails to be archived, labeled or deleted. The default app supports multiple Gmail accounts, but there?s no unified inbox.</paragraph>
+			<paragraph>A cool new feature in Gmail is that you can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>The shortcuts on the bottom of the screen are new email, search, labels, refresh and settings.</paragraph>
+			<paragraph>There is also a generic email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. You have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>Unlike its Gmail counterpart, this app supports a combined inbox view. It color codes the inboxes so you can easily tell where each message came from. Unfortunately, there's no moving between messages with sideways swipes here.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The GTalk network is compatible with a variety of popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>The keyboard has a lot of room to stretch its legs on the 4.65" screen and typing is very easy. Keys get even bigger when you switch to landscape mode - the long screen becomes very comfortable for two-thumb typing.</paragraph>
+			<paragraph>A tap on the text area will reveal a ?handle? attached to the text cursor ? it?s easy and more accurate, which makes correcting mistakes easier. A double tap will bring up the select options ? select word and select all ? with two handles to adjust the start and end of the selection.</paragraph>
+			<paragraph>If a word has a typo, it will be underlined in red and when you tap it, the phone will offer a number of suggested corrections along with options to add the word to the phone's dictionary or just delete the word.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery is better<subsectionTitle>
+			<paragraph>The Gallery application has been completely redesigned for Ice Cream Sandwich and there are a lot of nice new features.</paragraph>
+			<paragraph>The Default view of the gallery is Albums, which is what we're used to seeing - it lists all folders with photos in the phone. Rather than the familiar stacks, the app uses a grid of photos, two on a line.</paragraph>
+			<paragraph>Besides, Album view, you also get Locations (photos are grouped based on where they were taken), Times (grouped by when they were taken), People (if the photos have tagged faces in them) and Tags (these are general tags you can add manually).</paragraph>
+			<paragraph>A handy option is the Make available offline feature - it lets you easily select multiple online albums and download them for offline viewing. The Gallery app supports online albums like Picasa (but not Facebook) and you can set it to sync photos only over Wi-Fi.</paragraph>
+			<paragraph>Getting inside an album displays all the photos in a rectangular grid, which is horizontally scrollable. When you try to scroll past the end, the photo thumbnails will tilt to remind you you're at the end.</paragraph>
+			<paragraph>Anyway, the single photo view is updated too - above the photo are several sharing shortcuts and a delete button, while below is a line of small thumbnails of all other photos in the album. You can tap those small thumbnails to move to other images or you can just swipe to the side.</paragraph>
+			<paragraph>The settings menu lets you do simple edits to a photo (rotate, crop) or go into a more capable editor with a lot more option. The editor offers light adjustments (so you can bring out the shadows or the highlights), effects, color styles, red eye correction, straightening a photo, sharpening and face glow (which detects faces automatically). Most of these options have a slider that lets you fine-tune the strength of the effect.</paragraph>
+			<paragraph>An app called Movie Studio handles editing videos and it's quite feature rich. You can add multiple videos to the timeline and trim their start and end points, you can add titles and effects (including transition effects) add music and there are multiple options available when you decide to export the video (resolution, quality, etc.).</paragraph>
+			<paragraph>It's an app we hope to see on other droids when the get Android Ice Cream Sandwich, as it can completely eliminate the need for a computer for most people when creating videos. Plus Apple charges a good amount of money for the same functionality with their iMovie app. Same goes for the image editor too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Stock video player grows DivX support, little else<subsectionTitle>
+			<paragraph>The video player has been largely neglected by Google and there's still no dedicated videos app (you have to go through the Gallery), but at least the Samsung Galaxy Nexus includes the DivX codec. XviD is supported too, but a lot of videos failed to play. Even some DivX videos were a problem and played back at half speed.</paragraph>
+			<paragraph>The functionality is still very limited - you get play/pause and a slider to scrub through the video but that's it. Don?t count on subtitles or .MKV support.</paragraph>
+			<paragraph>On the upside, the 4.65" SuperAMOLED with 720p resolution is perfect for watching movies on the go. You can play a 720p video and it will fit pixel to pixel on the screen. If you transcode them into a supported format, of course. You can also download a third-party movie player, which hopefully supports more view formats.</paragraph>
+			<paragraph>There's also HD TV-Out available to use the Galaxy Nexus for a media player at home thanks to the MHL support of the microUSB port. However we can't get rid of the feeling that the gimped video player wastes the brilliant screen and powerful chipset.</paragraph>
+			<paragraph>You can always go to the Android Market for alternative players that support more codecs, subtitles and whatnot, fixing all but the TV-Out issue.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with new UI, equalizer<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus comes with the latest Music app by Google. It has the same side-scrollable tabs like much of the other stuff in Ice Cream Sandwich and comes with plenty of updates.</paragraph>
+			<paragraph>The tabs are used to organize your music library - there's Recent, Artists, Albums, Songs, Playlists and Genres.</paragraph>
+			<paragraph>The Now playing interface features the track's album art with the track info and playback controls below it. You can tap it to reveal more options - upvote/downvote the song, a bar to scrub through the song and shuffle and repeat toggles.</paragraph>
+			<paragraph>From the Settings key you can get into the equalizer. It can be turned on and off and features several presets that along with a user defined one. If you plug in a headset, you can also play with the Bass boost and 3D effect sliders.</paragraph>
+			<paragraph>There are several Shop for artist shortcuts sprinkled throughout the interface, which bring you to a Google search page with albums from the selected artist that you can buy from multiple online sellers. There's even an option to look for nearby stores that have the album if you want a hard copy.</paragraph>
+			<paragraph>While the player is working, the lockscreen features the album art and track info for the current song along with simple playback controls. The notification area also lets you control the playback.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Impressive audio quality<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus came up with some pretty impressive scores in our audio quality test. The ICS pioneer was not only one of the loudest smartphones we have ever seen, but it also has some remarkably clean output.</paragraph>
+			<paragraph>When used with an active external amplifier the Galaxy Nexus is virtually perfect. Its frequency response is only the slightest of bits off, but that's hardly detectable with a naked ear.</paragraph>
+			<paragraph>And there's not too much deterioration when you plug in a pair of headphones either. Volume levels remain high, noise levels and dynamic range are still great and the frequency response remains quite good. Stereo crosstalk does rise, but it's nothing to complain about (it's still better than most of its competitors) and the only imperfection is the intermodulation distortion that creeps in. As you can see from the table though, things could be much worse.</paragraph>
+			<paragraph>Check out the table and see for yourself.</paragraph>
+			<paragraph> Samsung Galaxy Nexus frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus is equipped with a 5MP camera that snaps photos with a maximum resolution of 2592x1944 pixels. It's partnered with an LED flash.</paragraph>
+			<paragraph>The user interface has been reworked but we're still not big fans of it. It sure is functional and custom camera interfaces can learn a thing or two from the Galaxy Nexus' camera, but it could have been executed better.</paragraph>
+			<paragraph>The viewfinder takes up most of the screen, with a panel to the right of it for some of the controls - the gallery shortcut (which is a thumbnail of the last photo taken), the virtual shutter key and the camera mode switch.</paragraph>
+			<paragraph>The switch works like this - you tap it, it extends and presents you with three options (still camera, video camera and panorama).</paragraph>
+			<paragraph>The rest of the controls are overlaid on the right side of the viewfinder. They are the front/back camera toggle, a virtual zoom slider and the settings shortcut. The setting shortcut brings out options to control the flash, white balance and exposure compensation, scenes and finally, more settings (only geo-tagging and photo resolution options are available here).</paragraph>
+			<paragraph>Tap focus is also available if you want to get creative with your framing (i.e. the subject isn't in the center). Face detection is also available too.</paragraph>
+			<paragraph>When you tap the Gallery shortcut it opens a preview of the last photo taken with a list of all ways to share it and another shortcut to get into the regular gallery mode.</paragraph>
+			<paragraph>Panoramas are easy to shoot - you just hit the shutter key and start panning left or right, the phone will take care of the rest. It will warn you if you're going too fast, but has no problems if you keep it in place for a while (unlike, say, Sony Ericsson's solution, which fails if you move too slowly).</paragraph>
+			<paragraph>One thing that did impress us about the Galaxy Nexus camera was the shot-to-shot time - it was nearly instantaneous, you could just tap the virtual shutter key repeatedly and the phone will snap a photo.</paragraph>
+			<paragraph>As far as image quality is concerned, the Galaxy Nexus is an excellent performer. Resolved detail is on a really high level, colors and exposure are spot on and noise levels are kept under control. </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus enters the skirmish over in our Photo Compare Tool. The tool?s page will give you enough info on how to use it and what to look for.</paragraph>
+			<paragraph>The synthetic resolution chart (the first one) looks really clean. The second chart shows well-behaved noise reduction algorithms (the patch of grass and the patch of gravel are still recognizable) and the color patches are accurate. The third chart also shows good performance in terms of detail and color rendering and there's no visible color tint in the black and white part.</paragraph>
+			<paragraph>   Samsung Galaxy Nexus in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>Despite being saddled with a 5MP shooter, the Galaxy Nexus still manages to do 1080p video. The front camera shoots 720p videos.</paragraph>
+			<paragraph>The interface is practically identical to the still camera interface, but there are some really cool features available.</paragraph>
+			<paragraph>The first is the option to take full resolution photos while recording video - you just tap on the screen. This way you get the best of both worlds - the whole event captured on video and the extra resolution you get from the 5MP photo.</paragraph>
+			<paragraph>You can use the digital zoom while recording video too. Other options include real-time effects that modify a person's face for comedic effect and there's a time-lapse video option too (with shots taken every 1 to 10 seconds).</paragraph>
+			<paragraph>A curios effect that doesn?t work very well is the Background feature. You set up the phone on a tripod (or something else, as long as it's perfectly steady) and when the phone is ready you get into the frame.</paragraph>
+			<paragraph>The software will do its best to cut you out of the background and put you on one of three predefined backgrounds or on a video of your choosing. Unfortunately, it's very sensible to changes in the picture - even if you cast a very subtle shadow on the wall behind you, the effect isn't accurate at all. And the background has to be perfectly static or it will peek through, so it?s no Hollywood-rate green screen effects but good for a quick laugh.</paragraph>
+			<paragraph>Note that resolution for such videos drops to D1 (720x480) and the framerate hovers around 16fps.</paragraph>
+			<paragraph>On a different note, the FullHD videos captured by the Galaxy Nexus are shot in MP4 files with a fairly low bitrate of just under 10Mbps. The framerate is 24fps, which is lower than most of the competition, but looks good enough.</paragraph>
+			<paragraph>Even with less than the ideal framerate, the 1080p videos produced by the Galaxy Nexus are top-notch with correct exposure, good colors, and excellent resolved detail.</paragraph>
+			<paragraph>720p videos are shot at a slightly lower bitrate - 8Mbps - but the framerate goes up to 30fps so they are smoother. What's more, the camera field of view is wider in 720p mode. Quality is again pretty good.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can grab this 1080p@24fps sample (11.9MB, 0:10s) and this 720p@30fps sample (10.3MB, 0:10s) directly to see the quality up-close without extra YouTube compression.</paragraph>
+			<paragraph>We also shot a 720p sample with the video call camera. It does 720p@30fps with 8Mbps bitrate too, although (expectedly) the quality of the videos is much worse than the ones shot with the main camera. Still, they look pretty decent, considering the quality of most front-facing cameras.</paragraph>
+			<paragraph>By the way, you can use the same fancy effects with the video call camera as you can with the main camera.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus is among the several phones in our Video Compare Tool database that can record 1080p. The Tool?s page includes a quick walkthrough on how to use it and what to look for.</paragraph>
+			<paragraph>Under good lighting conditions, the videos have decent detail, although the combination of noise and compression take a lot of that away. In poor lighting however, the results are pretty poor. As far as synthetic resolution goes, the Galaxy Nexus does very well. There are no signs of artifacts, which is good too.</paragraph>
+			<paragraph>   Samsung Galaxy Nexus in our Video Quality Compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity king<subsectionTitle>
+			<paragraph>As you would imagine, the Android top dog brings an arsenal of connectivity. It has everything from quad-band GSM/GPRS/EDGE, through penta-band 3G with HSPA+ (21Mbps downlink, 5.76Mbps uplink) and finally, an LTE-enabled version available for some regions (such as the CDMA version for Verizon in the US).</paragraph>
+			<paragraph>Local connectivity doesn?t disappoint either, with dual-band Wi-Fi b/g/n, DLNA, Wi-Fi Direct, Wi-Fi hotspot and Bluetooth 3.0 and NFC too, there's nothing missing.</paragraph>
+			<paragraph>Wi-Fi reception is a bit on the weak side - we didn?t run into many issues but it does impact download speed if the signal is weak.</paragraph>
+			<paragraph>The Samsung Galaxy Nexus also comes with a built-in A-GPS receiver that can rely on a digital compass and a barometer too (this helps get faster GPS locks).</paragraph>
+			<paragraph>The microUSB port handles charging connections with a computer and there are charging pins for the Galaxy Nexus' dock. You should note that there's no mass storage mode available, you'll have to use MTP instead. It works just as well for transferring most files but some files are a problem (e.g. hooking up the Nexus wouldn't show a .ZIP file we needed to copy off the phone).</paragraph>
+			<paragraph>There's a standard 3.5mm audio jack for audio too and MHL support for high-definition TV-out.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browser is brilliant, learns from Chrome<subsectionTitle>
+			<paragraph>The web browser on Android has always been excellent and the Ice Cream Sandwich version is no exception. Its interface has been revamped to fit better with the new ICS style.</paragraph>
+			<paragraph>The browser chrome is quite minimalistic - you get the URL bar with a tabs shortcut and the more button that brings up several more options. They include Refresh, Forward, Save to bookmarks, Share page, Find on page, full settings and a couple of more - Request desktop site (no more hunting for that "Desktop" option buried at the bottom of the site) and Save for offline reading.</paragraph>
+			<paragraph>The full settings menu includes some really interesting options. For example, you can set your search provider to be Yahoo or Bing, you can adjust text size and the level of which double tap will zoom in.</paragraph>
+			<paragraph>Then there's the Inverted screen rendering option, which turns the web page black and white (with white backgrounds becoming black). You can tweak this effect using the Contrast slider. This option is under the Accessibility menu and makes pages easier to read (plus the black on white looks awesome on the SuperAMOLED screen).</paragraph>
+			<paragraph>The browser has a new trick too, one which it learned from its desktop sibling, Chrome. When searching for something, if the browser is confident you'll click on a certain search result (and with Google's algorithms there's a good chance you will), it will start preloading that page right away so that it opens faster if you do click it.</paragraph>
+			<paragraph>Another trick the Android browser learned from Chrome is the 1Incognito mode - there's no global setting, but you can open Incognito tabs.</paragraph>
+			<paragraph>Speaking of tabs, the tab switching interface looks exactly like the Recent apps list. You can even close tabs by swiping them off the screen.</paragraph>
+			<paragraph>We have one complaint about the interface - the URL bar and only two controls auto-hide when you get zoom or scroll into the page and you have to pan slightly to reveal them again. You used to be able to hit the menu key to do that (which was easier) but now that key is gone.</paragraph>
+			<paragraph>There's a cure for that problem - you can enable Quick controls from the Labs settings, which reveal three controls (Tabs, URL, More) when you slide your finger in from the side.</paragraph>
+			<paragraph>The browser works very fast and smooth and had no issues with website compatibility.</paragraph>
+			<paragraph>Flash also worked just fine with YouTube 1080p videos and Flash games running smoothly.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer apps and office document viewer<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus comes with an office document viewer that we almost missed as there's no shortcut for it nor a file explorer preinstalled. We installed a file explorer and were surprised when the phone managed to open all sorts of files (DOC, XLS, PPT from Office 2003 and 2007 along with PDF).</paragraph>
+			<paragraph>The viewer works pretty fast and there's handy Find functionality. There's no editing however, and no paid upgrades for that either (but if you're willing to pay, the Android Market will find something to do the job).</paragraph>
+			<paragraph>The calendar has a new look and its functionality is as good as ever. There are four views - Daily, Weekly, Monthly and Agenda. The app can easily handle several online calendars as well as the local calendar.</paragraph>
+			<paragraph>You can add multiple reminders for each event and search through all events.</paragraph>
+			<paragraph>The Clock app defaults to a desk clock mode that looks a lot like the lockscreen. The best part here is that you can tap to turn the light almost all the way down - with only the time staying on the display just bright enough to see it (it's much easier to see in the dark). This is a very power-efficient mode, thanks to the SuperAMOLED display and you can actually use the phone as a desk clock without worrying about killing the battery.</paragraph>
+			<paragraph>The usual alarm functionality is still present - you can set multiple alarms, each with its own repeat pattern, ringtone and label.</paragraph>
+			<paragraph>The good old calculator is here too - it has big, easily thumbable keys and you can swipe to the left to bring up the advanced functions (trigonometry, square root, brackets, etc.).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps is joined by Google Earth<subsectionTitle>
+			<paragraph>The Samsung Galaxy Nexus features a built-in GPS receiver that got a lock in under a minute. You can use A-GPS to speed that up or go for Cell-ID and Wi-Fi positioning for a rough lock (all three options however require an Internet connection).</paragraph>
+			<paragraph>Google Maps is onboard and offers the same functionality but with some changes to its interface. Functionally Maps hasn?t changed from what we currently have in Gingerbread (and that's a lot). The UI changes are concentrated in two semi-transparent bands at the top and bottom edges of the screen.</paragraph>
+			<paragraph>The top band features a dropdown that makes it easy to switch between several different modes - Maps, Places, Navigation, Check in, Latitude, Location history and My places.</paragraph>
+			<paragraph>Location history uses data from Latitude to graph your past positions in interesting ways. Info from Location history is kept private and not shared with anyone.</paragraph>
+			<paragraph>The bottom bar uses shortcuts for searching, planning a route, searching near you, selecting which layers are visible and getting into the Settings menu.</paragraph>
+			<paragraph>Maps uses very data-efficient vector maps, which have the added bonus of letting you control the camera with two fingers (pinching for zooming, rotating for turning the camera and sliding for tilt control). 3D buildings are also available in some regions.</paragraph>
+			<paragraph>You can use Maps to plan pedestrian and car routes or routes with public transport. Some regions get to use Google Maps Navigation that does voice-guided navigation. It needs a data connection when you first create the route, but after that you can go offline (it will even recalculate the route if you go off course).</paragraph>
+			<paragraph>Street view and Search nearby are available as always.</paragraph>
+			<paragraph>Google Earth came preinstalled on the Samsung Galaxy Nexus. It's like a 3D version of Google Maps (well, except fro the navigation bits) and it's a free download on Android, but Google decided to include it in Ice Cream Sandwich by default.</paragraph>
+			<paragraph>It has a semi-transparent bar with several shortcuts on top of the screen, just like maps. Google Earth is a fun way to explore places around the world and complements Maps nicely, but you can easily do without it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android Market is unchanged<subsectionTitle>
+			<paragraph>The Android Market has several scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. Actually, this is where the tabbed-UI trend in Android started.</paragraph>
+			<paragraph>Other than that, the Market is almost exactly the same as it is on Gingerbread (the only difference is that there's an on-screen Menu key at the top right corner). We weren?t big fans of the interface change, but it finally feels at home with Ice Cream Sandwich.</paragraph>
+			<paragraph>When downloading an application useful info on the app, like rating and comments along with the info, screenshots and demo videos by the developers. Before confirming the download, the Market will show you a screen of permissions required by the application.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+			<paragraph>You should have access to all of them - the ones not updated for ICS will run with that tiny Menu key cramped in the bottom right, but that's not a deal-breaker.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Conclusion<subsectionTitle>
+			<paragraph>Google didn?t disappoint with the execution of Android Ice Cream Sandwich and Samsung did an excellent job with the hardware of the Galaxy Nexus.</paragraph>
+			<paragraph>It's probably only the second Nexus phone (after the Nexus One) that is really attractive to customers at large, rather than mostly to developers.</paragraph>
+			<paragraph>A new major version of Android is not the only first to its name, the Samsung Galaxy Nexus is also the first globally available droid phone with a 720p screen. And what a screen it is - the 316ppi pixel density makes for an amazing image sharpness and completely hides the PenTile nature of the matrix.</paragraph>
+			<paragraph>Top-notch connectivity is also a big plus and the browser is hands down the most capable mobile browser currently available.</paragraph>
+			<paragraph>The camera resolution is the one department where the Galaxy Nexus falls short of the competition, potentially being a potential deal-breaker but we can assure you the Galaxy Nexus produces some excellent quality photos and videos.</paragraph>
+			<paragraph>You can always go for a Samsung I9100 Galaxy S II for a better camera but at the cost of screen size and resolution. Some variations of the S II like the Skyrocket i727 for AT&amp;T or S II for T-Mobile have bigger screens (though not higher resolution). The Skyrocket has LTE too. The Samsung Galaxy S II HD LTE has the same screen as the Galaxy Nexus and LTE, but it's a hard model to come by.</paragraph>
+			<paragraph>    Samsung I9100 Galaxy S II ? Samsung Galaxy S II Skyrocket i727 ? Samsung Galaxy S II T-Mobile ? Samsung Galaxy S II HD LTE</paragraph>
+			<paragraph>You don't have to look to Samsung for a good AMOLED though - the Motorola RAZR XT910 has a 4.3" SuperAMOLED screen with qHD resolution. The HTC Sensation XE uses an LCD screen, but it focuses on audiophiles anyway, with its iBeats headset.</paragraph>
+			<paragraph>US droid users can choose from the LG Nitro HD for AT&amp;T (which has a 4.5" 720p AH-IPS LCD and is available for Bell Canada as the Optimus 4G LTE) and the HTC Rezound from Verizon (4.3" 720p S-LCD screen, and it?s a CDMA + LTE model just like the Verizon?s Galaxy Nexus).</paragraph>
+			<paragraph>    Motorola RAZR XT910 ? HTC Sensation XE ? LG Nitro HD ? HTC Rezound</paragraph>
+			<paragraph>If size is no issue, the Samsung Galaxy Note is an interesting offering - its SuperAMOLED screen measures 5.3" and has an even higher resolution (800x1280). Then there's the more powerful chipset, the better camera and the S Pen.</paragraph>
+			<paragraph> Samsung Galaxy Note</paragraph>
+			<paragraph>Note that none of these have Android Ice Cream Sandwich yet. In fact, no other phone has it - some of them will be getting it at some point sooner or later, but you can't have it now.</paragraph>
+			<paragraph>Finding an alternative to the Samsung Galaxy Nexus is proving tough, especially if you live outside the US or South Korea. It's a phone that can go head to head with the current leaders and win most of the time. It will be surpassed eventually by the coming next-generation flagship droids, but it will never be a bad choice.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,402 @@
+<review>
+	<title>Sony Xperia Z Ultra review</title>
+	<description>Thinking big</description>
+	<link>http://www.gsmarena.com/sony_xperia_z_ultra-review-975.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support; 3G with 42Mbps HSPA; 150Mbps LTE</paragraph>
+			<paragraph>6.4" 16M-color 1080p capacitive touchscreen Triluminos display (344ppi pixel density); X-Reality engine</paragraph>
+			<paragraph>Android OS v4.2.2 Jelly Bean with custom UI</paragraph>
+			<paragraph>Quad-core 2.2 GHz Krait 400 CPU, 2 GB RAM, Adreno 330 GPU; Qualcomm Snapdragon 800 chipset</paragraph>
+			<paragraph>8 MP autofocus camera with geo-tagging, HDR</paragraph>
+			<paragraph>1080p video recording @ 30fps, continuous autofocus and stereo sound</paragraph>
+			<paragraph>2 MP front-facing camera, 1080p video recording</paragraph>
+			<paragraph>IP 58 certification - dust resistant and water resistant</paragraph>
+			<paragraph>Wi-Fi a/b/g/n/ac, Wi-Fi Direct and DLNA; Wireless TV out</paragraph>
+			<paragraph>GPS with A-GPS, GLONASS</paragraph>
+			<paragraph>16GB of built-in storage; microSD card slot</paragraph>
+			<paragraph>MHL-enabled microUSB port</paragraph>
+			<paragraph>Bluetooth v4.0</paragraph>
+			<paragraph>NFC</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Active noise cancellation with dedicated mic</paragraph>
+			<paragraph>Gorgeous design and impressively slim waistline</paragraph>
+			<paragraph>Ample 3050 mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantage<subsectionTitle>
+			<paragraph>Unwieldy size for a phone</paragraph>
+			<paragraph>Non user-replaceable battery</paragraph>
+			<paragraph>No camera flash or camera shutter key</paragraph>
+			<paragraph>Below average loudspeaker performance (probably due to the increased water tightness)</paragraph>
+			<paragraph>No proper video playback decoders (XviD, DivX) out of the box</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>With the Xperia Z Ultra, Sony is finally turning its attention towards a market segment it has avoided so far. The market headstart of their flagship Xperia Z along with the subsequent releases in the upper midrange has set quite a serious foundation for Sony's mobile phone business creating an excellent possibility for experimenting in a niche that has been invented and so far dominated by Samsung's Note series.</paragraph>
+			<paragraph>Of course, a 6.4" phablet stands little chance of matching the sales of a proper flagship such as the Xperia Z, but it's all about sending a message. And the message is loud and clear: "Be my guest, Galaxy Note III". There's more to it of course - it's about the company's level of confidence to venture into unknown territories. Indeed, it's not every day that we see a device that not only dwarfs the Samsung Galaxy Mega 6.3, but is getting ready to challenge the Note III. It takes courage to stand up to the standard-setter but, at least on paper, the Xperia Z Ultra has the looks and the powerful hardware to pull it off.</paragraph>
+			<paragraph>Before we proceed any further, here's the cheat sheet for this review.</paragraph>
+			<paragraph>The Sony Xperia Z Ultra is one beast of a smartphone (although at this size it already steps on tablet territory). The Snapdragon 800 chipset brings a meaningful performance improvement over an already very snappy Snapdragon 600, while the screen packs all the latest technology Sony has its hands on. The Triluminos display of 1080p resolution promises to solve the long-standing viewing angle issues in Sony's lineup, while the X-Reality enhancements means punchy colors and impressive contrast.</paragraph>
+			<paragraph>With the screen and chipset bagging two industry firsts for the Sony Xperia Z Ultra, you'll forgive us for being overly enthusiastic at the start of this review. There's quite a lot to test still and we are itching to see Sony's latest brave our review routine. We start with the design and build right after the break, followed by a closer look at the display before we treat you to a lengthy tour of the UI.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Retail package<subsectionTitle>
+			<paragraph>Our Sony Xperia Z Ultra review unit came in what looks like the standard retail packaging, which however had a pretty unusual set of contents. Gone were the microUSB cable and the headset, the only accessory included being a desk dock ending on regular USB and an AC adapter.</paragraph>
+			<paragraph>We suspect that was just our unit, though, and most of you will be getting a package along the usual lines.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia Z Ultra 360-degree spin<subsectionTitle>
+			<paragraph>Sporting a huge 6.4" screen with ample top and bottom bezels, the Sony Xperia Z Ultra stands at 179.4 x 92.2mm and sits closer to the 2013 edition of the Nexus 7 than, say, the Galaxy S4. Even the humongous Galaxy Mega 6.3 is more than a centimeter shorter and nearly half a centimeter narrower than the Sony phablet. This means that finding a pocket that can fit the Xperia Z Ultra would be rather, shall we say, tall task.</paragraph>
+			<paragraph>On the other hand, the phablet has a marvelously slim 6.5mm waistline meaning that if you do manage to find a large enough pocket, it will not create much of a bulge. The weight of 212g is quite hard to swallow too, although we wouldn't expect anything less from a device this size.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Xperia Z Ultra has kept both the water resistance and the OmniBalance design of the new season's Xperia line and we don't mind that one bit. The device may be huge, but it's also one of coolest looking pieces of hardware that we've come across lately.</paragraph>
+			<paragraph>Using the same "glass is great, slim is even better" mantra as the Xperia Z, the Xperia Z Ultra goes for an even thinner chassis, which looks scorching hot. Combined with the impressive screen up front, this is a device you'd love to be seen with.</paragraph>
+			<paragraph>Trimming the waistline isn't even the only great thing about the Sony Xperia Z Ultra's design. The Japanese managed to improve the water-resistance in the process, getting a higher IP58 certification for the phablet, than the Xperia Z's IP57. This means that for all practical purposes, the Sony Xperia Z Ultra is hermetically sealed.</paragraph>
+			<paragraph>The choice of materials has just one negative side - with twice the amount of glass used, there's that much more area to cover in smudges. Indeed the Xperia Z Ultra, just as the Xperia Z, turns into a greasy mess quite quickly, causing it to lose some of its brilliance. The good news is that cleaning it isn't particularly hard. Besides, you can always opt for the white version, which will certainly make fingerprints harder to spot than our black review unit.</paragraph>
+			<paragraph>The build quality is top notch as well - there are no squeaks, creaks or any other disturbing sounds to be heard when handling the phablet and it generally feels extra solid.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra has the same set of functional elements as its smaller Xperia Z sibling above the screen. The earpiece is flanked by the front-facing camera on one side, and the ambient light and proximity sensors alongside the LED status light on the other.</paragraph>
+			<paragraph>Since the Xperia Z Ultra relies on virtual navigation buttons rather than hardware ones, the microphone is all you get at the bottom. While the mic does reside under an identical grille to that of the earpiece, the phablet doesn't have front-mounted stereo-speakers.</paragraph>
+			<paragraph>The Sony Xperia Z Ultra's right side features the phablet's signature power key, as well as a 3.5mm audio jack and a pretty huge plastic lid. The volume rocker and the lanyard eyelet are also here, but there's no dedicated camera key.</paragraph>
+			<paragraph>Underneath the ample piece of plastic sit the microSIM and microSD card slots as well as a pull-out tag with the regulator-mandated certifications.</paragraph>
+			<paragraph>The top of the Sony Xperia Z Ultra is where the secondary microphone is located, while the bottom features the speaker.</paragraph>
+			<paragraph>On the left you get another plastic lid, only this time it's much tinnier. Underneath it sits the MHL-enabled microUSB with USB host support. The docking pins are some way further down the left side of the Xperia Z Ultra.</paragraph>
+			<paragraph>Finally, around back we spot the 8 megapixel camera lens and the small logo indicating where the NFC transmitter is. The notable absentee here is a flash of some sort, which obviously wasn't deemed important enough by Sony to include. This of course means that low-light photography with the Xperia Z Ultra is out of the question and that you also can't use the phablet as a torch.</paragraph>
+			<paragraph>Underneath the back cover sits a 3050 mAh battery that should keep the beast going for up to 16 hours of 3G talk-time or 820 hours of 3G stand-by. Those numbers sound impressive, but we are more interested in finding out how long the smartphone lasts when the screen is turned on and the monstrous chipset is not idle. You can read all about the battery performance on the next page.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Best phablet display<subsectionTitle>
+			<paragraph>We've kept the best of the hardware tour till last. The Xperia Z Ultra comes with a 6.4" 1080p Triluminos display, backed up by the company's X-Reality engine. Sony are keen to show that there's nothing holding the screen back this time around.</paragraph>
+			<paragraph> Sony Xperia Z Ultra display under a microscope</paragraph>
+			<paragraph>The pixel density breaks down to 344ppi, which isn't quite as good as 1080p on a 5" diagonal that became the flagship standard this year, but it's still sharper than the iPhone 5's Retina display. You'd need to look from way closer than comfortable to spot the sharpness difference between the Xperia Z Ultra and the Xperia Z.</paragraph>
+			<paragraph>What you will notice far more easily is the improvement in viewing angles, which have been the Achilles' heel of the Sony smartphone screens lately. This time the viewing angles are quite wide, with color shift and contrast loss only spotted at extreme tilt. It's not quite as perfect as the HTC One LCD panel for example, but at this point the difference is only marginal. Great job!</paragraph>
+			<paragraph>The native contrast of the Sony Xperia Z Ultra display is great with colors nicely rendered. If you'd like a bit of extra punch to your images and videos you should enable the X-Reality engine, which is the successor of the Mobile Bravia Engine. It aims to improve sharpness, reduce noise, while also boosting contrast and saturation and it does a pretty decent job of it.</paragraph>
+			<paragraph>Unfortunately, the Xperia Z Ultra's screen is fairly reflective, so it only managed an average score in our dedicated sunlight legibility test. The phablet is decently usable in bright sun, but it's not the best experience.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>All things considered, the Sony Xperia Z Ultra certainly has the best screen on a phablet at this point. The sheer size and the resolution advantage, combined with the decent to great performance in all other important aspects, see the Z Ultra inch ahead of the LG Optimus G Pro.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra is impressively thin at 6.5mm but such vanity usually comes at the expense of the battery. Still, a 3,050mAh doesn't sound too bad, especially when you consider that the Snapdragon 800 is supposed to improve overall power efficiency compared to the Snapdragon 600. There's still that massive 6.4" screen to power up though.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>When it's off, the Xperia Z Ultra easily comes close to the top of our talk test chart with about 24 and a half hours. However, web browsing was dismal at about 5 and a half hours and video playback was just okay at a just under 9 hours.</paragraph>
+			<paragraph>That's not so good as we guess the Z Ultra will be used a lot more for web browsing and watching videos than talking. Still, we gave an even weight to all three disciplines and came up with a rated battery life of 52h, given you use the phone for one hour of talking, one hour of web browsing and one hour of video playback per day and leaving the phone in standby for the rest of the time.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Android 4.2.2 is in charge of the Xperia Z Ultra<subsectionTitle>
+			<paragraph>Sony Xperia Z Ultra comes with Android 4.2.2 out of the box and Sony's proprietary Xperia launcher on top of it. The most recent Xperia are already running or will soon join the Android 4.2.2 Jelly Bean train.</paragraph>
+			<paragraph>Here is a demo video of the Sony Xperia Z Ultra to get you started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Xperia Z Ultra gives you the option to add or remove homescreen panes (you start with five) and assign any of them as the default. You can't have more than seven panes at any given time though, nor can you change the order they're in.</paragraph>
+			<paragraph>The background for the virtual on-screen buttons is black when you are running an app and completely transparent of you are browsing throughout the Android OS homescreens and menus.</paragraph>
+			<paragraph>Adding stuff to the homescreen is done with a tap-and-hold on a blank area or using the pinch-to-zoom gesture. A context menu appears, allowing you to perform various customizations on your phone - add widgets or shortcuts, change the wallpaper and the theme. You can also add shortcuts from the app drawer by holding your finger over an icon and dragging it across to the homescreen area.</paragraph>
+			<paragraph>The Xperia Z Ultra has a few custom-made Sony widgets for various social services, connectivity toggles, the Walkman player, etc. The Timescape and Mediascape widgets are gone for good. Thankfully, the widgets in the Xperia Z Ultra do resize and re-arrange automatically when you're trying to place them.</paragraph>
+			<paragraph>The wallpaper menu offers both static and live wallpapers. As usual you can preview the live wallpapers before applying them.</paragraph>
+			<paragraph>Selecting a new theme changes the lock and homescreen wallpapers and the color of the system icons (toggles, menu icons, etc.).</paragraph>
+			<paragraph>Along the bottom, there are six docked shortcuts (three each side of the app drawer shortcut). These are visible across all homescreen panes and are user configurable: they can be either single icons or folders with multiple items in them. You can also place whole folders there in which case you get smaller icons of the first four items in them.</paragraph>
+			<paragraph>The lockscreen has multiple panes, each containing one widget. The page to the right is special and fires up the camera.</paragraph>
+			<paragraph>The pages to the left contain different widgets - Email, Gmail, Google Now, Calendar, Google+ posts, TrackID and Digital clock you can download apps from the Play Store that add new widgets.</paragraph>
+			<paragraph>When the music player is active, the lockscreen will display the music controls by default, but you swipe them out of the way. You can also enable Face, Pattern, PIN or Password unlock, in ascending order of security.</paragraph>
+			<paragraph>The notification area features a few toggles (Sound, Bluetooth, Wi-Fi and Brightness by default). There's also a quick shortcut to the settings menu. This time around the toggles are customizable. You can choose between 16 different quick toggles and have up to 10 accessible from the notification area within two rows of shortcuts. You can even opt out of having the Settings key.</paragraph>
+			<paragraph>The notifications themselves have not changed - they can be expanded to reveal more info and collapsed to save space or dismissed with a sideways swipe. Sometimes they also have helpful buttons on them, such as "Call back" or "Send SMS" on a missed call notification.</paragraph>
+			<paragraph>The app drawer is laid out across multiple pages and you can sort the apps manually, alphabetically, by the most used or most recently installed. The menu with those settings is accessible via a swipe from the left edge of the screen and you can also search and even uninstall apps from there. If you tap and hold on an app, a green Add to Homescreen area will appear on top of the app drawer. Just drag the icon there and you will go back to your homescreens where you can put a shortcut.</paragraph>
+			<paragraph>The pure Android task manager is onboard. It lets you go to the recently opened apps as well as remove them with a side-swipe. The so-called "small apps" introduced with the Xperia T are here too.</paragraph>
+			<paragraph>They are similar to Mini Apps from Samsung, and pop up tiny widget-like applications on your homescreen, which you can move around and use without having to fully open a dedicated app.</paragraph>
+			<paragraph>So far, there's a default set of nine: Active Clip, Chrome Bookmarks, Browser, Calculator, Calendar, Gmail, Timer, Notes, and Voice Recorder.</paragraph>
+			<paragraph>You can download more Small Apps from the Play Store or you have the option to turn your favorite widgets into Small Apps. Just hit the Plus key at the top of the list and choose a widget.</paragraph>
+			<paragraph>You can launch only one instance of a Small App, but you can open every Small App that is available hassle-free.</paragraph>
+			<paragraph>Sony has added its own Backup &amp; Reset feature for Android OS. It works for apps you've uninstalled and then reinstalled again, all of your multimedia content is saved too, and all system apps such as messaging, call logs, etc. get their data stored safely. Restoring is easy and if you lost something, you can easily bring it back.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks and performance<subsectionTitle>
+			<paragraph>Sony Xperia Z Ultra is the first device running on the Qualcomm's latest and greatest Snapdragon 800 chipset we meet. It is powered by a quad-core 2.2GHz Krait 400 processor, an Adreno 330 graphics and has 2GB of RAM.</paragraph>
+			<paragraph>The Xperia Z Ultra, like the most flagships out there, is packing a 1080p display, so we can easily compare the performance of the new chipset to the old generation processors.</paragraph>
+			<paragraph>The Krait 800 processor clocked at 2.2GHz is currently the fastest processor on the market. We start with a single-core test and we were treated to quite the result. The Xperia Z Ultra had absolutely no problem topping our BenchmarkPi tests chart.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Next, we are put all four cores to a test with the multi-core version of the Linpack benchmark. Sony Xperia Z Ultra didn't disappoint, easily beating the Snapdragon 600 competition here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GeekBench 2 benchmark has been recently replaced by the new GeekBench 3 benchmark, so we've run it on all devices we had around at the moment. Sony Xperia Z Ultra is the champ in this chart as well outrunning the Galaxy S4 and the HTC One by a mile.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Quadrant and AnTuTu evaluate the overall device performance instead of just the CPU, but the Sony Xperia Z Ultra and its Snapdragon 800 chipset shine again.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>It's time to test the new Adreno 330 graphic processing unit. We ran both of the GLBenchmark tests in offscreen mode, testing raw GPU power. The Xperia Z Ultra easily outpaced all other phones we've tested so far.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.7 T-Rex (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>By the way, the Adreno 330 GPU on the Xperia Z Ultra supports OpenGL ES 3.0, which was recently added to Android (with 4.3) that promised even more impressive graphics. It's reasonable to expect even better performance once Android 4.3 makes its way to this device.</paragraph>
+			<paragraph>The Epic Citadel benchmarks was also updated recently with new Ultra High Quality setting. We've rerun every 1080p device we had around and, as we expected, the Xperia Z Ultra stole the first place once again.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The JavaScript performance of the Sony Xperia Z Ultra Chrome browser is the best we've seen so far. Since SunSpider has recently released a new v1.0.1 we had to update the old scores.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The combined BrowserMark 2 benchmark saw another great score from the Sony Xperia Z Ultra, but this time it didn't manage to come on top.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Sony Xperia Z Ultra came back to its rightful top place in the Vellamo benchmark, making the BrowserMark 2's third place much easier to swallow.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Sony Xperia Z Ultra is currently the fastest smartphone (phablets included) on the market right now. There's a noticeable performance lead over the Snapdragon 600 competitors and you can even feel the snappier chipset everywhere inside the Android OS running on the Xperia Z Ultra. Once you get your hands on the Z Ultra you immediately realize that there's some serious firepower under the hood.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now at your command<subsectionTitle>
+			<paragraph>Google Now gives you a short overview of information it believes is relevant to you right now. Going to work in the morning? Google Now knows this and lets you know if there's a big traffic jam on your usual way to the office, and offers you a re-route.</paragraph>
+			<paragraph>It can interpret a lot of things from your search history as well. If you've been searching for, let's say, your favorite football team, Google Now will prepare a card showing you the next match the team is playing and will provide score updates once the game begins.</paragraph>
+			<paragraph>Google has also integrated Voice Actions. They can handle stuff like sending messages (SMS or email), initiating a voice call, asking for directions, taking a note or opening a site. Google Now can also launch apps, check and manage your calendar and look for nearby places of interest and stuff like movie openings in theaters.</paragraph>
+			<paragraph>Thanks to the large resolution of the Xperia Z Ultra display, you can get a lot of information from Google Now with just one glance at the screen.</paragraph>
+			<paragraph>Google Now on the Xperia Z Ultra gets activated with an upward swipe from a press-and-hold of the Home button. You can either type or talk to it and the app will give you one of its info cards (if available) and read you its contents aloud (you can disable this from the app settings). If there's no card to help with the answer to your question Google Now will simply initiate a Google web search instead.</paragraph>
+			<paragraph>We have a separate review of all popular voice assistants, where you can learn even more about Google Now. Just follow this link.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra phonebook is integrated with the dialer using a tabbed interface - the Contacts, Phone, Favorites and Groups tabs can be side-swiped. The bottom bar holds shortcuts to search option, add number field, and the advanced settings menu.</paragraph>
+			<paragraph>The contact list can be sorted by either first or last name. There are two contact search options - a dedicated search field at the bottom of the contact list, and an alphabetical scroll bar to jump to names starting with a specific letter on the right.</paragraph>
+			<paragraph>You can sync with multiple accounts, including Exchange and Facebook, and you can selectively show or hide contacts from some accounts (as well as filter specific groups in an account), or set the phonebook to display only contacts with phone numbers or only contacts that are online.</paragraph>
+			<paragraph>If a contact has accounts in multiple services, you can "link" their details to keep everything in one place. Their Facebook photos and interests (part of the Facebook integration) will show up as extra tabs.</paragraph>
+			<paragraph>The Quick contact feature is present alright - a tap on the contact's photo brings a pop-up windows with shortcuts for calling, texting or emailing the contact, visiting their web page or navigating to their home address.</paragraph>
+			<paragraph>Each contact can have a variety of fields (and repeat fields of the same type). There's an Add field button and the X button lets you remove fields as needed. The fields cover anything from names (including a field to write the name down phonetically) to addresses, nicknames and notes.</paragraph>
+			<paragraph>There is an option to redirect calls directly to voicemail. Custom ringtones are enabled too. This is where the LED strip comes into play as well. You can set a custom color for a contact, so the ambience light can serve as a caller ID of sorts. Of course you cannot have a different color for every single contact in your phonebook but you can have one color be for family, another for work calls and so on.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>Receiving and making calls on the Xperia Z Ultra was great. The built-in secondary microphone is used for active noise-cancellation, so calls are loud and clear even in noisy environments.</paragraph>
+			<paragraph>It should be noted that while the quality itself was superb, the Xperia Z Ultra itself is quite unwieldy for making calls due to the sheer size of the phablet. Sony has recognized the issue and are offering a bunch of wired and wireless accessories, which will allow you to place calls without even taking it out of your pocket.</paragraph>
+			<paragraph>Anyway, the call log is integrated in the dialer - it shows a list of recently dialed, received and missed calls in the top half of the screen and the keypad in the bottom half. Once you start typing, the call log is replaced by the smart dial list which searches for matches in both the contacts' phones and names. You can hide the keypad to make more room for the call log.</paragraph>
+			<paragraph>Thanks to the proximity and accelerometer sensors, the Sony Xperia Z Ultra automatically disables the touchscreen when you lift it up during a call.</paragraph>
+			<paragraph>The Sony Xperia Z Ultra scored a mark of Below average on our loudspeaker tests, meaning you are likely to miss some calls and notifications if you are in a noisy environment.. That's probably the trade-off for the phone being watertight.</paragraph>
+			<paragraph>Sony has preloaded a number of features that modify how the speaker sounds. We tested with all of them off, then with xLOUD on, which noticeably made the sound louder, and then with both xLOUD and ClearPhase on, which sacrificed some of the loudness for improved audio quality.</paragraph>
+			<paragraph>You can find more on the testing procedure here.</paragraph>
+			<paragraph>Either way, we advise you to turn on the vibration and turn xLOUD on if you want to be sure not to miss any incoming calls.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and text input<subsectionTitle>
+			<paragraph>Text messages and MMS use standard thread layout. Each thread is displayed as an IM chat session, with the most recent message at the bottom. You can manage individual messages (forward, copy, delete) and even lock them against deletion. Search is enabled to locate a specific message in all conversations and you can also activate delivery reports.</paragraph>
+			<paragraph>Adding multimedia (photos, videos, sounds, etc.) will convert the message into an MMS. Four shortcuts at the bottom of the screen handle the most common cases - an image, a photo, a doodle (you draw with your finger) and your location. This, however, takes an extra row from the screen, which isn't too big to begin with.</paragraph>
+			<paragraph>The Gmail client has the trademark conversation style view and can manage multiple Gmail accounts. Batch operations are supported too, in case you need to handle email messages in bulk. A cool feature in Gmail is that you can swipe left or right to move between messages in your inbox.</paragraph>
+			<paragraph>The generic Email app can handle POP and IMAP and offers a Combined inbox for all your email accounts. It supports batch operations and has a Preview pane option in landscape mode - the list of emails goes on the left, the contents of the currently selected email on the right.</paragraph>
+			<paragraph>Google Hangouts is the default app that handles instant messaging (Facebook is preinstalled, but Facebook Messenger isn't). It's Google's attempt at unifying all of its messaging services and while the initial release has some quirks that need ironing, it looks to be a promising platform.</paragraph>
+			<paragraph>As for text input, the Xperia Z Ultra offers a customized on-screen full QWERTY keyboard. Typing on the portrait keyboard is fairly comfortable, but after using 4.5+ inch phones it's starting to feel a little cramped.</paragraph>
+			<paragraph>Flipping the phone to landscape gives you even bigger, easier to press buttons. There's also the added feature of being able to customize the keyboard. You can choose a different layout (keypad, QWERTY, QWERTY with extra symbols), add/remove the coma and period button, the smiley and voice input buttons and also enable things like bilingual word suggestions if you have more than one language enabled.</paragraph>
+			<paragraph>You can also try the so-called Gesture input if hitting those keys individually doesn't give you the desired typing speed. It's similar to Swype, and even if you've never used a Swype-like input before you'll quickly get used to it.</paragraph>
+			<paragraph>The Sony Xperia Z Ultra keyboard has some very useful options. First, you can opt for one-hand mode, where the keyboard takes up less space and sticks to the left or the right side of the screen. This enables you to use it single-handedly.</paragraph>
+			<paragraph>Then, there's the option for handwriting input, which suits the Xperia Z Ultra rather well. Especially, when you consider you can use a regular pencil or a pen to write on the display (there's a scratch-proof glass on top).</paragraph>
+			<paragraph>You can also enable bilingual word suggestions, symbols on long press, the Google voice typing key and the smiley key. All these options are disabled by default.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Capable gallery<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra comes with the custom Sony gallery, called Album. Images are organized into groups of thumbnails and sorted by date.</paragraph>
+			<paragraph>Pictures is the main tab and one of its features managed to impress us: you can make the image thumbnails bigger or smaller, either with a pinch gesture or a sideways swipe. The whole thing is very responsive and hundreds of thumbs fall in and out of differently sized grids in a nifty animation.</paragraph>
+			<paragraph>There is a second tab here, My Albums, which includes online albums (PlayMemories, Facebook, Picasa) along with albums stored on devices in the local network. Also here are some special albums - Maps and Globe, which use the geo-tagging info to display photos where they were taken, and faces, which groups photos by the faces of the people in them.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Quick sharing via Picasa, Email apps, Facebook, Bluetooth or MMS is also enabled.</paragraph>
+			<paragraph>There's a slide show using the SensMe brand and much like the music player feature, this one scans files and groups similar photos together.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player has good UI, codec support could have been better<subsectionTitle>
+			<paragraph>The video player is dubbed Movies and it too has a great custom UI, reminiscent of HTPC interfaces. It's connected to Gracenote, which helps you find additional information about the movies and TVs you have on the phone. It will even download posters for them and for movies, it will download metadata like genre, synopsis, director and cast.</paragraph>
+			<paragraph>The Xperia Z Ultra didn't experience any difficulties playing 720p and 1080p videos. It loaded them pretty swtiftly and that's no surprise considering the hardware that's under the hood. MP4, DivX, X264 and MOV files played without a glitch, too.</paragraph>
+			<paragraph>However, Sony still refuses to pre-install codec support for AVI, MKV and XviD formats. The Movies player didn't play them at all, and neither did it open AC3-enabled DivX. That's easily fixable though with a quick stop over at the Google Play Store where you can get a hold of a third-party video player with an enhanced codec support</paragraph>
+			<paragraph>While that's certainly an option, you lose the Gracenote features - the Movies app always plays videos (or tries to, anyway) with its own player rather than what you've set as system default. We tried BS Player and it worked well with the aforementioned video formats.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Walkman music player<subsectionTitle>
+			<paragraph>The updated Walkman music player, which is present on all 2013-Xperia smartphones is also on board. It offers the same cool interface as before, but this time it has more options for sound enhancement.</paragraph>
+			<paragraph>The Walkman is divided into Playing and My music panels. In the My music section, you can update your album art and music information like album, year released, and more. SensMe is included, meaning you can filter your songs by mood - upbeat, energetic, mellow, dance, etc. Creating playlists is enabled and you can also view your Facebook friends' activity if they too use the Walkman player.</paragraph>
+			<paragraph>The Now Playing screen offers the standard music controls, shortcuts to the library, "Infinity" key and the song cover art. The Infinity key lets you quickly look up a song on YouTube or browse for the lyrics, among others.</paragraph>
+			<paragraph>Sony has improved on the Walkman player's settings. There's the familiar ClearAudio+ option, which determines the best audio quality settings depending on the song you're listening to. We liked how it changed the music and carefully accentuated various details.</paragraph>
+			<paragraph>There's Surround sound mode, which imitates the Studio, Club or Concert Hall experience. The Clear stereo mode enhances the perceivable stereo channel separation. Dynamic normalizer minimizes the difference in volume between songs (great if you're playing a shuffled mix).</paragraph>
+			<paragraph>Speaker settings include Clear Phase, which adjusts the quality, while xLOUD enhances the loudness of the internal speaker.</paragraph>
+			<paragraph>And audio fans will be pleased as there is a configurable 5-band equalizer with bass adjustment. However dedicated audiophiles might want to consider alternatives off the Play Store, with support for a 10 or even 20-band equalizer.</paragraph>
+			<paragraph>There are music controls on the lockscreen. Swiping them to either side brings back the clock. The notification area also offers the now playing screen with music controls and the option to jump into the Walkman player.</paragraph>
+			<paragraph>Google's own music player called Play Music is on board as well. It features the Listen Now feature, which tries to determine what you like and the sequence of your track-changing so that it can start offering you music you might like to play next.</paragraph>
+			<paragraph>The Now Playing screen uses the song album art and gives you a quick shortcut to the rest of the artist's songs along with the play controls.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Buggy FM radio with some neat tricks<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra also features an FM Radio aboard complete with RDS support. The app features multiple visualizations and integrates with TrackID to recognize the currently playing song. You can even directly send an "I'm listening to..." post to Facebook.</paragraph>
+			<paragraph>Sony has updated the FM Radio app and as a results it's now more stable than it was on some recent mid-range Xperia smartphones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Solid audio output<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra performed excellently in the first part of our traditional audio quality test posting excellent scores top to bottom. And while there were no weak points as far as clarity is concerned, the surprisingly low volume levels bring the overall score from perfect down to excellent.</paragraph>
+			<paragraph>There's very little quality drop when you plug in a pair of headphones. The stereo crosstalk rises somewhat and some distortion creeps in, but neither of those is easy to notice without dedicated equipment. Volume levels remain average, but the overall performance is still very solid.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Sony Xperia Z Ultra frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera on the big screen<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra has an 8 MP camera that's good for up to 3264 x 2448 pixels pictures in Normal mode, however if you use the Superior auto mode you get stills of 7 MP resolution (3104 x 3228) but more on Superior auto a little later.</paragraph>
+			<paragraph>The camera interface consists of two panes. The right one holds four virtual buttons - a shortcut to the gallery, video and still shot shutter keys, and a primary/secondary camera toggle. On the left you get the shooting mode selection key in the top corner, followed by three customizable shortcuts. The final shortcut here opens the drawer with all available settings for the given shooting mode.</paragraph>
+			<paragraph>Naturally, the Sony Xperia Z Ultra camera offers all kinds of features, including face detection, smile shutter, geo-tagging, touch capture and HDR mode. There's also the home-baked quick launch mode, which lets you select what the camera shortcut on the lockscreen does.</paragraph>
+			<paragraph>You can go for simply launching the camera in either still or movie mode, or you can set it to immediately snap a photo/start capturing video. This might come in handy for those occasions when you are worried that you might miss a shot, but is also useful for when you don't want to waste your battery keeping the camera interface constantly going (it's a real battery hog).</paragraph>
+			<paragraph>There are all kinds of shooting modes on the Sony Xperia Z Ultra aside from the Superior auto and Normal. You get Burst, which can capture practically unlimited number of shots, but gives you three shooting modes - High ( up to 1280 x 720 resolution), Mid (3104 x 1746) and Low (1920 x 1080). Picture effect does what's advertised and gives you different filters and effects to work with. Finally, there's Sweep Panorama, which captures a landscape panorama image, and scene selection.</paragraph>
+			<paragraph>The difference between the Superior auto mode and regular mode with all settings set to auto is that the first tries to guess what kind of scene you are trying to capture and adjusts all image parameters accordingly. This includes color saturation, contrast, metering mode and what not. The regular auto mode only sets the exposure automatically, but lets you fiddle with the other settings if you prefer.</paragraph>
+			<paragraph>The good news is the Superior auto mode also tells you what it guessed so you can easily intervene if it gets it wrong. Our experience so far shows it gets things right almost every time, so unless you are a photography enthusiast or you just need to have that extra megapixel of resolution back, you're probably better off sticking to Superior auto.</paragraph>
+			<paragraph>We've compiled a bunch of samples from the Sony Xperia Z Ultra camera for your viewing pleasure. The first two batches are taken in normal mode, read 8 MP, while the third is captured via the Superior auto mode in 7 MP.</paragraph>
+			<paragraph>In the samples below you'll notice that the Sony Xperia Z Ultra doesn't really handle colors well. Notice how the flowers are blown out to an extreme and detail is all but lost to a uniform solid color.</paragraph>
+			<paragraph>The Xperia Z Ultra sometimes chokes to find the correct light balance, especially in cloudy conditions. While it went for a colder look a bunch of times, it frequently turned to a warmer setting without any major change in the light, so white balance is a bit unpredictable.</paragraph>
+			<paragraph>Otherwise, the resolved detail in the photos is ok, but it is behind the best in class. There is a lot of noise visible in the images even in good light and Sony has prepped the camera processing to combat it too aggressively, resulting in smeared fine detail.</paragraph>
+			<paragraph>There's some corner softness in the images, too, most apparent in our chart samples in the photo quality comparison tool. This is probably due to an issue with the lens, which might as well be a unit-specific issue.</paragraph>
+			<paragraph>Also if you notice the lines of the buildings you'll notice some over-sharpening and the resulting halos. Contrast is good, giving the photos a lively look and colors are accurate if a little punchy but that's how many people prefer them.</paragraph>
+			<paragraph>We didn't notice a lot of change in the detail levels when comparing Normal and Superior auto images but the white balance is certainly different, which gives the whole image a different look. In any case we slightly prefer the Normal mode's take on scenes as it provides more accurate balance.</paragraph>
+			<paragraph>The Sony Xperia Z Ultra handles macros decently. It can get as close as any other smartphone and outputs nice levels of detail. The background gets nicely blurred but, again, images exhibit a lot of noise.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>We've enrolled the Sony Xperia Z Ultra into our Photo quality comparison vault where you can pit it against pretty much every other phone we've tested. Our competitor choices involve the Samsung Galaxy Mega 6.3 and the Samsung Galaxy S4 Active - both sporting 8 MP snappers. The tool's page will give you information on what to look out for.</paragraph>
+			<paragraph>   The Sony Xperia Z Ultra in our Photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording could be better<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra is capable of capturing 1080p video footage at 30fps and that's about it. With the inclusion of the powerful Snapdragon 800 SoC we would've liked to see 1080p video recording at 60 fps or even 4K but we guess the sensor used is either an older generation (in order to fit in the tight body) or Sony just couldn't be bothered.</paragraph>
+			<paragraph>The device has also lost the HDR video capture, which was a gimmick enough on the Xperia Z and we can't complain too much about its loss.</paragraph>
+			<paragraph>You can also capture stills while recording video but they are nothing more than a snapshot of the currently recorded video at 1 MP each and you can just forget about using the feature.</paragraph>
+			<paragraph>The camcorder app is practically the same as the camera one, it only displays more video-centered settings. You can include digital video stabilization, which crops a little from the field of view, set a timer and fiddle with settings like exposure, metering, focus mode, etc.</paragraph>
+			<paragraph>Other than these nitpicks, the Sony Xperia Z Ultra is a capable camcorder substitute. It captures 1080p videos at around 29 frames per second with a good bitrate of 18 Mbps with stereo sound recording of 132 Kbps bitrate and 48 kHz audio sampling rate.</paragraph>
+			<paragraph>Detail-wise the videos that come out of the Xperia Z Ultra are very good. The action is smooth and the focusing is quick to keep up. The field of view is also wide enough so that you don't need to back up from your intended target.</paragraph>
+			<paragraph>Here's a video taken with the Xperia Z Ultra.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also find a 1080p video sample (56.2 MB @29 fps) taken straight off the Xperia Z Ultra here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra is the latest to join our Video quality comparison tool and it will face-off against the 1080p-capable Galaxy S4 and optically-stabilized HTC One.</paragraph>
+			<paragraph>   The Sony Xperia Z Ultra in our Video quality compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great connectivity<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra has quad-band 2G and 3G connectivity across all regional models, and support for more LTE bands than you can shake a stick at. The Z Ultra can achieve mobile data speeds of up to 42 Mbps HSDPA and 5.76 Mbps HSUPA.</paragraph>
+			<paragraph>Local connectivity is covered by dual-band Wi-Fi a/b/g/n/ac with DLNA and Wi-Fi Direct, so you can easily share content from your phone on a DLNA TV or music player. If a media app supports the Throw function (like the video player), you can use it through the Smart Connect app for DLNA functions (sharing screen, etc.).</paragraph>
+			<paragraph>There's also Bluetooth 4.0 with A2DP, which can be used for low-power accessories (e.g. sports trackers), and NFC.</paragraph>
+			<paragraph>MicroUSB handles the charging and PC connectivity, and there's also USB On-the-go support, so you can attach external flash drives to the smartphone as well. The MHL-enabled microUSB port also supports HDMI connections to an external monitor.</paragraph>
+			<paragraph>A minor annoyance comes from the fact that the microUSB port and the docking pins are on the same side of the device. You can dock the phone to make sure it's being charged, while outputting videos over HDMI, but you'll struggle to find a comfortable position, as even an L-shaped micro-USB will cause the dock to wobble unless you place it on an elevated surface, like a book or something.</paragraph>
+			<paragraph>Sony's Media Remote has since been replaced by its TV SideView app, which offers the same basic functionality. Like Media Remote, it isn't preinstalled on the Xperia Z Ultra, but you can get it off the Google Play Store for free. It will serve as a remote control for DLNA-capable BRAVIA TVs and Sony DVD/Blu-ray players too. There are a few versions of the interface ranging from simply changing the channels to mouse input and viewing disc history. This sort of a remote only works over the Wi-Fi connection.</paragraph>
+			<paragraph>The Xperia Z Ultra comes with Sony's Smart Connect app, replacing the former LiveWare manager. With Smart connect, you can set your device to do a variety of things, like launch an app or set an alarm, whenever you connect an accessory, e.g. a headset or a charger, or at a preset time. It doesn't work with NFC though, which is very disappointing.</paragraph>
+			<paragraph>In fact, there's no app to handle the NFC functions out of the box, which is strange considering Sony took the time to install a QR code reader app, which will see a lot less use. Luckily, there are plenty of capable NFC apps in the Play Store.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Unmatched browsing with Google Chrome<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra comes with Google Chrome as the default web browser out of box instead of the generic Android browser. While the minimalist interface hasn't changed since Chrome launched on Android, the browser is being constantly refined by Google, and this has resulted in one of the smoothest and most powerful browsing experiences we've encountered on a mobile.</paragraph>
+			<paragraph>At the top there's an URL bar with a refresh/stop button next to tabs and settings. You can switch between tabs with a wide horizontal swipe in either direction.</paragraph>
+			<paragraph>Chrome runs ono the WebKit rendering engine, so underneath the minimalist UI it's basically the same as all Android stock browsers.</paragraph>
+			<paragraph>Of course, one of Chrome's strengths is its ability to seamlessly sync with the desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+			<paragraph>Google Chrome is generous with settings as well. You can control almost every aspect of your web browsing from choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups.</paragraph>
+			<paragraph>Opening the tabs area reveals a list of tabs which can be closed, again with a left or right swipe. The animation accompanying this action is neat, too. Incognito tabs, which lets you browse without saving history or cookies, show up right next to regular tabs.</paragraph>
+			<paragraph>A brand new setting is called Reduce data usage and does what it says - Google servers compress the webpage (using Google-developed tech like SPDY and WebP) and send them to the phone. You can check the graph to see how much data you've saved. Unlike Opera Mini, this mode keeps the full functionality of web pages. Also, secure connections bypass the Google servers for privacy reasons.</paragraph>
+			<paragraph>Also, keep in mind you can use the Small app browser, which lets you surf while doing other things on the large screen. Unfortunately, there's no easy way to switch from Chrome to the floating browser.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Document viewer<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra comes with the OfficeSuite 7 viewer. OfficeSuite 7 lets you view Word, Excel, PowerPoint, PDF along with plain text files. Just view them though, as you'll have to buy the Pro version if you want editing capabilities as well.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>The calendar has three different types of view - daily, weekly and monthly. The lower section of the screen is reserved for a list of upcoming events. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The Calendar also pulls info on upcoming events from your Facebook account. Facebook events appear just like regular calendar entries, except that you can't edit them from the app.</paragraph>
+			<paragraph>The Notes app has made its way onto the Xperia Z Ultra, except this time its drawing capabilities have been moved to a separate Sketch app. It's pretty simple to use - you can select the color of the note/sketch and just start typing or doodling. You can customize a wide variety of drawing modes, backgrounds, and stencils, and there's also Evernote integration.</paragraph>
+			<paragraph>There is a nicely touch-optimized calculator aboard. The buttons are really big and easy to hit, and it also offers advanced functions (trigonometry, logarithms).</paragraph>
+			<paragraph>The clock app supports multiple alarms, each with its own start and repeat time. There's also a desk clock option, although it doesn't have integrated weather or news information.</paragraph>
+			<paragraph>The stopwatch, world clock and timer are also available from within the clock app. The Timer function now has a history option, and the world clock features a cool slider which helps you quickly figure out the local time in another city.</paragraph>
+			<paragraph>The Power Saver - now part of the settings menu - helps you extend your battery life by toggling things like Wi-Fi, GPS, Bluetooth screen brightness, auto sync and background data on and off automatically when the battery charge falls below a certain user-defined threshold. You can also turn off the Wi-Fi if there is no saved Wi-Fi network in range or turn off mobile data when the screen is off, and more.</paragraph>
+			<paragraph>Sony also provides a Backup &amp; restore app, which can use the internal storage, a microSD card or even an attached USB mass storage device. You can backup the system and downloaded apps and their data along with any media files.</paragraph>
+			<paragraph>Another helpful tool is the Update center, which checks for updates for your phone and your apps. You can enable automatic download with the option to use Wi-Fi only.</paragraph>
+			<paragraph>The Sony Xperia Z Ultra also comes with Google+ and Facebook apps out of the box. The Facebook app also has a nice widget that will show you updates on the homescreen.</paragraph>
+			<paragraph>This being a Sony phone, you can also use PlayStation Mobile for Android to play exclusive games.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play is where the apps are<subsectionTitle>
+			<paragraph>The Google Play Store features several scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. You can also check out the Play Picks, Apps to Watch, Apps Highlights and Editor's Choice categories on the Home tab for more curated app lists. The Recommended for you list is based on what apps you've installed and what your Google+ friends have liked.</paragraph>
+			<paragraph>Apps usually have several screenshots (many even offer a demo video) so you can get an idea of what the app looks like before installing it.</paragraph>
+			<paragraph>You can also check out comments and ratings, as well as the number of downloads and so on, to help you decide if the app is worth it.</paragraph>
+			<paragraph>The Google Play Store is full of all sorts of apps, but in some countries it also offers music, movies and TV shows, books and magazines.</paragraph>
+			<paragraph>Sony Xperia Z Ultra is a fully PlayStation Certified device and you can access the PS Store for quality PSX games.</paragraph>
+			<paragraph>The PS Store offers a list of various Sony exclusive games and apps.</paragraph>
+			<paragraph>It's organized into three tabs - New releases, Featured and All. The Apps and Games categories in the All tab are organized in lots of subcategories.</paragraph>
+			<paragraph>Sony Select service is also on board. It shows you all kind of multimedia content Sony is currently recommending. There is even a dedicated widget that shows the most recent recommendations.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps finds your way<subsectionTitle>
+			<paragraph>The Sony Xperia Z Ultra has a built-in A-GPS receiver with GLONASS support, which managed to get a lock in about a minute. If all you need is a rough idea of where you are (within 150 meters) you can use the Cell-ID and Wi-Fi network lock, which is very fast as well.</paragraph>
+			<paragraph>Google recently revamped the UI, but the basics are the same. Maps offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere. You can also plan routes for bicycles and public transport. A nice addition in the latest version is that Maps shows you a couple of alternative routes like the desktop version of Google Maps.</paragraph>
+			<paragraph>For navigation, the map will cache the data it needs and will reroute you offline (so you don't need a data connection along the way). The Navigation app itself had its UI polished to match the rest of Maps.</paragraph>
+			<paragraph>You can also search for nearby POI and go into the always cool Street View.</paragraph>
+			<paragraph>Popular places around the world feature pictures and reviews by people. Street view isn't available everywhere, but it is growing in coverage and is the coolest thing we've seen on a Maps app to date (that includes Aerial view in iOS).</paragraph>
+			<paragraph>You can save maps for offline view, which caches them on your device's storage, but keep in mind that not all map info is saved (meaning not everything down to street level like businesses, POIs, etc.).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Phone or tablet? One of the rivals was telling us to "feel free". If asked, Sony would probably go for a simple yes. As in, why not have both. As in we cannot quite make up our mind either. As in... hell yeah. The latter suits the Sony Xperia Z Ultra. Boy, does it not!</paragraph>
+			<paragraph>It's a sexy piece of design and impressively powered, too. Four Krait 400 cores clocked way up to 2.2 GHz and 2 gigs of RAM on the Snapdragon 800 chipset will never leave you short on torque. Sony has done well to address the screen deficiencies of past models and the X-Reality-powered (former Mobile Bravia) Triluminos display offers nicely improved viewing angles compared to the original Xperia Z.</paragraph>
+			<paragraph>It's an ultra-responsive screen too, which can register pen or pencil input. And we mean just any pen or pencil you may have lying around, not a dedicated stylus along the lines of the Galaxy Notes.</paragraph>
+			<paragraph>The Sony phablet is remarkably slim, at 6.5mm, not the slimmest ever but certainly the slimmest device with a screen over 6-inches. And Sony managed to up the level of protection and obtain IP58 certification for the Xperia Z Ultra, which practically means you can go swimming with it.</paragraph>
+			<paragraph>There is also a solid camera on board with particularly high video recording quality.</paragraph>
+			<paragraph>So far, so splendid. Indeed, there are no real deal-breakers with this phone. Of course, the Sony Xperia Z Ultra is not without its weak spots, but it's nothing major. The non-removable battery is one of the issues. The lack of a flash (which usually nicely doubles as a flashlight is a downer, too. And let's not forget the quiet loudspeaker.</paragraph>
+			<paragraph>OK, we've mentioned it a couple of times already - and the clash of the two phablets is imminent anyway, with the Note III scheduled to be reveled in a matter of hours. All we have at the time of writing is unofficial preliminary specs, but the S-Pen and a 5.7" 1080p screen are more or less a safe bet. In all likelihood, it will be the same chipset too, so the phablet crown will be pretty much decided between these two. We can't wait.</paragraph>
+			<paragraph> Samsung Galaxy Note III</paragraph>
+			<paragraph>Or there may very well be a third horse in the race, the recently-announced Liquid S2. Acer will probably struggle to match Samsung and Sony's level of brand recognition, but that's about the only area perhaps where the Liquid S2 falls short. With a 6" 1080p IPS LCD, it's powered by the same Snapdragon 800 chipset and is the world's first smartphone capable of shooting 4K UHD videos.</paragraph>
+			<paragraph> Acer Liquid S2</paragraph>
+			<paragraph>Of course, there are other, more affordable options, out there but they're alternatives rather than real competition for the Xperia Z Ultra. The Samsung Galaxy Mega 6.3 is the closest match for screen size but the resolution maxes out at 720p. The situation with the Huawei Ascend Mate is pretty much the same. Neither of those however matches the brilliant design and IP certification of Sony's phablet.</paragraph>
+			<paragraph>  Samsung Galaxy Mega 6.3 I9200 ? Huawei Ascend Mate</paragraph>
+			<paragraph>There goes the Xperia Z Ultra, more a tablet than a phone. A bit unwieldy for sure, especially compared to Samsung's Notes. But it sure shows the Japanese have hit the form of their life, unafraid to experiment in a segment they debut in. 6+" diagonal must've been too much for Samsung. They are playing it safe there with an expendable midranger, the Galaxy Mega 6.3, instead of pushing the Note III to its limit.</paragraph>
+			<paragraph>The Xperia Z Ultra is a seriously cool looking gadget, although an extra millimeter around the waist and another 1,000mah of juice might have been a smart move as well. Still, Sony's phablet has demonstrated unmatched performance - the browser loads everything instantly, apps are bullet-quick - and it also has the best screen on a phablet yet.</paragraph>
+			<paragraph>Of course, it may soon lose this or that advantage to the likes of the LG G2 or the Galaxy Note III, but even then it will be a force to be reckoned with for quite a while. And a phablet to be proud of. So, keep them coming, Sony.</paragraph>
+		</subsection>
+	</page>
+</review>

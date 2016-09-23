@@ -1,0 +1,347 @@
+<review>
+	<title>Asus Zenfone 2 review</title>
+	<description>A balancing act</description>
+	<link>http://www.gsmarena.com/asus_zenfone_2_ze551ml-review-1240.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.5-inch IPS capacity touchscreen with 1080p resolution and 403ppi density, Gorilla Glass 3 protection</paragraph>
+			<paragraph>Intel Atom Z3560 chipset with a 1.8GHz quad-core processor, PowerVR G6430 GPU</paragraph>
+			<paragraph>2GB of RAM, 16GB of storage and a microSD slot for further expansion</paragraph>
+			<paragraph>Dual-SIM, Dual Call capability</paragraph>
+			<paragraph>LTE Cat.4, NFC, Bluetooth; GPS with A-GPS, GLONASS</paragraph>
+			<paragraph>Wi-Fi 802.11 a/b/g/n/ac, Wi-Fi Direct, Wi-Fi hotspot; microUSB 2.0 port, MHL, USB host</paragraph>
+			<paragraph>13MP main camera with dual-LED dual-tone LED flash, 1080p@30fps video recording; 5MP front camera</paragraph>
+			<paragraph>3,000mAh battery, fast charging to 60% in 40 minutes</paragraph>
+			<paragraph>Android 5.0 Lollipop out of the box with Asus ZenUI overlay</paragraph>
+			<paragraph>Nice build quality, sleek looking back cover</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No 2160p video recording</paragraph>
+			<paragraph>Non-removable battery despite the removable back cover</paragraph>
+			<paragraph>Rather large and hefty</paragraph>
+			<paragraph>Zenfone 2 has a confusing naming convention - not only are there several of them, but ZE551ML comes in two hardware versions</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>World domination was surely on the mind of at least one top exec over at Asus headquarters, when the crew gathered to outline the Zenfone 2 game plan. The smartphone will be sold globally, and the stores in a few lucky countries already have their shelves well stocked. The company is aiming to sell 30 million phones this year, with the Zenfone 2 being a chief contributor to that number.</paragraph>
+			<paragraph>Update, June 11: After spending some quality time with the top-of-the-line Asus ZenFone 2 with Intel Atom Z3580 SoC and 4GB of RAM, we added its benchmark scores to the performance page of the review. </paragraph>
+			<paragraph>We have also updated the camera section on the original Zenfone 2 2GB, which we reviewed, after installing a new software V2.17.40.12, which considerably improved image quality.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Now, Asus doesn't make it easy on the prospective buyer as they offer the Zenfone 2 in a number of model variants - a range of devices under one and the same name. The entry-level ZE500CL comes with a five-inch 720 display, Intel Atom Z2560 chipset with its quad-core processor clocked at 1.6GHz, and 2GB of RAM. The ZE550ML ups the screen size to 5.5 inches, while keeping the HD resolution. The processor inside the Atom Z3560 ticks at 1.8GHz, and RAM is the same.</paragraph>
+			<paragraph>Then there's the ZE551ML, which sports a 5.5-inch diagonal and a FullHD resolution. Even the ZE551ML moniker wouldn't tell you what's packed inside, as there's a version with the same Atom Z3560 and 2GB of RAM and a top model, sporting an Atom Z3580 with specs going all the way up to 2.3GHz and 4GB of RAM.</paragraph>
+			<paragraph>To give Asus credit, probably not all models will be available on all markets and that may settle it for you, depending on where you live. The one we have at the office is the ZE551ML with the lower-specced hardware, meaning an Atom Z3560 and 2 gigs of RAM.</paragraph>
+			<paragraph>With that confusion cleared up, we're now moving to the task at hand.</paragraph>
+			<paragraph>The Zenfone 2 ZE551ML is also a looker, sporting a plastic back, which emulates brushed steel, and does so quite successfully. Our unit is dressed in Glamor Red but multiple color options are available to please a wider target audience.</paragraph>
+			<paragraph>What all that adds up to is a proficient package, positioned in the upper midrange. At a price point around the $220 mark, it's also a compelling offer, hard to say no to. You could opt for the faster processor and double the RAM, and that would set you back around $280, still a bargain. Mind you, those are the numbers valid for most of Asia, while European figures are noticeably higher with the top model priced at ?299 for a limited time, after which the price will become ?349.</paragraph>
+			<paragraph>With that aside, join us on the next page for the usual unboxing and hardware.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Standard retail package<subsectionTitle>
+			<paragraph>The Zenfone 2 comes in an eye-catching red retail package (matching the red phone inside). Inside you'll find the usual set of accessories, but nothing special. You get a headset with an in-ear design, tangle-free flat cables and a single-button remote. Extra earbuds are also provided.</paragraph>
+			<paragraph>There is a two piece charger with a rather short USB-to-microUSB cable. The AC adapter is instrumental in providing that fast charging feature and puts out a maximum of 2amps at 9volts for a whopping 18W of maximum charging power.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Asus Zenfone 2 ZE551ML 360-degree spin<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 ZE551ML measures 152.5 x 77.2 x 10.9 mm, which is about right for 5.5-inch device. The LG G3 manages a smaller footprint, but it has on-screen buttons eating up screen space. The iPhone 6 Plus on the other hand is even taller at 158.1mm, which goes to show that even premium offerings don't come with an advantage in compactness. That said, the 5.7-inch Samsung Galaxy Note 4 comes in a body only marginally larger than the Zenfone 2.</paragraph>
+			<paragraph>The 10.9mm thickness might look huge in today's smartphone world, but the back has a nice curve which brings the thickness to less than half towards the edges, and it's not that big of a problem. At 170g, weight also isn't stellar, but it's bearable.</paragraph>
+			<paragraph>There are no two ways about it - the Zenfone 2 is quite large and hefty, but in phablet territory, you should be prepared to tolerate a bulkier device for the added benefit of the larger screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 sports a simple, yet attractive design aesthetic. The front is dominated by the 5.5-inch display, flanked by rather generous bezels. The strip with the capacitive Back/Home/Task switcher buttons is below.</paragraph>
+			<paragraph>The back cover is certainly more striking. The cover borrows design clues from the LG G3 and sports a brushed steel effect despite its otherwise plastic nature. A more confident Asus logo is joined by an Intel inside inscription to demonstrate its allegiance to the non-ARM camp in the Android realm.</paragraph>
+			<paragraph>All in all, the rear cover looks great, it doesn't make smudges visible and it's removable at that. Popping it off gives you access to the array of slots inside. You get two micro-SIM slots and a dedicated microSD slot. The battery is sadly not user-replaceable, even though you can access it from here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Zenfone 2 has a rather unusual control layout. In another move, inspired by LG, you get a volume rocker on the back right under the camera lens. It's positioned exactly where your index finger typically rests and it's surrounded by a gentle indentation to easily locate it by touch alone.</paragraph>
+			<paragraph>The main camera lens is immediately above the rocker, joined by the dual-LED dual-tone flash further up.</paragraph>
+			<paragraph>Towards the bottom of the back you get a speaker grille, but don't let its size fool you as the actual speaker is only a quarter of its size, located at the far left. It was apparently a push for symmetry and the dual-tone flash might have cost a night's worth of sleep to a more obsessed designer.</paragraph>
+			<paragraph>The sides of the smartphone are both completely bare, if you don't count the thin slit on the bottom right, which is used for removing the cover.</paragraph>
+			<paragraph>On the top you'll find the power button dead center, flanked by a 3.5mm headphone jack and a secondary microphone. The bottom is home to the microUSB port in the middle and the pinhole for the primary mic.</paragraph>
+			<paragraph>One thing worth noting is that with a phone this big it's hard to reach the top-mounted power key.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Handling<subsectionTitle>
+			<paragraph>The Zenfone 2 handles well for a 5.5-inch device. The back surface is reasonably grippy and the curve on the back together with the slim sides work to deliver a comfortable feel in the hand. The capacitive keys are well positioned and easy to reach, while the side bezels are large enough to avoid touch input from your thumb.</paragraph>
+			<paragraph>The power button on top requires two handed use or stretching your index finger, together with repositioning your grip, and is not at all comfortable. The button doesn't have much travel either. Thankfully, the smartphone supports double-tap to wake, so you'll only need the physical button for powering off.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>5.5-inch FullHD IPS panel<subsectionTitle>
+			<paragraph>A 5.5-inch display adorns the front of the Zenfone 2. It utilizes an IPS panel of 1080p resolution which results in 403ppi, well above what's considered a Retina-grade 300ppi. Indeed, the display is sharp enough not to let you distinguish individual pixels and text is crisp even at very tiny sizes. The viewing angles are good, and despite the noticeable brightness and contrast fallout when viewed sideways, the screen remains clearly legible.</paragraph>
+			<paragraph>The screen is covered in Gorilla Glass 3 for scratch and shatter resistance. It's very prone to smudges though and care must be taken to keep it clean. There is a dedicated glove mode for increased touch sensitivity at the expense of slightly shorter battery life.</paragraph>
+			<paragraph>Asus has the Splendid app, which lets you adjust your screen color profile. The default setting out of the box is Vivid, which produces pleasing colors with plenty of punch. However, if the Vivid setting is too much for your taste, you can opt for a more subdued Balance mode and both have a slider for color temperature adjustment.</paragraph>
+			<paragraph>Reading mode brings the saturation further down and provides another slider, which gives whites a progressively yellowish tint, to make it easier on your eyes in long research sessions. Finally, a Customized mode lets you adjust both hue and saturation separately.</paragraph>
+			<paragraph>Our microscope revealed a standard RGB matrix with an equal number of subpixels for all three colors.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Zenfone 2 didn't impress with brightness and at the maximum setting posted only average results. The high black value also means a less than stellar contrast. At the 50% setting the display is actually closer to a quarter of maximum brightness and is in fact quite dim. Contrast deteriorates further as well.</paragraph>
+			<paragraph>The smartphone did manage an average sunlight legibility ratio despite its low maximum brightness. In reality, while you'll be able to discern what's shown on the screen, you're better off finding a shade.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The Zenfone 2 ZE551ML is equipped with a 3,000mAh battery, which is sadly not user-replaceable despite the back being removable. This sort of capacity is about average for a 5.5-inch smartphone.</paragraph>
+			<paragraph>While the scorecards below omit the standby times, our procedure includes measuring those as well and they are calculated in the overall rating. Our tests revealed that the Zenfone 2 can last as much as 10 days in standby when a single SIM card is used, which drops to about 8 and a half days when you pop in a second SIM. Voice calls will drain your battery in a bit under 16 hours which a respectable achievement as well.</paragraph>
+			<paragraph>Video playback longevity is nothing special but at 8 and a half hours it's adequate. What's more troubling is the browser department where the Asus Browser was nearly twice as quick at depleting the smartphone's battery, compared to Chrome and scored a measly 4 and half hours. Having that in mind, we chose to use Chrome when calculating the Zenfone 2's endurance rating - it's only natural that the user will opt for the more efficient solution, especially with such a great difference in longevity.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Zenfone 2 ZE551ML is well stocked on connectivity options. First off, there's quad-band 2G/GPRS/EDGE on both SIM cards and that's where the second card is capped. SIM 1 also gets quad-band 3G and a multitude of LTE bands, which are region dependent.</paragraph>
+			<paragraph>Dual-band (2.4GHz and 5GHz) Wi-Fi 802.11 a/b/g/n/ac radios are on board as well, with Wi-Fi Direct and hotspot support.</paragraph>
+			<paragraph>Bluetooth is in its 4.0 version and offers A2DP support for audio streaming. We're seeing increasing adoption of the newer 4.1 iteration which fixes issues with Bluetooth/LTE interference, but not on the Zenfone 2.</paragraph>
+			<paragraph>A GPS receiver with A-GPS and GLONASS should provide precise tracking. NFC functionality is also present.</paragraph>
+			<paragraph>The microUSB port comes with USB host support for attaching your choice of peripherals and MHL support. The headphone jack is the standard 3.5mm affair, allowing you to plug in just about any set of headphones out there.</paragraph>
+			<paragraph>There's also a dedicated microSD card slot for storage expansion which takes cards up to 64GB.</paragraph>
+			<paragraph>An FM radio receiver is provided for listening to music on the go without generating data traffic. There's no IR blaster, though, so you can't control home appliances with the Zenfone 2.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Thoroughly customized Android 5.0<subsectionTitle>
+			<paragraph>The Zenfone 2 ZE551ML comes with Android 5.0 out of the box, hard to expect anything less from a smartphone carrying so much on its shoulders. Google's OS has been the object of a total makeover by Asus, and the overlay is called ZenUI. It's not merely a skin too, instead the company has added a host of proprietary apps. For a quick overview of the UI, check out the video below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>With the power button all the way up on top, you'll be grateful there's a double tap to wake feature. Sending the phone back to sleep works by double-tapping on an empty area of the interface. If you're running a full-screen app, double-tapping on the notification bar will do the trick. You could disable the feature in settings, if you want that extra 1-2 percent of standby endurance, but we don't see ourselves doing that.</paragraph>
+			<paragraph>The lockscreen is a typical Asus affair. You're greeted by a time and weather widget, but also three shortcuts to the camera, dialer and messaging apps. They are customizable too, and you can assign any installed app of your choice to either of the three slots.</paragraph>
+			<paragraph>The list of notifications follows and, unlike some other Lollipop builds, double tapping on one, takes you straight to the app that pushed it. Unlocking only works with an upwards swipe and there's no shortcut to Google Now from the lockscreen.</paragraph>
+			<paragraph>Beyond the lockscreen is the Android homescreen with four customizable shortcuts docked at the bottom, the app drawer shortcut always in the middle. You cannot add more icons beyond these four, but there is folder support. Removing one does not rearrange the others, leaving a oddly vacant placeholder.</paragraph>
+			<paragraph>There are preloaded Asus and Google folders, packed to the brim with a selection of applications from the respective companies - custom Asus apps in one, and the default Google apps in the other.</paragraph>
+			<paragraph>A pinch zoom lets you rearrange your homescreens, as well as select a default homescreen and add additional ones up to seven total, which can be cycled. Unlike other custom Android overlays, which omit the app drawer altogether, Asus have opted to stick with it.</paragraph>
+			<paragraph>Holding your finger on a homescreen brings a popup menu. It gives access to icon packs (of which there's only one on board, but the Play Store has plenty), scroll effects (a grand total of 11) and wallpapers. Additionally, it provides another way to get to the app drawer and settings menu.</paragraph>
+			<paragraph>The notification area has seen extensive customization as well. A single-finger pull-down only brings up the notifications and no quick toggles. Side swiping removes the notifications and a "clear" button does away with all of them at once. A second swipe from just below the date reveals the toggles, and whatever notifications you have left get squished to the little space underneath.</paragraph>
+			<paragraph>A two finger pull-down gets you straight to this state, which features a brightness slide with an auto mode, a 4-in-a-row set of quick tools and a 3x4 grid of toggles. Both the quick tools and the toggles can be chosen and rearranged, but you need to have exactly 4 tools and at least 8 toggles lined up.</paragraph>
+			<paragraph>The task switcher is the standard Lollipop style virtual rolodex, but with a twist. In between the typical "Close all" button and shortcut to the Apps section of the Settings menu, you get a pinning option. What that does, is keep the selected app in view regardless of taps on the capacitive buttons. It's a bit fiddly to get out of requiring a press-and-hold on the back and task switcher buttons simultaneously.</paragraph>
+			<paragraph>Quick trigger is Asus' answer to the problem of handling large devices single-handedly. It's evoked with a double tap on the home button, provided you've enabled it first in settings. What it does is shrink the entire interface to a portion of the screen, which is resizable and can be moved around to suit left or right handed use. Very similar to what Samsung introduced with the Note series.</paragraph>
+			<paragraph>With the touchscreen always-on for the double-tap-to-wake feature, Asus was able to implement a few other nifty shortcuts. For example, drawing the letter "C" on the screen while it's sleeping will wake the phone and straight up launch the camera app. "W" launches the browser and presumably stands for Web. While the letters are preset and you get six of them, you can assign any app of your choice to any letter - very convenient!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Intel inside<subsectionTitle>
+			<paragraph>The entire Zenfone 2 range is powered by Intel Atom chipsets, and the ZE551ML we have at the office has an Atom Z3560 SoC with its quad-core processor clocked anywhere between 500MHz and 1.83GHz, depending on the work load.</paragraph>
+			<paragraph>Update, June 11: We have added the benchmark scores of the range-topping Asus ZenFone 2 with 4GB of RAM. In addition to more memory, it packs a more powerful Intel Atom Z3580 SoC with 2.3 GHz quad-core CPU. For comparison, Asus ZenFone 2 with 2GB of RAM features Intel Atom Z3560 with 1.8GHz quad-core CPU.</paragraph>
+			<paragraph>The 4GB Asus ZenFone 2 delivered mostly impressive performance across the board, leaving many flagship devices behind it on more than one occasion. As expected, the 4GB variant is also noticeably faster than its sibling with 2GB of RAM.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Intel's offerings can hardly impress with numbers in the Android realm, where higher-clocked octa-core processors have become the norm. However, the Atom Z3560 proved to be able to compete with the Snapdragon 800 and its quad-core 2.26GHz processor, back when we reviewed the Asus Memo Pad ME572C, a similarly specced tablet.</paragraph>
+			<paragraph>Our review unit comes with 2GB of RAM, which should be about enough for smooth daily usage. Demanding power users, who do a lot of multitasking may choose to go with the top model that comes with 4GB and the faster Atom Z3580, albeit at a price premium.</paragraph>
+			<paragraph>We tried to pick a few of the Zenfone 2's market rivals, which are frankly hard to pinpoint, but also threw in the current crop of flagships to see how it compares to the leading performers out there.</paragraph>
+			<paragraph>We'll start with the CPU centric Geekbench 3.0 test. As expected, the Zenfone 2 doesn't impress with raw CPU performance and is miles behind the 1.7GHz octa-core Meizu m1 note. The Samsung Galaxy Note 3 with S800 together with the Oppo Find 7a and OnePlus One both powered by S801 are ahead as well. Still, the Zenfone 2 manages to inch ahead of both LG G2 and G3 and is superior to the Galaxy Note 3 Neo.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Antutu 5 adds RAM and storage speed into the mix and is an indication of the overall performance of the device. The Zenfone 2 delivers a strong performance, on par with the Galaxy Note 3 with S800 and the LG G3 with S801.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The even broader Basemark OS II benchmark continues the trend. Overall, the Zenfone 2 performs well, if far from the top of the current flagship crop. Again, the Galaxy Note 3 and G2 remain behind.</paragraph>
+			<paragraph>As expected though, the CPU focused parts of the benchmark weren't the Atom's strong suit and it was bolted to bottom of the comparison charts.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In the graphics department, the Zenfone 2 is equipped with a PowerVR G6430 GPU as Intel doesn't make its own graphics chips for the Atoms. It's a somewhat old GPU, released back in Q3 2013, made by British semiconductor manufacturer Imagination Technologies. It was featured in Apple's A7 SoC inside the iPhone 5S, and is chosen by Intel for the entire range of Z35xx Atoms.</paragraph>
+			<paragraph>GFXBench returned the same results in both the off-screen and on-screen routines, not exactly surprising, having in mind that the standardized off-screen tests are carried out at 1080p resolution, the same as the actual one on the Zenfone 2.</paragraph>
+			<paragraph>The GPU puts out solid numbers in the T-Rex test beating the Galaxy Note 3 and the LG G3 and G2. Even the Galaxy Note 4 is a frame behind in the on-screen test, but don't forget its QHD resolution. The more intense Manhattan routine halves the framerate but even so the Zenfone 2 posts great results. Apart from the Galaxy S6 and the Snapdragon 810s, no one proves to be a match.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark X is a bit less flattering on the Zenfone, but in this company it still performs admirably. Of the old dogs only OnePlus One is ahead, and not by much.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Browser performance turned out very good as well. The JavaScript-intense Kraken 1.1 squeezed a 6360ms score from the Zenfone 2, the best result behind the obvious powerhouses. HTML5 is a non-issue too, as evidenced by the figures in BrowserMark 2.1.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>To wrap up, the Zenfone 2 ZE551ML proves to be a strong performer, even in this compromise configuration with 2GB of RAM and Intel Atom Z3560. While it may not be on par with the latest and greatest, it outperforms established flagship names from the previous generation and shows no apparent weaknesses. We can only imagine what the top model would have shown in these tests with double the operating memory and higher maximum clock speed.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sleek phonebook with plenty of options<subsectionTitle>
+			<paragraph>The Zenfone 2 uses a combined interface for the phonebook and dialer. Out of the box it's laid out across five tabs - Telephone (dialer), Favorites, Contacts, Groups and Call Guard, for managing blocked numbers.</paragraph>
+			<paragraph>You can however edit the tabs and remove ones you don't use for a less cluttered interface. You can also add another tab, dubbed VIP for those among your contacts with a special status. Out of the six possible tabs you can have up to five at a time, and Telephone and Contacts cannot be removed, for rather obvious reasons.</paragraph>
+			<paragraph>Side-swiping lets you switch between those without needing to reach for the top, welcome on a sizeable 5.5-inch device.</paragraph>
+			<paragraph>You can display all your available contacts, or limit the list to the ones in your Google account, either of your SIM cards or the phone's internal memory. You also get quick access to a specific letter from the alphabet as well as a search box with voice search capability.</paragraph>
+			<paragraph>Opening a single contact gives a quick glimpse over the available means of communication with that person. Tapping on the pencil in top right corner reveals the usual myriad of options for editing with virtually every detail getting a dedicated field.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The Zenfone 2 doesn't forget it's a phone in the first place and delivers good reception quality. In-call sound is loud and clear, as reported by both sides.</paragraph>
+			<paragraph>The phone omits gimmicky features like picking up the call when you hold the device to your ear or muting a call when flipped face down. To answer or reject you need to swipe on the screen and that's it. Volume down or the power button act as mute. Some may be disappointed, but traditionalists will rejoice. Reject with a text message is available, though.</paragraph>
+			<paragraph>There's no separate call log tab, instead it's combined with the dialer, and sits underneath the num pad. That one can be easily hidden though with a tap on the icon in bottom left. The call log gives you an option to show the calls by categories or all of them together, as well as a dedicated list for the VIP calls.</paragraph>
+			<paragraph>It's a dual-SIM smartphone, and as such the Zenfone 2 offers a choice of options on how to handle the two cards. Within the settings menu you can enable/disable each of the SIMs, and also assign a name for easier distinction. Obviously, you can specify which one is used for different tasks such as voice calls or data transfer. Otherwise you'll get two call buttons below the num pad.</paragraph>
+			<paragraph>Our loudspeaker test returned unimpressive results. The Below average rating means you'd best keep an eye on your smartphone in noisy environments, or you may end up missing calls and notifications.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging, email and text input<subsectionTitle>
+			<paragraph>The generic Messaging app on the Zenfone 2 offers straightforward texts with Asus's take on design, and works well. You can attach a picture or a video or a number of other items and that automatically turns it into an MMS message. Google Hangouts is onboard as well, with a broader set of multimedia and group handling features.</paragraph>
+			<paragraph>The Zenfone 2 comes with the common set of two email apps, the generic Android Email one, albeit tastefully skinned by Asus, and Gmail. They offer largely the same functionality, with similar interface and support for multiple accounts. The generic app has a more restrained look while Gmail is all Material design colorful. It does have that additional Google touch that may make you choose it over the default one.</paragraph>
+			<paragraph>There's a single keyboard installed on the Zenfone 2, dubbed Asus Keyboard. It's not lacking in functionality and has a separate number row, which is handy, while still allowing for plenty of usable screen estate. Secondary symbols are also available, for quick punctuation or old-school emoticons without changing the entire layout.</paragraph>
+			<paragraph>It comes in three sizes, but Tall takes up more than half the screen and is a bit excessive. Most users will likely stick with Normal or even Short, which still provides adequate size.</paragraph>
+			<paragraph>It's swipe enabled, although Asus calls it trace input, but the concept is the same. Flick input lets you change between upper and lower case simply by taping on the key and flicking in up for uppercase and down for lowercase - a nifty feature, saving you a tap on the dedicated button. Trace and Flick can't work together, though.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Capable gallery with MiniMovie and collages<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 ZE551ML comes with a custom Gallery app. It defaults to a view of your folders and the camera roll is highlighted over the top. The Gallery also supports events and people views, plus it can display images from various cloud services including ASUS, Omlet, Facebook, OneDrive, Google Drive, Google+ and Flickr.</paragraph>
+			<paragraph>You get the Asus MiniMovie app, which lets you select a bunch of images and turns them into a short video of sorts, with music, transitions and the lot, which you can customize, of course. A handy collage feature is also on board, and it's pretty comprehensive, with a host of aspect ratios, templates and backgrounds. In the end however, the output images are capped to 1080pixels in the longest dimension, so they're only good for social media.</paragraph>
+			<paragraph>The available features when viewing a single image are pretty standard - set image as wallpaper/contact image, share it, delete it, enter edit mode or just get more info. You also get quick shortcuts for rotation and additional information. The integrated editor offers various effects, frames, tools (crop, mirror, straighten, rotate, fisheye, doodle) plus light adjustments that let you bring out the shadows or the highlights.</paragraph>
+			<paragraph>The Zenfone 2 video player is part of the Gallery, there isn't a dedicated app. There are no premium features or particularly striking video decoder support. Its interface is very simple, too - just a playback scrubber and a play/pause button, alongside a sharing button at the top.</paragraph>
+			<paragraph>It wasn't able to play anything but MP4, plus the occasional AVI. DivX, Xvid, MKV, WMV and MOV are a no go, as is the AC3 audio codec. If you need a video player to open anything besides your camera roll videos, you'll have to opt for one from the Play Store.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The music player does the job<subsectionTitle>
+			<paragraph>The Asus music player does decently in terms of functionality, covering all the basics. It has a large Now Playing window with prominent album art, and also has integrated bass boost and surround sound options, although both of those only work with headphones. An equalizer is also available with multiple presets and a single custom setting. That's in addition to the system-wide AudioWizard sound enhancement software.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM Radio with RDS<subsectionTitle>
+			<paragraph>A useful FM radio app is available on the Zenfone 2. The search function automatically stores all available stations. It has RDS and can retrieve the stations' names, but interestingly enough, only displays them when the current station is playing. You can set up to 5 favorite stations but they are displayed with their respective frequency, instead of the names.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Crispy clean audio output<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 demonstrated above average volume levels in the first part of our test - the one where it works with an active external amplifier. Its output was very clean too as testified by its excellent scores.</paragraph>
+			<paragraph>Plug in a pair of headphones and you get a tiny bit of extra crosstalk with no other damage to the output. Impressively clean indeed and with volume levels still above average this rounds up one of the best performance in this class.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> Asus Zenfone 2 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP camera<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 ZE551ML comes equipped with a 13MP main camera with a native 4:3 ratio, capable of producing shots up to 4,096 x 3,072 pixels in resolution. It sits behind a reasonably fast f/2.0 lens, and is aided by a dual-tone dual-LED flash for low-light shooting.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The app interface is combined, offering a screen shutter release button and a video record button side by side. The volume rocker can be set either as zoom control, or shutter release. The latter works great for both the rear and front cameras when held in portrait orientation, but is awkward in landscape.</paragraph>
+			<paragraph>An array of shooting modes are available on top of the Auto Mode, including Night, Panorama and HDR. A selfie mode helps utilize the main camera for the purpose, acknowledging that the front camera is to be used for video calls only. Depth of field takes two shots and combines them in one image for a closeup with a blurred background.</paragraph>
+			<paragraph>The Settings menu offers control over white balance, ISO, exposure compensation, the lot. The list is scrollable through still, video and general options with tabs for quick access. You also have a dedicated flash settings button.</paragraph>
+			<paragraph>Zenfone 2 camera update</paragraph>
+			<paragraph>Some time after this review was originally published, Asus released a number of firmware updates, fixing a multitude of issues, among them the camera output quality. The changelog on the company's website states that the camera quality update took place in the V2.15.40.10 firmware version. We updated our test unit to that version but more releases kept coming and eventually brought it to V2.17.40.12. We reshot our usual test scenes with that firmware installed and the results are shown below.</paragraph>
+			<paragraph>The output is markedly different from the original, and Asus is not going the wrong way. For starters there's a very clear distinction between the images produced with the Optimization feature set to Auto and those shot with no optimization - something you'd be hard pressed to tell before.</paragraph>
+			<paragraph>Exposure is consistent across both modes, though the images do tend to be a bit dark and underexposed in the normal mode. Colors are also largely unaffected by switching the feature from off to auto.</paragraph>
+			<paragraph>Where the real difference lies is in the handling of sharpness and contrast. With Optimization Off, the Zenfone 2 creates rather soft images which would lend well to post processing. The detail is there, it's just not presented in the form most people are used to seeing it.</paragraph>
+			<paragraph>       Asus Zenfone 2 camera samples shot with V2.17.40.12 firmware, Optimization set to Off</paragraph>
+			<paragraph>Switch the optimization to Auto , and the smartphone pumps up the sharpness and the contrast. The images get a more widely-appealing look with easier to perceive detail. Uniformly colored areas now have a bit coarser grain, though.</paragraph>
+			<paragraph>Even so, the Auto optimization in this latest firmware is nowhere near the exaggerated smears of the original output, and leaves you with usable photos which don't have that oil painting effect like we had before.</paragraph>
+			<paragraph>       Asus Zenfone 2 camera samples shot with V2.17.40.12 firmware, Optimization set to Auto</paragraph>
+			<paragraph>The photo compare tool below can give you an idea how the Zenfone 2 stacks up against the competition.</paragraph>
+			<paragraph>    Asus Zenfone 2 ZE551ML in our photo compare tool</paragraph>
+			<paragraph>Overall, it's an excellent effort from Asus and we're glad to see their products and user experience evolve after you've already handed out the cash.</paragraph>
+			<paragraph>Original review text and samples</paragraph>
+			<paragraph>Image quality left us wanting. On one hand, when viewed to fit the screen, photos show pleasant colors and accurate exposure. White balance is also spot-on, and dynamic range is decent.</paragraph>
+			<paragraph>Zoom in to pixel level though, and things go south real quick. Images exhibit a very pronounced watercolor character, with detail smeared by broad brushstrokes. The image corners have a very pronounced softness too.</paragraph>
+			<paragraph>There's little detail in demanding subjects like the railing of the building across the street in the fifth sample, for example. Where other cameras resolve the separate vertical bars, the Zenfone 2 irons them out into a semi-transparent patch. Meanwhile areas of uniform color are rendered into a noisy mess.</paragraph>
+			<paragraph>All of the images were shot in full auto mode, meaning that Asus' Optimization feature was on and in Auto mode. After we reviewed the output, we did reshoot some of the photos with the setting turned off, to see if it will improve image quality. Aside from a minor difference in sharpening it has little to no effect on the resulting images.</paragraph>
+			<paragraph>There's an HDR mode on the Zenfone 2 and it does an okay job of bringing out detail from the shadow areas. It does tend to brighten up the entire image though and the colors in the sky get a slight shift in hue.</paragraph>
+			<paragraph>The panorama mode on the Zenfone 2 does a decent job and produces images with even exposure and accurate stitching. They don't hold up well to pixel-level scrutiny though and are noticeably soft despite the vertical resolution of about 1,800pixels, when shot in portrait.</paragraph>
+			<paragraph>The Zenfone 2 is capable of acquiring focus from very close distances and that results in some very nice macro shots, with plenty of detail.</paragraph>
+			<paragraph>The front camera is a 5MP unit which outputs photos up to 2,560 x 1,920 pixels. It won't impress you with exceptional quality, but does an adequate job for social media selfies.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video looks like upscaled 480p<subsectionTitle>
+			<paragraph>The Zenfone 2 shoots videos up to 1080p@30fps, a standard-issue mode. There's no 2160p mode. The 1080p videos have a bitrate of 15Mbps and the audio is recorded in stereo at 192Kbps.</paragraph>
+			<paragraph>The output quality is nothing like you'd expect from a 1080p video and the level of detail is more or less comparable to 480p. The camera adjusts exposure at the slightest change of scenery and the resulting videos come out a bit choppy. Colors are good, but dynamic range is rather limited.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download an unedited 1080p video sample, straight out of the Zenfone 2's camera (00:14min, 26.3MB).</paragraph>
+			<paragraph>Additionally, you can head on to our video compare tool to check out how the Zenfone 2 compares to the other offerings on the market.</paragraph>
+			<paragraph>   Asus Zenfone 2 ZE551ML in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Two browsers<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 comes with a pair of browsers. The Asus Browser offers much the same powerful functionality as Google Chrome but differs in that it offers a navigation bar at the bottom with back/forward, tab manager, new tab and a quick shortcut to add the current page to the Do-It-Later app.</paragraph>
+			<paragraph>It's questionable whether you need a navigation bar at the bottom, when you already have a set of capacitive buttons and another bar at the top. Add to that the unpredictable behavior of the interface with bars hiding and popping out without much consistency, and you end up with a browser which needs a little more work.</paragraph>
+			<paragraph>Chrome is the more mature alternative and offers easy transition from smartphone to smartphone not to mention seamless syncing with its desktop counterpart thanks to your Google account. It's fast, clean and makes much better use of screen area. We also mentioned already that Chrome is the wiser choice if any battery longevity is to be expected.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other pre-installed apps<subsectionTitle>
+			<paragraph>The Asus Zenfone 2 offers its own file managing app that allows you to easily take care of your video, picture, and document files, although there is no document viewer/editor pre-installed. There are plenty for free in the Play Store though (even ones made by Google), so this shouldn't be a problem.</paragraph>
+			<paragraph>The custom Calendar looks good, syncs with your accounts including Google, and offers Day, Week and Month views, but no Year. There's also a quick Agenda view that shows all of our events regardless of where they're recorded.</paragraph>
+			<paragraph>The Clock app packs a world clock feature that displays the time across various time zones, and has an integrated stopwatch and time. There's also a calculator app that has advanced functions in landscape mode.</paragraph>
+			<paragraph>There's a SuperNote app that aims to provide similar functionality as Samsung's S Memo app found its Galaxy Note series, except without the stylus support. It supports a wide range of templates and handwriting recognition that'll automatically separate your writing across lines.</paragraph>
+			<paragraph>The Zenfone 2 comes with a system-wide equalizer that allows you to set various sound profiles depending on your usage scenario. Accessing the AudioWizard app lets you quickly set the sound mode using a popup with one of six presets.</paragraph>
+			<paragraph>Power consumption can be further optimized using the Power Saver app. You can select from Ultra-saving or Optimized mode, which will toggle keeping the wireless connection active when the device is locked. Customized mode lets you set the brightness levels across the different apps you use.</paragraph>
+			<paragraph>A ZenLink package of four apps provides added functionality. PC Link enables you to control the smartphone from your computer, via an application you download from the Asus website. Once the application is installed and the two devices paired, a resizable mockup phone window appears on your desktop and you can use your mouse to send commands to the phone.</paragraph>
+			<paragraph>Remote Link does just the opposite, turning your Zenfone 2 into a remote for your PC. Another desktop app needs to be installed and communication takes place over Wi-Fi or Bluetooth. The Share Link and Party Link apps are two additional options for quick and easy exchange of photos and what not.</paragraph>
+			<paragraph>When it comes to getting around, the Zenfone 2 relies on Google Maps and Navigation. The app offers much of the same functionality as its web-based counterpart, although you will need a data connection to take full advantage of the navigation features. Street view mode with digital compass enabled is an especially neat thing that you should definitely check out if you haven't already.</paragraph>
+			<paragraph>Whatever may be missing in the preinstalled apps, you'll find it in Google's Play Store.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings<subsectionTitle>
+			<paragraph>The build is solid, the plastic back sports a brushed metal effect and looks high-end, without breaking the bank. The back is removable, but the battery isn't. The top-mounted Power key is a fuss, Tap to Wake saves the day;</paragraph>
+			<paragraph>The display is sharp, colors are vivid, but also customizable, viewing angles are good; on the bad side, it's slightly dim at max brightness and contrast isn't impressive either</paragraph>
+			<paragraph>Battery life is not spectacular, but a 59-hour endurance rating is acceptable these days. Stay away from the Asus Browser though, as that app drains more power than it should; the fast charging feature really does work, hitting 60% in 40min (You can check how it performed in real life in our Battle of the fast chargers);</paragraph>
+			<paragraph>The Dual SIM, Dual Standby capability will please users of multiple carriers, second slot is limited to 2G though</paragraph>
+			<paragraph>ZenUI is consistent, looks and feels fluid and offers a range of customizations, not present in stock Lollipop</paragraph>
+			<paragraph>The Intel Atom Z3560 coupled with 2GB of RAM delivers solid performance, on par with the likes of LG G2 and G3 and the Galaxy Note 3; The version with the Intel Atom Z3580 SoC with 4GB of RAM however seems like the best pick from the range with excitingly good benchmark performance.</paragraph>
+			<paragraph>Capable gallery, image editor and music player; though video player is basic at best and has severely limited codec support</paragraph>
+			<paragraph>Audio quality is excellent, both with the headphones and when hooked to an external amplifier</paragraph>
+			<paragraph>Image quality from the 13MP camera has been greatly improved after the latest firmware updates and is now on par with many of the other phones in this price range;</paragraph>
+			<paragraph>Video recording is capped at 1080p@30fps and hardly resolves the best level of detail</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Update, June 11: After spending some quality time with the top-of-the-line Asus ZenFone 2 with Intel Atom Z3580 SoC and 4GB of RAM, we added its benchmark scores to the performance page of the review. </paragraph>
+			<paragraph>We have also updated the camera section on the original Zenfone 2 2GB, which we reviewed, after installing a new software V2.17.40.12, which considerably improved image quality.</paragraph>
+			<paragraph>The Asus Zenfone 2 ZE551ML stands before us after the rigorous battery of tests, having proven itself as the smartphone it was advertised to be - a balanced midrange offering that is easy on your wallet. Its good looks and solid build are complemented by proficient hardware, but the smartphone is not without its shortcomings.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>One may call the Zenfone 2 an LG copycat, as it's clear where the designers have looked for inspiration. The volume rocker on the back, together with the cover's texture scream LG G3, but even so the Zenfone 2 looks great and may pass for a premium handset.</paragraph>
+			<paragraph>The 5.5-inch display is not overly bright, but puts out great colors and the FullHD resolution is still plenty sharp at this diagonal. Battery endurance isn't anything special but the Zenfone 2 still manages two and a half days overall and screen on-times are around the 8-hour mark. That is, if you refrain from using Asus' own browser, which kills the battery in no time.</paragraph>
+			<paragraph>After the latest firmware update, the smartphone's camera is much better now with image quality nicely benefiting from a new processing routine. Unfortunately, we didn't see much improvement in the video recording department and it's still far from 1080p content from the leading offerings on the market.</paragraph>
+			<paragraph>The competitors of the Zenfone 2 ZE551ML are largely dependent on where you are in the world, and the reason is two-fold. First, the availability of its rivals is largely market-dependent, and secondly the Zenfone 2 is quite differently priced in different parts of the globe. What can be had in most of Asia for the equivalent of $220 will retail in Europe for around ?300.</paragraph>
+			<paragraph>The LG G2 is among the top competitors the Zenfone needs to face. At 5.2 inches, the G2 has a slightly smaller screen than the Zenfone 2. It also packs a superior camera with optical image stabilization. The Zenfone 2 consistently beats it in benchmarks and comes with dual SIM slots and microSD expansion, and the G2 is lacking in both aspects.</paragraph>
+			<paragraph> LG G2</paragraph>
+			<paragraph>Samsung's Note 3 Neo is the same screen size, but at 720p it's not as sharp, but it is AMOLED nonetheless. The Note 3 Neo is not as powerful as the Zenfone 2 in benchmarks, but it has a stylus and a removable battery. There's also a Duos version for those who consider the dual-SIM capability to be a top priority. Its price in Asia is close to the $300 equivalent, so it commands a significant premium over the Zenfone 2. In Europe it can be had for around ?300, making it as expensive as the Zenfone 2.</paragraph>
+			<paragraph>  Samsung Galaxy Note 3 Neo ? Samsung Galaxy Note 3 Neo Duos</paragraph>
+			<paragraph>The HTC Desire 820 is another viable proposition in the midrange phablet world and it's 720p at 5.5 inches. It comes in dual-SIM flavor too and has a microSD slot. An 8MP front camera may sway the more narcissistic folk in its direction. While it may be priced on par with the Zenfone 2 in Europe, it's substantially more expensive in Asia, so regional considerations comes into play once again.</paragraph>
+			<paragraph> HTC Desire 820</paragraph>
+			<paragraph>With the invites no longer that much of an issue, the OnePlus One is still a strong contender despite a recent price increase. It offers a screen the same in size and resolution as the Zenfone 2 but you need to live with a single SIM and no microSD slot. The 16GB/64GB versions cost ?300/?350 in Europe and $300/$350 in Asia so the Zenfone 2 can easily take on the One in every market.</paragraph>
+			<paragraph> OnePlus One</paragraph>
+			<paragraph>The Oppo Find 7a recently got a price cut and can now be had for ?350 with a whole bunch of accessories, making it worth your while. It has the same-sized 5.5-inch 1080p display, and has a microSD slot as well, but no second SIM slot. Video recording goes up to 2160p on the Find 7a, unlike the Zenfone 2's mediocre 1080p.</paragraph>
+			<paragraph> Oppo Find 7a</paragraph>
+			<paragraph>The Zenfone 2 is a feature-rich package with a semi-premium design, dual-SIM flexibility and plenty of power for daily tasks. All of that comes at a compelling price, too. How far up your shortlist it will end up depends largely on how willing you are to live with its less than ideal camera output.</paragraph>
+			<paragraph>Obviously, the spot where you are in the world will play a chief role as well, with more value to be found in the Zenfone 2 ZE551ML on its home continent, rather than outside of it. Either way, the smartphone has enough merit to grab a chunk of the crowded midrange market.</paragraph>
+		</subsection>
+	</page>
+</review>

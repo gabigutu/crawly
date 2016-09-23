@@ -1,0 +1,161 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Sid Meier's Civilization</nameFr>
+	<typeEn>Game</typeEn>
+	<typeFr>Jeuxvideo</typeFr>
+	<year>1991</year>
+	<link>http://www.senscritique.com/jeuvideo/Sid_Meier_s_Civilization/20590</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>15</numberOfVoters>
+		<numberOfVoters>45</numberOfVoters>
+		<numberOfVoters>160</numberOfVoters>
+		<numberOfVoters>318</numberOfVoters>
+		<numberOfVoters>269</numberOfVoters>
+		<numberOfVoters>174</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Une légende</title>
+		<author>Brennus</author>
+		<date>2010-08-05</date>
+		<score>0.9</score>
+		<content>Le premier opus d'une longue série de "civ" est une légende des jeux de stratégie. Complet et complexe, je ne compte plus les heures que j'ai passées devant cette carte "Earth" à manoeuvrer pour imposer l'hégémonie de ma civilization, ni les choix technologiques nécessaires aà son bon développement. Pour l'époque, je trouve cela brillant.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur PC</title>
+		<author>Ngee</author>
+		<date>2010-09-23</date>
+		<score>1.0</score>
+		<content>Graphiquement c'était moche, mais c'est le jour de sa sortie que j'ai su que j'étais un geek ... j'ai jamais autant passé de temps devant un jeux vidéos off line c'était juste magique !</content>
+	</review>
+	<review>
+		<title>Civilisation : le premier volume d'une très grande série =10/10</title>
+		<author>Sumo06</author>
+		<date>2015-03-31</date>
+		<score>1.0</score>
+		<content>Mon tout premier jeu de vraie stratégie, j'ai mis 10/10, car j'ai été fou de ce jeu des mois durant tellement j'ai été passionné par lui, faut aussi remettre tout dans le contexte époque et que ce graphisme et les possibilités ont augmenté de façon incroyable, l'on joue maintenant dans de vrais films, et puis avant on appréciait ce que l'on avait comme on le fait maintenant avec une évolution fantastique à tous les niveaux. J'adore ce jeu ma note est donc 10/10 trop de bons souvenirs.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur PC</title>
+		<author>diegowar</author>
+		<date>2012-08-17</date>
+		<score>0.8</score>
+		<content>Un grand jeu de stratégie très innovant, il est vraiment complexe, il y a tellement de choses à faire, cependant je trouve quand même que le gameplay est extrêmement lent, pour envoyer quelques unités à la ville voisine comptez plusieurs minutes (faut les faire bouger une par une...), bref au niveau de l'interface il y a large place à amélioration, mais au niveau du principe et du gameplay c'est un classique.</content>
+	</review>
+	<review>
+		<title>Naissance d'un classique du jeu vidéo.</title>
+		<author>bunnypookah</author>
+		<date>2015-11-18</date>
+		<score>1.0</score>
+		<content>En s'inspirant du fameux jeu de plateau d'Avalon Hill Sid Meier introduisait avec maestria un nouveau genre sur PC : le jeu de civilisation. Tous les fondamentaux du genre étaient déjà là (le développement des villes - véritable ossature de sa civilisation - la guerre et la conquête militaire, la recherche scientifique sous forme d'arbre technologique et la conquête de l'espace, la diplomatie, le choix du système politique avec ses répercussions transversales dans tous les domaines du jeu, l'économie - et le luxe - avec l'approbation / mécontentement de la population) et il faudra attendre longtemps avant que la formule ne s'enrichisse véritablement et commence à défricher de nouveaux territoires - avec le troisième opus en 2001. Civilization est un titre exceptionnel, évidemment désormais largement supplanté par ses successeurs (le jeu s'est enrichi pour devenir moins monolithique, affinant la partie militaire et l'équilibrage, permettant des styles de jeu variés et des choix plus nuancés en matière politique, en développant l'espionnage, la culture, la religion, la diplomatie et l'IA - même si cette dernière est toujours restée problématique) mais qui reste encore aujourd'hui tout à fait jouable et archétypal du genre qu'il a fait naître. Un grand jeu, signé par un game designer de génie, et dont l'influence est toujours manifeste aujourd'hui.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur PC</title>
+		<author>William Stifler</author>
+		<date>2012-10-16</date>
+		<score>0.8</score>
+		<content>Un de mes tout premiers jeux sur PC (WIN 3.1 à l'époque). J'avais 6 ans à l'époque, je ne sais pas si c'était les mauvaises traductions ou le manque d'ergonomie mais j'ai mis au moins un avant avant de comprendre comment jouer. A revoir ce jeu aujourd'hui, je me rend compte de la bouse que c'était aussi bien niveau graphisme qu'intelligence artificielle : une horreur. Pourtant je l'ai toujours sur mon ordi et j'en fais régulièrement une partie. Le jeu est librement téléchargeable sur http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=21</content>
+	</review>
+	<review>
+		<title>Le début d'une série de légende</title>
+		<author>Cthulhu77</author>
+		<date>2011-12-10</date>
+		<score>0.9</score>
+		<content>C'était pas beau mais qu'est ce que c'était bien. Sid Meier, j'ai passé des centaines d'heures sur tes jeux mais la série la plus addictive d'entre toutes est bien civilization.</content>
+	</review>
+	<review>
+		<title>Magie du VGA</title>
+		<author>ur_best</author>
+		<date>2011-01-14</date>
+		<score>1.0</score>
+		<content>Affiche moi une découverte dans tes 256 couleurs, au plus profond de la nuit, fais résonner quelques notes en même temps que le camion des éboueurs, dehors.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur Atari ST</title>
+		<author>Kabuto</author>
+		<date>2011-02-12</date>
+		<score>0.8</score>
+		<content>Jusqu'à l'apparition de Civilization II, c'était pour moi le jeu de stratégie par excellence. La version Atari m'a permis de goûter aux joies de ce hit mais le manque de disque dur se fait cruellement sentir. Néanmoins c'est surement un des jeux auquel j'ai le plus joué.</content>
+	</review>
+	<review>
+		<title>La perfection - à l'époque</title>
+		<author>Pierre Marot</author>
+		<date>2014-02-15</date>
+		<score>1.0</score>
+		<content>Comment critiquer un jeu qui a 20 ans, sans le comparer avec ceux qui l'ont suivis ? Bien sûr, le premier volet n'est pas le meilleur de la série, loin de là. Pourtant, je lui mets 10 quand même ; et je n'y rejouerais pas volontiers aujourd'hui. La mémoire des parties que j'y ai faites à l'époque, l'équilibre du jeu qui était déjà bien présent font de lui l'un des meilleur jeux de tous les temps - à l'époque.</content>
+	</review>
+	<review>
+		<title>Une légende</title>
+		<author>Brennus</author>
+		<date>2010-08-05</date>
+		<score>0.9</score>
+		<content>Le premier opus d'une longue série de "civ" est une légende des jeux de stratégie. Complet et complexe, je ne compte plus les heures que j'ai passées devant cette carte "Earth" à manoeuvrer pour imposer l'hégémonie de ma civilization, ni les choix technologiques nécessaires aà son bon développement. Pour l'époque, je trouve cela brillant.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur PC</title>
+		<author>Ngee</author>
+		<date>2010-09-23</date>
+		<score>1.0</score>
+		<content>Graphiquement c'était moche, mais c'est le jour de sa sortie que j'ai su que j'étais un geek ... j'ai jamais autant passé de temps devant un jeux vidéos off line c'était juste magique !</content>
+	</review>
+	<review>
+		<title>Civilisation : le premier volume d'une très grande série =10/10</title>
+		<author>Sumo06</author>
+		<date>2015-03-31</date>
+		<score>1.0</score>
+		<content>Mon tout premier jeu de vraie stratégie, j'ai mis 10/10, car j'ai été fou de ce jeu des mois durant tellement j'ai été passionné par lui, faut aussi remettre tout dans le contexte époque et que ce graphisme et les possibilités ont augmenté de façon incroyable, l'on joue maintenant dans de vrais films, et puis avant on appréciait ce que l'on avait comme on le fait maintenant avec une évolution fantastique à tous les niveaux. J'adore ce jeu ma note est donc 10/10 trop de bons souvenirs.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur PC</title>
+		<author>diegowar</author>
+		<date>2012-08-17</date>
+		<score>0.8</score>
+		<content>Un grand jeu de stratégie très innovant, il est vraiment complexe, il y a tellement de choses à faire, cependant je trouve quand même que le gameplay est extrêmement lent, pour envoyer quelques unités à la ville voisine comptez plusieurs minutes (faut les faire bouger une par une...), bref au niveau de l'interface il y a large place à amélioration, mais au niveau du principe et du gameplay c'est un classique.</content>
+	</review>
+	<review>
+		<title>Naissance d'un classique du jeu vidéo.</title>
+		<author>bunnypookah</author>
+		<date>2015-11-18</date>
+		<score>1.0</score>
+		<content>En s'inspirant du fameux jeu de plateau d'Avalon Hill Sid Meier introduisait avec maestria un nouveau genre sur PC : le jeu de civilisation. Tous les fondamentaux du genre étaient déjà là (le développement des villes - véritable ossature de sa civilisation - la guerre et la conquête militaire, la recherche scientifique sous forme d'arbre technologique et la conquête de l'espace, la diplomatie, le choix du système politique avec ses répercussions transversales dans tous les domaines du jeu, l'économie - et le luxe - avec l'approbation / mécontentement de la population) et il faudra attendre longtemps avant que la formule ne s'enrichisse véritablement et commence à défricher de nouveaux territoires - avec le troisième opus en 2001. Civilization est un titre exceptionnel, évidemment désormais largement supplanté par ses successeurs (le jeu s'est enrichi pour devenir moins monolithique, affinant la partie militaire et l'équilibrage, permettant des styles de jeu variés et des choix plus nuancés en matière politique, en développant l'espionnage, la culture, la religion, la diplomatie et l'IA - même si cette dernière est toujours restée problématique) mais qui reste encore aujourd'hui tout à fait jouable et archétypal du genre qu'il a fait naître. Un grand jeu, signé par un game designer de génie, et dont l'influence est toujours manifeste aujourd'hui.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur PC</title>
+		<author>William Stifler</author>
+		<date>2012-10-16</date>
+		<score>0.8</score>
+		<content>Un de mes tout premiers jeux sur PC (WIN 3.1 à l'époque). J'avais 6 ans à l'époque, je ne sais pas si c'était les mauvaises traductions ou le manque d'ergonomie mais j'ai mis au moins un avant avant de comprendre comment jouer. A revoir ce jeu aujourd'hui, je me rend compte de la bouse que c'était aussi bien niveau graphisme qu'intelligence artificielle : une horreur. Pourtant je l'ai toujours sur mon ordi et j'en fais régulièrement une partie. Le jeu est librement téléchargeable sur http://www.abandonware-france.org/ltf_abandon/ltf_jeu.php?id=21</content>
+	</review>
+	<review>
+		<title>Le début d'une série de légende</title>
+		<author>Cthulhu77</author>
+		<date>2011-12-10</date>
+		<score>0.9</score>
+		<content>C'était pas beau mais qu'est ce que c'était bien. Sid Meier, j'ai passé des centaines d'heures sur tes jeux mais la série la plus addictive d'entre toutes est bien civilization.</content>
+	</review>
+	<review>
+		<title>Magie du VGA</title>
+		<author>ur_best</author>
+		<date>2011-01-14</date>
+		<score>1.0</score>
+		<content>Affiche moi une découverte dans tes 256 couleurs, au plus profond de la nuit, fais résonner quelques notes en même temps que le camion des éboueurs, dehors.</content>
+	</review>
+	<review>
+		<title>Sid Meier's Civilization sur Atari ST</title>
+		<author>Kabuto</author>
+		<date>2011-02-12</date>
+		<score>0.8</score>
+		<content>Jusqu'à l'apparition de Civilization II, c'était pour moi le jeu de stratégie par excellence. La version Atari m'a permis de goûter aux joies de ce hit mais le manque de disque dur se fait cruellement sentir. Néanmoins c'est surement un des jeux auquel j'ai le plus joué.</content>
+	</review>
+	<review>
+		<title>La perfection - à l'époque</title>
+		<author>Pierre Marot</author>
+		<date>2014-02-15</date>
+		<score>1.0</score>
+		<content>Comment critiquer un jeu qui a 20 ans, sans le comparer avec ceux qui l'ont suivis ? Bien sûr, le premier volet n'est pas le meilleur de la série, loin de là. Pourtant, je lui mets 10 quand même ; et je n'y rejouerais pas volontiers aujourd'hui. La mémoire des parties que j'y ai faites à l'époque, l'équilibre du jeu qui était déjà bien présent font de lui l'un des meilleur jeux de tous les temps - à l'époque.</content>
+	</review>
+</sensCritiqueEntity>

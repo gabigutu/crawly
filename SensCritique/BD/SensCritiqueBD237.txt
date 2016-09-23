@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le Pixel quantique - Notes, tomes 10</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Le_Pixel_quantique_Notes_tomes_10/17034214</link>
+	<generalScore>7.9</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>45</numberOfVoters>
+		<numberOfVoters>111</numberOfVoters>
+		<numberOfVoters>50</numberOfVoters>
+		<numberOfVoters>22</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Si c'est Boulet, c'est bien</title>
+		<author>Stéphane Gallay</author>
+		<date>2016-03-10</date>
+		<score>0.8</score>
+		<content>En rédigeant cette chronique du dixième tome des Notes de Boulet, intitulé Le pixel quantique, je m'aperçois que j'ai fait l'impasse sur le neuvième. Et sur pas mal d'autres, également. Bon, ce n'est pas très grave: en règle générale, si c'est Boulet, c'est bien. Oui, j'avoue, je suis un gros fanboy. Faites-moi un procès. Et ce Pixel quantique ne déroge pas vraiment à la règle, au contraire. Il contient son lot d'excellentes chroniques bloguesques, quelque peu remises en forme pour le média imprimé et augmenté d'une volée de pages, sur le thème de la vie après la mort, qui fait le lien entre les histoires. De façon générale, dans ce tome, la religion et la superstition s'en prennent bien plein la face, entre la particulièrement l'hilarante "Vie des saints" ou ce monde où tout le monde croit à tout et où les sceptiques font du porte-à-porte pour parler de la théorie de l'évolution. L'antipub en moi ne peut que se réjouir également de la note sur les publicités en ligne et de son argumentaire, certes scatophile, mais néanmoins pertinent. Comme toujours, avec Boulet, on a droit à plusieurs histoires très geekesques, comme "Boulet à Poudlard" ou les états d'âme du barbare, faisant écho à ceux de l'artiste. Ce Notes contient également, en fin d'ouvrage – un peu comme un bonus DVD – l'exceptionnelle Geneviade, une fresque antique réalisée dans le cadre des "24 heures de la BD". Hormis les histoires, souvent très réussies, Boulet fait également montre d'un talent assez impressionnant pour jongler avec divers styles graphiques: réalistes, plus cartoon, pixel-art, couleur ou bichromie. La seule mauvaise nouvelle, c'est qu'avec la parution de ce dixième volume, Boulet a rattrapé son blog et, du coup, les prochains risquent de mettre un peu plus de temps avant de venir. Mais bon, on peut aussi le suivre sur son blog, ce qui permet d'avoir quelques bonus animés, comme le Bouletmaton et la Roue du Karma.</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,53 @@
+<review>
+	<title>Lenovo Phab Plus, Vibe S1 hands-on</title>
+	<description>Lenovo at IFA 2015</description>
+	<link>http://www.gsmarena.com/lenovo_ifa_2015_hands_on-review-1298.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Lenovo balanced practical devices with forward-looking ones. The Lenovo Vibe S1 follows the current trend of selfie photography with two cameras above its screen.</paragraph>
+			<paragraph>The Lenovo Phab and Phab Plus are a couple of affordable tablets (7" and 6.8" respectively) that feature dual-SIM telephony and fast LTE connectivity. Both come with modest price tags too.</paragraph>
+			<paragraph>The Lenovo Smart Cast uses a projector to build a future where touchscreens can be bigger than the phones themselves. The Magic View smartwatch focuses on privacy instead.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Lenovo Phab Plus hands-on<subsectionTitle>
+			<paragraph>Phone + Tab = Phab, says Lenovo PR, but we don't think the math checks out. The Lenovo Phab Plus can hardly be called a phone with its 6.8" screen. It does have two SIM slots (one micro, one nano) and Lenovo says it has been "optimized for one-hand usability"... sorry, we still get a chuckle out of that.</paragraph>
+			<paragraph>Some phones come close to its 229g weight, but it's really more a matter of size ? it was just too large to hold securely in one hand. So, we'd recommend a headset for making calls.</paragraph>
+			<paragraph>Anyway, the Phab Plus has a metal unibody with a 1080p screen. It's powered by an octa-core processor (Snapdragon 615 chipset) with 2GB of RAM and runs Android 5.0. It has LTE connectivity and 32GB storage out of the box (plus a microSD card slot).</paragraph>
+			<paragraph>Lenovo added a 13MP camera (with a 5MP selfie camera) and a Dolby ATMOS-branded speaker with a 1cc sound chamber. All of that sounds quite impressive for the intended $300 price tag.</paragraph>
+			<paragraph>We would have liked more than 3,500mAh in the battery though. Lenovo rates it at 24 hours of talk time, but that's close to what some sub-6" phones can manage.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Lenovo Phab hands-on<subsectionTitle>
+			<paragraph>The non-Plus Lenovo Phab is somehow even larger ? it's simply a 7" tablet (it's heavier too, 250g). The screen resolution drops to 720p, to be expected from a $180 tablet. The chipset is a Snapdragon of some sort with octa-core CPU, but the deal-breaker is the single gig of RAM.</paragraph>
+			<paragraph>The base Phab boasts three mics and a dedicated voice processor that powers the 360° Voice feature. You also get a bigger battery, 4,250mAh.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Lenovo Vibe S1 hands-on<subsectionTitle>
+			<paragraph>Selfies may have started as poorly framed, poorly lit shots in the bathroom mirror, but the genre has pretenses of class these days. The Lenovo Vibe S1 enables bokeh for selfies with its two cameras on the front.</paragraph>
+			<paragraph>Thank goodness, gone are the days of trying to center your mug in the frame with the back cameras of an HTC One (M8). The Vibe S1 has a higher resolution camera than the M8 to boot ? an 8MP camera captures the photo, while a 2MP camera gathers additional information the software uses to create to bokeh effect.</paragraph>
+			<paragraph>There's no selfie flash though ? you'll need a Vibe Xtension selfie flash for those late night self-portraits. At least the Cut Out feature can Photoshop you onto different backgrounds (that'll really make a trip to Paris affordable, if not quite real).</paragraph>
+			<paragraph>Selfies aside, the Lenovo Vibe S1 is actually a fairly attractive phone with an aluminum frame (and a very glossy plastic back). It has a reasonably-sized 5" 1080p screen and is powered by an octa-core processor inside a MediaTek chipset with 3GB of RAM.</paragraph>
+			<paragraph>For $300 you also get Android 5.0 Lollipop, a 13MP back camera, 32GB of storage and LTE, not a bad deal really.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Lenovo Smart Cast hands-on<subsectionTitle>
+			<paragraph>Our bloodlust for ever-bigger touchscreens has hit the physical limit ? you can get a phone as large as you can possibly hold, telephony-enabled tablets even. How do you put an even bigger screen?</paragraph>
+			<paragraph>The Lenovo Smart Cast is the answer to that ? stick a pico-projector inside. It can project the screen image on the table and even accept touch input. There's your bigger touchscreen. By the way, this trick is pulled off with an infrared motion detector that sits next to the projector.</paragraph>
+			<paragraph>The projector can also be used to watch a movie or do a presentation ? a special rotating prism is put on top of the phone that can project light upwards (phone laying on the table, projecting on the wall) or forwards (phone held upright by its kickstand, projecting on the table).</paragraph>
+			<paragraph>Unfortunately, the Lenovo Smart Cast is just a prototype for now, but we walked away from the presentation feeling like we glimpsed the future ? touchscreens can grow well beyond the physical dimensions of the phone. Even bendy, foldable screens will struggle with that. Roll-up screens may pull it off though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Lenovo Magic View hands-on<subsectionTitle>
+			<paragraph>Here's another futuristic piece of tech from Lenovo. The Magic View goes the other way ? making screens smaller. It repurposes the display unit from a smart glasses prototype to give you a display you can view privately even in public.</paragraph>
+			<paragraph>Unfortunately, the way this works by putting up the watch up to your eye (think how close smart glasses have to be to your eyes, yes that close). The secondary display makes the watch chunkier on the hand too.</paragraph>
+			<paragraph>The watch itself is a lot like the Moto 360, flat tire display and all. Again, it's a prototype so it may be quite a while before this hits stores (and perhaps it never will). We can see the Smart Cast being used, the Lenovo Magic View watch feels too awkward to use though.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,338 @@
+<review>
+	<title>LG Nexus 5X review</title>
+	<description>Settling down</description>
+	<link>http://www.gsmarena.com/lg_nexus_5x-review-1338.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.2" screen with 1080p resolution (424ppi)</paragraph>
+			<paragraph>Android 6.0 Marshmallow and you're first in line for updates</paragraph>
+			<paragraph>Dual-core Cortex-A57 at 1.82Ghz + quad-core Cortex-A53 at 1.44GHz, 2GB of RAM, Adreno 418 GPU; Snapdragon 808 chipset</paragraph>
+			<paragraph>16GB or 32GB of storage</paragraph>
+			<paragraph>12.3MP camera with laser autofocus and dual-LED flash; 1.55µm pixels; 5MP selfie camera</paragraph>
+			<paragraph>2160p video capture</paragraph>
+			<paragraph>Fingerprint reader; Android Pay</paragraph>
+			<paragraph>Cat. 6 LTE (300Mbps); Wi-Fi 802.11 a/b/g/n/ac; Bluetooth 4.2; GPS/GLONASS; NFC; USB Type-C ? port with USB host</paragraph>
+			<paragraph>2,700mAh Li-Po battery with fast charging (4 hours of use in 10 minutes of charging)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Expensive outside the US</paragraph>
+			<paragraph>Chipset and especially RAM not on 2015 flagship level</paragraph>
+			<paragraph>No card slot and the storage options are limited</paragraph>
+			<paragraph>No OIS for the camera or wireless charging like the 2013 model had</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Some think that it's time for Google to start making its own smartphone hardware, the closest we have today is the Nexus series. The Nexus 5X, co-designed by Google and LG, is the mid-range offering and a respite from the 6" Nexus last year, leaving its sibling to fill the premium, large-screen role.</paragraph>
+			<paragraph>As the Android One program fizzled out, it became clear that it can't carry the load of a mid-range Nexus. So the Nexus 5 was reborn as the 5X to give users first-party software experience and Google design ideology at a reasonable price, while the 6P carries on the premium legacy of Moto's Nexus 6.</paragraph>
+			<paragraph>This is LG's third Nexus (4, 5 and now 5X). The design has shifted from the LG Nexus 4 and 5 exterior to something that could have come out of Motorola's sketchbooks. Or rather this is a case of Google's design persisting between makers. The fact that the Nexus 5X doesn't feel like it belongs in the LG lineup is a clear sign that the 5X is more Google than LG.</paragraph>
+			<paragraph>The focus has been placed on enhanced security (fingerprint sensor on the back, the Nexus Imprint) that enables mobile payments (Android Pay) and a push towards a universal connector (USB Type-C). The camera was primed for low-light shooting and the more you shoot, the more you can upload to Google Photos (well, you're not going to store them on a microSD card).</paragraph>
+			<paragraph>It's strange to see lack of progress in some areas and even regressions compared to the 2013 Nexus 5. While 2GB of RAM is workable on a modern Android, we kind of expected more. No movement on the storage front either (no 64GB option, really?) Why OIS and wireless charging were dropped we're not sure.</paragraph>
+			<paragraph>On the positive side, the improvements are definitely worth it. The fingerprint reader and the camera are the biggest updates. The still resolution was bumped up 50%, though we expect noticeably better quality with the big pixels and there's laser autofocus too. Also, 4K video recording is becoming more prevalent and you get much better selfies with the 5MP shooter.</paragraph>
+			<paragraph>The LG Nexus 5X boasts a slightly bigger screen, plus 64-bit processing and USB Type-C for future-proofing. The battery is bigger too, which will give the new Doze feature more to work with. Connectivity has been sped up and there's various other upgrades too.</paragraph>
+			<paragraph>The Nexus 4 assassinated the idea that only flagships get great specs and the Nexus 5 cemented it. That's great legacy that the Nexus 5X has to live up to, though its goal is slightly different. It wants to revitalize the mid-range market where some of the established makers have been languishing while young companies produce great offerings, but with a heavily-skinned, Google-light software.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the LG Nexus 5X<subsectionTitle>
+			<paragraph>The Nexus 5X prominently features Nexus, Google and LG logos. It's a compact box with just the essentials - the phone, a charger and a cable. The charger and cable are pretty great though - you get 5V @ 3A charging (total of 15W) and the cable has Type-C connectors on both ends.</paragraph>
+			<paragraph>The Type-C cables we've seen this far were C only on one end, the other one was a traditional square Type-A plug. This makes it easy to plug into a computer, but the Type-C plug was design to be the sole connector you'd use and such half-measure cables only prolong the inevitable.</paragraph>
+			<paragraph>Plus Google doesn't think you'll do much information transfer over a wire, not when it has all these cloud services to offer. You'll need a C-to-A adapter if you do want wired data transfer, unless you have a Chromebook Pixel or another recent Type-C packing laptop.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nexus 5X 360° spin<subsectionTitle>
+			<paragraph>The LG Nexus 5X measures 147 x 72.6 x 7.9mm. That's taller and wider than its predecessor, with less efficient use of the front surface area, but it is thinner and barely heavier. And don't forget you get 0.2" more screen with the 5X.</paragraph>
+			<paragraph>You'll notice two grilles on the front, Moto style. And just like the Moto G, the lower one is a dummy - only one grille hides an actual loudspeaker. This design can make it easy to confuse which way is up, the phone is just so symmetrical.</paragraph>
+			<paragraph>You would need an Adobe Flash-capable web browser to visualize the interactive 360-degree view above.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>The LG Nexus 5X was allotted the mid-range role, but both it and the premium Nexus 6P have a fairly consistent look.</paragraph>
+			<paragraph>From the front it could easily be mistaken for a Motorola with its deceptive dual but not really speaker setup. From the back, the centered camera with laser AF hints at LG, but the lack of the trademark back buttons sets it apart from LG's smartphones.</paragraph>
+			<paragraph>This slightly confused design - part Nexus, part Moto, not much LG - doesn't compare great against other smartphone designs, but on its own it is fairly attractive.</paragraph>
+			<paragraph>The front is completely flat with just a tiny ridge where the front Gorilla Glass 3 meets the side of the phone. The sides are also flat, but lean slightly inward, which gives you a better grip on the phone as you palm it.</paragraph>
+			<paragraph>The back breaks away from the straight lines and is all curves, including a smooth buildup to the camera hump. The hump is about average in size and is centered so it doesn't make the phone wobble. The material is a soft polycarbonate that's very pleasant to the touch, but its semi-matte finish does collect its fair share of fingerprints. The corners are also a bit more rounded compared to the original Nexus 5.</paragraph>
+			<paragraph>The rigid build and 136g of weight make for a very good in-hand feel of the Nexus 5X but most importantly, when you pick it up for the first time it feels surprisingly light for its size. While it's bigger than the 5 and the side bezels could have been thinner, the phone is still manageable with one hand. The camera hump doesn't get in the way, but on a few occasions we touched it with our fingers (smudging the lens) when aiming for the fingerprint reader.</paragraph>
+			<paragraph>The 5X is taller, in part thanks to the bigger 5.2" screen and partly due to the extra bezel above it. The speaker grille there masks the earpiece, but not an actual loudspeaker while the lower grille is home to the LED notification light. That honor goes to the grille below the screen.</paragraph>
+			<paragraph>Also above the screen is the new 5MP/1080p selfie camera, a proximity sensor (below the grille) and an ambient light sensor. A notification light hides in the lower speaker grille. The Ambient display feature is more informative though, it lights up the screen in dim black and white when a new notification arrives or when you pick up the phone.</paragraph>
+			<paragraph>The controls have been reshuffled slightly, making the phone easier to hold in your right hand. Both the Power and the Volume rocker are now on the right side and then there's the fingerprint reader on the back, of course. With the right hand your index finger lands right on the reader and your thumb is on the buttons. With the left hand you have to use your index finger either for the reader or for the buttons.</paragraph>
+			<paragraph>The keys themselves are quite narrow and low, not very comfortable for use.</paragraph>
+			<paragraph>The left side houses the nanoSIM card slot, which requires a tool to open. It goes without saying that there is no memory card slot. Which isn't that great, you get 16GB as base and you can only go up to 32GB but no further. That's not much in 2015 and $370 isn't that cheap (the Nexus 5 had 16GB for $350 two years ago).</paragraph>
+			<paragraph>Anyway, there's a mic on top and on the bottom. Also below are both wired connections - the 3.5mm audio jack and the USB Type-C cable. The new reversible connector comes with promises of great features, but LG and Google managed to avoid them somehow.</paragraph>
+			<paragraph>It doesn't support Type-C's video out capabilities or even SlimPort like the Nexus 5. It doesn't do USB Power Delivery either (nor Qualcomm's Quick Charge), but at least it comes with a reasonably powerful charger - 5V @ 3A (15W or basically equivalent to Quick Charge 2.0).</paragraph>
+			<paragraph>The Nexus 5X also drops the support for wireless charging, even though its predecessor was among the early adopters.</paragraph>
+			<paragraph>In 2013 the Nexus 5 had a pioneering spirit with things like wireless charging and camera accessories. The latter wasn't nearly as successful as the former, but the ring around the camera allowed for add-on camera lens to be snapped on with magnets.</paragraph>
+			<paragraph>Again, not very useful, but we liked that the phone experimented with new things, something that fit the spirit of cutting edge power users who were buying a Nexus. The Nexus 5X feels pretty safe and unadventurous by comparison.</paragraph>
+			<paragraph>That's not a bad thing when the Nexus 5X is positioned as a mainstream phone, the hardware is solid. But it does lose some of its coolness for tech geeks.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Screen<subsectionTitle>
+			<paragraph>Back in 2013 when the Nexus 5 came out, LG had the G2 - a phone with a 5.2" 1080p screen. Not that we'd push for QHD resolution at this diagonal, especially at this price and with this GPU. Still, a comparison is inevitable.</paragraph>
+			<paragraph>So we're pleased to report that two years of progress in display tech has brought better contrast and colors than the previous model. There are no controls for adjusting the screen colors though.</paragraph>
+			<paragraph>The LG Nexus 5X is impressive even at a quick glance, and our test more than proved what our eyes saw. The maximum brightness level (455nits) may not be class leading, but the achieved contrast ratio of 1542:1 is excellent due to the nicely deep blacks.</paragraph>
+			<paragraph>Another nice finding is the fact that the screen is calibrated for almost perfect color rendering right out of the box. It?s a rare sight to see a phone with an Avg. DeltaE of only 2.3 (based on the primary colors plus black&amp;white) as anything below a deviation of 4 is considered calibration-grade color output.</paragraph>
+			<paragraph>Additionally, the minimum brightness level is only 1.8nits for white content, which means that you should probably be quite comfortable using the Nexus 5X display in dark environment without any eye strain.</paragraph>
+			<paragraph>The low reflectivity of Gorilla Glass 3 and high contrast of the screen allow it to remain legible even in bright sunlight. The 5.2" screen of Nexus 5X is well above average in this respect.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The LG Nexus 5X comes equipped with an LTE Cat. 6 modem for speeds up to 300Mbps down and 50Mbps up. Aside from GSM, the US version of the phone will also have CDMA for compatibility with Verizon, Sprint and Google Fi.</paragraph>
+			<paragraph>Besides that you have the usual Wi-Fi a/b/g/n/ac at 2.4GHz and 5GHz and Bluetooth 4.2 with A2DP. NFC is on board, naturally, to be used with the new Android Pay.</paragraph>
+			<paragraph>The USB Type-C cable will transfer data at USB 2.0 speeds despite the fact that the provided cable is Type-C on both ends and we expected it to deliver the benefits of the Type-C tech. To make matters worse, you'll either need an adapter or a whole new cable to plug this guy into your computer unless you own one of those recent Chromebooks.</paragraph>
+			<paragraph>Also, by default the phone connects in charge-only state to the computer, so you have to manually enable data transfer every time. Google really does not want you using wired transfer.</paragraph>
+			<paragraph>The USB port can be used to hook up storage and USB periphery (but again, stuff with the C plug is quite rare). As mentioned earlier, there's no TV-out - no SlimPort, MHL or anything. You're stuck with the wireless Cast method.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The LG Nexus 5X comes with a 2,700mAh battery, not big for its size, but a definite improvement over the 2,300mAh battery that the 2013 model got. And it has a new OS feature to make sure the battery is used efficiently.</paragraph>
+			<paragraph>Doze detects when you are not using the phone and the longer that goes on, the less and less it allows apps to do work in the background - it's wasted effort that the user won't notice (other than the used up battery charge).</paragraph>
+			<paragraph>The standby power draw of the Nexus 5X is pretty good, especially for this capacity. Even so the total standby rating isn't that high, the poor video playback in particular drags down the result.</paragraph>
+			<paragraph>Talk time is okay at 17 hours, but the aging LG G2 did 25 hours (it also had a bigger battery though). It's a massive improvement for owners of the 2013 Nexus 5 though. Things get better - the 5 was one of the worst performers in web browsing, the 5X now lasts nearly twice as long in the same test. Still, we've seen better performing mid-rangers.</paragraph>
+			<paragraph>Finally, the poor video support (more on that in the video player section) left the Nexus 5X with an unimpressive score of 6 and a half hours. Better than before, but not good for 2015.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface: security and privacy get a boost<subsectionTitle>
+			<paragraph>Early on in Android's life phone makers and app developers took over the role of innovators, adding cool new functionality that the base OS did not have. Google has been incorporating the best ideas, but stock Android these days serves as a stable base on which value-added features are added by makers.</paragraph>
+			<paragraph>Google's innovation in Android mostly takes place in the internals, things like Doze that change how the fundamentals of the OS works. Even there Google is not without competition as basically every phone maker has its own power-saving implementation.</paragraph>
+			<paragraph>On the plus side, there's no bloat of features that may or may not prove useful, stock Android is a "Best of" album.</paragraph>
+			<paragraph>One of the niceties uses motion sensing to dimly lit a black and white version of the lockscreen - just enough to see the time and any new notifications when you pick up the phone or take it out of your pocket. You can tap the screen to get the full color picture.</paragraph>
+			<paragraph>This feature is called Ambient display and also triggers when a new notification comes in. There's no tap to wake though and its behavior was quite unpredictable - we found that often times it would not turn on as expected.</paragraph>
+			<paragraph>The lockscreen itself is very familiar - a clock, notifications and a couple of shortcuts (voice assistant and camera, instead of the usual phone and camera). Swiping down shows the quick toggles and the brightness slider. The camera however can be also triggered by double pressing the power button while the phone is asleep.</paragraph>
+			<paragraph>The one thing we wish stock Android would bring from the skinned implementations is the Auto brightness toggle. You would have to dig in the settings for that as the toggle is not available on the quick toggle dropdown.</paragraph>
+			<paragraph>Other than that you can pick the large-size toggles, the ones you'll use most often (Wi-Fi and Bluetooth by default). Long-pressing a toggle or hitting its down arrow brings out additional details, e.g. Wi-Fi settings and detected Wi-Fi networks respectively.</paragraph>
+			<paragraph>Nexus Imprint is the native implementation of fingerprint reader support on Android. We've seen makers already roll their own, but this one will make a common base for all apps. Imprint can be used to authorize purchases and sign you into apps, not just unlock the phone.</paragraph>
+			<paragraph>The fingerprint reader on the LG Nexus 5X is excellent. The setup was very quick and painless, you place your finger on the reader 5-6 times and you're done (some phones make you do it a dozen times and then want the tip of your finger).</paragraph>
+			<paragraph>The reader is active even when the screen is off, just place any finger you've set up and less than a second later the phone is ready (having skipped the lockscreen altogether).</paragraph>
+			<paragraph>Google has developed a number of ways to reduce the hassle. Secure locks can be disabled in trusted situations. This can be anything from a trusted place, through a trusted device (e.g. your smartwatch) to three biometric options: your face (susceptible to doppelgangers), your voice and even your body (unlock the device once and it stays unlocked while it's on your person).</paragraph>
+			<paragraph>After all this talk about locking options, we're finally at the homescreen and there's not much here - the Nexus 5X has one of the leanest app packages we've seen. At first it has just a single homescreen pane and most of it is empty. Even the list off all apps fits on one screen.</paragraph>
+			<paragraph>Even so there's not as much free space as you would imagine. We have the 16GB version, the other option being 32GB, and there's 10.67GB left over for the user partition. And about 500MB of that is taken up by installed applications. So even a stock Android eats up a lot of your storage.</paragraph>
+			<paragraph>One thing, perhaps the biggest that the Google team continues to push back is the launch of multi-window support. Lollipop had the basics, but was never enabled in practice, same goes for Marshmallow. Several smartphone makers - even Apple! - have working, even good multi-window solutions but not stock Android.</paragraph>
+			<paragraph>Multitasking is done through the app switcher, a 3D rolodex menu. You can swipe apps to dismiss them. You can also check how much RAM was used by any app in the last few hours so memory hogs are immediately visible.</paragraph>
+			<paragraph>Another thing that has gained popularity, but is absent from the Nexus 5X, is theming support. To be fair, some of the most popular themes just make TouchWiz/Optimus/Sense/Whatever look like stock Android, but there are some fun themes out there too.</paragraph>
+			<paragraph>Multiple users are supported, you get an Owner and a Guest account to start you off. You can add more users, each with their own apps, their own wallpaper and so on. It's not a total division though, some settings (like Wi-Fi or app updates) affect all accounts.</paragraph>
+			<paragraph>We'd like to say that stock Android is perfectly smooth, but we experienced the occasional hiccup in animation as the phone transitioned between screens. With 2GB of RAM, the 5X should have enough for multitasking (though it's not much by 2015 standards), so we're not sure whether the fault lies in RAM, chipset or storage speed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Permissions<subsectionTitle>
+			<paragraph>Permissions finally landed on Android. Each app - even the pre-installed ones - will ask permission before accessing your data. Once you hit "Allow" they won't ask again (you can revoke the permission from the settings). To save you from spammy apps, the Deny option comes with a handy checkbox to make the denial permanent.</paragraph>
+			<paragraph>Unfortunately, the feature relies on developers to updated their apps first in order to take advantage of permissions.</paragraph>
+			<paragraph>In the settings there's an App permissions option where you can see how many apps have been granted specific permissions or which permission have been granted to a specific app.</paragraph>
+			<paragraph>Also here is the Battery optimization feature. It lists which apps are not being optimized for minimal battery usage to make it easier to track down memory hogs. If this feature causes problems with some older apps, you can disable it individually.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Pay<subsectionTitle>
+			<paragraph>Google Marshmallow introduces Android Pay for the very first time. The Tap &amp; pay option in the settings menu helps you set up your mobile payment solution of choice. The default is the new Android Pay, but you can pick another one if you have it installed.</paragraph>
+			<paragraph>Google has further made sure that different payment options can co-exist peacefully by giving you the option to use the default payment option (say, Android Pay), unless you have another payment app open.</paragraph>
+			<paragraph>Naturally, any such app can use the fingerprint reader to ensure that people can't just pick up your phone and pay for stuff.</paragraph>
+			<paragraph>Unfortunately, there aren't any vendors in our neighborhood that support Pay so we couldn't try it out.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The LG Nexus 5X is powered by a Snapdragon 808 chipset, which has been paired with an average 2GB of RAM (flagships these days are in the 3-4GB range). The chipset packs two fast Cortex-A57 cores at 1.82GHz and four power-efficient Cortex-A53 cores at 1.44GHz.</paragraph>
+			<paragraph>The GPU is an Adreno 418, not Qualcomm's best, but much better suited for a 1080p screen than the QHD screens that LG pairs it with.</paragraph>
+			<paragraph>Starting off with full system performance, Basemark OS II 2.0 ranks the Google phone quite close to the top-of-its-class Galaxy S6 edge.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu 5 places the Nexus 5X somewhere between the old Nexus 5 model and the Galaxy S6 edge.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The processor speed has gone up noticeably since the Snapdragon 800 days.</paragraph>
+			<paragraph>The HTC One A9, which runs Android 6.0 Marshmallow on a Snapdragon 617 chipset (octa-core Cortex-A53) lags well behind the Nexus 5X. If you ask us, the pricey HTC smartphone should have been equipped with a Snapdragon 808 to begin with.</paragraph>
+			<paragraph>Single-core performance is almost on par with the Galaxy S6 edge (same cores, different clockspeed) and even the multi-core performance is very good. Compared to the Snapdragon 810-packing Xperia Z5 Compact (two extra Cortex-A57 cores), the total result isn't very different.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The difference in raw processing power between the Adreno 418 (Nexus 5X) and the Adreno 430 (Xperia Z3 Compact) can be seen quite clearly in the off-screen graphics benchmarks results. Depending on the benchmark the gap can be quite massive - especially when the latest OpenGL ES 3.1 is involved.</paragraph>
+			<paragraph>At its native 1080p resolution, the Nexus 5X should provide enough oomph for 3D gaming (benchmarks are always much harder than games). You can see that the LG G4 struggles at native resolution and rendering at a lower one would negate the benefit of its QHD screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The JavaScript performance is well optimized and is about as good as Androids manage (the iPhone is well ahead).</paragraph>
+			<paragraph>In general web browsing the Nexus 5X beats most other Androids, even the Sony Xperia Z5 Compact, which boasts the beefier chipset (S810 vs. S808) and only has to render the web pages at 720p resolution.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The LG Nexus 5X provides great performance for its price, even getting into competition with 2015 flagships. The processor isn't the fastest, but comes close enough to modern flagships, even outperforming more expensive handsets. Similarly, the phone does great for 3D gaming and web browsing.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony and phonebook<subsectionTitle>
+			<paragraph>The LG Nexus 5X held on to a signal and voice quality was good. There's HD voice for improved audio quality, more and more networks and phones support it (and you need the network and both phones to support it, otherwise it's down to 2G audio quality).</paragraph>
+			<paragraph>Caller ID by Google is a way to tell who's calling, even when the number is not in your phonebook. It will show the names of people and businesses. By the way, you can opt out of your name/number being used by Caller ID in your Google Account settings.</paragraph>
+			<paragraph>Another similar features takes your location into the equation (you can disable this too). It will search online for the numbers of nearby places you might want to call. The QWERTY keyboard pops up when you tap the search field and you can type, say, "cafe" to look for a local place to have a brew.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Loudspeaker performance<subsectionTitle>
+			<paragraph>The single loudspeaker on the front proved rather quiet, even with our loudest ringtone. As for the music listening experience on the built-in speaker, let's just say you'd be better off sticking to headphones.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging and text input<subsectionTitle>
+			<paragraph>Messenger is the default app to handle SMS/MMS on the Nexus 5X, rather than Google Hangouts as you might expect from a Google phone.</paragraph>
+			<paragraph>Messenger is a simple, Material design app that handles threaded conversation. Each conversation can have its own notification tone and if there are multiple people, you can assign different colors to them so it's easier to see who wrote what. There are backgrounds and speech bubble themes though.</paragraph>
+			<paragraph>You can archive messages for safe keeping or block numbers that bug you. You can take photos for MMS messages straight from the app - a viewfinder shows up below the text box and goes full screen when you rotate the phone to landscape. You can attach photos from the gallery, of course, plus audio and location.</paragraph>
+			<paragraph>Gmail has taken over email duties completely (unlike Hangouts). It handles both Gmail and other email providers (POP3 and IMAP) easily. The Priority inbox cuts through the noise and spam, collecting only the most important messages. Swipe gestures (either Archive or Delete) are a quick way to bring order too).</paragraph>
+			<paragraph>For text input there's the Google Keyboard. Its flat design should be familiar to you already, it's used by several makers as their default keyboard as it is quite good.</paragraph>
+			<paragraph>It has advanced text correction (in multiple languages) and gesture typing (swiping instead of hitting keys). You can move between dark and light Material and Holo looks and switch between layouts (including a PC layout, which adds a numbers row).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Chrome is the default web browser<subsectionTitle>
+			<paragraph>Chrome has been integrated into Android to the point where it feels like a native part of the OS. By default, each tab goes into the app switcher as if it was an actual app. The browser has several options that can make sites feel more like native apps too.</paragraph>
+			<paragraph>Chrome also encroached on Opera's turf by enabling website data compression. It helps sites load faster on spotty connections, but also uses less of your data cap too. For privacy reasons, SSL sites and Private tabs do not go through Google's servers and are handled normally.</paragraph>
+			<paragraph>Just like with apps, sites can use the functionality of your phone (say, location or microphone), but only if you give them permission first. This way you have access to location-aware services and voice input, even if you don't install an app.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Photos mixes AI with album keeping<subsectionTitle>
+			<paragraph>Continuing the Google theme, the gallery app is Google Photos. It offers multiple views, ranging from a yearly view with tiny thumbnails to comfortable view that shows one photo per row. Google's cloud services are prominently featured, in fact unless you enable cloud backup you'll get an annoying crossed out cloud icon on all your photos.</paragraph>
+			<paragraph>The app does have some cool, cloud-enabled smarts though. Assistant is the latest iteration in Google's AI photo tricks. It can automatically suggest movies, collages and more created from your photos.</paragraph>
+			<paragraph>The Stories view borrows from HTC and creates an animated slideshow of photos from a given event (determined by time and location). It will automatically select which photos go into the slideshow, but you can pick manually too - choosing to include (or not) photos of certain location taken at certain times.</paragraph>
+			<paragraph>You can create Movies, Animations and Collages, just pick several photos and/or videos. Note that this uploads them to Google's servers so it will eat up your data allowance (and is a privacy concern too).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play Music<subsectionTitle>
+			<paragraph>Naturally, Google Play Music is the audio player of choice on the LG Nexus 5X. It feels equally at home playing tracks from the internal storage (in fact, there's a Downloaded only toggle) and online.</paragraph>
+			<paragraph>You'll need a Play Music account for online streaming. Once you've added your own music tracks to Google Play Music, they become available to all your devices, including via a computer web browser.</paragraph>
+			<paragraph>On your phone you can choose to have the tracks downloaded only over Wi-Fi and only when charging to save your data plan and battery. For tracks that weren't cached, they can be streamed over mobile data or only over Wi-Fi and you can reduce the quality if you're low on data. You can buy songs too, to make them a permanent part of your collection.</paragraph>
+			<paragraph>A Google Play Music subscription (where available) will let you stream music by various artists much the same way you would do that on Spotify.</paragraph>
+			<paragraph>Google Play Music has a 5-band equalizer with presets and a manual setting. There are Surround sound and Bass boost sliders too (the latter is available only when you plug in headphones).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>There's no dedicated video player, even getting to your video files can be tricky since Google Photos mixes in all photos from years ago and finding a video can take a while. It's best to go into the folder view and open the video from there.</paragraph>
+			<paragraph>Video playback is as basic as it comes, just a play/pause button and little else. That means no subtitles or any special video settings.</paragraph>
+			<paragraph>The video format support is pretty poor out of the box. Old-school AVIs don't work and naturally no multi-channel audio. Even some H.264 videos proved to be a problem.</paragraph>
+			<paragraph>4K HEVC videos and many video formats work, but you'll want a capable third-party video player for better format support and subtitles.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is perfectly clean, not very loud<subsectionTitle>
+			<paragraph>The LG Nexus 5X demonstrated perfectly clean output in the first part of our audio test. When working with an active external amplifier the smartphone produced excellent scores top to bottom. The only downside to its performance was the below average loudness.</paragraph>
+			<paragraph>It's a similar story when you plug in a pair of headphones - the stereo crosstalk is barely affected, while the other readings remain as good as they come. Audiophiles will certainly be pleased, but volume levels remain unchanged, which prevents us from giving it full marks.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still camera<subsectionTitle>
+			<paragraph>The LG Nexus 5X comes with a new camera geared for low-light shooting. The Sony IMX377 sensor is not very high resolution - 12.3MP - but it has 1.55µm pixels (for comparison, the iPhone 6 has 1.5µm pixels). Physically, it is a large sensor, 1/2.3", matching the Xperia Z series, which pumps out a lot more megapixels than the Nexus 5X.</paragraph>
+			<paragraph>It also has a relatively wide aperture of f/2.0, dual-LED flash and laser autofocus. All of that should enhance its performance in the dark.</paragraph>
+			<paragraph>There's no Optical Image Stabilization though, like the 2013 model had. Also, there doesn't seem to be phase-detection AF, just contrast + laser.</paragraph>
+			<paragraph>The selfie camera uses a 5MP sensor (from OmniVision), also with an f/2.0 aperture. Both main and front camera have HDR+ mode.</paragraph>
+			<paragraph>The camera UI is fairly simple, only really giving you access to flash mode, HDR and self-timer. There are no manual controls, but Android 6.0 has the necessary APIs so you can grab a camera app from the Play Store (there are both free and paid alternatives). Those would give you manual focus, shutter control (1/8,000s - 1/5s) and other options, too.</paragraph>
+			<paragraph>A fast way to start the camera is to double tap the Power key when the phone is locked.</paragraph>
+			<paragraph>The Google camera does have a couple of tricks of its own though - Photo Sphere to supplement the usual panorama and lens blur (simulated shallow depth of field). You tap a hamburger menu to view the modes, but swipe left/right to switch between still and video camera. It's not a very common UI and it takes some getting used to.</paragraph>
+			<paragraph>The LG Nexus 5X camera does not have many pixels, but the per-pixel quality is quite high. Noise is kept low and photos come out rich in detail without being over-sharpened. Even foliage is rendered well. The colors are very accurate, though the dynamic range seems to be somewhat limited.</paragraph>
+			<paragraph>You'll probably want to leave the HDR mode on Auto, but keep in mind that it really slows down the shot to shot time so it's a tradeoff. What you get is a massive improvement in highlights, though shadows lose some detail with HDR on, which is the opposite of what we expect to happen.</paragraph>
+			<paragraph>The selfie camera does a good job too - it uses slightly stronger noise reduction, but still leaves a lot of detail (especially for a 5MP shooter). You can enable HDR if the sun is behind your back.</paragraph>
+			<paragraph>We've prepared a short, impromptu low-light comparison between the Nexus 5X, the Samsung Galaxy S6 and the HTC One A9. From our experience, the built-in HDR modes are not as helpful in low light on the other two phones, so Google is definitely on to something with the Nexus HDR+ mode.</paragraph>
+			<paragraph>The LG Nexus 5X performs very well in the dark, rendering sharp images with relatively little noise, colors remain accurate. We discovered that enabling HDR+ improved the low light image quality greatly, though it takes longer to capture the scene so it's perhaps better suited to still scenes.</paragraph>
+			<paragraph>The panorama mode is a bit slow (you have to aim for dots instead of just sweeping), but the results are satisfactory. Vertical resolution is around 2,500px and the stitching is very accurate.</paragraph>
+			<paragraph>The Nexus 5X camera doesn't go overboard with resolution, like say the Xperia Z series, but prefers to improve the per-pixel quality. The Apple iPhone 6s and HTC One A9 are also in the 12MP-13MP range with similar ideals, here's how the 5X compares to those two.</paragraph>
+			<paragraph>   LG Nexus 5X in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera<subsectionTitle>
+			<paragraph>Video mode gives you a choice of 2160p @ 30fps and 1080p @ 30fps for common shooting with a 720p @ 120fps option if you want some slow-motion effects. There's no 1080p @ 60fps mode though, which would make a big difference for fast-paced scenes. Also, changing resolution involves going into the settings, which isn't all that convenient.</paragraph>
+			<paragraph>Anyway, the 2160p videos are captured at 42Mbps bitrate and have rock solid 30fps. The audio quite surprisingly came back mono-only. The Nexus 5X has two mics (one on top, one on bottom) so 96KBps mono is really not what we had in mind. Yes, the iPhones do it too, but that's no excuse.</paragraph>
+			<paragraph>The video quality is very high, with sharp, detailed imagery. The colors seem slightly oversaturated now and the low-ish dynamic range is still a problem. Audio quality is not as good as Android flagships and the lack of stereo is noticeable.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>1080p videos are shot at the standard 17Mbps bitrate and the same audio. The video quality is great for 1080p, apart from the oversaturation and dynamic range.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Note that the Nexus 5X stores video rotation as metadata and unless your video player supports it, your videos may come out upside down (VLC did okay, Media Player Classic failed).</paragraph>
+			<paragraph>The slo-mo 720p @ 120fps videos are shot at a measly 7Mbps. The quality turns out surprisingly good though and the motion is very smooth (though refocusing can take a couple of seconds in playback time).</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The LG Nexus 5X topped out at 1080p, but in the intervening years 2160p has become the norm, even for mid-rangers. Apple recently took the plunge, while HTC straddled its premium-looking A9 with a weak chipset that bounds the resolution at 1080p so we swapped it out for the Galaxy S6 in the video comparison below. Of course, you are free to choose any of the phones we've tested so far to compare against the Nexus 5X.</paragraph>
+			<paragraph>   LG Nexus 5X in our video compare tool: 2160p resolution</paragraph>
+			<paragraph>   LG Nexus 5X in our video compare tool: 1080p resolution</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG Nexus 5X key test findings<subsectionTitle>
+			<paragraph>Build materials are good, the fingerprint sensor is amazingly fast</paragraph>
+			<paragraph>The screen remains legible in the sun, has very accurate colors</paragraph>
+			<paragraph>USB Type-C may be reversible, but is less flexible than the SlimPort on the old model and you don't get a backwards compatible cable which is a nuisance</paragraph>
+			<paragraph>Battery life is a major improvement over the 2013 model, though average in general (with poor video playback time)</paragraph>
+			<paragraph>The software lacks some modern conveniences like theming and split-screen multitasking</paragraph>
+			<paragraph>Storage options are limiting and the un-bloated Android still takes up a lot of space</paragraph>
+			<paragraph>The loudspeaker disappoints with its fake stereo look and with how quiet it is</paragraph>
+			<paragraph>Audio quality is good, though volume levels could have been higher</paragraph>
+			<paragraph>Poor video codec support out of the box requires a third-party app, also hurts battery life</paragraph>
+			<paragraph>Very good photo quality during the day, night shots require HDR+ mode to be any good</paragraph>
+			<paragraph>Video quality is great too, but comes with mono sound and no 60fps option</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Nexus line traces its roots to developer-oriented devices, but since the LG-made Nexus 4, the lineup of Google-branded phones has been an affordable way to get great specs and a long period of timely software updates (even the Nexus 6 is a steal now).</paragraph>
+			<paragraph>The LG Nexus 5X is not spec'd like a flagship, like the 4, 5 and 6 before it were and the 6P is now. That's a letdown - the Nexus 5 cost $350 in 2013 dollars, the 5X costs $380 in 2015 dollars. And the price outside the US is just ridiculously high.</paragraph>
+			<paragraph>So, you're definitely paying more for the new one, what do you get? The screen is a definite improvement (its slightly bigger, with better colors and contrast), the chipset is faster for modern workloads, the camera is a major win and you get a new fingerprint sensor for faster, more secure phone lock. The much improved battery life (while not that great in general) is a big update over the old model too.</paragraph>
+			<paragraph>Google's motives with the Nexus 5X were clear. After Google Pay pretty much flopped, Google is now keen on pushing Android Pay, Google Photos and perhaps even Google Music. The fingerprint reader and camera really are the two biggest improvements over the 2013 Nexus 5.</paragraph>
+			<paragraph>It's not all good news though. For more money you get the same RAM and storage options, you lose OIS in the camera, the wireless charging and wired TV out. Subjectively, the phone isn't as attractive, objectively, the phone is definitely larger.</paragraph>
+			<paragraph>The Nexus 5X definitely lacks the cool, pioneering spirit of the 2013 Nexus 5. Not that some people would mind the "boring" life of quality hardware and reliable software. Geeks and power users, however, will certainly get a bigger rise out of the 6P.</paragraph>
+			<paragraph>It's been two years since the Nexus 5, right on time for an upgrade (even if you didn't get it on contract). You'll get less battery anxiety, your photos and videos will turn out much better, Android Pay (and other smartphone payment services are picking up speed).</paragraph>
+			<paragraph>You won't get more storage for your files though and the old Nexus is getting Android 6.0 Marshmallow too (probably its last major update).</paragraph>
+			<paragraph>The Nexus 6P is the first metal Nexus and it has a gorgeous 5.7" QHD AMOLED display. Looks aside, you get real stereo speakers, bigger battery, slightly faster chipset with more RAM, more storage (up to 128GB) and, well, a bigger price tag. Same camera and fingerprint readers though.</paragraph>
+			<paragraph>The HTC One A9 launched with Marshmallow and HTC vowed to bring new updates with near Nexus speeds. The phone has a lovely metal body (if reminiscent of an iPhone), an AMOLED screen and expandable storage.</paragraph>
+			<paragraph>The camera has OIS, though HTC's choice of chipset meant that 4K video is no go. Also the GPU is pretty weak and battery is small. Unlike most other phones on this list, this one has a fingerprint sensor (it's on the front).</paragraph>
+			<paragraph>Also, it used to be $400 in the US for the 3GB/32GB option and various promos occasionally bring it back to that level. Like the Nexus though, the prices outside the US much tougher to swallow.</paragraph>
+			<paragraph>The Motorola Moto G Turbo Edition updates a fan-favorite mid-ranger with a 5" 720p screen. It's water resistant (IP67) and a dual-SIM phone. The 13MP camera tops out at 1080p resolution though and the chipset is the same as the HTC. The second speaker grill is just decoration, but at least you get a microSD slot.</paragraph>
+			<paragraph>The OnePlus X also packs a 5" 1080p screen, but uses the old Snapdragon 801 chipset (almost from the Nexus 5 era). The X is a dual-SIM phone, but if you have only one contract you can put a microSD in the second slot. Do note that LTE compatibility with US carriers is a little spotty.</paragraph>
+			<paragraph>The camera situation is similar to the Moto above, 13MP with 1080p video though it did nothing to impress us.</paragraph>
+			<paragraph>The Oppo R5s has a 5.2" 1080p screen, an AMOLED one. The S615 chipset limits the 13MP camera to 1080p video resolution, but it comes with 3GB of RAM as standard. Also standard is the 32GB of storage (non-expandable).</paragraph>
+			<paragraph>Similar to the One A9, the R5s has a metal body, but this is ridiculously thin - a mere 4.9mm. Impressive as it is, the 2,000mAh battery is not.</paragraph>
+			<paragraph>The Nexus line is almost unmatched if you want new software. It was HTC that added the "almost" with their A9 Unlocked Edition, now that Motorola started dropping the ball.</paragraph>
+			<paragraph>LG nailed the screen and the camera and with Google's direction created an excellent upper mid-ranger. There's not a lot in its class that can top the Nexus 5X. This Nexus is less of the cutting-edge, dev-type of device we're hoping for and more of the polished, well balanced product that established manufacturers would gladly put forward. Come to think of it, we don't mind the trade-off as much as we thought we would. Now if only the price outside the US was more consumer-friendly, too...</paragraph>
+		</subsection>
+	</page>
+</review>

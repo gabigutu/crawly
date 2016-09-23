@@ -1,0 +1,147 @@
+<review>
+	<title>LG Optimus G preview</title>
+	<description>A closer look</description>
+	<link>http://www.gsmarena.com/lg_optimus_g-review-818.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>LG has shown a serious commitment to pushing the limits of Android hardware. The first dual-core droid was manufactured by the Koreans and, while they showed up late to the quad-core party, they're back with a bang with the Optimus G - the first phone to employ the Snapdragon S4 Pro chipset.</paragraph>
+			<paragraph>If you're not familiar with Qualcomm's numbering scheme, S4 chipsets fall into three categories - Play (for low-end phones), Plus (the one with two Krait cores we've seen a good deal of) and Pro.</paragraph>
+			<paragraph>What S4 Pro chipsets do is combine four Krait cores with next-gen Adreno 320 graphics (Plus employs Adreno 225). LG is the first to bring an S4 Pro-powered smartphone to the market (even though Xiaomi had one announced a while ago).</paragraph>
+			<paragraph>The LG Optimus G E973 puts another first on its resume - it's LG's first phone with a 13MP camera.</paragraph>
+			<paragraph>The screen boasts some impressive credentials as well. The 4.7" True HD IPS Plus screen of WXGA resolution (768 x 1280) has Zerogap touch technology (in-cell touch, laminated layers to reduce glare). The screen bezel is kept to a minimum too.</paragraph>
+			<paragraph>Here are the rest of the LG Optimus G E973 highlightsd.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG Optimus G at a glance:<subsectionTitle>
+			<paragraph>And that's not all either. The sides of the Optimus G are laser-cut for excellent build quality, there's real glass at the back with a polarized pattern that shifts as you move the phone and the battery should have a longer lifespan with 800 recharge cycles.</paragraph>
+			<paragraph>We have a hands-on under our belts, but it's time to take a closer look at the Optimus G. We'll start off with what's in the box and then see what kind of effort went into the fit and finish.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Optimus G<subsectionTitle>
+			<paragraph>The LG Optimus G E973 comes in a small box, barely bigger than the device itself. This is rather fitting for a phone with "borderless design" as the company calls it.</paragraph>
+			<paragraph>Anyway, there's a compact charger inside and microUSB cable along with a headset (in-ear design) and a SIM card eject tool. The headset is better than most that come prebundled - the flat cabling and cool silver earbuds look good.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The LG Optimus G E973 is a reasonably compact device for the 4.7" screen it carries. It's almost the same size as the Optimus 4X HD, including the width, even though the new phone has a wider aspect ratio (16:10 vs. 16:9).</paragraph>
+			<paragraph>That's thanks to the borderless design, which minimizes the bezel. It's not like the Optimus G has no bezel at all, but just enough to let you hold the phone without touching the screen.</paragraph>
+			<paragraph>And while we're on it, LG uses a screen technology called Zerogap touch - basically a laminated screen so there's no air between the screen layers (which causes glare) and it uses in-cell touch technology. The top layer is Gorilla glass for protection.</paragraph>
+			<paragraph>The screen itself is True HD-IPS+ LCD of 768 x 1280 resolution. The end result is a very pleasant screen. It isn't the least reflective we've seen, but it's comparable to that of an iPhone 4, so it does well enough in direct sunlight.</paragraph>
+			<paragraph>The viewing angles are good thanks to the IPS+ tech, but it does have its weak point - if you look at it at a 45-degree angle, you'll notice some color-shift and contrast loss.</paragraph>
+			<paragraph>Below the screen are three capacitive buttons - Back, Home and Menu. They practically disappear when their backlighting goes off.</paragraph>
+			<paragraph>The LG Optimus G has more interesting things to show us on its sides and back. The sides are made of plastic, but laser cut to precision.</paragraph>
+			<paragraph>The left side of the phone features the microSIM slot (you'll need the SIM eject tool to open it) and the volume rocker (pressing both keys of the rocker activates Quick memo, but it's not the most comfortable gesture).</paragraph>
+			<paragraph>The right side has just the Power/Lock key. The 3.5mm audio jack is on top along with the secondary mic, while the MHL-enabled microUSB port is at the bottom with the primary mic, along with a couple of screws that secure the back.</paragraph>
+			<paragraph>The back is made of glass and features a polarized pattern called "Crystal Reflection" finish. The pattern is more prominent on a black handset than a white one and, because the glass is polarized, the pattern shifts depending on viewing angle and lighting.</paragraph>
+			<paragraph>In case you're wondering why LG went with glass, apparently it's because there are a lot of antennas - over 10 - and all that glass was needed to let RF signals through. We don't have a schematic of all those antennas yet, so even though we're curious what they all do we'll have to wait for the review to find out,.</paragraph>
+			<paragraph>Anyway, the intricate pattern of the back can't distract from the 13MP camera, which is the real star here. On a somewhat negative note, the camera protrudes from the back slightly, so the phone rests on it. The 8MP variant of the Optimus G should have the camera flush with the back.</paragraph>
+			<paragraph>Just below the camera is the single-LED flash and diagonally opposite is the loudspeaker.</paragraph>
+			<paragraph>The back cover is not removable - that is to say, not designed to be user removable, but it can probably give in if you undo the screws. Under the cover is a 2100mAh Lithium Polymer battery.</paragraph>
+			<paragraph>It's been developed by LG Chem and they promise an increased lifespan of 800 charge cycles. We'll run our battery tests in the full review of the Optimus G to see how power-efficient the Snapdragon S4 Pro chipset is.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface overview<subsectionTitle>
+			<paragraph>We won't get into too much detail with the user interface as it's very similar to LG's previous takes on Android, we'll only give some of the highlights instead.</paragraph>
+			<paragraph>Check out our hands-on video to give you a better feel for the device:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The LG Optimus G is running Android 4.0 but will be upgraded to 4.1 Jelly Bean later on. Powered by the Qualcomm Snapdragon S4 Pro chipset, a first for a smartphone, the software is very fast and responsive.</paragraph>
+			<paragraph>The lockscreen is unlocked with a swipe in any direction and as you swipe, a "dew drop" grows, revealing the wallpaper underneath. This is similar to how the lockscreen on the LG Optimus 4X HD worked, but LG has used the extra muscle provided by the Adreno 320 GPU to add a nice 3D effect (the way it would've looked if this "drop" was actual water).</paragraph>
+			<paragraph>There are four shortcuts on the lockscreen and swiping away from them will launch the respective app.</paragraph>
+			<paragraph>The notification area features a side-scrollable list of toggles, the screen is big enough to fit 5 toggles at a time. You can use the Edit button at the end to add or remove toggles as you please.</paragraph>
+			<paragraph>Most of those things were already available on the 4X HD, but LG has added another usability feature - you can pinch zoom in some apps to adjust, say, the text size in the phonebook or the thumbnails in the gallery.</paragraph>
+			<paragraph>Unusual enough, the LG Optimus G's homescreen can work in landscape mode too.</paragraph>
+			<paragraph>You can replace the shortcut icon of any app you like with one from a gallery provided by LG (with several styles available) or you can even load a custom image. The Optimus G also gives you the option to double the size of a shortcut to make it that much easier to hit.</paragraph>
+			<paragraph>And if all those shortcuts and widgets are getting in the way of your beautiful wallpaper, you can pinch out to hide them (and pinch in to bring them up again).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software features<subsectionTitle>
+			<paragraph>LG are the first to bring a smartphone with the powerful Snapdragon S4 Pro chipset and they've enabled several features on the Optimus G that both showcase that power and improve multitasking.</paragraph>
+			<paragraph>You can watch LG's official demo video to see them in action:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Q Slide feature lets you use two apps at a time, at least in some scenarios. One app becomes transparent (you can adjust opacity with a slider) so you can switch to another app without completely losing sight of the first one.</paragraph>
+			<paragraph>There are a couple of more video-related features that leverage the S4 Pro chipset. Dual Screen Dual Play lets you do wireless TV-Out with the Optimus G, but unlike the TV-Out features on most other phones, this isn't simple mirroring but screen extension instead.</paragraph>
+			<paragraph>That means the two screens can show different things, e.g. a video on the TV and an app on the device. The phone is pretty smart and figures out what goes on which screen. You can also do presentations while reading your notes, plus there's a virtual laser pointer function included.</paragraph>
+			<paragraph>Yet another video feature lets you zoom in on a video, while the video is playing. You can zoom in up to 5x if you really want to go to that much detail.</paragraph>
+			<paragraph>Then there's Quick memo, which we've seen on the LG Optimus Vu. To trigger it on the G, you press both keys of the volume rocker and then you can scribble on a note. If you tap the overlay button, that note will remain visible on the screen even as you navigate to something else.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The LG Optimus G's new quad-core CPU flexed its muscle in the BenchmarkPi trial. The new architecture blew its quad-core competitors out of the water, posting a score of 285ms.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The real shock came when we run the Linpack benchmark, which is designed to make use of multi-core CPUs. The Optimus G came so far ahead of its competitors here, that it's almost hard to believe. It offered nearly three times the performance of the second-best quad-core smartphone we've tested on this occasion.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>To learn more about the overall performance of the LG Optimus G, we run the well familiar Quadrant benchmark, which tests everything from memory speed to GPU power. The LG Optimus G got the incredible score of 7439, which is way better than any smartphone has managed before. Impressive indeed.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We used Geekbench 2 to try and compare the Optimus G to the leaked iPhone 5 scores and while it did come out on top, it wasn't as fast as we would have expected (especially after that massive advantage in Linpack). Another quad-core LG is the Optimus 4X HD, but that one uses a Tegra 3 chipset with the old Cortex-A9 cores. It came surprisingly close as did other quad A9 phones like the HTC One X, while the Galaxy S III even beat it. The HTC One S has only half the number of Krait cores that the Optimus G has, but it's not nearly twice as slow either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks (contd.)<subsectionTitle>
+			<paragraph>GPU benchmarks brought more of the same, the LG Optimus G and its Adreno 320 GPU making easy work of the competition. The GLBenchmark 720p offscreen test shows that the raw performance of the Optimus G graphics are way better than that of its high-end rivals.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.1 Egypt (offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The 60fps result at NenaMark 2 might suggest that there's not much difference between the Optimus G and other quad-cores, but there's actually more to that score. NenaMark 2 renders on-screen, which means that 60.0 fps is the highest possible result that a smartphone can get.</paragraph>
+			<paragraph>So the fact that the LG Optimus G got a perfect score suggests that it has more in reserve than its rivals - it was able to maintain the maximum framerate through the most intensive parts of the test, whereas others failed to do so.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NenaMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We managed to run the SunSpider Javascript benchmark on the LG Optimus G. Even though the software of the test unit we had wasn't finalized it already proved faster than the Optimus 4X HD (running on the latest 4.0.4-based firmware). We assume that once LG is done with the i-dotting and t-crossing the Optimus G should take the lead in the browsing performance department as well.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>13MP camera with a time machine<subsectionTitle>
+			<paragraph>The camera on the LG Optimus G is a 13MP unit and can snap photos with a maximum resolution of 4208 x 3120. It can record FullHD videos too.</paragraph>
+			<paragraph>The interface is more or less the same as what we saw on the Optimus 4X. You get a column on the right with the still/video toggle, a virtual shutter key and gallery shortcut on the right and a column with five shortcuts on the left.</paragraph>
+			<paragraph>You can edit the top four of these shortcuts so you can have one-tap access to the features you use most. By default, the top shortcut toggles between the front and back cameras, the second activates the "cheese shutter" (which lets you snap a photo by saying "Cheese!", "LG" or a few other words), the Time catch shot (we'll get to it in a moment), shooting mode and the settings shortcut.</paragraph>
+			<paragraph>You can pick between one of four shooting modes - Normal, HDR, Panorama and Continuous shot.</paragraph>
+			<paragraph>The Time catch shot feature (also called Time machine camera) does something pretty unique - it snaps a photo, but also records several photos of what happened before you hit the shutter key. You can save any of the photos on that list that you like. This way, even if you missed the moment, the LG Optimus G will have captured it.</paragraph>
+			<paragraph>Anyway, here are several camera samples we shot with the 13MP camera on the LG Optimus G.</paragraph>
+			<paragraph>Here are a few low-light shots as well:</paragraph>
+			<paragraph>If the lighting conditions are not perfect, you can try the HDR mode, here's how it performs:</paragraph>
+			<paragraph>Finally, we tested the Panorama shooting mode as well, since it's a popular feature lately:</paragraph>
+			<paragraph>The video camera can record 1080p videos at 30fps. Live effects let you do real-time effects (that is, ones that are visible in the viewfinder as you shoot the video, not ones applied during post-processing).</paragraph>
+			<paragraph>You can either use funny face effects (with automatic face detection) or do a sort-of green-screen effect by replacing the static background of the video with something more exciting (this works best with a tripod as shaking the camera causes the whole image to change).</paragraph>
+			<paragraph>Check out this FullHD video sample from the Optimus G.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>We're quite happy with the build and finish of the LG Optimus G and, even though all that glass wouldn't have been our top choice, LG had legitimate reasons to use it instead of metal.</paragraph>
+			<paragraph>The screen is very good (as we've come to expect from LG) and the 13MP camera gives the Optimus G an edge over most flagships, but we'll need more detailed testing to determine if it's just an advantage in numbers or in quality too.</paragraph>
+			<paragraph>As for the Snapdragon S4 Pro chipset, it's certainly showing a lot of potential. It's more powerful than any other mobile chipset currently in use (including those in the Windows 8 RT tablets), but it did show a tendency to overheat. We hope this is just an issue with the pre-release unit we tested.</paragraph>
+			<paragraph>The extra computing muscle allowed LG to include some eye-catching software tricks, but there are no major updates, most of the software on the Optimus G we've seen on the 4X HD and Vu.</paragraph>
+			<paragraph>Still, at the end of the day the LG Optimus G E973 is the first phone (first to hit the market anyway) that abandons old processor and GPU designs and moves to next-gen silicon. We are now hoping it abandons ICS and moves to Jelly Bean as quickly as possible - that's the only thing preventing the Optimus G from providing the best possible user experience on Android.</paragraph>
+		</subsection>
+	</page>
+</review>

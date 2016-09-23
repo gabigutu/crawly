@@ -1,0 +1,318 @@
+<review>
+	<title>HTC Salsa review</title>
+	<description>"Like" it or not</description>
+	<link>http://www.gsmarena.com/htc_salsa-review-619.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM and dual-band 3G support</paragraph>
+			<paragraph>7.2 Mbps HSDPA and 384 Kbps HSUPA</paragraph>
+			<paragraph>3.4" 16M-color capacitive TFT touchscreen of HVGA (320 x 480) resolution, Gorilla glass</paragraph>
+			<paragraph>Android OS v2.3 Gingerbread with HTC Sense</paragraph>
+			<paragraph>800 MHz CPU, Adreno 205 GPU, Qualcomm MSM7227 chipset</paragraph>
+			<paragraph>512 MB RAM and 512 MB ROM</paragraph>
+			<paragraph>5 MP autofocus camera with LED flash and geotagging</paragraph>
+			<paragraph>D1 video recording @ 30fps</paragraph>
+			<paragraph>Wi-Fi b/g/n and DLNA</paragraph>
+			<paragraph>GPS with A-GPS</paragraph>
+			<paragraph>microSD slot up to 32GB (2GB card included)</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Stereo FM radio with RDS</paragraph>
+			<paragraph>microUSB port (charging) and stereo Bluetooth v2.1</paragraph>
+			<paragraph>Smart dialing, voice dialing</paragraph>
+			<paragraph>Front facing camera, video calls</paragraph>
+			<paragraph>DivX/XviD video support</paragraph>
+			<paragraph>Compact aluminum unibody</paragraph>
+			<paragraph>HTC Locations app</paragraph>
+			<paragraph>HTCSense.com integration</paragraph>
+			<paragraph>HTC Portable Wi-Fi Hotspot</paragraph>
+			<paragraph>Ultra-fast boot times (if you don?t remove battery)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Below-par screen sunlight legibility</paragraph>
+			<paragraph>Camera not the best we?ve seen</paragraph>
+			<paragraph>microSD slot under the battery cover, not (quite) hot-swappable</paragraph>
+			<paragraph>No HD video recording</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It takes two to tango, HTC seem to think. The HTC Salsa joins the ChaCha in a bid to treat young Android users to as much Facebook as they can handle. The little blue button makes an appearance again, this time in a more familiar context. While the ChaCha takes its QWERTY keyboard off the beaten path, the Salsa is a typical Android package. It?s got a solid build and seems like a well spec'd midrange smartphone - an HTC Wildfire S for Facebookers.</paragraph>
+			<paragraph>The Salsa has something the ChaCha doesn't: a family tree. The Salsa is part of the new generation of midrange phones by HTC, along with the likes of the Wildfire S. But calling it a Facebook-centric Wildfire S would be oversimplifying or just plain wrong. As a matter of fact, HTC went on to give the Salsa more than just that tiny Facebook button. It tops the Wildfire S in terms of screen size and processor clock speed, and throws in a few features that the Wildfire S didn't bother with - like video calls, HD video and web Flash support.</paragraph>
+			<paragraph>Let's take a look at the complete feature list and the possible deal breakers.</paragraph>
+			<paragraph>There seems to be so little to worry about but we're yet to get into the details. As a mid-range smartphone, the Salsa will not set your expectations too high. But users who know what to expect will not be disappointed. The unibody design, the hallmark build quality and the latest Android are all in the deal.</paragraph>
+			<paragraph>So, it's a neat little smartphone with a thing for Facebook, one that many are getting ready to befriend. As for us, we have a job to do before we hit "Like". Our usual tour of the hardware coming up.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Salsa<subsectionTitle>
+			<paragraph>The HTC Salsa comes in the usual small box, which has room only for the essentials. There?s a charger, which needs a standard microUSB data cable to connect to the phone. The said cable is, of course, included.</paragraph>
+			<paragraph>There is also a headset with music controls. Unfortunately, it?s a single-piece unit, meaning you can?t replace the headphones with third-party kit without losing the remote functionality.</paragraph>
+			<paragraph>There is also 2GB worth of complimentary storage, safely tucked away in you phone's microSD card slot.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTC Salsa 360-degree spin<subsectionTitle>
+			<paragraph>To make room for the slightly bigger 3.4" screen, the HTC Salsa is just a tad taller than the Wildfire S. At 109.1 x 58.9 x 12.3 mm, it is still fairly compact and smaller actually in real life than it appears on the pictures.</paragraph>
+			<paragraph>120g give the HTC Salsa quite a bit of heft - well within reasonable limits for a unibody phone of such solid build. As a reference, the all-plastic Wildfire S weighs 105g.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Salsa has HTC written all over it, from the unibody styling to the subtle chin. A lot of design ideas are being reused here, the Salsa looking a cross between the Wildfire S and the Desires S. In fact, the Salsa does fit right in the middle in terms of both screen size and clock speed too.</paragraph>
+			<paragraph>We're having the pleasure of a lilac Salsa. Our Wildfire S test unit had the same paintjob, which we're not particularly impressed with. It's certain though it's meant for a different demographic. Other than that, the HTC Salsa will be available in black and silver too.</paragraph>
+			<paragraph>The front of the Sasla is dominated by a 3.4? capacitive touchscreen of HVGA (320x480) resolution. It?s a reasonably bright LCD unit that you can fully enjoy only by turning off the auto brightness and pumping it all the way up. The smallish screen is quite reflective (maybe not as much as the Wildfire S screen) ? making it uncomfortable to use outdoors. It gets smudgy very quickly too, which doesn't help its outdoor performance either.</paragraph>
+			<paragraph>The Salsa seems to have better viewing angles than the Wildfire S - the colors do get washed out at some point but it's not as critical as in the Wildfire S.</paragraph>
+			<paragraph>As to screen sensitivity, the Salsa performs just as you would expect a capacitive unit. The gentlest of taps do the trick.</paragraph>
+			<paragraph>And here come the results of our now traditional display brightness and contrast test. Deep blacks are not the Salsa's strength and while the brightness levels are OK, the contrast ratios aren?t impressive.</paragraph>
+			<paragraph>Moving on, there is a small video-call camera between the earpiece and the display - an important upgrade over the Wildfire S. There are also a couple of hidden sensors nearby ? one for proximity and another one for ambient light.</paragraph>
+			<paragraph>Underneath the screen, we find four capacitive keys. The haptic enabled controls are well spaced and quite responsive. Plus, the transition from the touchscreen is seamless.</paragraph>
+			<paragraph>The keys (Home, Menu, back and search) have extra functionality upon a long-press (task switcher, voice search).</paragraph>
+			<paragraph>Further down, on the understated chin, is the same Facebook button we saw in the HTC ChaCha. On the homescreen, the Facebook button will let you quickly post to your wall upon a short press or let you check in with Facebook Places upon a press-and-hold.</paragraph>
+			<paragraph>Inside an app, the button will try and post whatever it is you are looking at to your wall. So if you want to share a photo or an album that would be as simple as opening them in the gallery and hitting the Facebook button.</paragraph>
+			<paragraph>The long and thin volume rocker and the unprotected microUSB port are on the phone?s left side.</paragraph>
+			<paragraph>Surprisingly, the right side of the smartphone has a control that's not too common for HTC droids - a dedicated camera key. Even better - it's big and has a textured surface but what brings it close to perfection is its impressive press feedback. The silky half-press and solid full press are near digicam grade.</paragraph>
+			<paragraph>At the top we find the 3.5mm audio jack and the Power/Lock key.</paragraph>
+			<paragraph>As usual, at the bottom of the phone, you will see the mouthpiece.</paragraph>
+			<paragraph>The back of the HTC Salsa features the 5 megapixel camera lens and the small loudspeaker grill. There is also a tiny LED flash but, you know, you shouldn?t get your hopes too high for low-light photography.</paragraph>
+			<paragraph>The rear plate looks like patchwork and we're not sure we quite like it. It's metal for the most part, with bits of soft rubbery plastic either end. The thing is, the upper one has different colors: the lens and LED flash are within a piece of lighter colored plastic that of the loudspeaker.</paragraph>
+			<paragraph>The bottom piece, the same darker hue as the loudspeaker portion, is the actual battery cover. To access the microSD slot you need to slide it open. Underneath there's a lock that secures the battery. If you undo it, there?s nothing to keep the battery in place so you need to prop it with a finger if you don't want to turn the phone off. If you're careful enough you'd be able to eject/insert your memory card but it's not exactly a textbook example of hot-swap.</paragraph>
+			<paragraph>The 1520mAh battery inside the HTC Salsa is quoted at up to 445 hours of stand-by or up to 9 hours of talk time. In real life, it does pretty well. Our Salsa stayed on for almost two full days of heavy use: connected to a Wi-Fi network the entire time (quite a bit of web browsing, the usual set of photos, a few minutes of calls, a few levels of Angry Birds and fiddling with the interface and testing the rest of the apps).</paragraph>
+			<paragraph>The HTC Salsa is a well built and reasonably compact smartphone. It's got a bigger screen than the Wildfire S and metal unibody over plastic. We had no issues with the overall handling and ergonomics, the shutter key being an absolute high point. The reflective and fingerprint-prone screen is the only thing we'd warn users about.</paragraph>
+			<paragraph>We now move on to the software part of this review. Starting on the next page, we're going to look into the nuts and bolts of the latest Sense-skinned Gingerbread Android.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sweet combination of Gingerbread and Sense UI<subsectionTitle>
+			<paragraph>The Salsa runs Android v2.3 out of the box. Quite expectedly, it is skinned with the HTC Sense UI v2.1. There are two major improvements over past editions: a Quick Settings tab in the Notification area and a revamped Main Menu.</paragraph>
+			<paragraph>Here?s a video demonstration of the HTC Salsa user interface.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The new lockscreen that impressed us so much in the Sensation makes an appearance in the Salsa too. By default, it has four shortcuts and a ring at the bottom. You drag the ring towards the center of the screen to unlock the phone.</paragraph>
+			<paragraph>Or, you can drag any of the shortcuts into the ring to unlock the phone and launch the corresponding app. You can assign any four apps to the lockscreen that you like. You can install other lockscreens too, each with a different function. You'll have to visit HTC Hub for that one though as the Salsa comes with only one lockscreen preinstalled.</paragraph>
+			<paragraph>At the bottom of the screen, there are three virtual keys and a scrollbar. The left key launches the main menu. The middle key is a shortcut to the Phone app and the right key brings up the "Personalize" menu. The latter contains various customization options for the display, homescreen and sound notifications.</paragraph>
+			<paragraph>The scrollbar at the bottom is just an indication of which homescreen pane you?re on ? it can't be used for actual scrolling.</paragraph>
+			<paragraph>There?s Leap view instead - tap the home key (while on the center homescreen) or do a pinch gesture to zoom out to display the thumbnails of all seven homescreen panes at once. With a press and hold you can rearrange the homescreen panes as well.</paragraph>
+			<paragraph>Seven homescreen panes is all you get though ? there?s no add or delete option. With all those widgets (which are quite useful too) you?ll want to keep all of them anyway.</paragraph>
+			<paragraph>HTC Sense makes use of Scenes ? essentially five custom homescreen setups (Work, Travel, Social, Play and default). Each scene changes the wallpaper and the widgets on the homescreen. For instance, the Work scene has a Stocks widget, while the Social offers a Twitter widget. Those can be customized, of course.</paragraph>
+			<paragraph>You select a Scene within a fancy-looking 3D card interface. You can modify existing scenes (older Sense versions prompted you to save modifications as a new scene) and you can get more scenes at the HTC Hub.</paragraph>
+			<paragraph>Switching between scenes takes a couple of seconds but sure allows wide customization ? the business and personal modes that some competing phones offer seem quite limited compared to the HTC Scenes.</paragraph>
+			<paragraph>The HTC Sense has another customization option called Skins. Every skin changes the look and feel of most of the onscreen buttons, application screens, option menus, and other items. They also come with unique wallpaper and can set different colors to various UI elements. They can also replace the standard dock, lockscreen and widget frames with custom ones or change their shape.</paragraph>
+			<paragraph>Unfortunately the Salsa comes only with two skins pre-installed, but you can always get more from the HTC Hub.</paragraph>
+			<paragraph>The main menu has the typical grid layout, but you can switch to a list. In the list layout, there?s two-finger alphabet scrolling, which makes locating apps faster.</paragraph>
+			<paragraph>The main menu has been updated with the tabbed layout available in different Sense elements (such as the phonebook). There are three tabs available at the bottom ? all apps, frequent apps and favorites. They are quite useful especially when you have lots of installed applications.</paragraph>
+			<paragraph>Tapping the Personalize button brings out a whole screen of things to choose from ? for the display (scenes, wallpapers and skin), for the homescreen (widgets, shortcuts, folders, etc.) and even sounds (ringtones, alarms, notifications and Sound set).</paragraph>
+			<paragraph>In the widget section, both types of widgets (custom HTC and stock Android) are placed on the same page. There are so many of them you may find the seven homescreen panes short. You can download new widgets off the Market or the HTC Hub.</paragraph>
+			<paragraph>When you select a widget you are prompted to choose between several versions ? most widgets have at least two styles. The different versions typically offer at least two sizes of the widget and different skins. For example, there are six different clocks.</paragraph>
+			<paragraph>Some widget styles even offer different functionality. One version of the Friend Stream widget for instance shows updates for the people you follow and lets you tweet/update status. The other version is more compact and only allows status updates and tweets. A third one is also available showing only your friends? status updates with no option to update yours. There's nothing stopping you from using all of them, of course.</paragraph>
+			<paragraph>The notification area is divided into two tabs. The first one features a list of recent apps (in addition to the notification list), just like a task switcher. A press and hold on the Home button works too. The second tab accommodates switches for WLAN, Bluetooth, GPS, cellular data or the Wi-Fi hotspot. There is a shortcut to the full list of settings too.</paragraph>
+			<paragraph>Text selection is available almost everywhere. The Gingerbread implementation involves two large pointers either side of the marked text. You can drag each of those easily to make the selection you need. Then you have Copy/Cut/Paste/Quick Lookup options. It really doesn?t get much simpler than that.</paragraph>
+			<paragraph>The HTC Salsa has decent performance although a bit low by today?s standards. It scores a bit higher than its ChaCha sibling, but that?s expected. Despite the equal CPU speed and the amount of RAM, the Salsa is based on a different architecture.</paragraph>
+			<paragraph>The fast boot feature is enabled in the HTC Salsa but it won?t work if you have removed the battery ? in that case it will do a regular slow boot.</paragraph>
+			<paragraph>The cool thing is apps preserve their state after the quick restart ? so if you were browsing a web site before shutting the down phone, the browser will restore your session.</paragraph>
+			<paragraph>Our guess is, HTC has used some sort of Suspend or Hibernate logic as we know them from regular computers to implement the fast boot.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>A great phonebook<subsectionTitle>
+			<paragraph>The Salsa has HTC?s all-knowing phonebook with deep social networking integration. It manages to keep things neatly in order, even though it?s juggling everything from SMS to Facebook photo albums.</paragraph>
+			<paragraph>Selecting a contact displays the basic details: name and photo, numbers, emails and such. That?s just the first tab ? the other tabs hold further details and means of communication, including email and a call log.</paragraph>
+			<paragraph>The second tab holds the text messages received from the contact ? it would have been a lot more useful if it used conversation style view, but for that you?d have to go to the full-featured Messaging app.</paragraph>
+			<paragraph>The third tab holds a list of emails you've exchanged with the contact.</paragraph>
+			<paragraph>The next two tabs are what turns the Salsa into a powerful networking tool. The first holds Facebook contact updates, and the other called "Albums" pulls the albums that contacts have created on Flickr and Facebook.</paragraph>
+			<paragraph>The last tab shows the call history for the contact.</paragraph>
+			<paragraph>The entire People app (the phonebook) is tabbed too and with more tabs than the stock Android. You have all contacts, groups (including favorite contacts there), as well as a call log. A nice option is that you can filter contacts by where they came from - e.g. phone contacts or just the contacts from your Facebook account.</paragraph>
+			<paragraph>When editing a contact, you start off with just one of the essential fields but you can easily add more.</paragraph>
+			<paragraph>The Transfer Data app is a good way to pull out your contacts from your old phone if they haven?t been synced with the cloud yet. It's a simple process of several steps (the app will tell you what to do). It's not a new trick (old Symbians did it ages ago) but it's still potentially very useful.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good telephony<subsectionTitle>
+			<paragraph>Just like with the ChaCha, the Salsa does not impress with reception, but we had no issues with either signal strength or in-call quality.</paragraph>
+			<paragraph>The on-screen dialer features a keypad, a shortcut to the call log and a list of contacts beneath (you can hide the keypad). The HTC Salsa has both Smart Dialing and Voice dialing.</paragraph>
+			<paragraph>The Salsa knows three accelerometer-based tricks ? turning the phone over will mute the ringer of an incoming call or placing it down can activate the loudspeaker automatically when you are in the middle of a call. The other feature is Quiet ring on pickup ? once you move the phone, the ringer will quiet down (but not cancel the call).</paragraph>
+			<paragraph>Yet another option is pocket mode ? the ringer will be louder if the phone is in your pocket (the proximity sensor takes care of detecting that).</paragraph>
+			<paragraph>Another very handy feature is that when someone calls, their latest Tweet or Facebook update will show up ? possibly reminding you what the caller has been up to.</paragraph>
+			<paragraph>Here's how the HTC Salsa fares in our traditional loudspeaker performance test. It scored a Good mark putting it somewhere in the middle among its competitors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging has it all<subsectionTitle>
+			<paragraph>Android and the HTC Salsa are capable of handling all sorts of text messaging ? SMS, MMS, email. Social networking is covered by several apps and widgets, and there?s Gtalk, which can connect you to Google?s chat network and compatible networks too (like Ovi Chat).</paragraph>
+			<paragraph>The notification area will display a line of an incoming SMS or just the number of messages if there?s more than one. You can set the status LED to alert of unread messages too.</paragraph>
+			<paragraph>SMS and MMS messages are displayed in threads ? you see a list of all conversations, each one is listed with the contact?s photo, name and the subject of the last message, as well as a part of the actual message. Tapping a conversation brings up the entire message history with that contact.</paragraph>
+			<paragraph>The whole thing looks almost the same as a chat client. When viewing a thread, the most recent message is placed at the bottom.</paragraph>
+			<paragraph>To add recipients, just start typing a name or number and choose from the contacts offered ? the phone will find the contact you want even if you misspell it (e.g. ?drx? matches Dexter).</paragraph>
+			<paragraph>The compose text box is bigger and covers nearly half of the screen in landscape mode. A tap-and-hold on the text box gives you access to functions such as cut, copy and paste. You are free to paste the copied text across applications like email, notes, chats, etc. and vice versa.</paragraph>
+			<paragraph>Gingerbread text selection is very user friendly. Upon a press and hold, a ?magnifying glass? appears, enabling accurate cursor movements.</paragraph>
+			<paragraph>The text input method that the Salsa offers is an on-screen QWERTY. While it?s still not as good as a hardware one, it?s the next best thing ? the 3.4? screen has enough real estate for big, well-spaced keys, which are easy to hit. The HTC software keyboard is excellent too. Going landscape makes the keys and their spacing even larger.</paragraph>
+			<paragraph>Converting SMS into MMS is as simple as adding some multimedia content to the message. You can just add a photo or an audio file to go with the text, or you can get creative with several slides and photos.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Emails are important too<subsectionTitle>
+			<paragraph>The HTC Salsa comes with two email apps ? the traditional Gmail app and the generic HTC Mail app, which merges all your email accounts into a single inbox.</paragraph>
+			<paragraph>The Gmail app features the trademark conversation-style view and can manage multiple (Gmail) accounts. Batch operations are supported too, in case you need to handle email messages in bulk.</paragraph>
+			<paragraph>The standard HTC Mail app features several tabs that let you filter the inbox: you can opt to display conversations, emails with attachments only, unread mail only or invitations. You can mark emails too ? they will show up in the marked mail tab.</paragraph>
+			<paragraph>The conversation view tries to mimic the original Gmail client threaded view, which is otherwise missing in the generic inbox.</paragraph>
+			<paragraph>The HTC email app can handle several accounts and not just from Gmail. When you add multiple accounts, you can view each inbox individually or go into the All accounts section.</paragraph>
+			<paragraph>Each account is color coded, so you can quickly associate each message with its relevant account.</paragraph>
+			<paragraph>Email sorting is possible (in either ascending or descending order) by date, subject, sender and size. The currently applied filter is displayed in the top right corner of the display.</paragraph>
+			<paragraph>There's hardly anything the HTC Salsa lacks in terms of email capabilities. The settings for popular email services are automatically configured. POP/IMAP accounts and Active Sync accounts are supported.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The image gallery doesn't surprise<subsectionTitle>
+			<paragraph>The gallery has the usual list-with-thumbnail structure. The Albums app automatically locates images and videos, no matter where they are stored. Images and videos stored in different folders appear in different sub-galleries that automatically get the name of the folder ? which is an effective file management solution.</paragraph>
+			<paragraph>Each sub-album has a thumbnail of the latest image. There is also a camera shortcut, but it?s only available once you start browsing any of the sub-folders.</paragraph>
+			<paragraph>At the bottom of the main album there are three virtual buttons ? one for the actual folder list, another for Facebook and, one for Flickr. These two display images from either account or those posted by your friends.</paragraph>
+			<paragraph>Sharing a photo on the HTC Salsa is very easy ? tap the share button and pick your preferred sharing method. There?s everything from sharing via Bluetooth or email, to posting on Facebook, Twitter or photo sharing sites like Picasa and Flickr. You can also upload videos straight to YouTube.</paragraph>
+			<paragraph>If Facebook is your primary target it's even easier - while viewing an album or a single photo, you can hit the Facebook button and Salsa will offer to share that picture (or let you choose some photos from the current album) to share on Facebook.</paragraph>
+			<paragraph>In the HTC Salsa image folders you can choose between grid and filmstrip layout (flip the phone horizontally and the accelerometer will take care of the rest). You are also able to mass delete images, but still no mass copy-and-paste options.</paragraph>
+			<paragraph>You can?t copy/paste images from folder to folder either ? you?d need a proper file manager for that.</paragraph>
+			<paragraph>HTC Salsa supports multi-touch and you can take full advantage of it while browsing your images. You can also use double-tap, but it almost never zooms up to 100%. The implementation here is extra smooth too.</paragraph>
+			<paragraph>The good news is that the Salsa displays the full-resolution photos in its gallery, rather than the downsized versions most of the droids in its class show.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The video player handles DivX/XviD but has lots of limitations<subsectionTitle>
+			<paragraph>Video files can be accessed in the All videos subfolder in the Gallery or from the Videos shortcut in the menu, they launch the same thing.</paragraph>
+			<paragraph>The video files can be viewed as a grid or filmstrip and can be shared over MMS, email, or YouTube, and Facebook.</paragraph>
+			<paragraph>The video player interface on the HTC Salsa offers a full screen toggle (stretch / crop video to fit the screen) and you can scrub through the video too. There are no subtitle, DLNA and SRS support.</paragraph>
+			<paragraph>The video player does OK in general - WVGA MP4 videos were not a problem. The player handled a few of the XviD videos up to VGA resolution (and few WVGA) and up to 250-300MB, which really limits the number of things you can watch on the Salsa (a typical XviD-encoded 45-minute episode is 350MB). Most of the DivX files didn?t play successfully though. MKV files are a no-go too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The music player is a looker<subsectionTitle>
+			<paragraph>The standard music library view is the Artists section, but you can easily switch to one of the other six tabs beneath, which are for Albums, All Songs and Playlists.</paragraph>
+			<paragraph>The now playing interface is a Cover-Flow-like visualization of the current playlist ? you can swipe sideways to skip songs or go back. You can opt to view the full playlist if you need to skip more than a few phones.</paragraph>
+			<paragraph>Two shortcuts in the top corners act as toggles for shuffle and repeat. From the context menu, you can share a song (over Bluetooth, email or message) and you can set it as a ringtone.</paragraph>
+			<paragraph>What's really missing here is an equalizer - the Salsa offers nothing, not even a few presets. We realize it's not a music phone but still, an equalizer is something that modern phones should have.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio<subsectionTitle>
+			<paragraph>The Salsa is also equipped with an FM radio, which has a pretty simple interface. It automatically scans the area for the available stations and saves them in a list. Later, you can rename or delete those stations and add new ones too. It also supports RDS and allows loudspeaker playback.</paragraph>
+			<paragraph>One thing that annoyed us about the radio is that it takes quite a while to start and stop ? about five seconds.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Good audio quality<subsectionTitle>
+			<paragraph>When the HTC Salsa is used with an active external amplifier, it has an audio output identical to its Facebook sibling, the HTC ChaCha. This is actually pretty good news as it means that its ouput is pretty good, except for the slightly higher-than-average intermodulation distortion.</paragraph>
+			<paragraph>And when headphones come into play, the Salsa manages to even outdo the ChaCha. You do notice a bit of a rise in the intermodulation distortion reading and stereo-crosstalk, but they both remain pretty decent for the class. The rest of the readings basically remained unchaged, which is a pretty good achievement, too. Unfortunately, volume levels on the Salsa aren't particularly high.</paragraph>
+			<paragraph>And here come the full results so you can see for yourselves:</paragraph>
+			<paragraph> HTC Salsa frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Mediocre 5 megapixel snapper<subsectionTitle>
+			<paragraph>The HTC Salsa packs a 5MP camera for stills of up to 2592x1952 pixel resolution. The phone does D1 videos @ 24fps too, unlike the HD-capable Desire Z, which is based on the same Snapdragon chipset. There?s a single-LED flash, which can also be used as video light.</paragraph>
+			<paragraph>The camera interface is very space efficient. Most of the controls are on the right side of the viewfinder, with the virtual shutter in the center. There?s a virtual zoom slider on the left.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The HTC Salsa features touch focus and face detection; geotagging is enabled too.</paragraph>
+			<paragraph>Continuous autofocus lets the camera focus as you reframe ? quite useful even though the Salsa has a dedicated shutter key for that.</paragraph>
+			<paragraph>Now the HTC Salsa image quality is relatively fine as far as phones go, but it exhibits a pronounced pink spot issue dead center on all photos. The pink spot is so big that it's enough to ruin the color rendering on regular daylight shots. It's most easily visible on our white resolution chart board further down.</paragraph>
+			<paragraph>Other than that noise levels are kept low and the amount of resolved detail is decent. Unfortunately, the camera department remains the weakest point in HTC's otherwise nice products.</paragraph>
+			<paragraph>You can check out the camera samples below.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The HTC Salsa enters our Photo Compare Tool to join the other 5MP shooters. The tool?s page will give you enough info on how to use it and what to look for.</paragraph>
+			<paragraph>The white resolution chart clearly show the biggest issue of HTC Salsa camera - the dreaded pink spot seen on many recent cameraphones. In thins case it's rather big and leaves it's pinkish mark on the otherwise nicely rendered colors. The HTC ChaCha, the other Facebook phone, which we reviewed quite recently, has the exact same issue.</paragraph>
+			<paragraph>   HTC Salsa in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Passable D1 videos<subsectionTitle>
+			<paragraph>The interface of the camcorder is similar to the still camera?s and there are a few customizable options. You can set the video resolution, recording limit and add effects.</paragraph>
+			<paragraph>Autofocus works here too. You can focus before shooting with the camera key and leave it that way or you can use the touch focus later to change it. The Salsa had no problems getting in focus everything, even at very close distance.</paragraph>
+			<paragraph>Videos are stored in 3GP format. The resolved detail in the video is good for the D1 resolution, but the pink spot leaves its mark here as well. The still from the YouTube video sample below clearly shows the pinkish tint.</paragraph>
+			<paragraph>Here goes an untouched D1@24fps video clip.</paragraph>
+			<paragraph>Or you can check out this sample we uploaded to YouTube.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The HTC Salsa has a complete connectivity set. There?s quad-band GSM/GPRS/EDGE and dual-band 3G: 7.2Mbps downlink and 384kbps uplink thanks to HSPA.</paragraph>
+			<paragraph>The local wireless connectivity has Wi-Fi b/g/n but there is no DLNA support. The Bluetooth version is 3.0, but you should not expect high-speed transfers either.</paragraph>
+			<paragraph>When you plug in the microUSB cable you?re presented with a long list of options - Charge only, Disk drive (mass storage), HTC Sync, USB tethering (use the phone as a modem) and Internet pass-through (the phone uses the computers Internet connection).</paragraph>
+			<paragraph>Last but not least is the HTC Portable Hotspot. It feed up to 8 client devices with wireless internet, you can WEP, WPA or WPA2 encrypt the hotspot and you can enable only ?allowed users? to connect or leave it open for anything (unsecure, but the quickest setup).</paragraph>
+			<paragraph>The app can be set to power off automatically after 5 or 10 minutes of inactivity, saving your battery in case you forget to switch it off manually.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good browsing experience enhanced with Flash support<subsectionTitle>
+			<paragraph>The HTC Salsa has the latest Android 2.3 Gingerbread web browser. It also supports Flash (currently 10.3) and can handle 360p videos and some not heavy Flash games.</paragraph>
+			<paragraph>The user interface keeps mostly out of sight, which leaves the entire screen to the web page. The minimalist UI is still quite powerful ? hit the menu key and six keys pop up.</paragraph>
+			<paragraph>There are back and forward buttons, adding and viewing bookmarks and managing the open tabs. Finally, the More button brings out yet more options ? anything from finding on page and text selection (which works just like in the messaging app).</paragraph>
+			<paragraph>The Salsa browser also supports pinch/double tap zooming and text reflow, which makes it extremely easy to read even longer texts on the phone display. Without text reflow you will either have to zoom out until the text fits (but then it?s too small to read comfortably) or scroll sideways to read each line.</paragraph>
+			<paragraph>Once you select some text, you can copy it, launch the Quick lookup app (which offers Google Translate among other things) or share the text over a message or social networking.</paragraph>
+			<paragraph>The bookmark list shows a thumbnail view of the bookmarked pages and you get a ?most visited? list in addition to the regular history. Tabs are displayed as 3D cards too ? a really neat trick is that if you pinch zoom out beyond the minimum zoom level you go straight into the tab selector. This may be a cool way to manage tabs but too many of them open at once will seriously slow down the browser.</paragraph>
+			<paragraph>The HTC Salsa comes with full Flash support, but given its hardware the best you can extract from it are 360p Flash videos at best and some light Flash games.</paragraph>
+			<paragraph>You could always use the YouTube app though, which partially compensate for the poor Flash videos. Mind you, the Android 2.3 browser has support for HTML5 and its video tag but that is a few years (at best) away from becoming the norm.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>No document viewer in the organizer package<subsectionTitle>
+			<paragraph>The calendar has four different types of view: daily, weekly, monthly and agenda. Adding a new event is quick and easy, and you can also set an alarm to serve as a reminder.</paragraph>
+			<paragraph>The Agenda view shows a list of all the calendar entries from the recent past to the near future. It?s a very handy tool when you need to check your appointments for the next few days.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized with big, easy to hit buttons. Flipping it horizontally enables some more advanced functions like logarithms.</paragraph>
+			<paragraph>The HTC Salsa features an alarm clock application, which can handle multiple alarms, each with its own start and repeat time. The Desk clock app turns your Salsa into a? well, Desk clock. It displays the current time and date and allows you to switch off the display backlighting to save battery power or not disturb at night.</paragraph>
+			<paragraph>The World clock app lets you quickly check the time in different time zones, while the stopwatch and timer apps might come in handy if you plan to take the phone with you when doing sports.</paragraph>
+			<paragraph>The Stocks application gives you quotes from Yahoo finance. The Voice recorder might be quite useful for making audio notes and the weather app brings Yahoo?s weather forecast for your area a click away.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Facebook and Twitter<subsectionTitle>
+			<paragraph>The HTC Salsa has quite a bit of Facebook branding but so far we haven?t really seen anything exclusive to the Salsa in terms of software (aside from the handy functions of the Facebook button, of course).</paragraph>
+			<paragraph>The Salsa comes with the standard Facebook app preloaded, so nothing exclusive on that front either. Still, the official app handles all the functionality of Facebook and receives regular updates, so it's enough we suppose.</paragraph>
+			<paragraph>The latest Facebook app is available, which enables things like Facebook Chat (yet another way to talk to your friends) and Facebook Places (which lets you to check into places, like Foursquare).</paragraph>
+			<paragraph>HTC has made a new app with a dedicated widget called Facebook Chat that shows your Facebook buddies available for chat. And you can chat with them right here of course. It has very simple interface, does nothing beyond the chat functionality but in the end that's all we need, right?</paragraph>
+			<paragraph>There is only one Twitter app that comes preinstalled on the Salsa ? HTC?s Peep. No worries though, it does a very good job, but in case you don?t like it, you can always download another app from the Market.</paragraph>
+			<paragraph>There is one more app worth mentioning - the search app Quick lookup. It lets you enter a query and view the Wikipedia article (formatter for easy reading), search Google, YouTube, use Google Translate or look it up in Google Dictionary.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Market, HTC Hub and HTC Likes will make your phone better<subsectionTitle>
+			<paragraph>The structure of the Android Market is quite simple ? featured apps on top and above them, three sections (Applications, Games and Downloads). There is also a shortcut up there for initiating a search.</paragraph>
+			<paragraph>The Applications and Games sections are divided into subsections (e.g. Communication, Entertainment etc.), so you can filter the apps that are relevant to you. Of course, there is also an option of displaying all apps in bulk, but you?ll probably need days to browse them all that way.</paragraph>
+			<paragraph>There are all kinds of apps in the Android market and the most important ones are covered (file managers, navigation apps, document readers etc.).</paragraph>
+			<paragraph>HTC Likes is an alternative way to browse the Market, which might prove to be more convenient than the vanilla app. It has tabs for Featured and Popular apps, which are presented as 3D cards.</paragraph>
+			<paragraph>To make finding apps even easier, you can see what apps/games your friends have commented on, which is a great way to find recommended apps. Or you can use the HTCSense.com site to look for apps from the comfort of your computer and mark them. Later, you can find them in the Market items tab.</paragraph>
+			<paragraph>HTC Likes pulls apps from the Android Market, but each one comes with an HTC review. You can comment on apps, like and share them via texts or email, even over Twitter and Bluetooth (which just sends a text note with a link to the app).</paragraph>
+			<paragraph>Not quite an app store, but the HTC Hub is a good source of widgets, wallpapers, scenes and skins and also sound customizations ? ringtones, alarms and notification sounds and entire sound sets (a set is a whole package that brings together the other three categories).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HTCSense.com integration<subsectionTitle>
+			<paragraph>HTCSense.com offers some premium features for free (a bit like HTC Locations). The Phone locator can be used to locate your phone if it?s stolen and you can lock it or even erase all the data from it.</paragraph>
+			<paragraph>And don?t worry ? HTCSense.com will back up your Salsa contacts and messages (though contacts should already be safe and sound in the Google cloud).</paragraph>
+			<paragraph>Some other handy features include ring phone (if you?ve lost it in your room and can?t find it), toggles for call and message forwarding. The site also lets you view and edit contacts and view messages. You can compose SMS and MMS messages too ? so you can use the big computer keyboard and you don?t even have to have the Salsa in front of you to send a couple of messages.</paragraph>
+			<paragraph>You can also view your and your friends? Footprints. Finally, HTC Hub lets you browse apps and games on the computer and mark them, which makes them easier to find on the phone later (in HTC Likes). You can?t initiate an app download from the site though.</paragraph>
+			<paragraph>The site is a bit heavy but if you?re using an updated browser you should be fine. However, HTCSense.com failed to load properly in Internet Explorer 9 but it worked once we enabled Compatibility Mode.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Navigation is a powerful tool, but with limited availability<subsectionTitle>
+			<paragraph>The HTC Salsa has a built-in GPS receiver, which managed to get a lock in a minute or so (with A-GPS switched off). If all you need is a rough idea of where you are (within 150 meters) you can use the Cell-ID and Wi-Fi network lock, which is very fast.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we?ve covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere. You can plan routes, search for nearby POI and go into the always cool Street View.</paragraph>
+			<paragraph>Google Navigation is also on board and can do voice-guidance for free. Availability is still limited though, and it relies on Internet connection.</paragraph>
+			<paragraph>Still, even without Navigation, there is some kind of guidance: your route and current location appear on the screen so you'll reach your destination eventually, but you?ll need a co-pilot to read you the instructions for that one.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Shame we didn't think of it first. Facebook has 750 million users. And you don't actually need all of them. Oh well, some of them are obviously a bird, a rodent or a fish but that's not the point. All you need is to get a mere one percent interested in the Salsa or the ChaCha. Stick a phone in the hands of half of that and you may as well clock out and go to lunch.</paragraph>
+			<paragraph>HTC got it all figured out. And no, we're not making fun of the Salsa. Though honestly, we're not sure about the name. Anyway, getting your device to stand out is a tough job. Without the Facebook button, the HTC Salsa is just another midrange HTC droid that can easily get lost in the crowd.</paragraph>
+			<paragraph>The Salsa is supposed to fill the gap between the Desire S and the Wildfire S. HTC do well to give their users a choice in the midrange. But the HTC Salsa fears being squeezed for space between a solid performer and a friendly mini. And the heavier price tag doesn?t help much.</paragraph>
+			<paragraph>  HTC Desire S ? HTC Wildfire S</paragraph>
+			<paragraph>Put the Salsa next to the competition and the Facebook thing is beginning to make sense. With it, the Salsa is an easy phone to market. There are many people out there who don't care about numbers, speed and benchmarks. This phone has a better camera, that phone has a bigger screen. Pixel this, gigabyte that. Now how about this one? This one?s on Facebook ? big time!</paragraph>
+			<paragraph>The rest would be glad to know there's more to the Salsa than a certain blue button. It trumps the Wildfire S with a bigger screen size, faster processor, web Flash support and video calls.</paragraph>
+			<paragraph>Not least, it comes in a solid unibody and a choice of paintjobs. HTC have made the Salsa attractive to the young.</paragraph>
+			<paragraph>But it sure has to work hard to keep their attention. The competition will be looking to balance out the obvious advantage by raising their bid elsewhere.</paragraph>
+			<paragraph>The Samsung I9000 Galaxy S offers a bigger 4" screen, a 1GHz processor and up to 16GB of inbuilt storage. Even the SL variety, which comes with a Super Clear LCD instead of an AMOLED screen is a nice alternative in the same price range as the Salsa.</paragraph>
+			<paragraph>  Samsung I9000 Galaxy S ? Samsung I9003 Galaxy SL </paragraph>
+			<paragraph>Sony Ericsson has the XPERIA Neo to challenge the Salsa, and probably win hands down, if it wasn't for the unibody build and the Sense treatment. But there's another, perhaps even greater, threat looming in Sony Ericsson Xperia ray, which we just recently previewed. It will most likely cost more though.</paragraph>
+			<paragraph>  Sony Ericsson Xperia Neo ? Sony Ericsson Xperia ray</paragraph>
+			<paragraph>An AMOLED screen that we loved and a Symbian Anna upgrade coming up to give the Nokia C7 a new lease of life. With a better display, rich media package and superior connectivity, including free SatNav, the Nokia C7 is worth a look. Not to mention it's quite cheaper. Just be warned that you won't be getting the same level of social service integration.</paragraph>
+			<paragraph> Nokia C7</paragraph>
+			<paragraph>The main pressure on the Salsa will be coming from the Android midrange, where LG and Samsung are traditionally doing well. Windows Phone 7 too is in the picture with a more than solid approach to Facebook.</paragraph>
+			<paragraph>But, the HTC Salsa has just the right reply to all of them. The little blue button does not entitle the HTC Salsa to call Facebook its own. But it gives a certain set of users something to connect with. It may seem a small thing - but the Salsa will only benefit from being focused and knowing its audience. Shame it doesn?t come cheaper. We're ready to like this one. Not so sure about share. At over 300 euro sim-free, it?s a tough one to recommend.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,366 @@
+<review>
+	<title>Samsung Galaxy S7 edge review</title>
+	<description>Stargate</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_s7_edge-review-1409.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Curved 5.5" Super AMOLED display of 1440p resolution; 534ppi; Always On capabilities;</paragraph>
+			<paragraph>Gorilla Glass 4 front and rear panels</paragraph>
+			<paragraph>IP68 certified - dust proof and water resistant</paragraph>
+			<paragraph>USA model: Snapdragon 820 chipset - quad-core Kryo processor (2x 2.15GHz and 2x 1.6GHz cores); Adreno 530 GPU; 4GB of RAM</paragraph>
+			<paragraph>Global model: Exynos 8890 chipset - octa-core processor with four 2.6GHz Mongoose and four 1.6GHz Cortex-A53 cores; Mali-T880 MP12 GPU; 4GB of RAM</paragraph>
+			<paragraph>12MP f/1.7 main camera with phase detect autofocus, optical image stabilization, LED flash</paragraph>
+			<paragraph>2160p video at 30fps; 1080p@60fps; 720p@240fps; HDR</paragraph>
+			<paragraph>5MP f/1.7 front-facing camera, 1440p video recording at 30fps</paragraph>
+			<paragraph>32/64GB of built-in storage; microSD slot up to 200GB</paragraph>
+			<paragraph>Cat.9 4G LTE (450Mbps); Wi-Fi a/b/g/n/ac; Bluetooth 4.2, ANT+, NFC; GPS, GLONASS and Beidou</paragraph>
+			<paragraph>Heart-rate monitor, barometer, SpO2 sensor</paragraph>
+			<paragraph>Wireless charging (Qi/PMA)</paragraph>
+			<paragraph>3,600 mAh non-removable battery, fast charging</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Hefty price tag</paragraph>
+			<paragraph>Sealed battery</paragraph>
+			<paragraph>No IR blaster or FM radio (except for T-Mobile units in the US, so far)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Pushed way out of its comfort zone and into a high-stakes flagship redesign last season, Samsung's back to what it does best -- making itself comfortable at the top of the heap. OK, it sounds like a bold claim but by no means incredible if you've seen the Samsung Galaxy S7 edge.</paragraph>
+			<paragraph>Yet, this isn't exactly a galaxy far, far away. The Samsung Galaxy S7 edge looks a lot like its predecessor, and we've heard a lot of people calling it the same device. Can't blame them really - Samsung indeed focused on refinement this time around and if you caught our regular Galaxy S7 review, you'd know we liked what they come up with.</paragraph>
+			<paragraph>Anyway, the real deal is on the inside. If only you look at the features it brings back, such as water protection and a microSD slot, you may conclude that the Galaxy S7 edge is what the S6 edge should've been.</paragraph>
+			<paragraph>But that's not where the hardware novelties end. We paid due attention to the camera in our MWC coverage and the review of the vanilla Galaxy S7 to conclude that the dual pixel autofocus, wider aperture and bigger pixel size more than make up for the lower sensor resolution.</paragraph>
+			<paragraph>The new flagship wouldn't have done without an engine upgrade - we guess Qualcomm's return as a chipset supplier is another sign of things getting back to normal after the Project Zero coup. The Galaxy S7 pair is powered by either Snapdragon 820, or the latest Exynos 8890, each with 4GB of RAM.</paragraph>
+			<paragraph>There is a bigger display with an always-on option, and a more robust battery too. The Samsung Galaxy S7 edge runs the latest Android of course, skinned with the latest TouchWiz.</paragraph>
+			<paragraph>Samsung did well to bring back two of the most valued features - the microSD slot and water protection but the new design precludes any way of accessing the battery outside an authorized service center. The FM radio and IR blaster are gone for some reason at least in our Exynos version of the handset.</paragraph>
+			<paragraph>Update: A software update has enabled the FM radio at least on T-Mobile S7/S7 edge in the US. It turns out the FM receiver hardware has always been there and was just not enabled at launch. The T-Mobile units are powered by the Snapdragon 820 chipset, so technically the option is there for all variants running on Qualcomm's chip. Our international unit, however, runs on the Exynos 8890 and so far we haven't heard of FM radio enabling update (if there ever will be one).</paragraph>
+			<paragraph>Now, whatever deals there may have been in the debut week - including a free Gear VR headset - the Galaxy S7 edge remains among the most expensive mass-produced phones right now. But if Apple can charge as much, no harm in Samsung trying as well.</paragraph>
+			<paragraph>So, what is the Samsung Galaxy S7 edge really made of and is it worth the asking price? Read on as we try to find out!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Galaxy S7 edge<subsectionTitle>
+			<paragraph>Samsung Galaxy S7 edge comes in a cool black box, which holds a fast-charge-enabled AC adapter, a microUSB cable, the new Samsung headphones, and a microUSB-to-USB adapter. The small thingy came as a surprise to us, but we found it quite helpful - it enables USB OTG letting you connect peripherals and even charge other devices.</paragraph>
+			<paragraph>The headphones are the same as the ones shipping with the Galaxy S6 edge.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Galaxy S7 edge 360-degree spin<subsectionTitle>
+			<paragraph>This season's S7 lineup looks pretty much like their predecessors but Samsung's decision to give the edge model more screen real estate makes sense. Users are given a choice between a 5.5" phablet with a dual-edge curved display and a standard 5.1" screen. The identical display size last year nearly defied the purpose of having a pair of flagships competing against each other.</paragraph>
+			<paragraph>The new Galaxy S7 edge measures 150.9 x 72.6 x 7.7mm. That's 8mm taller and 2mm wider than the S6 edge, and 3mm shorter and narrower than the S6 edge+. These two are a good reference considering the S7 edge sits right between in terms of screen size. The S7 edge weighs 153 grams, which is reasonable for a device of its caliber, yet a good 25g heavier than its predecessor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>So, Samsung is in a way giving the Galaxy S7 edge more responsibilities than to just be the cooler S7 sibling. The 5.5" phablet is giving the S7 series more depth (different user bases) and the regular Galaxy S7 will probably have more breathing space than the S6 last year. That said, Samsung will probably skip the edge+ this time around.</paragraph>
+			<paragraph>With a metal frame bordering the curved 5.5" Super AMOLED screen, and a sheet of curved Gorilla Glass 4 either side, the Galaxy S7 edge is, upon a casual glance, a scaled up S6 edge.</paragraph>
+			<paragraph>But why change, when the Galaxy S6 edge is still one of the best looking devices in the market. The Galaxy S7 edge benefits from some minor touches, mostly in how the contour of the frame and the screen curves feel against your fingertips.</paragraph>
+			<paragraph>So, yes, it's last year's design but still gorgeous - and this year's onyx black flavor certainly helps appreciate it even more.</paragraph>
+			<paragraph>If you passed on the S6 on account of the missing water-proofing, the Galaxy S7 edge is IP68-certified, which means it can survive at 1.5m deep for up to 30 minutes. Even without extra flaps, both the audio jack and the microUSB port are waterproofed. The charging port has moisture detection however and won't let you charge the phone if the pins are wet.</paragraph>
+			<paragraph>The Samsung Galaxy S7 edge is a stunner but this comes at a price. The dual glass design calls for handling with extra care and any sort of a protection case will inevitably cost some style points.</paragraph>
+			<paragraph>It's the handling though that raises a little more concern, especially with the bigger screen - and therefore bigger overall footprint. The phone can be quite hard to pick up from a table because of its dual edge design - glass on the sides has hardly any grip.</paragraph>
+			<paragraph>Worse yet, it seemed our unit needed, at the very least, some tweaking of the palm rejection algorithm. With a hand wrapped around the phone, the S7 edge occasionally detected the palm against the sides rather than taps on screen when trying to make a call, or hit links in the browser. This was particularly aggravating at the few occasions when we needed to pick up the phone and answer a call for example.</paragraph>
+			<paragraph>This could've been only our unit but other than that, the feel of a curvy, smooth and cold Galaxy S7 edge is almost unrivaled.</paragraph>
+			<paragraph>Now, that's something you'll lose if you opt for a bumper case, which however will surely pay off in the long run. We're sure the slightest damage inflicted on a beautiful device like the Samsung Galaxy S7 edge would be bitterly regretted.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>If you are familiar with the Galaxy S6 or S6 edge, there will be no secrets on the S7 edge for you, as all the controls are pretty much identical.</paragraph>
+			<paragraph>Most of the front is occupied by the 5.5" display, which has even less bezel than the S6 edge's screen. Up above is the earpiece, with the familiar bunch of sensors, a status LED, and the 5MP selfie camera.</paragraph>
+			<paragraph>Below the screen is the familiar button layout: the hardware Home Key/fingerprint reader combo, surrounded but the capacitive Back and Task Switcher keys.</paragraph>
+			<paragraph>The metal Power/Lock set is on the right while the volume keys are on the left.</paragraph>
+			<paragraph>The top has the second mic and the card slot. The latter accommodates both nano-SIM and microSD cards and is secured with rubber gasket.</paragraph>
+			<paragraph>There is no IR blaster this time around, so no remote control duties on the S7 edge.</paragraph>
+			<paragraph>The audio jack, microUSB port, the primary mic, and the loudspeaker are all at the bottom.</paragraph>
+			<paragraph>Finally, the new 12MP camera is on the back, still accounting for a small hump, but a lot less conspicuous than on the previous generation. Its companions are, as usual, a single LED flash and a heart-rate sensor.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Super AMOLED screen is now bigger at 5.5", but the dual-edge design and minimal bezel keep the illusion of a much more compact handset. In fact, just put it next to the iPhone 6s Plus, which also has a 5.5" screen diagonal and you'll see the amazing difference in footprint for yourself.</paragraph>
+			<paragraph>The curve on the side is fairly minor, and the left and right edges of the screen remain mostly usable. The bezels are about 2mm thinner than we left them on the S6 edge, which is nice.</paragraph>
+			<paragraph>The Quad HD (1,440 x 2,560) resolution may have looked like an overkill on the Galaxy S6 series, but it's a mandatory feature for the S7 lineup. Samsung's push toward VR certainly needs every pixel available so Quad HD is perhaps the meaningful, if not the minimum, screen resolution for a pleasant experience with the Oculus-powered Gear VR headset.</paragraph>
+			<paragraph>Using the Galaxy S7 edge with a Gear VR is quite an impressive experience especially at first, and will get better with more and relevant content. Right now, there are plenty of photos, videos, and movies available for you to explore, and quite a few games. To be fair, however, individual pixels were visible in spite of the Quad HD resolution and the high 534ppi. Optical focusing issues seem to be another issue with some users at this stage to the point where they are not able to focus the image. It surely is promising, buy we can't wait to see GearVR Generation 2.0 whenever it comes out.</paragraph>
+			<paragraph>The Galaxy S7 edge has the same maximum screen brightness as the S7 when you push manually the brightness slider all the way to the right. In overdrive mode, which kicks in under bright sunlight if you have Auto brightness ON, it goes quite a bit higher than the S7 to 610nits.</paragraph>
+			<paragraph>The minimum display brightness is 1.8nits, which is perfectly suitable for late-night reading in a dark room and it's even a bit lower than the S7.</paragraph>
+			<paragraph>Color accuracy of the screen is top notch as long as you opt for the Basic display mode. The other available modes make colors pop but they are nowhere near as color accurate as Basic (Average DeltaE 2000 of 0.8 and Max DeltaE of 1.5). For comparison, the Avg DeltaE in Adaptive mode is 7.2.</paragraph>
+			<paragraph>The Galaxy S7 edge aced our sunlight legibility test, which means hassl&#x435;-free display performance even under bright sunlight. The score is pretty much the same as the Galaxy S7's, but a whisker lower than the S6 edge+'s.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>The curved sides of the display do reflect the light differently so sometimes there are brighter reflections there. It's not enough to be an issue, though.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S7 edge battery life<subsectionTitle>
+			<paragraph>Battery capacity is one more key area where Samsung gives you more than with the Galaxy S7. The smartphone packs a 3,600mAh power bank, a substantial increase over the S6 edge's 2,600mAh and the S7's 3,000 mAh capacity. Okay, the battery is still sealed, but that's a lot easier to live with when there's simply more of it.</paragraph>
+			<paragraph>It's also quick to charge, even if the S7 edge only supports Qualcomm's QuickCharge 2.0 standard and not the latest version 3.0. Samsung promises 0 to 100% in 90min for the S7, but doesn't say just how rapidly those percentages climb from flat to, say, 70% where it starts to taper off.</paragraph>
+			<paragraph>Much like the company's last-year flagships, the Galaxy S7 edge is also capable of wireless charging with pads compliant with both Qi and PMA. Samsung will also sell you a fast wireless charging pad, which can fill up the battery nearly as fast as a cable will.</paragraph>
+			<paragraph>Now, let's move on to our test results, where the S7 edge does indeed outlast its predecessor and its smaller sibling. A day of voice calls on a 3G network is five hours more than the S6 edge, and the 20 hours of video playback are about 8 on top of last year's model, and an impressive achievement in its own right. Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+			<paragraph>Its web browsing also went up with 2 and a half hours up to 13 and a half hours with the built-in TouchWiz browser.</paragraph>
+			<paragraph>The Always On display feature was always going to be a battery drainer, no two ways about it. Samsung's claim that it would cost you 1% per hour seems about right and it does leave a huge impact on the overall endurance rating. That's because our proprietary score also includes a standby battery draw test, which we carried out with the AOD off and then once again with AOD on. These results are not featured in our test scorecard but are calculated in the total rating.</paragraph>
+			<paragraph>Since its launch, the AOD setting has been optimized and now allows you to schedule times to activate it. Of course, your mileage will vary depending on how long you keep the phone out of your pocket.</paragraph>
+			<paragraph>The Galaxy S7 edge did splendidly with an Endurance rating of 98 hours - that's the amount of time the S7 edge would last on a single charge if you use it for an hour of 3G calls, an hour of web browsing, and an hour of video playback each day. Turning on the AOD drops the rating down to 67 hours - a huge impact, but still a good score - that's few hours short of three days.</paragraph>
+			<paragraph>Finally, if you want to use the Edge feeds, which require the screen to sustain the capacitive sensors always on, you will lose additional 7 hours, bringing the total endurance down to 60 hours.</paragraph>
+			<paragraph>Update: We've managed to acquire the Snapdragon 820 flavor of the Samsung Galaxy S7 edge and we re-ran our battery routine. The call test was alright, but the video and web battery tests dropped down by 20%. The standby endurance turned out a tad lesser than the Exynos model, and thus the final battery rating dropped down to 87 hours. If you want to use the Always-On Display, then the rating is reduced further down to 63 hours. While we are not happy by the 10% drop in the final score, 87 hours is still quite a respectable number for a flagship like the S7 edge.</paragraph>
+			<paragraph>The battery testing procedure is described in detail in case you're interested in the nitty-gritties. You can also check out our complete battery test table, where you can see how all of the smartphones we've tested will compare under your own typical use.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>Samsung's Exynos 8890 chipset is paired with an LTE Cat. 9 modem. Theoretical maximums are 450Mbps of downlink and 50Mbps of uplink. If you have access to an HSPA network only, you'll get a maximum of 42Mbps and 5.76Mbps respectively.</paragraph>
+			<paragraph>The Samsung Galaxy S7 edge supports Wi-Fi ac networks for fast local connectivity. Wi-Fi, a/b/g/n at 2.4GHz and 5GHz networks are also supported, of course. Then there's Bluetooth 4.2 LE (for smartwatches, sport sensors and such) and apt-X codec (for high-quality audio streaming).</paragraph>
+			<paragraph>NFC support is enabled, used for Samsung Pay, as well as for pairing with other devices and reading NFC tags as well.</paragraph>
+			<paragraph>The microUSB 2.0 port on the bottom of the phone supports fast charging and regular USB 2.0 transfer speeds. With the included adapter you can easily use the USB Host and OTG support, connect a mouse or a keyboard, USB flash sticks, or just use the Galaxy S7 edge as a power bank.</paragraph>
+			<paragraph>We noticed the Galaxy S7 edge lacks MHL support, which should render wired TV-out impossible. But the wireless options are there.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Samsung Galaxy S7 edge runs a TouchWiz-skinned Android 6.0.1 Marshmallow and is among the company's first smartphones to offer it right out of the box. The Marshmallow OS has native support for fingerprint readers, app manager, Doze mode, among other tweaks.</paragraph>
+			<paragraph>The fingerprint reader used on the S7 edge is the same as the one on the Galaxy S6 and Note5. It recognizes a finger in under a second. All it takes to unlock the phone is to press the Home key and leave your finger for a moment longer while the fingerprint reader does its thing.</paragraph>
+			<paragraph>The screen features a new Always-On function, which is said to draw 1% battery charge per hour. Besides the time and date, and missed notifications, the screen shows a subtle wallpaper to make things a little fancier. You can download additional always-on themes from the store.</paragraph>
+			<paragraph>You can set up a time period, during which the feature will be on - if it overlaps with the Night Clock function below, the Night Clock will take precedence.</paragraph>
+			<paragraph>The Night Clock is also part of the Always-on Display feature now - it can replace the big clock with the edged Night Clock at night. This way the screen will be less lit and more pleasant for the eyes in the dark.</paragraph>
+			<paragraph>Size aside, the homescreen is perfectly identical to the TouchWiz home of other Samsung phones. Even the number of columns is the same - 5 icons in a row, same as the S6.</paragraph>
+			<paragraph>Depending on where you are in the world, your leftmost homescreen would be either the Flipboard-powered Briefing or a new service called Upday (this is the one we got on our international unit). The two do pretty much the same thing ? they aggregate news according to a pre-defined list of interests.</paragraph>
+			<paragraph>The Notification area is pretty busy by default. It starts with a scrollable line of quick toggles on top, then a brightness slider, then the Quick connect button. You can hide the latter from the Edit option, which also lets you re-arrange the quick toggles.</paragraph>
+			<paragraph>The Galaxy S7 edge user interface is fully themeable. We only got one theme pre-installed, but the Theme store has many more to download. By the way, there is an option to disable the app drawer, so you may want to give it a try.</paragraph>
+			<paragraph>Split-screen multitasking is supported on the S7 edge, and the 5.5" screen was born to do it. Even at half a screen, apps get plenty of room (Material design likes a lot of padding though). As always, only supported apps can work in split-screen, but Samsung's implementation is the most widely supported. Floating app windows are supported for some apps, too.</paragraph>
+			<paragraph>Some cool gestures are available for the Galaxy S7 edge - you can flip the phone for mute, swipe your palm for screenshot, double-tap the Home key for quick camera access, quick call, among others.</paragraph>
+			<paragraph>The Samsung Galaxy S7 edge comes free of bloatware, but has a few Microsoft apps pre-installed (MS Office, OneDrive with 100GB for 2-years, Skype). The phone starts with 32GB, but a quarter of that (7.5GB) is left to the system. You can get rid of the MS apps and some of the Google's apps (Drive, Photos, Hangouts), and you can free up additional 500MB.</paragraph>
+			<paragraph>Long story short - once we were done setting up our accounts, installed the necessary social apps, three games, and seven benchmarks (about 1.5GB of size), we were left with 20GB free space in total.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Game Launcher<subsectionTitle>
+			<paragraph>Samsung Game Launcher is a new app/service, which groups all of your games at one place. But that's just the beginning. The Game Launcher has a few powerful tricks, some of them a must have for avid games.</paragraph>
+			<paragraph>First, the Game Launcher has two Power Saving game modes - Save Power and Save Maximum Power. The Save Power options caps the frame rate at 30fps (instead of 60fps), and lowers the resolution. The Maximum mode furtherly lowers the resolution in addition to the 30fps cap.</paragraph>
+			<paragraph>Next, the Game Launcher has its own DND mode - you can disable all alerts during a game.</paragraph>
+			<paragraph>Finally, there is the Game Tools key. It's a small floating virtual key you can position pretty much anywhere on the screen. Once tapped, it reveals additional actions such as No Alerts, Lock Recent and Back keys, Minimize Game, Take Screenshot, and Record.</paragraph>
+			<paragraph>Locking the capacitive keys is crucial for a seamless game experience, as we found ourselves closing accidentally a game two times in just under five minutes!</paragraph>
+			<paragraph>The Record option is rather interesting. It captures a video of your game, but you can choose to either capture the in-game audio or record external sound using phone's microphone. The video recording also supports a watermark - you can set a static picture, or use the front camera to embed yourself in the video. YouTubers will find those very useful.</paragraph>
+			<paragraph>The Game Launcher also offers Top Charts and Featured Videos tabs, where you can see check some nice game stats, and find helpful videos about your games.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Edge features<subsectionTitle>
+			<paragraph>Since it's an edge model, the Galaxy S7 edge comes with a few exclusive software features to utilize the curved space. With the addition of Always-on option though, one of the highlights from the previous edge generation has been moved to its settings - it's like a night mode of the big always-on screen.</paragraph>
+			<paragraph>There are three edge features on the Galaxy S7 edge - Edge Panels, Edge Feeds, Edge Lighting.</paragraph>
+			<paragraph>The Edge Panels are available everywhere throughout the interface and you can assign the position, size and transparency of the edge shortcut. Those new panels are more like some exclusive mini homescreens.</paragraph>
+			<paragraph>One of the panels gives you app shortcuts, another has your favorite task hotkeys, then there is the one holding your favorite contacts. There are even more panels - Bookmarks, Weather, Calendar with Events, My Places, Compass (with ruler and flashlight). You can rearrange the panels as you wish, you can download more from the store, too. While those panels are cool, and you can have them all at once (they are swipe-able), we found it pointless to have more than one.</paragraph>
+			<paragraph>The edge feeds are back - those can be awoken with a short swipe and then swipe down gesture and it will light up brightly. If you have more than one feed (RSS, missed notifications, CNN, activity tracking), you can scroll between the different info feeds with a swipe.</paragraph>
+			<paragraph>The edge feeds disable your always on screen and then lights up, which is rather awkward and honestly, unnecessary. The always-on display is more than capable to handle some of these functions and you don't need special gestures to activate it (it's always on, remember).</paragraph>
+			<paragraph>Edge lighting lights up by a notification or a call only if your device is lying face down. You can even reject a call with a pre-defined message by placing a finger on the heart-rate sensor for 2 seconds.</paragraph>
+			<paragraph>While those edge features are cool, the always-on screen rendered most of them unnecessary. We don't mind the curved screen as a design element, but we can't imagine anyone using these software gimmicks for more than a show off.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Gear VR and Oculus<subsectionTitle>
+			<paragraph>Samsung is really determined the make the Virtual Reality a mainstream thing this year. It even used VR headsets to stream its last UNPACKED event to all attendees on the spot. And pre-orders of the Galaxy S7 or S7 edge came with a free Gear VR headset on many markets.</paragraph>
+			<paragraph>But the company made sure it provides the users with a full package of VR gear - you can opt additionally for the Gear 360 camera, which will snap VR photos and videos for you.</paragraph>
+			<paragraph>The Gear VR is powered by Oculus technology so all the Oculus VR content is available to the Gear VR users as long as they have the Galaxy S6, S6 edge, S6 edge+, Note5, S7, and S7 edge. You just snap the phone in the slot and you are ready to go.</paragraph>
+			<paragraph>Naturally, we got our hands on a Gear VR headset and did a quick tour with the Galaxy S7 edge.</paragraph>
+			<paragraph>The Gear VR puts you in a comfortable room, which should help you get used with the whole VR thing. Some people may get dizzy at first, other may even become sick, so you should experiment with the Gear VR gradually - try it for a few short minutes at first before having a longer session.</paragraph>
+			<paragraph>So, in this VR room you get the default menu. Oculus provides enough content to get you started - there is a whole world of 360 photos within the Oculus Photos gallery. They are grouped by continents, countries, and cities. There are a few other galleries for different contest winners, your favorite 360 photos, the 360 photos you've preloaded on your phone, among others.</paragraph>
+			<paragraph>The Oculus Photos app has so many images of different places that you can lose weeks before you see them all. And it may be even impossible to do so, as new VR shots are added regularly.</paragraph>
+			<paragraph>The Oculus Video hub isn't as impressive as the Photos app. There are quite a few videos to get you started, but you should refer to other sources rather quickly (Facebook, YouTube, etc.). If a video is not a VR one, you can choose a cinema setup to fill the empty 3D space, which is quite a cool gimmick and we had fun time using it.</paragraph>
+			<paragraph>There are a few games available in the Oculus Store, but most of them were awful. Once the games advance enough they will make you use an Xbox or similar controller and then the Gear VR and Oculus will be fully utilizing the VR capabilities. For now - the Oculus games are just demos of the VR tech rather than something meaningful and entertaining.</paragraph>
+			<paragraph>As far as the quality is concerned - graphics quality is far from ideal, but we didn't expect them to be. The resolution is low and you can see the individual pixels and this may take time to get used to. In the 4K era going back to something close to the VGA resolution isn't a small bite and not everyone will be able to switch that fast.</paragraph>
+			<paragraph>We don't see the Gear VR as a gaming tool, but more like a multimedia explorer. Somewhat we doubt the games will be its moving force, at least today.</paragraph>
+			<paragraph>But we bet user-created multimedia content should provide a big enough hype to get more and more people hooked up. What's better than reliving your awesome vacations and memories once again, at the comfort of your couch?</paragraph>
+			<paragraph>We don't know about the gaming thing yet, but we'd take a Gear 360 camera and a Gear VR headset in a heartbeat just to explore the world from home. And hopefully, the VR world quality will get better.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Update: We got our hands on the Snapdragon 820 flavor of the Samsung Galaxy S7 edge, and ran all the benchmarks. The results came equally impressive.</paragraph>
+			<paragraph>The Samsung Galaxy S7 edge unit we got is the global version, powered by the Exynos 8890 chipset. Selected markets will be getting Snapdragon 820-based units.</paragraph>
+			<paragraph>The Exynos 8890 chipset is Samsung's first silicon to come with custom high-performance CPU cores called Mongoose. The eight-core processor of the Exynos 8890 has four Mongoose cores ticking at 2.6 GHz and four (low-power) Cortex-A53 running at 1.59 GHz. Oddly, only two of the Mongoose cores can run at the maximum of 2.6GHz, if you need all of them - they can go as high as 2.3GHz. We suspect the clock limitation is due to thermal restrictions.</paragraph>
+			<paragraph>The GPU inside the Exynos 8890 is the most powerful ARM Mali to date - the Mali-T880 MP12, which means it has 12 processing cores.</paragraph>
+			<paragraph>In case you get the Snapdragon 820 model of the Galaxy S7 edge - this means you will be getting a quad-core processor with custom high-performance Kryo cores (2x 2.15GHz, 2x 1.6GHz). The GPU in charge of graphics is the most powerful Qualcomm Adreno model - the Adreno 530.</paragraph>
+			<paragraph>Whatever flavor of the S7 edge you get, 4GB of LPDDR4 RAM will be available at your disposal. Half a gig is available to the GPU, while the rest 3.5GB are handled by the OS.</paragraph>
+			<paragraph>Let's cut to the chase. The first bench we ran is GeekBench 3. The 2.6GHz clocked custom Mongoose CPU core turned out a great performer - about 30% faster than the Cortex-A57 inside the S6 edge+.</paragraph>
+			<paragraph>The Qualcomm's Kryo (2.15GHz) core inside the Snapdragon 820 in the Xiaomi Mi 5 and the S820 model of the Galaxy S7 edge turned out the better though - about 7% faster than the Mongoose. That's not that a big gap and nobody will be able to tell the difference in real life.</paragraph>
+			<paragraph>It seems both Samsung's and Qualcomm's custom processor cores turned out for the better and we like where things are going. It was about time the CPU race switch from core count competition to actual processing power and optimizations. Both new entries came very close to Apple's 1.84GHz Twister CPU champ, which means Apple's first spot in this department will be threatened in the months to come.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>When using all eight cores of the Exynos 8890 processor, the Galaxy S7 edge came on top of all devices we've tested so far. The extra four Cortex-A53 cores have made the difference and pushed the Exynos quite ahead of the Snapdragon 820 variant and the previous generation Exynos chip (Galaxy S6 edge).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The compound AnTuTu 6 benchmark (CPU, GPU, RAM) puts the Galaxy S7 trio on top of all smartphones we've put through the same test. The S820-powered LG G5 and Xiaomi Mi 5 finished a hair behind the duo though, while the Snapdragon 820 Galaxy S7 edge topped the chart.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The BaseMark OS II 2.0 is another compound test, which in addition to the CPU, GPU, RAM trio tests the storage, OS and the web browsing performance. The score puts the Galaxy S7 edge right next to the rest flagships - impressive, yet still behind the iPhone 6s Plus. The S820-powered S7 edge, on the other hand, was the one to finally put the iPhone 6s Plus at the runner-up spot.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Now, let's check the graphics out. The offscreen GFX Benchmark 3.1 Manhattan test puts the Mali-T880MP12 (Exynos 8890) on par with the Adreno 530 (S820) and impressively twice times better than the GPU inside the Galaxy S6 edge. This means whatever version of the Galaxy S7 edge you get, the graphics performance should be the same - a flagship worthy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Quad HD resolution takes its toll on the onscreen test - the Xiaomi Mi 5 does a lot better, yet the Galaxy S7 edge doubles the S6 edge's score. If the S820's Adreno 530 was to run on the same resolution, we bet the result would turn up the same as the S7 edge.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>BaseMark X and BaseMark ES 3.1 scores prove both Galaxy S7 edge models are among the most powerful smartphones when it comes to raw GPU power right now.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark ES 3.1 / Metal<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Galaxy S7 edge, just as expected, is one of the most powerful smartphones to date. The new processor and graphics provide enough boost over the previous generation to make for a worthy purchase - no matter if you have the Exynos or the Snapdragon model.</paragraph>
+			<paragraph>Both the Exynos 8890 and Snapdragon 820 chips run impressively cool even at the highest of pressure. In fact, we managed to make the S7 warm only when using the Gear VR.</paragraph>
+			<paragraph>There is nothing that the Galaxy S7 edge can't handle and there won't be in the years to come. And thanks to the fast Mongoose/Kryo cores, the Android OS and Touch/Wiz combo have never been smoother and faster. The single-core performance is crucial for the operating systems and finally, that seems guaranteed to be stutter-free.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony and loudspeaker<subsectionTitle>
+			<paragraph>The Samsung Galaxy S7 edge is available as a single-SIM phone, but there is a model with dual-SIM support, too.</paragraph>
+			<paragraph>The dialer and the phonebook are pretty much the usual TouchWiz deal.</paragraph>
+			<paragraph>The Do Not Disturb mode can be put on an automated schedule. When it's on, only priority notifications can get through and you decide what counts as "priority" - it can be anything from calls from select contacts to reminders from key apps.</paragraph>
+			<paragraph>The Galaxy S7 edge did the same as the Galaxy S7 on our loudspeaker test and posted a Good mark. While the loudness isn't among the best ones we've heard, the speaker sound quality is very good.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Text input<subsectionTitle>
+			<paragraph>The Galaxy S7 edge uses an updated version of the Samsung Keyboard. It's quite feature-packed, with a dedicated numbers row, a row above that for word suggestions and additional characters on each key (accessible via long-press).</paragraph>
+			<paragraph>If that seems too tall, you can scale the keyboard down (or up, if you want bigger keys). We don't like that the Space key is quite short, though.</paragraph>
+			<paragraph>Additional typing tools include swipe input, My Hot Keys (predefined phrases that can be typed by long-pressing a number key) and voice dictation.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>Samsung continues to bundle the Microsoft app package that includes Word, Excel, PowerPoint, OneNote and Skype.</paragraph>
+			<paragraph>Google Drive is pre-installed, however, the actual document editors are not (they are a free download, though).</paragraph>
+			<paragraph>The Samsung-customized web browser features Web sign in - a feature that works as a password manager secured by your fingerprint. This makes log-ins as simple as unlocking the phone.</paragraph>
+			<paragraph>S Health is on board and it can fully utilize the heart-rate and blood oxygen sensors. It also tracks walking/running/cycling and you can manually input water and coffee intake and so on.</paragraph>
+			<paragraph>Smart Manager is a hub that controls several key areas - battery, RAM, Storage and Device security. This gives you tools to track down apps that drain the battery, use too much RAM and clean-up unnecessary files.</paragraph>
+			<paragraph>The Device Security tab lets you activate KNOX (protects the phone and OS from hacking but makes for longer boot times) and scan for malware. The My KNOX app lets you separate work and corporate apps and access by creating a secure, isolated space on the phone, which becomes inaccessible as soon as KNOX detects an unauthorized change in the OS.</paragraph>
+			<paragraph>The My Files app is the default file browser. It features Google Drive integration. You can ZIP folders to make them easier to share as a single file.</paragraph>
+			<paragraph>Finally, there's Galaxy Apps, Samsung's own app store. Galaxy Essentials is a good place to find great tools (like Kids Mode), but for general app shopping, you would probably be better off with Google Play.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The TouchWiz gallery orders photos by time, but you can switch to folder-based Album view. Thumbnail sizes can be resized with a pinch gesture and the album selection pane on the left can be hidden.</paragraph>
+			<paragraph>Sharing options include wireless printing, Android Beam and Wi-Fi Direct, but no DLNA (or other way to send an image to your TV).</paragraph>
+			<paragraph>Several image editing tools are available - from basic cropping, to collage making, to a more capable editor (which supports image correction, effects and drawing).</paragraph>
+			<paragraph>An additional option lets you pick several photos and stitch them into an animated GIF.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player with great EQ features<subsectionTitle>
+			<paragraph>Google Play Music is the default player for your tunes on the Galaxy S7 edge. The app has been treated to the material design a while ago, and its functionality remains unchanged - it can play your local files, as well as stream music from the cloud.</paragraph>
+			<paragraph>The Samsung sound enhancements are available, of course, you can access them from Play Music, too. They include the SoundAlive tool, which has an intuitive interface to tuning the equalizer (a manual 7-band equalizer is available for more knowledgeable users).</paragraph>
+			<paragraph>Adapt Sound is even simpler. It tunes the EQ to your hearing and your particular pair of headphones by playing multiple frequencies and asking how well you hear them. Smart Volume automatically adjusts the volume of tracks from multiple sources.</paragraph>
+			<paragraph>UHQ sound resolution enhancer is available, Surround sound emulation and Tube Amp Pro simulator are onboard, too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>There is no video player app pre-installed and the Gallery handles the videos by default. If you want a dedicated app, you can grab the TouchWiz Video player from the Galaxy Apps repository. The default video player supports pop-up window, a feature dating back to the Galaxy S III.</paragraph>
+			<paragraph>It has full subtitle support with advanced features to modify their appearance. The app lets you play only the audio (if you just want to listen to a music video) and to play the audio via Bluetooth (if you have a BT-enabled speaker handy).</paragraph>
+			<paragraph>There's an "Editor" option too though that may be overstating it - it just lets you trim the video. If you want a more capable video editor, there is such in the Galaxy Apps store for free, courtesy of Samsung.</paragraph>
+			<paragraph>Both Video apps were once part of the TouchWiz package, but Samsung decided to get rid of as much bloatware as possible and left the choice of apps to you.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output as clean as they get<subsectionTitle>
+			<paragraph>The Samsung Galaxy S7 edge delivered perfectly clean output with an active external amplifier - hardly a surprise given its family results lately. Volume levels were just above average so there might be room for improvement there, but the overall showing is still excellent.</paragraph>
+			<paragraph>Somewhat surprisingly, stereo quality when we plugged in our standard headphones set dropped less than it did on the vanilla Galaxy S7. Given that the non-curved flagship was already impressive in that aspect, you can easily guess that the edge flavor was among the best we?ve tested. An impressive result indeed.</paragraph>
+			<paragraph>Anyway, here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Back to basics<subsectionTitle>
+			<paragraph>Samsung Galaxy S7 edge comes with a 12MP main camera (4:3 aspect), compared to the 16MP (16:9) snapper on the Galaxy S6 series. The field of view is not as wide as on the S6 on the horizontal but the S7 edge captures more when it comes to the height of the scene.</paragraph>
+			<paragraph>Samsung used completely new hardware for the Galaxy S7 edge camera though. The sensor packs fairly large 1.4µm pixels and it sits behind the brightest aperture on a phone yet - f/1.7. All this is designed to collect more light and coupled with OIS it makes for great low-light shots.</paragraph>
+			<paragraph>The image sensor features Dual Pixel focusing - it's a Phase Detection autofocus, but Samsung claims it's four times faster. And it is, we tested that too and it ran circles around the iPhone 6s. The S7 edge does great whatever the scene, focuses instantly, and gets it always right. It's a real pleasure to observe the AF in action.</paragraph>
+			<paragraph>The one thing the 'S' series in still handing on is the single-LED flash. It's powerful, but maybe a dual-tone flash may turn for the better in few scenarios. Still, with the big pixels, wide aperture, and OIS you'll hardly need to use the flash anyways.</paragraph>
+			<paragraph>The camera is quick to launch and shot to shot time is lightning fast. The available shooting modes include panorama, selective focus, video collage, live broadcast, virtual shot, slow-motion, hyperlapse. There is also a manual mode (Pro mode) where you can tweak ISO, shutter speed, focus, white balance, exposure, among others.</paragraph>
+			<paragraph>Motion photo is available, too - it captures a three-second video before you've pressed the shutter and embeds it within the .jpg file. Upon the release of the phone, you could only view the videos on the device itself, or on other S7/S7 edge units.</paragraph>
+			<paragraph>Today, a few updates later, you can share the still image or the video separately with virtually anyone. Depending on the chosen aspect of the photo, you'd get either 960x720px or 1280x720px videos in an .mp4 format.</paragraph>
+			<paragraph>You can download even more shooting modes from the store such as Animated GIF, surround shot, Dual Camera, Sports.</paragraph>
+			<paragraph>The Galaxy S7 edge stills came out excellent, but we expected nothing short of that as the Galaxy S6 series set the bar high. The resolved detail is impressive, the color reproduction and white balance are spot-on. There is very little noise, and also no artifacts or oversharpening. Finally, the dynamic range is among the best we've seen on a mobile and we found almost no use case for the HDR or even the Auto HDR setting.</paragraph>
+			<paragraph>There is something Samsung could have done better though - the rendition of the foliage. It's a bit of a mashup and probably needs a finer tuning on the processing algorithm. Don't get this wrong - compared to the iPhone 6s Plus foliage, the S7 edge does an AAA job, but it's just that the Galaxy S6 edge renders it better.</paragraph>
+			<paragraph>Still, the Galaxy S7 edge snaps the best pictures we've seen from a smartphone camera to date and with the return of the water-protection, it's an excellent portable camera for any trip.</paragraph>
+			<paragraph>And here are some close-up shots we took with the S7 edge, which are equally impressive - the detail, contrast, and colors are gorgeous.</paragraph>
+			<paragraph>The HDR mode does a great job of lighting up the shadows and not changing anything in the highlights. Thanks to the Live HDR mode you can see the result of the HDR mode even before you've snapped the image.</paragraph>
+			<paragraph>The Galaxy S7 edge features much better autofocus, brighter F/1.7 lens, and optical image stabilization. Yes, we know we said that already, but do you know what all of these mean? Great low-light photos, of course!</paragraph>
+			<paragraph>And the Galaxy S7 edge lived up to our expectations - the low-light samples, whether indoors or outdoors, blow away the competition. Sure, you can tweak any phone on manual mode and take a shot, but it takes time and a tripod. We took all of our images handheld just tapping the shutter - no tripods, no hassle, nothing.</paragraph>
+			<paragraph>The iPhone 6s Plus, one of the hottest flagships around, also features a 5.5" display and a 12MP main camera. We snapped a few samples for comparison, and you can easily pick the Galaxy S7 edge as the winner. The iPhone samples are great by themselves, they are just not that good as the Galaxy's. The resolved detail and the low noise should become a signature for Samsung's flagship snappers.</paragraph>
+			<paragraph>The Galaxy S7 edge snapper doesn't have as wide field-of-view as the Galaxy S6 camera on the horizontal plane, but as these camera samples will show you, the level of detail is mostly equivalent.</paragraph>
+			<paragraph>The Samsung Galaxy S7 edge shoots panoramas with very high resolution - 4,000 px tall if you hold the phone upright. The software and the fast chipset make shooting very simple, you just start panning in one direction.</paragraph>
+			<paragraph>The resulting images are rich in detail and aside from the moving cars, there are no major stitching artifacts. The resolved detail is as impressive as on the 12MP stills, as is the dynamic range and produced color.</paragraph>
+			<paragraph>The Galaxy S7 edge is equipped with a 5MP front-facing camera, which has a similar F/1.7 aperture and offers Live HDR and color filters as well. It has a 120-degree WideSelfie mode, so it can easily capture group selfies. You can snap selfies with a tap on the heart-rate sensor on the back of the phone.</paragraph>
+			<paragraph>The resolved detail is about average, as is the dynamic range, but the colors and contrast are great.</paragraph>
+			<paragraph>Here's the Samsung Galaxy S7 edge in our Photo quality comparison tool, where you can pit it against the Galaxy S6 edge, the iPhone 6s Plus, among others. The Galaxy S7 edge camera easily aces all tests and becomes the champ in the low-light scene.</paragraph>
+			<paragraph>The bright f/1.7 lens and bigger pixels allow the S7 edge to capture the dark sample with an ISO as low as ISO 200 and a shutter speed of 1/100s. There is very little noise and it's really hard to tell the low-light sample from most of the competition's samples from the brightly lit scene.</paragraph>
+			<paragraph>   Samsung Galaxy S7 edge in our Photo comparison tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Full-featured video recording<subsectionTitle>
+			<paragraph>The Galaxy S7 edge can capture video in 4K (2160p/30fps), 1080p/60fps, 1080p/30fps, as well as the less common 1440p/30fps and lesser resolutions. From the shooting modes you can select slow motion video (720p/240fps), and Hyperlapse. The latter isn't at a fixed speed, instead the S7 edge analyzes the footage and uses a variable speed depending on the action or lack thereof.</paragraph>
+			<paragraph>4K videos are recorded with a bitrate of 48Mbps, 1080p/60fps are 28Mbps, while regular speed 1080p/30fps get 17Mbps. Either way audio is recorded in stereo at 256Kbps, so no complaints on the numbers.</paragraph>
+			<paragraph>None when it comes to video quality either. 2160p videos are packed with detail, you can extract frames and have them pass as an 8MP photo, almost. Color reproduction is the same as still images, saturation neither drops, nor is additionally pumped up.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>1080p/60fps is the one area we experienced some issues with focus hunting, apparently the S7 edge thinks that since we're using the higher framerate, we must be following some action closely. Other than that, videos are smooth and detailed, perhaps with a little noise in the darker areas. At 30fps the focusing is calmer and doesn't give us any reasons to protest.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download the untouched video samples: 4K at 30fps (11s, 66MB), 1080p at 60fps (12s, 42MB), 1080p at 30fps (9s, 20MB).</paragraph>
+			<paragraph>Here is a hyperlapse sample you may want to check out. It's a short 4s 1080p video (10MB).</paragraph>
+			<paragraph>Finally, you can use our Video Compare Tool to see how the Galaxy S7 edge stacks against the competition when it comes to video capturing. We'll give you a hint - it's a bar setter.</paragraph>
+			<paragraph>   Samsung Galaxy S7 edge in our video compare tool: 2160p resolution</paragraph>
+			<paragraph>   Samsung Galaxy S7 edge in our video compare tool: 1080p resolution</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S7 edge key test findings<subsectionTitle>
+			<paragraph>A sight to behold, the design carefully refines the S6 edge, with slimmer bezels and subtle curves on the back. Grip is questionable and the screen sometimes registers your palm rather than your fingertips but one-off looks and the amazing feel in hand more than compensate for that.</paragraph>
+			<paragraph>Water and dust protection will give you peace of mind in adverse environmental conditions.</paragraph>
+			<paragraph>The AMOLED display looks pleasing in default mode, near-perfect color accuracy can be achieved with a flick of a switch. Sunlight legibility is great, and maximum brightness has been further improved compared to the S6 edge.</paragraph>
+			<paragraph>The Always On feature is useful though it does inevitably take a toll on battery life.</paragraph>
+			<paragraph>There's no wired video out or FM radio and the IR emitter is gone too, but the microSD slot is back, thankfully.</paragraph>
+			<paragraph>Battery life is flagship-worthy at 98 hours between charges - a good 18 hours more than the Galaxy S7. The Always On display lowers this rating down to 67 hours, still an acceptable result. If you want to use the Edge feeds on the lockscreen, the endurance will go further down to 60 hours.</paragraph>
+			<paragraph>The Galaxy S7 edge comes with little on top of the Google app suite - there are a few signature apps like S Planner and S Health and Samsung's custom multimedia software, but other than that, there's little in the way of bloatware. Microsoft's mobile app package is on board too.</paragraph>
+			<paragraph>The Always-On lockscreen makes some of the exclusive edge features redundant. The edge shortcuts are useful at times but you can safely do without them.</paragraph>
+			<paragraph>Standard-setting benchmark results, both the CPU and the GPU pack plenty of power and are chart-toppers, future-proofing is guaranteed.</paragraph>
+			<paragraph>Loudspeaker scores "Good" on loudness, and its sound quality is among the better ones with deep sound.</paragraph>
+			<paragraph>Clean audio output with external amp, only minor quality drop with headphones (though more than the Galaxy S7), above average volume.</paragraph>
+			<paragraph>The all-new 12MP still camera is capable of near-instant focusing thanks to its dual-pixel technology. Images are detailed, dynamic range and colors are good, and while in terms of image quality, the camera is comparable to that of the S6, the entire package is a downright upgrade.</paragraph>
+			<paragraph>The selfie camera is great with skin tones, but has a tendency of clipping the highlights. It's also about time Samsung upped the resolution of its flagship front snappers.</paragraph>
+			<paragraph>4K videos are packed with detail, however camcorder struggles to hold on to focus at 1080p/60fps, which is the only bad thing we can say about it really.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>If the best rival is the one you can learn from, has Samsung learnt the wrong trick? Or did the Project Zero redesign got everyone there too excited to think rationally? Probably a bit of both. The company delivered these beautiful Galaxy S6 smartphones but they missed a few user-favorite features, which now make a comeback on the next model. We've seen Apple do exactly this in recent years. First we get the new cool design, then we get the proper hardware upgrades a generation later.</paragraph>
+			<paragraph>Yes, you may've read our review of the vanilla Samsung Galaxy S7 but it bears repeating. The S7 edge is what the Galaxy S6 edge was supposed to be a year back, an all-round flagship ticking every box. And now, for the extra cash over the S7, you're getting the sexy curved design but also a bigger screen. That's the right thing to do.</paragraph>
+			<paragraph>The regular S7 doesn't drop out of favor as the ordinary, unattractive, more affordable option. It's just as relevant being the more compact, equally powerful, yet more affordable version of the undisputed flagship.</paragraph>
+			<paragraph>Now, that's what the Galaxy S7 edge is. The flagship phone to have right now. Polished to perfection, immensely powerful and reliably powered, incredibly proficient at imaging and pretty much everything it does.</paragraph>
+			<paragraph>Water resistance and memory expansion make a comeback on the Galaxy S7 line - Samsung may be owning up to a mistake made a year ago or simply have used the time well to polish a design that back then demanded all their attention and resources.</paragraph>
+			<paragraph>Either way, the Galaxy S7 edge is what it is because it manages to finally reconcile the brilliant new design and the traditional values. After an eventful previous season, the return to Snapdragon is a sign of going back to normality. The return of the memory card slot and water proofing are probably even better news for users. If you think about it, even the Gear VR headset has been a fairly long time coming since the Note 4.</paragraph>
+			<paragraph>Here and now, the Galaxy S7 edge has a perfectly credible shot at capitalizing on its pole position but Samsung better brace itself for a fight.</paragraph>
+			<paragraph>The new generation of Snapdragon 820-powered flagships isn't short on innovation, and each of them tries to offer something unique to set itself apart. The modular LG G5 is what we'd go for if we wanted to experiment with the Magic Slot and the compatible accessories. The Xiaomi Mi 5 is beautifully compact, has enhanced camera OIS, and costs less. The Sony Xperia X Performance claims to have it all: stereo speakers, 23MP worth of still images, water and dust proofing.</paragraph>
+			<paragraph>HTC are expected to finally cross the Quad HD mark and are making a big fuss about the camera on their upcoming HTC 10, so it will only get more exciting over at the Android camp.</paragraph>
+			<paragraph>The 5.5" iPhone 6s Plus is an obvious competitor, a great looking handset itself, of beastly performance, enhanced 12MP camera with OIS and dual-tone flash, and 3D Touch.</paragraph>
+			<paragraph>Microsoft's Lumia 950 XL may not sound as exciting, but it surely ticks all the right boxes - a big Quad HD AMOLED screen, Snapdragon 810 chip, an iris scanner, gorgeous 20MP camera, and Windows 10 Mobile with Continuum. Occasionally, it can replace your netbook, so it's a niche tool you may want to consider.</paragraph>
+			<paragraph>Right now, the Galaxy S6 lineup, S6, S6 edge and the S6 edge+, cover a wide range of screen sizes and will only be getting more and more attractive with every discount they receive. The Galaxy Note5 with its exclusive S-Pen features is also a nice deal already.</paragraph>
+			<paragraph>Finally, the smaller Galaxy S7 may lack the design edge, but it still has gentle curves on both sides, better handling and smaller footprint. It costs less than the S7 edge, and yet it has the same build quality, screen, performance, and imaging skills.</paragraph>
+			<paragraph>The Galaxy S7 edge is easily the best Android phablet right now, if the S-Pen isn't a must. Not only does it employ the best tech available today, but puts it one of the most beautiful bodies in business.</paragraph>
+			<paragraph>If you break it down to its parts, you will be right to ask what stopped Samsung from delivering it a year ago. Try it, and the experience may change your perspective. Hold it in hand and you may as well wish all phones were like it.</paragraph>
+		</subsection>
+	</page>
+</review>

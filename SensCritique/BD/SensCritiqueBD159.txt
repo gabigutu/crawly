@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>La petite Bédéthèque des Savoirs - Les requins</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/La_petite_Bedetheque_des_Savoirs_Les_requins/19793879</link>
+	<generalScore>7.7</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Requinquant</title>
+		<author>zombiraptor</author>
+		<date>2016-07-25</date>
+		<score>0.9</score>
+		<content>Dans l’espèce des gens aux manières exécrables, il y a ceux qui dressent l’historique d’une peur sur un ton suffisant, aux frontières de l’agressivité, ceux qui pointent d’un doigt accusateur des coupables trouvés dans le prisme bien réduit du 20ème siècle, et semblent connaître avec précision l’origine d’un fait tout sauf tangible. Parmi ces gens, il y a ceux qui font le procès perpétuel de Spielberg, Cousteau et des médias quand ils parlent des requins, et au delà de ça, d’Hollywood. Si on laissait ces gens développer leur aigreur, Le Petit Chaperon rouge serait peut être interdit à la vente… Fort heureusement, la bd qui nous intéresse ici se débarrasse bien vite de son introduction écrite par une tierce personne venue délivrer sa bile et qui n’aura plus rien à voir avec le reste du bouquin, et nous en sommes fort aise. Parce que cette bd se libère de toute considération de ce genre et ne part pas en croisade contre d’insaisissables bourreaux pour mieux se concentrer sur l’animal qu’elle illustre, se faisant au final, dans la neutralité la plus sereine, un documentaire plus que recommandable, utile, instructif, passionnant. C’est tout un savoir zoologique condensé dans à peine 82 pages de dessins inspirés et de textes clairs et concis, le tout dans un ouvrage parvenant à cette osmose rare entre bande dessinée accomplie et oeuvre pédagogique. Bernard Séret connaît son sujet et l’aborde sans jugement, sans hargne, avec un oeil faisant honneur au monde scientifique, cataloguant avec ingéniosité les connaissances sur ces poissons cartilagineux tout en laissant ronronner avec évidence une passion très plaisante. Julien Solé met en image l’ensemble avec une plume avisée, brillante de justesse et parfaite pour l’exercice, se parant d’attraits anachroniques, comme ressuscitant de vieilles gravures zoologiques pour leur faire adopter des formes tout juste découvertes. Divisé en plusieurs courts chapitres abordant avec précision espèces, comportement, particularités, image populaire replacée dans un contexte, une histoire et une civilisation, le boulot de ces deux auteurs mérite les louanges et parvient fort judicieusement à trouver le ton juste, entre passion dévorante et rigueur scientifique, pour traiter du roi des océans avec amour et perspicacité. Rare sont aujourd’hui, alors que chacun y va de sa petite rancœur quotidienne contre l’espèce humaine, les oeuvres qui comprennent comment éveiller sur un tel sujet, dans une bienveillance qui se contente, et c’est énorme, d’offrir une lucarne sur un monde jusqu’à lors à peine entrevu. Aucun message, chaîne ou autre billet d’humeur colporté sur un quelconque réseau n’aura jamais la force de simples images parlant d’un milieu naturel sans autre forme de représailles. Au delà de faire partie d’une collection honorable, consistant à réunir un scénariste et un dessinateur sur un sujet le temps d’un tome, Les Requins de Séret et Solé c’est ce livre documentaire qu’on ouvrait à l’époque où on était encore en capacité d’aimer sincèrement ce qui s’offrait à nous, avec toute la fascination, l’émerveillement et la peur amoureuse que ces pages généraient. Et c’est un exploit de leur part d’orchestrer leur passion commune pour réveiller un peu de ça à travers ce précis zoologique dédié à toute personne cherchant à en savoir un peu plus sur ces habitants de la planète vieux de près de 400 millions d’années.</content>
+	</review>
+	<review>
+		<title>Croqués à belles dents</title>
+		<author>Gritchh</author>
+		<date>2016-06-13</date>
+		<score>0.9</score>
+		<content>Une véritable mini-encyclopédie sur les requins, un animal fascinant. C’est détaillé, précis et riche mais avec ce qu’il faut d’ironie. Julien Solé donne vie aux requins et réalise des dessins magnifiques. Il confirme son très grand talent. Vivement d’autres tomes du même style sur les animaux.</content>
+	</review>
+</sensCritiqueEntity>

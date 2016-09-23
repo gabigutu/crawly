@@ -1,0 +1,434 @@
+<review>
+	<title>LG Nexus 5 review</title>
+	<description>Back to the future</description>
+	<link>http://www.gsmarena.com/lg_nexus_5-review-1011.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>Penta-band 3G with HSPA; LTE cat3</paragraph>
+			<paragraph>4.95" 16M-color 1080p True HD IPS Plus FullHD capacitive touchscreen</paragraph>
+			<paragraph>Corning Gorilla Glass 3 display protection</paragraph>
+			<paragraph>Android OS v4.4 KitKat</paragraph>
+			<paragraph>Quad-core 2.3 GHz Krait 400 CPU, 2 GB RAM, Adreno 330 GPU, Qualcomm Snapdragon 800 chipset</paragraph>
+			<paragraph>8MP autofocus camera with LED flash, geotagging, optical image stabilization, photo sphere, 1080p video recording @ 30fps with continuous autofocus and stereo sound; HDR mode, Dual recording, optical image stabilization</paragraph>
+			<paragraph>1.3 MP front-facing camera</paragraph>
+			<paragraph>16GB/32GB of built-in storage</paragraph>
+			<paragraph>microUSB port, USB host support, USB on-the-go, SlimPort TV-out</paragraph>
+			<paragraph>Bluetooth v4.0</paragraph>
+			<paragraph>NFC</paragraph>
+			<paragraph>Wi-Fi a/b/g/n/ac, Wi-Fi Direct and DLNA</paragraph>
+			<paragraph>GPS with A-GPS, GLONASS</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Voice commands</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Active noise cancellation with dedicated mic</paragraph>
+			<paragraph>2300mAh Li-Po battery, wireless charging</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Non-expandable storage</paragraph>
+			<paragraph>Poor video and audio codec support out of the box</paragraph>
+			<paragraph>Non user-replaceable battery</paragraph>
+			<paragraph>Comparatively poor battery life (except for calls)</paragraph>
+			<paragraph>Loudspeaker is on the quiet side</paragraph>
+			<paragraph>Limited availability at launch</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Nexus phone releases are timed to let Google have the last word - and what a way to have it! A phone that matches any flagship on specs and premieres the latest OS version, but costs barely half as much as some of them. The Nexus 5 promises a great finale to yet another exciting smartphone season and it's not only the droids that stand to attention.</paragraph>
+			<paragraph>This could have been a deja-vu moment for everybody but the fifth gen Google phone will probably have to work harder than ever. There's already a bunch of Snapdragon-800-powered Android flagships, while Qualcomm's latest is ticking inside Windows Phone-powered devices by Nokia too and Apple has the new 64-bit A7 chipset.</paragraph>
+			<paragraph>On a second thought, Nexus phones have never been too keen on getting into the skirmish, keeping their distance, aloof and somewhat out of touch, nothing to prove to anyone. The best of Google on your homescreen - that's what it's all about - and at a price that's almost too good to be true.</paragraph>
+			<paragraph>The search giant is partnering with LG for a second year in a row. Whether the Koreans are offering the best production cost or both sides were happy with the Nexus 4, it's a choice we don't mind at all. Anyway, Android 4.4 KitKat on a five-inch full-HD screen, powered by a Snapdragon 800 is a package no one would say not to.</paragraph>
+			<paragraph>Check out the key specs to see what we're on about.</paragraph>
+			<paragraph>Although there's almost no physical resemblance to back it up, the Nexus 5 is based on the LG G2 and that's not a coincidence. The Nexus 4 last year was based on the Optimus G, so history's clearly repeating itself. At least as far as what's under the hood.</paragraph>
+			<paragraph>Otherwise, the Nexus 5 has one of the most understated exterior designs a flagship smartphone has ever had. It's not an attention-grabber like the iPhone 5s, the HTC One or the Xperia Z1, as if wanting to underline that what matters is inside.</paragraph>
+			<paragraph>The latest major release of Android as usual premieres on a new Nexus phone. The Nexus 5 runs Android 4.4 KitKat, which brings even tighter OS integration with Google services. There are a number of other improvements and hints at what's to come. But before we get to that, we'll focus on the Nexus 5's build and finish. The Android 4.4. KitKat overview will follow right after, so without further ado, see you after the break.</paragraph>
+			<paragraph>Update, January 24: We heard that the Android 4.4.2 greatly improves the camera so we decided to test it out. Check out page 9 to see how it stacks up against the original 4.4 version.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Nexus 5<subsectionTitle>
+			<paragraph>Trying to keep the price in check, the Nexus series of smartphones have never flaunted exceptional packaging bundles. Google has always included only the bare minimum of accessories and the Nexus 5 is no exception. So the box of the Nexus 5, while being quite stylish, doesn't hold much.</paragraph>
+			<paragraph>Inside it, there's just a SIM ejector pin, AC adaptor and a microUSB cable. Traditionally, headphones aren't included in the retail package, let alone some fancy accessories.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG Nexus 5 360-degree view<subsectionTitle>
+			<paragraph>The LG Nexus 5 is as compact as 5" smartphones get right now. It measures 137.9 x 69.2 x 8.6 mm, which is just a hair thinner and narrower than the LG G2 that it's based on. Compared to the Nexus 4, it's half a millimeter thinner and 9 grams lighter.</paragraph>
+			<paragraph>With a weight of just 130 grams it's lighter than the LG G2, as well. In fact, it weighs the same as the Samsung Galaxy S4 and has about the same footprint as the Samsung flagship. This is achieved thanks to the choice of lighter materials as well as reduction in the battery size. The LG G2 boasts a 3000mAh battery, while the Nexus 5 packs just 2300mAh one. We'll cover the battery in a greater detail later on.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Now, let's focus on the design of the Nexus 5. Right off the bat, it's apparent that this is not just a copy/paste affair and the Google purebred is quite different from LG G2.</paragraph>
+			<paragraph>First and foremost, the Nexus 5 is built around a 5" True HD IPS display, which is responsible for the phone's smaller footprint compared to the G2. However the difference is smaller than the size difference suggests as the bezels surrounding it aren't quite as thin as they're on the G2.</paragraph>
+			<paragraph>Overall, the design is quite simplistic and underplayed with nice matte finish. The Nexus 5 is a decent looking bloke and even if it won't win any design contests, its looks certainly won't be held against it.</paragraph>
+			<paragraph>The whole body of the phone is made of a soft-touch plastic, quite similar to the one on the back of the Google Nexus 7 2013 slate. It's actually great to the touch and to our joy is quite resistant to fingerprints and smudges.</paragraph>
+			<paragraph>Despite not flaunting a metal-clad body, the Nexus 5 is very sturdy. The plastic shell didn't creak nor give in to pressure and twists. It certainly holds up better than the glass back of the Nexus 4, too.</paragraph>
+			<paragraph>Speaking of the back, the battery cover of the Nexus 5 isn't removable in spite of the cutout lines that separate the front and back parts of the phone. They would let you think that you can access the battery of the phone, but that's not the case.</paragraph>
+			<paragraph>Another notable design feature at the back is the 8MP camera sensor, which has been made a lot more prominent than on the Nexus 4. It's protected by a large glass casing, which makes the camera look enormous. Moreover, the protective glass protrudes a bit leaving it susceptible to scratches.</paragraph>
+			<paragraph>The front of the Nexus 5 is protected by Gorilla Glass 3, which combined with the plastic shell and give you an additional peace of mind in case of drops. We're not entirely sure how the glass in front of the rear camera is going to fare, though.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls and handling<subsectionTitle>
+			<paragraph>Other than the display at the front, there's a 1.3MP front-facing camera above it. As per tradition, there's also a notification LED light at the bottom. It pulsates when there's a missed call or a new message in 10-second intervals. Sadly, Android provides no out-of-the-box way to customize the duration, so you'll have to use third-party apps for that.</paragraph>
+			<paragraph>The left side of the LG Nexus 5 holds the volume rocker, while the right houses the Power/Lock key. All buttons are made of ceramic and feel extremely solid. A slight downside is that they can sometimes feel rough since their edges aren't perfectly smooth.</paragraph>
+			<paragraph>Below the Power/Lock key lies the micro-SIM card slot tray that's accessed via the provided pin tool. Using tools for accessing the SIM slot isn't ideal when you need to switch cards on the go, but luckily that's not something that happens too often.</paragraph>
+			<paragraph>The top of the Nexus 5 is where you find the 3.5mm headphone jack and the secondary microphone. The microphone is used for active noise cancellation, but unfortunately it doesn't enable stereo sound recording out of box. You can enable that with a tweak if you are knowledgeable enough, but it's downright disappointing that you need to do that in the first place.</paragraph>
+			<paragraph>The bottom part is pleasantly designed with precision cut holes that sadly hold a single speaker and a microphone, rather than a stereo setup. It's located on the left to the microUSB port.</paragraph>
+			<paragraph>Finally, we come to the back, where the 8MP camera is heavily accented by the protruding and large protective glass cover. Below it sits the LED flash and a large Nexus logo joined by a smaller LG one below it.</paragraph>
+			<paragraph>The Nexus 5 carries a low price tag, but this shouldn't get you fooled into thinking it's a cheaply made smartphone. It's not and feels solidly built with its underrated minimalist design. The soft touch plastic at the back helps the grip quite a lot.</paragraph>
+			<paragraph>The 5" form-factor has reasonable operability with one hand, while pocketing the smartphone is rarely a problem either.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Under the soft touch back cover sits a 2,300mAh Li-Ion battery, which Google rates to last up to 17 hours of 3G talk time. Naturally, we run the Nexus 5 through our circle of battery endurance tests and it managed an endurance rating of 40 hours. You can find a full breakdown of how it did in our dedicated Nexus 5 battery life blog post.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Update: The Nexus 5 was updated to Android 5.0 Lollipop, so we re-ran the battery test. You can find more details on how Lollipop affected battery life here.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>At the front of the Google Nexus 5 stands a 5" True HD IPS of Full HD resolution. In theory it should be a panel similar to the 5.2" one in the LG G2, although we found it to be slightly different and not just due to the different tuning.</paragraph>
+			<paragraph>The display is impressively sharp, thanks to the amazing pixel density of 445ppi. Here's what the screen looks like through the eye of our digital microscope:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The color balance is quite good and slightly better than even what the G2 offered. Contrast is a lower though and so is saturation, which means some of the extra punchiness is gone. Those who favor more natural reproduction will certainly be happy with the Nexus 5 screen, though.</paragraph>
+			<paragraph>The overall screen reflectiveness is very low and the display is very bright. There is some contrast loss when you are viewing the screen at an angle, but it's minor and won't take away from the otherwise good picture quality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sweet KitKat Android premieres on Nexus 5<subsectionTitle>
+			<paragraph>Google Nexus 5 is the first smartphone to run on Google's latest Android 4.4 KitKat OS. Just like the previous Jelly Bean iterations, KitKat doesn't bring any game changers. Instead it polishes further the user experience, overall system performance and experience, plus brings along some handy system app updates. For example, Android KitKat comes with the latest Hangouts app that combines SMS, MMS and Gtalk chats into just one single app. It also introduces a new powerful Phone app and an even easier way to interact with Google Now.</paragraph>
+			<paragraph>First things first though, here is our traditional video walkthrough to get you started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen in Android 4.4 KitKat features the same large dotted circle around the center-placed padlock button. Lockscreen widgets remain unchanged and are full-screen, resizable tiles, one of which is always visible at the top of the main lockscreen, above the padlock icon. The rest are a right swipe away. The widget on the main lockscreen is collapsed to make room for the padlock button, but can be expanded to display additional information.</paragraph>
+			<paragraph>There are a few stock lockscreen widgets: Messages, Calendar, Gmail, Digital Clock, Google Now and Google+. The camera shortcut, just like before, is a left swipe on the lockscreen.</paragraph>
+			<paragraph>Lockscreen widgets are resizable - tap and drag down to expand and show more content, if available. Lockscreen widgets can also be reordered by tapping and dragging, so you can choose which one is visible on the main lockscreen. They can also be dragged up to discard.</paragraph>
+			<paragraph>There are multiple unlock patterns to choose from: simple slide, pattern, pin or password, and face unlock. The lockscreen could even be skipped altogether.</paragraph>
+			<paragraph>Once unlocked, you're get welcomed by the new homescreen interface. Even though it looks quite familiar, you'll immediately notice the new redesigned and bigger icons on a new colorful wallpaper. The app drawer shortcut is also different.</paragraph>
+			<paragraph>Android 4.4 KitKat brings a brand new homescreen - Google Now. It is always the leftmost pane on the homescreen. You can't set it as a default homescreen but you can turn it off if you like, just like the BlinkFeed on the HTC One lineup.</paragraph>
+			<paragraph>The bottom of the screen is reserved for the three navigation controls: Back, Home and Recent Apps.</paragraph>
+			<paragraph>The dock is customizable and features two shortcut icons on either side of the app drawer key. You can have folders there, each with multiple shortcuts.</paragraph>
+			<paragraph>Google's Daydream is available on KitKat, too. Once turned on, you can set it up to show photo albums, the latest news from Google Currents, the clock or a somewhat childish Android KitKat animation with colorful squares when the device is either docked or idle.</paragraph>
+			<paragraph>The notification center is the same as before and Quick toggles are available. They're accessible via an icon in the top right corner of the notification area. You get access to key device settings such as brightness, Wi-Fi, Bluetooth, location, mobile networks and Battery. Some toggles are directly accessible shortcuts to their respected functions in the settings menu.</paragraph>
+			<paragraph>The quick settings menu can be accessed by a two-finger swipe down from the top of the screen.</paragraph>
+			<paragraph>Your name and photo are displayed in the toggle area as well, but only after you've logged in to Google+ account or after you've manually set them yourself.</paragraph>
+			<paragraph>Notifications can be expanded and collapsed with a downwards swipe, and the top one is expanded by default (if the app that put up the notification supports it, of course).</paragraph>
+			<paragraph>The homescreen consists of just two panes - Google Now and the default one with a bunch of shortcuts. You can add more once you start putting widgets, shortcuts or folders. You can add as many panes as you want (we gave up at a total of fifteen).</paragraph>
+			<paragraph>The widgets are no longer part of the app drawer. You can access the widget list only by a tap and hold on an empty space on the homescreen and selecting the dedicated Widgets shortcut. We prefer this way of handling the widgets, because they don't get in the way of the day-to-day work with the app drawer.</paragraph>
+			<paragraph>Most of the widgets are resizable in all directions in order to fit into any tight space. To resize a widget, you tap and hold and then release. Four handles will appear on its sides, allowing you to change the widget's size in the direction you want.</paragraph>
+			<paragraph>Folder functionality hasn't been changed since Ice Cream Sandwich and functions as you'd expect. A folder is created by dropping an app shortcut on top of another shortcut and can be named by tapping on the "Unnamed folder" label. Opening a folder expands it only as much as needed to show the icons inside.</paragraph>
+			<paragraph>The folders icons themselves are circular with several individual app shortcuts stacked on top of each other. They are lined up so the first shortcut in the folder will be the only one unobscured - the rest of the icons are nearly impossible to tell apart.</paragraph>
+			<paragraph>The app drawer of Nexus 5 consists of 5 rows of icons on side-scrollable pages. That's it - no Play Store dedicated shortcut, no tabs and no widgets. And this time around the app icons are big, and we mean BIG. Just check the screenshots below.</paragraph>
+			<paragraph>The apps are ordered alphabetically and there's no other sorting option. Come on, Google, is this too much to ask? There is no option for manual re-arrangement and newly installed apps take up a spot in relation to their respective alphabetical order instead of getting placed in the end of the list, which would have made them easier to get to.</paragraph>
+			<paragraph>Placing a shortcut on the homescreen works as you would expect: press and hold to grab it and then position it on the homescreen pane of choice. Two more options appear at the top of the screen while you're dragging - Uninstall (to quickly remove apps) and App info, which opens the application's entry in the Manage applications list.</paragraph>
+			<paragraph>Last but not least, the Recent Apps list has remained virtually unchanged. It would be nice if Google finally adds a kill all/close all option.</paragraph>
+			<paragraph>As a whole, Android 4.4 Kit Kat offers a polished and smooth user interface and coupled with the top of the line chipset, operation is lightning fast all the time. We'll explore the performance further in our dedicated benchmark section.</paragraph>
+			<paragraph>The Android 4.4 tweaks don't end here though. Follow us, as we continue to explore. Next up, Google Now.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now gets better<subsectionTitle>
+			<paragraph>Google Now was first introduced back in Jelly Bean 4.1 and is definitely one of the most interesting aspects of the Android OS. Simply put, it's Google's version of a personal assistant. Google Now is in the same neck of the woods as Apple's Siri, but it learns constantly from your daily routines.</paragraph>
+			<paragraph>It's accessed by holding the home button (plus an upwards swipe), swiping to leftmost pane or just by saying "OK, Google". We found out that the Nexus 5 fires up Google Now on the first G of the command, so you can just say "OK, G" or "OK, Go" and that will be enough. For all it's worth, "OK, Jesus" and "OK, Grandpa" worked too.</paragraph>
+			<paragraph>Google Now gives you short overview of information it believes is relevant to you right now in the form of cards. Going to work in the morning? Google Now knows this and lets you know there's a big traffic jam on your usual way to the office, so it offers you a re-route.</paragraph>
+			<paragraph>It can interpret a lot of things from your search history as well. If you've been searching for, let's say, your favorite football team, Google Now will prepare a card showing you the next match the team is playing and will provide you score updates once the game begins.</paragraph>
+			<paragraph>Google Now, if you allow it, can scan your email for upcoming flights, deliveries or restaurant reservations and let you know when they are due. There are also numerous kinds of cards like birthdays (yours and those of your contacts) and what distance you've walked in a particular month. The last one could definitely feel creepy for some users, but it's easily turned off from the Google Now settings menu.</paragraph>
+			<paragraph>Google has also integrated Voice Actions into Now. They can handle stuff like sending messages (SMS or email), initiating a voice call, asking for directions, taking a note or opening a site. Google Now can also launch apps, check and manage your calendar and look for nearby places of interest and stuff like movie openings in theaters.</paragraph>
+			<paragraph>Google has added lots of more customization on Google Now in Android 4.4 KitKat. You can now set your default transportation method, you favorite sports teams, company stocks you are following, places you are interested to visit and more. Once you add items you want to keep an eye on Google Now will do this instead of you. It will automatically inform you for various changes, news and updates.</paragraph>
+			<paragraph>The More section of the customization will update automatically with topics you can choose from once you've start using Google Now search capabilities.</paragraph>
+			<paragraph>You can now set reminders straight from Google Now's UI. Just hit the bottom left icon (the palm with a stretched index finger). There you can add reminders or just check all the past, ongoing or upcoming reminders.</paragraph>
+			<paragraph>One big advantage of Google Now is that the voice typing functionality doesn't require an internet connection to work. You can enter text by speaking anywhere you can use the on-screen keyboard - be it the Messaging app or a note taking app - without the need for a data connection as long as you have pre-downloaded the needed language packs (and those only take about 20-25MB of your storage per pack).</paragraph>
+			<paragraph>Making voice typing available offline also made it faster as it's not dependent on your connection. What's even more impressive is that the transition hasn't cost it anything in terms of accuracy.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>Hardware-wise the LG-made Nexus 5 is pretty much the same as the company's G2 flagship aside from the slightly smaller screen. The Nexus 5 runs on the same top of the line Snapdragon 800 chipset with a 2.27GHz quad-core Krait 400 processor, Adreno 330 graphics and 2GB of RAM.</paragraph>
+			<paragraph>Android 4.4 KitKat brings Project Svelte UI optimizations, the successor of Project Butter. Svelte allows even smoother performance and in the meantime lowers the Android hardware requirements down to 512MB RAM, which would open the doors to the latest Android build to budget devices!</paragraph>
+			<paragraph>You'd expect the Nexus 5 to perform the same as the rest of the Snapdragon 800 gang, but as far as synthetic benchmarks are concerned you'd be wrong. Unlike Samsung, LG or HTC, Google had no interest in boosting benchmarking scores and performance and so the stock Android 4.4 KitKat offers no optimizations in this direction. As the charts below will show you, the Nexus 5 benchmark results are much lower than the other Snapdragon 800 devices - the reason is probably sitting some way between the lack of cheating and the fact that the benchmarking apps aren't properly optimized for KitKat just yet.</paragraph>
+			<paragraph>As usual our first test is all about single-core performance. The Nexus 5 scores are quite similar to the Krait 300 CPU on the Snapdragon 600 platform, rather than those of its Snapdragon siblings. The Linpack results are even worse.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Nexus 5 bounced back on the Geekbench 3 cross-platform benchmark, but it didn't quite manage to match the best.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to compound benchmarks, AnTuTu and Quadrant. In AnTuTu Nexus 5 scored similar results to the previous generation Snapdragon 600 devices, while the Quadrant score was downright poor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 4<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Now let's look at the GPU benchmarks. We ran GLBenchmark 2.5 and 2.7 in 1080p off-screen mode, which is also the native screen resolution for the current crop of Android flagships. The Nexus 5 matched the Snapdragon 800 competition on this test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.7 T-Rex (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Adreno 330 on the Nexus 5 did pretty well on the Epic Citadel, too. Its score is very close to Galaxy Note 3 and Xperia Z1.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally, we come to JavaScript, which is a known Achilles heel of stock Android and its Chrome browser. Surprisingly, the Nexus 5 did a lot better than we expected, scoring the same as Sony's Xperia Z1 Chrome browser.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>The last benchmark we did was the BrowserMark 2, which tests the overall browsing performance. Google's Nexus 5 turned out to be among the best devices we've tested so far.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The stock Android 4.4 KitKat with its Project Svelte ran perfectly smooth on the Nexus 5. Even though the flagship scores lower than the competition on the benchmarks, the Nexus 5 is still among the smoothest and lag-free Android smartphone we've seen to date.</paragraph>
+			<paragraph>Everything is blazing fast, scrolling and app launch is really fast and fluid, the overall UI speed has been bumped too. It took Google a while to achieve what Apple has done with the iOS, but it is finally here - the lag-free, fast and buttery smooth Android OS is becoming the norm now.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Same phonebook<subsectionTitle>
+			<paragraph>The phonebook is the stock Android app People, which hasn't been much changed since its major redesign last year with the introduction of Ice Cream Sandwich.</paragraph>
+			<paragraph>It's made up of three tabs that you can switch between with sideways swipes. The middle tab is the default one, listing all of your contacts. Contacts are listed with a name and a picture to the right. They can be sorted by first or last name, and viewed as first name or last name first.</paragraph>
+			<paragraph>There's a permanent scroll bar available that you can grab and jump straight to contacts starting with a certain letter. There's regular search as you type too.</paragraph>
+			<paragraph>The quick contacts feature triggers on tapping a contact image to bring up a tabbed popup window. The tabs are phone and email with a list of the available numbers or addresses. These tabs can be navigated with side swipes as well.</paragraph>
+			<paragraph>The single contact view displays the contact's name along with a star to mark a contact as favorite and a Settings button that lets you edit, share or delete a contact, as well assign custom ringtones to them or set the phone to redirect calls from that contact straight to voice mail.</paragraph>
+			<paragraph>Under that is a list of all contact info sorted by category - phone numbers, emails, events, notes and so on.</paragraph>
+			<paragraph>While editing a contact, you can add various new fields to fill in more info for the contact. You can link contacts too, if you've added the same person on multiple services.</paragraph>
+			<paragraph>The contacts that the phonebook displays can be filtered by service (e.g. hide all Facebook contacts) and even group (so you can hide all contacts that don't belong in a group, for example).</paragraph>
+			<paragraph>The other two major tabs in the phonebook are Groups and Favorites. Groups are listed by service (e.g. your Gmail account), while favorites are a listed as a grid of large contact photos, which is readily thumbable.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Smart telephony<subsectionTitle>
+			<paragraph>In-call quality with the Nexus 5 is great. Voices come out loud and clear and the device held on to signal without issues.</paragraph>
+			<paragraph>Android 4.4 KitKat brings a brand new and very smart phone app. Upon launch it brings you to its default dialing tab where you get a search field, the most recent dialed contact and a list of contacts you've dialed most often.</paragraph>
+			<paragraph>You can bring up or hide the dialer by its dedicated shortcut at the bottom. It supports smart dialing both by name and phone numbers.</paragraph>
+			<paragraph>The Search field on top of the page scans both your contacts and nearby places. For example, you can type Subway and you'll automatically get the nearest Subway phone number. It's really cool and saves you all those Googling, opening websites and searching for the contact information. You can turn the nearby search off from settings, of course.</paragraph>
+			<paragraph>There is also a standard History tab in the Phone app. It has two sub-tabs - All and Missed. There you get the complete history of all your phone calls.</paragraph>
+			<paragraph>We also ran our traditional loudspeaker test on the Nexus 5. It scored a Below Average overall mark, so you should keep an eye on the device in noisier environments. More info on our loudspeaker test as well as other results can be found here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hangouts is now your messaging hub<subsectionTitle>
+			<paragraph>Android 4.4 KitKat completely changes the messaging department. Google has decided to upgrade the Hangouts app with SMS/MMS messaging and retire the old Messages hub.</paragraph>
+			<paragraph>Hangouts has two pages - the first one shows all of your conversations, while the second lists the people you exchanged Hangouts with, plus suggested contacts and other contacts (a.k.a. from your phonebook).</paragraph>
+			<paragraph>There is a dedicated search field at the top of the contacts page. It searches through all of your phonebook contacts and then suggests you some people from Google+.</paragraph>
+			<paragraph>All conversations are organized into threads, just like before. The SMS/MMS threads are marked as such on their thumbs. You can start new SMS/MMS/Hangout from the virtual + at the top of the page. If you have started writing a new SMS message and then added some multimedia content, it will be automatically converted to an MMS message.</paragraph>
+			<paragraph>The advanced settings of the Hangouts app offers you mood options, invites, notifications and access to the archived Hangouts.</paragraph>
+			<paragraph>It seems Google wanted to create something like the iOS Messaging app and its iMessage functionality. Since the ex-Gtalk, now Hangouts app, already offered free chats between Google users, the company just needed to combine the Hangouts app and the Messages app into one universal application. This way the new Hangouts app within Android 4 KitKat was born. It's awkward to look for your SMS under Hangouts at first, but you'll get used to it quickly.</paragraph>
+			<paragraph>Moving on to email, the Gmail app and the new generic Email app are now almost identical in both looks and functionality. They feature color coded sender images, based on the first letter of the sender's name. Both apps support multiple accounts, but the Unified Inbox is available only on the default Email client.</paragraph>
+			<paragraph>You can swipe left or right to move between messages in your inbox.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Text input<subsectionTitle>
+			<paragraph>The Google keyboard has always been pleasure to use and is one of the most preferred Android keyboards out there. On this screen the keys are comfortably large in both portrait and landscape mode.</paragraph>
+			<paragraph>Gesture typing is available as usual - it works in a manner very similar to Swype -- you just swipe your finger over the letters one after the other, lifting your finger after each word is complete. Naturally, the Gesture Typing feature benefits from the already existing Android word prediction, so you can just click on the words the keyboard suggests.</paragraph>
+			<paragraph>A tap on the text area will reveal a "handle" attached to the text cursor - it's easy and more accurate, which makes correcting mistakes easier. A double tap will bring up the select options - Select word and Select All - with two handles to adjust the start and end of the selection.</paragraph>
+			<paragraph>If a word has a typo, it will be underlined in red and when you tap it, the phone will offer a number of suggested corrections along with options to add the word to the phone's dictionary or just delete it.</paragraph>
+			<paragraph>Voice input is available as well and it works great too. It doesn't even require internet connection if you download the specific language file and make it available for offline usage.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photos and Gallery handle your images and videos<subsectionTitle>
+			<paragraph>The gallery in Android 4.4 KitKat is called Photos and comes with new looks, functionality and a new user interface. Upon opening the app you'll see two tabs - Camera and Highlights. Above those two tabs you get the Movie, Search and Settings shortcuts.</paragraph>
+			<paragraph>The movie shortcuts allows you to easily select pictures and videos from which you want to create a movie and they will be automatically added to the brand new Video Creator. After that you can add music, stitching theme and voila - your video is ready with just a few taps. Nice!</paragraph>
+			<paragraph>The Camera is a grid of your photos and videos, three on a line. The very first thumb is marked as Folders and will return you a step back to the old Album view, where you can choose to open a different album. The Gallery will always open the Camera album by default.</paragraph>
+			<paragraph>The Highlights tab has all of your Picasa and Google+ online photos. The Google Photo automatic upload is integrated in the new Gallery app. If you turn it on, your photos will be automatically uploaded to your Google+ profile, but won't be shared with others unless you do it manually.</paragraph>
+			<paragraph>The single photo view is updated too - below the photo there are three shortcuts - Edit, Share and Delete. That's it. The Editor allows you to crop, rotate or add filters to your photo.</paragraph>
+			<paragraph>The new Gallery has a few hidden goodies that we almost missed. There is a hidden navigation menu pane that is revealed with a swipe from the edge of the screen anywhere in the gallery. You can easily switch Google+ accounts from there, go to Albums, Videos, Photos you are tagged in, all Google+ photos or even the deleted photos.</paragraph>
+			<paragraph>There is also an Auto Awesome section. It is something like a smart gallery that combines similar photos and videos in a cool way - it either exports a collage picture or a motion gif. If you like the combination the gallery has made for you, there is a dedicated shortcut to save the new picture in the gallery. Awesome, indeed!</paragraph>
+			<paragraph>The old gallery that premiered with the Ice Cream Sandwich is also on board. The Default view of the gallery is Albums, the first of which is always the Camera album, which has a camera overlay icon too. Rather than the familiar stacks, the app uses a grid of photos, two on a line.</paragraph>
+			<paragraph>Besides, Album view, you also get Locations (photos are grouped based on where they were taken), Times (grouped by when they were taken), People (if the photos have tagged faces in them) and Tags (these are general tags you can add manually).</paragraph>
+			<paragraph>A handy option is the Make available offline feature - it lets you easily select multiple online albums and download them for offline viewing. The Gallery app supports online albums from Google+ and Picasa and sync is available just like in the new Photos app. You can make all of the albums available offline.</paragraph>
+			<paragraph>Getting inside an album displays all the photos in a rectangular grid, which is horizontally scrollable. When you try to scroll past the end, the photo thumbnails will tilt to remind you you're at the end.</paragraph>
+			<paragraph>Anyway, the single photo view is updated too - above the photo there are several sharing shortcuts and a delete button, while the underlying line of small thumbnails of all other photos in the album isn't present any more.</paragraph>
+			<paragraph>The settings menu lets you do simple edits to a photo (rotate, crop) or go into a more capable editor with a lot more option. The editor can be accessed from a small icon from the bottom left hand-side corner and offers light adjustments (so you can bring out the shadows or the highlights), effects, color styles, red eye correction, straightening a photo, sharpening and face glow (which detects faces automatically). Most of these options have a slider that lets you fine-tune the strength of the effect.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Poor video player integrated within the gallery apps<subsectionTitle>
+			<paragraph>The video player is still not getting the necessary attention from Google and there's still no dedicated videos app (you have to go through the Gallery or Photos). The only supported format is MP4 up to 1080p resolution. That's it. There is no subtitle support.</paragraph>
+			<paragraph>Streaming videos to a Wi-Fi enabled TV is available. One way to go about this is to share your multimedia content over good ol' DLNA technology OR you can mirror your device's screen to the TV via the Miracast protocol.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Listen or stream your music via Google Play Music<subsectionTitle>
+			<paragraph>Google's own music player called Play Music and it went through a major UI overhaul recently. It is now snappier and more beautiful. It features the spanking New Listen Now feature, which tries to determine what you like and the sequence of your track-changing so that it can start offering you music you might like to play next.</paragraph>
+			<paragraph>Google Play Music also gives you the option to upload music onto the Google-branded cloud and stream it on your device via Wi-Fi or mobile data. There's also the nifty option of downloading the content onto the device if you want to have there for connection-less times.</paragraph>
+			<paragraph>From the Settings key you can get into the equalizer. It can be turned on and off and features several equalizer presets along with a custom user defined one. If you plug in a headset, you can also play around with the Bass boost and 3D effect sliders.</paragraph>
+			<paragraph>The Now Playing screen uses the song album art and gives you a quick shortcut to the rest of the artist's songs along with the play controls.</paragraph>
+			<paragraph>While the player is working, the entire lockscreen features the album art and track info for the current song along with dedicated playback controls. The notification area also lets you control the playback via an expandable notification.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is smooth but quiet<subsectionTitle>
+			<paragraph>The LG Nexus 5 audio output was almost identical to that of the LG G2, which means the smartphone showed nicely clean output in both parts of our traditional audio quality test. However the volume levels here were even lower than on the LG's own flagship, making them below average.</paragraph>
+			<paragraph>The scores stay close to perfect even when you plug in a pair of headphones. The stereo crosstalk worsens a bit but the rest of the readings are virtually unaffected (frequency response actually improves a bit). Unfortunately, the volume levels remained just as uninspiring.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph> LG Nexus 5 frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>8MP camera does okay<subsectionTitle>
+			<paragraph>The Nexus 5 doesn't pay attention to the megapixel race and instead keeps the more than adequate 8 MP resolution of last year's Nexus. There's an LED flash as well but what's more impressive is the optical image stabilization. The Nexus 4 had a 1/4.0" camera sensor and 1.12um pixels, while the Nexus 5 packs a much larger 1/3.2" image, which given results bigger 1.4um pixels.</paragraph>
+			<paragraph>The camera app looks exactly the same as what we saw premiered on the Google Play Edition Samsung Galaxy S4 and HTC One in Android Jelly Bean 4.3. It brings an end to the quick settings ring and instead opts for a quick settings arch.</paragraph>
+			<paragraph>You need to hold a finger anywhere in the viewfinder to get to the quick settings. Using swipe gestures you can toggle the HDR mode, exposure, settings for picture size, white balance, timer, geo-tagging, scene mode, flash on or off and switching to the front-facing camera. It's not the most useful of ways to navigate the camera app in our mind.</paragraph>
+			<paragraph>Quick settings can also be triggered by touching the corresponding icon atop the virtual shutter button. You can choose Camcorder, Panorama and Photosphere through the underlying shortcut.</paragraph>
+			<paragraph>The viewfinder is annoyingly thought-out. It shows you a 16:9 feed while snapping photos in 4:3 aspect. So in essence it's a real task to frame your photos right and you cannot opt for the native aspect.</paragraph>
+			<paragraph>Photosphere lets you take Street View panoramas of your surroundings. You start by aligning your image and then just move the phone about following a generated dot. After you've covered the entire surrounding scene the device generates a panorama, which can be viewed as a Photosphere in the Gallery and uploaded to Google's servers to be featured in Maps (if it's good enough).</paragraph>
+			<paragraph>The LG Nexus 5 camera image quality is about average (which is admittedly is a huge step forward from the disappointing snapper of the Nexus 4). The level of detail is very good for the 8MP league, although there's notable softness towards the left edge of the frame. Noise levels are above average, but certainly not the worst we have seen.</paragraph>
+			<paragraph>White balance turned out to be particularly problematic for the Nexus 5. The smartphone has a really hard time getting it right and often produces images that are way too cold or too warm.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The new HDR+ mode on the Nexus 5 does a decent job, adding a dash of extra detail in the highlights and keeping the shadows just about unchanged. This means the contrast doesn't suffer and since we got no detail smearing either. You should keep in mind that it slightly reduces the maximum image resolution from 3264x2448 to 3200x2368 pixels, though.</paragraph>
+			<paragraph>Macro mode was arguably the best part of the Nexus 5 camera performance. It was able to get very close to the desired subjects and produced very detailed results with nicely blurred backgrounds.</paragraph>
+			<paragraph>The Nexus 5 camera certainly isn't going to win any photography contests - thanks to its poor white balance it can't even win its own 8MP league, let alone take the big guys with 13MP cameras (the Xperia Z1 and Lumia 1020 can't even be put in the same sentence with it).</paragraph>
+			<paragraph>However, the snapper on the latest Nexus will do just fine for those that aren't too demanding and with the proper skills can produce some pretty good shots. In other words - the camera may not be the Nexus 5 strongest weapon, but it's good enough not to be counted against the smartphone and after the Nexus 4 that's a win in its own right.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Nexus 5 enters our Photo quality comparison tool to face the likes of the LG Nexus 4 and the iPhone 5s. You're free to select any other adversary, though.</paragraph>
+			<paragraph>   LG Nexus 5 in our photo compare test</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FullHD is the limit<subsectionTitle>
+			<paragraph>The camcorder interface borrows heavily from the camera one. It is, however, very limited in terms of options and gives you settings for white balance, camera preference (front or back), a flash toggle, geo-tagging and the option to choose the video resolution.</paragraph>
+			<paragraph>You can take 1920 x 1080 images while recoding a video but we don't find that amusing, given that these are nothing more than screenshots captured mid video.</paragraph>
+			<paragraph>There's an option for taking time lapse videos. You can choose an interval between half a second and 24 hours, so it's pretty flexible.</paragraph>
+			<paragraph>Despite running on a highly capable Snapdragon 800 the Nexus 5 lacks 2160p (or 4K), slow-mo 720@120fps or speedy 1080@60fps video modes. What you're left with the standard (although not low by any means) FullHD 1080p video at 30 fps.</paragraph>
+			<paragraph>The videos have a bitrate of around 17 Mbps and a framerate of around 29 frames per second. Audio is recorded with a rate of 96 Kbps and a sampling rate of 48 kHz in single channel (read mono). Given that the Nexus 5 has two microphones not putting them to better use here is really disappointing.</paragraph>
+			<paragraph>Videos are smooth and have pleasing colors, although the level of detail is about average. Focusing is okay but a little overly eager at times, hunting an constantly refocusing.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And here's a 1080p video sample (0:09s, 20.0MB) taken straight from the LG Nexus 5.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The LG Nexus 5 enters our video quality comparison tool. It's obviously leaps and bounds ahead of its predecessor, although it doesn't come anywhere near the best camcorders out there.</paragraph>
+			<paragraph>   LG Nexus 5 in our Video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera after 4.4.2 update<subsectionTitle>
+			<paragraph>Having received plenty of tips about vastly improved image quality on the Nexus 5, courtesy of the Android 4.4.2 update, we decided to investigate. We used the same device to snap a series of photos. We first shot with 4.4.2, then downgraded to 4.4 and photographed the same things in a matter of minutes (just enough time for the flashing process to complete).</paragraph>
+			<paragraph>There are indeed differences, but we'd call them tweaks more than anything. We investigated three common scenarios - daylight shooting, HDR and low-light photography and we've prepared crops for all three.</paragraph>
+			<paragraph>The most notable change is white balance - we checked the three primary colors and found that the 4.4.2 camera saturates the greens less than the 4.4 camera. This improves the white balance, which had a subtle yellow tint (yellow is green + red).</paragraph>
+			<paragraph>Another change in the basic setup is exposure time - after the 4.4.2 update, the Nexus 5 prefers shorter exposures, which resolves more detail in the highlights compared to a Nexus 5 running Android 4.4. The downside of this is underdeveloped shadows.</paragraph>
+			<paragraph>A more subtle change is in the balance between noise reduction and sharpening. It seems that Google boosted noise reduction (some fine detail in the foliage or the texture of the building's exterior is gone) and restrained the sharpening. On Android 4.4 the sharpening was a bit too strong, you can see a staircase effect on some diagonal lines and some white halos.</paragraph>
+			<paragraph>The end result is minor and visible mostly to pixel peepers - less noise but a bit less detail too.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here are the full resolution shots we used for the crops.</paragraph>
+			<paragraph>Next we tried the HDR mode. The biggest difference seems to stem from the new exposure time settings: the highlights are better preserved, but shadows are noticeably less developed. There's less noise in the highlights but, due to the lower exposure, some color noise has crept in the lowlights.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>If you like, you can have a look at the full resolution shots we took - both with HDR on and off.</paragraph>
+			<paragraph>Moving on to lowlight photography, the Nexus 5 offers three shooting modes: Normal (flash off), Flash on and Night mode (which forces the flash off). Lowlight shooting is the area the Nexus 5 camera improved tangibly after the 4.4.2 update. We've included two photos for each mode - the best and the worst - to show the effects of handshake.</paragraph>
+			<paragraph>In Normal mode with no flash, the 4.4.2 camera used a much shorter exposure time - 1/34s vs. 1/8s - which reduced the effects of handshake. Other than that, the slightly dialed up noise reduction ate up a small amount of fine detail.</paragraph>
+			<paragraph>The stronger noise reduction is needed here as the camera uses a much higher ISO to make up for the shorter exposure. Originally (with 4.4) the camera rarely exceeded ISO 200 even in poor light, while now with 4.4.2 it usually picks an ISO setting in the 500-700 range.</paragraph>
+			<paragraph>The exposure times with the flash on are more or less the same, but a noticeable change is the much better white balance. The 4.4 camera rendered the white wall in the background with a strong yellow tint, while the 4.4.2 camera did a better job.</paragraph>
+			<paragraph>Night mode also uses shorter exposure after the update, though it's actually the improved processing that makes for a better-looking shot. Strangely, the worst photo with Android 4.4.2 was shakier than the worst with 4.4, despite the shorter exposure. This is most likely due to chance, a stronger twitch of the hand, but it shows that some things can't be corrected with a software update (especially the bits running on the human operator).</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Check out the full resolution shots, they are arranged as in the crop - Normal, Flash on, Night mode with the Best photo coming first, followed by the Worst.</paragraph>
+			<paragraph>Something that can't be captured in a photo is the autofocus behavior. It was sluggish originally, but with the 4.4.1 update Google made it noticeably faster and that has been carried over to 4.4.2. Continuous autofocus is also smarter, noticeably less intrusive.</paragraph>
+			<paragraph>Updating the Nexus 5 to Android 4.4.2 is worth it in general (it brings improvements to the rest of the software, not just the camera). Even updating just for the camera's sake is worth the effort - more accurate white balance and slightly improved lowlight performance are nice.</paragraph>
+			<paragraph>The overall change in image quality isn't that great though, so don't expect photographic miracles after Android 4.4.2 finishes installing.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity gets LTE at last<subsectionTitle>
+			<paragraph>The LG Nexus 5 starts off with the basics - quad-band GSM/GPRS/EDGE and penta-band 3G globally and dual-band CDMA and six HSDPA bands for the North American model. LTE is finally making its way to the Nexus family with seven supported bands in North America and six bands for the global model.</paragraph>
+			<paragraph>Google's latest Android flagship uses Bluetooth 4.0 alongside Wi-Fi support which includes a/b/g/n, as well as the new ac standard, with both 2.4GHz and 5GHz band compatibility throughout.</paragraph>
+			<paragraph>The Nexus 5 allows you to share all sorts of media via NFC by simply touching the device and other NFC-capable devices back-to-back.</paragraph>
+			<paragraph>USB on the go is a here too, although its implementation is far from ideal. You get to use all sorts of USB-connecting peripherals like mice and keyboards, but we couldn't get it to read any external storage - USB sticks, card readers and external hard drives were a no-go. There's a workaround to this using third-party apps, which suggests that for some reason Google disabled the functionality on purpose.</paragraph>
+			<paragraph>The LG Nexus 5 also offers wireless display streaming, which uses the Miracast standard. In essence it allows you to share the Nexus 5 screen content to a Miracast-supporting device via Wi-Fi.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Chrome is solo<subsectionTitle>
+			<paragraph>The Nexus 5 comes with Google Chrome as its solitary preinstalled browser. The interface hasn't changed since Chrome's launch for Android and is clean and minimalist.</paragraph>
+			<paragraph>At the top there's an URL bar with a refresh/stop buttons next to tabs and settings buttons. You can switch between tabs with a wide swipe from either the left or right of the top bar.</paragraph>
+			<paragraph>Opening the tabs area reveals a list of tabs which can be closed again with a left or right swipe. The animation accompanying this action is neat, too.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Of course, one of Chrome's strengths is its ability to seamlessly sync with its desktop version, using nothing but your Google account. This allows you to open an article on your PC and finish reading it on your mobile phone. It also syncs your bookmarks and favorite sites.</paragraph>
+			<paragraph>Google Chrome is generous on settings as well. You can control almost every aspect of your web browsing from choosing what content you want to allow to load like JavaScript, images, cookies and pop-ups.</paragraph>
+			<paragraph>If you are out of Wi-Fi access, you can, for example, choose temporarily not to load images. Digging into Chrome's options, you'll also have the option to turn the auto-fill of forms and storing passwords on or off.</paragraph>
+			<paragraph>Unfortunately, while Chrome excels in many areas, it falls short on the one that could be a deal-breaker for many of Android users and this is Flash. Sadly, viewing Flash content is the one thing you won't be able to do here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great organizer<subsectionTitle>
+			<paragraph>The Nexus 5 doesn't come with a dedicated file browser, but getting one from the Play store is not trouble at all and doesn't necessarily require any cash spending.</paragraph>
+			<paragraph>The calendar is as good as ever. There are four views - Daily, Weekly, Monthly and Agenda. The app can easily handle several online calendars as well as the local calendar.</paragraph>
+			<paragraph>You can add multiple reminders for each event and search through all events. Recently Google added color-coding to events, which helps with organizing tasks.</paragraph>
+			<paragraph>Google's own Keep app has seen some changes. What first started as a simple note-taking app is now a little more advanced. Why should you use Google Keep? Simple - first off it syncs with your Google account, so all of your notes are available on any Android or computer just seconds after you've entered your Google ID.</paragraph>
+			<paragraph>Second Google Keep now let's you insert images into notes and also supports voice memos. The app also lets you color-code your notes and has a pretty straightforward way of taking them - just start typing and it's all saved. And finally you can simply swipe old notes away and even then they'll be available in your archived view.</paragraph>
+			<paragraph>By the way, Google Keep features a nifty resizeable widget with scrollable notes view and shortcuts for creating new notes.</paragraph>
+			<paragraph>Google Drive comes pre-installed on the Nexus 5. It brings all of your documents, presentations, forms and spreadsheets from the browser-based Drive along with folders, etc. You can create only docs and spreadsheets on the mobile version of the app. You can also snap photos and the app transforms them into PDF scans.</paragraph>
+			<paragraph>One of the best things about Google Drive is the multi-user support. You can share a document and let others edit it real time alongside you. Everything is constantly being saved in the Google cloud, which gives you 15 GB of unified storage so you don't have to worry about losing important stuff.</paragraph>
+			<paragraph>Quickoffice is more of an auxiliary app to Google Drive. It still lets you create documents, spreadsheets and, additionally, presentations. You can also scan the local storage for supported files and access your Google Drive docs.</paragraph>
+			<paragraph>Opening the Clock app brings you to your local time giving you the ability to add as many additional world capital cities as you'd like (they will also be visible on your lockscreen widget upon expanding).</paragraph>
+			<paragraph>The usual alarm functionality is still present, albeit the fresh new design. You can set multiple alarms, each with its own repeat pattern, ringtone and label. The app also comes with a stopwatch and a timer.</paragraph>
+			<paragraph>The good old calculator is here too - it has big, easily thumbable keys and you can swipe to the left to bring up the advanced functions (trigonometry, square root, brackets, etc.).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and Google Earth will guide you through<subsectionTitle>
+			<paragraph>The Nexus 5 comes with a GPS receiver, which took about a minute to get satellite lock upon a cold start (it supports GLONASS for faster, more accurate locks too). You can use the A-GPS functionality to get near instantaneous locks. Alternatively, network positioning will also do if you only need an estimate of your location.</paragraph>
+			<paragraph>Google Maps is a standard part of the Android package and we've covered it many times before. It offers voice-guided navigation in certain countries and falls back to a list of instructions elsewhere.</paragraph>
+			<paragraph>3D buildings are shown for some of the bigger cities and you can use two-finger camera tilt and rotate to get a better view of the area.</paragraph>
+			<paragraph>You can also plan routes, search for nearby POI and go into the always cool Street View. The app will reroute you if you get off course, even without a data connection.</paragraph>
+			<paragraph>Google Maps uses vector maps, which are very data efficient. The latest version has a somewhat easier to use interface for caching maps - you pan/zoom around until the desired area is in view and choose "Make available offline" from the search bar (after you've scrolled past search results or prompts). You can later view cached areas and delete ones you no longer need.</paragraph>
+			<paragraph>Note that there's a limit to the size of the area you can cache - you can't just make all of Europe available offline, not even a whole country. We managed to cache Berlin and some surrounding regions before Maps told us the area is too big. Also, there's no address search in the cached maps and you can only cache map data in supported regions of the world.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Play store has all the apps<subsectionTitle>
+			<paragraph>Running on Android 4.4 KitKat, the Nexus 5 has access to the full (and latest) Google Play store.</paragraph>
+			<paragraph>You get to your account, My Apps, My wishlist and parts of it through a side-swipable menu ala Google+.</paragraph>
+			<paragraph>The Store is organized in a few scrollable tabs - categories, featured, top paid, top free, top grossing, top new paid, top new free and trending. The in-app section is untouched though and it's very informative - a description, latest changes, number of downloads and comments with rating. There is usually a demo video and several screenshots for most apps too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>It's a year since Google made a splash with an impressively spec'd smartphone at a bargain price. The Nexus 4 wasn't a financial success perhaps but making a profit off selling hardware is rarely the first thing on Google's mind. The pure Android experience was the major selling point and getting more people into their cloud services must've been worth the investment - the Nexus price is clearly subsidized, the way Amazon subsidizes its Kindle tablets so it can make profit on selling content.</paragraph>
+			<paragraph>Judging by our popularity chart, users are responding to Google's offer with enthusiasm. The Nexus lineup has traditionally premiered every single major version of Android in its purest form, clean of custom skins like Sense, TouchWiz, Xperia and Optimus UI and has been on a fast-track for OS updates ever since. Google has done well this time to match that with stellar hardware for a price that no one can possibly beat.</paragraph>
+			<paragraph>Last year's Nexus 4 had great-sounding specs on paper but the choice of the hardware components wasn't as flawless. The screen had poor contrast and washed-out colors, the camera wasn't up to scratch and the white paint job came well after the black version. Yet, for that price then, no other premium smartphone was even in the same conversation.</paragraph>
+			<paragraph>This year Google and LG tried to avoid that kind of argument and addressed most of the potential shortcomings by throwing a much improved 1080p screen and the latest Qualcomm chipset, both of which propel the Nexus 5 right into the flagship league.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The camera may not look like a massive improvement but it's no longer the potential deal-breaker it used to be. Not to mention that its optical image stabilization is far from standard equipment even among flagships just yet.</paragraph>
+			<paragraph>Google's decision to not bother with an 8GB version also makes sense - the non-expandable memory would have made it a no-go. Having non-expandable memory seems like a handicap, but the same limitation holds true for the LG's own G2.</paragraph>
+			<paragraph>Still, arguably the biggest asset of the all-new Nexus 5 is Android KitKat, which is currently only available on this device. Sure, the Nexus 4 will get the same software but it will never look as good as it does on the Nexus 5's 1080p screen.</paragraph>
+			<paragraph>Anyway, the sales of the Nexus 5, like its predecessors, will be limited to Google Play Devices store mainly and that's not as widely available as many people certainly wish. You will be able to eventually get the Nexus 5 from many online and walk-in stores around the world but the price will undoubtedly be higher, which sends the main benefit of the device right down the drain.</paragraph>
+			<paragraph>Right now it appears that the main rival of the Nexus 5 for the ultimate Android smartphone is coming from LG. The LG G2 is basically the same package as the Nexus 5 with a bigger and better screen, better battery life, superior camera and at least a couple of well-placed gems in the inevitable Optimus rubble. The LG G2 will certainly takes some time getting to Android KitKat and after that it'll will find it next to impossible to keep up with the Nexus 5.</paragraph>
+			<paragraph> LG G2</paragraph>
+			<paragraph>Sony has a Snapdragon 800 beast of its own in the face of the Xperia Z1. That one easily beats the Nexus 5 in terms of design, camera and brings expandable storage, but goes a bit too far with the bezels.</paragraph>
+			<paragraph> Sony Xperia Z1</paragraph>
+			<paragraph>The Galaxy S4 is a typically strong entry by Samsung and is a must consider with a great AMOLED display and capable camera, along with some value-adding features courtesy of TouchWiz. You also get the option of pure Android if you fancy flashing the Google Edition ROM manual and a slightly better camera but sans the OIS. The Galaxy S4's Snapdragon 600 is clearly inferior to the Snapdragon 800 beast inside the Nexus 5, though, while its newly released LTE-A version can match it but at a significantly higher price.</paragraph>
+			<paragraph> Samsung I9500 Galaxy S4</paragraph>
+			<paragraph>Just like the Galaxy S4, the HTC One will struggle to match the combination of processing power and KitKat optimizations on the Nexus 5, but it has the premium unibody design and the stereo speakers to try and make up for that. It too has a purified Google Play edition of its own.</paragraph>
+			<paragraph> HTC One</paragraph>
+			<paragraph>And finally, there is the Motorola Moto X - non-US residents can look away now. The Moto X is inferior in display and processing power but shares the unskinned UI and even adds a little of its own with at-a-glance notifications and always-on Google Now voice commands. The exterior customization options are second to none.</paragraph>
+			<paragraph> Motorola Moto X</paragraph>
+			<paragraph>But let's get down to brass tacks. There will always be a healthy assortment of hardware and software to choose from, especially in the Android realm. However at this stage none can match the Nexus 5 in terms of bang for your buck as long as the Play Store devices section is available in your country. The timely updates are indisputably a point in the Nexus 5's favor too.</paragraph>
+			<paragraph>Of course, there's a flipside to this: the non-expandable memory is a weakness that the cloud just can't quite fix - at least not at the same price as a memory card. In time maybe, when LTE is everywhere and it's as cheap as chips, but not just yet. There's the question of battery backup too, and the less-than-stellar camera. But see how these are all issues of the hardware?</paragraph>
+			<paragraph>And the Nexus 5 is trying - and largely succeeding - to shift the focus away from that. Hit that power button and watch the hardware disappear. Swipe across the homescreen and find Google Now readily available. Say "Okay Google" and you're plugged in.</paragraph>
+			<paragraph>And if you can get one at Play store prices, it may as well be "Okay Google. It's a deal".</paragraph>
+		</subsection>
+	</page>
+</review>

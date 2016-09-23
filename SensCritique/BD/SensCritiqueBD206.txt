@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Chiisakobé - Le Serment de Shigeji, tome 2</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Chiisakobe_Le_Serment_de_Shigeji_tome_2/18309372</link>
+	<generalScore>8.0</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>35</numberOfVoters>
+		<numberOfVoters>20</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Les errements de Shigeji</title>
+		<author>seleniel</author>
+		<date>2016-04-07</date>
+		<score>0.9</score>
+		<content>Shigeji a tout perdu. L’entreprise familiale qu’il devait reprendre, et ses parents, disparus dans l’incendie. Il s’agit à présent de reconstruire, au sens propre comme au sens figuré. Des maisons et des destins brisés. C’est un quotidien impossible, comme impensable, que le mangaka parvient à rendre presque palpable. De petites attentions, des gestes, des silences, tel objet posé là, tel moment fugacement saisi. Tout un ensemble de détails qui émergent d’un drame passé qu’il faut à présent dépasser, et reconstruisent, proprement, la vie de tous ces personnages. Tout un ensemble merveilleusement agencé par le découpage des planches et la finesse du dessin. Mais sans manquer d’humour pour autant. Car Minetarô Mochizuki se livre là à une adaptation moderne et vivante du classique roman de Shûgorô Yamamoto, et transpose dans le Japon contemporain une action initialement située à l’ère Edo. Il suffit, pour s’en rendre compte, de considérer la construction du personnage de Shigeji, fils de charpentier passionné par de grandes figures contemporaines de l’architecture, telles Frank Gehry ou Zaha Hadid (et les mangas citant de telles références ne doivent pas être légion). Son design semble tout droit sorti de La Famille Tenenbaum de Wes Anderson : entre la barbe, les lunettes de soleil et le bandeau, on colle au plus près du Richie incarné par Luke Wilson dans le film, et on attend le grand moment où on devrait enfin découvrir le visage du héros. Ce choix, et l’emprunt lui-même, créent immédiatement un décalage burlesque savoureux qui permet d’en partie désamorcer des situations délicates et de tempérer le pathos par une forme de légèreté savamment dosée. Tout ceci permet de déployer des trésors d’intelligence et de tendresse, comme on en découvre peu dans le manga. Chronique originale sur actuabd.com: http://www.actuabd.com/Chiisakobe-T2-Par-Minetaro</content>
+	</review>
+</sensCritiqueEntity>

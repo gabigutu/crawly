@@ -1,0 +1,13 @@
+<movie>
+	<title>The Squaw Man</title>
+	<link>http://www.imdb.com/title/tt0009650/?ref_=fn_al_tt_3</link>
+	<year>1918</year>
+	<generalScore>0.47000000000000003</generalScore>
+	<review>
+		<date>2003-12-03</date>
+		<username>Single-Black-Male</username>
+		<score>-1.0</score>
+		<shortDescription>A Second Attempt</shortDescription>
+		<fullReview>Having made his directorial debut in 1914 with this film (Hal Roach as an extra), the 37 year old Cecil B. DeMille had another shot at it. Having read the book and play myself, there isn't much that you can add to the story. He should have left it in 1914 and progressed with something new.</fullReview>
+	</review>
+</movie>

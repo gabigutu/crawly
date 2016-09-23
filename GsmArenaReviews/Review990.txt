@@ -1,0 +1,399 @@
+<review>
+	<title>Sony Xperia Tablet Z review</title>
+	<description>Stepping up</description>
+	<link>http://www.gsmarena.com/sony_xperia_tablet_z-review-931.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>6.9mm slim tablet with IP57 certification, dust and water resistant (up to 1m for 30 minutes)</paragraph>
+			<paragraph>10.1" 16M-color TFT capacitive touchscreen of WUXGA resolution (1920 x 1200 pixels); Sony Mobile BRAVIA Engine 2</paragraph>
+			<paragraph>1.5 GHz quad-core Krait CPU, Adreno 320, 2GB RAM, Snapdragon S4 Pro APQ8064 chipset</paragraph>
+			<paragraph>Android 4.1.2 Jelly Bean</paragraph>
+			<paragraph>Optional Quad-band GPRS/EDGE, tri-band 3G with HSPA connectivity (HSDPA, 42 Mbps; HSUPA, 5.76 Mbps), penta-band 4G LTE (100Mbps down, 50Mbps up)</paragraph>
+			<paragraph>16GB of built-in memory</paragraph>
+			<paragraph>microSD card slot</paragraph>
+			<paragraph>8 MP autofocus camera</paragraph>
+			<paragraph>2.2MP front-facing camera</paragraph>
+			<paragraph>1080p HD video recording @ 30 fps with stereo audio</paragraph>
+			<paragraph>Dual-band Wi-Fi 802.11 a/b/g/n Wi-Fi Direct, Wi-Fi hotspot</paragraph>
+			<paragraph>Stereo Bluetooth v4.0</paragraph>
+			<paragraph>MHL microUSB 2.0</paragraph>
+			<paragraph>? Standard 3.5 mm audio jack</paragraph>
+			<paragraph>Infrared port</paragraph>
+			<paragraph>GPS with A-GPS support; digital compass</paragraph>
+			<paragraph>1080p MKV and SD XviD/DivX video support</paragraph>
+			<paragraph>Accelerometer, gyroscope and magnetometer</paragraph>
+			<paragraph>6,000mAh Li-Po battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Runs an older Android version</paragraph>
+			<paragraph>Screen has poor outdoor visibility</paragraph>
+			<paragraph>Audio output quality is not on par with other tablets on the market</paragraph>
+			<paragraph>Uses a previous generation chipset, slightly slower than the current best</paragraph>
+			<paragraph>6,000mAh battery isn't very big for a 10.1" tablet</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Xperia Tablet Z gets a prominent spot in a long list of iconic designs by Sony. Easily one of the best looking tablets around, the Z inherits the slim, water-resistant design of its smartphone counterpart, which earns it extra points with the outdoor-loving crowd.</paragraph>
+			<paragraph>The angular OmniBalance design is all the more impressive given Sony has managed to shave down the thickness to the mere 6.9mm. Not that it matters much in actual use - this isn't a gadget to put in a pocket, slim or not, but we have been programmed to believe that "thin = cool" and the Tablet Z is keen to take advantage. On a more practical side, the tablet weighs under 500g, at least 100g less than its direct competitors.</paragraph>
+			<paragraph>The folded magazine design of previous Sony tablets may be gone, but the media playing spirit is not - the Xperia Tablet Z has an IR blaster to control home equipment, alongside a custom Sony music player (Walkman) and a video player with solid DLNA credentials.</paragraph>
+			<paragraph>Here are the other highs (and lows) on the Sony Xperia Tablet Z spec sheet:</paragraph>
+			<paragraph>WUXGA resolution on the 10.1" screen with 224ppi is a lot better than what Samsung have on the Galaxy Note 10.1 (149ppi) and quite close to the iPad 4 screen (264ppi). The chipset and Android OS version are a bit behind the times, but neither is a deal-breaker in our books.</paragraph>
+			<paragraph>We have to mention the water resistance, of course, which very few tablets have. The Tablet Z's predecessor, the IPX-4 certified Tablet S, was only splash-proof. An IP57 tablet like the Tablet Z on the other hand can withstand water jets and even submersion.</paragraph>
+			<paragraph>Sony has delivered a premium package with the Xperia Tablet Z, at least on paper. Let's dig into the hardware details to see if the claims hold up.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Xperia Tablet Z<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z comes in a big box, but there's very little of interest inside. Other than the tablet itself, there's a compact charger that pushes out enough juice to charge a tablet (some phone chargers may not be up to the task), a microUSB cable to go with it and a bunch of manuals.</paragraph>
+			<paragraph>The Tablet Z comes with a screen protector pre-applied, but depending how you intend on using the tablet, you may be better off without it, as it adds some extra glare to the screen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z is based on the OmniBalance design philosophy, which was introduced by the Xperia Z smartphone. The bold angular styling is extra sleek and, we have to say, the design of one of the best-looking flagships scales impressively well to tablet size.</paragraph>
+			<paragraph>We're glad Sony decided not to keep the glass back though - the soft matte finish offers a lot more grip and is much, much better at hiding fingerprints. It's harder to clean up once it gets dirty, but we'll take that over a constantly greasy back any day.</paragraph>
+			<paragraph>The tablet is very thin - 6.9mm vs. 9.4mm for the iPad 4, 8.9mm for the Nexus 10 and the Samsung Galaxy Note 10.1. Those tablets also weigh at least 600g.</paragraph>
+			<paragraph>The slim profile drives up the cool factor, but it's the weight that really counts. You can feel the difference and the Sony Xperia Tablet Z is quite easy to hold in one hand, even by its corner. Also, the screen bezel is wide enough to make the tablet comfortable to hold in any orientation.</paragraph>
+			<paragraph>Lightweight materials and thin design didn't compromise the build quality though, the tablet feels very sturdy in the hand and doesn't bend or twist. The matte plastic on the back is not quite as premium as aluminum, but it is a lot better than Samsung's glossy plastic.</paragraph>
+			<paragraph>We do have one issue with how the tablet is put together - there are gaps around the screen glass, around the plastic panel on the back and around the plastic on the sides of the tablet. Those gaps collect dust fairly quickly and are hard to clean.</paragraph>
+			<paragraph>Another potential problem is that all pots and slots are sealed by plastic flaps, which means you have to open and close a flap every time you plug in a cable or want to change a card.</paragraph>
+			<paragraph>There are two exposed pogo pins that can be used to charge the tablet with the special Tablet Z cradle, so you can at least save yourself the trouble of undoing the microUSB port flap every time you need to charge the thing. But the cradle costs extra, of course.</paragraph>
+			<paragraph>Those flaps are, of course, mandated by the IP57 certification, which protects the Sony Xperia Tablet Z against dust and water (water jets or submersion up to 1m for half an hour).</paragraph>
+			<paragraph>It's great to see that Sony kept all ports and slots standard and fairly easy to access (you don't need a special tool to access the microSIM card slot), despite the extra hassle of having to waterproof them.</paragraph>
+			<paragraph>Also, not using a proprietary port like Apple or Samsung (or even Sony itself with the Xperia Tablet S) is handy too, you can have only one charger or one MHL adapter to use with the tablet and a phone.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z uses a TFT display of WUXGA resolution (1920 x 1200) covered by shatter-proof glass (the supplier is undisclosed). The Tablet Z uses what Sony eagerly calls an OptiContrast design, which means there's no air gap between the glass and the display panel and the touch sensor has been integrated into the display panel itself.</paragraph>
+			<paragraph>Having no air gap reduces glare from bright sunlight and also makes the display assembly thinner. Sony also says this makes the display appear black when the screen is turned off (it is a lot darker than the Nexus 10 screen). Finally, the image on displays manufactured in this way appears to be closer to the glass surface adding for a more high-end look.</paragraph>
+			<paragraph> Regular pixel matrix for the Xperia Tablet Z</paragraph>
+			<paragraph>The Xperia Tablet Z has Sony's BRAVIA Engine 2, which constantly processes the screen's image feed to enhance contrast and make things look sharper, while reducing noise and enhancing color rendering. It can be turned off, but with BRAVIA Engine on images do look punchier.</paragraph>
+			<paragraph>The screen is reasonably sharp to begin with - at 224ppi, it's close to the 264ppi of the iPad 4. The Apple tablet does have a slight advantage in sharpness, but overall this is one of the better screens on an Android tablet (the Nexus 10 screen is sharper, 299ppi, but it has other issues).</paragraph>
+			<paragraph>Unlike Sony phones, viewing angles on the Xperia Tablet Z are very good with a minor contrast loss when viewed at an angle.</paragraph>
+			<paragraph>Contrast is good, though the brightness could have been higher, we usually kept the brightness slider towards the maximum. The display is fairly bright for a tablet screen, so it could be the brightness slider dimming it too quickly as you move it down.</paragraph>
+			<paragraph>Colors are vibrant, but our unit came with a fairly warm screen, which may not be to everyone's liking.</paragraph>
+			<paragraph>Despite the OptiContrast design of the display, it's still pretty reflective, resulting in less than perfect sunlight legibility. It's not as reflective as the Nexus 10's screen, but it isn't much better either.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls and other elements<subsectionTitle>
+			<paragraph>Above the big 10.1" screen of the tablet is a 2.2MP front-facing camera that can record 1080p video @ 30fps, just like the main camera.</paragraph>
+			<paragraph>Almost all physical controls, ports and other doodads on the Sony Xperia Tablet Z fit on its thin sides.</paragraph>
+			<paragraph>The signature aluminum Power/Lock key is on the left, above the volume rocker. Both are easy to locate and press. The volume rocker has a nub on one end to indicate "volume up" - that's fixed and doesn't change even if you use the tablet upside down (which is no problem as the screen rotates along with the on-screen controls).</paragraph>
+			<paragraph>Between the Power/Lock key and the volume rocker is the small status LED. Its visibility isn't great - it's small and it's located on the side, we would have preferred it to be on the front.</paragraph>
+			<paragraph>Anyway, also here (above the Power/Lock key) is the first of three plastic flaps, this one covers the 3.5mm audio jack. Further down are the two pogo pins that are always exposed and can charge the tablet if you put it in a cradle (sold separately, of course).</paragraph>
+			<paragraph>The Sony Xperia Tablet Z has two loudspeakers located at the bottom corners of the tablet. Each speaker has two grilles, one at the bottom and one on the side. They do spread out the sound fairly well, but the speakers themselves don't sound that loud (we'll test them later on in this review).</paragraph>
+			<paragraph>The other two flaps are at the bottom. The first (left to right) is the one guarding the MHL-enabled microUSB port. We found that L-shaped USB plugs can be used without a problem (sometimes such flaps get in the way of those).</paragraph>
+			<paragraph>The next flap covers the card slots - microSIM and microSD card slots for the LTE-enabled version of the Tablet Z and just a microSD slot for the W-Fi only version. The microSIM card slot has a plastic tray that holds the card, which is easy to pull out with a fingernail, no special tool needed.</paragraph>
+			<paragraph>Also on the bottom, there is one of two mic pinholes, the other one is on top. There's nothing of interest on the right, except, of course, for one of the two grilles of the right loudspeaker.</paragraph>
+			<paragraph>At the back, there's only the 8MP camera lens. It's in the upper right corner of the back and is flush against the surface, allowing the tablet lay flat on a table.</paragraph>
+			<paragraph>The Xperia Tablet Z is NFC-enabled, the sensor is located in the middle of the bottom part of the back. The NFC logo is there to remind you where you need to put NFC tags and phones.</paragraph>
+			<paragraph>Hidden underneath the plastic is a Li-Po battery of 6,000mAh. That's not a lot considering phones have batteries at near half the capacity and the Nexus 10 has a 9,000mAh unit. The iPad 4 has an even bigger 11,560mAh battery.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>We ran two of our battery tests on the Sony Xperia Tablet Z (it doesn?t support voice calls) to find out how well the relatively small 6,000mAh battery holds up.</paragraph>
+			<paragraph>In the web browser test, the Tablet Z lasted a little over 7 hours, which is nearly two hours less than the Apple iPad mini. Keep in mind that the iPad mini has a much smaller screen, which reduces battery usage. Also, we do this test over Wi-Fi, if you use the Xperia Tablet Z on an LTE network the battery will be drained quicker.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Web browsing<subsectionTitle>
+			<paragraph>The video playback time is nearly the same as the web browsing time. The Xperia Tablet Z is quite some distance behind the iPad mini, but again, on the Tablet Z you get to enjoy movies on a big WUXGA screen (so you can watch FullHD movies without upscaling).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video playback<subsectionTitle>
+			<paragraph>You can learn more about our battery test here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The enhanced user interface looks mostly stock<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z runs Android 4.1.2 out of the box and features the latest version of Sony's modifications. They are mostly the same as the ones that the Tablet S got, though the multi-user support was dropped (it was a nice feature to have, and it's a native feature of Android 4.2).</paragraph>
+			<paragraph>Before we go on, here's a short video walkthrough of some of the more interesting features of Sony's new tablet.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The lockscreen is the same as the one on the new Xperia phones. It's unlocked by a swipe up and there are two shortcuts - the camera and the music controls. We would have liked to see some more shortcuts here, two is okay (ish) on a phone, but they feel pretty lonely on a big 10.1" screen.</paragraph>
+			<paragraph>The homescreen can fool you for a second that you're looking at stock Jelly Bean, but then you start spotting the differences.</paragraph>
+			<paragraph>The bottom row is dedicated to the on-screen buttons - Back, Home and App switcher - and status (time, battery charge, signal strength and icons for notification). You can tap the status area to bring up notification area, another tap brings up toggles (Airplane mode, Auto-rotate screen and Notification toggles and shortcuts to the Wi-Fi and general settings).</paragraph>
+			<paragraph>In between the on-screen buttons and status are two buttons for the Small apps. The first brings up a list of Small apps (those can be filtered: All, Starred, Apps, Widgets), while the second one is a shortcut for an app of your choosing.</paragraph>
+			<paragraph>Small apps are floating windows (small ones, as the name suggests) that can typically handle various tools - the default ones are Browser, Calculator, Clip Manager, Notes , Recorder, Remote control and Timer.</paragraph>
+			<paragraph>Each app can be dragged around the screen if you need to get it out of the way and some of them, like the Browser can be resized. You can also "minimize" them - just drag them to the right or bottom edge of the screen and they'll collapse to just their icon. A tap on that icon brings them back up again.</paragraph>
+			<paragraph>Only one Small app can run at a time, which is a little limiting. You can't, for example, launch two Small apps and use them side by side.</paragraph>
+			<paragraph>Small apps can be pretty useful and enhance the multitasking skills of the Xperia Tablet. For example, if you're writing something, you can use the floating browser as reference material. You can also tap on the expand button if you want to go to the full-screen browser.</paragraph>
+			<paragraph>There's an option to download and install new Small apps off the Play Store, there are about 40 at the time of writing this. Not a big deal though because each and every widget can be made into a small app, so you can make a Small app that controls the music player in just a couple of clicks by adding the music player widget to the list.</paragraph>
+			<paragraph>We'll get back to the Remote control app later, in the Connectivity section.</paragraph>
+			<paragraph>We like what Sony has done with the bottom row of the UI, which is usually pretty empty. The top row of the screen similarly makes efficient use of the available space thanks to some Sony customizations.</paragraph>
+			<paragraph>On the left is the always visible Google text and voice search shortcuts, next to it is a customizable dock of four shortcuts. In the middle of the row are five dots indicating the current homescreen pane (you can tap them to navigate to a specific one) and on the right side is the Customize button and the app drawer button.</paragraph>
+			<paragraph>The Sony Xperia Tablet Z comes with five homescreen panes by default, but you can add up to two more (or delete ones you don't need). You can do a pinch gesture or use the customize button to add widgets, shortcuts or change the wallpaper or the whole theme.</paragraph>
+			<paragraph>The app drawer houses just apps - the widgets are added from the homescreen itself. The apps ordered into pages and you can choose between a custom order, alphabetical, most used or recently installed.</paragraph>
+			<paragraph>Additional buttons here help you search for apps, quickly uninstall apps or share an app you like.</paragraph>
+			<paragraph>The task switcher has been tweaked slightly - it displays a list of recent apps on the left side of the screen with the apps icon, name and a thumbnail of its screen. You can swipe left or right to discard an app.</paragraph>
+			<paragraph>Overall, the Sony Tablet Xperia Z interface is fast and smooth. We like Sony's customizations, especially since they augment the stock Android interface rather than replace it. We do wonder what happened to the multi-user support - it was a nice advantage over the competition. Now it's gone, at least until the Android 4.2 update (which should bring native Android support for several users).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Google Now<subsectionTitle>
+			<paragraph>As an integral part of Android Jelly Bean Google Now is present on the Sony Xperia Tablet Z. You can get to it by holding the home button.</paragraph>
+			<paragraph>In addition to being able to recognize voice commands, Google Now will learn from your usage patterns, and display relevant information. For example, if you search for a particular sports team frequently, Google Now will display information for upcoming games you might want to watch.</paragraph>
+			<paragraph>The service interacts with you by generating cards which are displayed on your screen and give you a short overview of information it believes is relevant to you. Going to work in the morning? Google Now knows this and lets you know there's a big traffic jam on your usual way to the office, and will offer you an alternate route. This extends to a multitude of other areas, including weather, traffic, public transit stations, and nearby points of interest.</paragraph>
+			<paragraph>You can either type or talk to Google Now and the app will give you one of its aforementioned info cards (if available) and read you its contents aloud (you can disable this from the app settings). If there's no card to help with the answer to your question, Google Now will simply initiate a Google web search instead.</paragraph>
+			<paragraph>There is also a Google Now widget which generates information for you based on what your interests are.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z uses the same chipset as its phone counterpart and has almost the same screen resolution - 1920 x 1200 vs. 1920 x 1080 - so we expect to see similar performance.</paragraph>
+			<paragraph>The CPU benchmarks, Benchmark Pi, Linpack and Geekbench 2 indeed put the two close together, though the Xperia Z / ZL duo has a slight advantage in Linpack. Still, it has a comfortable lead on the Google Nexus 10 tablet in the first two tests, but loses to it in Geekbench 2.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Benchmark Pi<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Linpack<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Geekbench 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu and Quadrant, which test the whole system (CPU, GPU, storage, etc.), continue this trend - the Xperia Tablet Z performs closely to the phone Xperia Z and ahead of the Nexus 10.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Quadrant<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>GLBenchmark shows a playable 32fps framerate on the older 2.5 Egypt benchmark (a few frames per second ahead of the Z / ZL phones), but the new, heavier 2.7 T-Rex benchmark drops the framerate down to 13fps. This benchmark is considerably heavier than current generation games.</paragraph>
+			<paragraph>The Nexus 10 is ahead with its Mali-604 GPU, but its native screen resolution is much higher than the WUXGA of the Xperia Tablet Z so it takes a more powerful GPU to run.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.5 Egypt (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GLBenchmark 2.7 T-Rex (1080p off-screen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Epic Citadel is closer to what current Android games are like and shows the Tablet Z close to the 60fps software limit. That means that most of the time it runs at 60fps, with more complex areas dropping lower but without major drops. Here you can see the high resolution of the Nexus 10 work against it, making it just about even with the Tablet Z.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Epic Citadel<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>SunSpider shows relatively sluggish JavaScript performance, but that's usually the case with Chrome for Android. The stock browser performs better, but is not available on the Xperia Tablet Z. The Nexus 10 is slightly faster.</paragraph>
+			<paragraph>Browser Mark 2 puts the tablet close to the current Android flagships as does Vellamo. The Sony tablet pulled ahead of the Google Nexus 10 in those two benchmarks.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Vellamo<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Split-screen contact book<subsectionTitle>
+			<paragraph>While the Sony Xperia Tablet Z doesn't have telephony, the People app is still quite useful as you can send texts or even call contacts using apps like Viber.</paragraph>
+			<paragraph>Contacts is organized into three tabs - Contacts, Favorite and Groups. The first tab lists all contacts alphabetically with an image next to the name and an alphabet scroll to make finding a contact quicker (there's also regular search as you type).</paragraph>
+			<paragraph>The app uses a split screen interface, so that you can pick a contact from the list on the left and view its details on the right. You can add multiple accounts (Google and Skype by default) and filter which ones are visible in the contact list to avoid clutter.</paragraph>
+			<paragraph>When editing a contact, you can add multiple fields of different types to store more info. You can choose Link contact and the tablet will find potential duplicate entries so you can merge all entries for a single contact into one.</paragraph>
+			<paragraph>The Favorites tab shows only starred contacts and uses a rectangular grid of their contact images. The images are big and easy to hit. The Groups tab uses a split screen interface to let you browse through groups with options for mass text or email (there's an "x of y members" label, which shows how many contacts in the group can be messaged at once, in case some don't have phone numbers of email addresses).</paragraph>
+			<paragraph>Contacts can be backed up to the SIM card, the internal storage, microSD card or even external USB storage.</paragraph>
+			<paragraph>All that's great, but we wish there was better integration with Facebook - you can see the contacts in the list, but you can't easily check their latest updates or send them a message.</paragraph>
+			<paragraph>While the Xperia Tablet Z doesn't have telephony features, we still tested the loudspeaker performance as it will be used for music and videos. It scored a Below average, which isn't very impressive.</paragraph>
+			<paragraph>You can find out more about the test here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Email, texting, IM and text input<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z comes with two email applications out of the box - one for your Gmail and a generic one to use with any POP3/IMAP account.</paragraph>
+			<paragraph>They both have a split-screen interface. Initially, your folders (or labels in Gmail) are listed on the left and the emails in the currently selected one appear on the right. Upon clicking on a message, the list of emails moves to the left tab while the body of the selected one pops up on the right.</paragraph>
+			<paragraph>You can set up the automatic email retrieval interval or you can disable that completely and only check your mail manually. There's also a handy setting that makes your client automatically download attachments only when you are connected over Wi-Fi.</paragraph>
+			<paragraph>Both apps support multiple accounts, but the Gmail app is restricted to Gmail only and does not have a combined inbox. The generic email app also allows messages to be sorted by date, sender, subject, priority, read, starred and size (useful if you're looking for an attachment).</paragraph>
+			<paragraph>The Messaging app handles SMS and MMS. It uses a split-screen user interface similar to the email apps. The threads (conversations with a contact) are on the left and the messages themselves on the right.</paragraph>
+			<paragraph>You can type a standard message or turn it into an MMS by attaching a picture, video, sound, contact or your location. The Doodle feature lets you draw something and send it as an MMS.</paragraph>
+			<paragraph>Individual messages can be starred so they are easy to find later.</paragraph>
+			<paragraph>The Sony Xperia Tablet Z comes with three chat apps out of the box. The first two are pretty much mandatory for an Android device, Hangouts (which replaced Gtalk) and Google Plus Messenger, but there's also Viber pre-installed.</paragraph>
+			<paragraph>Hangous signs into all your Google accounts at once and you can chat from all of them. It too uses a split-screen interface and can send regular text messages but also photos. The other option is to start a video call (no plain voice calls just yet) and you can chat (text or video) with multiple contacts at once.</paragraph>
+			<paragraph>Viber recently got updated to support tablets and desktop computers, so you can now call your friends from the Tablet Z. Google+ Messenger feels a little useless now that Hangouts is available, but you can still use it.</paragraph>
+			<paragraph>For text input, the tablet relies on a custom keyboard. Most of the time it only displays letters, but on occasion (e.g. when entering a password), a numpad will appear on the right.</paragraph>
+			<paragraph>The keyboard is too large to type comfortably on (especially in landscape mode), so it's great that you can enable the mini keyboard. It takes a little less than the width of the screen and you can move it around. Note that this keyboard seems to be available only on the LTE version of the Tablet Z, an odd limitation of the Wi-Fi only version.</paragraph>
+			<paragraph>Sony has added a fair number of customization options to the Tablet Z keyboard. You can enable bilingual word suggestions, symbols on long press, the Google voice typing key and the smiley key. All these options are disabled by default.</paragraph>
+			<paragraph>There's an option for gesture input too - swipe over the keys instead of tapping them.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Social gallery with DLNA<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet S came with two gallery apps - the stock Android app and a custom Sony one. This time around, Sony decided to leave only its custom solution.</paragraph>
+			<paragraph>Pictures is the main tab - you can use pinch gestures to make the thumbnails bigger or smaller. On the left you'll see the month and year the pictures were taken on along with a count. There are no alternatives to sorting by date.</paragraph>
+			<paragraph>The My Albums tab has several special albums and your online albums too. You can open Facebook and Picasa albums and post comments on photos (also, like photos in a Facebook album). Photos from DLNA servers on your network are also accessible from here.</paragraph>
+			<paragraph>The special albums include Faces, which uses facial recognition to sort photos by face, Maps and Globe both of which pull geo-tagging info from photos and place them on a map or 3D globe respectively.</paragraph>
+			<paragraph>Sony's proprietary PlayMemories service can sync your photos (from the Tablet Z and other devices) with the cloud and later accessed from multiple devices.</paragraph>
+			<paragraph>There's also a slideshow option, which offers four different transition themes and background music - either a track or a playlist from your library, or "Default music" as a last resort.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Walkman music player with plenty of enhancements<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z uses a Walkman-branded music player app. The interface is dead simple - you get album art on the left/top (in landscape/portrait orientation) that you can swipe to move between songs and playback controls on the right/below.</paragraph>
+			<paragraph>Songs can be starred to mark as favorite in your music library and can be liked on Facebook. You can use the infinite button to look up a song on YouTube (for the music video or a karaoke version), search for lyrics or find info about the artist on Wikipedia.</paragraph>
+			<paragraph>There's a visualizer option, which offers 8 different themes that animate along with the song. You might need to download music info for the visualizer to work better.</paragraph>
+			<paragraph>The app has two tabs - Playing and My Music. The first tab holds the now playing interface, while the other browses your local music library along with DLNA-compatible music sources. You can use the Throw feature to push a song to a DLNA-enabled player.</paragraph>
+			<paragraph>The Xperia Tablet Z features stereo speakers on its bottom, which sound pretty good actually for tablet speakers.</paragraph>
+			<paragraph>There are a number of sound enhancing technologies. The first is ClearAudio+, which attempts to restore what was lost in the MP3 compression. Clear Phase in turn "automatically adjusts the sound quality of the internal speaker". You also get xLOUD and Surround sound or S-Force Front Surround 3D.</paragraph>
+			<paragraph>The Dynamic normalizer option minimizes the differences in volume between different songs.</paragraph>
+			<paragraph>Of course, there's an equalizer as well, with a number of presets along with manual controls. You can save two user defined presets. There are five frequency bands to be adjusted, plus Clear Bass.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS, Track ID<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z has an RDS-enabled FM radio receiver - the app is pretty simple, it's a big slider to change the frequency, but the visualizations keep it from getting boring. You can star channels and color code them to find the ones you need easier later on. Sound can be played through the speakers (you still need the headphones connected as they act as an antenna).</paragraph>
+			<paragraph>TrackID is available out of the box to find the name of the band and song that's currently playing (on the radio or what it can record with its microphone). The Thumbs up button in the radio detects the song name and lets you post a comment on Facebook about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Good video player, but it could use better codec support<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z comes with a dedicated Movies app, which can be used to watch video, but you can also use the gallery to do that.</paragraph>
+			<paragraph>Using Movies does have its advantages though. For one, its dedicated UI is easier to use and shows both local videos and ones shared over DLNA. It can also connect to Blu-ray recording devices and stream from them.</paragraph>
+			<paragraph>Better yet, it can detect the name of a TV show, the season and episode number for each file. It then sorts the files by show and season, making it very easy to manage large collections.</paragraph>
+			<paragraph>The Movies app offers some of the same audio enhancements as the music player. There's Clear Phase, xLOUD and S-Force Front Surround 3D.</paragraph>
+			<paragraph>As far as codec support goes, we've seen better. The Xperia Tablet Z had little problem playing 1080p videos in MP4 and MKV format. DivX and XviD videos in HD however, seemed to present a problem as we only managed to get SD videos with these codecs going.</paragraph>
+			<paragraph>Sound is another issue - there's no support for AC3 or DTS, which are commonly found in MKV videos. Subtitle support is missing too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is good but not the best<subsectionTitle>
+			<paragraph>The Sony Xperia Xperia Tablet Z did quite well in the first part of audio output test. It wasn't the loudest device we have, particularly in the slate category, but its scores were excellent. Volume levels aren't bad, but they could have been better.</paragraph>
+			<paragraph>The Sony tablet didn't manage to impress quite as much when we plugged in a pair of headphones. The stereo crosstalk increased quite a lot and some distortion crept in. Frequency response was also affected, although it remained pretty good. Nonetheless, these are more issues than we are used to seeing on tablets, and when you consider that the volume level is only average, we can only give a passable mark to the Xperia Tablet Z in this scenario.</paragraph>
+			<paragraph>Check out the table and see for yourself.</paragraph>
+			<paragraph> Sony Xperia Table Z frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Average 8MP camera<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z packs an 8MP main camera that can capture photos with a maximum resolution of 3248 x 2432 and a 2.2MP front-facing camera.</paragraph>
+			<paragraph>Sony put on a custom camera interface similar to that of the Xperia Z phone. One thing we don't like about it is how controls are placed on the left and right column - that may be okay on a phone, but on a 10.1" screen it is a pain to use.</paragraph>
+			<paragraph>As for the features, you get standard options like switching between the front and back camera, digital zoom, geo-tagging, exposure compensation and white balance. There's also a sweep panorama mode. Other things you can adjust are white balance, ISO, metering and exposure compensation.</paragraph>
+			<paragraph>Autofocus can be set to touch focus, single or multi autofocus, face detection (with optional smile shutter) and object tracking, which keeps the focus on the subject even if it moves. You can pick between several scene presets and color effects.</paragraph>
+			<paragraph>If you're not familiar with these technical terms, you can just enable Superior Auto, which automatically recognizes the type of shot you're doing and picks the best settings. It displays its guess so you can make sure it is correct. Superior Auto supports anything from landscape photos to pics of newborns.</paragraph>
+			<paragraph>There's also an HDR mode and a Burst shot mode. Both Superior Auto and HDR reduce the maximum resolution to 7MP, while Burst shots go only as high as 5.4MP (or lower, depending on the burst speed).</paragraph>
+			<paragraph>Photos can be auto-uploaded to PlayMemories with settings to do it only over Wi-Fi and only while charging.</paragraph>
+			<paragraph>The image quality of the 8MP camera is not the best, but it's close to the Xperia SP camera. There's heavy noise reduction, which kills a lot of the fine detail and there's still noise left over in the images. Colors are not very accurate and depending on the scene, Superior Auto can produce oversaturated colors.</paragraph>
+			<paragraph>Also note that Superior Auto sometimes (but not always) reduces the maximum resolution to 7MP.</paragraph>
+			<paragraph>Still, considering this is a tablet, the camera is probably too good than most people would need, so we won't hold the less than perfect image quality against the Tablet Z.</paragraph>
+			<paragraph>There's an HDR mode, too (which always reduces the max resolution down to 7MP). Its effect is subtle and brings out some more detail in the highlights.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Image quality comparison<subsectionTitle>
+			<paragraph>The 8MP camera of the Sony Xperia Tablet Z gets into the fray in our Photo Quality Compare tool, which is mostly populated by phones rather than tablets.</paragraph>
+			<paragraph>   Sony Xperia Tablet Z in our Photo Compare Tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>1080p video camera<subsectionTitle>
+			<paragraph>The both cameras on the Xperia Tablet Z can record FullHD videos.</paragraph>
+			<paragraph>The interface is identical to that of the still camera and you have access to most of the same features- touch focus is gone (but tracking autofocus is still available), scenes and geo-tagging, and manual image settings.</paragraph>
+			<paragraph>The videos are stored in MP4 files with around 17Mbps bitrate for the 1080p clips (almost the same bitrate as the one that Xperia phones use). Audio is stereo at 48kHz and 128Kbps.</paragraph>
+			<paragraph>Quality is not stellar but pretty good overall. There's enough fine detail and no visible noise or other image artifacts. Colors are once again not accurate and the contrast is low. On the up side, the camera hits a solid 30fps framerate.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also grab this untouched video sample - 1080p@30fps (7s, 16.2MB).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z can shoot 1080p videos, putting it on par with the best that mobile phone cameras has to offer.</paragraph>
+			<paragraph>   Sony Xperia Tablet Z in our Video Compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great connectivity with TV remote functionality<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z comes in two versions - Wi-Fi only and LTE+Wi-Fi. The LTE-enabled version comes with quad-band 2G mobile data support (no voice connectivity), tri-band, HSPA+ enabled 3G and penta-band 4G LTE. The max speeds are 42/100Mbps down and 5.8/50Mbps up for HSPA+ and LTE respectively.</paragraph>
+			<paragraph>Both versions have dual-band Wi-Fi a/b/g/n, meaning they will work on both 2.4GHz and 5GHz networks. The transfer speed is rated at up to 150Mbps either way (you'll need a 802.11n network to get those speeds).</paragraph>
+			<paragraph>Even if you get a Tablet Z without 3G, you can still use mobile Internet, provided you have a data plan on your droid phone and the Xperia Link installed. The app simplifies the tethering process. It puts a widget on the homescreen that lets you turn tethering on and off.</paragraph>
+			<paragraph>You might be thinking that you can just use your droid's Wi-Fi hotspot feature to do the same (and you could). The difference here is that Xperia Link uses Bluetooth to share the Internet connection and not Wi-Fi. This should be more power efficient than a Wi-Fi hotspot especially considering you can keep Bluetooth on all the time, which will let tablet and phone hook up automatically once they are close enough (you can't do that with a hotspot as your battery will be dead in a couple of hours).</paragraph>
+			<paragraph>The Xperia Tablet Z also comes with Bluetooth 4.0 and a built-in GPS receiver with A-GPS and GLONASS support.</paragraph>
+			<paragraph>NFC is also on board and if you have Xperia tags you can use them to automate actions using Smart Connect. The app can also trigger actions based on time or when you plug in headphones or a charger.</paragraph>
+			<paragraph>NFC is used for One-touch mirroring - you can tap your Tablet Z to the remote of a compatible Sony BRAVIA TV and video playback will automatically be transferred to the TV. You can switch to NFC-enabled speakers the same way.</paragraph>
+			<paragraph>For wired connectivity, it has a standard 3.5mm audio jack on its right and a MHL at the bottom, which handles charging, data connections with a computer and HDMI TV Out. The Transfer app can be used to access USB mass storage devices and transfer data to and from them.</paragraph>
+			<paragraph>One feature that has become increasingly popular on mobile gadgets these days is the IR port on top. It's used to control digital appliances like TV sets, CD, DVD and Blu-ray players, cable boxes, amps, projectors, media PCs and so on (and not to transfer data like in the olden days).</paragraph>
+			<paragraph>The port comes complete with a Remote control app, which can handle multiple devices. Adding a new one is quick - you pick the type of device and the maker and the Tablet Z will handle the rest. If your device is not on the list, you can teach the tablet its controls by pointing the remote at it and pressing the buttons.</paragraph>
+			<paragraph>The Remote control app is available as both a Small app and as a full-screen app, which offers more functionality. The Small app shows how Sony imagines people will use the tablet - watching TV, while browsing on the tablet (the so called "second screen viewing" is on the rise) and you can always change the channel, adjust the volume or do more.</paragraph>
+			<paragraph>"More" comes in the form of macros - a list of actions that can trigger complex operations. You can, for example, switch the TV input mode to HDMI input and hit play, all with a single button press. When you create a macro, the tablet will make you go through each step so that it can time how long it takes the other device to react to each command (e.g. how long tasks such as switching between signal inputs takes or something like that).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Chrome and Small browser<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z skips the stock Android browser in favor of Chrome. It has a tabbed interface similar to its desktop counterpart along with features like Incognito mode and Request desktop site. You can use voice search if you don't feel like typing your query.</paragraph>
+			<paragraph>It also supports tab syncing with the desktop Chrome browser. This means you can seamlessly switch from browsing on a computer to browsing on the Xperia Tablet Z.</paragraph>
+			<paragraph>It doesn't have Flash or a built-in PDF viewer like the desktop Chrome though, in fact there's no support for plug-ins at all.</paragraph>
+			<paragraph>The Xperia Tablet Z also comes with the Small app browser. It can only browse none tab at a time and there's no option to switch from Chrome to the Small Browser. You can go the other way around though and open the current page in the big Chrome browser. Another annoyance is that bookmarks are not shared between the two browsers on the tablet.</paragraph>
+			<paragraph>The Small Browser has a Request desktop site feature, but no incognito mode.</paragraph>
+			<paragraph>The screen of the Sony Xperia Tablet Z is big enough that even the Small Browser covering half the screen offers a comfortable reading experience. The high pixel density also helps as even tiny text is legible.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Organizer without Office doc editing<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z comes with the OfficeSuite document viewer pre-installed. We were a little disappointed that there's no document editor out of the box. That's a paid upgrade.</paragraph>
+			<paragraph>Still, the app will view any Office document (DOC, XLS, PPT) and also PDF files. It uses a file browser split-screen interface that makes finding files quite easy and you can do basic file management with it.</paragraph>
+			<paragraph>The Calendar app makes excellent use of the big screen thanks to the split screen interface. There are four view modes - Day, Week, Month and Agenda. In Day and Week views, there's a tiny calendar on the right that shows the full month and puts a dot below each day with events in it.</paragraph>
+			<paragraph>Below that calendar is a list of all calendars that are synced with the device and they are color coded. You can also tap on them to hide the events from a particular calendar to reduce clutter.</paragraph>
+			<paragraph>In Month view, the right panel shows the Agenda. In Agenda view, the left panel shows all events on the agenda and the right panel shows the event's details.</paragraph>
+			<paragraph>The Calculator app is not as good at utilizing the 10.1" screen. It shows big buttons with the numbers 0-9, basic and some advanced math operators. You can use the Small Calculator instead, that one is small and has only the basic functions.</paragraph>
+			<paragraph>The Alarm &amp; clock app lets you use the tablet as a desk clock and handles alarms too. You can set multiple alarms, each with a different repeat time and ringtone.</paragraph>
+			<paragraph>This app also has a World clock tab, which shows the time in multiple cities plus weather info. Next up are the Stopwatch and the Timer tabs, which handle basic time measurements.</paragraph>
+			<paragraph>There's also a Small app version of the timer, but it keeps separate time from this app. Also, if you close it, it effectively cancels the timer (even if you just launched another Small app).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Some pre-installed applications, big and Small<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z came with the Facebook app, but the Socialife app can handle your Facebook, Twitter and YouTube accounts all at once. You can browse the combined stream of updates or by service.</paragraph>
+			<paragraph>The "You might like" option finds news items that it thinks you would be interested in, while Most popular pulls the hottest articles at the moment.</paragraph>
+			<paragraph>Individual posts can be shared and starred and along with other actions supported by the service, e.g. like and comment on Facebook, reply or retweet on Twitter.</paragraph>
+			<paragraph>The Small apps have a couple of functions that aim to rival the Samsung Galaxy Note 10.1. The first one is called Clip Manager- it snaps a screenshot and lets scribble notes on top with several colors and an adjustable brush size. You can tag the result to help find it easier later or share it.</paragraph>
+			<paragraph>Then there's the simpler Notes Small app, which lets you quickly type in a note. That has no fancy drawing functions, you can use the full Notes app for that instead. That one lets you change font size, color and style, add checkboxes to items plus add multimedia like pictures, sounds, clips and even a map.</paragraph>
+			<paragraph>The recorder Small app does not have a big app alternative, but it does a good enough job of recording you notes.</paragraph>
+			<paragraph>There's also a file transfer app, which allows you to easily transfer files between the built-in memory and the SD card or even attached mass storage devices. It's not a full-blown file manager though.</paragraph>
+			<paragraph>Sony has also included a Backup &amp; restore app that can handle contacts, messages, bookmarks and history, clock and calendar stuff, notes and system settings, accounts and so on. If you pop in a microSD card, it will also backup your photos, videos and music, plus all apps you've downloaded and their data.</paragraph>
+			<paragraph>You can use checkboxes to select what you want to back up (so you don't waste space by backing up your music library over and over). Besides internal storage and microSD cards, you can also back up and restore from external USB storage.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Google Maps and Wisepilot<subsectionTitle>
+			<paragraph>The Sony Xperia Tablet Z comes with a GPS and GLONASS receiver, which got a satellite lock in just about a minute with A-GPS turned off. A-GPS can speed this up quite a bit, but requires Internet access.</paragraph>
+			<paragraph>The Xperia Tablet Z comes with the latest Google Maps and Navigation, which allow for easy caching of areas of the map for offline use along with offline re-routing. This means you can use Maps without a data connection and even if you do need to go online, the vector maps are very data efficient.</paragraph>
+			<paragraph>For now though, turn-by-turn voice guidance using Google Maps Navigation is only available in select countries. Google keeps adding new countries to the list, but if you don't live in one of them, the best you can do is plan a route in advance and keep an eye on your current location during your trip.</paragraph>
+			<paragraph>Quite naturally, the app also supports the Street View mode. If it's available in the area you're interested in, you can enjoy a 360-degree view of the surroundings. When the digital compass is turned on it feels like making a virtual tour of the location.</paragraph>
+			<paragraph>If Google Maps doesn't do it for you, there's also Wisepilot preinstalled. It's just a trial version and you'll soon have to buy a license - that costs &#x20ac;3 for a month in Europe, &#x20ac;20 for a full year. For North America it's $3 for a month, $20 for a year.</paragraph>
+			<paragraph>Wisepilot uses online maps, but you can enable the roaming feature that reduces data usage. Or pay &#x20ac;5 / $5 to store maps offline for 10 years. The app also has other features like speed camera warnings, live traffic and Wcities (alerts you to current events, exhibitions, concerts and so on).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Play Store for tablets<subsectionTitle>
+			<paragraph>The Google Play Store offers a huge number of apps, so you can be sure that you won't be short of software to install on your Xperia Tablet Z. The Store has a dedicated tablet interface and special categories like Tablet 101, Tablet Spotlight and Sony Select.</paragraph>
+			<paragraph>There are featured apps, editors' choice and staff-recommended apps in addition to the usual top free and top paid. The Store will also recommend apps based on your download history and what your friends have liked and downloaded.</paragraph>
+			<paragraph>The top new paid and top new free lists are worth checking out too and you shouldn't forget the trending apps. Naturally, there is a built-in search and apps are broken down into categories so you don't get lost.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>After blowing hot and cold with unorthodox designs, Sony seem to have finally nailed their tablet styling. The Xperia Tablet Z combines stay-at-home comfort with on-the-go usability.</paragraph>
+			<paragraph>It can be the heart of your media hub with One-touch mirroring, an IR remote and DLNA functionality, or you could use it on outings and by the pool. You wouldn't even need to pack an extra charger and cable for it.</paragraph>
+			<paragraph>The Xperia Tablet Z is also one of the hottest pieces of hardware we've handled recently - thin and light, with great looks and some of that good old Sony premium feel. Desirable hardware has taken a back seat to desirable features in recent years and we're glad to see the Tablet Z buck the trend.</paragraph>
+			<paragraph>The Google Nexus 10 is the gold standard for 10.1" Android tablets when it comes to bang for your buck. It has a higher resolution screen and a bigger battery compared to the Tablet Z, not to mention that it will get new Android versions quicker.</paragraph>
+			<paragraph>The exterior isn't quite as polished though (nor is the Google tablet water resistant) and there's no expandable storage or LTE option. For the price (if you can get it from the Play Store), it's an amazing tablet still.</paragraph>
+			<paragraph> Samsung Google Nexus 10 P8110</paragraph>
+			<paragraph>The Asus Padfone Infinity is not exactly a tablet - it's a phone with a tablet dock. The dock has a 10.1" WUXGA screen and a 5,000mAh battery (to go with the 2,400mAh battery in the handset), while the phone provides mobile connectivity, a 13MP camera and a newer Snapdragon chipset. There's a big issue with it though - you can't use your phone while someone is using the tablet.</paragraph>
+			<paragraph> Asus PadFone Infinity</paragraph>
+			<paragraph>Asus also has a more traditional tablet - the Transformer Pad Infinity 700, which has a similar screen and an optional QWERTY keyboard that turns it into an Android-powered netbook (with more battery power, a trackpad and full-size USB and SD card slots). It's powered by Tegra 3 though and that's a big step back in terms of performance.</paragraph>
+			<paragraph>Acer's 10.1" WUXGA tablet, the Acer Iconia Tab A700, is Tegra 3 based too. It packs a 9,800mAh battery and while it's chunkier (11mm thick, weighs 665g), it is more affordable (even than the relatively cheap Nexus 10).</paragraph>
+			<paragraph>Both the Transformer Pad Infinity 700 and Iconia Tab A700 have 3G versions, with the Transformer also coming in LTE flavor too.</paragraph>
+			<paragraph>  Asus Transformer Pad Infinity 700 LTE ? Acer Iconia Tab A701</paragraph>
+			<paragraph>Of course, no discussion about tablets is complete without mentioning the Apple iPad 4. It's the best-selling current generation 10-or-so inch tablet with premium build and screen. Plus, iOS has tons of games (Apple's platform usually gets them first, not to mention the GPU power superiority of the iPad).</paragraph>
+			<paragraph> Apple iPad 4 Wi-Fi</paragraph>
+			<paragraph>Did you notice that none of these tablets is water resistant? That's not because there aren't any others, but they are very rare - an IP57 tablet is much harder to come by than an IP57 phone, especially a 10.1" tablet.</paragraph>
+			<paragraph>And you won't find a tablet quite as thin and light and, however subjective that is, as good-looking as the Sony Xperia Tablet Z. The specs are great too, our only real complaint is that the battery capacity is on the low side.</paragraph>
+			<paragraph>Sony has one of the best Android tablets on its hands, one with a unique feature mix that competing tablets have no answer to. While the company has some way to go in the hotly-disputed smartphone market, the Sony Xperia Tablet Z has a good chance of actually making a difference in the high-end segment of the tablet warfare.</paragraph>
+		</subsection>
+	</page>
+</review>

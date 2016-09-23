@@ -1,0 +1,330 @@
+<review>
+	<title>Sony Xperia C4 Dual review</title>
+	<description>Flashy performer</description>
+	<link>http://www.gsmarena.com/sony_xperia_c4_dual-review-1276.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Available as Xperia C4 Dual with dual SIM support or Xperia C4, both with LTE support, cat. 4 LTE (150/50Mbps);</paragraph>
+			<paragraph>5.5" IPS LCD, 1080 x 1920 pixels, 401ppi</paragraph>
+			<paragraph>Android 5.0 Lollipop with Xperia UI on top</paragraph>
+			<paragraph>Mediatek MT6752 chipset with octa-core 1.7GHz Cortex-A53 processor, Mali-T760MP2 GPU and 2GB of RAM</paragraph>
+			<paragraph>13MP rear camera, single LED flash, 1080p video recording, hardware two-stage shutter release button</paragraph>
+			<paragraph>5MP wide-angle front-facing camera with LED flash and HD video recording</paragraph>
+			<paragraph>2.4GHz &amp; 5GHz Wi-Fi a/b/g/n; Bluetooth 4.1; GPS/GLONASS; FM radio with RDS; USB On-The-Go; NFC</paragraph>
+			<paragraph>16GB of built-in storage, expandable via a dedicated microSD card slot</paragraph>
+			<paragraph>Active noise cancellation with a secondary microphone</paragraph>
+			<paragraph>2,600mAh battery; STAMINA Power Saving Mode</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Battery somewhat low in capacity, non-removable too</paragraph>
+			<paragraph>All-plastic build, the back easily accumulates smudges</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Sony Xperia C4 is one odd member of the company's lineup. It's not very close to the flagship in terms of specs, yet it's ruling the phablet division with a 5.5-inch FullHD display. The T2 and T3 are both showing signs of age, not to mention they have less than half the pixels. Meanwhile the Z-series have been stuck at 5.2 inches for a while, leaving little options to those looking for a pixel-rich phablet.</paragraph>
+			<paragraph>The Xperia C4 builds on the proven concept of the C3 with the same 5MP front camera with an LED flash to please the narcissistic folk and allow shooting in less than ideal conditions at that (the frowned upon flash selfie at the club a prime example).</paragraph>
+			<paragraph>The Xperia C4 then goes on to add a few key improvements that position the smartphone firmly in the upper segment of the midrange. The 1080p display resolution is one we already mentioned, but there's also a higher count 13MP primary camera, for those that will buy the C4 not for the selfie capabilities.</paragraph>
+			<paragraph>More importantly the new phablet now comes with a powerful Mediatek MT6752 chipset to replace the modest Snapdragon 410 and the octa-core Cortex-A53 processor should provide plenty of oomph. Both the 2GB of RAM and 16GB of storage are double those found inside the predecessor, and although neither is groundbreaking, they both state that the C4 means business, where the C3 had its mind set on play.</paragraph>
+			<paragraph>Sony has also shaved a few millimeters off the smartphone's height and the C4 is now top among the entire lineup in terms of screen-to-body ratio, even if the engineers could have trimmed the top bezel a bit more.</paragraph>
+			<paragraph>A little word of clarification - we have the dual-SIM version for review, but most of our findings apply equally to both, so we'll be dropping the Dual part of the name for most of the following pages.</paragraph>
+			<paragraph>So, while the Xperia C3 was a simple affordable phablet, keen to shoot selfies at night, the C4 is a properly equipped midrange device where the flashy front camera is only one of its virtues. It's also the only viable option in Sony's camp if you want a high-res large-diagonal smartphone.</paragraph>
+			<paragraph>It's interesting to see Sony going for such thin bezels on the C4, and not on the flagship Z-series after getting repeatedly bashed for its typically wasteful use of footprint. Apparently it can be done.</paragraph>
+			<paragraph>We'll be looking at the Sony Xperia C4 in depth over the following pages, starting with unboxing and hardware overview.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Plain cardboard box with all the basics<subsectionTitle>
+			<paragraph>The Sony Xperia C4 comes in a simple retail package that doesn't impress with its contents. You get an AC adapter, whose output is rated at a rather low 850mA, so you may forget about speedy charging. There's a USB cable to complement it, as well as a headset with a single-button remote.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia C4 360-degree spin<subsectionTitle>
+			<paragraph>At 150.3 x 77.4 x 7.9 mm the Xperia C4 is decently compact for a 5.5-inch smartphone, certainly shorter than average. It is Sony's best performer in terms of screen-to-footprint, better than the latest Xperia Z3+ flagship.</paragraph>
+			<paragraph>With a little more effort put in minimizing the top bezel, screen-to-body ratio could have been a headline feature of the C4, but things aren't too bad now either. The thickness isn't particularly impressive, and at nearly 8mm one could have expected a larger battery these days.</paragraph>
+			<paragraph>The Xperia C4 tips the scales at 147g, which makes for a reasonably light phablet. If anything, it feels a little lighter than it actually is, thanks to its all plastic body.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Body and design<subsectionTitle>
+			<paragraph>The Xperia C4 is no stunner, it's more of a regular run of the mill black slab type of a smartphone. Granted, that holds true for our (obviously black) review unit, and wouldn't so much be the case for the white version, not to mention the green (or Mint) one.</paragraph>
+			<paragraph>Still, even in this conservative dress, this is a recognizable Sony design with a few characteristic touches that set the Japanese company's lineup apart from the competition. Chief among those is the aluminum power button on the right side which debuted on the original Xperia Z back in the beginning of 2013.</paragraph>
+			<paragraph>Another distinctive feature, the bumper corners, are a more recent addition to the Sony aesthetic. Those are functional in providing protection in case of accidents but they certainly don't help with looks. That said, they are less of an eye-sore on the Xperia C4 as they are on the flagship Z models. That's the case because the outer frame here is entirely made of plastic, so the corners don't contrast as much.</paragraph>
+			<paragraph>The frame is also interrupted for the card slots, of which there's a total of three - two for nano-SIM cards and one for microSD. A feature borrowed from the environmentally-sealed Z series, the flap that covers the push-to-insert-push-to-eject slots takes up the entire width of the frame and is rather inconspicuous.</paragraph>
+			<paragraph>The back is made of a soft matte plastic that is similar to the one used for the recent Z-series tablets. What that means is it feels very nice to the touch and offers plenty of grip, but it also accumulates grease with ease and on top of that is very difficult to clean.</paragraph>
+			<paragraph>A word of caution - the slots cover has a slit for opening it, which may at first look like a nice place to start popping off the back cover. The same goes for the microUSB port, it would have been a nice point for prying off the rear panel. Don't do it - it's non-removable and you may end up damaging your phone.</paragraph>
+			<paragraph>When you look at the front, the Sony logo on top helps a lot to establish brand affiliation, as the minimum bottom bezel is certainly a first for the company, and does tend to throw off the uninitiated at first glance. We like the route Sony has gone, though we can't help but wonder if the top bezel could have been trimmed a touch more. Next time, perhaps.</paragraph>
+			<paragraph>The lens of the 5MP front camera then takes center stage, though admittedly our black model camouflages it a lot better than the other color options. Hiding it was never the goal though, and the whole module is surrounded by a metal rim which sticks out a fraction of a millimeter, so even if you couldn't see it, you'd feel it if you run your finger. The LED flash, on the other hand, doesn't scream for attention all that much, instead it looks like just another sensor cutout.</paragraph>
+			<paragraph>The display is surrounded by a miniscule raised lip. It provides some protection to the display if the phone is lying face down, but it's a bit of a usability liability as the edge gets in the way of your swipes - a rather irritating feat in this age of smooth-edged 2.5D glass.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls and handling<subsectionTitle>
+			<paragraph>The Xperia C4 has a rather typical Sony control layout. The packed right side is home to most, with the aforementioned power button sitting a bit above midway. Above it is the card slot array behind the plastic flap, while below you get a volume rocker and the now nearly extinct outside of Sony's lineup two-stage shutter release button.</paragraph>
+			<paragraph>Perhaps worth noting is that the buttons feel noticeably clickier and offer much better feedback than the somewhat mushy ones on the Xperia M4 Aqua, though understandably not up to the Z3+ standard.</paragraph>
+			<paragraph>Over on the left there's nothing but a microUSB port for charging and wired connectivity.</paragraph>
+			<paragraph>Up top there's a standard 3.5mm headphone jack, while the bottom is home to nothing else other than the primary mic pinhole.</paragraph>
+			<paragraph>The front is pretty crowded too, especially at the top (well, actually, exclusively at the top). The earpiece sits centrally above the company logo, with the notification LED and the ambient light/proximity sensor to its left. In the top right corner you'll find the 5MP front-facing camera module, joined by the headline LED flash.</paragraph>
+			<paragraph>The back is home to the 13MP primary camera, which has an unusual slightly off-center location. Below it sits its own single-LED flash. A bit to the right there's a pinhole for the secondary mic, while the loudspeaker is in the bottom left corner behind a fine metal mesh. There's the obligatory Sony and Xperia logos, as well as an NFC label to tell you where the antenna is.</paragraph>
+			<paragraph>The Xperia C4 handles well for a 5.5-inch device, helped by the grippy texture on the back and the compact bottom bezel, which places a larger portion of the screen within reach. The power button is easily accessible with either your right thumb or left index/middle finger depending on how you hold it.</paragraph>
+			<paragraph>The volume rocker sits somewhat low and turning the volume down requires some readjustment of the grip. The shutter button, on the other hand, is placed exactly where it should be.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sharp 5.5-inch FullHD Display<subsectionTitle>
+			<paragraph>Aside from the 5MP front camera with flash, the Xperia C4 is interesting in no small part because of its display. As it stands now it's the best specced phone Sony has to offer with a diagonal larger than 5.2 inches. One might argue that the Xperia Z Ultra may still hold that title, but at 6.4 inches it's clearly pushing the boundaries of what you can call a phone, even if the Snapdragon 800 could still pull its own weight.</paragraph>
+			<paragraph>Anyway, the Sony Xperia C4 comes with a 5.5-inch display with 1,080 x 1,920 pixels resolution and that's good for 401ppi density. It's got nice colors, though a bit subdued at the default setting, and the Super-vivid mode doesn't do all that much in terms of punch. You do get the option to tweak the white balance with RGB sliders but there are no presets.</paragraph>
+			<paragraph>Side viewing is a non-issue, and the inevitable contrast compression and minor drop in brightness don't get in the way of sharing the content on that fine display.</paragraph>
+			<paragraph>There aren't many options you can fiddle with on the display, but there is a glove mode.</paragraph>
+			<paragraph>Our microscope shot revealed the expected standard arrangement with equal numbers of red, green and blue pixels.</paragraph>
+			<paragraph>Our lab tests also revealed the Xperia C4's display to be plenty bright at the maximum setting, so much so that despite the averagely lit blacks, contrast is still high. What's nice to see for a change is the nearly linear slider for brightness adjustment, with the 50% percent setting equating to about 54% of actual maximum.</paragraph>
+			<paragraph>Not one to excel at sunlight legibility, the LCD tech inside the C4 still managed a decent score in our test.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Sony Xperia C4 comes in single and dual SIM flavors. Both the versions offer quad-band GSM/GPRS/EDGE/HSDPA support. Cat.4 LTE support is also present, though only one of the SIM is graced with it in the C4 Dual model.</paragraph>
+			<paragraph>Local connectivity features dial-band Wi-Fi a/b/g/n with Wi-Fi Direct and hotspot. There is also support for Bluetooth 4.1 with A2DP. Satellite navigation is also a given, with additional A-GPS and GLONASS support. The Xperia C4 also has an FM radio with RDS. It doesn't offer an IR port, but it does come with NFC.</paragraph>
+			<paragraph>There is a microUSB 2.0 port for charging and data connections. Media transfer mode is supported for accessing the phone's built-in memory and microSD card over the USB cable. USB OTG functionality is also present and it works fine should you decide to chain-link a mouse and a flash drive in a keyboard and connect the lot, if that's your thing.</paragraph>
+			<paragraph>The microUSB port doesn't have any TV-out functionality though, but if you own a compatible HDTV, you can output your phone's screen wirelessly via the Miracast protocol or Sony's Xperia Connectivity Throw option.</paragraph>
+			<paragraph>The app also lets you share your media over DLNA by creating a media server, as well as connect to a PlayStation DUALSHOCK 3 (or 4) wireless controller.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life test<subsectionTitle>
+			<paragraph>The Sony Xperia C4 comes with a 2,600mAh battery, which makes it a bit underpowered for a 5.5-inch FullHD device. That said, the Samsung Galaxy A7 did very well with its equal capacity, and so did the Vivo X5Max we reviewed only a couple of weeks ago with only 2,300mAh.</paragraph>
+			<paragraph>The harsh reality is, however, that the Xperia C4 is struggling to remain lit up for more than 7 hours. The web browsing test depletes the battery in a little over that, while the video playback longevity can't even make it to the 6-hour mark. However, you should have in mind that the smartphone's brightness at the typical 50% setting we carry out those tests at, is around 350 nits, which is nearly twice as high as some competitors.</paragraph>
+			<paragraph>The 3G talk time is only average, so the Xperia C4 can't redeem itself on that front, and it only leaves the efficient standby in its favor.</paragraph>
+			<paragraph>The battery testing procedure is described in detail in case you're interested in the nitty-gritties.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The usual Sony touches over Lollipop 5.0<subsectionTitle>
+			<paragraph>One of the lighter Android overlays, Sony's XperiaUI keeps the looks close to the stock OS, only adding minor tweaks, where Sony deemed necessary. It's also remarkably consistent between different models and different Android versions, so recurrent Sony users always feel right at home.</paragraph>
+			<paragraph>There's a single clock widget on the lockscreen which by default uses Sony's signature styling with a bold hour numeral, and less striking minute digits. If that's not your thing, you can opt for a simpler digital clock or an analog clock face, but that's it.</paragraph>
+			<paragraph>The clock is followed by the lockscreen notifications, which Google introduced with Lollipop, and in Sony's case a double tap on one will unlock the phone and take you straight to the respective app.</paragraph>
+			<paragraph>Unlocking works only by an upward swipe, other directions won't cut it. You do get shortcuts to the camera and dialer, though. A double-tap-to-wake feature could be found on the Xperia Z3+, but on the C4 the power button is the only way to go.</paragraph>
+			<paragraph>Beyond that, there's the usual set of homescreens, of which you can have up to seven. You can choose any one of them as Home, but you can't rearrange them, nor do they cycle to the first one once you reach the end. A dock of four app shortcuts plus app drawer icon sit on the bottom. Naturally, folders are supported on the dock, as well as the homescreens.</paragraph>
+			<paragraph>There's an extensive theming engine and although the preinstalled themes offer mostly the same Xperia look in different colors, a whole bunch of other custom themes is available online. However, most options are paid.</paragraph>
+			<paragraph>The app drawer displays a 4x5 grid of apps and you can't change that, though the large 5.5-inch screen could have easily accommodated a 5x6 grid. The apps can be arranged alphabetically, by most used, or in a custom user-selected order. There's a search feature, which comes in really handy if you have a lot of apps installed. To change the arrangement or uninstall an app, you need to evoke the side drawer, a feature of the XperiaUI used throughout Sony's proprietary apps.</paragraph>
+			<paragraph>The notification area is the stock Lollipop flavor. That means a two stage design, with notifications displayed on the first swipe, and the settings toggles available upon expanding it. A less obvious gesture, a careful two finger pull down, will get you straight to the toggles.</paragraph>
+			<paragraph>Wi-Fi and Bluetooth are not mere switches, tapping on the text below will take you to the settings of the two. Editing the selection of toggles is available with a shortcut straight from the notification shade.</paragraph>
+			<paragraph>Like the rest of Sony's Lollipop builds, the Xperia C4 uses standard Android app switcher with the added benefit of a kill-all button. The more noticeable Sony touch comes in the form of Small apps.</paragraph>
+			<paragraph>They pop up tiny widget-like applications on your screen, which you can move around and use without having to open the full-fledged app. The set of available apps is: Active Clip, Chrome Bookmarks, Browser, Calculator, Calendar, Gmail, and Timer. You can launch only one instance of a Small App, but you can open multiple Small Apps simultaneously, though it can quickly become a mess.</paragraph>
+			<paragraph>You can download more Small Apps off the Play Store or use the option to turn your favorite widgets into Small Apps. Just hit the Plus key at the top of the list and choose a widget.</paragraph>
+			<paragraph>The Xperia C4 has a couple of one-handed operation features which aim to help with ease of use on the large screen. Those range from the familiar scaling down and moving to the side of the dialer and unlock pattern dots, to the more novel Home double-tap for access to the notification area.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>A midrange phone arrived at the office without a Snapdragon 615 inside, for a change. The Sony Xperia C4 is powered by the Mediatek MT6752 SoC, which also relies on the same Cortex-A53 CPU cores as in the S615, only in this case all 8 of them can simultaneously be clocked as high as 1.7GHz, should the need for top performance arise.</paragraph>
+			<paragraph>The octa-core processor is coupled with a Mali-T760MP2 GPU and 2GB of RAM, which should be serious improvements over the Adreno 305 and single gig inside the Xperia C3.</paragraph>
+			<paragraph>The battery of tests starts as usual with Geekbench 3.0, which measures RAW CPU performance. Mediatek's True octa-core concept shines here and the C4 posts a beastly score, unmatched among its rivals in the midrange. Even the Acer Liquid Jade S, which packs the same chipset, is not on par with the Sony offering. Year-old major flagships Samsung Galaxy S5, LG G3 and Sony Xperia Z2 are nowhere near that standard.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The popular Antutu benchmark has become an industry standard for overall performance, and it evaluates CPU, graphics, memory and storage, the lot. Another great performance here, the Xperia C4 smokes the S615 bunch, which hovers around the high 20,000s to low 30,000s, with only the Xiaomi Mi 4i somewhat higher. The Xperia C4 is on par with the S801-equipped Galaxy S5, but is bested by the highest specced Asus Zenfone 2 ZE551ML with an Intel Atom Z3580 inside.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Xperia C4 fails to dominate in Basemark OS II 2.0, though it still scores higher than its S615 rivals, the Galaxy A7 being over 100 points behind.</paragraph>
+			<paragraph>Single core-performance is led by the Snapdragon 801s, though they rely on an entirely different quad-core architecture and thus obviously pack more punch per core. The Xperia C4 is then ahead of the S615s, with the only exception of the Xiaomi Mi 4i, which beats it by a hair.</paragraph>
+			<paragraph>Unsurprisingly the Xperia C4 leads the way in the multi-core test, with S615 devices a mile behind.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Graphics performance is less exciting but mostly adequate. The results are not what they initially appear though, as the top spots are occupied mostly by the 2014 flagships, which benefit from their superior GPUs. And then if the C4 is bested by S615 device, it's in the onscreen routines where the Xperia M4 Aqua, Acer Liquid Jade S and HTC Desire 820 are favored by their lower 720p resolution.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Moving on to browser benchmarks, things don't look all that well for the Xperia C4. Even though it's running nothing but Chrome, thus supposedly avoiding blunders by the manufacturer's software engineers, the C4 is consistently trailing, both in the JavaScript-focused Kraken 1.1 and the broader BrowserMark 2.1.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>All in all, the Sony Xperia C4 proves to be a capable performer, with strong results in processor benchmarks and above average graphics for its class. It does have its weak spot, and that's browser performance, though.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook<subsectionTitle>
+			<paragraph>The phonebook on the Xperia C4 is called Contacts. It uses a tabbed interface, consisting of Contacts, Favorites and Groups. It's not bundled with the phone app, but you can still quickly jump to it from the dialer. The contact list has a dedicated search filed plus it offers a very nicely animated alphabetical scroll bar.</paragraph>
+			<paragraph>Single contact view opens in full screen, rather than the pop-up view of previous Xperias. You get plenty of options for adding contact details with practically unlimited number of fields.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The Xperia C4 had no problem with reception and we didn't experience dropped calls or other issues. The volume range is rather wide and you wouldn't want to pump it all the way up in all but the loudest surroundings. Even at maximum volume the output remains clear.</paragraph>
+			<paragraph>The dialer is its own dedicated app and supports smart dialing. It doesn't have a built-in recorder, if you're into that sort of thing.</paragraph>
+			<paragraph>The loudspeaker of the Xperia C4 behaves quite differently with ClearAudio+ disabled and with the feature turned on. While the off setting makes for an only Average score, switching it on results in a substantial boost in volume across the board, meeting our criteria for a Very Good rating. It does introduce a bit of noise at maximum volume, so you'll need to weigh the pros and cons.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging, email and text input<subsectionTitle>
+			<paragraph>The Sony messaging app has the regular functionality with threaded view and automatic transition to MMS when attaching media. Google Hangouts is also on board.</paragraph>
+			<paragraph>Naturally, the Gmail client and the default Email apps are on board. Either one can sync with multiple accounts, both Google and POP3/IMAP.</paragraph>
+			<paragraph>The Xperia keyboard has every feature you may need. It has symbols on long press, smiley key, and Swype-like gesture input. There's also a one-handed mode which squishes the entire keyboard to one side for easier access. A selection of three differently colored skins is also available.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Album does a great job<subsectionTitle>
+			<paragraph>The Sony Xperia C4 comes with the custom Sony gallery, called Album. Images are organized into groups of thumbnails and sorted by date. You can resize the image thumbnails with a pinch gesture all the way from a grid of tiny, tiny thumbnails to a single image view.</paragraph>
+			<paragraph>The gallery can pull images from your Facebook, Picasa or Flickr accounts for easy viewing in one spot. Alternatively, you can turn the C4 into a DLNA server and view photos from the device on a computer or compatible TV.</paragraph>
+			<paragraph>Also there are some special albums - Places, for one, which uses the geotagging info to sort photos by where they were taken, and Faces is another, which groups photos by the faces of the people in them.</paragraph>
+			<paragraph>Images can be cropped or rotated directly in the gallery. Quick sharing via Picasa, Email apps, Facebook, Bluetooth or MMS is also enabled. A simple slideshow mode with no transition settings is present as well.</paragraph>
+			<paragraph>There's also an image editor, which provides basic tools for enhancing your photos like cropping and color effects, but also a bit more advanced features like curves adjustment.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Simple, yet powerful video player<subsectionTitle>
+			<paragraph>The video playing app is dubbed Movies and it has a simple interface, but is strong on codec support and subtitle handling. It's connected to Gracenote, which helps you find additional information about the movies and TV shows you have on the tablet.</paragraph>
+			<paragraph>The Xperia C4 plays just about everything - AVI (DivX, XviD), MP4, WMV and even MKV and MOV. AC3 audio is not supported but you can still view the video, if it's necessary. The video player does support fully-customizable subtitles.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player drops the Walkman brand<subsectionTitle>
+			<paragraph>The music player app is named simply Music, the Walkman badge has gone into oblivion. That said, the app offers largely the same interface and core functionality as before. The interface is based on tiles that sort your music collection by Artist, Albums, Playlists, all songs and even the songs your friends are listening to (but you need to link your Facebook account).</paragraph>
+			<paragraph>When there's music playing, the album art serves as background for the lockscreen, with controls appearing right there. The notification area also offers the now playing screen with music controls and the option to jump into the Walkman player.</paragraph>
+			<paragraph>The Now Playing screen shows a carousel with the tracks in the current playlist and the usual music controls below that. You can swipe left and right to move between tracks. The Infinite button will help you find the music video on YouTube, look up info about the artist on Wikipedia and search for lyrics on Google.</paragraph>
+			<paragraph>Gracenote is used here too and it can automatically download information about your tracks and album art or you can edit it manually.</paragraph>
+			<paragraph>Sony has improved the Walkman player's settings. There's the familiar ClearAudio+ option, which determines the best audio quality settings depending on the song you're listening to. Dynamic normalizer evens out the volume differences between tracks, which is great if you've mixed multiple albums from multiple sources.</paragraph>
+			<paragraph>The Sound enhancements offer even more settings. There's an equalizer with presets and manual settings (including tweaking Clear Bass). There's Surround sound mode too, which imitates the Studio, Club or Concert Hall experience. Dynamic normalizer minimizes the difference in volume between songs (great if you're playing a shuffled mix).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio with RDS and TrackID<subsectionTitle>
+			<paragraph>The Sony Xperia C4 features an FM Radio aboard, complete with RDS support. The app has multiple skins and integrates with TrackID to recognize the currently playing song. You can even directly make an "I'm listening to..." post on Facebook.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is mostly good<subsectionTitle>
+			<paragraph>The Sony Xperia C4 did a very good job in the first part of our audio quality test, where it's connected to an active external amplifier. The scores it got were great top to bottom, but its below average volume deprived it of the perfect mark.</paragraph>
+			<paragraph>Plugging in a pair of headphones did harm the stereo crosstalk and frequency response, while also adding some intermodulation distortion. None of the readings are too bad, but we are used to seeing less degradation in this case. Volume levels disappoint once again, too, making the performance here adequate, rather than very good.</paragraph>
+			<paragraph>And here go the results so you can see for yourselves.</paragraph>
+			<paragraph>Sony Xperia C4 frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Decent 13MP camera, inconsistent Superior Auto mode<subsectionTitle>
+			<paragraph>The Sony Xperia C4's primary camera is equipped with a 13MP Exmor RS sensor, which shoots images in a native ratio of 4:3 up to a maximum resolution of 4,096 x 3,072 pixels (so, it's actually 12.6MP effective resolution). The imager is placed behind a reasonably fast f/2.0 lens. A single-LED flash is on board to assist with low-light shooting.</paragraph>
+			<paragraph>The Xperia C4 also has a two stage hardware shutter key that you can set up to unlock the phone and start the camera. It can also snap a photo or start capturing video immediately.</paragraph>
+			<paragraph>The camera interface is laid across two panes and is shared with the camcorder - you can snap a photo or shoot a video without changing modes most of the time. Depending on the shooting mode selected, the video shutter key may be replaced by a still/video mode toggle.</paragraph>
+			<paragraph>There's a multitude of modes already bundled with the app, but most of them are a one-time fun affair like the three augmented reality modes which superimpose moving images on top of the actual scene for an amusing, if not really useful result. You're not limited to the preinstalled modes, and there's a whole bunch of others to download.</paragraph>
+			<paragraph>As is typical for Sony smartphone cameras, the Xperia C4 shoots in Superior auto mode by default, which in this case can shoot at full 13MP resolution, though you can select a lower one, as well as a 16:9 aspect. In theory, the C4 should recognize among a total of 52 different scene types and adjust settings accordingly - including enabling HDR mode if needed. You're left with little control over the process other than a flash mode selector and a choice of the aforementioned aspect ratio.</paragraph>
+			<paragraph>Those 52 scenes end up being the curse of the C4's camera, as it often changes settings from shot to shot for the same scene within seconds, and you end up with distinctly different representations of reality, most notably in terms of color rendition. Superior Auto does tend to favor a punchier output, but you just can never be sure what you'll end up with exactly.</paragraph>
+			<paragraph>Other than that, auto exposure is dependable and together with the decent dynamic range results in well exposed photos. The images are on the soft side though, and perceived detail suffers, though most of it is there and can be pulled with a touch of sharpening in post processing. There's a fair amount of noise in areas of uniform color (like the sky), but it's of the preferable luminance type, so it's not overly distracting.</paragraph>
+			<paragraph>When you use Manual mode the color rendition stabilizes for a much desired improvement in consistency. Other than that, there's little change to be observed in the output between the two modes.</paragraph>
+			<paragraph>And since Manual mode doesn't really provide much actual creative control other than exposure compensation and white balance presets, meaning all else is decided by the camera anyway, you might as well shoot in Manual all the time for more reliable results.</paragraph>
+			<paragraph>Naturally, there's an HDR mode, which is accessible only in Manual mode, though the documentation says Superior Auto can activate it as well, if it so chooses. Anyway, we shot a few comparison shots in Manual with HDR off, then on, and the results are below.</paragraph>
+			<paragraph>While admittedly there's some detail pulled out of the shadows, it's at the expense of an overall brighter image, as if the camera merely dialed up the exposure value, not exactly what the mode is supposed to do.</paragraph>
+			<paragraph>We get to the sweep panorama mode, which is traditionally a disaster on Sony's phone cameras, and the Xperia C4 does well to stay within that description. And it's not like Sony needs to invent something, there are a number of prime examples how to make a proper panorama mode, but the Japanese just can't be bothered.</paragraph>
+			<paragraph>First off you need to manually select which way you're sweeping, as if there's no orientation sensor or accelerometer. It's then picky in terms of sweeping speed, and you can go too slow, apparently. And if you only want to capture a small sector in your shot, the software covers the rest with a dark gray color, posing the question why it doesn't crop it out (which we did for the shot below), since it obviously realizes there's no data there.</paragraph>
+			<paragraph>You might be willing to close your eyes on most of those issues, if the camera produced quality panoramas, which it doesn't. They are low in resolution and detail, have wavy stitching and are overall unusable.</paragraph>
+			<paragraph>Our photo compare tool is at your disposal to check for yourself how the Xperia C4 weighs up to the competition.</paragraph>
+			<paragraph>   Sony Xperia C4 in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Front-facing flash can save the day at night<subsectionTitle>
+			<paragraph>The headline front camera creates images up to 2,560 x 1,920 pixels for a total of 5MP. Its output is unfortunately not the best, with low level of detail and a general softness and haziness.</paragraph>
+			<paragraph>We played with the flash a little and shot the same scene in near complete darkness without the flash, then with the flash on, and then with the front camera of the Galaxy S6. The Galaxy S6 does better than the Xperia C4 with available light, but the C4 clearly has the upper hand with the flash on (as the Galaxy S6 doesn't have one). So while you'll definitely not be making poster sized prints from the front camera, the flash could salvage a party shot, you'd otherwise miss completely.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The Sony Xperia C4 shoots videos up to 1080p/30fps, nothing out of the ordinary. It can shoot HDR videos at full resolution as well, but it doesn't offer fancier modes like slow motion or timelapse or 1080p/60fps, for that matter.</paragraph>
+			<paragraph>The resulting FullHD videos come out with a bitrate of 17Mbps and audio is recorded in stereo at 128kbps. In terms of quality, the videos are far from spectacular. Detail levels are low, and so is dynamic range. On the positive side, the focusing mechanism doesn't hunt unnecessarily, though you can't say the same about the exposure, which fluctuates quite irritatingly.</paragraph>
+			<paragraph>You can view the Superior Auto and Manual mode samples below, and alternatively download unedited 15-second versions the way they came out of the camera - one in Superior Auto (30.7MB), the other in Manual mode (31.2MB).</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>Then there's the HDR mode, and much like stills shooting, it mostly overexposes, rather than produce a truly high dynamic range. Detail is low, but it wasn't impressive to start with, so nothing to be disappointed about.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Additionally, you can head over to our video compare tool for a quick lab test comparison of the Xperia C4 to its rivals.</paragraph>
+			<paragraph>   Sony Xperia C4 in our video compare tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Chrome is the only browser on board<subsectionTitle>
+			<paragraph>The Sony Xperia C4 comes with Google Chrome only, which has seamless transition between all your devices through your Google account as well as the Data Saver feature, which compresses pages in an attempt to cut down on cellular transfer charges.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>The Calendar app handles your planning needs. Entering a new event is quick and easy, and you can also set an alarm to act as a reminder. The Calendar also pulls info on upcoming events from your Facebook account and can also display the national holidays for a long list of countries and your contacts' birthdays too.</paragraph>
+			<paragraph>The Alarm &amp; clock app supports multiple alarms, each with its own sound and repeat pattern. You can also set whether the side buttons would snooze the alarm, dismiss it or do nothing. There's also a desk clock option and a world clock (which shows the weather forecast for each city, not just the time). There's a nice calculator app with a side drawer for advanced functions in portrait, which are always visible in landscape.</paragraph>
+			<paragraph>The Sony Xperia C4 comes with the OfficeSuite 8 document editor, which handles viewing, creating and editing of Word, Excel and PowerPoint documents. It can also view PDFs. The interface is clutter-free but there are still plenty of features (font formatting, formulas, you name it).</paragraph>
+			<paragraph>The File Commander app is a capable file manager that features batch operations, ZIP file support and cloud storage (Google Drive, Dropbox, Box, SugarSync, OneDrive).</paragraph>
+			<paragraph>The Power Saver helps you extend your battery life by toggling things like Wi-Fi, GPS, Bluetooth screen brightness, auto sync and background data on and off automatically when the battery charge falls below a certain user-defined threshold. You can also turn off the Wi-Fi if there is no saved Wi-Fi network in range or turn off mobile data when the screen is off, and more.</paragraph>
+			<paragraph>Sony's Smart Connect app comes pre-installed. It allows you to set your device to do a variety of things - like launch an app or set an alarm - whenever you connect an accessory like a headset or a charger. You can also set events to occur during a time interval (e.g. mute alarms at night).</paragraph>
+			<paragraph>There's a Backup &amp; Restore feature on the Xperia C4, but it's limited to contacts, conversations, calendar entries, call log and bookmarks. The app can't backup multimedia content or documents, so you'll need to look elsewhere for archiving your photos, for example.</paragraph>
+			<paragraph>The Socialife app comes pre-installed too. It is a service similar to Samsung's My Magazine and HTC One's Blinkfeed. The interface is clean and simple yet beautiful, and there are lots of preloaded feeds. You can add your own RSS links too.</paragraph>
+			<paragraph>Sketch is pretty simple to use - you can select the color of the note/sketch and just start typing or doodling. You can customize a wide variety of drawing modes, backgrounds, and stencils.</paragraph>
+			<paragraph>One nifty feature Sony has had in its Android overlay is the capability to record a video of what's happening on the screen, not just your regular standard-issue screenshot. It comes in handy if you want to capture a gameplay video, for example, or walk someone through completing a task within the phone's interface.</paragraph>
+			<paragraph>You can launch Record screen from the menu, which pops up when you press and hold the power button. You get controls for the video quality and orientation, and you can also enable a resizable windowed live feed from your front camera, for a more personal interaction.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Key test findings:<subsectionTitle>
+			<paragraph>All-plastic build, materials feel pleasant to the touch, but accumulate grease and are tough to clean</paragraph>
+			<paragraph>Compact bezels, easy handling, logical control layout</paragraph>
+			<paragraph>Excellent 5.5-inch FullHD display - sharp, bright, with high contrast and good viewing angles</paragraph>
+			<paragraph>Connectivity package covers the basics and then some - Cat.4 LTE, dual-SIM capability, dual-band Wi-Fi with plenty of options for screen sharing, NFC</paragraph>
+			<paragraph>Limited battery life, poor video playback longevity, below average talk times and web browsing endurance</paragraph>
+			<paragraph>Familiar Xperia UI stays close to stock Lollipop, looks simple and functional</paragraph>
+			<paragraph>Solid benchmark performance for its class, consistently ahead of Snapdragon 615 competition</paragraph>
+			<paragraph>Sony's multimedia package is rich in features - gallery has plenty of options for viewing and editing, video player has extensive codec support and subtitle handling, music player is stylish and has a host of sound enhancements</paragraph>
+			<paragraph>Audio quality is mostly good</paragraph>
+			<paragraph>Primary 13MP camera produces images with a good level of detail, but could use some sharpening; luminance noise is present, but not so much as to be a problem; Superior Auto is best avoided as its color reproduction fluctuates</paragraph>
+			<paragraph>Video quality is okay, but not spectacular, detail is low for a 1080p feed</paragraph>
+			<paragraph>Front camera output is soft and lacking in detail</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Sony's latest phablet arrives at a market well saturated with large-screen midrange devices. Fighting for the front flash niche the company tried to explore with the Xperia C3, the C4 brings more powerful hardware and a better display to make this a much better rounded package.</paragraph>
+			<paragraph>What's best about the Xperia C4 and, coincidentally, what's its major drawback, can both be found on page 3 of this review. It's hard to find fault with the 5.5-inch 1080p display - the panel boasts high brightness and contrast, and has great viewing angles. Scroll down to battery life and you'll see the Xperia C4 fail miserably and die after 5 and a half hours of video playback.</paragraph>
+			<paragraph>The front camera produces rather disappointing images for its high-res sensor, but the front flash is there to save the day - many a club shots will turn out better with this one than with most flagships on the market. The primary camera does a good job, so long as you steer clear from the unreliable Superior Auto mode.</paragraph>
+			<paragraph>The rest is pretty much all in its favor, though. Performance is towards the top for the class, the interface is Sony's familiar lightly modded XperiaUI, the proprietary apps nicely enhance the experience.</paragraph>
+			<paragraph>Now, it should be clear from the get-go that if the front flash is a must-have feature for you, the options are severely limited. It's not like the front camera/flash combo is such a stellar performer as to base your buying decision solely on that, but still, we acknowledge that it may be a priority to some, so we'll try to sift through the possibilities.</paragraph>
+			<paragraph>There's obviously the HTC Desire Eye (guess where the name comes from), but it's either more expensive or a lot more expensive than the Xperia C4, depending on where you live. What you get for the premium is a 13MP front camera with dual-LED flash, flagship-grade Snapdragon 801 chipset and IPx7 certification. Its screen is smaller at 5.2 inches, but it's the price tag difference that puts those two in different leagues.</paragraph>
+			<paragraph> HTC Desire Eye</paragraph>
+			<paragraph>Then we have the Oppo N1 and N3, which don't really come with a front flash per se (or actual front camera for that matter), but thanks to the swiveling main shooter (motorized on the N3), you get the full 13MP/16MP primary camera to shoot your selfies. The tradeoff is that they are significantly larger than the C4 and while the N3 is running on the S801, the N1 is powered by the dated Snapdragon 600 SoC. Oh, and the N3 costs double the C4, while the N1 (if you can still find one) is about as much as the Desire Eye above, so again no real competition here.</paragraph>
+			<paragraph>  Oppo N3 ? Oppo N1</paragraph>
+			<paragraph>Now if selfies aren't everything you want, you can get some more sensible alternatives. The Samsung Galaxy A7 is a premium-built 5.5-inch midranger, which runs for a little more than the Xperia C4, comes with a Snapdragon 615 for comparable performance, but lacks the all-important front flash. So does the Galaxy E7, and its 5.5-inch display is only 720p, while the Snapdragon 410 is decidedly inferior. It does give you a bright large-diagonal display for less than what the C4 costs, though.</paragraph>
+			<paragraph>  Samsung Galaxy A7 ? Samsung Galaxy E7</paragraph>
+			<paragraph>The 5.5-inch version of the Alcatel Idol 3 is another viable option, and one that will set you back less than the Xperia C4. The Idol is powered by the ubiquitous Snapdragon 615, has an 8MP front camera and dual speakers, which also provide its signature reversible design.</paragraph>
+			<paragraph> Alcatel Idol 3 (5.5)</paragraph>
+			<paragraph>The LG G3 has gotten dirt cheap in some markets over the past months - for what it offers, of course. Pioneering into the QHD territory LG's last year flagship has a great main camera with 2160p video recording, though the front one is only 2.1MP. It's also more powerful thanks to the S801 chipset and you can opt for the 32GB storage / 3GB RAM version for even better performance.</paragraph>
+			<paragraph> LG G3</paragraph>
+			<paragraph>Now that we're in past flagships territory, Sony's own Xperia Z2 is a competent rival to the C4. Snapdragon 801 and 3GB inside, it has a 20.7MP primary camera with 2160p video, IP58 certification and better battery endurance.</paragraph>
+			<paragraph> Sony Xperia Z2</paragraph>
+			<paragraph>A proficient large-screen midranger, the Sony Xperia C4 is a good overall package. Its headline flash-equipped front camera is not the be-all and end-all of selfies, but it does give it a unique twist - something increasingly hard to find in the overcrowded segment. And that might be what turns one of the better 5.5-inch phablets into a hot seller.</paragraph>
+		</subsection>
+	</page>
+</review>

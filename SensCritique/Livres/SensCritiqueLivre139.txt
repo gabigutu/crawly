@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Les Chimères</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1854</year>
+	<link>http://www.senscritique.com/livre/Les_Chimeres/397075</link>
+	<generalScore>8.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>18</numberOfVoters>
+		<numberOfVoters>57</numberOfVoters>
+		<numberOfVoters>131</numberOfVoters>
+		<numberOfVoters>112</numberOfVoters>
+		<numberOfVoters>72</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Pas de Bellérophon en vue</title>
+		<author>Melusca</author>
+		<date>2012-03-28</date>
+		<score>1.0</score>
+		<content>Après avoir étudié en cours El Desdichado, probablement le poème le plus connu de Nerval, j'ai cherché à en savoir un peu plus sur ce recueil que notre (excellent) prof nous avait décrit comme assez hermétique, et j'ai pu le trouver dans un coin perdu du CDI du lycée. Ce fut le coup de foudre immédiat. Difficile de réaliser une critique sur un ouvrage que je considère comme le plus grand recueil de poésie francophone, et ce malgré (ou serait-ce justement "grâce à"?) son faible nombre de pages - une petite dizaine. C'est d'autant plus étrange que le reste de la poésie de Nerval me laisse globalement de marbre. Les poèmes sont assez classiques dans leur forme (des sonnets en alexandrins), mais celle-ci est parfaitement maîtrisée, surtout les seconds tercets, qui possèdent une force poétique incroyable. Car il y a dans ce recueil une puissance évocatrice que j'ai rarement trouvée ailleurs, en tous cas pas de façon aussi concentrée. Les poèmes des Chimères sont remplis de références mythiques et religieuses, souvent obscures, mais qui paradoxalement renvoient en écho une foule d'images, de couleurs, de sons et plus encore. Un nom bizarre croisé au détour d'un vers? On pourrait le chercher dans un dictionnaire ésotérique poussiéreux, si on en avait un sous la main, mais il est sans doute bien plus intéressant de faire marcher son imagination et de tenter de l'accorder soi-même au contenu nébuleux du poème. Un ouvrage qui, malgré le fait qu'il s'ouvre sur un poème extrêmement célèbre, est trop souvent oublié et laissé dans l'ombre, et c'est fort dommage.</content>
+	</review>
+	<review>
+		<title>Les Chimères, un des sommets spirituels de la langue française.</title>
+		<author>lionelbonhouvrier</author>
+		<date>2014-11-09</date>
+		<score>1.0</score>
+		<content>EL DESDICHADO ------------- Je suis le ténébreux, — le veuf, — l’inconsolé, Le prince d’Aquitaine à la tour abolie : Ma seule étoile est morte, — et mon luth constellé Porte le Soleil noir de la Mélancolie. Dans la nuit du tombeau, toi qui m’as consolé, Rends-moi le Pausilippe et la mer d’Italie, La fleur qui plaisait tant à mon cœur désolé, Et la treille où le pampre à la rose s’allie. Suis-je Amour ou Phébus ?… Lusignan ou Biron ? Mon front est rouge encor du baiser de la reine ; J’ai rêvé dans la grotte où nage la syrène… Et j’ai deux fois vainqueur traversé l’Achéron : Modulant tour à tour sur la lyre d’Orphée Les soupirs de la sainte et les cris de la fée.</content>
+	</review>
+	<review>
+		<title>Du parfait poème</title>
+		<author>Cinéphile_du_Grenier</author>
+		<date>2016-03-28</date>
+		<score>0.9</score>
+		<content>Voyons voir... Oui, impossible de rester insensible à El Desdichado, à Delfica, au Christ aux oliviers, à Madame Aguado*, à Erythréa*, Madame Ida Dumas*... Un condensé de lyrisme et d'harmonie parfaite, de la pure poésie, tant sur le jeu des rimes et des sonorités que sur les références et les signifiés des mots. Bref, vous l'aurez compris, à lire absolument. ces poèmes sont extraits des Autres Chimères, receuil complémentaire aux Chimères originelles, et parues dans Aurélia suivie de Lettres à Jenny Colon et de La Pandora et de Les Chimères en 1972 aux éditions Le Livre de Poche Classique.</content>
+	</review>
+</sensCritiqueEntity>

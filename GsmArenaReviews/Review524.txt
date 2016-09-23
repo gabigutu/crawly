@@ -1,0 +1,66 @@
+<review>
+	<title>Gionee Elife E8 hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/gionee_elife_8_handson-review-1320.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Gionee Elife E8 at a glance:<subsectionTitle>
+			<paragraph>Body: Metal frame + removable plastic back</paragraph>
+			<paragraph>Display: 6.0-inch, 2560x1440 resolution AMOLED</paragraph>
+			<paragraph>Chipset: MediaTek Helio X10 MT6795 with 2.0 GHz Octa-core Cortex-A53, PowerVR G6200 GPU and 3GB RAM</paragraph>
+			<paragraph>Storage:64GB, expandable via the microSD card slot</paragraph>
+			<paragraph>Camera: 24 megapixels rear camera, OIS, phase detection autofocus, two-tone LED flash, 4K video recording</paragraph>
+			<paragraph>Selfie:8 megapixel front camera with autofocus</paragraph>
+			<paragraph>Security: Fingerprint sensor</paragraph>
+			<paragraph>Connectivity: Dual SIM, LTE, Wi-Fi 802.11ac, Bluetooth 4.0, NFC, GPS, microUSB</paragraph>
+			<paragraph>Battery: 3500mAh</paragraph>
+			<paragraph>OS: Amigo 3.1 based on Android 5.1 Lollipop</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Gionee has established Elife as its flagship series. This year, Gionee decided to go big with the new E8, and quite literally at that. The E8 is a big phone thanks to a new 6.0-inch QHD but it also packs in quite a lot of features, including a 24 megapixel rear camera, a fingerprint sensor, and an octa-core MediaTek Helio X10 processor. All packed in a new metal body.</paragraph>
+			<paragraph>Yesterday, the company launched the device in India. We managed to get a quick hands at the launch event in New Delhi. Gionee is launching the phone in India at a rather steep price, where it will be facing tough competition from the likes of the OnePlus 2 and the new Moto X Style, both of which are cheaper. Let's see what Gionee has to offer.</paragraph>
+			<paragraph>The E8 specs sounded more impressive back in June when it was first announced as the autumn lineup of flaghips wasn't announced back then.</paragraph>
+			<paragraph>Nevertheless, it is still quite well spec'd, especially since it's priced way less than some of the other flagship devices. But specs are one thing. Let's see how well the phone does in real life.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design, build quality and controls<subsectionTitle>
+			<paragraph>There is no escaping the fact that the E8 is a big phone. With a 6-inch screen, the E8 looks disproportionately large even in a man's hands and it is quite a handful to hold and operate.</paragraph>
+			<paragraph>Single-handed use isn't comfortable and portability will also be an issue, unless you have big pockets or a bag to put it away in.</paragraph>
+			<paragraph>With that out of the way, the E8 is actually quite well built, as most Gionee phones are. The phone is not entirely made out of metal, and the removable back panel (which provides access to the SIM and memory card slots) is plastic, but the phone still has a premium feel to it and is unmistakably high-end.</paragraph>
+			<paragraph>The design is not quite as attractive as the S-series phones, such as the S7, and the phone looks quite plain, especially from the back.</paragraph>
+			<paragraph>All the buttons on the phone are on the right side and within easy access. There is also a camera shutter button, which is a rare sight these days. It has two-step operation to allow you to focus before shooting and pressing and holding it starts the camera.</paragraph>
+			<paragraph>On the back is the new fingerprint sensor. The sensor works well and is quick to set up as well as to unlock the device. The accuracy seemed to be good in our limited testing and it recognized our finger every time, and it can also wake up the phone and unlock it by touching without pressing the power button first.</paragraph>
+			<paragraph>In the lower back is the loudspeaker. The audio quality isn't particularly great but it gets loud enough to be heard clearly.</paragraph>
+			<paragraph>On the front you will find the massive 6.0-inch display. The display is surrounded by the bezel and a thin metal frame. Below the display are the three capacitive buttons for back, home and multitasking. Unlike the S7, the E8 has physical buttons below the display.</paragraph>
+			<paragraph>We couldn't find any option to switch to on-screen buttons on this device. Worst of all, the buttons aren't backlit, and can be hard to find even when you're in a lit environment.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The E8 has a 6.0-inch QHD AMOLED display. The display looks wonderful, with bright, vibrant colors that aren't too saturated unlike most AMOLED screens. Viewing angles were also good, although we couldn't test sunlight legibility.</paragraph>
+			<paragraph>The display comes with an option to adjust the color temperature to your liking, letting you opt for a cooler or warmer color tones, but other than that there weren't any other calibration options. The default option, though, looks fine.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The E8 has the latest Amigo 3.1 version of Gionee's Android skin running on top of Android 5.1 Lollipop. As far as custom skins go, Amigo is one of the least offensive ones. The design is alright and it has enough features and options to keep most people satisfied.</paragraph>
+			<paragraph>Only issue is Gionee isn't exactly known to keep their devices updated with the latest version of Android, so if that bothers you, then you should look elsewhere. If you're happy with what you get out of the box then you would probably be reasonably satisfied with the software.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The E8 runs on the MediaTek Helio X10 chipset. We have seen this processor on a handful of devices before, including the HTC One M9+. It's a powerful chipset and because of that the phone absolutely flies through the menus, with great scrolling speed and quick app launches. The GPU on this chipset isn't particularly great so we expect the gaming performance with heavy 3D games likely won't blow your mind with that high resolution QHD display (as we noted on the M9+ with similar specs) but other than that the phone won't leave you wanting for performance.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The E8 has a 24 megapixel rear sensor with optical image stabilization and phase detection autofocus. We don't have any sample images as the device we used weren't final hardware but from what we saw the image quality, even in dimly lit environments was very good. The camera software is also impressive, and has several modes, including one that takes multiple shots to combine them into one big 50 megapixel image, and all of that worked well. The phone even has a tricked out front facing camera, with 8 megapixel resolution and autofocus, so even your selfies come out looking above average.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Overall<subsectionTitle>
+			<paragraph>Our brief hands-on with the E8 left us reasonably impressed. Having said that, we think Gionee might have priced the phone a bit too high, at least in the Indian market.</paragraph>
+			<paragraph>At a price point of about INR 35,000 or USD $540, brand image matters a lot and considering most people who'd want to spend that much money on a phone probably haven't even heard about the brand, the company sure has work cut out for itself if it plans on selling any units. This is especially true in the light of increasingly fierce competition from much more established rivals. If Gionee manages to reduce the price, this would be a good option for those looking for a big screen premium Android smartphone.</paragraph>
+		</subsection>
+	</page>
+</review>

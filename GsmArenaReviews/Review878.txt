@@ -1,0 +1,35 @@
+<review>
+	<title>Nokia Lumia 1320 and 525 hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/nokia_lumia_1320_lumia_525_hands_on-review-1033.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Nokia held its own event on the fringe of CES - no new devices were revealed but the Finns showed the Lumia 1320 and Lumia 525 to the press and public. There's a lot riding on those devices, even though they are not the flagships in their respective categories.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Perhaps this is exactly why they are so important - the Lumia 520 holds a third of the Windows Phone market and the 525 is a welcome update. The Lumia 1520 is rarely seen in the hands of people, but it's Nokia's first phablet. Perhaps too pricy for some though, which is where the Lumia 1320 comes in.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 1320 at a glance:<subsectionTitle>
+			<paragraph>The Nokia Lumia 525 should be more familiar - it's a refinement of the Lumia 520, which as we said is the most popular WP handset by a huge margin.</paragraph>
+			<paragraph>The main difference between the Lumia 1320 and the 525 then is in the screen size and LTE support. Not that those are small things, plus the chipset on the phablet is more powerful, allowing it to capture 1080p video, but other than that it's close.</paragraph>
+			<paragraph>That makes the Lumia 525 an amazing entry-level phone, just like its predecessor, but what does it mean for the Lumia 1320? Jump on the next page and find out.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 1320<subsectionTitle>
+			<paragraph>The Lumia 1320 carries much of the imposing presence of its more premium sibling, the Lumia 1520. It has a massive 6.0" 1280x720 ClearBlack IPS LCD up front, same size as that on the 1520 but without that glorious 1080p resolution. On paper, then, it doesn't seem like much and indeed if you look closer, those used to more pixel-dense displays will see the rough edge on the fonts but we were pleasantly surprised by the overall image quality of the display. This is a really good screen to look at and other than pixel peepers everyone else should be quite happy with it.</paragraph>
+			<paragraph>The design deviates slightly from that on the 1520, with curved edges all around and a removable back cover that lets you switch to other color options. Despite the removable cover, however, the build quality remains commendable. The phone does seem slightly heavy though, but not a lot more than you'd expect from a device this size.</paragraph>
+			<paragraph>As with the 1520, the 1320 has some specific alterations to the UI for the big screen. The homescreen, for example, now shows three columns of medium sized Live tiles and the Settings app shows a lot more items on the screen at once. But a handful of these optimizations aside, the OS just wastes the extra screen space by just blowing every element up in size instead of showing more content. The on-screen keyboard, for example, is almost the same size as the entire display on the Lumia 525. This is good for those with weak vision but for the rest of us it feels like a wasted opportunity. Hopefully, future versions of Windows Phone 8 are better optimized for bigger screens.</paragraph>
+			<paragraph>The Lumia 1320 is priced at $399 at launch, which is quite good considering the hardware you get. We'll be taking a better look at the Lumia 1320 in our full review.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Lumia 525<subsectionTitle>
+			<paragraph>The Lumia 525 is the updated version of the highly successful Lumia 520. One of the important changes is a new design for the back, which mimics the appearance of the Lumia 720. The back covers are removable and come in a variety of glossy colors. Build quality is very good and the phone feels great to hold thanks to the compact size.</paragraph>
+			<paragraph>The display on the 525 is identical to the 4.0" 800x480 IPS LCD panel on the 520. For the price, the screen is adequate in terms of size and resolution but the colors are a bit washed out.</paragraph>
+			<paragraph>Nokia has updated the RAM on the 525 to 1GB from 512MB on the 520. This should definitely help improve performance during multitasking and web browsing but will also make the phone compatible with all the apps on the store that require at least 1GB of RAM.</paragraph>
+			<paragraph>The Lumia 525 is priced at $170 at launch, which is a good entry point. Once again, we'll be taking a closer look as soon as we have the device at HQ.</paragraph>
+		</subsection>
+	</page>
+</review>

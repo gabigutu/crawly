@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Glassworks</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1982</year>
+	<link>http://www.senscritique.com/album/Glassworks/1349022</link>
+	<generalScore>8.1</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>27</numberOfVoters>
+		<numberOfVoters>79</numberOfVoters>
+		<numberOfVoters>197</numberOfVoters>
+		<numberOfVoters>153</numberOfVoters>
+		<numberOfVoters>43</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Glassworks</title>
+		<author>Kevin Gosse</author>
+		<date>2014-03-10</date>
+		<score>0.9</score>
+		<content>Dans la série : lançons une réflexion faussement pertinente, peut-on décemment rendre son "art" plus populaire sans compromission ? Et dans le cas qui nous intéresse, comment présenter sa musique à un public plus vaste sans artifice ou grosses ficelles ? Bref, tout ceci s'apparente à une fumeuse quadrature du cercle. En 1981, Philip Glass signe sur le label CBS (Columbia) et pour reprendre ses mots "Glassworks was intended to introduce my music to a more general audience than had been familiar with it upto then". Et ma foi, il n'a pas tort le Philip. Glassworks comprenant en tout six mouvements fait selon moi parti des œuvres maîtresses du compositeur, et généralement de la musique minimaliste. Glass réussit en effet à rendre accessible une musique qui sur le papier ne l'est pas vraiment (tout du moins sur cette œuvre... et comparée à celles de Steve Reich, excellentes mais ô combien plus difficile pour un néophyte). L'héritage d'un Erik Satie sur certaines parties telle que Opening (ce qui explique sans doute mon attachement à ce disque aussi) est évidente. Glass compose ainsi à partir de deux flûtes, deux saxophones sopranos, deux saxophones ténors, deux cors, piano/synthétiseur et finalement d'altos, violoncelles, six pièces de durée homogène (aux alentours de six minutes) favorisant ainsi l'aspect accessible. Et puis si l'ambiance générale proposée par Glassworks n'inspire guère à la gaité, on notera tout de même la diversité des thèmes proposés, allant du lumineux au sombre et tortueux Island. Au final, un de mes classiques. http://www.therockyhorrorcriticshow.com/2008/09/heart-of-philip-glass.html</content>
+	</review>
+	<review>
+		<title>Glassworks</title>
+		<author>MathieuCan</author>
+		<date>2013-06-03</date>
+		<score>0.6</score>
+		<content>Dans l'ensemble, c'est un bon disque de musique de films publicitaires. C'est en effet une musique qui sied parfaitement en accompagnement d'images mais reste très répétitif en écoute seule. Chaque morceau tourne sur un thème qui se décline sur 5 à 7 mn et le temps passe assez lentement. De plus, elles sont toutes construites sur des ostinati qui fatiguent les oreilles à la longue. Bref sympa, mais pas tant que ça</content>
+	</review>
+</sensCritiqueEntity>

@@ -1,0 +1,70 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Surveiller et Punir</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1975</year>
+	<link>http://www.senscritique.com/livre/Surveiller_et_Punir/484212</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>7</numberOfVoters>
+		<numberOfVoters>23</numberOfVoters>
+		<numberOfVoters>95</numberOfVoters>
+		<numberOfVoters>171</numberOfVoters>
+		<numberOfVoters>152</numberOfVoters>
+		<numberOfVoters>86</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Société disciplinaire</title>
+		<author>SanFelice</author>
+		<date>2012-10-18</date>
+		<score>0.9</score>
+		<content>Le livre de Foucault part d'un constat historique. Entre la fin du 18ème et le début du 19ème siècle un changement radical s'est produit dans les techniques de punition. Avant, on avait le supplice, qui consistait à faire souffrir le condamné lors d'un grand spectacle public (supplice de la roue, écartèlement, bûcher). On va assister à la disparition de ce type de punition pour voir se répandre une forme jusqu'alors peu utilisée : l'emprisonnement. Pourquoi ce changement ? Comment s'est-il produit ? Telle est la réflexion centrale de ce livre, du moins telle qu'elle est revendiquée par Foucault. Le philosophe fait ainsi une oeuvre à cheval sur plusieurs genres : histoire bien sûr, mais aussi sociologie et philosophie. Le livre est le résultat d'une recherche documentaire très poussée : chaque argument avancé par l'auteur est renforcé par de multiples exemples issus de textes divers, des rapports, des thèses, et même Le Dernier jour d'un condamné, de Hugo. Et puis, pour bien comprendre la genèse de cette oeuvre, il faut la replacer dans son époque : multiples révoltes de prisonniers (dont celle d'Attica, en 71, sur fond de revendications raciales, et dont la répression a fait 39 morts), création par Foucault (et Pierre Vidal-Naquet) du GIP (Groupe d'Information sur les Prisons). Mais Foucault avance masqué. Un livre sur les prisons ? Oui... et non. Le philosophe ne parle qu'assez peu des prisons. Ce qu'il décrit, c'est bel et bien un changement, une transformation, une mutation sociale d'une importance extraordinaire. Comment l'Occident de l'Ancien Régime est devenu le monde "moderne" que l'on connaît actuellement. A ce titre, la 3ème partie du livre est d'une importance capitale. Elle est peut-être un peu fastidieuse, ce ne sont pas les pages les plus passionnantes du livre, et pourtant c'est le véritable centre de la réflexion du philosophe. Il décrit dans le détail comment nous sommes passés dans un système disciplinaire basé sur la surveillance et la classification des individus. Parler du passé permet donc de décrire le présent. Parler des prisons permet de faire le portrait à charge de la société moderne. La réflexion de Foucault n'est pas exempte d'arrière-pensées et d'engagements politiques. Il décrit notre société comme fondamentalement injuste, basé sur l'injustice. Les lois sont conçues pour protéger les "illégalismes" de la classe dirigeante, la bourgeoisie, en mettant en lumière la délinquance (et en prétendant qu'elle vient uniquement des classes "populaires"). Ces injustices fondamentales permettent à la bourgeoisie d'assurer sa domination de classe sur le reste de la population en justifiant l'existence d'un état policier. Bien entendu, ce vocabulaire et ces réflexions peuvent choquer certains. Mais nous étions dans les années 70, à une époque où on savait ce que c'était que des intellectuels engagés. Et comme ça correspond plutôt à mes opinions politiques, ça ne m'a pas trop dérangé. Longtemps j'ai cru que Foucault était difficile à lire. Je n'ai appris que tout récemment l'existence de ce livre, mais j'ai eu tout de suite envie de le lire. Et j'ai bien fait : le philosophe n'est pas du tout difficile à lire ou à comprendre. Au contraire, par l'organisation sans faille de son livre, par les multiples exemples qu'il donne, par la clarté de sa plume, il nous entraîne sur les sentiers de sa réflexion et parvient à nous faire aborder des notions complexes avec talent et limpidité. C'est passionnant et extrêmement instructif. Après la lecture de ce livre, on ne peut plus regarder notre société comme avant. Et moi, je me suis surpris à réfléchir à mon propre métier, tant on y retrouve dans le détail tous les éléments du "système disciplinaire" décrit par l'auteur.</content>
+	</review>
+	<review>
+		<title>Surveiller et Punir</title>
+		<author>talmo</author>
+		<date>2011-11-14</date>
+		<score>1.0</score>
+		<content>De quoi s'agit il? Philo? Oui mais pas seulement. Histoire? Bien sur oui. Mais pas l'Histoire de France apprise à l'école (1515 Marignangnan etc...). Sociologie? Aussi. Et je crois qu'on peut s'arrêter là. Sans être faux, élargir encore le champ théorique de surveiller et punir serait limitatif ou abusif. Dans ce livre, Foucault passe au microscope les textes juridiques, les projets architecturaux, les théoriciens de la politique et/ou du social concernant la prison, l'enfermement. Comment punit on? Et pourquoi? Voilà, je ne vous donne pas un résumé de ses observations car je risquerais d'édulcorer ou pire de déformer. Par contre je dois vous dire qu'il y a eu pour moi un avant et un après "surveiller et punir". Des portes se sont ouvertes, des éléments de compréhension de la société ont surgi et surtout, Foucault m'a fait la démonstration d'une méthode de réflexion capable d'aborder des sujets complexes et d'éviter les réponses simples et binaires.</content>
+	</review>
+	<review>
+		<title>Surveiller et Punir</title>
+		<author>Guillaume Natas</author>
+		<date>2010-11-05</date>
+		<score>0.8</score>
+		<content>Voila un bien beau livre, qui vous raconte comment agir face à ceux qui ne sont pas d'accord avec vous. C'est un peu le manuel du parfait salopard avec derrière les théories de Foucault (pas Jean-Pierre, l'autre)</content>
+	</review>
+	<review>
+		<title>Surveiller et Punir</title>
+		<author>Alligator</author>
+		<date>2013-11-23</date>
+		<score>0.8</score>
+		<content>nov 2005: Ouvrage étonnant à plus d'un titre. Surtout par l'incroyable domination de sa pensée sur la plupart des champs des sciences humaines aujourd'hui encore. Il est si rare qu'un travail de philosophe fasse autant autorité chez les historiens comme c'est effectivement le cas par exemple. Surveiller et punir est un ouvrage incontournable à qui veut travailler sur les rapports sociaux de l'époque contemporaine, (XIXe-XXe). En outre, l'ouvrage avec L'histoire de la folie à l'âge classique est d'une acuité et d'une brillance d'analyse qui laisse admiratif et reste d'actualité. Un classique donc des sciences humaines.</content>
+	</review>
+	<review>
+		<title>il faut le lire une fois dans sa vie</title>
+		<author>Taeya</author>
+		<date>2015-09-20</date>
+		<score>0.8</score>
+		<content>une explication de la société du moyen âge à aujourd'hui. la fabrication de la prison d'hier à nos jours. comment considère-t-on les fous, les délinquants, les meurtriers et comment on les enferme!!?? Comment enferme-t-on en fonction des époques? un sujet qui peut intéresser tout le monde et qui toujours d'actualité</content>
+	</review>
+	<review>
+		<title>A lire.</title>
+		<author>Shonagon</author>
+		<date>2013-10-06</date>
+		<score>1.0</score>
+		<content>Quel que soit notre âge lorsqu'on découvre cet essai de Foucault, on se dit avec une certaine ironie complaisante qu'il est heureux de n'être pas mort avant de l'avoir lu. Inutile d'épiloguer, les autres critiques ont dit l'essentiel et je n'ai pas grand chose à ajouter si ce n'est que, malgré le mépris dédaigneux que Foucault ressentait à l'égard de Camus, on trouve une vraie résonnance avec 'L'homme révolté" qu'il va falloir du coup relire. Pour ensuite peut-être revenir à "Surveiller et punir". Ou un agréable dérivé de Sisyphe.</content>
+	</review>
+	<review>
+		<title>Surveiller et Punir</title>
+		<author>Laura Baciocchi</author>
+		<date>2016-01-26</date>
+		<score>0.7</score>
+		<content>Etudié en partie en philosophie au lycée, l'ouvrage de Michel Foucault, propose une approche différente de l'univers carcéral. Très intéressant, et toujours d'actualité dans notre société</content>
+	</review>
+</sensCritiqueEntity>

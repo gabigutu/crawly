@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>'Round About Midnight</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>1957</year>
+	<link>http://www.senscritique.com/album/Round_About_Midnight/7868019</link>
+	<generalScore>8.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>55</numberOfVoters>
+		<numberOfVoters>166</numberOfVoters>
+		<numberOfVoters>152</numberOfVoters>
+		<numberOfVoters>54</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Night Bird's Song</title>
+		<author>KND</author>
+		<date>2016-06-09</date>
+		<score>1.0</score>
+		<content>En terme de jazz, je suis clairement un blue(s)-bite, j'y connais que dalle, que pouic, que tchi, peau d'zob, nada. Bah ouais, autant je peux te citer par cœur les 8 line-up de Deep Purple, la taille exacte de la moustache de Bonham en 1971 et l'orteil préféré de Brian May, autant j'ai parfois du mal à reconnaître Coltrane en photo. Yep, j'm'y connais pas des masses, mais ça m'empêche pas d'en parler. Alors certes, du coup, je raconte plein de conneries, mais bon, est-ce que ça change vraiment de d'habitude me demanderez-vous ? Franchement j'en doute, et vu que ça fait un bon moment que je suis immunisé à ma propre bêtise, je m'en rend plus trop compte, tellement que parfois, je me sens presque intelligent. Bon généralement c'est une sensation qui ne s'éternise pas, et après avoir encore oublié dans quel tiroir je range mes chaussettes, je redescend assez vite sur terre. Alors il est vrai que je suis un ignare, mais ça ne m'empêche pas d'apprécier la bonne musique, et 'Round about Midnight, tu peux me croire, c'est de la sacrément bonne marchandise. Du bon jazz, et moi, j'aime le bon jazz. Bon, en vrai, je suis pas tout le temps fan du bon jazz, j'ai du mal avec certains artistes et albums, mais pas avec celui-là. Parce que celui-là, c'est le number one dans mon cœur de truand. Dans cet album, il y a tout ce que je recherche dans le jazz, une technique irréprochable, un rythme endiablé qui transforme tes jambes en ressorts, du dynamisme, et aussi du calme, de la douceur, et de la beauté. Et de la beauté, y'en a à revendre dans 'Round about Midnight. Plus encore, le Miles et ses gars sont arrivés à éviter tous les travers du genre, histoire de sortir une galette techniquement et artistiquement parfaite. A tel point qu'on ne se contente pas d'écouter cet album, on le vit. Il nous transcende et offre à chacun une expérience bien particulière. C'est un voyage en plein cœur du monde du sieur Davis. 'Round about Midnight, c'est un album qui tout d'abord te prend par la main, tout doucement, avant de te faire une clé de bras et de te coller un mawashigeri en pleine gueule, pour ensuite te faire un bisou magique sur ton gros pif dégueulasse en sang. C'est un album qui te mets KO, mais qui s'excuse à la fin et avec qui tu reste bon pote, sans rancunes. 'Round about Midnight, c'est 38 minutes qui en paraissent 5. Et c'est les 5 minutes les plus courtes de ma vie de bohémien.</content>
+	</review>
+</sensCritiqueEntity>

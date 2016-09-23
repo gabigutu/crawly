@@ -1,0 +1,114 @@
+<review>
+	<title>Samsung Galaxy On5 Pro and On7 Pro preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_on5_pro_on7_pro-review-1470.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Galaxy On5 Pro at a glance:<subsectionTitle>
+			<paragraph>5.0-inch 720 IPS LCD</paragraph>
+			<paragraph>Exynos 3 Quad (4x Cortex-A7 with Mali-T720)</paragraph>
+			<paragraph>2GB RAM, 16GB storage with microSD</paragraph>
+			<paragraph>8 megapixel rear, 5 megapixel front camera</paragraph>
+			<paragraph>Dual SIM, LTE</paragraph>
+			<paragraph>Android 6.0.1 Marshmallow</paragraph>
+			<paragraph>2600mAh removable battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Galaxy On7 Pro at a glance<subsectionTitle>
+			<paragraph>5.5-inch 720p IPS LCD</paragraph>
+			<paragraph>Qualcomm Snapdragon 410 (4x Cortex-A53 with Adreno 306)</paragraph>
+			<paragraph>2GB RAM, 16GB storage with microSD</paragraph>
+			<paragraph>13 megapixel rear, 5 megapixel front camera</paragraph>
+			<paragraph>Dual SIM, LTE</paragraph>
+			<paragraph>Android 6.0.1 Marshmallow</paragraph>
+			<paragraph>3000mAh removable battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Samsung Galaxy On5 Pro and On7 Pro are the company's latest budget Android smartphones meant exclusively for the Indian market. Both the phones are nearly identical to the On5 and On7 launched last year but increase the memory to 2GB and double the storage to 16GB.</paragraph>
+			<paragraph>The On5 Pro is the smaller of the two with a 5.0-inch 720p display. It runs on the Exynos 3 Quad chipset and packs an 8 megapixel camera on the back and a 5 megapixel camera on the front. Powering it is a sizable 2600mAh battery.</paragraph>
+			<paragraph>The On7 Pro is the more premium model with a bigger 5.5-inch screen. It comes with the Qualcomm Snapdragon 410 processor, a 13 megapixel camera on the back and a larger 3000mAh battery.</paragraph>
+			<paragraph>Both phones come with a faux leather finish on the back and Samsung's S bike mode.</paragraph>
+			<paragraph>With the competition in the lower and of the smartphone segment getting hotter, Samsung needs to put its best foot forward.</paragraph>
+			<paragraph>With the recent Galaxy J2 2016 edition turning out to be bit underwhelming, we turn to the new On5 Pro and On7 Pro to see if Samsung can redeem itself in the budget segment.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design<subsectionTitle>
+			<paragraph>The Galaxy On5 Pro and On7 Pro are identical looking devices rocking the now all too familiar Samsung design. The phones come in black or gold color that see both the front and back of the phones being painted in the chosen color.</paragraph>
+			<paragraph>On the front is the display with an earpiece, front camera, and proximity sensor on the top and navigation keys below. The physical home button is flanked by two capacitive keys, which aren't backlit.</paragraph>
+			<paragraph>The sides of the phone are made out of solid aluminum but it is painted in a glossy paint that makes it look like there is a permanent clear film on it.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>On the right side is the power button and on the left is the volume rocker. On the bottom is the headphone jack and a microUSB port.</paragraph>
+			<paragraph>On the back there is a removable plastic cover with a faux leather finish. It has a slight rubbery texture to it that's not going to fool anyone but it isn't the worst choice of materials.</paragraph>
+			<paragraph>Underneath the back cover are the removable battery, the two micro SIM card slots, and the microSD slot.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The overall build quality is good owing to the metal frame and both phones feel vastly more premium than the J2 2016 edition, even though the On5 Pro actually costs less.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Galaxy On5 Pro has a 5.0-inch display while the On7 Pro has a 5.5-inch display. Both are IPS LCD with a resolution of 1280x720. The display quality on both devices can be best described as adequate.</paragraph>
+			<paragraph>Both displays get bright enough indoors but look washed out a bit outdoors. Both displays have saturated colors that try to mimic the look of an AMOLED display, with the On5 in particular being a bit extra saturated. The colors don't look great though and neither displays look as good as those as on the 2016 Galaxy J5 and J7. But for the price, the image quality is perfectly acceptable.</paragraph>
+			<paragraph>What isn't acceptable, however, is the cost cutting. Samsung has once again omitted the oleophobic coating from the screens of both models, and they always look like a smudgy mess that makes it hard to see the contents of the screen especially outdoors. There is also no ambient light sensor on either phone. Lastly, the touchscreens are limited to two point multi-touch so they won't track your fingers properly if you touch the screen on three spots instead of two.</paragraph>
+			<paragraph>The problem with this cost cutting is that it doesn't seem it would cost the company all that much more to include them but it does seem to make a big impact on the usability of these devices, which really makes you question the company's choices.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The Galaxy On5 Pro and On7 Pro run on Android 6.0.1 Marshmallow with Samsung's UI on top. Samsung has cleaned up its own UI considerably so that it doesn't hogging the device memory with many proprietary services.</paragraph>
+			<paragraph>The On5 Pro doesn't even come with the usual Microsoft bloatware pre-installed. Unfortunately, the On7 Pro does, which means you are straddled with Word, Excel, PowerPoint, OneDrive, and Skype, which cannot be uninstalled. Even though both phones have the same 16GB storage space, the On5 Pro has about 10GB free whereas the On7 Pro has only about 8.6GB free left out of the box.</paragraph>
+			<paragraph>Both phones also come with Ultra Data Saving mode, which makes uses of the Opera Max VPN service on a system level and routes all your data through Opera's services to compress it.</paragraph>
+			<paragraph>There is also the S bike mode for riders of two-wheel vehicles, which, once enabled, only allows important calls through - the rest are greeted by a voice message asking them to leave a message if they like.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>In terms of connectivity you get Wi-Fi 802.11n, Bluetooth 4.1, GPS, 4G LTE, dual SIM support but there is no VoLTE. The phones also lack magnetometer and gyroscope so you don't get a compass in Maps and no Virtual Reality or Augmented Reality applications.</paragraph>
+			<paragraph>Other than that, the Galaxy On5 Pro runs on Samsung's Exynos 3 Quad with a quad-core Cortex-A7 CPU clocked at 1.3GHz and Mali-T720 GPU.</paragraph>
+			<paragraph>The Galaxy On7 Pro runs on the Qualcomm Snapdragon 410 with quad-core Cortex-A53 CPU clocked at 1.2GHz and Adreno 306 GPU. Both phones have 2GB RAM and 16GB storage space.</paragraph>
+			<paragraph>With barebones processor and just about adequate amount of memory, we weren't expecting any major surprises in terms of performance and we didn't get any.</paragraph>
+			<paragraph>Both phones, despite the different chipsets, perform nearly identically in the graphics performance. In all the rest of the tests (except Antutu 6), the Snapdragon 410 powered On7 Pro has the upper hand.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In daily use, the phones weren't the smoothest or the fastest around but they are definitely usable. The provided 2 gigs of RAM provide some breathing room for running various apps and is enough for basic multitasking. As for gaming, graphics-intensive titles will surely come with lowered graphical effects and/or resolution.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Galaxy On5 Pro and On7 Pro have an 8 megapixel and 13 megapixel camera on the back respectively.</paragraph>
+			<paragraph>The camera on On5 Pro is mostly just there because there has to be one. The image quality is nothing to write home about; there isn't enough detail in the image, the dynamic range is poor and the noise is too high.</paragraph>
+			<paragraph>In comparison, the camera on the On7 Pro is actually pretty good. It betters the On5 Pro camera in every way and is a perfectly good camera for a budget phone.</paragraph>
+			<paragraph>Both phones also record 1080p video. The videos come out smooth. Here is an On7 Pro video sample in 1080p.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>For some reason, our On5 Pro model only recorded 720p video even when we set it to 1080p mode. We're guessing it's a software bug. Here is an On5 Pro video sample in 720p.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Verdict<subsectionTitle>
+			<paragraph>As far as budget devices go, the Galaxy On5 Pro and On7 Pro are certainly not the company's worst attempts yet. Both are fairly usable and they should be enough to keep most people happy. But as we saw with the J2 2016 edition, the competition is so intense and the phone manufacturers are already so many, that the big guns can no longer expect to get a prize for just showing up looking good.</paragraph>
+			<paragraph>The competition is putting in a lot more effort in this price segment these days and Samsung needs to keep up. The Galaxy On5 Pro costs INR 9,190 or $137, while the On7 Pro costs INR 11,190 or $167. Both prices match the two available equipment levels of the aggressively priced Xiaomi Redmi Note 3, which has a far superior performance.</paragraph>
+			<paragraph>It doesn't help that the company tends to cut corners at odd places when what it should be doing is pushing the envelope further for what can be done in this space.</paragraph>
+			<paragraph>You'd expect the bigger, more experienced company leading the charge here but that doesn't quite seem to be happening. So even though the On5 Pro and On7 Pro are fairly decent phones, they likely aren't going to be on top of anyone's shopping lists.</paragraph>
+		</subsection>
+	</page>
+</review>

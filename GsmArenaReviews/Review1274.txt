@@ -1,0 +1,116 @@
+<review>
+	<title>Nokia World 2011</title>
+	<description>Live coverage</description>
+	<link>http://www.gsmarena.com/nokia_world_lumia_800_lumia_710-review-668.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Today marked the beginning of the Windows Phone era for Nokia. The company announced to make the Micorosft platform its primary OS just before the MWC in February, but it's only now, at Nokia World that it finally had actual products to show us.</paragraph>
+			<paragraph>The Nokia CEO, Steven Elop, stepped on stage and unveiled the Nokia Lumia 800 and Lumia 710. The Lumia 800 borrows the Nokia N9 unibody design and comes with a 3.7" ClearBlack AMOLED, a 1.4GHz Scorpion CPU, 512 MB of RAM and 16GB of storage under the hood.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>An 8 megapixel camera with super bright f/2.2 lens is what does the shooting on the Nokia Lumia 800. The snapper also does 720p video@30fps.</paragraph>
+			<paragraph>The  Nokia Lumia 710 is a more affordable device (?270 pre-tax vs ?420 pre-tax for the Lumia 800), that comes with a slightly different design, but the same 1.4 GHz Scorpion CPU. It trades the AMOLED for a more conventional, LCD screen and gets a 5 megapixel camera instead of an 8 megapixel shooter.</paragraph>
+			<paragraph>The Lumia 710 will be available in stealthy black and crisp white at launch with extra swappable covers that match the WP tile color options.</paragraph>
+			<paragraph>Along with the two headliners, Nokia announced four new S40 handsets. Nokia Asha 200, Asha 201, Asha 300, Asha 303 are all budget-minded cell phones aiming to bring good connectivity options without breaking the bank. Find out more about them here.</paragraph>
+			<paragraph>The only notable absentee was Nokia 900, which leaked last night, but obviously didn't make it in time for the announcement today, so we'll have to wait a bit more to meet the 4.3" beast.</paragraph>
+			<paragraph>After the press conference we got a chance to play with the newly announced devices. You can find live photos and our first-hand impressions of all of them on the following pages. We begins with the Nokia 800 Lumia right after the break.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 800 hands-on<subsectionTitle>
+			<paragraph>The Nokia Lumia 800 was certainly the most important announcement at the Nokia World keynote speech. The non-colored plastic unibody smartphone is the better spec'd of the newly introduced couple, featuring a 3.7" ClearBlack AMOLED, a 1.4GHz Scorpion CPU, an 8 megapixel camera with bright F/2.2 lens and 16GB of internal storage.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Hardware-wise the Lumia 800 is perfectly easy to describe. It's an N9, with a slightly smaller display so the three touch-sensitive keys could be accommodated, and a camera key. And that's pretty great news, actually, as the N9 is one of the sleekest smartphones that we have seen recently, which, by extension, makes the Lumia 800 arguably the best-looking WP device so far.</paragraph>
+			<paragraph>We were able to confirm that the Nokia 800 Lumia WVGA AMOLED uses a PenTile matrix, rather than a conventional RGB one, just like the N9 screen. Here comes the photo proof.</paragraph>
+			<paragraph>On the software side of things, it?s the Windows Phone Mango that we liked quite a lot, when we reviewed it. It may only have a single-core 1.4GHz CPU at hand, but Mango tends to be way less-taxing on the hardware than, say, Android, so it's no surprise that everything runs smooth here.</paragraph>
+			<paragraph>Then, there are the Nokia home-backed apps that we think will give their WP7 smartphones an edge against their peers. We are mostly talking about the free lifetime voice-guided navigation, but some might also like the MixRadio free online streaming service.</paragraph>
+			<paragraph>We also did a quick hands-on video to give you a better idea of the Nokia Lumia 800 UI. Check it out.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And you shouldn't forget the 25GB of free SkyDrive storage that can be used for all those images and audio tracks.</paragraph>
+			<paragraph>We were even able to take a few shots with the Nokia Lumia 800 camera. We were quite impressed by the job done by the 8 megapixel sensor and the bright F/2.2 lens. Images might not be the sharpest around and the noise levels are only average, but their colors and contrast are great, despite the sub-optimal lighting. Cameraphone lovers should definitely check this one out.</paragraph>
+			<paragraph>The Nokia Lumia 800 is shipping as we speak and it should hit select markets in early November. It will be available in three different colors - black, blue and pink.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 710 hands-on<subsectionTitle>
+			<paragraph>The Nokia Lumia 710 is the more affordable WP Mango option that the Finns are going to be offering, but it's certainly not looking like a cheap device. And its specs sheet isn't that far away from that of the Nokia Lumia 800, either.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Sure the deep-blacks of the AMOLED are gone, to be replaced by an LCD and the camera resolution has been taken down a notch, but the screen size and resolution remain the same and there's the exact same amount of processing power under the hood. Plus the LCD isn't half bad at all, so the Lumia 710 might even end up as the better options in terms of value for money.</paragraph>
+			<paragraph>Design-wise the Nokia Lumia 710 will be much better appreciated by the younger audience. It may lack the sophistication of its 800 sibling but it has charisma and you shouldn't underestimate the easy customization options, provided by the replaceable battery cover.</paragraph>
+			<paragraph>What's really cool is that Nokia Lumia 710 got the exact same software treatment as its more expensive sibling. You get the same nicely performing Windows Phone Mango platform, topped with the Nokia-exclusive voice-guided navigation.</paragraph>
+			<paragraph>And here comes the Nokia Lumia 710 hands-on video.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Check out the benchmark results of the two Lumia phones on the following page.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 800 and Lumia 710 benchmark results<subsectionTitle>
+			<paragraph>We also managed to run several synthetic benchmark tests on the newly announced WP smartphones. We were eager to find out how those 1.4Ghz Snapdragon chipsets fare and it turned out that they did quite well.</paragraph>
+			<paragraph>To put their performance into perspective we threw in the HTC Radar and an HTC 7 Mozart running the Mango update into the mix. The Radar has a chipset very similar to the two Lumia smartphones, but its Scorpion CPU is clocked at 1GHz. It showed us what kind of an advantage the extra 400MHz of clock speeds actually bring. The 7 Mozart not only has a slower CPU than the two Nokia smartphones, but also a weaker GPU (Adreno 200, instead of Adreno 205) so we could see how much of a difference that makes.</paragraph>
+			<paragraph>We started with BrowserMark and it was Nokia Lumia 710 that drew first blood, scoring 32,854 points (higher is better here). The Lumia 800 came in second with 32,594 points, but for all purposes practical the performance of the two was identical. The HTC Radar came in third and HTC 7 Mozart ended up last with the margin of their defeat being about what the specs difference suggests.</paragraph>
+			<paragraph>Nokia 800 Lumia evened the score by winning the second benchmark, Microsoft's FishIE Tank. It delivered 53 fps compared to 50fps of the Lumia 710. The HTC Radar was some way behind with 38fps, while the less powerful GPU of the 7 Mozart only allowed it to do 30fps.</paragraph>
+			<paragraph>The Lumia 800 scored another point at the SunSpider JavaScript benchmark and once again the Lumia 710 came so close that the two were virtually indistinguishable. The HTC smartphones got very similar results here, but neither of them came anywhere near the Lumia scores. That's all understandable considering given the nature of the benchmark (it only stresses the CPU).</paragraph>
+			<paragraph>The final test was Celtikcane's JSBenchmark and the Nokia Lumia 800 made it three wins out of four. The Lumia 710 didn't disappoint either and came a really close second, while the Radar placed third 25% off the pace. The 7 Mozart was nearly two times slower than the leader.</paragraph>
+			<paragraph>All in all, the 1.4GHz Scorpions inside the two Nokia smartphones give about as big a processing power boost (compared to the 1GHz options) as you'd expect.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Asha 200, 201, 300 and 303 hands-on<subsectionTitle>
+			<paragraph>Along with its Lumia WP smartphones, Nokia introduced 4 new featurephones at its Nokia World event. Forming up a whole new family in the company portfolio called Asha (that's Hindi for hope) the Nokia 200, 201, 300 and 303 are all running the 6th edition of the company's proprietary S40 platform.</paragraph>
+			<paragraph>Nokia Asha 200 and Asha 201 look very much alike to the Nokia C3 and have been equipped with what Nokia claims to be their most powerful loudspeaker to date. The only difference between the two QWERTY-wielding featurephones is that the 200 has two SIM slots with dual-stand-by, while the 201 only has one.</paragraph>
+			<paragraph>We also got the Nokia Asha 200 to pose for a quick hands-on video so we could demonstrate its S40 UI.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Next comes the Nokia Asha 300 with its 1GHz processor, 3G (with 10.2Mbps HSPA) connectivity and a 2.4" QVGA touchscreen plus regular keypad combo. A 5 megapixel camera with VGA video recording is the other key feature of the stylish phone.</paragraph>
+			<paragraph>The Asha 300 spared a few minutes for a hands-on video, as well. Check it out.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Finally, we have the Nokia Asha 303, a 1GHz phone with a 2.6" capacitive touchscreen and a full QWERTY keyboard. Its styling is reminiscent of the Nokia X3-02 Touch and Type, which we really liked back when we met it. It also offers a 3.2MP camera on the back.</paragraph>
+			<paragraph>And here comes the Nokia Asha 303 hands-on video.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Asha quartet will come with a newly developed Nokia cloud-based browser that compresses web content up to 90% to reduce data consumption. The Finns also bragged about making many popular apps like WhatsApp and Angry Birds available to their S40 devices.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Kinetic flexible phone hands-on<subsectionTitle>
+			<paragraph>Nokia unveiled a couple of really interesting prototypes at the start of the second day of Nokia World 2011. We give you the first of those - the Nokia Kinetic flexible phone. The device comes with a large flexible OLED display that you can bend from the middle or from around the edges.</paragraph>
+			<paragraph>But being able to bend is not its only feature. It actually uses that ability to control the UI on the device. You can, for example, zoom in and out by bending it from the middle. You can scroll through a list by bending it from around the edges.</paragraph>
+			<paragraph>The advantage of this method is that it can be used without looking at the display and also when you're using gloves, something that capacitive touchscreens cannot do. The downside is that you have to use both hands and it's not terribly convenient, with far too much effort being required to flex the device compared to simply tapping on the screen.</paragraph>
+			<paragraph>That's really one of the most impressive bits of technology that we saw at the event. If Nokia actually manage to turn it into a market ready device it might completely change the way we are using our cell phones.</paragraph>
+			<paragraph>First of all, we've never seen a screen with such wide viewing angles - there's virtually NO shift in colors or contrast no matter how you look at it. The contrast itself is as good as you'd expect from an OLED, blacks being as deep as it gets.</paragraph>
+			<paragraph>The resolution of the screen might be just WVGA, but it doesn't take anything away from its brilliance. On top of the screen there's some sort of plastic protection as obviously glass won't bend. Unfortunately, that means it could be prone to scratches in real-life use.</paragraph>
+			<paragraph>And here's this marvelous piece of technology on video.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hydrophobic nanocoating demo<subsectionTitle>
+			<paragraph>The other impressive prototype that the Nokia R&amp;D team had to show was a Nokia 700 featuring an amazing hydrophobic coating, which acts as a water shield.</paragraph>
+			<paragraph>The "hydrophobic nanocoating" is a layer of nanostructures which forms a very thin layer of air on the surface of the phone and prevents water from entering penetrating it.</paragraph>
+			<paragraph>Such coating can be applied to both the body and the internals of the phone, allowing great water resistance to be achieved without adding extra weight or unnecessary bulkiness.</paragraph>
+			<paragraph>Here's the walkthrough of the technology, as provided by one of the Nokia representatives.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>White Nokia N9 hands-on<subsectionTitle>
+			<paragraph>One of the unexpected visitors at this year's Nokia World was a Nokia N9, dressed in shiny white. The MeeGo flagship was only available in blue, black and pink at launch, but the Finns used their biggest event of the year to introduce a white version.</paragraph>
+			<paragraph>Clearly Nokia has taken note of the extremely warm reception that the N9 got from both users and journalists and are focusing more effort in its way. Plus, they are probably using the MeeGo smartphone as a testing platform for certain features that will eventually make it to its WP twin, the Nokia Lumia 800.</paragraph>
+			<paragraph>Anyway, the white color isn't the only change that this new Nokia N9 version brings. Apparently the matte finish of the other colors was found to be incompatible with it as it showed all dirt too easily and the phone quickly lost its looks. So Nokia decided to make the white N9 glossy instead as that would make it much harder to mess up.</paragraph>
+			<paragraph>Now we really prefer the regular N9 finish as it feels much better to touch, but there's no denying that the white edition looks stunning and if glossy is what it took to make it, then so be it.</paragraph>
+			<paragraph>There are no changes to the internals of the N9 that the white edition brings, so it's strictly a matter of choosing the color that suits you best here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>NFC Tag writer for Symbian demo<subsectionTitle>
+			<paragraph>With Nokia World 2011 being all dedicated to the Mango-running Lumias and how awesome they are, it's hardly a surprise that it was rather quiet on the Symbian front. There was just one Symbia-related announcement and that was the NFC Tag-writer app.</paragraph>
+			<paragraph>As it says on the cover, the new app lets you write NFC tags with your NFC-enabled Symbian smartphone. It has a neat and simple interface that you can check out in action the following video.</paragraph>
+			<paragraph>We are yet not sure what the real-life applications of this technology will be, but it certainly has a lot of potential. Imagine putting your SatNav-enabled phone on your car?s dashboard next to an appropriate NFC sticker tag and your phone getting automatically into Navigation mode with Bluetooth turning on for hands-free call handling.</paragraph>
+			<paragraph>Or making business cards with built-in NFC tags that would be really easy to import in a smartphone's phonebook or even calling it directly by simply touching the NFC-enabled card. Or imagine placing a tag on your nightstand and making your phone automatically switch off its Wi-Fi network and ringer when you place it on it. Or? well, you get the idea, but those are ideas only for now and we'll see how long it takes for developers to take it to the next level. We're counting on you.</paragraph>
+			<paragraph>Now watch how easy it is to create a new NFC tag:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+</review>

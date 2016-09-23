@@ -1,0 +1,13 @@
+<movie>
+	<title>Too Good to Be True</title>
+	<link>http://www.imdb.com/title/tt0096285/?ref_=fn_al_tt_1</link>
+	<year>1988</year>
+	<generalScore>0.58</generalScore>
+	<review>
+		<date>2001-07-12</date>
+		<username>tcfoxfan</username>
+		<score>0.2</score>
+		<shortDescription>Pale remake of "Leave Her To Heaven"</shortDescription>
+		<fullReview>To be honest it would be hard to equal the original 1945 classic starring Gene Tierney, Cornel Wilde, Jeanne Crain and Vincent Price. This film changes the crucial plot line of the brother relationship into a father and son relationship and falls flat. Loni Anderson is a good actress, but out of her element here in a role that seems suited more for an actress such as Linda Fiorentino. Patrick Duffy is probably the best of the cast and brings off the right amount of passion and disbelief the role calls for. Glynnis O'Connor on the other hand seems too pathetic and weak in the role of Ruth and seems like a frighten child in an adults body. Check out the original for a highly memorable film experience.</fullReview>
+	</review>
+</movie>

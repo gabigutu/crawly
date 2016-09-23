@@ -1,0 +1,28 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>La Quête de l'oiseau du temps : Intégrale</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>1992</year>
+	<link>http://www.senscritique.com/bd/La_Quete_de_l_oiseau_du_temps_Integrale/13036895</link>
+	<generalScore>8.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>6</numberOfVoters>
+		<numberOfVoters>22</numberOfVoters>
+		<numberOfVoters>83</numberOfVoters>
+		<numberOfVoters>64</numberOfVoters>
+		<numberOfVoters>37</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>L'avis de 666Raziel</title>
+		<author>666Raziel</author>
+		<date>2016-04-28</date>
+		<score>0.7</score>
+		<content>La Quête de L’Oiseau du Temps ; un titre bien à propos pour discuter de l'intemporalité (ou non) de la qualité. Une série culte peut-elle faire fi du temps qui passe ? Quel pourcentage accorder au contexte par rapport à la valeur intrinsèque d'une œuvre lors de son évaluation ? Autant de questions ouvertes que l'on se pose lorsque, comme moi, on découvre cette BD en 2012 grâce à la dernière édition intégrale mise sur le marché. Pour couper court, La Quête n'est pas une mauvaise BD. Le scénario est intéressant et bien développé (même si les deux premiers tomes s'avèrent un peu mollassons). L'écriture est particulièrement soignée et les décors somme toute assez recherchés. Cela confère au tout un sentiment de crédibilité que l'on tend parfois à perdre dans les séries "modernes". La Quête est donc une bonne série de fantasy. Toutefois, si l'on se place en 2012, à l'heure où ce genre est relativement saturé, on perçoit indéniablement un manquement dans l’œuvre. Innovante 30 ans en arrière celle-ci accuse aujourd'hui un léger coup de vieux qui risque fort de décevoir ceux qui ne découvrent qu'à présent cette saga. Pour moi, il lui manque clairement le petit plus que l'on peut trouver dans Le Grand Pouvoir du Chninkel ou dans la Légendes des Contrées Oubliées. Alors, disant cela, j'insulte peut être le génie avant-gardiste des auteurs. Soit. Mais à vous qui souhaitez vous lancer dans cette lecture, soyez avertis, La Quête de l'Oiseau du temps ressemble plus à un vieillard fort sympathique qu'à une divinité qui n'aurait pas pris une ride.</content>
+	</review>
+</sensCritiqueEntity>

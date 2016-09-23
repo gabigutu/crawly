@@ -1,0 +1,257 @@
+<review>
+	<title>Windows Phone 7 OS review</title>
+	<description>From scratch</description>
+	<link>http://www.gsmarena.com/windows_phone_7-review-521.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features:<subsectionTitle>
+			<paragraph>Premium mobile OS (high minimum hardware requirements)</paragraph>
+			<paragraph>Clean, uncluttered interface with distinctive design language</paragraph>
+			<paragraph>Easy and thumbable user interface</paragraph>
+			<paragraph>Smooth operation with cool animations and transition effects</paragraph>
+			<paragraph>A fresh start with no legacy support needed</paragraph>
+			<paragraph>Backed up and developed by one of the largest software companies in the world</paragraph>
+			<paragraph>Excellent MS Office mobile implementation</paragraph>
+			<paragraph>Top-notch social integration</paragraph>
+			<paragraph>Excellent cloud services integration (SkyDrive, Windows Live, Xbox Live)</paragraph>
+			<paragraph>Wireless syncing of multimedia content</paragraph>
+			<paragraph>Internal memory expandable via microSD card slot (where available)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages:<subsectionTitle>
+			<paragraph>No system-wide file manager</paragraph>
+			<paragraph>No videocalling</paragraph>
+			<paragraph>Limited third-party apps availability</paragraph>
+			<paragraph>No Bluetooth file transfers</paragraph>
+			<paragraph>No USB mass storage mode</paragraph>
+			<paragraph>No multitasking</paragraph>
+			<paragraph>No copy/paste</paragraph>
+			<paragraph>Too dependent on Zune software for computer file management and syncing</paragraph>
+			<paragraph>No music player equalisers</paragraph>
+			<paragraph>No Flash or Silverlight support in the web browser</paragraph>
+			<paragraph>No sign of free Bing maps Navigation so far</paragraph>
+			<paragraph>No DivX/XviD video support</paragraph>
+			<paragraph>No internet tethering support</paragraph>
+			<paragraph>New ringtones available only through the Marketplace</paragraph>
+			<paragraph>Swapping memory card requires hard reset; cards not readable by computer</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>A modern smartphone OS needs to be balanced - drawing on excellent cloud services and standing on the cutting edge of software. The Windows Phone 7 OS is nothing like Windows Mobile. It's got a trendy, almost magazine-like new look, and it is incredibly simple to use despite its different approach to just about everything.</paragraph>
+			<paragraph>Microsoft received a loud collective boo when it revealed that Windows Phone 7 will not support multitasking. But the company is trying to break the mold here. Instead of making a playground for apps, it made WP7 the ?killer app?. Anything extra that you install just integrates in and extends the relevant features.</paragraph>
+			<paragraph>They must?ve sat down to think. A complete makeover or start from scratch. In an odd way, it looks like they never actually made up their mind. That doesn?t matter though. The important thing is Windows Phone 7 is breaking loose from its ?Windows Mobile? heritage and changes everything about itself ? from the homescreen to the very nature of apps.</paragraph>
+			<paragraph>Microsoft is not fossilized in their own mythology. They are finally looking competitive in the apps and services part of smartphoning and Windows Phone 7 is their ticket out of the mold.</paragraph>
+			<paragraph>Bing has evolved and is perhaps drawing people away from Google Search. Bing Maps even beats Google Maps on some counts (Bird?s eye view is so much better than the plain top down view). The Windows Live Messenger got social with Facebook integration. Even the new Internet Explorer 9 beta is impressive ? you know, for an IE iteration, at least.</paragraph>
+			<paragraph>We know what you?re thinking: we came here for the Windows Phone 7 review so where is it and why should we care about Microsoft?s new services? But you should. Because Microsoft has made their new Windows Phone 7 the perfect mobile platform for accessing all of their online services.</paragraph>
+			<paragraph>Bing Search and Maps are a part of the OS, rather than apps, so are Xbox Live and the Zune Marketplace. And the new Internet Explorer mobile is starting to make up for years of embarrassment.</paragraph>
+			<paragraph>If you?ve got a traditional app-centric approach, you need to figure out what app does what. The downfall is that related content gets handled by vastly different apps, which complicates things. Enter Microsoft?s solution to the issue.</paragraph>
+			<paragraph>The center of the new mobile experience are the so-called Hubs ? they herd together related stuff from the Web, from apps and from services.</paragraph>
+			<paragraph>In Windows Phone 7, the People hub puts together the usual phone contact info with the social networking stuff. In short, everything about someone you know can be found here. Sure, Sense UI and MOTOBLUR for example are doing the same magix on Android OS. But Windows Phone 7 applies this whole concept to all the other features, not just the phonebook. And it?s the stock interface, not some third-party software enhancement.</paragraph>
+			<paragraph>The well-though OS however is not without its downsides. You can see we've got a really long list of disadvantages up there, but Apple iOS and Google Android had even longer ones at launch - not to mention the superior hardware that WP7 debuts on. It's also good to know that Microsoft engineers are already working hard on fixing those up in further updates to the OS. For instance, they promise copy/paste functionality in the first months of 2011. We hope they've got many more of those in the pipeline. So hold your horses with the bashing and hop on on the guided tour to Microsoft's latest mobile OS, because it's nothing like you've seen before and it deserves the benefit of a doubt at this early stage.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface like you haven?t seen before<subsectionTitle>
+			<paragraph>The Windows Mobile Today screen is gone ? and gone is the Start menu. We told you, Windows Phone 7 is unrecognizable as a descendant of Windows Mobile. But don?t worry ? there?s actually only a couple of things you need to learn before you feel right at home with the new UI.</paragraph>
+			<paragraph>The interface has a cool cover-of-a-magazine feel to it. At first glance, the similarity is obvious ? font size ranges from large titles to small labels to direct your attention as needed. Some of the hubs even have a dynamic visual background that makes them look like a page in a magazine.</paragraph>
+			<paragraph>But that?s not all, the homescreen (called simply ?start?) is sort of the cover page. It?s home to the live tiles. They are part widget, part shortcut and reside on a square grid.</paragraph>
+			<paragraph>This homescreen is what you make of it though ? you can ?pin? items from the menu to the homescreen (Windows 7 users should be comfortable with that concept). So, in a way the homescreen features the most important apps and hubs from the phone up front. A single tap is the equivalent of ?Read more on page 5!?.</paragraph>
+			<paragraph>Let?s look closer at the live tiles. They fit the broad concept of ?widget?, but unlike most widgets out there, they are very uniform with clear labels that indicate what each one of them does. That?s what we like that about them. It?s clear what a tile does even if it?s the first time you see it.</paragraph>
+			<paragraph>There?s more to them though ? they are live tiles after all. For example, the People tile is a 3 x 3 grid with contact photos fading in and out. It?s one of the tiles that rarely sit still.</paragraph>
+			<paragraph>But eye candy aside, they can display info from the hub they belong to.? say, the number of new messages. They can easily be reordered and removed, new ones can be added from the main menu.</paragraph>
+			<paragraph>The main menu is where all the hubs and apps are listed. Getting there is easy ? an animated arrow in the top right corner will egg you on to tap it and it brings up the menu.</paragraph>
+			<paragraph>Alternatively, you can scroll the homescreen panes sideways to move between the homescreen and the menu. There?s no way to organize things here, so if you have many apps installed, the list will soon grow to unmanageable proportions.</paragraph>
+			<paragraph>We told you there are only a couple of things that you need to know about the Windows Phone 7 logic to be ready to use it and they are very easy to learn.</paragraph>
+			<paragraph>The interface is neat and tidy ? there?s nothing on it that doesn?t need to be there, so the rule of thumb is that if something looks like it can be pressed, then it can be pressed. No need to fumble about menus and submenus ? just tap the thing that looks most likely to do what you?re interested in and most of the time it will work.</paragraph>
+			<paragraph>Besides tapping, there?s also a lot of swiping. Swiping up and down scrolls whatever you?re looking at and reveals more content. Swiping sideways reveals another section that shows related content ? e.g. in the calendar a swipe lets you toggle day and agenda views, in the email app it goes over the folders (all emails, unread, flagged and so on).</paragraph>
+			<paragraph>That?s the logic behind the homescreen/main menu all set up. Scroll up and down for more tiles/apps, swipe sideways for another related section. Other OSes use tabs, submenus, pop ups and so on to organize content ? in Windows Phone 7 you just swipe your wipe through.</paragraph>
+			<paragraph>The UI also offers tips, which pop out at the right time to teach you a new trick.</paragraph>
+			<paragraph>Before we jump into specifics about hubs, apps and others, we should mention one more change that we really liked. Soft keys have been a part of phone interfaces pretty much since phones had screens.</paragraph>
+			<paragraph>Windows Phone 7 has them too ? context-dependent icons at the bottom of the screen. Whenever you see the ?...? symbol, there are more options available for the current screen.</paragraph>
+			<paragraph>Usually the more advanced settings are placed there, so you won?t use the three dots often. All in all it?s akin to the Android contextual menu but it needs one key less. Alternatively, there?s a tap-and-hold menu available too for handling individual items in a list.</paragraph>
+			<paragraph>We already mentioned there?s no multitasking, but now it?s time to get into some more detail. No, Windows Phone 7 can?t multitask ? instead it takes the iOS (pre-version 4) approach and lets applications keep their state when you switch away from them.</paragraph>
+			<paragraph>That is, you can be using the browser and hit the Windows key to go to the homescreen and launch another app. The Back key will always take you to the previous screen ? in this example you will pass the homescreen and go back to the browser again.</paragraph>
+			<paragraph>It will keep all the tabs you?ve open at the exact location you?ve been reading. The back button may be a little confusing, since it doesn?t go up the menu hierarchy but to the previous screen ? even through apps you don?t want to use again.</paragraph>
+			<paragraph>Anyway, this isn?t quite as good as real multitasking ? you don?t even get a switcher that lists the recently used apps so that you can skip going back to apps you don?t want. Overall, it?s a usable system.</paragraph>
+			<paragraph>However, lack of multitasking means you can?t, say, run third party music players (e.g. last.fm) in the background. A curiosity is that apps (in general, not just music players) can continue to work even after you lock the screen ? but you have to allow it. The phone will ask permission the first time you start the app and later you can change that setting from the app?s menu.</paragraph>
+			<paragraph>Microsoft will lift that restriction, but only for the apps that prove battery-efficient ? the phone must be able to work at least 6 hours with the app running if it?s a music player and 120 hours otherwise. They didn?t specify what their test phone is though (not even battery capacity).</paragraph>
+			<paragraph>However, lack of multitasking means you can?t, say, run third party music players (e.g. last.fm) in the background. A curiosity is that apps (in general, not just music players) can continue to work even after you lock the screen ? but you have to allow it. The phone will ask permission the first time you start the app and later you can change that setting from the app?s menu.</paragraph>
+			<paragraph>Microsoft will lift that restriction, but only for the apps that prove battery-efficient ? the phone must be able to work at least 6 hours with the app running if it?s a music player and 120 hours otherwise. They didn?t specify what their test phone is though (not even battery capacity).</paragraph>
+			<paragraph>Still, all the other apps get suspended when you lock the phone ? unlocking the phone will cause the app or game to reload, which can be slow and you usually lose your progress. This can be very annoying even to casual gamers.</paragraph>
+			<paragraph>Another OS-specific limitation is the memory card support - yes, cards are supported (though not all phones will have a card slot) but the way Windows Phone 7 uses memory cards introduces some difficulties.</paragraph>
+			<paragraph>The memory card gets merged with the internal memory, but that only happens when the phone is initialized - that is if you want to swap memory cards, you'll have to do a hard reset. Also, the merge happens in a non-standard way and those cards become unreadable by a computer.</paragraph>
+			<paragraph>Here's a video of Windows Phone 7 in action:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Dialing, phonebook and messaging<subsectionTitle>
+			<paragraph>Dialing as such has taken a background role ? the phone application shows you the call history, with shortcuts to voice mail, dialer and phonebook. The dialer itself is as simple as it gets ? a phone keypad with a Call and a Save button. The lack of smart dialing is an unexpected nasty surprise. It was Windows Mobile that first spoiled us with the immensely helpful addition to the dialer.</paragraph>
+			<paragraph>Voice dialing is available as an alternative and works fairly well, even with unusual names (e.g. "Mandark"). It did take us a few attempts before we got to call "Dexter Morgan" instead of "Dexter" though (they are two separate contacts). However, we still would have liked to have smart dialing - you can't always use voice dialing.</paragraph>
+			<paragraph>An interesting option is the International prefix assistant ? it comes in handy for dialing while abroad or calling someone outside the country. Windows Phone 7 comes with some ringtones preloaded, but you can get new one only through the Marketplace (possibly at some price).</paragraph>
+			<paragraph>A quick note ? status indicators like signal strength are hidden by default (except the clock) but you can bring them up with a quick tap on the verytop of the screen.</paragraph>
+			<paragraph>Finding contacts is the phonebook?s job. Actually, it?s not a phonebook, it?s the People hub. The first screen shows you a list of all your contacts, with a search shortcut (odd choice given the hardware search button) and an add contact button.</paragraph>
+			<paragraph>Contacts are ordered alphabetically, indexed with blue squares with a letter. You can tap any one of those letters boxes and the screen shows you the whole alphabet highlighting the letters actually in use. You can tap a letter to scroll to that part of the list.</paragraph>
+			<paragraph>Contacts can be sorted by either first name or last, they can be displayed as ?First Last? or ?Last, First? (the two settings are separate), you can include or exclude Facebook friends and add several accounts to sync with.</paragraph>
+			<paragraph>Swiping to the side shows only new events from all contacts. Another swipe shows the recently called contacts. Instead of keeping a list of favorites, you simply pin a contact to the homescreen.</paragraph>
+			<paragraph>Viewing a contact?s profile shows the contact photo. Below that there are actions ? ?call mobile?, ?text mobile?, ?write on wall?, ?view website? and so on. Below each actions, in smaller type and grey or blue letters, are the target for the action (e.g. phone number, email, site URL) and where that info came from (Google, Facebook, etc.).</paragraph>
+			<paragraph>The soft keys let you pin a contact, link two (or more) contacts from the various services and edit. Swiping to the side brings out the ?What?s new ?panel?, which shows the latest updates and events just from that contact.</paragraph>
+			<paragraph>When editing a contact, you can add multiple phone numbers and email addresses of different types (home, work, etc), a custom ringtone, a note or a variety of different fields (like birthday, website, office location and so on).</paragraph>
+			<paragraph>Messaging is handled in threads ? there are speech bubbles for each text or multimedia message. Adding a recipient is easy (just type the first few letters of the contacts name and pick from the list) and you can add multiple contacts using the + button next to the recipient field.</paragraph>
+			<paragraph>You can attach a photo to turn the message into an MMS ? either an existing photo or you can snap a new one. You can add only one though and you can only attach photos (not videos) and the photos get downscaled before sending, so you can't email full resolution shots.</paragraph>
+			<paragraph>The email app is pretty good. It easily found the settings for our Gmail and Hotmail test accounts. Each inbox is separate and you can pin it to the homescreen. There?s no aggregated inbox view however.</paragraph>
+			<paragraph>You can opt to display all, unread or flagged messages ? by sideways sweeps. You can browse all folders for the email account and batch operations are easy ? a tap on the left side of the screen selects the message, so you can move it, mark it as (un)read or flag it.</paragraph>
+			<paragraph>We tried emailing a photo from the camera, but the email app downscaled it before sending - so, emailing full resolution shots is no go.</paragraph>
+			<paragraph>The keyboard is a traditional virtual QWERTY with not too many surprises. It can suggest words as you type and correct spelling and also auto-capitalize letters after a full stop.</paragraph>
+			<paragraph>The typing experience however depends on the phone and its screen so we?ll have to review that on a case by case basis. At least, there are no problems on the software side.</paragraph>
+			<paragraph>It?s curious that the keyboard color changes according to the dominant color of the current screen. So it?s white in the email or office app, but black elsewhere (like in the Messaging).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery and media players are nice<subsectionTitle>
+			<paragraph>The Pictures hub is the photo gallery of Windows Phone 7. When you start it, it shows the most recent photos (including those from the camera), What?s new (which shows photos from online services like Windows Live and Facebook) and a menu, which lets you view all photos, photos sorted by date and the favorite photos.</paragraph>
+			<paragraph>When you?re viewing an individual photo you can pinch to zoom in or out and you can easily upload the photo to Facebook or share it on some other service.</paragraph>
+			<paragraph>When photos are transferred from a computer to the phone using the Zune software they get downscaled (much like emailing a photo).</paragraph>
+			<paragraph>The media players reside together in the Music &amp; Videos hub, which bears the Zune logo. When you start it, it shows the History, which gives you quick access to the last two things played, or you can go to the full menu and start the music or video player, listen/watch podcasts (both audio and video podcasts are supported), start the FM radio or go to the Marketplace.</paragraph>
+			<paragraph>The music and video players are simple and have straightforward interfaces. You won?t have any difficulties using them. However there are some things missing ? like equalizers, for instance.</paragraph>
+			<paragraph>It?s interesting that you can pin individual items to the homescreen ? like a song or video, even an FM radio frequency. Talking about being as flexible as possible with your shortcuts.</paragraph>
+			<paragraph>You can access the players from everywhere ? when you press a volume key, the name of the currently playing track also appears along with play/pause, next and previous buttons (they can also scrub through the song).</paragraph>
+			<paragraph>Gallery, music and video players star in the next video demo:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera is sure to bring some HD excitement<subsectionTitle>
+			<paragraph>The camera UI is pretty simple ? you have your viewfinder and some controls on the right. From top to bottom they are the still / video camera toggle, virtual zoom buttons and an extended settings menu. A right swipe will bring up the last photo (or video) you've taken - you can go back as far as you want. Left swipes go the other way, eventually landing you at the camera again.</paragraph>
+			<paragraph>The settings include everything from flash and auto-focus modes, to image settings (contrast, white balance, etc.), effects, shake reduction, Wide Dynamic Range and other options. Of course, it depends on the individual phone?s hardware, which of these options will be available. The video camera has the same UI and much of the same settings.</paragraph>
+			<paragraph>Following the minimum hardware specs from Microsoft, all Windows Phone 7 phones should be able to offer at least a 5 megapixel camera with 720p video recording. The test unit we?re using for this review is quite good at both, so we?re quite happy with WP7 imaging for now.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Internet Explorer is nice for a change<subsectionTitle>
+			<paragraph>Internet Explorer in all its incarnations has caught a lot of flack for being clumsy and outdated. But the new version found in WP7 is nice and, like Internet Explorer 9 on the desktop, it will change the way people think of IE. It?s not all perfect but most people will use it without missing a thing.</paragraph>
+			<paragraph>Page rendering is perfect and fast, as are panning and scrolling. For zoom, you have double tap and pinch zoom. As an extra guide for navigation there?s the Find on page option. Flipping the phone in landscape orientation clears the onscreen controls and gives the whole screen to the webpage.</paragraph>
+			<paragraph>While we appreciate the automatic fullscreen mode, it?s quite limited. You have absolutely no controls and you can?t even enter a new web address in that position.</paragraph>
+			<paragraph>Multiple tabs are supported and the browser didn?t break a sweat juggling several of them. This is, of course, mostly due to the high minimum hardware specs ? which are guaranteed for each Windows Phone 7 device. There is a six-tab maximum limit though ? reasonable for a mobile device, but tab-powerusers may find it limiting.</paragraph>
+			<paragraph>History and favorites are supported and you can even pin a favorite site to the homescreen. Another handy option is to let Bing suggest sites as you type in the URL and Internet Explorer will also suggest sites from the history.</paragraph>
+			<paragraph>There are some things missing though ? Flash is one, but we were at least hoping for Silverlight, which didn?t work either.</paragraph>
+			<paragraph>Saving files is problematic too ? you can only save files that the OS can recognize. We guess that limitation stems from the fact that just as on Apple?s iOS there is no system-wide file manager.</paragraph>
+			<paragraph>Text reflow is another feature we missed ? if you zoom in as much as you want, you?ll have to pan left and right to read the text.</paragraph>
+			<paragraph>The final issue we found is that it causes banding in all online images as if it supports only 65K colors. The issue however is not system wide, cause we didn?t see banding elsewhere throughout the UI.</paragraph>
+			<paragraph>Despite these bugs, overall, Internet Explorer on Windows Phone 7 is a huge improvement over the previous versions and can be used as a main browser.</paragraph>
+			<paragraph>Here's a quick video demo of Internet Explorer on Windows Phone 7.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Microsoft Office suite for mobile<subsectionTitle>
+			<paragraph>The Office hub is an important part of the Windows Phone 7 package. The interface is identical to the other hubs and it?s the best mobile Office suite we?ve seen yet.</paragraph>
+			<paragraph>The Office hub breaks down into three sections ? OneNote, Documents and SharePoint.</paragraph>
+			<paragraph>OneNote is Microsoft?s collaborative note taking tool. It has great (and easy to use) support for lists of multiple levels, you can add photos and voice memos and you can send notes via email when you?re done. Notes can be synced with your SkyDrive or Windows Live account so you can access them from anywhere. Pin-to-homescreen is available too.</paragraph>
+			<paragraph>Collaboration for both Word and Excel files is enabled with the usual Microsoft Office SharePoint. It allows syncing, sharing and web publishing but you?d need to use the right SharePoint server. You can also attach those files to emails, though you need to do that from the Office hub. You can't do it from the email editor, which caused a little confusion at first.</paragraph>
+			<paragraph>Anyway, let?s look at the two more important apps ? Word and Excel. They share the Documents panel, which lists all available documents of the relevant types (in order of last used). Both viewing and editing of files is supported.</paragraph>
+			<paragraph>The Word file support is very good. When reading a file, you can tap the Outline key to view a list of all titles from the document. The other way for navigating long files is the Find key.</paragraph>
+			<paragraph>Editing is pretty straightforward and easy to use even on a mobile device. You type in the text and you can use the Format key to change the formatting of the selected text. You can also insert comments.</paragraph>
+			<paragraph>Formatting options include the standard bold, italic and underline, as well as text size, highlighting and font color. For highlighting and font colors you have only three colors to choose from, which is a little limiting but should be enough for most cases.</paragraph>
+			<paragraph>There?s undo and redo options but strangely, there?s no way to create lists, like in OneNote.</paragraph>
+			<paragraph>And of course, the biggest missing feature is copy and paste. That?s a huge miss for a document editor ? you can?t copy and paste parts of other documents, emails, messages, sites, nothing. We?re guessing many people will sooner or later find this omission quite frustrating.</paragraph>
+			<paragraph>The Excel viewer/editor is pretty good too, but like the Word editor it misses some features. You can add formulas to cells (though it?s not as easy as on the desktop Excel and there are fewer cells available), you can sort and filter the cells too, even merge some of them.</paragraph>
+			<paragraph>But cell formatting is limited to a date, currency or percentage type. You can?t even change the currency sign.</paragraph>
+			<paragraph>Another must-have that?s missing is new row and new column insertion.</paragraph>
+			<paragraph>Several sheets are supported but you get three by default and you can?t rename or delete them, nor add new ones.</paragraph>
+			<paragraph>Anyway, the viewers for Word, Excel and OneNote apps support pinch zooming and work very well for viewing even complex documents. But Microsoft?s fondness for simplicity may have over-simplified the editors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The Calendar is nice<subsectionTitle>
+			<paragraph>There?s not much to say about the calendar ? it works well and it?s easy to use. It prefers two view modes ? agenda and day view. You have month view too, but you can?t access it by side-swiping ? you need to use the soft key for that.</paragraph>
+			<paragraph>The other two softkeys are Today (brings you to the current date) and Add an appointment. That?s the only type of event you get, but it has enough options to suit your needs.</paragraph>
+			<paragraph>You can sync with multiple Exchange ActiveSync calendars, including the Google Calendar - but you have to add is as an Exchange server for that to work.</paragraph>
+			<paragraph>Yet more Windows Phone 7 video action - calendar and Office hubs:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Marketplace reborn<subsectionTitle>
+			<paragraph>The Marketplace is still in its early stages but it?s already much better than what Windows Mobile 6 got. It has three sections ? applications, games and music.</paragraph>
+			<paragraph>The Application section starts with a featured app, then it?s on to the categories (including all and free), followed by the top apps, a list of new ones and a longer list of featured apps. There are not that many apps right now, but possible reasons are that either the available apps are limited regionally or there are not much of them before the official WP7 launch.</paragraph>
+			<paragraph>The Games section is divided into Xbox Live, Top, New, Free and finally, Categories which has the games sorted into genres.</paragraph>
+			<paragraph>Big downloads (anything north of 40MB) need a Wi-Fi connection to work. Alternatively, you can download those jumbo apps using the desktop Zune software.</paragraph>
+			<paragraph>The Music section is actually the Zune Marketplace. Its structure is similar to the Application section. First, a featured artist of the week, three more featured artists, then a list of new releases, top albums and genres.</paragraph>
+			<paragraph>Genres themselves are separated into sections too ? new releases and top artists/albums/songs/playlists. For each song, you get to listen to a 30 second preview.</paragraph>
+			<paragraph>Search is available for the Marketplace but right now it pulls together search results from all sections ? so, songs get mixed in with the apps and games. It's annoying that it does so, but not a major problem that you can't solve with a better search term.</paragraph>
+			<paragraph>The biggest problem with the new Marketplace is the shortage of apps. This is the most common problem when a new OS launches an app store. The number of apps and games will grow but the question is how fast. Of course, this is nothing a little developers challenge with a nice cash prize can?t sort.</paragraph>
+			<paragraph>The number of available apps grew when WP7 launched - the devs have been holding back until the launch it seems. Retail apps will be available starting October 21.</paragraph>
+			<paragraph>Anyway, each app will be listed with a short description, a rating and user reviews, and a few screenshots. If the app can use something that can potentially breach your privacy (e.g. location information) the Marketplace will let you know. It?s not as comprehensive as the Android Market (which lists just about everything the app can use) but on the upside it only warns you about the important things.</paragraph>
+			<paragraph>A quick video tour of the Windows Phone 7 Marketplace:</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Bing Maps taking you from A to B without a hassle<subsectionTitle>
+			<paragraph>Bing Maps is Microsoft?s answer to Google Maps. And it offers some of the same functionality with an even simpler interface, but there are some things missing.</paragraph>
+			<paragraph>You can view either the regular map or switch to aerial view, which brings up the satellite imagery. Unfortunately, the cool Bird?s eye view isn?t available in the mobile version.</paragraph>
+			<paragraph>The three softkeys available are for directions, my location and search (again, why a software key when there?s a perfectly good hardware one?).</paragraph>
+			<paragraph>The extended menu has options to clear the map of any markers you?ve placed, toggling aerial view and accessing the rest of the settings.</paragraph>
+			<paragraph>Browsing the map is easy and relatively fast. Zooming is done by pinching and for a bit of eye candy, when new tiles are loaded they fade in smoothly instead of just popping.</paragraph>
+			<paragraph>A press and hold places the marker on a specific location ? tap the marker and you get About (a map screenshot and the address, which you can send over a message or email) and Nearby, which shows nearby POI with a rating and basic info (like a phone and a web site).</paragraph>
+			<paragraph>You also get Directions, step-by-step instructions to get you to your destination by either driving or walking.</paragraph>
+			<paragraph>Now for what?s missing ? there?s no Navigate from here option, which could have been quite useful. For example, you?re going to the theater, but want to check how far away the restaurant you?re going to afterwards is from the theater.</paragraph>
+			<paragraph>You can still do that, but you can?t pick it from the map ? you have to use the search to find that location. Another thing ? you can?t add more than one destinations when planning the route (Google Maps can?t do that either though).</paragraph>
+			<paragraph>Unfortunately, there was no trace of voice guided navigation either, even though Windows Mobile 6.x can do it. We?ll wait for the official announcement though, it could be just that our test Windows Phone 7 unit didn?t have the latest Maps application installed.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Games you can play with friends<subsectionTitle>
+			<paragraph>Xbox Live is at the heart of the Games hub. It carries over many features from the Xbox ? from your avatar to your scores and achievements. The Spotlight feature is available too (it shows info on new stuff) and also Requests ? which shows you game invites from your friends.</paragraph>
+			<paragraph>Anyway, the games themselves are housed in the Collection section. Nothing much to see here, the installed games are arranged in a square grid and there?s a Get more games shortcut, which launches the Marketplace.</paragraph>
+			<paragraph>Not all games support Xbox Live ? the ones that do are in the corresponding section in the Marketplace. We didn?t have many games to test, but the beefy hardware requirements ensure that Windows Phone 7 handsets won?t have any problems with graphically rich titles.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Odds and ends<subsectionTitle>
+			<paragraph>Bing search is integrated into Windows Phone 7, just like Google Search is part of Android. It offers suggestions as you type too, but it has one nifty little feature ? the background picture.</paragraph>
+			<paragraph>Like the Bing website, there are new photos every day to serve as background, but on WP7 these have an extra feature ? three squares on the photo, which give you three interesting facts about what?s on the picture. The copyright sign in the bottom right also reveals the location of the photo (e.g. ?Waterfall on the Arroyo del Salto River?).</paragraph>
+			<paragraph>It?s not really useful per se, but it?s a nice ?Did you know...?? type of feature for the curious-minded.</paragraph>
+			<paragraph>There are voice commands too ? you press and hold the Windows key and say your command. You can do things like ?Call Sarah at work?, ?Open calendar? and even ?What can I say?? if you?re not sure what commands you can do.</paragraph>
+			<paragraph>SkyDrive is Microsoft?s cloud storage service and they offer 25GB of free storage (individual files must be 50MB max). You can integrate it with Windows Explorer and it has some integration with Windows Phone 7.</paragraph>
+			<paragraph>Right now, you can upload photos including auto uploading. A nice option to have is whether or not to keep the geotagged data when uploading a photo online ? this works for SkyDrive and other services.</paragraph>
+			<paragraph>You can?t really do much else with SkyDrive right now, but we expect to see proper (read: more intriguing) integration once Windows Phone 7 mobiles start hitting the shelves.</paragraph>
+			<paragraph>Another handy site that?s not ready for prime time yet is windowsphone.live.com. This is the site that will offer free cloud syncing, ?Find my phone? (it starts the ringer, so you can find the phone) and Remote wipe too. Some manufacturers will offer a similar service (e.g. HTC) but it will be limited to select devices, so getting it built right in all WP7 phones is a nice perk.</paragraph>
+			<paragraph>We couldn't find a way to easily put files from the outside world into the Windows phone - we had no luck in connecting the phone in mass storage mode. Once the Windows Phone 7 OS is out and about however, you should be able to connect the phone to a PC running the latest (yet unreleased) version of the Zune software.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The WindowsPhone.Live.com cloud has a silver lining<subsectionTitle>
+			<paragraph>Microsoft has added extensive support for ?in the cloud? features in Windows Phone 7. The WindowsPhone.Live.com site is where you can access those features from your browser ? everything from remote wipe to browsing photos.</paragraph>
+			<paragraph>Open the site in your browser and sign in with the Live ID that you use on your WP7 phone.</paragraph>
+			<paragraph>Once that?s done you have access to the Find My Phone features. You can make the phone ring or see its last location on a map.</paragraph>
+			<paragraph>If it turns out that your phone is lost, you can lock it and leave a ?please return? note on the screen.</paragraph>
+			<paragraph>If you fear it?s been stolen, you can remote wipe it too (which erases all data from the phone).</paragraph>
+			<paragraph>The Windows Phone Live also lets you browse and edit contacts, calendar events and OneNotes too (those are edited with Office Live).</paragraph>
+			<paragraph>You can also browse photos you?ve uploaded to SkyDrive. We already mentioned that the camera of every WP7 phone can be set to automatically upload all pics you snap there.</paragraph>
+			<paragraph>Speaking of SkyDrive, using Windows Live Mesh you can sync your computer with your SkyDrive account too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final Words<subsectionTitle>
+			<paragraph>Windows Phone 7 is a great OS. Windows Mobile tried to squeeze a desktop-like OS in your pocket but that never quite worked. The seventh iteration of Microsoft?s mobile operating system takes a different approach ? instead of loads of features through a complicated (and not very well thought out) user interface, it puts simplicity and usability first and then tries to add as much functionality as possible without making a mess out of the whole thing.</paragraph>
+			<paragraph>And it has worked ? Windows Phone 7 looks like nothing we?ve ever used before, yet we never felt lost or confused. The most obvious thing works 80% of the time and the few tips sprinkled here and there taught us nice but not so obvious tricks without getting in the way.</paragraph>
+			<paragraph>Speaking of looks, Windows Phone 7 has unique aesthetics. Parts of it are absolutely gorgeous. It stays away from the faux 3D look for interface elements and instead keeps things flat but visually appealing. It?s the kind of look you?d find in a magazine or a well designed minimalist web site.</paragraph>
+			<paragraph>Sure there were some of us that didn?t like it. All the superfluous animations, UI elemnts flying in or out, they seemed too much at times. Not to mention those big headings that never did fit on a single screen.</paragraph>
+			<paragraph>Well, for those of you that feel attracted by the new Windows Phone looks, we?ll just say you?d be glad that it not only looks good but it?s also really simple to use. All the UI elements are designed so that the essential things draw your eye in while less important bits and pieces are smaller to avoid distraction.</paragraph>
+			<paragraph>But this level of simplicity is also limiting. Sure, you can do most things alright but some things are just out of reach. Copy and paste for one (though that should be available in early 2011), even the limited number of colors for highlighting in Word, the inability to manage files that the phone doesn?t support and so on.</paragraph>
+			<paragraph>It?s not just the UI limitations though ? the OS has limits too. We couldn?t even connect the phone in mass storage mode and the lack of Flash or Silverlight in the web browser was disappointing. To get rid of multitasking after all these years is a questionable move too, but not necessarily a deal breaker. It didn?t get in the iPhone?s way to success, did it?</paragraph>
+			<paragraph>Hubs are a great idea that will reduce the dependence on multitasking ? a hub will aggregate related content from different apps, so there?s no need to switch between them. However, we?re a little worried that they might go the way of the Live folders in Android. They were another great UI idea, but most vendors and app makers tend to keep their content to their own apps.</paragraph>
+			<paragraph>The same thing might happen to Windows Phone 7 and its hubs ? there are plenty of reasons for app makers to want you to use their app rather than have it share a hub with multiple others apps (brand recognition, ads, you name it).</paragraph>
+			<paragraph>If Microsoft was to put Windows Phone 7 on phones of the Kin kind, they would have been a hot sale. Great interface with seamless Facebook integration sprinkled with a few other handy services like the Zune Marketplace and SkyDrive.</paragraph>
+			<paragraph>However, the imposed minimum hardware requirements for a phone to qualify for WP7, practically guarantee that each and every one of them will be an expensive high-end phone.</paragraph>
+			<paragraph>And if you?re paying big, you?d expect high-end functionality. But Windows Phone 7 falls short of expectations on several occasions ? Android 2.x and iOS 4.x will wipe the floor with it as far as power users are concerned.</paragraph>
+			<paragraph>For Facebook, web browsing and music though it?s the cream of the crop. There are no WP7 phones officially unveiled yet so we can?t be certain of pricing, but carrier subsidies will probably be a must.</paragraph>
+			<paragraph>And while 1GHz CPU and a high-res screen command a high price right now, Microsoft has its eye on the future. In a couple of years those minimum requirements will move to the mid range and Windows Phone 7 will have had time to make its name as a guarantee for a solid user experience.</paragraph>
+			<paragraph>So, in the short term WP7 won?t overshadow Android or iOS, but it will be big in the future. Some market analysts even predict that it will push Microsoft?s mobile OS market share to iOS levels by 2014 (with 2010 all but gone, that?s just 3-4 years in the future).</paragraph>
+			<paragraph>Now we just have to sit tight and wait for the official WP7 unveiling event this upcoming Monday, on 11 October, 02:00PM, London time. You can bet we?ll be covering it for you.</paragraph>
+		</subsection>
+	</page>
+</review>

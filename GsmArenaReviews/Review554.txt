@@ -1,0 +1,170 @@
+<review>
+	<title>Sony Xperia XZ preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/sony_xperia_xz_preview-review-1493.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia XZ at a glance<subsectionTitle>
+			<paragraph>5.2" 1080p IPS display, 424ppi</paragraph>
+			<paragraph>Snapdragon 820 chipset: quad-core (2x2.15 + 2x1.6 GHz) Kryo processor, Adreno 530 GPU, 3GB RAM</paragraph>
+			<paragraph>Up to 32GB of built-in storage, expandable via the microSD card slot by up to 200GB</paragraph>
+			<paragraph>IP65/IP68 certified - dust and water proof up to 1.5 meter and 30 minutes</paragraph>
+			<paragraph>23MP Sony IMX300 camera, 24mm-equiv. f/2.0 lens, laser-assisted and phase-detection autofocus, SteadyShot, LED flash, dedicated hardware shutter key</paragraph>
+			<paragraph>2160p video recording, SteadyShot 5-axis image stabilization (in some scenarios)</paragraph>
+			<paragraph>13MP selfie camera with noise reduction, SteadyShot</paragraph>
+			<paragraph>Stereo speakers</paragraph>
+			<paragraph>2,900mAh battery</paragraph>
+			<paragraph>Qualcomm Quick charge certified, Battery Care smart charging at night (market-dependent)</paragraph>
+			<paragraph>USB Type-C port</paragraph>
+			<paragraph>Fingerprint sensor in the side-mounted power button (market-dependent)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>One way or another, the Xperia Z-series lives on after all. The Xperia Z5 was the last of the old lineage, but tradition (and likely marketing) dictates that the ultimate Sony smartphone must have a Z in its name. There goes the Sony Xperia XZ - handing the proverbial relay race baton from the Z series to the X series.</paragraph>
+			<paragraph>A string of letters doesn't make or break a phone, so we won't dwell on it too much, unless you want to go cabalistic looking for proof that the XZ is a Z6 in disguise. Z6-ZsiX-ZX-XZ. No? We thought so.</paragraph>
+			<paragraph>Anyway, beyond the model designation, the Sony Xperia XZ is a true flagship with everything you would expect in 2016. OK, almost everything. 3GB of RAM is so last year and the absence of a QHD screen is something the competition will most certainly use against Sony.</paragraph>
+			<paragraph>Turn a blind eye to these two though and the Xperia XZ ticks all the boxes: a Snapdragon 820 chip, a 23MP primary camera with all kinds of autofocus and 4K video capture (finally!), a 13MP front-facer, expandable storage, stereo speakers, fingerprint sensor (but still not in the US), a USB-C port, IP68 rating, what are we missing? Ah, all this is packed into a beautiful body made from a mix of glass, polycarbonate and ALKALEIDO, or as we regular people call it - aluminum alloy though alkaleido has this special ring to it that makes it sound exclusively Japanese and esoteric even.</paragraph>
+			<paragraph>We got our hands on an Xperia XZ unit for testing, but it turned out its not running final software. Hence, we'll be treating this as a detailed preview, rather than a full-blown review. Once the commercial software version is out, we'll be sure to do the full routine, complete with benchmarks, battery test, comparative camera tests, the lot.</paragraph>
+			<paragraph>What's not going to change with a software update, by definition, is the hardware. That's what we'll be starting with on the following page.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Sony Xperia XZ 360-degree spin<subsectionTitle>
+			<paragraph>The Sony Xperia XZ measures 146 x 72 x 8.1mm, the exact same footprint as the Xperia Z5 it comes to succeed, but 0.8mm thicker. It's still not as thick as the Xperia X Performance and its 8.7mm, and nowhere near the chunky 9.5mm X Compact.</paragraph>
+			<paragraph>The Galaxy S7 is meanwhile smaller in every dimension, though its display is, admittedly, 0.05 inches smaller in diagonal. Then the LG G5 is a few millimeters larger at 149.9 x 73.9 x 7.7mm but you get a bit more display there. The HTC 10 is virtually the same as the Xperia XZ in footprint and its slightly higher thickness of 9 millimeters is offset by curves and chamfered sides.</paragraph>
+			<paragraph>At 161g, the Xperia is precisely as heavy as the HTC flagship. The G5 is 2g lighter, while the Galaxy S7 trumps them all with its weight of 152g. Sony's own Z5 was 154g, but the more recent X Performance is closer to the Xperia XZ at 164 g.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>Sony's smartphone design has traditionally been about evolution, refinement, and polishing, rather than striking changes from one generation to another. That said, it does show that on the XZ designers did more than move around the front camera and sensors.</paragraph>
+			<paragraph>Now, the Xperia XZ is still mostly a rectangle with sharp corners - some things will never change. If anything, the corners have gotten sharper.</paragraph>
+			<paragraph>The design is a stylish mix of sharp edges and smooth curves throughout. The sides are fluid, flowing from front to back with only miniscule gaps between the frame and the adjacent surfaces. Sony calls this design 'loop surface', because design concepts are always better with fancy names, but other than that, it sure looks and feels nice.</paragraph>
+			<paragraph>And mind you, those are three different materials you're touching - glass on the front (an unspecified generation Gorilla Glass), polycarbonate on the frame and ALKALEIDO metal on the back.</paragraph>
+			<paragraph>The curious sounding ALKALEIDO alloy is actually a trademark name belonging to the Japanese steel manufacturer Kobe Steel and our research showed it's a type of aluminum alloy.</paragraph>
+			<paragraph>Sony claims that they've chosen ALKALEIDO to complement their phone's premium design with a material, which has an extra shine and a feeling of depth.</paragraph>
+			<paragraph>Information is scarce though and the marketing materials don't say anything about is its mechanical properties so we are really not sure what to expect of the durability of its finish.</paragraph>
+			<paragraph>We imagine it must have been a challenge to attain the water-proofing with all those different materials on board the device. And while we're on the subject, Sony warns you not to submerge the phone in water, and to avoid seawater, salt water (sea and ocean), and chlorinated water (pools), and points out that the warranty doesn't cover abuse and improper use. That's very much Apple's stance on the subject too, and Samsung simply says that you should stay within the boundaries of the IP rating.</paragraph>
+			<paragraph>Waterproofing is still a gray area with smartphones and we'd certainly advise against deliberately subjecting your phone to an environment that would test its ingress protection. Take it for what it is - a failsafe for when accidents happen.</paragraph>
+			<paragraph>Mineral Black is what our review unit's color is called, but depending on how light hits it, it can be deep purple, or brown or anything in between. It is ALKALEIDO's smooth satin finish to thank for all this sparkle.</paragraph>
+			<paragraph>What it fails miserably at is keeping fingerprints away. Beautiful as it may be when clean, it's going to be covered in grease for most of its life unless you religiously wipe it with a cloth after each use. Under some angles you may not see it, but it's there. That's a rather prevailing issue with today's smartphones, we just sort of expect metal backs to be less prone to accumulating smudges than ones made of glass.</paragraph>
+			<paragraph>It is mostly metal on the rear - the ALKALEIDO alloy we already mentioned - save for a strip along the bottom that is plastic. It's not really an eye-sore, and if you're positively inclined, it may even pass for a design accent.</paragraph>
+			<paragraph>The camera in the top left corner with a flash underneath it. The flash (still a single LED unit) is joined by a couple of sensors, one for laser autofocus, the other for measuring the color of the light in the scene for producing a more accurate white balance.</paragraph>
+			<paragraph>In terms of space management, the Xperia XZ is typical Sony - ample bezels all around, but especially above and below the display. Sure, there are the stereo speakers to somewhat make up for them, but still we feel that shaving a millimeter or two wouldn't hurt.</paragraph>
+			<paragraph>On the forehead, you'll find one of the speakers in the center, which also doubles as an earpiece for voice calls. On its right are the proximity and ambient light sensors, and on the left you'll find the front-facing camera.</paragraph>
+			<paragraph>Further to the left, almost on the edge is an LED notification light if you care for such subtle niceties.</paragraph>
+			<paragraph>The top and bottom didn't get the memo on the whole loop surface thing, though. Sharp transitions and flat surfaces dominate here, but you shouldn't mind - that's not where all the swiping and tapping happens. For the purpose of looking good they certainly fit the bill.</paragraph>
+			<paragraph>On the bottom you'll find the Type-C USB port. The Xperia XZ is the one of the first two Sony smartphones to have one. Sony only went halfway on this, though - Type-C it may be, but it only adheres to the USB 2.0 specification.</paragraph>
+			<paragraph>Right next to it is the primary mic.</paragraph>
+			<paragraph>The top panel has the secondary mic and (thankfully!) a standard 3.5mm jack. Certain manufacturers tend to think that it may no longer be needed but we'll have to disagree.</paragraph>
+			<paragraph>The control layout is typical Sony too. The fingerprint reader/power button is on the right, a little bit above midpoint. It's easily accessible with either a right thumb, or a left index finger, so you should be okay no matter which hand you normally use. If it's the left one though, the sensor may have a slightly lower success rate due to the more awkward handling position. Hands and fingers vary, and so will your experience - we had no issues operating it.</paragraph>
+			<paragraph>That doesn't necessarily apply to the volume rocker though, even if it's a quibble - it could have been placed a little higher. We appreciate the two-stage manual shutter button, but increasingly more so for its ability to launch the camera super quickly and less as an actual shutter release. We've already grown accustomed to taking pictures with tapping, but more importantly, exercising force on the small physical button often results in slightly misaligned shots and camera shake on such small devices where you can't get a steady grip (as opposed to an actual digicam).</paragraph>
+			<paragraph>On the left side, you'll find the card slot. Our unit takes one nano-SIM card and a microSD card, but a dual-SIM model will be available with a shared slot between the second SIM and the microSD.</paragraph>
+			<paragraph>The tray has a rubber gasket to keep water and dust out (good), but the phone will invariably restart every time you pull it out (not so good). You may find it particularly irritating if you happen to swap microSD or SIM cards often.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>5.2-inch FullHD IPS display<subsectionTitle>
+			<paragraph>Sony is confident it nailed the flagship display size and resolution with the Xperia Z2 and has been sticking with it ever since, now including the Xperia XZ. A 5.2-inch FullHD display means a density of 424ppi, which is plenty sharp. However, the likes of LG and Samsung have moved to QHD for similarly sized displays, and Sony is trailing in the specs race even if the tangible benefits of such high pixel density may not be that easily observable with the naked eye.</paragraph>
+			<paragraph>Sharpness aside, the Xperia XZ is equipped with one high-quality IPS panel. Viewing angles are great and the phone is also perfectly usable outdoors in bright daylight.</paragraph>
+			<paragraph>In our tests, it achieved a maximum brightness of 619nits in Auto mode, which is an improvement over both the Xperia Z5 and the X Performance. Contrast is excellent too at 1394:1, trumping the Z5, and on par with the X Performance.</paragraph>
+			<paragraph>Color reproduction accuracy is not as impressive, with an average deltaE of 6.2. What's unpleasant here is that white and varying levels of gray have a pronounced bluish cast. White is off by the biggest margin - deltaE is 10.7.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Xperia XZ is well stocked on connectivity options. Our review unit is the single-SIM version (F8331 model name), but there's also a dual-SIM one (F8332). The slot in that case is of the hybrid variety though - it's either a second SIM or a microSD card - you can't have all three.</paragraph>
+			<paragraph>LTE Cat. 9 (450Mbps down, 50Mbps up) is supported. The phone also comes equipped with dual-band Wi-Fi a/b/g/n/ac with 2x2 MIMO antennas for speeds up to 433Mbps (if you have an 802.11ac capable router). Local connectivity goes on with Bluetooth 4.2 with aptX and Low Energy, and NFC.</paragraph>
+			<paragraph>The Wi-Fi connection can be used for screen casting - be it Miracast, Google Cast, or DLNA. If you connect a DualShock controller, the Xperia XZ can even double as a portable console streaming your Playstation 4 games via PS4 Remote Play. It can also connect to your car's stereo system via MirrorLink.</paragraph>
+			<paragraph>GPS, GLONASS and BeiDou satellite positioning is supported, unless you're in the US, where it's just GPS and GLONASS.</paragraph>
+			<paragraph>The USB port is Type-C, but it only conforms to USB 2.0 spec and not 3.0 or 3.1. It lets you hook up USB storage and accessories, but you'll need to select the data transfer mode every time you connect it to a PC, as it defaults to charge only, which is somewhat annoying but we guess it's there for a reason or use case we can quite think of.</paragraph>
+			<paragraph>Sony has dropped MHL support, so you have no wired way to output an image to a TV.</paragraph>
+			<paragraph>The Xperia XZ has no FM radio though. Funnily, to get that you'll need to look lower in the lineup, the Xperia X has it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sony Xperia XZ battery features<subsectionTitle>
+			<paragraph>As we already mentioned, our test unit had some software limitations, which prevented us from conducting our thorough battery tests. So instead of actual tests this chapter will only list the features that Sony has implemented hoping for improving battery performance and longevity.</paragraph>
+			<paragraph>The Xperia XZ relies on a 2,900mAh battery to keep it powered. That's the same capacity as the Xperia Z5 before it, while the Xperia X Performance has a 2,700mAh power pack. The majority of current Android flagships are around that number too, with the HTC 10 and Samsung Galaxy S7 having a smidgen more juice to work with (3,000mAh), and the LG G5 - slightly less (2,800mAh).</paragraph>
+			<paragraph>Much like the previous X-series phones, the Xperia XZ has the Qnovo adaptive charging technology built-in. The technology allows the phone to monitor the cell's electrochemical processes in real time and adjust charging parameters accordingly to minimize cell damage and extend the battery unit's lifespan.</paragraph>
+			<paragraph>Qnovo claims the battery should last hundreds of charge cycles more than a conventionally charged battery. This means a year or so of extra longevity as in theory if the battery ages better, it should hopefully be able to hold charge better in time (an important aspect for a phone that has its battery sealed-in).</paragraph>
+			<paragraph>Battery Care is another proprietary Sony feature, which however is introduced with the Xperia XZ. It won't be available on all markets though, so if it sounds like something you might be interested in, check back with your local Sony rep.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>So what does Battery Care do? Say you charge your phone overnight, and you regularly plug it in at midnight and unplug it at 8 in the morning. In time the phone will recognize the pattern, charge the battery to 90% and then stop charging. And then at, say, 7:30 in the morning it will pick up where it left off and top it all up to 100% at a slower pace. If it hasn't picked up your routine, it'll do a standard charge.</paragraph>
+			<paragraph>The handset also supports the Qualcomm QuickCharge 3.0 (and, of course, 2.0), but we're not sure if it will come bundled with a charger to match. It will most probably be a regional thing.</paragraph>
+			<paragraph>On the software side of things, there's Sony's Stamina battery saving feature. It has two modes: regular Stamina, and Ultra Stamina. The first disables non-essential features like GPS and vibration, and takes performance down a notch.</paragraph>
+			<paragraph>Ultra Stamina is for absolutely dire occasions when you don't expect to be able to find a power outlet for a long period of time. Enable that and it's back to basics where you get a single homescreen with access to the dialer and contacts, text messages, camera, clock - just the basics. Going out of Ultra Stamina requires a restart.</paragraph>
+			<paragraph>We know you're itching for the battery life scores but we'll be testing how the battery performs once Sony comes out with the final retail-ready firmware for the phone and we come up with our full review.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Subtle Xperia touches to Marshmallow<subsectionTitle>
+			<paragraph>The Xperia XZ we have here is running Android 6.0.1 Marshmallow out of the box. Nougat is all the rage now, but we doubt it Sony will have enough time until October, when the phone is scheduled for release, to make the jump to Android 7.0. A safer bet would be, that it will launch on Marshmallow, with Nougat to follow a few months later.</paragraph>
+			<paragraph>Sony is keeping the stock Android look, except for a few gentle touches here and there. The proprietary Stamina battery saving modes and the home-baked multimedia apps go without saying.</paragraph>
+			<paragraph>The fingerprint reader is a recent addition to the Xperia line and Sony firmly believes the best place for it is on the side, integrated into the Power button. We can't deny the convenience, as waking the screen and unlocking the phone are tightly related.</paragraph>
+			<paragraph>We had an excellent user experience with the fingerprint reader on the Xperia XZ. It's fast and accurate. There's an animation that slides the lockscreen away from your thumb (as if you pushed it out of the way), which helps hide the small delay, so it feels seamless.</paragraph>
+			<paragraph>Smart Lock gives you conditional security - trusted nearby devices, locations, faces, or voices can allow you to skip the security unlock protocol.</paragraph>
+			<paragraph>The homescreen appears unchanged from the rest of the X series. This includes the swipe down gesture, which shows a screen of the apps you use most along with recommendations for new apps to install. The search field is highlighted so you can start typing the app's name immediately.</paragraph>
+			<paragraph>The traditional app drawer is present and it features an above average amount of vendor apps. Sony takes great pride in the A/V prowess of their devices, so they have pre-installed a nice set of their own multimedia apps.</paragraph>
+			<paragraph>Themes are available (both free and paid) that can customize the look and sound of the Xperia XZ UI.</paragraph>
+			<paragraph>The notification area is plain Android. You can re-arrange the quick toggle tiles and adjust the screen brightness. Note that just like in vanilla Android; there's no toggle for Auto brightness (you need to go into the settings for that). That's the single thing we don't mind getting changed by manufacturers and still, many manufacturers like to keep this aspect stock.</paragraph>
+			<paragraph>The app switcher is similarly a vanilla Android affair with the 3D rolodex look. The small apps are gone, however, and there is no longer floating-app multitasking. There isn't screen pinning either like we had on the Xperia X Performance.</paragraph>
+			<paragraph>The Smart cleaner feature will periodically empty the cache of apps you haven't used in awhile. You can switch this off or just manually tell it not to bother for certain apps.</paragraph>
+			<paragraph>One thing Android has been missing for years is a proper backup solution and Sony gives you one. It can backup applications, contacts, messages, phone settings. The backup info itself can be stored in the cloud under your Sony online account, or locally on the microSD card or an external USB device.</paragraph>
+			<paragraph>Backups can be scheduled, including conditions like "Connected to Wi-Fi" and "Charging device", depending on your preferences.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The 23MP primary camera of the Sony Xperia XZ is familiar from existing Sony high-end models, but in some aspect it's better than any of them.</paragraph>
+			<paragraph>Starting with the Z5, Xperias have used a multi-aspect 24.8MP sensor (now officially named as Sony IMX300 - a custom sensor model, which is used only on Sony smartphones). Yes, it's actually almost 25MP.</paragraph>
+			<paragraph>Depending on whether you shoot in 4:3 or 16:9 aspect ratio, different portions of the sensor are used and you get either 22.8MP or 20.1MP images, respectively. Hence the official 22.8MP designation.</paragraph>
+			<paragraph>Among the benefits of having such a multi-aspect sensor are the similar field of view in both modes, and higher-res 16:9 shots than what you'd get by cropping from a regular 23MP sensor with a 4:3 aspect ratio.</paragraph>
+			<paragraph>As we already mentioned, this sensor was first used in the Xperia Z5. Later on, the same sensor was used in the Xperia X and the Xperia X Performance. It's also used now inside the XZ. You can read more about it in our dedicated article we published back when the Z5 came out.</paragraph>
+			<paragraph>The sensor is placed behind a 6-element lens with an ultra wide-angle 24mm-equivalent field-of-view and a f/2.0 aperture. These particular specs of the camera have not changed since the Xperia Z5.</paragraph>
+			<paragraph>Update (September 13, 2016): We might have gotten a little too excited about the 5-axis image stabilization. As some readers correctly pointed out in the comments, the stabilization is not optical, bit digital instead and only works in a narrow range of scenarios, when shooting video. It's activated in FullHD mode only, and when shooting close-up subjects. In cases, where both of these conditions don't apply, it's back to a 3-axis algorithm (pitch/yaw/roll).</paragraph>
+			<paragraph>The article has been corrected to reflect that.</paragraph>
+			<paragraph>Historically, flagship Xperias have had no optical image stabilization, and neither does the XZ. Sony's SteadyShot with Intelligent Auto has been upgraded, however, and now offers 5-axis image stabilization. We're not too comfortable with the term 'axis' that's become all too popular for describing what is a 'degree of freedom', but the point is that Sony's system is able to compensate for translation alongside two axes and rotation around all three. Or shift shake in the X and Y direction and yaw, pitch, and roll shake.</paragraph>
+			<paragraph>That's not all that is new about the Xperia XZ's camera. While from the Z5 on, high-end Xperias have had hybrid contrast/phase detection autofocus, the XZ adds laser autofocus to the mix, to help speed things up, by taking care of close-distance subjects and letting the other systems, well, focus on the rest of the focusing range.</paragraph>
+			<paragraph>But wait, there's more. Sony has also installed an RGBC-IR sensor (RedGreenBlueClear-InfraRed) to assist the image sensor in figuring out the color temperature of the ambient lighting, and adjust the white balance accordingly.</paragraph>
+			<paragraph>There's just one LED for the flash, though.</paragraph>
+			<paragraph>Introduced on the Xperia X, predictive autofocus is here as well. The idea is that you can tap on your subject and the camera will track its movement, keeping the focus locked on it. This is great for subjects who would move all around the scene such as a toddler or a pet.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera interface<subsectionTitle>
+			<paragraph>Sony's latest camera UI is fairly streamlined. You change modes by swiping up and down (or left and right, if you're holding it in portrait). Superior Auto will probably be the main mode you use, but there's a Manual option too. A novelty introduced by the Xperia XZ is specifically the new, more powerful Manual mode. What was once just exposure compensation and white balance selectors, has now been expanded to include full range shutter speed selection (1/4000s - 1s) and a manual focus slider. The ISO setting is tucked away in the menu, though.</paragraph>
+			<paragraph>The Camera App tab holds some useful features and some features, which are just there for fun. Some of the available modes are Sweep Panorama, Slow-motion video, Face in picture, Sound Photo and a few more.</paragraph>
+			<paragraph>Most importantly, 4K video recording resides here - it's not a setting inside video mode, but a mode all in itself.</paragraph>
+			<paragraph>Those are just the pre-installed modes, but you can download even more.</paragraph>
+			<paragraph>The selfie cam has pretty much the same features as the main camera aside from minor differences (the selfie cam's manual mode has no ISO selector or manual focus slider). It even reminds you to look at the camera lens when taking a photo.</paragraph>
+			<paragraph>The Xperia XZ's camera lets you capture moments in the blink of an eye - from a locked phone, it takes a mere 0.6 seconds to capture the first shot. To use that feature, you need to enable taking a photo when waking the camera with the shutter key in Settings.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samples<subsectionTitle>
+			<paragraph>We took a few (hundred) shots with the Xperia XZ and you would find a selection of hand-picked samples below. This being non-final firmware, we're not going to be harsh on the XZ. Let's just say that the images are packed with detail, but also have a high amount of noise and even some oversharpening. Overall, the camera seems tuned just like we saw on the previous models in the X lineup.</paragraph>
+			<paragraph>We captured a bunch of low-light shots at dusk.</paragraph>
+			<paragraph>The front-facing 13MP shooter had its share of action too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>The Xperia XZ can record 2160p video. If there was ever any clue that the X Performance was not the proper flagship, it was the omission of a 4K video mode. Well, here's a 4K video shot by the Xperia XZ. Mind you, it's been pretty windy around here these days.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And here's a regular plain 1080p/30fps video sample as well.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Impressions<subsectionTitle>
+			<paragraph>When the Xperia X Performance came out earlier this year, it looked sort of like the flagship but not quite there. No one said anything about an XZ at that time, and the X Performance was judged as a top-shelf model, which it certainly is, but in price alone.</paragraph>
+			<paragraph>Now that the Xperia XZ is here to take over the helm, the X Performance can rest easy. By the looks of it, the Xperia XZ is fully capable of standing its ground against the competition in a lot of respects.</paragraph>
+			<paragraph>For starters, the Xperia XZ is a beautiful device. The sloping edge design may not be revolutionary, but it's refreshingly new to the Sony family, while all other aspects have remained true to the understated aesthetics Sony has been going for in the past models.</paragraph>
+			<paragraph>The Xperia XZ has got a high-quality display and top-class internals (perhaps save for the 3GB of RAM). But it certainly didn't affect the performance adversely in our experience. Perhaps the minimalist approach Sony takes to skinning Android helps here.</paragraph>
+			<paragraph>We couldn't test the battery life properly due to some software limitations, so we can't comment on that. When it comes to battery preserving features, on the other hand, it's hard to beat Sony's two-tier Stamina mode, and the efforts towards preserving the battery in the long run.</paragraph>
+			<paragraph>The camera on the Xperia XZ is another feature-packed affair. A multi-aspect sensor that produces images of up to 23MP, a combination of three focusing technologies, 5-axis image stabilization (a world's first), a dedicated sensor for judging proper white balance - we can only respect the sheer amount of engineering that went into it.</paragraph>
+			<paragraph>We only wish that the photos had a more natural looking processing with fewer artifacts and less sharpening. You could argue image quality might improve before release but seeing how the photos are almost identical to those taken by the rest of the X lineup, we somehow doubt that. We remain cautiously optimistic, and we're hoping for the best - perhaps Sony will manage to iron out some of the kinks before the commercial release.</paragraph>
+			<paragraph>Speaking of which, initial reports on the Xperia XZ pricing put it in the ballpark of the current crop of flagships, which may have been unacceptable for the Xperia X Performance, but is well warranted on this one. All in all, if you're shopping for a high-end handset, it may be worth waiting for the Xperia XZ to hit the stores sometime in October (or at least keep an eye for our full review, which should come out even sooner than that).</paragraph>
+		</subsection>
+	</page>
+</review>

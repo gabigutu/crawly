@@ -1,0 +1,374 @@
+<review>
+	<title>Samsung Galaxy Note Edge review</title>
+	<description>The other side</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_note_edge-review-1165.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.6" 16M-color QHD+ Super AMOLED capacitive touchscreen with curved Gorilla Glass 3</paragraph>
+			<paragraph>Curved Edge display for extra content, features</paragraph>
+			<paragraph>Android OS v4.4 KitKat with TouchWiz UI</paragraph>
+			<paragraph>Quad-core 2.7GHz Krait 450 CPU, Adreno 420 GPU; Qualcomm Snapdragon 805 chipset</paragraph>
+			<paragraph>3GB of RAM</paragraph>
+			<paragraph>16MP OIS camera with 2160p video recording @ 30fps, 1080p @ 60fps, 720p @ 120fps</paragraph>
+			<paragraph>3.7MP front-facing camera, 1440p video recording</paragraph>
+			<paragraph>&#x2022; 32/64GB of built-in storage; microSD card slot</paragraph>
+			<paragraph>S Pen stylus</paragraph>
+			<paragraph>Enhanced Multi-window multitasking support</paragraph>
+			<paragraph>Fingerprint scanner with PayPal support and private mode access</paragraph>
+			<paragraph>LTE Cat. 6 (300Mbps), Wi-Fi a/b/g/n/ac, GPS/GLONASS/Beidu receiver, Bluetooth v4.1+LE, ANT+, NFC</paragraph>
+			<paragraph>NFC</paragraph>
+			<paragraph>IR port for remote control functionality</paragraph>
+			<paragraph>Standard 3.5mm audio jack</paragraph>
+			<paragraph>Accelerometer and proximity sensor</paragraph>
+			<paragraph>Heart-rate monitor, SpO2 sensor</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>3,000mAh battery</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Edge display better suited for right-handed users</paragraph>
+			<paragraph>Rear-mounted mono speaker</paragraph>
+			<paragraph>The uneven gap between the metal frame and curved screen glass takes a few points away from an otherwise excellent build</paragraph>
+			<paragraph>No enhanced resistance to liquids or dust</paragraph>
+			<paragraph>Wireless charging support only enabled by an optional back cover</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Experiments are great but it takes manufacturing prowess to follow them all the way to the retail shelves. Samsung have it - no surprise there - and they pulled it off, bringing the Galaxy Note Edge to stores. Never mind that curved screen looks like a concept. The Galaxy Note 4, which was used as a base, will otherwise continue to offer the flagship experience, sans the experimental features.</paragraph>
+			<paragraph>The Galaxy Note Edge features a 5.6" QHD+ screen - a little smaller than the Galaxy Note 4 screen up front, but with 160px worth of an added strip on the right side of the device. This "Edge screen" is subtly curved outwards but connected with the main screen - in fact, they are one piece in terms of hardware, though the software handles them separately for added functionality.</paragraph>
+			<paragraph>We'll discuss the software additions in detail, as for the basics you're basically looking at a Galaxy Note 4 with a Snapdragon 805 chipset - this includes everything from the S Pen stylus to the heart rate and SpO2 sensors.</paragraph>
+			<paragraph>Samsung's previous device with a bent screen, the Galaxy Round, was a high-end phablet in its own right but the added value of the arched screen was questionable. The Galaxy Note Edge seems to have more purpose and steps on the recognizable giant shoulders of the Galaxy Note 4, instead of building user awareness from scratch.</paragraph>
+			<paragraph>The Edge screen is used by the TouchWiz software to display at-a-glance info and offer various shortcuts. You can flip between multiple panels with a swipe and they offer a new multitasking experience on Android. The Edge screen boosts the user experience in compatible apps too: being on the side it can act as side-mounted buttons, like a shutter key for the camera or playback controls for the video player. This leaves the main screen fully dedicated to displaying content.</paragraph>
+			<paragraph>The Samsung Galaxy Note Edge seems like an odd device, but so did the Galaxy Note and, in retrospect, a lot of its features make sense. Will we look back at the Edge as "the one that started it all?" With multiple companies pursuing bendable displays, this may just be the first step to a flexible future. For now we'll stick to examining the Galaxy Note Edge in the present.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Samsung Galaxy Note Edge<subsectionTitle>
+			<paragraph>While the Samsung Galaxy Note Edge is unique, its box may as well hold a vanilla Galaxy Note 4. Not that it's a bad bundle - you get a complete set of accessories with no compromises.</paragraph>
+			<paragraph>The included charger puts out 2A to Quick Charge 2.0 compatible devices (like the Note Edge) or "just" 1.67A to unsupported devices. There's a one-piece headset with in-ear headphones and flat, tangle-free cables. The rest of the contents include a microUSB 2.0 power and data cable, plus replacement tips and tool for the S Pen.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Galaxy Note Edge 360-degree spin<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge measures 151.3 x 82.4 x 8.3mm - shorter but wider than its Galaxy Note 4 sibling. Which was to be expected, really, considering it has a slightly smaller screen (5.6" vs. 5.7") but the Edge screen adds to the width.</paragraph>
+			<paragraph>It's interesting that Samsung managed to bend screen bend without adversely affecting thickness and weight. In fact, the Galaxy Note Edge is a smidgen thinner and lighter, while maintaining the metal chassis of its flat-screened counterpart.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>Samsung's designers were imagining flipping a book when designing the Galaxy Note Edge, which is why they placed the Edge screen on the right. For the majority of the population that's okay but lefties may feel left out.</paragraph>
+			<paragraph>Using the phablet upside down is possible in some apps, but not viable for everything - even if Samsung had dropped its hardware keys for on-screen ones, there's still the earpiece and mouthpiece to worry about. A true ambidextrous Edge would've had the screen curved on both sides.</paragraph>
+			<paragraph>For now, it's possible to reach the curved section with your left thumb but it's difficult. This raises the question - when you put a touchscreen on the side, how do you hold the device without touching it unintentionally? Samsung offers palm rejection technology to discard accidental touches, but also the Edge screen often shows info rather than actionable buttons.</paragraph>
+			<paragraph>The Galaxy Note Edge is part of Samsung's H2 2014 premium line - meaning it has an aluminum frame. Like the Galaxy Note 4 it's left uncovered on the sides (with a touch of paint to match the rest of the color scheme). Unlike the Note 4, however, the frame bends on the right side to make room for the Edge screen.</paragraph>
+			<paragraph>That doesn't change the overall premium feel, the phablet feels sturdy, befitting a business device. While Samsung is more popular with the tech crowd, the Galaxy Note and Note Edge have plenty of features to draw in former BlackBerry users who are used to the legendary build quality of the Canadian phone maker.</paragraph>
+			<paragraph>The front of the Note Edge is virtually identical to that of the Note 4. The hardware Home key houses a fingerprint reader and is flanked by capacitive App switcher and back buttons. Above the screen, the setup is identical too, down to the 3.7MP selfie camera. It exactly matches the resolution of the QHD screen and features a bright f/1.9 aperture for better low-light shots.</paragraph>
+			<paragraph>Some change was necessary on the right - the Power key was moved to the top, where it's a bit hard to reach. We would have preferred if Samsung placed it on the left instead or even better, just enabled double-tap to wake.</paragraph>
+			<paragraph>Along with the repositioned Power key, there's a 3.5mm audio jack and an IR blaster on top, along with one of the mics. All the way down is the mouthpiece, which consists of two separate microphones. The three mics are used for Directional voice recording - they are sensitive enough to separate speakers, a trick used in the Voice recording app.</paragraph>
+			<paragraph>The mouthpiece shares the bottom with a regular microUSB 2.0 port - Samsung tried microUSB 3.0 on the Galaxy Note 3 and Galaxy S5, but gave up. We don't miss the clunky connector, USB 2.0 with MHL3 and Quick Charge 2.0 handles all our wired needs, data transfers usually go over radio waves these days.</paragraph>
+			<paragraph>Also on the bottom is the S Pen sheath, more on the trademark stylus in a bit.</paragraph>
+			<paragraph>We go around to the back of the Samsung Galaxy Note Edge and here it's even harder to tell apart from its sibling. The new faux leather finish is patterned after Togo leather, which gets often used in premium products (quick Googling shows a lot of handbags, make of that what you will). To the touch it's not quite real leather but is definitely more pleasant than plain plastic (especially Samsung's Glossy Special).</paragraph>
+			<paragraph>The 16MP camera protrudes from the back (nothing out of the ordinary for Samsung). It features Optical Image Stabilization, though it uses a Sony sensor so it lacks the phase-detection autofocus of the ISOCELL sensor in the Galaxy S5. It still records 2160p video though.</paragraph>
+			<paragraph>Below the camera is a single-LED flash and Samsung's latest heart rate monitor, which also include a SpO2 sensor. That's blood oxygen saturation in plain English, another important factor in health and exercise tracking.</paragraph>
+			<paragraph>The back opens to reveal a 3,000mAh battery - 220mAh less than the Note 4, but the internals of the Galaxy Note Edge are smushed to the side due to the Edge screen, so the battery is physically smaller too. The card slot situation is unchanged though. The microSIM card is blocked by the battery, preventing hot-swapping, but access to the microSD card is unobstructed.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The OLED technology lends itself to flexible screens, which is a lucky coincidence - or part of the master plan - for Samsung since Super AMOLED is its calling card. The screen spans 2,560 x 1,600 pixels, in other words QHD with a 160px strip on the side, the Edge screen.</paragraph>
+			<paragraph>As we already said, it's a single screen unit, not two joined together even if the software treats them like that sometimes. A curved Gorilla Glass 3 is placed on top for protection. It has chamfered edges, which makes its sides pleasantly smooth, but the metal rim of the phablet is a sharp edge you feel with your fingers as you swipe from the side.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The exact pixel density number is a bit unclear, but the Galaxy Note Edge screen is as sharp as the Note 4 screen in practice. The Super AMOLED is arranged in a diamond-pattern PenTile matrix, but at this pixel density it makes no difference.</paragraph>
+			<paragraph>The process of bending the screen did have an effect on some of its qualities, but it still has bright colors, stunning contrast and great viewing angles. The viewing angles are important in a unique way - normally you view the screen dead on, but the curved Edge screen covers a good 60° worth of viewing angles in a very small area, so any imperfections will be painfully visible.</paragraph>
+			<paragraph>That said, the Gorilla Glass does reflect light, which can make the curved section difficult to see in certain lighting conditions.</paragraph>
+			<paragraph>The screen isn't very bright, slightly darker than the already relatively dim Galaxy Note 4 screen. That's a common disadvantage of OLEDs, but we've seen much brighter ones and they compete with bright LCDs just alright.</paragraph>
+			<paragraph>While the Edge screen presents some issues with reflectivity, the main section of the screen keeps them to a minimum and the Galaxy Note Edge has one of the most legible screens on the market.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Colors are punchy as usual, which may not be to everyone's taste so Samsung has included the usual setting menu where you get a choice of several saturation/white balance presets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>S Pen<subsectionTitle>
+			<paragraph>Like every Note, the Galaxy Note Edge features an S Pen. For this generation, Samsung redesigned the stylus a bit - it's now slimmer (to fit into the thinner phablets), but grooved for improved grip. The S Pen has a similar handling to previous editions, especially if you hold it at its wider side.</paragraph>
+			<paragraph>Changes under the hood include a new digitizer, which doubles the pressure sensitivity to 2048 levels. This makes handwriting feel more natural. The notes you jot down can be synced to Evernote to view on other devices.</paragraph>
+			<paragraph>The Galaxy Note Edge will unlock and activate the Air command menu when you pull out the S Pen, which really cuts down the time between grabbing the device and using it. The phablet will remind you if you walk away without putting the stylus back in, so you don't forget it on a table somewhere.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge is armed to the teeth in connectivity terms. The mandatory 2G/3G/4G LTE is present with Cat. 6 downlinks thanks to Qualcomm's latest Snapdragon 805 chipset. This gives you download speeds of up to 300Mbps, with 50Mbps worth of uploads. If you missed it in the hardware section, the phablet uses microSIM cards.</paragraph>
+			<paragraph>In terms of local connectivity, there's dual-band Wi-Fi a/b/g/n/ac, so you can make the best of your home's Internet connection. DLNA is supported in the multimedia apps for sharing content across compatible devices.</paragraph>
+			<paragraph>Speaking of sharing, the Galaxy Note Edge makes it easy to share the Wi-Fi hotspot info with nearby devices (detected with Bluetooth) using the Quick Connect feature. This saves you the trouble of typing in the Wi-Fi password.</paragraph>
+			<paragraph>Bluetooth has been bumped up to version 4.1. There aren't any easily noticeable changes since 4.0 but, among the more important ones, Low Energy mode is now supported for connecting to smart watches and some sport sensors. ANT+ is available for such sensors too, so the Galaxy Note Edge will happily talk to whatever sports sensor you have.</paragraph>
+			<paragraph>NFC is on board for quick pairing and sharing and there's an IR blaster for controlling electronics at home. Samsung's default app mostly handles your AV setup, but third party apps can be used for a wider range of devices.</paragraph>
+			<paragraph>The Samsung Galaxy Note Edge features a microUSB 2.0 port. It's slower at transferring data than the USB 3.0 port used in a few Samsung devices, but it has a standard size plug and it offers Quick Charge 2.0 and MHL 3.0. With the right adapter, you get 2160p@30fps output so you can watch videos you shot with the Edge in their full resolution. Up to 7.1 surround sound can be output, if the video player supports it (and the pre-installed one does not).</paragraph>
+			<paragraph>Finally, there's GPS, GLONASS and Beidou receivers. GPS alone is enough on its own but GLONASS provides extra precision, especially in dense urban settings. Beidou is currently available only over China and neighboring regions, but China is an important market for Samsung so it's a nice thing to have on board.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge has a 3,000mAh Li-Ion battery (11.55Wh). That's about 7% smaller than the 3,220mAh (12.40Wh) battery of the Galaxy Note 4.</paragraph>
+			<paragraph>It supports Quick Charge 2.0, which promises to fill up half the battery in half an hour with a 2A current. Note that the speed depends on the starting charge - it works best on a nearly empty battery and slows down as the charge percentage climbs up. Which is fine, as this feature is intended for quick top ups on the go.</paragraph>
+			<paragraph>A bigger problem with the battery life seems to be the rest of the hardware and the software - it's not as finely tuned as that of the Galaxy Note 4, because the differences in battery life are quite major. Turning the screen on has a definite effect, but things like the bespoke video player made an even bigger difference - video playback time is nearly 7 hours shorter. For comparison, the web browser is not customized for the Galaxy Note Edge and takes a much smaller hit.</paragraph>
+			<paragraph>Update, November, 17: We reset the phone and reran the tests because the standby results were suspicious. This time around the Galaxy Note Edge used noticeably less power just sitting around, which improved its endurance rating - it's still behind the Galaxy Note 4, but the improvement is tangible.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>TouchWiz with Edge screen<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge runs on the latest available Android 4.4.4 KitKat customized by the most recent incarnation of TouchWiz for smartphones. Every custom feature the Note 4 has the Note Edge gets as well, but where the two differ significantly is how the S Pen is involved.</paragraph>
+			<paragraph>Here's a quick video to get things started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Edge screen comes into play as early as the lockscreen. The Express me panel is fully customizable with images and text, you can have multiple presets ready. A swipe on the Edge screen lets you switch between the other panels available when the screen is unlocked. We'll get to the full features in a bit.</paragraph>
+			<paragraph>The Galaxy Note Edge features the fingerprint reading Home key of other Samsung flagships that can be used to secure the lockscreen. The scanner is of the swipe variety, which isn't very comfortable while holding a device of this size (you have to bend your thumb at an odd angle and you have to swipe it just right).</paragraph>
+			<paragraph>The main homescreen is familiar with widgets and shortcuts, but there's no app dock - just dialer and app drawer shortcuts. The Edge screen is where the shortcuts are, eight of them always visible.</paragraph>
+			<paragraph>You can move homescreens around, place widgets and choose a transition effect. You can also enable and disable Flipboard's Briefing, which replaces the left-most My Magazine pane.</paragraph>
+			<paragraph>On by default, the Briefing pane differs from the My Magazine pane by name only. Both are powered by Flipboard and the categories (e.g. News, Business, Facebook) are displayed as tiles, each showing its top article. You can reorder and hide the tiles. Once inside an article, you can browse more articles in that category with the familiar Flipboard effect.</paragraph>
+			<paragraph>The notification area is similar to what we've seen on recent Galaxy devices with a line of quick toggles and then a brightness slider. The S Finder and Quick Connect buttons are below the slider - neither the keys, nor the slider can be disabled. Another change is that the Recommended apps row is gone.</paragraph>
+			<paragraph>S Finder can search the phone's memory for just about everything. At the very end of the search you'll get the option to search Google but we feel usability has suffered here - it would've been much better if S Finder listed the top Google Search results as a default instead of forcing one more step upon us.</paragraph>
+			<paragraph>Quick Connect allows you to connect to devices through Wi-Fi Direct and Bluetooth and mirror your screen or share media.</paragraph>
+			<paragraph>The settings menu is a vertical list of apps divided into categories. At the top you can place a list of favorite apps as Quick settings and use the search function to find anything else. You can alternatively choose the old tabbed settings menu.</paragraph>
+			<paragraph>The app switcher has adopted the Lollipop look, even before the actual update. The apps are ordered in a 3D rolodex, similar to how Chrome tab switcher works. The Kill all and Task manager buttons are still available.</paragraph>
+			<paragraph>A proprietary change to this interface is that you can press and hold on an app and it will detach into a free-floating pop-up window. Apps can be minimized to a small, circular icon or maximized back to full screen. A drag and drop mode lets you move content between pop-up apps - like dragging an image from the web browser into the Messages app.</paragraph>
+			<paragraph>As you scroll through the App switcher, you'll notice some apps have a button on the right - two boxes stacked on top of each other. Tapping that activates Multi-window and positions the app on one half of the screen. The other half shows a list of all other apps that support Multi-window.</paragraph>
+			<paragraph>If you instead go back into the App switcher and tap the button of another app, it will replace the first one, instead of taking the second slot, which we found a bit counterintuitive.</paragraph>
+			<paragraph>Still, this is the best multitasking implementation we've seen on Android or any other smart device. The old panel from which you drag out Multi-window apps is still available but, honestly, we much prefer using the App switcher.</paragraph>
+			<paragraph>Samsung recognizes users can't always operate the Galaxy Note Edge one-handed so there's an option to shrink the entire UI to a window with an adjustable position and size (very much like a pop-up app). You can turn on one-handed mode via a quick swipe in and out from the side of the phone but it will not work with the S Pen (or when it's out of its holster).</paragraph>
+			<paragraph>In one-handed mode you get on-screen buttons so you don't have to reach down for the hardware ones. Alternatively, you can enable the Side key panel in normal, full-screen mode, it puts movable on-screen buttons on the side of the screen.</paragraph>
+			<paragraph>Samsung has reduced the number of features you get in the TouchWiz UI. We prefer this approach as it makes TouchWiz more focused on the content, but Samsung's software remains probably the most feature-packed Android OS incarnation around.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Edge screen<subsectionTitle>
+			<paragraph>The Edge screen offers a number of panels with different functionality. You can enable and disable panels as needed and swipe through the active ones. Some panels have their own setting screens for extra customization. You can download additional panels from the Galaxy Apps store, but the package available out of the box is pretty rich.</paragraph>
+			<paragraph>One panel just shows eight shortcuts to your favorite apps, folders are supported too. This panel is good for multitasking as you can switch between apps with a single tap, just like on a desktop. A downloadable Edge Task Manager panel shows the running apps instead of pre-defined shortcuts, which makes it even better for multitasking.</paragraph>
+			<paragraph>A similar panel is available for contact shortcuts.</paragraph>
+			<paragraph>The Briefing panel shows notifications from selected apps and weather info. Another panel shows steps, distance traveled and calories burned - all pulled from the S health app. Twitter and Yahoo panels show tweets, stock info, sports scores and so on.</paragraph>
+			<paragraph>The last item of the pre-installed panels is a memory match game - not very useful, but it tries to break the mold.</paragraph>
+			<paragraph>More useful panels are available in the download section - the S planner widget shows your agenda, while the S Note panel offers shortcuts for the app.</paragraph>
+			<paragraph>Technically not a panel, but one of the most useful features of the Edge screen, is the Night clock. You set a start and end times and the Galaxy Note Edge will display the time and date while the main screen is off. The display is very dim and won't annoy you in the dark and Super AMOLED makes sure this is very power efficient (still, you can't have it active for more than 12 hours a day).</paragraph>
+			<paragraph>The final option is to leave a personal message on the Edge screen, which is visible when other panels are inactive.</paragraph>
+			<paragraph>There are a set of tools that are always available, even on the lockscreen. Those include a ruler (yes, really, it goes up to 8cm or 3.5in), stopwatch and timer shortcuts, an LED light toggle and a voice recorder.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>S Pen, S Voice<subsectionTitle>
+			<paragraph>When you take out the S Pen, the Air Command menu launches. This works even if the device is asleep (unless you have a secure lockscreen set up, of course). Menu can be brought back up if with a press of the S Pen's button.</paragraph>
+			<paragraph>Action Memo lets you jot down notes but it uses handwriting recognition for clever tricks. You highlight a section with the S Pen button pressed and pick an app to send the text to - phone numbers to the dialer, URLs to the browser, addresses to Google Maps and so on. The handwriting recognition works impressively fast and quite accurately too - it handles just about everything you throw at it.</paragraph>
+			<paragraph>Smart select is the newest option. It lets you select on-screen content and extract the text from it. Multiple items can be collected and added to a scrapbook or shared.</paragraph>
+			<paragraph>Screen Write takes a screenshot and lets you scribble a note on top. Image clip is similar but directly crops out a part of the screen.</paragraph>
+			<paragraph>S Note is where the S Pen's drawing and writing skills are used to the fullest. You can create entire notebooks from 18 templates and you can create ones using images from the gallery. You can sort notebooks by tag, time or location.</paragraph>
+			<paragraph>S Note features the photo note camera. It can snap a photo of a document and automatically separate the elements. You can move elements around, copy or delete them, change their size, add borders or effects to them. If you need to quickly retouch a brochure or something, this is one of the quickest ways to do it - dead simple too.</paragraph>
+			<paragraph>Scrapbook lets you keep any content you browse through on the Note Edge's screen. You need to select anything on the screen of the Galaxy Note Edge by pressing the S Pen button and the software highlights it and gives you a prompt to send it to Scrapbook via an image.</paragraph>
+			<paragraph>Hovering the S Pen over certain kinds of content can display a pop up with information. In the S Planner app hovering over a date will list the events, in the gallery a hover will show you a preview of a picture or album, in the video player if you hover over a video it will silently play in a pop up. In the browser clicking the S Pen will let you highlight text and give you a copy option.</paragraph>
+			<paragraph>You can even hover over a link you got in the Messages app and that site will be opened in a preview window, so there's no need to tap the link and leave the app.</paragraph>
+			<paragraph>You can enable and disable all or some of the S Pen features in its dedicated settings menu. The motion and gestures menu has seen a big cut in features. You can directly call a contact from the messaging app by raising the Samsung Galaxy Note Edge to your ear, mute or pause a song by placing a palm on screen or turning the device over (this will also mute the ringer).</paragraph>
+			<paragraph>A palm swipe over the screen will capture a screenshot. Finally, smart alert will vibrate the phone when you pick it up if you have unseen notifications.</paragraph>
+			<paragraph>S Voice has gotten smarter as well. It can be set to constantly listen for your voice and you can set a custom command to wake it. S Voice can be used to initiate a call, dictate text, play music, open an app, change a setting, make a memo (including voice memo), add a reminder, schedule an event, set an alarm or timer, check the weather, do an Internet search, look for local listings (e.g. nearby restaurants) and even get an answer to a question.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge is powered by a Snapdragon 805 chipset - four Krait 450 cores join an Adreno 420 GPU and 3GB of RAM. They are needed too, since there are rich multitasking options and plenty of screen pixels.</paragraph>
+			<paragraph>Raw CPU performance is unbeatable among phablet-sized (and smaller) devices, it's even better than a similarly equipped Galaxy Note 4 according to GeekBench 3. AnTuTu 5 isn't quite as impressed but keep in mind that it includes graphics tests and the Galaxy Note Edge has slightly more pixels than the Note 4 (more on that in a bit).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark OS II gives the lead to the Nexus 6 with the Galaxy Note Edge behind it. Keep in mind that the Nexus runs Android 5.0 Lollipop, which may prove to be an advantage - we won't know for sure until the Note Edge gets updated.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS II<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>AnTuTu reported that the screen resolution is 2,560 x 1,532px. QHD measures 2,560 x 1,440px - exactly four times 720p - but the Galaxy Note Edge has an extra 160px strip on the right that makes up the Edge screen and it seems part of that is used for the main screen too.</paragraph>
+			<paragraph>Anyway, off-screen performance at a standardized 1080p resolution shows the Adreno 420 GPU is among the fastest of the current generation.</paragraph>
+			<paragraph>When it comes to on-screen performance the pixel-rich screen does slow things down tangibly. You still get a lot more from the Galaxy Note Edge than from Adreno 330 devices (Snapdragon 801) even ones with lower resolution like the 1080p Galaxy S5.</paragraph>
+			<paragraph>Still, game developers might consider rendering at a lower internal resolution (say, 1080p) and upscaling the result, which will allow them to add more effects. Also keep in mind that benchmarks are always tougher than contemporary games.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 2.7 T-Rex (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Basemark X places the Galaxy Note Edge slightly behind the Galaxy Note 4.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Great CPU performance usually means good JavaScript speed, but browsers can't reach the top without a specially tuned JS engine. Apple and Samsung are known to do it (so we used the Internet app instead of Google's Chrome). Kraken 1.1 shows Apple still has the lead but the Galaxy Note Edge is among the best-performing Androids.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Web page rendering is again slowed down by the resolution - QHD has nearly 80% more pixels than 1080p (like the iPhone 6 Plus screen) and the Galaxy Note Edge goes a bit over QHD as we saw in the game section.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>We used the specialized versions of Basemark X and Basemark OS II to find if the Samsung Galaxy Note Edge cheats. We didn't find a significant difference in the results but we did notice the Note Edge is susceptible to heat - its performance drops when it gets hot. That's a common problem for high-power devices though.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook is great<subsectionTitle>
+			<paragraph>The dialer is the familiar TouchWiz app and features all the basics - smart dial, quick dial and even a video call button. A nice addition is to show incoming caller info on the Edge screen while there's an app in fullscreen.</paragraph>
+			<paragraph>The Galaxy Note Edge features auto call rejection - it can reject all calls, only calls from specific numbers or all unknown numbers. Blocking mode is even more restrictive - it blocks incoming calls and silences notifications and alarms. Only contacts on the allowed list will be able to get a call or a message through. Blocking mode can be set to turn on and off automatically during a certain time period (e.g. at night).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Stellar telephony<subsectionTitle>
+			<paragraph>We had no issues with the Samsung Galaxy Note Edge when it came to reception or call quality. Sounds came out loud and clear in the earpiece and callers on the other end said they were hearing us trouble-free. The noise-cancelling microphone on the Note Edge also seems to be doing a great job of keeping ambient sounds out.</paragraph>
+			<paragraph>While waiting for your call to connect, you can check out some quick info - the phablet shows when is the last time you talked to that contact, when the last message from them arrived, if their birthday is coming up soon and any S Pen-drawn memos you might have sketched during a previous call.</paragraph>
+			<paragraph>Samsung went with a back-facing single speaker on the Samsung Galaxy Note Edge. More and more devices are finding room for stereo speakers on the front, but at least the quality and loudness of the speaker is quite good. The speaker is quieter than that of the Galaxy Note 4, most notably it's not as loud in our ringtone test. The overall score is Very Good - great, but not excellent.</paragraph>
+			<paragraph>You can read about our loudspeaker test, if you have any questions.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Feature-rich messaging<subsectionTitle>
+			<paragraph>The Messages app has a row of shortcuts for the contacts you write most often to and below that is the list of all conversation threads. Threads feel like a standard IM app and you can customize font size, the shape of the bubbles and the background.</paragraph>
+			<paragraph>In landscape orientation the screen is split in half - the list of threads goes on the left, the messages in the currently selected one on the right. This app handles both SMS and MMS and features a rich selection of smilies. Note that using smilies greatly reduces the number of symbols in a message - it drops to 70 and each smiley counts as two symbols.</paragraph>
+			<paragraph>There's built-in spam protection (based on sender or specific phrases), scheduled messages (to setup birthday congratulations early) and an option to prevent opening links from messages (in case they are malicious).</paragraph>
+			<paragraph>You can set an Emergency message to go out to primary contacts when you hit the Power button three times fast. The phone can optionally take a photo (without making a sound) and record sound to forward to your Priority contacts.</paragraph>
+			<paragraph>The Samsung Galaxy Note Edge has two email clients - the Email and Gmail apps. Gmail was recently updated to support third-party servers and has Material Design looks, so we use it exclusively. It supports Multi-window and pop-up window so you're not missing out on proprietary Samsung features.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>The all-purpose keyboard<subsectionTitle>
+			<paragraph>The Samsung QWERTY keyboard really shines on the ample, high-res canvas of the Samsung Galaxy Note Edge. It features a row of numbers above the letters and a rich set of features. You can enter text by swipe-typing (like Swype and others), move the cursor or view all alternative symbols for a key (which can be great if you use special symbols a lot).</paragraph>
+			<paragraph>The button row has a quick dial-like feature where you press and hold a number to enter a preset phrase. This can be used for standard messages like "okay", "can't talk now" and so on.</paragraph>
+			<paragraph>A small floating keyboard is also available, which comes in handy with Multi Window as you can move it out of the way (and it takes up less space to begin with).</paragraph>
+			<paragraph>Handwriting recognition can be set to activate automatically when you pull out the S Pen, alternatively you can use dictation. The clipboard view works together with some S Pen features that take a screenshot so you can easily send those out.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Gallery<subsectionTitle>
+			<paragraph>The gallery on the Samsung Galaxy Note Edge can be viewed by time or by album and sorted by several filters. The Events filter groups photos based on time and location, while People does it by looking at the faces in the photos. Additional filters include Documents, Pets, Flowers, Scenery and even Food.</paragraph>
+			<paragraph>And if you're the type to post pictures of what you're having for lunch on social networks, you'll be pleased to hear the app handles Facebook, Dropbox and Picasa out of the box. DLNA is also supported so you can view media from devices on the local network (or send photos from the Note Edge to such devices).</paragraph>
+			<paragraph>Pinch zoom will change the size of the thumbnails and can also open and close individual photos. Batch operations are supported and that includes not just copy/delete but also image rotation. You can easily edit images right in the Gallery itself or use the Studio app. It does anything from basic editing and photo collages to creating and trimming videos. It also handles the post-processing of Shot &amp; more photos.</paragraph>
+			<paragraph>The Gallery also supports highly customizable slideshows.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The TouchWiz music player on the Galaxy Note Edge is jam-packed with features and supports a wide variety of file formats, including FLAC. Music is sorted by several categories and you can hide some categories you don't need. Folder view is available and so is scanning for DLNA servers (Quick Connect helps with this).</paragraph>
+			<paragraph>The Now playing screen gives you the usual options: timescroll, playback controls, an AllShare shortcut. A coverflow-like list of album art lets you know what the next song will be and is an easy way to skip right to it. The music player will also try to find the lyrics for the song you're listening to.</paragraph>
+			<paragraph>The Music square feature rates each song in your music library in terms of tempo (Exciting or Calm) and emotion (Passionate or Joyful) so you can easily build playlists from a visual selection.</paragraph>
+			<paragraph>The SoundAlive equalizer presets are cleverly organized into a square similar to the Music Square. A 7-band equalizer and multiple effects are available to more advanced users. Smart volume will keep the sound level consistent across tracks, while Adapt sound tests the performance of your headphones and tunes the equalizer based on that.</paragraph>
+			<paragraph>While listening to a song you can find music controls on the Edge screen, so you can skip tracks without leaving the current app or even opening the notification area.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player with Edge controls<subsectionTitle>
+			<paragraph>Typically video controls are overlaid on top of the video itself, but the Galaxy Note Edge is different - it puts the controls on the Edge screen so video is unobscured. After a few seconds, the controls go away but can be brought back by a tap on the screen.</paragraph>
+			<paragraph>The video player on the Samsung Galaxy Note Edge handles files from the local storage and DLNA-compatible devices. If subtitles are available, the video player will automatically find and load them. You can also manually load subtitles if the video and subtitle file names don't match.</paragraph>
+			<paragraph>You can pinch zoom in on videos just like photos or turn the video into a floating window with the familiar Pop Up Play feature.</paragraph>
+			<paragraph>The only problem we encountered is that the player failed on videos with multi-channel audio - a shame since the MHL 3.0 compatible port can output surround sound over HDMI.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Flagship-grade audio quality<subsectionTitle>
+			<paragraph>Not quite surprising, the Samsung Galaxy Note Edge audio quality performance is identical to that of its non-curved sibling, the Galaxy Note 4.</paragraph>
+			<paragraph>The phablet aced the first part of our test, where it had to show how it works with an active external amplifier. The Galaxy Note Edge achieved excellent scores top to bottom and garnished them with nicely high volume levels - not HTC high, but good enough to keep pace with the rest.</paragraph>
+			<paragraph>Plug in a pair of headphones and some stereo crosstalk creeps in - it's not too bad, but worse than some competitors, once again, from the HTC lineup. Take those out however and the Galaxy Note duo can match or beat just about every smartphone out there.</paragraph>
+			<paragraph>And here go the results.</paragraph>
+			<paragraph> Samsung Galaxy Note Edge frequency response</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge shares a camera with the Galaxy Note 4. It uses 16MP Sony sensor, which has a native 16:9 aspect ratio so it produces widescreen images that can be viewed in full in the gallery and on the majority of monitors.</paragraph>
+			<paragraph>The main camera has an aperture of f/2.2 and offers optical image stabilization, but lacks the phase-detection autofocus of the Galaxy S5 (and its Samsung-made sensor). The front-facing camera has a wider aperture (f/1.9) so it should be a little better in low light and shoots 3.7MP stills (that's exactly QHD resolution).</paragraph>
+			<paragraph>The camera makes use of the Edge screen to position its controls on what could be considered "on top". That's where the shutter key goes, the video record button and mode button, along with the front/back camera and HDR toggles. This leaves the main display dedicated to the viewfinder.</paragraph>
+			<paragraph>This setup mimics having hardware buttons on the side. It's far from perfect though - shooting one-handed is nearly impossible. If you have big hands you may be able to come up with a workable setup but most of the time taking photos is a two-handed affair.</paragraph>
+			<paragraph>Also, shooting in portrait isn't perfect because the keys go on the side. The shutter key does move closer to the center so it's easier to reach, but it's still awkward.</paragraph>
+			<paragraph>Camera options include Selective focus (faking a bokeh effect), Panorama and Rear-cam selfie. The last one lets you select a region where you want your face and the phablet will snap a photo when it's perfectly positioned. Another selfie trick uses the heart rate monitor as a sort of make-shift button - when your face is in view, putting your finger on the HR monitor acts as pressing the shutter key.</paragraph>
+			<paragraph>Additional modes are available but disabled by default - Shot &amp; more, Dual Camera, Virtual Tour and Beauty face. Samsung has moved 6 of its other proprietary shooting modes to the Galaxy Apps store as downloads, a part of the effort to lighten TouchWiz.</paragraph>
+			<paragraph>The Samsung Galaxy Note Edge takes excellent pictures, its high resolution sensor is used to full effect. We appreciate the wider aspect of photos, but the camera's Field of View is not actually wider than a typical 4:3 shooter.</paragraph>
+			<paragraph>Photos are sharp and rich in detail, with noise kept at a very comfortable level. The sharpness is even across the frame with minor corner softness on the sides. The camera has a tendency to overexpose highlights but keeps decent detail in the shadows.</paragraph>
+			<paragraph>Colors are tuned up a little (within reason for a consumer device) and the white balance is spot on. If you're having troubles with exposure you can press and hold on an area of the frame to the activate autofocus and auto exposure lock.</paragraph>
+			<paragraph>In macros the Galaxy Note Edge does quite well - you can get close to the subject and the background gets a decent blur.</paragraph>
+			<paragraph>HDR mode is quite reigned in - it brings in some more detail in both highlights and shadows, without sacrificing much of the contrast or adding extra noise. Note that HDR takes multiple exposures and that lowers the sharpness a little when they are combined.</paragraph>
+			<paragraph>Panoramas come out at an incredibly high resolution. The maximum resolution in portrait shooting is a whopping 56.6MP (Apple just upgraded the maximum Panorama resolution for the latest iPhones to 43MP), while in landscape you get a decent 28MP. Detail is great, especially in the higher-resolution of the two and the stitching is among the most accurate.</paragraph>
+			<paragraph>A panorama option is available for the front-facing camera as well. It's called Wide selfie and works by rotating the phablet around its axis (and not around your face).</paragraph>
+			<paragraph>The photo quality comparison tool allows you to compare the Samsung Galaxy Note Edge against its Galaxy Note 4 sibling and other phablets. Most of them shoot 4:3 though, so that's the mode we used for the charts.</paragraph>
+			<paragraph>   Samsung Galaxy Note Edge in our photo compare tool</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Superb 4K video<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge captures 2160p videos at 30fps as a maximum but also offers 1080p videos at both 30fps and 60fps and also 1440p videos at 30fps in between.</paragraph>
+			<paragraph>The maximum resolution videos (2160p, aka 4K or UHD) carry the highest bitrate among the pack - almost 50Mbps. The framerate was a constant 30fps and smooth enough. Audio is captured at a very high 256Kbps with clean stereo sound.</paragraph>
+			<paragraph>The level of resolved detail of the 2160p UHD videos is impressive - it's like viewing a live, animated 8MP image (8.3MP to be exact). UHD videos carry the same good characteristics of the still shooting mode - great, vivid colors, everything in sharp focus and a tendency to overexpose the frame. Here goes a sample.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The regular 1080p videos at 30fps carry an okay bitrate of 17-18Mbps with the same great audio capture. There is plenty of detail in the regular FullHD video but, compared to the UHD video, the lower resolution is evident. The upside is that you can apply lossless zoom in FullHD videos - up to 2x zoom without loss of detail.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And if that's not enough you can shoot QHD (1440p) videos that fit snugly on the screen.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>And finally 1080p videos at 60fps. Those are mainly meant to show smoother motion but don't have as much detail as 30fps 1080p videos. The difference isn't dramatic - there's still plenty of detail to go around. The doubled framerate allows for extremely smooth movement in the video. 1080p@60fps videos have around 28Mbps of bitrate.</paragraph>
+			<paragraph>You can also directly download the - 2160p@30fps (0:15s, 90.3MB), 1440p@30fps (0:14s, 42.9MB), 1080p@30fps (0:15s, 31.6MB) samples.</paragraph>
+			<paragraph>The Samsung Galaxy Note Edge uses its optical image stabilization for videos just as well. Vertical and horizontal panning seems smoothed over though it's not perfect. The good, old digital stabilization is still available but it only works at 1080p or below.</paragraph>
+			<paragraph>If you want to pixel peep deeper in the Samsung Galaxy Note Edge's footage you're welcome to give our video comparison tool a try.</paragraph>
+			<paragraph>   Samsung Galaxy Note Edge in our video compare tool (2160p)</paragraph>
+			<paragraph>   Samsung Galaxy Note Edge in our video compare tool (1080p)</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Internet and Chrome<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge comes with both the stock Android browser (customized by Samsung) and Google's Chrome. Both support Multi-window and the S Pen - tapping with the button pressed is equivalent to a right click. Only the custom browser supports Air View, however.</paragraph>
+			<paragraph>Anyway, the interfaces of both browsers are virtually identical. Both show favorite web sites on their new tab page and can sync bookmarks and open tabs across devices. The browsers handle multiple tabs (including Incognito mode), but in Chrome you can switch between tabs by horizontal swipes from the side. This conflicts with swipes from the Edge screen though. Speaking of, we didn't find any use for it in the Samsung-customized Internet app.</paragraph>
+			<paragraph>Note that Chrome has an option to reduce traffic by compressing web pages on Google's servers before they are sent to the device, similar to how Opera's Turbo mode (and Opera Mini) work.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>The Samsung Galaxy Note Edge has a number of features to secure your device and your data. Find my mobile is a proprietary alternative to Android Device Manager. It has remote controls so you can reset and lock the device if you lose it and check its location on a map. Once reset, you can prevent the phone from being reactivated. The phone can send out a message the moment a new SIM card is inserted.</paragraph>
+			<paragraph>There are basics like encrypting the phone and the external memory card in addition to the more selective Private mode option, which offers a hidden folder that can only be uncovered with the right fingerprint. There's also a backup function that keeps your phone logs, messages, wallpaper and several other settings backed up in the cloud.</paragraph>
+			<paragraph>S Health benefits from the heart rate monitor, but the new sensor can also measure blood oxygen saturation (SpO2). Both allow the app to track your exercise more accurately. The step counter is always working in the background, keeping track of how many calories you've burned. You can view the number of steps, distance traveled and calories burned on the Edge screen.</paragraph>
+			<paragraph>Besides the basic pedometer, S Health can also track running, cycling and hiking. Goals can be set based on distance, time or calories. You can connect third-party devices for additional measurements - both Bluetooth 4.0 and ANT+ accessories are welcome.</paragraph>
+			<paragraph>The Voice recorder is the most advanced we've seen yet. It can record regular voice memos or transcribe them directly to text (up to 5 minute dictations). The really cool options that make use of the three mics are Meeting and Interview mode. They sense who is speaking based on direction - in interview mode this blocks noise coming from the side, while Meeting mode it can detect up to 8 speakers which you can mute during playback!</paragraph>
+			<paragraph>Another advanced audio feature is Sound Detector. It's found in the Accessibility settings and is intended for people with hearing loss. It supports two sounds - door bell and a baby cry. You record a short sample and the Galaxy Note Edge will listen for that sound and give a visual notification when it hears it. The notification will be sent to a smartwatch.</paragraph>
+			<paragraph>Smart remote uses the built-in infrared port to control AV equipment. The app doubles as a TV guide for supported TV providers and gives you the schedule along with information for the different shows and movies. It can set reminders so you don't miss your shows. If you install third party apps you can control more than just TVs with the Galaxy Note Edge.</paragraph>
+			<paragraph>S Planner is the calendar on board of the Samsung Galaxy Note Edge. It features six different views: daily, weekly, monthly, yearly, list and tasks. For the month view, events on the selected day are listed in a panel on the right. Hovering the S Pen over a date will show you a popup of the events for that date, which is very nifty.</paragraph>
+			<paragraph>Another handy S Pen trick to know is that long-pressing on a date lets you add a handwritten appointment, e.g. "19:00-21:00 meeting @ IT center." The text recognition will make sure the info goes where it belongs.</paragraph>
+			<paragraph>The clock app has a World view along with the basic alarm, stopwatch and timer modes. Smart alarm can wake you gently by starting a quiet sound that builds over a few minutes before the raw ringer kicks in.</paragraph>
+			<paragraph>Finally, aside from the Google Play store you get Samsung Galaxy apps - the store for exclusive content for Galaxy smartphones. It has many titles and free content. There's some good exclusives in Galaxy Apps - a recent example is Nokia's HERE Maps, which landed on Galaxy devices there before going public on the Play Store.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We've been using the Samsung Galaxy Note Edge for a few weeks now and the Edge screen has entered our work flow - mostly for checking notifications and at-a-glance info (e.g. the S Health stats). It does work great with certain apps, like the media players, but for now that functionality is exclusive to TouchWiz titles.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Some compromises had to be made as the Edge screen affects the grip and makes one-handed use in some cases impossible (the camera is especially tricky). It's safe to say that it's too early for Edge to spawn its own lineup like the Note did, the manufacturing isn't quite there and most users are not ready yet perhaps to commit the extra cash and trade off the proper grip for the additional usability offered by the Note Edge's curved screen.</paragraph>
+			<paragraph>Key test findings</paragraph>
+			<paragraph>Samsung will allow third-party developers to make use of the Edge screen and the competition-bred creativity of the app store may make the additional, angled screen indispensable but the problem is there is a single device that can use the new apps - the Galaxy Note Edge.</paragraph>
+			<paragraph>And the Edge is an experimental device of limited regional availability, so it's unlikely it would draw enough third-party developers to make a difference. It's also more expensive than the regular Note 4, not an exuberant amount but more than some people may be willing to pay just for the Edge screen. After all, the Galaxy Note 4 is one of the very best devices on the market and the screen extension is yet unproven and not entirely without compromise.</paragraph>
+			<paragraph>The Edge was always a concept - kudos to Samsung for actually bringing it to the market, instead of just showing it off at a trade show and forgetting about it. However, it's aimed squarely at affluent early adopters, those who want the bleeding edge and can afford it.</paragraph>
+			<paragraph>Drop the Edge screen and the price and you get a Samsung Galaxy Note 4. The multitasking is brilliant and is backed by very capable hardware, plus the S Pen finds more uses than the Edge screen. Definitely try the Note Edge in a store before committing to a Note 4, but chances are you won't find the extra strip of screen a must-have feature. For us, the difference in battery life makes more of an impact.</paragraph>
+			<paragraph> Samsung Galaxy Note 4</paragraph>
+			<paragraph>Apple made a phablet after years and years of calling phablets too big to handle. The Apple iPhone 6 Plus has a bigger, sharper screen than any other iPhone past and current, but Apple's bezels make it bigger than it had to be. Also, other than OIS it lacks any real advantages over the iPhone 6, while the Galaxy Note Edge is several legs up on the Galaxy S5.</paragraph>
+			<paragraph>Forget the S5, the iPhone 6 Plus lags behind the Galaxy Note Edge in a handful of other key areas - screen size, camera resolution, video resolution and sound, price of storage, front-facing camera. Some would argue it still feels more premium, but the 2014 generation Note is pretty good-looking itself.</paragraph>
+			<paragraph>Never mind all that, like other Apple products the iPhone 6 Plus has that X factor necessary for mass market success. It's thinner, but offers better battery life, the OIS worked better than that of the Galaxy Note 4 and the lower resolution helps the powerful GPU score highly in gaming tests. For pricing, a 64GB iPhone 6 Plus is on the level of the Galaxy Note Edge.</paragraph>
+			<paragraph> Apple iPhone 6 Plus</paragraph>
+			<paragraph>Android has been in the phablet game a lot longer than Apple and there are highly-polished offerings outside of Samsung. The Lenovo Vibe Z2 Pro features a slender metal body, a 6" QHD screen and a 16MP/2160p camera with OIS.</paragraph>
+			<paragraph>It's behind on processing power with "only" a Snapdragon 801, but it packs a whopping 4,000mAh battery. It's a dual-SIM device as well (which is still a sought after convenience valuable in some markets, even in the high-end) and is cheaper than the Galaxy Note Edge.</paragraph>
+			<paragraph> Lenovo Vibe Z2 Pro</paragraph>
+			<paragraph>LG is yet to put out a flagship G3 phablet, but the LG G3 is plenty big on its own with a 5.5" QHD screen. The camera department boasts fast and accurate laser autofocus, there's OIS and 2160p video. The stills at 13MP 4:3 aren't the ultimate in mobile photography, but are more than reasonably good. Like the Lenovo, the LG G3 is powered by a Snapdragon 801 chipset and the older GPU is felt at this resolution.</paragraph>
+			<paragraph>You can look at the LG G Pro 2 - it's part of the 1080p and Snapdragon 800 generation, but it's there as a bigger, cheaper alternative. Its 13MP/2160p camera has OIS but no laser focus but is otherwise up there with the G3 camera.</paragraph>
+			<paragraph>  LG G3 ? LG G Pro 2</paragraph>
+			<paragraph>The Galaxy Note Edge was never meant to be a best-seller. For it and Samsung, victory looks like this: the Note Edge becomes a trend-setter and Samsung Display gets new, eager customers. Also, Samsung can once again rightfully claim to be at the forefront of innovation - the phablet is unique in the market and a rarity even among concept devices. And here's the sales pitch: you can be a part of all that by getting a Samsung Galaxy Note Edge, instead of a Galaxy Note 4. But better don't even bother comparing prices.</paragraph>
+		</subsection>
+	</page>
+</review>

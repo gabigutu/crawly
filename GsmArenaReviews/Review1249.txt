@@ -1,0 +1,47 @@
+<review>
+	<title>ZTE at IFA 2016</title>
+	<description>Axon 7 mini hands-on</description>
+	<link>http://www.gsmarena.com/zte_at_ifa_2016-review-1483.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>ZTE Axon 7 mini at a glance<subsectionTitle>
+			<paragraph>Display: 5.2" AMOLED screen, 1,080 x 1,920px resolution (424ppi)</paragraph>
+			<paragraph>Audio: Stereo front-facing speakers; Dolby Atmos</paragraph>
+			<paragraph>Platform: Android 6.0 Marshmallow; Snapdragon 617 chipset (8x Cortex-A53, Adreno 405); 3GB of RAM and 32GB storage; microSD slot</paragraph>
+			<paragraph>Camera: 16MP sensor, f/1.9 aperture, phase-detection AF, dual-LED, sapphire lens; 1080p video at 30fps</paragraph>
+			<paragraph>Selfie cam: 8MP, f/2.2, 1080p</paragraph>
+			<paragraph>Connectivity: Dual-SIM (hybrid slot); LTE Cat. 6 (300Mbps down, 50Mbps up); USB Type-C (2.0 speeds); NFC</paragraph>
+			<paragraph>Battery: 2,705mAh Li-Ion (sealed); Quick Charge 2.0 (46% in 30min)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>ZTE has multiple product lines - last year at IFA we saw an Axon, a Nubia and a Blade and that was just the phones! This year, the Axon line is back with a mini model.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>While the 5.5" Axon 7 is gaining traction in the US, a more compact (if not exactly 'mini') 5.2" Axon 7 mini comes to provide an alternative. ZTE promises the same awesome sound that the stereo speakers of the big Axon 7 deliver, but will the rest of the mini hardware live up to the name?</paragraph>
+			<paragraph>ZTE is also busy crowd-sourcing the design of their Project CSX. The company bounces ideas off its fans and focus groups. The development will go through multiple stages.</paragraph>
+			<paragraph>Right now, CSX is nebulous. It has to be mobile, affordable and doable by 2017, besides that, it's open to interpretation. ZTE has been collecting ideas and today, September 1, will start a poll. On September 12, the Top 3 ideas will be picked (along with 2 wild cards) and development will go into Phase 2.</paragraph>
+			<paragraph>Phase 2 involves users making designs and sketches, at the end (in October) ZTE will have figured out which ones are doable and put the Top 5 up for a vote. If your idea makes it to the Top 5, you get a cash prize.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>ZTE Axon 7 mini hands-on<subsectionTitle>
+			<paragraph>ZTE is quite happy with the 5.5" form factor of the Axon 7 but wanted to offer something to fans of smaller devices. Again, "smaller" here is relative - the 5.2" Axon 7 mini is by no means tiny.</paragraph>
+			<paragraph>And while some might object to calling this a 'mini,' we may not be able to hear you over the roar of the front-facing stereo speakers. They are as good as the ones on the big Axon (ZTE hints they may even be better).</paragraph>
+			<paragraph>The speakers are the real deal - loud and never showing a weakness in quality, even at full blast. The Dolby Processing and dedicated AK4962 audio chip put this mini a head above most phones in the sound department.</paragraph>
+			<paragraph>While the speakers are the same, the screen between them is not. It's still an AMOLED, but resolution dropped to 1080p (bringing down the pixel density with it). We think it's a fair trade-off with a 5.2" screen and 424ppi is more than adequately sharp.</paragraph>
+			<paragraph>We would object more strongly to the chipset downgrade - from the impressive Snapdragon 820 in the Axon 7 to the lowly Snapdragon 617 in the Axon 7 mini. Okay, 'lowly' may be a bit harsh, but it's just about the same chipset as the Axon mini had a year ago.</paragraph>
+			<paragraph>RAM and storage also got cut, 3GB and 32GB now come standard. If you pony up extra cash, you can have the 4GB/64GB of the Axon 7. There may be a 6GB/128GB Axon 7 mini in the future, but that one is still in the air.</paragraph>
+			<paragraph>If you need more storage, you can plug in a 128GB microSD card, but you'll have to give up the dual-SIM functionality (it's a hybrid slot, you see).</paragraph>
+			<paragraph>While we're on the topic, Wi-Fi calling and VoLTE are available on T-Mobile only. The Axon 7 mini will happily work on other GSM carriers (without those features), but unofficially it supports CDMA carriers too (you'll need to manually set up the APNs, however).</paragraph>
+			<paragraph>Like its big bro, the Axon 7 mini has a fingerprint reader positioned just below the camera and dual-LED flash.</paragraph>
+			<paragraph>But back to the differences. The camera on the 7 mini is another thing that has been scaled down, at least this time it's a clear upgrade over the previous generation mini. The camera features a 16MP sensor with phase-detection autofocus and an f/1.9 aperture. Video is capped at 1080p @ 30fps, down from 2160p (you don't even get the 1080p @ 60fps option). The OIS is gone too, only the digital stabilization remains.</paragraph>
+			<paragraph>Update: Here are a few camera samples fresh off the showroom floor - we know, not the best type of scene or lighting:</paragraph>
+			<paragraph>The Axon 7 mini still comes with a USB Type-C connector, but this time it runs on the older USB 2.0 standard (hence lower transfer speeds). The battery is smaller too, 2,705mAh, losing about 500mAh of juice compared to the 5.5" flagship.</paragraph>
+			<paragraph>An older version of Quick Charge is supported, v2.0, which will fill 46% of the battery in half an hour. Compare that to the performance of version 3.0 that fills 83% of Axon 7's bigger battery in the same time.</paragraph>
+			<paragraph>Our ears definitely perked up when we heard ZTE say the Axon 7 mini has the same speakers as the Axon 7 flagship. And we prefer the screen to be 1080p at that size. But from what we hear, the mini will not be much cheaper than the big model, especially if you want that equal RAM and storage.</paragraph>
+			<paragraph>Let's face it, the Axon 7 mini will not be that easier to handle being 4.2 x 4 x 0.1mm smaller than the full-size original. It will also be about ~$100 cheaper than the bigger phone so the downgrade in chipset and camera (and all the other small things like charging and data speeds) will be hard to swallow.</paragraph>
+			<paragraph>For about the same price, the 5-inch ZUK Z2 is a proper mini and it has an S820 chipset, 2160p video and it even has a bigger battery. Sadly, It doesn't have those amazing speakers, though.</paragraph>
+		</subsection>
+	</page>
+</review>

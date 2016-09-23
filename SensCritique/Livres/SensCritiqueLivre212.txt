@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Le bateau ivre</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>1871</year>
+	<link>http://www.senscritique.com/livre/Le_bateau_ivre/18217</link>
+	<generalScore>8.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>17</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>132</numberOfVoters>
+		<numberOfVoters>304</numberOfVoters>
+		<numberOfVoters>357</numberOfVoters>
+		<numberOfVoters>238</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Rimbeau</title>
+		<author>LeGigot</author>
+		<date>2014-08-02</date>
+		<score>1.0</score>
+		<content>Personnellement, quand je lis, je veux seulement avoir du plaisir, être emporté dans un autre univers me faisant décrocher de la réalité ; je me fiche si c'est important historiquement, politiquement, ou bien si ça ne respecte pas les conventions littéraires, ou peu importe. J'adore par conséquent quand un texte est riche, imagé, coloré, onirique... et donc j'aime Rimbaud parce que c'est beau, voilà tout. Comme beaucoup des romantiques et des parnassiens, d'ailleurs. Selon moi, chaque personne est libre de sa propre interprétation d'un poème ; je fuis presque les analyses. Pour celui-ci, je crois que Rimbaud raconte simplement comment il se sent. Tous ceux qui se sont un jour senti l'âme d'un poète s'y identifieront sûrement : les subtilités sublimes du monde perçues par peu de gens, les épreuves imposées par la réalité et les autres personnes, le désespoir de se sentir maudit à cause de son talent. Le bateau est idéal pour représenter les états de pensée alternativement tumultueux et calmes ; la preuve, le célèbre sonnet du Vaisseau d'or du tout aussi célèbre poète québécois Émile Nelligan est aussi inspiré de cette métaphore. Ayant le même âge que le poète et écrivant beaucoup de poésie, Rimbaud représente pour moi une référence autant au niveau stylistique qu'imaginatif. Je m'y identifie donc beaucoup malgré moi. J'aime bien finir avec une citation que je trouve jolie, mais le problème avec ce poème c'est qu'il a beaucoup trop de beaux passages. En voici donc deux parmi tant d'autres : « Plus douce qu’aux enfants la chair des pommes sures, L’eau verte pénétra ma coque de sapin Et des taches de vins bleus et des vomissures Me lava, dispersant gouvernail et grappin. Et dès lors, je me suis baigné dans le Poème De la Mer, infusé d’astres, et lactescent, Dévorant les azurs verts ; [...] » « [... ] Qui porte, confiture exquise aux bons poètes, Des lichens de soleil et des morves d’azur ; Qui courais, taché de lunules électriques, Planche folle, escorté des hippocampes noirs, [...] » Bref, si vous ne connaissez pas, lisez-le, ça vaut la peine et vous aurez peut-être une révélation.</content>
+	</review>
+	<review>
+		<title>Le bateau ivre</title>
+		<author>Qüentito</author>
+		<date>2013-11-08</date>
+		<score>0.2</score>
+		<content>J en'ai pas vraiment aimé ce livre très disparate.</content>
+	</review>
+	<review>
+		<title>Apprenez le !</title>
+		<author>Nunzia Benedetti</author>
+		<date>2014-10-19</date>
+		<score>1.0</score>
+		<content>Je le connais par coeur ! Excellent pour la mémoire et la diction en plus d'être une merveille dont on ne se lasse jamais !</content>
+	</review>
+</sensCritiqueEntity>

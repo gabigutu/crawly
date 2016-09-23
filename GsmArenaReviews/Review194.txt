@@ -1,0 +1,256 @@
+<review>
+	<title>Grand 8 megapixel shootout</title>
+	<description>The latest and greatest</description>
+	<link>http://www.gsmarena.com/8_megapixel_grand_shootout-review-296.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>noTitleParsed<subsectionTitle>
+			<paragraph>We bet you saw that coming. The shootout sequel is up the 8 megapixel notch. Starring Sony Ericsson C905, Samsung i8510 INNOV8, Samsung M8800 Pixon and LG KC910 Renoir, this dedicated article takes phone'n'shoot closer than ever before to point'n'shoot.</paragraph>
+			<paragraph>In the world of GSM phones there are hardly any handsets to pack more punch than our contenders here. The sophisticated imaging devices deliver on all fronts of multimedia, leaving little (if anything) to wish for. So, careful what you wish? Only if what you wish is a digicam.</paragraph>
+			<paragraph>The latest and greatest cameraphones are head-to-head and pure camera performance is the weapon of choice. There's plenty of ammo so we're in for one exciting shooting challenge.</paragraph>
+			<paragraph>    Sony Ericsson C905 ? Samsung i8510 INNOV8 ? Samsung M8800 Pixon ? LG KC910 Renoir</paragraph>
+			<paragraph>While we roll up our sleeves, just a few quick points so you can read our test right and hopefully? enjoy it.</paragraph>
+			<paragraph>Let's start with what shootouts are all about. There are several important factors to camera image quality and we structure our articles accordingly. Breaking down the image quality we look for resolved detail, dynamic range, color accuracy, internal image processing and lens quality.</paragraph>
+			<paragraph>But there's more to a camera than image quality. It's really important how the camera software handles exposure, auto focus, low light scenes, and close-ups.</paragraph>
+			<paragraph>Some extra goodies also get tested in our shootout such as the value-adding features (geotagging, smile detection, etc), flash performance and sheer shot-to-shot speed.</paragraph>
+			<paragraph>And since we do more with a cameraphone than just take pictures, we also compare the video recording skills and image galleries of our contenders.</paragraph>
+			<paragraph>And finally, we should also note that our tests are conducted with all camera settings on auto (unless stated otherwise) with the highest available resolution and quality. We think it's how most users shoot with their phones.</paragraph>
+			<paragraph>That's about it! As you see there's a lot of ground to cover, so let's jump right in.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Resolved detail<subsectionTitle>
+			<paragraph>Judging resolved detail is a tough one, as it's affected by both in-camera sharpening and noise reduction routines. We've lined up some crops so you can judge that for yourself.</paragraph>
+			<paragraph>By the looks of it, Samsung i8510 INNOV8 does better than the rest.</paragraph>
+			<paragraph>LG Renoir is close behind, although its results may be misleading as excessive sharpening tends to create a faux perception of high detail. Sony Ericsson C905 and Samsung Pixon are pretty much on par, and quite within reach of LG Renoir. Of course, all four easily outperform even the best 5 megapixel cameraphones.</paragraph>
+			<paragraph>SE C905: 7/10 &#x2022; Samsung INNOV8: 9/10 &#x2022; Samsung Pixon: 7/10 &#x2022; LG Renoir: 8/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Dynamic range<subsectionTitle>
+			<paragraph>Dynamic range is a very important aspect of the photo quality of each camera. There is no way to fix the blown highlights (the parts of the image that have turned white), which are the most prominent result of limited dynamic range.</paragraph>
+			<paragraph>We are glad to see a nice improvement in the dynamic range of all 8 megapixel cameraphones as compared to the previous generation of 5 megapixel snappers.</paragraph>
+			<paragraph>In fact the contenders performed very similarly in this aspect throughout our test. We managed to find just one picture that slightly favors a single handset.</paragraph>
+			<paragraph>Here is a crop from this scene along with a second one that shows the slight advantage of the LG Renoir. The second crop is in fact the same as the first one but with a special color overlay that shows the level of highlight clipping. Red and blue overlays stand for a single blown color channel, while the yellow overlay is where all channels are blown (pure white). So the less there is yellow, the better.</paragraph>
+			<paragraph>Almost all of the devices offer the so-called enhanced dynamic range mode to brighten up the shadows and reveal more detail, while in the same time keeping the highlights and midtones from getting overexposed.</paragraph>
+			<paragraph>Sony Ericsson have Smart Contrast, while Samsung call it Wide Dynamic Range. Either way, it comes out quite right. You still need to bear in mind that this camera option enhances the shadows artificially, much like image editing software. Therefore the handsets take more time to process the photo and usually, there's some noise in the shadows that gets more prominent when they lighten up.</paragraph>
+			<paragraph>SE C905: 7/10 &#x2022; Samsung INNOV8: 7/10 &#x2022; Samsung Pixon: 7/10 &#x2022; LG Renoir: 8/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Color accuracy<subsectionTitle>
+			<paragraph>Back in the day of our 5 megapixel grand shootout, we saw rather inconsistent color rendering across the different manufacturers. Now, with the next generation of cameraphones, color rendering is commendable throughout the test sample and generally better than the 5 megapixel pack.</paragraph>
+			<paragraph>There is one problem with color rendering though, and it affects the reds. SE C905 and Renoir put a bit too much pink in red, like the old Cyber-shots, but less prominent. Pixon renders red somewhat orange, while i8510 captures the hue right, but with saturation pumped slightly up, so that colors become more vibrant.</paragraph>
+			<paragraph>The i8510 INNOV8 will occasionally add just a little bit more yellow (which we actually like) and the Pixon would (very rarely) go slightly bluish. So, LG Renoir has probably the most accurate color rendering, though we prefer the more vibrant INNOV8 shots.</paragraph>
+			<paragraph>There are no problems with the orange, yellow or violet colors - quite similar representation.</paragraph>
+			<paragraph>SE C905: 7/10 &#x2022; Samsung INNOV8: 8/10 &#x2022; Samsung Pixon: 7/10 &#x2022; LG Renoir: 8/10</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Internal processing<subsectionTitle>
+			<paragraph>Samsung i8510 INNOV8 exhibits the best, most mature, image processing. Its results can easily pass for a low end point'n'shoot digicam. SE C905 is not bad either but has some issues with fine detail due to its noise suppression algorithm.</paragraph>
+			<paragraph>Samsung Pixon fails to deal with noise in the shadows, while the Renoir produces somewhat oversharpened images and the "staircase effect" on diagonal lines is clearly visible.</paragraph>
+			<paragraph>Update 05 Dec: We received a retail unit of the Samsung M8800 Pixon and it has much better image processing than the pre-release sample we used for this shootout. The noise levels are now much lower, suggesting that a more effective noise reduction algorithm has been used. In most photos the Pixon even manages to generate the least noise among all contenders but some fine detail has been sacrificed. You can check the photos from the new unit here. The Samsung Pixon score for this part has been updated.</paragraph>
+			<paragraph>The INNOV8 lead is most pronounced on photos of foliage or grass. Most of the time you can easily spot individual leaves, where the other phones produce but color smudges of no distinct shape or detail.</paragraph>
+			<paragraph>SE C905: 7/10 ? Samsung INNOV8: 9/10 ? Samsung Pixon: 8/10 ? LG Renoir: 3/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Exposure and focus accuracy<subsectionTitle>
+			<paragraph>Looking at all the photos we took for this test (not only the actually published ones), we can say focus accuracy is remarkable across all our 8MP shooters. Whichever you chose, you can be sure you won't end up with blurry photos as long as the light is enough.</paragraph>
+			<paragraph>The only misfocused samples were taken in macro mode and those don't count, as the wind was messing with our subjects.</paragraph>
+			<paragraph>Exposure accuracy wasn't bad either. All 4 cameras were consistently good at exposing. There were cases when C905 got it just a tad underexposed while the Pixon went to overexposing, but nothing serious.</paragraph>
+			<paragraph>SE C905: 8/10 ? Samsung INNOV8: 9/10 ? Samsung Pixon: 8/10 ? LG Renoir: 9/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Lens quality<subsectionTitle>
+			<paragraph>We were pleasantly surprised by the lack of purple fringing in all our contenders. That's some great news for all photo enthusiasts looking to use a phone as a backup of their camera. The purple fringing ruins plenty of shots and is generally hard to get rid of using software editing.</paragraph>
+			<paragraph>LG Renoir scores best at edge-to-edge sharpness. Basically it delivers the same level of sharpness both in the center of the frame and near the edges.</paragraph>
+			<paragraph>Samsung INNOV8 is not bad either. Sony Ericsson C905 is otherwise good, but had some issues with flare, reducing the image contrast when shooting a very bright subject. Samsung Pixon is a real letdown here - it really loses detail towards the edges. In addition, it suffers from vignetting in some photos.</paragraph>
+			<paragraph>Both the sample Pixon units we received also had a case of lens misalignment, which resulted in partial blurring of the image - and in some cases that rendered the photos unusable. We haven't included those photos in this competition for the sake of fair play but you'll notice uneven sharpness on almost all Pixon shots.</paragraph>
+			<paragraph>Update 05 Dec: Luckily the retail Samsung M8800 Pixon unit we received has all lens issues solved. It has great sharpness across the frame and the vignetting we noticed in the previous samples is all gone. As things stand now the Pixon lens quality is quite close to that of the Samsung i8510 INNOV8. The Samsung Pixon score for this part has been updated.</paragraph>
+			<paragraph>SE C905: 6/10 ? Samsung INNOV8: 8/10 ? Samsung Pixon: 7/10 ? LG Renoir: 9/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Flash<subsectionTitle>
+			<paragraph>Two of the phones in this shootout, C905 and Renoir, feature a xenon flash. In our test we can clearly see the advantage it gives to C905, but the LG Renoir flash performance is an utter disappointment.</paragraph>
+			<paragraph>The LG Renoir flash pictures are almost on par with the LED-equipped Samsung contenders. In flash mode the Renoir is instructed to expose as if it has a strong light source but the feeble xenon flash results in underexposed photos. Automatic white balance makes things even worse, adding a heavy bluish tint on all flash photos.</paragraph>
+			<paragraph>The only advantage of the LG Renoir flash is that it allows for faster shutter speeds, which to an extent might help capture moving subjects in low-lit scenes. It still is almost certain they will turn out underexposed.</paragraph>
+			<paragraph>SE C905: 8/10 ? Samsung INNOV8: 2/10 ? Samsung Pixon: 2/10 ? LG Renoir: 3/10</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>ISO/low light<subsectionTitle>
+			<paragraph>This test aims to show how the contenders fare under low light, when the subject is out of the flash range. Since this range is very limited even for the xenon units, this is an important test.</paragraph>
+			<paragraph>All the cameras are set to ISO 400 except C905, which lacks a proper ISO setting and auto-selects ISO 200.</paragraph>
+			<paragraph>Generally, ISO 400 is as high as you would like to go. All the phones, save for the C905, can boost ISO up to 1600, but results at that level are simply useless because of the high level of noise. But that's an issue with most point'n'shoot cameras as well.</paragraph>
+			<paragraph>From the crops, you can see that despite the higher ISO, Samsung Pixon uses at times rather slow shutter speeds and gets unacceptably blurry results. Even when it nails the right shutter speed, its noise suppression algorithm removes all color noise at the expense of resolved detail. There's also excessive luminance noise that's left over, so the Pixon gets the lowest score here.</paragraph>
+			<paragraph>C905 and Renoir show similar results, but ISO200 in SE C905 favor the shots with less noise, and ruins them with slow shutter speeds.</paragraph>
+			<paragraph>And finally, the Samsung INNOV8 results are also acceptable but have slightly more color noise than the LG Renoir, hence the lower score.</paragraph>
+			<paragraph>SE C905: 2/10 ? Samsung INNOV8: 4/10 ? Samsung Pixon: 2/10 ? LG Renoir: 5/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Macro<subsectionTitle>
+			<paragraph>In the macro department all cameraphones performed admirably. Pixon and Renoir gain some points here over C905 and i8510, because of the slightly better depth of field. Interestingly enough, in close range the Pixon had none of the uneven sharpness issues we mentioned earlier.</paragraph>
+			<paragraph>SE C905: 4/10 ? Samsung INNOV8: 7/10 ? Samsung Pixon: 8/10 ? LG Renoir: 8/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video<subsectionTitle>
+			<paragraph>As to video recording, most of these top-notch cameraphones offer excellent video recording capabilities except Sony Ericsson C905. Sony Ericsson have long stalled on video recording on their camera-centric mobiles and that has taken a lot of criticism. There seems to be no progress in that department even with the C905, so we guess we'll have to wait until next year (hopefully!) to get some decent video squeezed out of those Cyber-shots.</paragraph>
+			<paragraph>The other three handsets all manage VGA@30fps video recording plus slow motion 120fps@QVGA. The slow motion video recording is a really neat trick, pioneered in mobile phones by LG with their Viewty.</paragraph>
+			<paragraph>Later on LG expanded the video capabilities of their mobile even more and with the LG Secret we had quite some fun with time-lapse action-packed videos in QVGA resolution.</paragraph>
+			<paragraph>Both of these video modes are available on the LG Renoir, but recently Samsung have also taken note and offer high-speed QVGA video on both the Pixon and INNOV8.</paragraph>
+			<paragraph>And finally, the leader in the video recording category seems to be Samsung M8800 Pixon with its Wide VGA video recording at 30 fps.</paragraph>
+			<paragraph>Sony Ericsson C905 sample video in QVGA@30fps Samsung INNOV8 sample video in in VGA@30fps Samsung Pixon sample video in VGA@30fps and a second one in WVGA@30fps LG Renoir sample video in VGA@30fps</paragraph>
+			<paragraph>In our personal opinion the LG Renoir produces the best quality VGA@30fps videos so that compensates for the fact that there's no QVGA video recording. The Renoir also uses the superior DivX compression and records AVI files.</paragraph>
+			<paragraph>SE C905: 2/10 ? Samsung INNOV8: 7/10 ? Samsung Pixon: 8/10 ? LG Renoir: 8/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera speed<subsectionTitle>
+			<paragraph>In terms of speed, it seems that the best overall performers are the LG Renoir and the Sony Ericsson C905. They have the best overall scores with the previews switched off.</paragraph>
+			<paragraph>The Samsung M8800 Pixon is at the bottom of the ladder, lagging quite a lot behind. However if you switch the preview off the Pixon achieves a shot to shot time of 2.5s which is simply great. Go figure!</paragraph>
+			<paragraph>Update 05 Dec: The retail unit of the Pixon has a greatly improved speed performance compared to the pre-release one. It managed to achieve a shot-to preview time of about 2.4 seconds and then managed to return to the viewfinder in under 2 seconds. That's the quickest shot-to-shot time among all contenders. The table below has been updated with the new times of Samsung Pixon.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera features round-up<subsectionTitle>
+			<paragraph>With 8 megapixels all around, these cameraphones seem to offer the same horsepower but hardly the same ride. The camera interface counts big time for user experience. And essentially, it all boils down to: (1) camera features and (2) user-friendliness.</paragraph>
+			<paragraph>Weighing up Camera Features we look at what the camera can deliver. It's stuff like shoot modes (macro, burst, panorama, frame, collage), flash settings, available preset scenes, ISO setting and some other extras such as geotagging, face and smile detection, blink detection, manual focus, image stabilization and viewfinder gridlines.</paragraph>
+			<paragraph>User-friendliness is perhaps more abstract and harder to judge. It takes into account things like settings layout, available shortcuts to camera functions, tooltips and other visual hints at the specifics of each setting, etc. It is basically a subjective call, so you'll you have to rely on our experience with cameraphones and digital cameras and trust our judgment. Or not.</paragraph>
+			<paragraph>We also take into account the actual looks of the camera interface - the eye-candy factor is important too.</paragraph>
+			<paragraph>Now, let's get to the real deal and start exploring the camera features of our contenders today. We'll continue with the usability checklist on the next page.</paragraph>
+			<paragraph>Basic camera features</paragraph>
+			<paragraph>In terms of camera features all our contenders seem to have their own quirks. All have a pretty identical set of standard settings such as white balance, adequate preset scene modes, self-timer, color effects, and exposure compensation. A dedicated macro mode is available in each and close-ups usually turned out fine. Samsung's Pixon and INNOV8 also have Sharpness/Saturation/Contrast settings that neither of the others has.</paragraph>
+			<paragraph>ISO settings</paragraph>
+			<paragraph>Manual ISO is useful when you want to minimize noise by setting it at the lowest or when you want to freeze the action in a low-light scene by flicking it up to the max.</paragraph>
+			<paragraph>Except for the Sony Ericsson C905, which claims to but has no ISO setting, all the other three cameraphones can pump it up to ISO1600. Of course the ISO1600 level is barely usable for the high noise it creates, but it's nonetheless a feature that is at hand in point'n'shoot cameras.</paragraph>
+			<paragraph>By the way, if you are the kind that steers clear of any setting with a fat abbreviation on it, you might as well go for the preset Scene modes, where all the right settings are served (including pumped up ISO in low light).</paragraph>
+			<paragraph>Flash settings</paragraph>
+			<paragraph>The flash settings on all four mobiles are pretty consistent too. The couple that has xenon on board (LG Renoir and SE C905) have a red-eye reduction mode but unfortunately lack a forced flash mode, which could have made the flash useful as fill light in backlit scenes.</paragraph>
+			<paragraph>Note that the score here doesn't take into account the actual flash performance but only the settings associated with it. We already measured flash power in a dedicated on the previous page.</paragraph>
+			<paragraph>Burst shooting mode</paragraph>
+			<paragraph>Almost every cameraphone has its own approach to Burst mode. Sony Ericsson C905 uses BestPic mode to take up to 7 images in a row at the highest resolution. Once they are taken, they are pretty easy to review as the phone doesn't save them before you've picked the keepers. LG Renoir offers pretty much the same - 7 images at 8 megapixels and a pick-to-save interface.</paragraph>
+			<paragraph>The two Samsungs are obviously the underdogs in terms of Burst handling. Samsung INNOV8 can snap up to 9 images in a row with a pick-the-one-to-save interface but the shots are in VGA resolution. Samsung Pixon does the same, only the resolution is further demoted to QVGA and the user has no say on which shot to save.</paragraph>
+			<paragraph>Panorama shooting mode</paragraph>
+			<paragraph>Panorama images are a fun way to capture the grandeur of landscapes. While it does take some human skill, all of our contenders make it easier for you by automating the whole image stitching process.</paragraph>
+			<paragraph>When it comes to taking panos, LG Renoir is the top dog. Renoir panoramas consist of up to three full resolution 8 MP shots. The actual snapping is not automatic but your panning is assisted by a semi-transparent overlay on screen to show you where the last frame ended, so you can take it from there.</paragraph>
+			<paragraph>Now, if LG Renoir is the deal, Sony Ericsson C905 is quite obviously the underdog. Its panos are again made up of up to three shots but all in VGA resolution - quite lame really. It has the same assisted framing as the Renoir.</paragraph>
+			<paragraph>The Samsung couple is somewhere in between. Their most impressive feature is that shots are taken automatically by the camera - you are only responsible for the actual panning. There are also on-screen guidelines to help your consistent framing.</paragraph>
+			<paragraph>The best thing about the Samsung Panorama mode is that automatic shooting works both in portrait and landscape. Samsung Pixon is taking 1.3 megapixel shots: up to two frames in portrait and up to 8 frames in landscape mode. The Samsung INNOV8 works in VGA resolution and takes up to 8 images in either.</paragraph>
+			<paragraph>Now that we've got panoramas covered, let's check out a relatively new feature that sneaks into almost all current cameraphones.</paragraph>
+			<paragraph>Geo-tagging</paragraph>
+			<paragraph>It's geotagging, ladies and gentlemen, and we are glad to welcome you to location awareness. Thanks to the built-in GPS (or cell tower triangulation) you get fairly accurate GPS data embedded in your photos. Later on, when you upload them to a geotag-enabled photo sharing service (Flickr or Picasa to name a few) you can show your friends and family where you took those cool shots.</paragraph>
+			<paragraph>Currently all our 8-megapixel cameraphones offer geotagging courtesy of their built-in GPS receivers. In fact, Samsung Pixon takes it to extreme - the sole job of its GPS chip is geotagging photos.</paragraph>
+			<paragraph>All handsets locked satellites in a reasonable amount of time. If you are in a hurry and you need the photo right this very instant, the Sony Ericsson C905 will automatically geotag your photos based on cell base triangulation instead of actual GPS data. Geotagging turns quite right that way - it's only a block or two off the actual spot.</paragraph>
+			<paragraph>Face, smile and blink detection</paragraph>
+			<paragraph>Face detection and tracking is another hip feature making its way into high-end cameraphones. All the cameraphones in this shootout have it. Unlike digital cameras however, they can only detect/track one face at a time except for Sony Ericsson C905. The implementation of the feature in C905 is not ideal though. While it can track three faces at a time, only one gets focus and the choice is rather random.</paragraph>
+			<paragraph>Smile detection is a nice add-on to the face detection gadgetry. All of our cameraphones have it save for Sony Ericsson C905. When smile detection is enabled, it sets the camera in auto shutter mode, so instead of shooting right up when you press the shutter all the way down it waits for a smile on the currently detected face and snaps only when the time is right.</paragraph>
+			<paragraph>And the other geeky feature is blink detection, which is supposed to deal with eye blinks in portraits and group shots. Again, the C905 takes it easy on that one, but all the other three handsets have it.</paragraph>
+			<paragraph>Digital image stabilization</paragraph>
+			<paragraph>And finally, digital image stabilization helps you keep your camera steady in low light situations. It won't be of help if your subjects are moving, but it can theoretically help you shoot sharper low-light cityscapes. All the cameraphones in this shootout have image stabilization, but the effect is somewhat dubious.</paragraph>
+			<paragraph>Special features</paragraph>
+			<paragraph>Now that we've covered all the shared specs, let's look at unique features that set each of our cameraphones apart.</paragraph>
+			<paragraph>The Sony Ericsson C905 camera has the proprietary Smart Contrast. Smart contrast is a method of enhancing detail in the dark areas of a contrast-rich scene (composition with a lot of bright and dark areas), giving the image a more balanced light range. This mode is quite helpful in backlit scenes.</paragraph>
+			<paragraph>Samsung have their own Wide Dynamic Range (WDR) implemented on both the Samsung INNOV8 and the Samsung Pixon. The WDR mode helps with high contrast images by overexposing them a bit. You get nicely developed detail in the shadows; however the brighter areas of the photos tend to lose detail.</paragraph>
+			<paragraph>LG Renoir also has some aces up its sleeves. Beside manual focus, it also offers the so-called backlight compensation mode. It helps shoot backlit portraits by carefully balancing enhanced details on the face and keeping as much detail in the background possible.</paragraph>
+			<paragraph>Now, on a normal camera you would shoot a backlit portrait in one of three possible ways - using flash as fill light to overcome the strong backlight, using exposure compensation for a properly lit face (risking a slow shutter speed) or by setting exposure metering to spot, to make the camera measure light in the center of the scene only instead of trying to balance both the subject and the background.</paragraph>
+			<paragraph>As fill light is not an option with these cameraphones, we tried to achieve the same effect by using exposure compensation or spot metering and we couldn't get the nice balance of the LG backlight compensation mode. So it's way to go for Renoir.</paragraph>
+			<paragraph>Another tool in the LG ammo is Beauty shot, which we guess many people would welcome. It smoothes skin and enhances skin tone for a better portrait.</paragraph>
+			<paragraph>LG are also the only ones to offer enhanced color effects that include cooling or warming the scene and adding a nice looking vignette as part of their Art shot. Those are things that you can easily replicate with most desktop image editors but if you are among the many people that don't like to waste time with post processing, you get a chance to have those shots straight in the camera.</paragraph>
+			<paragraph>And finally, LG are offering the nifty little Touch shot feature. It's simple - choose an object you would like to focus on and simply point it on the screen. When the handset focuses, lift your finger and voila - you've got your photo.</paragraph>
+			<paragraph>Unfortunately, that type of focusing is way impractical in real-life shooting. The whole thing brings all kinds of challenges.</paragraph>
+			<paragraph>When you touch the object on the screen, you can't really see what's under your finger. So you can't know if your subject looks good right when you shoot; you can't see when the autofocus indicator has turned green to show you it has nailed it, and you will be struggling to frame your shot with your finger getting in the way.</paragraph>
+			<paragraph>And by the way, the LG Renoir is not the first handset to introduce Touch Focus - Sony Ericsson G900 pioneered it, the Sony Ericsson XPERIA X1 features it as well.</paragraph>
+			<paragraph>The camera features chapter turned out quite long, but it's understandable as we're dealing with some really capable cameraphones. It's not an easy conclusion, but the LG Renoir comes out as the most complete device in terms of camera features. The other mobiles are still pretty close, but remain runner-ups.</paragraph>
+			<paragraph>SE C905: 5/10 ? Samsung INNOV8: 8/10 ? Samsung Pixon: 6/10 ? LG Renoir: 9/10</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Interface looks and user-friendliness<subsectionTitle>
+			<paragraph>Looks and user-friendliness are next on our list of evaluating the camera interfaces of our contenders. Without a proper study involving focus groups and such, it will always remain a highly questionable matter. So, again, it's how we feel about it based on our experience with cameraphones and digital cameras.</paragraph>
+			<paragraph>In this shootout however we have a couple of touch devices and another couple of sliders. So we think it's only fair that these two couples should run the looks and handling race in separate lanes.</paragraph>
+			<paragraph>Interface looks and usability</paragraph>
+			<paragraph>Putting the Samsung INNOV8 and the Sony Ericsson C905 head to head, the first obvious thing is that both have similar setups involving a settings toolbar and pop-ups (or pop-downs in the case of the INNOV8) for all options.</paragraph>
+			<paragraph>We find the Sony Ericsson C905 to be slightly better in terms of interface looks. It offers a more colorful layout along with subtle tooltips and visual examples of how every feature works.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>The LG Renoir and the Samsung Pixon have very pleasant interfaces too where most options are displayed as semi-transparent screen overlays. Those are easy to pick and touch, so again handling the camera menu is easy.</paragraph>
+			<paragraph>The only issue with that kind of interface is that the settings in the camera viewfinder are depicted as graphical icons only and you can't guess what they do before you give them a test run. That hurts usability to an extent.</paragraph>
+			<paragraph>When we compare the implementations of Samsung Pixon and the LG Renoir, we can't really point a definite winner in terms of looks. Both have rather similar interfaces so we'll just go ahead and give them equal points in the beauty section.</paragraph>
+			<paragraph>Menu structure and organization</paragraph>
+			<paragraph>Having a huge amount of settings on those settings toolbars/viewfinder bars is not that user-friendly too. So every cameraphone has an extended settings menu that takes care of the least used options.</paragraph>
+			<paragraph>That's ok with us, however picking the right ones to put on the main toolbar/viewfinder bar is of crucial importance to user-friendliness. All of our contenders fare great in this respect with a single exception - LG Renoir. Let us explain.</paragraph>
+			<paragraph>For some reason, LG have forced the viewfinder to fullscreen mode. But as the camera sensor has a different aspect ratio than the widescreen viewfinder, some of the image gets cropped. It still gets recorded, but you don't really see it in the viewfinder.</paragraph>
+			<paragraph>Additionally, the overlay camera controls are only a few and they fade away off screen after a preset period of time so that they don't get in your way.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Samsung on the other hand have opted to use the original aspect ratio of the camera on their Pixon widescreen viewfinder, which leaves space for two permanent columns of controls that don't need to be hidden when not used.</paragraph>
+			<paragraph>That gives you quick access to much more camera features, which otherwise are hidden deep in the extended camera options of the LG Renoir.</paragraph>
+			<paragraph>So in essence - the controls of the LG Renoir are (1) not always at hand (due to the fullscreen viewfinder) and (2) even when you tap on the screen to display them you get only a few, with still quite a lot of important setting buried in the extended settings menu.</paragraph>
+			<paragraph>Camera shortcuts - starting off</paragraph>
+			<paragraph>Having the right shortcuts at your disposal is key to operating the camera settings quickly and efficiently.</paragraph>
+			<paragraph>Let's start by examining the lens covers and the shortcuts used to start the camera itself. All of the handsets in this shootout have some sort of lens covers, which is a welcome approach.</paragraph>
+			<paragraph>In Samsung INNOV8 and Samsung Pixon lens covers are have the sole purpose of providing protection. They reveal the lens automatically once you start the camera. LG Renoir and SE C905 have mechanical lens covers that you need to open manually in order to shoot. The good thing is they are active lens covers, so they start the camera too.</paragraph>
+			<paragraph>Let's look at our slider duo of Samsung INNOV8 and Sony Ericsson C905. The lens cover in the Samsung cameraphone opens automatically when you start the camera. However, starting the camera takes quite a long press of the camera key - and the handset keyboard needs to be unlocked for that to work.</paragraph>
+			<paragraph>If you slide back the device in order to shoot more comfortably, the keyboard locks again and you need to unlock it using the key combo in order to shoot. Those may seem minor things, but when you compare it to the Sony Ericsson device they do make a difference.</paragraph>
+			<paragraph>All it takes to shoot with the C905 is slide the active lens cover open - no matter whether the phone is closed or opened, locked or unlocked, the camera will be ready to shoot.</paragraph>
+			<paragraph>The Sony Ericsson C905 solution has its flaws too. The lens cover seems to be way too close to the lens, so sliding it down often leaves a finger smudge on the lens.</paragraph>
+			<paragraph>The LG Renoir active lens cover requires to be operated manually too. Its slider is located on the ring around the lens. The problem with this slider is that it offers little grip and sometimes takes a try or two to slide it open. And the device again needs to be active (not in standby) for the slider to activate the camera.</paragraph>
+			<paragraph>There are some positive things about the LG implementation too. For example, on exit the camera always warns you if the lens cover is not closed. If it weren't for that warning, we would have left the lens unprotected on quite a few occasions.</paragraph>
+			<paragraph>And finally, the Samsung Pixon has the same automatic lens cover as the Samsung INNOV8. The Pixon screen needs to be unlocked for the shutter key to start the camera, and the actual starting takes quite some pressing.</paragraph>
+			<paragraph>Camera shortcuts - taking the shot</paragraph>
+			<paragraph>On regular digicams there are several keys to use, but on mobile phones fitting dedicated camera keys is not an easy task. Yet, all of the 8 megapixel cameraphones allow some sort of shortcutting your way through the most important settings, so you don't miss that precious shot.</paragraph>
+			<paragraph>Sony Ericsson C905 packs some nice backlit icons on the D-pad so you have quick access to Focus mode, Exposure compensation, Self-timer and Flash control. You can also use the two other keys above the display for quick selection of Scene and Shoot mode. Or, if you are not using the camera you can use those same keys to open up the Image gallery. There's also a side-mounted key that allows you to toggle between video and still cam, plus a separate key for starting the gallery.</paragraph>
+			<paragraph>The Samsung INNOV8 D-pad has the same features as the C905, and you can access several other features with the alphanumeric keypad. As those are not marked in any way you can use the camera help menu to see who's doing what.</paragraph>
+			<paragraph>The Samsung INNOV8 also has a sliding knob placed on its side that allows you to toggle the still camera, video camera and image gallery as easily as on your digicam.</paragraph>
+			<paragraph>As we already pointed out in the menu structure chapter, Samsung Pixon offers access to a lot more settings than the LG Renoir straight in the camera viewfinder. With the LG Renoir you'd have to use the extended camera setup to pick up a scene or toggle the macro mode. Doesn't really sound user-friendly, does it?</paragraph>
+			<paragraph>Still, even with the LG Renoir there is some shortcut action when it comes to the camera. First of all, a shorter press on the camera key starts the still camera, while a longer press starts the video camera.</paragraph>
+			<paragraph>Then, there's also the dedicated image stabilization key. The practicality of these shortcuts is dubious as we prefer using the active lens cover for starting the camera and we almost never used digital image stabilization - let alone its shortcut button!</paragraph>
+			<paragraph>And even when we used the shutter key to power the camera on, more than often we got ourselves into the camcorder by accident (too long a press).</paragraph>
+			<paragraph>So, to sum up this chapter of our shootout, when it comes to 8 megapixel sliders, the Sony Ericsson C905 is definitely the one that's always ready to capture the moment without compromising lens protection plus it's got the upper hand with better organized shortcuts. It also snatched our appreciation for its superior looking interface among the sliders.</paragraph>
+			<paragraph>In the touchscreen couple the Samsung Pixon leads with its handy viewfinder controls, automatic lens cover and user-friendly interface.</paragraph>
+			<paragraph>SE C905: 7/10 ? Samsung INNOV8: 5/10 ? Samsung Pixon: 4/10 ? LG Renoir: 2/10</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Picture this - on your mobile phone<subsectionTitle>
+			<paragraph>We all know how good it is to preview your shots as soon as you've snapped them. It allows you to immediately go for a second shot if framing wasn't right or you can simply show your super cool snapshot off to everybody around.</paragraph>
+			<paragraph>When it comes to previewing your pictures, almost all of the cameraphones score nicely. Of course, there are differences in screen size and quality, which can make or break the image browsing experience. Riding the accelerometer wave. all of the handsets are capable of automatically rotating images with a flick of the hand.</paragraph>
+			<paragraph>Sony Ericsson C905 is really fast at image browsing and also has a snappy zoom on photos that works in large steps. The animated slideshows the Sony Ericsson C905 runs are also better than the competition - they have intriguing transition effects and nice music background with almost no setup required.</paragraph>
+			<paragraph>Sony Ericsson C905 has also got the best display among the bunch when it comes to performance under direct sunlight. Still, we feel that at 2.4" the C905 display is a little too small for a high-end multimedia device.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Traditional Samsung, the INNOV8 offers two image galleries. The first one is to be found in the usual Media section. Browsing images there is rather slow, so a better option is the camera gallery that is accessible by sliding the side-mounted camera slider.</paragraph>
+			<paragraph>Image browsing in the second gallery is way faster, while thumbnails pop up nicely as you go through them. Zooming though is not as smooth as on Sony Ericsson C905.</paragraph>
+			<paragraph>Slideshows on the INNOV8 also have a disadvantage, as they offer only several plain transitions and no background music. If you opt to use its Movie Maker application, you can make yourself video slideshows out of your images. However they take quite a lot of time to render and are more complicated to setup than the Sony Ericsson C905 slideshows.</paragraph>
+			<paragraph>Unfortunately, the Samsung INNOV8 doesn't deliver adequate sunlight legibility on its 2.8" display.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Both LG Renoir and Samsung Pixon offer touch optimized galleries. Jumping from image to image is a matter of a finger sweep, but we gotta say LG have it a bit more fluid than the Pixon.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Samsung Pixon again has two galleries. The regular one has simpler interface, which however performed better than the tuned up Photo Browser.</paragraph>
+			<paragraph>A dedicated hardware shortcut starts the Photo Browser on the Pixon. There's also the highly advertized tilt image browsing, where you just tilt the phone to start the images scrolling down the screen. We've got to say it's not that cool after all - just imagine looking at those images with your head tilted to the side.</paragraph>
+			<paragraph>Scrolling images in the Pixon gallery follows alphabetic filtering by default. It seems pretty out of place, as all file names of photos produced by the camera start with the letter "P" - as in "Photos".</paragraph>
+			<paragraph>Luckily, you can opt for some other filters such as the usual "by date" or the more intriguing "by color".</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The LG Renoir and Samsung Pixon are a bit disappointing when it comes to slideshows, as they don't even put up transition effects.</paragraph>
+			<paragraph>The LG Renoir compensates a bit for this fact with its Muvee studio for making animated slideshows out of your pictures. The resulting slideshows resemble the ones by C905 and you can even export them as MPEG4 video files; something the C905 is not capable of doing. However making such videos on the LG Renoir takes quite some time and setting up a video is a bit complicated.</paragraph>
+			<paragraph>So in conclusion, it's pretty much an even score for LG Renoir and Samsung Pixon. Both are somewhat slow in loading the image gallery, as well as in zooming.</paragraph>
+			<paragraph>When it comes to the display quality of both touch handsets, we feel that the LG Renoir has the upper hand although it's got a slightly smaller screen estate. It still offers the same resolution as the Samsung Pixon but has better sunlight legibility.</paragraph>
+			<paragraph>So, when it comes to browsing your pictures we liked the media gallery and screen legibility of the Sony Ericsson C905 best. However, its small screen gets blown away by the large 3" display of the Renoir. The fluid thumbable gallery is another advantage, so we guess it's only fair to give those two the highest score in this part of the assessment.</paragraph>
+			<paragraph>SE C905: 9/10 ? Samsung INNOV8: 5/10 ? Samsung Pixon: 7/10 ? LG Renoir: 9/10</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>There we are then, the 8 megapixel shootout is over and the crossfire is about to begin. Doing all those tests was fun but it was hard too. Now that there's seemingly the simplest thing left to do, we'd rather sit back and let everyone do their own math.</paragraph>
+			<paragraph>It was our best effort - and our pleasure - to weigh up and compare all there is to a cameraphone. We know there's no way for every single feature on our list to be equally relevant to all users alike. So, if you're about to make up your mind, we suggest you only look at those that are most important to you.</paragraph>
+			<paragraph>However we can still offer you a quick summary of our overall impression, without getting into numbers.</paragraph>
+			<paragraph>If you are looking for the universal performer, then the Samsung INNOV8 is your definite choice with excellent image results. Besides first-rate stills, it also delivers VGA video recording 30fps or slow motion QVGA videos at 120fps and has a large display.</paragraph>
+			<paragraph>If you are after the best camera interface and probably the best camera handling and controls, then Sony Ericsson C905 is your game.</paragraph>
+			<paragraph>If you're really into touchscreen and massive high-res displays, you would be right at home with both the LG Renoir and the Samsung Pixon. Now that we received a final version of the Samsung Pixon (05 Dec), it turned out as a quite capable cameraphone.</paragraph>
+			<paragraph>The LG Renoir still has the leading bunch of still camera features and it's fully geared in terms of video recording with VGA@30fps, slow motion QVGA videos at 120fps or time-lapse QVGA clips. But when it comes to image quailty, we found some test scenes at which the Samsung Pixon offered more eye-pleasing results. The Samsung Pixon also offers WVGA video recording that lacks on the Renoir and a superior user experience thanks to the well organized camera interface.</paragraph>
+			<paragraph>We really hope you enjoyed this 8 megapixel shootout as much as we did. Forgive us if the article tends to get a bit technical at times, but explaining the basics of photography and camera construction is pretty much out of the scope of this article.</paragraph>
+		</subsection>
+	</page>
+</review>

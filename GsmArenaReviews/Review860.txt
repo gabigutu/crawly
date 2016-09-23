@@ -1,0 +1,192 @@
+<review>
+	<title>Meizu Pro 5 Ubuntu Edition review</title>
+	<description>Cute clumsy penguin</description>
+	<link>http://www.gsmarena.com/meizu_pro_5_ubuntu-review-1452.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>5.7" 1080p AMOLED display of 386ppi</paragraph>
+			<paragraph>Ubuntu Touch 15.04 at the time of writing the review. Updates are often, just like with most Linux distros.</paragraph>
+			<paragraph>Samsung Exynos 7420: octa-core processor with 4x 2.1GHz Cortex-A57 and 4x 1.5GHz Cortex -A53, Mali-T760MP8 GPU, 3GB of RAM</paragraph>
+			<paragraph>21MP Sony Exmor RS IMX230 camera sensor with two-tone LED flash, 1080p video recording @30fps</paragraph>
+			<paragraph>5MP front-facing camera with 1080p@30fps video recording</paragraph>
+			<paragraph>32GB of built-in storage; expandable via a microSD slot</paragraph>
+			<paragraph>Cat. 6 LTE (300/50Mbps); Dual SIM; Wi-Fi a/b/g/n/ac; Bluetooth 4.1; GPS/GLONASS/Beidou; USB Type-C port, USB On-The-Go</paragraph>
+			<paragraph>Active noise cancellation via a dedicated mic</paragraph>
+			<paragraph>3,050mAh battery with 24W mCharge 2.0 (up to 65% battery capacity in 30min)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No 4K video recording, unlike the Android version</paragraph>
+			<paragraph>The mTouch Home button with a fingerprint scanner is present but does not work under Ubuntu yet</paragraph>
+			<paragraph>No FM radio</paragraph>
+			<paragraph>No IR blaster</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Meizu PRO 5 might be almost a year old now, but it is still a gorgeous and exquisite flagship device. The only real question is, could Meizu have possibly made it better by ditching the tried and true Android and by taking a shot on Ubuntu - a rarity on the smartphone scene to say the least. But, we won't dive into that quite yet.</paragraph>
+			<paragraph>First up, lets quickly recall what the Meizu Pro 5 offers users and what made it stand out from the otherwise excellent MX5 model. The Pro moniker usually stands for a bigger screen, flagship chipset and greater camera, and the Meizu Pro 5 bumps exactly those features over the MX5. Plus, we get the trending 2.5D screen glass to complete the aluminum unibody, which is very welcome.</paragraph>
+			<paragraph>But besides its gorgeous appearance, the Meizu Pro 5 also offers flagship 2015 specs. It has a phablet-sized 5.7-inch, 1080p AMOLED display. Power is also ample in the Pro 5 even by today's standards, thanks to the Samsung-made Exynos 7420 SoC, that went into the Galaxy S6 lineup as well, plus 3GB of RAM, 32GB of storage and a Sony IMX230 camera sensor.</paragraph>
+			<paragraph>Overall, all the bits and pieces that made the Meizu Pro 5 great are still present, but even on paper, we can already see quite a lot of compromises brought about by the new OS in the Ubuntu Edition at hand. The camera has lost its high-res video support, which might actually be the least of its problems, but more on that in the dedicated section.</paragraph>
+			<paragraph>The lack of fingerprint support is undoubtedly a whole lot more disappointing when you are fully aware that the hardware is there, the software just doesn't want to play nice with it.</paragraph>
+			<paragraph>Unfinished as it may be, however, it is also worth noting that Ubuntu Touch was first announced back in 2011 and the first Developer Edition saw the light of day in 2013. So, the OS itself isn't quite so young in the traditional sense of the word. Thus, even though we acknowledge its developing nature, we also have reason to expect at least some modern-day features on the Meizu Pro 5 Ubuntu Edition.</paragraph>
+			<paragraph>But, before we continue reminiscing over lost features and potential, follow along in the next section to stop and appreciate the gorgeous exterior and exquisite build quality of the Meizu Pro 5.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Meizu Pro 5 Ubuntu Edition<subsectionTitle>
+			<paragraph>The Meizu Pro 5 comes in a premium black box, but albeit the nicely looking package, it doesn't come with extra accessories - we only got a USB Type-C cable, a charger plug. The package is actually identical to the one the Android Pro 5 ships in, the only difference being a white Ubuntu sticker on the front. Also, there were no headphones included in the bundle this time around.</paragraph>
+			<paragraph>The good news is Meizu was kind enough to provide buyers with a proper 2A fast charger so the Pro 5 owners will be able to quickly refill the battery - up to 65% in just 30 mins.</paragraph>
+			<paragraph>Looking at the Meizu Pro 5 yet again, we instantly got the same overwhelming feeling of similarity to the iPhone 6s Plus. This is a parallel we drew in the Original Pro 5 review as well and the overall resemblance is almost uncanny.</paragraph>
+			<paragraph>Still, as a quick reminder, Meizu did manage to fit a bigger 5.7-inch display in the Pro 5 and still keep its footprint a bit smaller than that of Cupertino's phablet.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware<subsectionTitle>
+			<paragraph>Speaking of dimensions, the slick metal body of the Meizu Pro 5 Ubuntu Edition is directly borrowed from its Android counterpart and still measures 156.7 x 78 x 7.5 mm. It also weigh in exactly the same at 168g, which is also natural, since the pair share the same internals as well - the only real difference being software.</paragraph>
+			<paragraph>Meizu Pro 5 Ubuntu Edition looks a lot like the beautiful MX5, though the manufacturer refined the design with minor, but notable tweaks. The result is a polished and well build flagship, capable of getting the crown in any smartphone beauty pageant.</paragraph>
+			<paragraph>The Pro 5's whole shell, just like the MX5, is made out of brushed aluminum. The only plastic elements are the rear antenna bands around the top and bottom, which are still a mandatory requirement for proper signal strength.</paragraph>
+			<paragraph>Unlike the MX5 with its traditional flat glass front, the Pro 5 utilizes a 2.5D finish, which was still a cool new concept last year. Now, it is a lot more widespread, but still looks exceptionally gorgeous on the Pro 5 and is a great fit with its chamfered edges.</paragraph>
+			<paragraph>The entire front is covered with a Gorilla Glass 3 piece and the tiny screen bezels are all black, but the rest of the front on the golden Pro 5 Ubuntu Edition is white with a gold ring accent around the home button. It is by no means a bad color choice, but on the silver Pro 5 we initially reviewed, the entire front had a solid black finish. When the display was turned off you couldn't really tell the black frame from the AMOLED screen which was really nice. You can still get that effect on the Ubuntu model if you pick the right color option from the available Gold, Grey, Black Silver and White Silver.</paragraph>
+			<paragraph>The build quality is excellent, as expected and so is handling. The grip is very good thanks to the brushed aluminum and the only issue some might have with it is that it tend to pick up fingerprints.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Control set of the Meizu Pro 5 Ubuntu Edition is exactly the same as the one on its Android counterpart and is actually quite traditional, so we won't get into too much detail.</paragraph>
+			<paragraph>On top of the display is the earpiece, the selfie camera and some sensors. There is also an LED notification light on the left side, hidden away under the front and absolutely invisible when off.</paragraph>
+			<paragraph>The bottom has the mTouch fingerprint scanner/Home button combo. This key is both a touch and a hardware button so it will respond to both a press and a touch, or at least it should and does so on the Android version of the device. This is just one of the many beefs we have with the Ubuntu Edition we are yet to talk about, but it is probably one of the most annoying.</paragraph>
+			<paragraph>While using Google's mobile OS, this button presented a clever control scheme - one tap means Back, a physical press acts as a Home key. This has allowed Meizu to completely do away with other buttons on the front and it is an elegant solution. The problem? Turns out Ubuntu currently doesn't support the fingerprint reader, as well as the light tap functionality. This often creates weird situations while navigating menus on the phone with no apparent way to go back on some interfaces.</paragraph>
+			<paragraph>The ejectable tray is on the left-hand side of the phone and it can house either two nano-SIM cards or a single SIM plus a microSD memory card.</paragraph>
+			<paragraph>The metallic volume rocker and power/lock key are on the right.</paragraph>
+			<paragraph>The Pro 5 puts the audio jack on the top of the device, accompanied by the second mic. The primary mic, the new USB Type-C port and the loudspeaker are all on the bottom.</paragraph>
+			<paragraph>Finally, the back of the Pro 5 is where the Sony's 21MP IMX230 sensor is, coupled with a dual-LED dual-tone flash. The small black plate around the flash covers the laser, which is used for a fast and more accurate auto-focus in the dark.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>As you could have probably guessed it, 5.7-inch AMOLED panel on the Pro 5 Ubuntu Edition is also identical to the one in its Android sibling. This means a resolution of 1080p, which might not sound all that impressive, now that QHD is quickly gaining popularity, but in reality, 386ppi is plenty for crystal clear, sharp images even on this diagonal.</paragraph>
+			<paragraph>While the contrast is as good as an AMOLED screen can offer, the brightness isn't on par with what the Galaxy Note series offers for instance. AMOLED units aren't known to be very bright to begin with, but the Pro 5 is around average.</paragraph>
+			<paragraph>The sunlight legibility is great though and you'll have no problem seeing what's happening on the screen even under bright sunlight.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Meizu Pro 5 Ubuntu Edition supports LTE Cat.6 connectivity and you can tap to an LTE network on either SIM, but the other will default to a GSM band.</paragraph>
+			<paragraph>The second SIM slot can be used for a microSD memory card instead of a SIM card, just like on the regular Pro 5.</paragraph>
+			<paragraph>The rest of the wireless connectivity features include dual-band Wi-Fi a/b/g/n/ac support and Wi-Fi Direct. There is also support for Bluetooth 4.1, NFC, and GPS and GLONASS.</paragraph>
+			<paragraph>The Meizu Pro 5 Ubuntu Edition utilizes a USB Type-C connector, on top of USB 3.1. The cable supplied with the phone ends on a USB 2.0 reversible plug though. Dealing with Type-C connections is still a bit of a hustle and in order for everything to work theoretically, a Type-C connector needs to sit on either end of the connection. However, there are also software requirements for things like reversible host connections to work that we can't imagine Ubuntu is going to meet any time soon.</paragraph>
+			<paragraph>USB host does work out of the box on the Pro 5 Ubuntu Edition. All you need to get is a third party adapter for a couple of bucks and you can easily mount a thumb drive or a SD card.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Just like its Android counterpart, the Meizu Pro 5 Ubuntu Edition is equipped with a 3,050 mAh battery. Also, considering both utilize the same Exynos 7420 SoC, one could only expect that the pair will excel equally in the battery department. Sadly, that is not the case.</paragraph>
+			<paragraph>Whereas the original Pro 5 scored a very respectable 95 hours of endurance rating in our tests, the Ubuntu-powered variant managed only 43 hours and even less with two active SIM cards installed. This is definitely one of many areas in which the still young mobile OS falls short in terms of optimization. This is especially true when it comes to standby battery draw. Our unit drained a whopping 24% over a period of just 17 hours, doing nothing more than sitting around with its display off and connected to the cell network and office the wireless access point.</paragraph>
+			<paragraph>The rest of the tests, including browser, call and video playback all proved more draining on Ubuntu Touch than Flyme OS, but the difference wasn't quite as severe. Hopefully, this can be patched in future OS updates and through app optimization, as we know for a fact that the Meizu Pro 5 is capable of a lot longer endurance times.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Ubuntu Touch<subsectionTitle>
+			<paragraph>But let's not beat about the bush any longer - after all, Ubuntu is the reason why we're reviewing the Meizu Pro 5 all over again. We have already established that the Pro 5 is still an exquisite piece of hardware even a few months after its release, but how well does it mix with Canonical's ambitious but very much experimental platform? The short answer is that it's a disappointing experience from a user's friendliness point of view. "Unpolished" is perhaps the more accurate description of our initial feelings, but upon further observation, Ubuntu Touch just seems too ambitious for its own good and not very well though out from a user's standpoint.</paragraph>
+			<paragraph>But, let's not get ahead of ourselves, as this is not just another Android-based OS and perhaps some extra back story is needed. The Meizu Pro 5 is one of the very few devices, and currently the most powerful one, that runs Ubuntu Touch. The OS is also referred to as Ubuntu Phone and sometimes even Ubuntu Mobile, although the latter is an old inactive project. As already mentioned, it is developed by Canonical - the guys behind Ubuntu, which is still the most popular end-user Linux distribution, mostly because of its approachability.</paragraph>
+			<paragraph>In its essence, Ubuntu Touch is a touch-optimized interface that runs on top of a regular Ubuntu build - v15.04 at the time of this review. The idea behind such a design, as you might have guessed it, is to have one common platform for which you can develop applications using the same set of tools and then have them run on any device. Sound familiar? It should, as it is basically what Microsoft has done with Windows 10 and the Universal apps platform. However, it is worth noting, that Canonical has been working on the idea way before Microsoft sunk its teeth into it, but, sadly, it hasn't gotten any love from third-party developers so far.</paragraph>
+			<paragraph>After quite a few years of development, the system does seem to work, with a few core apps like the Browser, Calendar, Clocks, Gallery, Notes, Reminder, Weather and even the Terminal, practically sharing the same code between desktop and mobile. The list, however, is very short and popular online apps and services are missing, which is one of our other main beefs with the OS in its current state as a daily smartphone driver. The rest of our frustrations lie with the Ubuntu Touch UI itself and some of its odd design and navigation choices.</paragraph>
+			<paragraph>Before we kick off the guided tour of Ubuntu Touch, we have to stop and appreciate its appearance. Despite its many faults, the interface is truly gorgeous. Animations are slick and smooth as well as abundant. The color scheme, fonts and control graphics just flow together naturally and create a really different experience, quite unlike your average Android or Apple device.</paragraph>
+			<paragraph>The first thing you encounter on the Ubuntu model of Meizu Pro 5 is the lock screen. It shows a summary of the user's recent events and the current status of the device and features a memorable circle design that represents activity since the beginning of the month. It is likely what most users associate Ubuntu Touch with.</paragraph>
+			<paragraph>But, once you unlock the device, things get a little bit confusing and unfamiliar. There is no conventional home screen or app locker, which one would naturally attempt to search for. A core part of Ubuntu Touch is what Canonical has dubbed Scopes. They can be best described as interactive screens, intended to present information and functionality from apps. Some group many relevant apps together under categories like News, Music or Photos, while others are only generated and populated with data from a single app. These tend to get overcrowded and often hard to swipe in-between due to the sheer number of on-screen controls that can be accidentally hit.</paragraph>
+			<paragraph>Yet, this is the main unit of organization Ubuntu Touch has to offer. The whole system gets even more confusing since there are a few special Scopes that are definitely more vital than other. One is the Today screen, which you can customize to show a mixture of most core apps within the phone, including cellular features like calls and messaging. Then there is the apps Scope, which is about as close as you will get to an app drawer.</paragraph>
+			<paragraph>The apps Scope houses all your currently installed apps with the most important core system ones separated on top and the rest arranged alphabetically below. Creating folders or rearranging stuff is not possible, which is a definite minus, but at least there is a search bar. More apps can be downloaded through the Ubuntu Store with a very limited selection. But more on that in a bit.</paragraph>
+			<paragraph>Let's talk about basic navigation. As already mentioned, Scopes are a big deal here and they can come from various places - some are system specific, others stem from core apps and then there is also the occasional third party app that has gone the extra mile and has one. Ubuntu Touch allows you to select and rearrange the swipe-able list of Scopes that serve as your main interface any way you like. This is done through a menu that appears by swiping up. This gesture often pulls up config menus across apps as well. Still, you might want to keep the Apps or Today one close at hand. It also looks like Ubuntu Touch allows developers to implement an app with only a Scope, which means it appears in the aforementioned config, but not the App screen...</paragraph>
+			<paragraph>And if you thought things were confusing up until this point, the rest of the gestures don't help either. Swiping down lowers a notification and quick toggle shade, which looks familiar. However, Canonical's tab arrangement is somewhat odd.</paragraph>
+			<paragraph>The rotation lock toggle, for instance, gets its own tab for some reason, and so do the time and date. Also, brightness settings are placed under Battery and there is a constant media player control just sitting there in the Sound tab. Quite a mess, but still beautifully executed and animated.</paragraph>
+			<paragraph>But swipe gestures don't stop there. In its attempt to simplify navigation, Canonical has definitely went overboard with gesture input. Swiping one from the left brings out a menu most desktop Ubuntu users will be familiar with. It can be best described as a task bar with quite a few pinned apps by default and a view of what apps are currently active. It is definitely convenient for quick switching, however, what is not immediately apparent is that this is not the only thing hiding behind the left swipe. If you start on the left side and simply continue past said menu once it appears, you minimize the current app. This might sound like nothing you would ever use, but since, as already mentioned it, Ubuntu does not support the tap input on the Meizu Pro 5's home button. Effectively, there is no easy way of backing out of an app or settings screen, without pressing the actual button and going to the Today scope as there is no dedicated Back key on the phone.</paragraph>
+			<paragraph>Thus it's clear that the Meizu Pro 5 is not equipped well enough to allow user-friendly Ubuntu operations - it's missing a proper key navigation arrangement. Things get even worse once you consider that minimized apps don't tend to close themselves and linger working in the background, which can't be good for the battery life.</paragraph>
+			<paragraph>What about swiping from the right you ask? Well, you are going to love this one. We already explained the difficulty one can experience while scrolling through the Scopes, which will typically be done from right to left. If, however, you start from the edge of the display and do a fuller swipe in the same direction, you unveil a 3D task switcher interface. Yet again, like most other UI elements in Ubuntu Touch, it looks visually stunning. The animations are smooth and the effect just looks great. You can also swipe up or down to close apps from here, but no mass close option is available.</paragraph>
+			<paragraph>And just when you thought it was over, turns out a quicker swipe from the right edge of the screen inward works like Alt + Tab on a PC - switching between your last two apps, while skipping the abovementioned interface.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony and messaging<subsectionTitle>
+			<paragraph>So, we established that Ubuntu Touch offers a pretty, but not so user-friendly experience. The occasional stutters and hit and miss update system on the Meizu Pro 5 don't help either. But what about apps, how functional is the OS? Well, thanks to a lot of hard work from Canonical, all the basics are covered, but sadly, barely anything beyond that. And we do mean it.</paragraph>
+			<paragraph>Calls work fine, as expected and so do messages. Nothing special really. The same goes for contacts. The Meizu was a little hesitant to read the SIM contacts, but managed to pull through eventually. It is also a nice touch to see Google contacts import, which is kind of vital at this point.</paragraph>
+			<paragraph>The Meizu Pro 5 Ubuntu Edition held on to signal pretty well, just like its Android counterpart. We also found the speaker to be nice and clear and exactly as loud as the one in its sibling.</paragraph>
+			<paragraph>Speaking of Google, perhaps this is as good a time as any to mention that there is practically no support for Google services on Ubuntu Touch (other than the aforementioned contacts import, of course). The Meizu Pro 5 does come with an app titled Gmail, but it is nothing more than a shortcut that opens up to web interface. We searched around for other third-party alternatives as well, but the story is pretty much the same with all Google services - the best you can hope for is an app with convenient shortcuts to websites.</paragraph>
+			<paragraph>Still, e-mail is not a drama, as there is the popular Dekko client thrown in the mix and you can just add your Gmail account there. Or any other IMAP, SMTP, POP3 account for that matter.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Other apps<subsectionTitle>
+			<paragraph>Sadly, the web interface approach is not exclusive to Google by any means. The default selection of apps on the Meizu Pro 5 does deceitfully also include things like Facebook and Ebay. Both, however, as you probably already guessed, are nothing more than dressed-up website shortcuts.</paragraph>
+			<paragraph>It is, at least, encouraging to see that most native apps that Canonical had involvement with tend to work and look nice. The gallery is stable and definitely usable, although a bit basic in its functionality.</paragraph>
+			<paragraph>Mostly the same goes for the default browser. Still, we had no rendering or performance issues whatsoever using it, so it is reliable.</paragraph>
+			<paragraph>Interestingly enough, most small apps within Ubuntu Touch seem to be really polished. The clock and alarm app and calculator all work as expected and look the part.</paragraph>
+			<paragraph>Canonical seems to have invested a lot of time in the Calendar and tasks app in particular. Both offer an impressive set of options, especially for setting reminders. There is also support for importing Google calendars - another nice little touch.</paragraph>
+			<paragraph>Notes are equally impressive, but this time around with support for integration with Evernote.</paragraph>
+			<paragraph>The weather app also deserves a shout-out for its attractive design.</paragraph>
+			<paragraph>For maps, you actually get two options out of the box. Here maps is one, but it seems to have some issues. uNav on the other hand looks and works great. It is smooth and even has voice navigation.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Benchmarks<subsectionTitle>
+			<paragraph>As you can probably guess by now, finding usable and relevant synthetic benchmarks for an OS that essentially has only a single set of bare-minimum apps to cover essential functionality is, if not impossible, nearly close to being so.</paragraph>
+			<paragraph>Still, there is always web performance to evaluate and we did try our best. Mozilla's Kraken 1.1 (JavaScript) managed to run to the end and actually gave a respectable score.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+			<paragraph>Testing on BrowserMark, on the other hand, was quite bad so we're not going to post the results here. It must surely be some sort of an incompatibility or a bug to blame.</paragraph>
+			<paragraph>Well, so much for benchmarks. You really only need a couple of minutes using the Meizu Pro 5 Ubuntu Edition to gauge its performance first-hand - it's frustratingly slow by current smatphone standards. Most apps, even the most basic ones like the clock and calculator, can take up to 10 seconds to load up.</paragraph>
+			<paragraph>But, even if you are ok with waiting times, there is still the issue with the extremely limited app selection at this point in time.</paragraph>
+			<paragraph>We already covered voice calls, texting and emailing, but what about instant messaging. We tend to use Skype a lot as well as Google Hangouts, sometimes WhatsApp and of course Viber. Well, none of these has a native client available. Of course, there are the web versions of said apps, but that means no notifications and worse yet, Viber is a no-go entirely.</paragraph>
+			<paragraph>Well, how about some music while on the go. Naturally, there is a Music player for locally stored music, courtesy of Canonical and it works and it looks great.</paragraph>
+			<paragraph>What about streaming? Spotify? Pandora? Google Play Music? No, there is none of that... But, oddly enough, there is something in the Ubuntu Store simply called Cloud Music. It crashes from time to time, but when it does work, we were able to find and play almost anything we could think of, complete with album art and metadata.</paragraph>
+			<paragraph>Fancy a quick YouTube video? Well, there is a YouTube app, actually quite a few, but even the official one seems to be a Webview for the website itself and it also tends to hang and crash a lot.</paragraph>
+			<paragraph>Even if we stop here, the conclusion seems pretty obvious. However, in a last attempt to find a silver lining to this cloud, we decided to check out how games are on the Ubuntu Touch. Honestly, in one word, the games are of the most basic type. And we'll just leave it at that.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Powerful 21MP camera<subsectionTitle>
+			<paragraph>The camera setup is yet another thing the Meizu Pro 5 Ubuntu Edition inherits directly from its Android sibling. This is definitely a good thing, as the hardware, powering the main shooter, is the Sony IMX 230 sensor with 21MP resolution - a flagship-grade offer from 2015. It is capable of impressive 5312x3984px snaps in 4:3 aspect. The auto focus uses a hybrid system, incorporating phase detect auto focus in addition to the regular contrast detect system. The camera also features a laser-assisted auto-focus, which should help the sensor take snapshots in the dark.</paragraph>
+			<paragraph>There's also a dual-tone LED flash, which should produce more natural flash photos.</paragraph>
+			<paragraph>Sadly, this is where the "if"-s start coming in. The camera might be impressive from a hardware standpoint, but the use of Ubuntu Touch has brought about quite a few notable compromises in this area as well. First of all, the Ubuntu Edition can only shoot video at a maximum resolution of 1080p. This is a sad reality, since both the sensor and chipset are more than capable of handling 4K video capturing, so the fault lies entirely within the software.</paragraph>
+			<paragraph>Speaking of which, the camera app on the Meizu Pro 5 Ubuntu Edition is really basic in its feature set. On the plus side, the interface itself is rather simplistic and straight-forward, which is not a bad thing. However, when compared to the amount of options and fine controls offered by the Flyme OS counterpart, the full extent of the compromised camera experience really becomes clear.</paragraph>
+			<paragraph>For example, Android Meizu Pro 5 offers a total of eight shooting modes - Auto, Manual (where you can set longer shutter speeds (up to 420s!), ISO, exposure compensation and even the focus - from macro to infinity), Beauty (which can make eyes bigger, faces slimmer, skin smoother and whiter), Panorama, Light field (which is Meizu's refocus app allowing you to put the focus in any part of the image or have it entirely in focus), Scan (for QR and barcodes), Slowmotion and Macro.</paragraph>
+			<paragraph>With Ubuntu Touch, on the other hand, all you get is a photo mode and a video mode, that's it. Even panorama shots are absent.</paragraph>
+			<paragraph>As for settings, you get a simple grid, basic flash setting, times, location tags and shutter sound. The quality can be adjusted and you can also switch between 4:3 for the full resolution or 16:9, which caps out at 15.9MP.</paragraph>
+			<paragraph>As for quality, it is a mixed bag and again, it looks to be the software pulling the overall experience back more than anything else. Last year, when we tested the original Android-powered Meizu Pro 5, we were truly stunned by the amazing quality of the shots it produced. All the samples had top-notch resolved detail, excellent dynamic range, contrast, white balance and color rendition. The natural dynamic range of the photos was so impressive that we couldn't really tell when we forced HDR manually.</paragraph>
+			<paragraph>In contrast, with Ubuntu on board, the Pro 5 is struggling to keep up. Even something as simple as auto focus, doesn't really work most of the time. But even when we did manage to focus, real-life results were less than spectacular, with washed-out colors and poor edge to edge sharpness.</paragraph>
+			<paragraph>However, when we decided to put the phone through our standard testing procedure and provide it with proper lighting, no movement and as many attempts an necessary to get the focus right, the true flagship, high-end nature of the Sony IMX 230 still managed to shine through all the software imperfection. Under these conditions, the Pro 5 Ubuntu Edition managed to replicate the same sharpness and impressive level of resolved detail as its Android counterpart.</paragraph>
+			<paragraph>Finally, you can check out a 5MP image taken with the front-facing camera of the device. It doesn't shine with too much detail but it would do a fine job for selfies.</paragraph>
+			<paragraph>Overall, the camera seems to be yet another aspect of the excellent Meizu Pro 5, that suffers from Ubuntu Touch and its growing pains. Even worse, unlike Android, there doesn't seem to be any camera app alternative for Ubuntu Touch at the time being.</paragraph>
+			<paragraph>We already touched briefly upon video capture and one of its obvious shortcomings. Interestingly enough, however, the lower resolution cap isn't even the worst one on the list. In its current state, manual focus and exposure upon tapping a subject on the display seems to trigger some bug and the camera ends up capturing a badly interlaced stream of the two halves of the viewfinder. It's almost like a case of 3D capture gone bad.</paragraph>
+			<paragraph>On the interface side of things, you get the same clean, but very bare-bone approach as with stills.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Meizu Pro 5 Ubuntu Edition key test findings<subsectionTitle>
+			<paragraph>A gorgeous device with exquisite design and impressive built quality</paragraph>
+			<paragraph>Easy enough to hold in one hand, despite its 5.7-inch panel, also a pleasure due to its metal exterior</paragraph>
+			<paragraph>The screen is an excellent AMOLED panel with average brightness for the technology but nonetheless, great outdoor visibility. Color fidelity may not be its forte, but the colors look well as punchy as they are.</paragraph>
+			<paragraph>Battery life is underwhelming for the battery size, likely due to poor software optimization on Ubuntu Touch</paragraph>
+			<paragraph>Ubuntu Touch looks gorgeous all throughout, but the selection of software is really poor and so is overall performance.</paragraph>
+			<paragraph>The phone's otherwise excellent hardware, including an Exynos 7420 Octa SoC, like the one in the Samsung Galaxy S6 and 3GB of RAM are severely underutilized by Ubuntu Touch. Both synthetic benchmarks and real-world performance are bad.</paragraph>
+			<paragraph>The lack of software support for Meizu's mTouch button is not only annoying due to the absence of fingerprint support, but also, since the single tap gesture is intended to work as a back button, its absence is also a notable nuisance when navigating menus on the Meizu Pro 5 Ubuntu Edition</paragraph>
+			<paragraph>The 21MP Sony IMX 230 camera on the Meizu Pro 5 is also severely crippled by Ubuntu Touch. Photo quality is noticeably inferior than on its Android sibling. There are almost none user-accessible modes, controls or fine tuning options and even basic things like auto focus and exposure control don't always work.</paragraph>
+			<paragraph>Video capture is limited to only 1080p by Ubuntu Touch, even though the chipset and camera are capable of 4K video capture. Options, modes and controls are just as limited as for still shots. There is a serious bug in the camera app that often produces corrupt and unusable video files.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>We have to admit that at least a few of us over at the office had high hopes about the Meizu Pro 5 Ubuntu Edition. After all, the hardware has already proven its worth in powering a splendid Android smartphone experience and if Ubuntu Touch ever had a chance to spread its wings and truly impress, it would definitely be through such a capable device. However, despite the open mind and our best efforts, there is no way around it, in its current state, at least, Ubuntu Touch has done nothing else, but spoil an otherwise excellent ex-flagship.</paragraph>
+			<paragraph>Now, to keep things on a slightly more positive note, we can't fail to acknowledge all the hard work Canonical has done over the years and appreciate the potential of having a unified cross-device experience, powered by a full Linux shell with the convenience of an Ubuntu wrapper on top. Experimenting with new concepts and battling it out through the tough initial stages is never easy and in the absence of major third party support for Ubuntu Touch over the years, it is encouraging to see that companies like Meizu and BQ are trying to experiment with new ideas.</paragraph>
+			<paragraph>Overall, if we have to evaluate the Meizu Pro 5 Ubuntu Edition as a smartphone in its current state - it will undoubtedly be a major disappointment for casual users out there. However, as a prospective development platform for somebody that is truly invested in Linux and wants to work at its improvement and bright future on mobile devices, there is probably no better place to look at the moment. And, we are confident that to the right person, the Meizu Pro 5 Ubuntu Edition will appeal even in its crude state as an ideal and powerful blank slate for experimenting with new ideas.</paragraph>
+			<paragraph>As far as most other users are concerned, however, a good analogy for the Meizu Pro 5 Ubuntu Edition would be being handed a katana to use around the kitchen. You probably know about it and how powerful it is, you know true masters can do amazing things with it, yet, all you want to do is cut some salad and you really don't feel like loosing a hand with an unwieldy tool that looks great but it's not easy to handle.</paragraph>
+			<paragraph>At the moment, Ubuntu Touch is a cool and exciting concept and we do sincerely hope it realizes its potential at some point in the future. Currently, it's hardly suited as a daily driver on your mobile device, unless you really know what you are getting into. As for the Meizu Pro 5 - it is still a gorgeous and powerful device on its own, just be sure to opt for the Flyme OS version or don't say we didn't warn you.</paragraph>
+		</subsection>
+	</page>
+</review>

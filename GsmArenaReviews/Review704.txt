@@ -1,0 +1,329 @@
+<review>
+	<title>Huawei Mate 8 review</title>
+	<description>Checkmate</description>
+	<link>http://www.gsmarena.com/huawei_mate_8-review-1367.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Huawei Mate 8 key features<subsectionTitle>
+			<paragraph>Hybrid DualSIM/microSD card slot (up to 128GB)</paragraph>
+			<paragraph>Aluminum unibody, diamond-cut beveled edges, sandblasted satin back finish</paragraph>
+			<paragraph>6" 1080p IPS LCD capacitive touchscreen, 368ppi</paragraph>
+			<paragraph>HiSilicon Kirin 950 chipset: octa-core CPU (4xCortex-A72 @ 2.3GHz plus 4xCortex-A53 @ 1.8GHz), Mali-T880 MP4 GPU</paragraph>
+			<paragraph>3GB of RAM/32GB of built-in storage, or 4GB/64GB;</paragraph>
+			<paragraph>Android 6.0.1 Marshmallow, Huawei EMUI v4.0 overlay;</paragraph>
+			<paragraph>16MP camera with Sony IMX298 sensor, phase detection autofocus, OIS, f/2.0 aperture; 1080@60fps video recording</paragraph>
+			<paragraph>8MP front camera, f/2.0 aperture; 1080p video recording; wide selfie</paragraph>
+			<paragraph>Cat. 6 LTE (300/50Mbps); dual-band Wi-Fi a/b/g/n/ac, Wi-Fi hotspot, Wi-Fi Direct; Bluetooth 4.2 LE; NFC; GPS/A-GPS/GLONASS/Beidou; microUSB</paragraph>
+			<paragraph>4,000mAh Li-Po battery, fast charging</paragraph>
+			<paragraph>3.5mm headphone jack, active noise cancelation with a dedicated mic</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No 4K 2160p video recording</paragraph>
+			<paragraph>Low-resolution display by flagship phablet standards</paragraph>
+			<paragraph>Non-removable battery</paragraph>
+			<paragraph>Hybrid DualSIM/microSD card slot limits options</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Huawei Mate 8 has dropped the Ascend badge, but it offers all the key pros of the Ascend Mate7 and then some. Coming a year after the Mate7, it was only expected that the Mate 8 will show maturity and address its predecessor's shortcomings, most notably the poor graphics performance and the less than stellar camera output.</paragraph>
+			<paragraph>Huawei's in-house-developed Kirin 950 chipset promises to deliver on the first count, and also brings heaps of CPU oomph. The camera is all-new as well - with a larger, higher-res sensor and phase detection autofocus and optical image stabilization.</paragraph>
+			<paragraph>And while the Mate7 was a premium device to begin with, the new iteration looks even more refined. The Mate 8 has an unmatched high-end vibe, thanks to precision-machined metal and glass components, and sharper, bolder edges.</paragraph>
+			<paragraph>Then again, a few things haven't changed. The display is still 1080p, which was a bit of a stretch for a 2014 flagship and is even more so now when the competition has moved to QHD resolution on even smaller diagonals. Huawei insists that's as many pixels as you need at this size, and the tradeoff in battery life and processing power required isn't worth it. Oh, well.</paragraph>
+			<paragraph>Other than that, we're glad that the large battery is still in place, the fingerprint reader placement and its always-on implementation are also as nice as ever. And there's little to complain about having a 6-inch display in a body as compact as the Mate's.</paragraph>
+			<paragraph>We were willing to let it slide that the Mate7 couldn't record 4K video, but a year later, it's quite simply unacceptable for a flagship. The 60fps at 1080p resolution is of little consolation when the chipset is clearly plenty powerful to handle 4K video.</paragraph>
+			<paragraph>The display we already mentioned and the rest are more or less par for the course lately. Flagships with a removable battery are a dying breed, and dedicated microSD slots are steadily making way to the hybrid variety if they are available at all.</paragraph>
+			<paragraph>But a smartphone is a lot more than the sum of its features (or the lack thereof), and we're not in the habit of relying on the spec sheet alone. We'll be proceeding with the full review on the following pages, with a look at the Mate 8's hardware first on the list.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Huawei Mate 8 360-degree spin<subsectionTitle>
+			<paragraph>The Huawei Mate 8 measures 157.1 x 80.6 x 7.9 mm which is very compact for a 6-inch smartphone. It is, in fact, 4.2mm shorter than the 5.7-inch Huawei-made Nexus 6P, and a millimeter shorter than the iPhone 6s Plus, which only has a 5.5-inch display. The LG V10, depending on how you treat its two-piece display, could come the closest in terms of screen-to-body ratio, but it's still behind the spectacular Mate 8.</paragraph>
+			<paragraph>The 185g weight is just right, given the combination of display diagonal, battery capacity and metal body. The Nexus 6P, for example, has both a smaller display and a smaller battery and is only 7g lighter.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>The Huawei Mate 8 is one seriously good-looking smartphone. It's like a tuxedo in a world of jeans and sweaters. It clearly means business. It's what the BlackBerry Priv should have been instead of the wobbling plasticky mess it is.</paragraph>
+			<paragraph>However, all of this could have easily been said of the smaller Mate S, with which the Mate 8 shares a lot of design clues. What the Mate 8 brings on top of the S is sheer size, and for some, that's what matters the most.</paragraph>
+			<paragraph>The Mate 8 features an aluminum unibody, well befitting its flagship status (and price, too). The back is sandblasted, Huawei states in press material, for a fine satin finish. It's by no stretch fingerprint-friendly, and you can only see the occasional mark when you hold it up to direct light.</paragraph>
+			<paragraph>The mandatory antenna bands top and bottom are quite slim, and their tint is very much the same as the one of the actual metal, so as far as antenna bands go, these are among the less-disturbing ones. That said, the Mate S may even deserve an extra half-point for style in this respect if we gave points.</paragraph>
+			<paragraph>A polarizing aspect of the Mate 8's design, the two circular elements on the back (camera lens and fingerprint sensor) have little in common with the overall square-faced sharp-edged character of the smartphone.</paragraph>
+			<paragraph>The Mate7 and the Mate S used rectangular control elements, and it seemed to work great for them, so you would understand that we were initially baffled as to why Huawei chose to go with circles on the Mate 8.</paragraph>
+			<paragraph>A week later and first impressions out the door, we may be starting to get it. A camera lens is circular to begin with, so in a way, Huawei went back to basics. And then once you have one, the second circle only comes naturally. Of course, there is also the fact that two circles for the number of eight. But perhaps we're digging too deep on this one. Perhaps they just needed it to look different than the Mate 7's rear deck.</paragraph>
+			<paragraph>The camera lens, oversized for stylistic purposes, sticks out just about half a millimeter and it's what the phone rests on when left flat on a table. It doesn't wobble, though, the lens being on the central axis. However, the lens ring on our unit quickly got chipped, which didn't hurt the glass, but does pose the question of the durability of the design.</paragraph>
+			<paragraph>The fingerprint sensor is ever so slightly recessed, similarly to the Nexus 6P, and unlike the deeper crater of the Mate7. The depth is just enough for it to be immediately identifiable with the tip of your finger, though.</paragraph>
+			<paragraph>The front is a typical Mate affair, with some added touches. The area is dominated by the display, all 6 inches of it, with spectacularly minimal bezels on either side. There's a thin black frame around the actual panel, which aims to achieve a bezel-less look, but it can't quite get there.</paragraph>
+			<paragraph>The chin below the display has little function other than providing a stage for the company logo. You can't do without it, of course, there are the USB port and the speaker underneath, and it's also necessary for one simple purpose - handling.</paragraph>
+			<paragraph>What sets the Mate 8 apart from most other smartphones, Huawei's or otherwise, are the edges of the glass. Where most other premium devices, Mate S included, have their glass panels end in an arc (the highly-scientific 2.5D glass term), the Mate 8's glass gets a 45-degree chamfer for a more technical look.</paragraph>
+			<paragraph>The forehead is packed with features, the earpiece behind a central slit. To its right is the 8MP front camera, ambient light and proximity sensors. Ont the far left there's an LED notification light.</paragraph>
+			<paragraph>Unlike the sandblasted back, the frame is treated to a brushed finish with chamfered edges - the Mate 8 is big on chamfers. They make it look and feel a lot thinner than the 7.9mm would suggest, and that's certainly the effect Huawei sought after. The last thing you want is an 80mm wide smartphone that is also 8mm thick at the sides.</paragraph>
+			<paragraph>The right side is home to the power button and the volume rocker. While we're not typically fans of placing both on the same side, here the power button is situated in immediate reach of the right thumb, and the volume rocker requires only a minor adjustment to access.</paragraph>
+			<paragraph>The power button is also textured though it may be too fine for instant distinction. You're likely going to be using the fingerprint sensor for unlocking, so it's not an issue.</paragraph>
+			<paragraph>On the left, there's only the card slot. The tray can take two nano-SIM cards or a nano-SIM and a microSD card but not all three at once. It's better than nothing; it's also not ideal. Manufacturers seem to be set on establishing it as the standard, so we'll just have to deal with it.</paragraph>
+			<paragraph>The top is home to the 3.5mm audio jack and the secondary microphone.</paragraph>
+			<paragraph>The bottom has the microUSB port in the middle (no Type-C for better or worse) with a grille on each side. There's a single speaker behind the right one only, though. The primary mic is in here somewhere too. The two Torx screws hold the phone together, but it's not exactly iPhone style. Instead, the metal back and sides act as a lid covering the insides.</paragraph>
+			<paragraph>When handling the Mate 8, there's no escaping the fact that it's a 6-inch device. But we're talking phablets territory here, and once you've gone big-screen with your phone, you can rarely go back. The Mate 8 is very compact for what it is, thanks to minimal bezels and clever design. That's not to say that you won't be needing both hands most of the time.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>6-inch 1080p display<subsectionTitle>
+			<paragraph>The Huawei Mate 8's defining feature is its 6-inch display. Arguably, 1080p was already a bit outdated around the time when Mate 7 was unveiled; but the Mate 8's screen comes in this same resolution. Hence, it won't win any pixel density awards, but at 368ppi, it's comfortably above what Apple coined as Retina resolution, and should be less taxing on the battery and processor.</paragraph>
+			<paragraph>The Huawei Mate 8 uses an IPS-NEO LCD panel by JDI, which delivers deeper blacks. The Huawei P8 was perhaps the first phone we've seen to come with this tech but today, it no longer looks as spectacular as before. Don't get us wrong, it's still noticeably better than any regular IPS LCD.</paragraph>
+			<paragraph>The maximum brightness level achieved by the screen when displaying white is 471nits, which while not award winning is plenty to go by. The offered contrast ratio is also excellent - 1361:1.</paragraph>
+			<paragraph>Regarding color reproduction accuracy the Mate 8 screen is less than stellar with an average deviation (DeltaE) of 6.1 a bit higher than what we would ideally like. We've seen worse even in flagship devices, so this one sits somewhere in the middle. For a screen to be considered properly calibrated it needs to have a maximum DeltaE of 4.</paragraph>
+			<paragraph>Using the built-in Color temperature slider, we managed to get a better color reproduction (Avg. DeltaE 4.4) by going all the way to the Warm setting, but that came at the expense of slightly lower maximum brightness (450nits).</paragraph>
+			<paragraph>In all cases, the minimum brightness of the screen (10.8) is somewhat too high for comfortable reading in pitch dark if this sort of thing is important to you.</paragraph>
+			<paragraph>The Mate 8's solid performance in our display tests continues into sunlight legibility. A score of 2.949 is a very good achievement for an LCD panel and emphasizes another strong point of the IPS NEO tech.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>Regarding connectivity, the Huawei Mate 8 is properly equipped. Huawei is very proud, and rightfully so, of the Kirin 950's built-in radio support, which includes up to five 2G bands, ten 3G bands, and eighteen 4G bands. Our variant (NXT-L29) comes with dual nano-SIM slots, and the second one can only tap into 2G networks while the first gets the full cellular connectivity.</paragraph>
+			<paragraph>The Mate 8 supports dual-band 2.4/5.0GHz Wi-Fi 802.11a/b/g/n/ac, with Wi-Fi Direct and hotspot capabilities. Bluetooth is v4.2, where interference issues with LTE networks should be fixed.</paragraph>
+			<paragraph>There's NFC on board, as well as an FM radio. The satellite receiver GPS, GLONASS, and Beidou, so there isn't a corner in the world where the smartphone won't be able to pinpoint your location.</paragraph>
+			<paragraph>A 3.5mm jack provides standard connectivity for wired headphones. There is no Type-C connector on the Mate 8 - a regular microUSB 2.0 provides charging and PC connectivity capabilities. Mind you, it defaults to charge-only every single time you connect it to a PC, and you have to select manually from the notification shade that you want to do something else. It does support USB OTG (without additional actions, like enabling it in settings), but it didn't work with the MHL adapter we had lying around the office.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Huawei Mate 8 battery life<subsectionTitle>
+			<paragraph>The Mate 8 has one of the largest capacity batteries for a major manufacturer high-end phablet. At 4,000mAh, it's a tiny 100mAh less than the predecessor but is still a lot more than current rivals. Huawei's own Nexus 6P comes closest at 3,450mAh, the Lumia 950 XL packs 90mAh less, while the Galaxy Note5, LG V10, and Moto X Style make do with 3,000mAh.</paragraph>
+			<paragraph>While not strictly a flagship, the Oppo R7 Plus matches the Mate 8's diagonal and packs 4,000mAh worth of juice. The Samsung Galaxy A9 (2016) equals the Mate 8 in screen size and battery capacity, while also potentially offering much better performance than Oppo's 6-incher.</paragraph>
+			<paragraph>So, after that quick (ok, rather lengthy) roundup, let's see how the Mate 8 fares in our battery test.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>In a single word - splendidly. The smartphone lasted a comfortable 17 hours running our web browsing script over Wi-Fi and is good for 12 and a half hours of video playback. At nearly 29 hours of 3G voice calls, the Mate 8 leaves little to be desired in any aspect of its endurance. We also like seeing triple-digit overall scores, and there aren't many of those.</paragraph>
+			<paragraph>For a comparison with all of the above (save for the Galaxy A9) be sure to check out our complete battery test table, where you can see how all of the smartphones we've tested will compare under your typical use.</paragraph>
+			<paragraph>We'll just go ahead and mention that the V10, the Nexus 6P, and the Priv die after half the web browsing, time of the Mate 8, and none of the major competitors comes even close in this respect. While well above average, the video playback result of the Mate 8, however, is bested by both the Note 5 and iPhone 6s Plus.</paragraph>
+			<paragraph>It's also worth noting that the Mate 8 comes bundled with a 9V/2A charger for a theoretical maximum output of 18W. Huawei states that it charges the battery from 0% to 100% in two and a half hours, which is quite remarkable. More importantly, in about an hour the battery reaches a 70% charge, which is great if you're pressed for time. Unfortunately there's no form of inductive charging, which we can rightfully complain about on a smartphone this expensive.</paragraph>
+			<paragraph>Make note that our proprietary score also includes a standby battery draw test, which is not featured in our test scorecard but is calculated in the total endurance rating. The battery testing procedure is described in detail in case you're interested in the nitty-gritties.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Marshmallow with EmotionUI ot top<subsectionTitle>
+			<paragraph>The Huawei Mate 8 runs on Android 6.0 Marshmallow, skinned with Huawei's own EmotionUI, in its v.4.0 iteration. Skinned might be putting it mildly, though, as the interface has less in common with stock Android than it does with iOS. EmotionUI has been pretty consistent between versions and recurring Huawei users should feel right at home if upgrading to the Mate 8.</paragraph>
+			<paragraph>There's plenty of stuff going on on the lockscreen, starting with the alternating cover images - every time you wake up the device, you're greeted by a different wallpaper. That's if you opt for the Magazine unlock style. You can also go old-school and pick a single image set to be shown on the lockscreen. Whatever you choose, you likely won't be seeing much of it, as the fingerprint unlock will take you straight to the homescreen.</paragraph>
+			<paragraph>If you do decide to wake up the Mate 8 via the power button, you get a large clock with a date and a shortcut to the camera. You can also quickly start the camera by a double press of the Volume Down button.</paragraph>
+			<paragraph>Back to the lockscreen, you can pull up an iOS-style menu from the bottom, where you get yet another camera shortcut, but also quick access to the flashlight, calculator and voice recorder. If you've chosen the magazine style lockscreen, the pull-up menu will give you eight more options for control over the changing covers.</paragraph>
+			<paragraph>Beyond the lockscreen we find a fairly standard Android homescreen with any number of customizable shortcuts between 0 and 5, which are docked at the bottom and are visible on all homescreens.</paragraph>
+			<paragraph>There are eighteen (!) homescreen panes at most - we figured they'd be 9 as on the Mate S, but thought we'd double check and started regretting it past the dozen. With the Mate 8 targeted at the power user, Huawei has made sure said user will have enough space for apps and widgets.</paragraph>
+			<paragraph>Mind you, we're not saying shortcuts, but apps. As is customary for Chinese-made Android UIs, there is no app drawer like there would be on vanilla Android, or on other manufacturer's overlays.</paragraph>
+			<paragraph>A pinch on the homescreen triggers the familiar Overview mode to let you check out and organize the homescreen panes currently in use, remove or add panes as you please. Widgets are available too - it's mostly the stock Android ones, but Huawei has thrown in some of its own as well. If you like your homescreens neatly organized, you can enable the shake feature, which will arrange scattered apps starting from the top left.</paragraph>
+			<paragraph>Themes are available as well. A theme will change your homescreen wallpaper, lockscreen style, system and app icons, system font, system color and the sound profile. You can also adjust things like homescreen transition effects. However, for the life of us, we couldn't find a link to an online store of themes, and there are just six pre-installed.</paragraph>
+			<paragraph>The notification area has two panes - one that holds all notifications sorted in a timeline, and another for all of your quick toggles.</paragraph>
+			<paragraph>The Huawei Mate 8 features an iOS-like task switcher that lets you swipe up and away unwanted apps. A downward swipe locks the app so that when you hit the Kill all button, it remains open. That's nifty if you are trying to free some RAM for a particular app or game.</paragraph>
+			<paragraph>For certain scenarios, like in-car use, you can enable a Simple homescreen mode, which features large tiles for easy tapping. It's not particularly consistent, though, offering simple version of some menus, but not others - the dialler is the same size as in regular mode (in all fairness it's fairly oversized to begin with).</paragraph>
+			<paragraph>A system-wide scale setting is available from within the display options, the Medium option enabled by default. We'd go with Small as the interface could be quite wasteful otherwise, but if you have trouble seeing tiny menu elements, do go for Large, the option is there. Additionally, you can independently set the font size (you'd be surprised to find out that the default is "Normal").</paragraph>
+			<paragraph>Huawei had granular control over app permissions before it was cool, and there's no reason to change that, now that the feature comes as a part of latest Android Marshmallow.</paragraph>
+			<paragraph>The Mate 8 features a notification center, from which you can control which apps can send you the three types of available notifications - the shade notifications, the lockscreen notifications and the banner style notifications.</paragraph>
+			<paragraph>This level of control is also employed when it comes to the app access to network data. The user can control the rights of each application to access either WiFi or mobile data. This can save a lot of traffic and help you optimize your data plan and consumption in an easy and convenient way.</paragraph>
+			<paragraph>As part of the extensive Smart assistance package, you can customize the bottom navigation bar - you can swap the task-switcher and back keys, or even add a shortcut for the notification area. There is also a one-handed UI mode, for easier menu surfing on the go.</paragraph>
+			<paragraph>You can enable the so-called Floating dock - it's a virtual key you can move anywhere on the screen, allowing you to expand it to the primary Android keys - Back, Home, Task Switcher, Lock and Close all running apps. It will help you control your phone with just one hand.</paragraph>
+			<paragraph>Motion control also plays a significant role on the Huawei Mate 8. There are flip gestures, as well as picking up, tilting and even things like knuckle detection and drawing. All of those are extensively customizable to your liking as well.</paragraph>
+			<paragraph>For a while now, Huawei has been offering a superfluous knuckle gesture control on its high-end phones, and it's available on the Mate 8 as well. While gladly avoided launching apps by drawing letters with a knuckle, certain aspects of the Smart screenshot feature we found handy.</paragraph>
+			<paragraph>You can start recording a video of your interaction with the UI by the intuitive double knock with two knuckles while drawing an S with a single knuckle launches the scrolling screenshot. Thank goodness that latter is available from the regular Power/Volume down shortcut. Scrolling screenshots were a bit hit-or-miss, though.</paragraph>
+			<paragraph>The Mate 8 has a potentially handy, put in practice limited multi-window feature. Launched with a knuckle swipe (or a much more logical press-and-hold on the recent apps button), it lets you view two apps at once. You can resize the windows, and swap the two. The app selection is very limited, though, and is strikingly missing a browser.</paragraph>
+			<paragraph>Voice control, on the other hand, lets you operate the Mate 8 entirely hands-free. The functionality resembles what we have seen on certain Nexus and Samsung Galaxy devices and boils down to the ability to trigger a voice command, even when the phone is locked, and its screen is off.</paragraph>
+			<paragraph>Huawei does this by always listening for a "trigger word", which by default is... "Okay, Emy." Once triggered, the phone wakes up and awaits further voice instructions, like placing a call. Speech awareness is also customizable. The wake-up phrase can be changed, and you can also train the device to recognize better your voice.</paragraph>
+			<paragraph>The list of accessibility features just goes on and on. Others that deserve mentioning include: glove mode, smart cover and smart headset control.</paragraph>
+			<paragraph>Huawei's fingerprint recognition has long been among the best available, and that's only gotten better on the Mate 8. The sensor is always on, and it will unlock the smartphone and take you to the homescreen in what can be described only as a 'mere instant'.</paragraph>
+			<paragraph>You can set up to 5 fingerprints, and those are more than likely going to be the index fingers of both hands, and potentially the same for another person, with one to spare, though we've never understood the limitation.</paragraph>
+			<paragraph>When you go to the fingerprint setup menu and tap the sensor with an already registered digit, it highlights in the list below - a nice touch. In a baffling turn of events, the Mate 8 deleted all fingerprints once we chose to disable the fingerprint unlock, forcing us to do the setup all over again.</paragraph>
+			<paragraph>Surprisingly, the Mate 8, unlike the Mate S, lacks the truly handy touchpad functionality of the fingerprint sensor. You can only set it up to take photos, answer calls and turn off the alarm, but you can't scroll through the gallery, or pull down the notification shade.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>The Huawei Mate 8 is powered by the Kirin 950 chipset, made by HiSilicon, a Huawei subsidiary. It's not the first in-house chip the company uses, it's been an ongoing Huawei effort to produce its own SoC's.</paragraph>
+			<paragraph>Previous iterations include the Kirin 935 in the Mate S and the Kirin 930 in the P8, the two differing in CPU frequency. The Ascend Mate7, on the other hand, had a Kirin 925 inside. For all the numbering differences, the chips have all traditionally had a common issue and that's been GPU performance.</paragraph>
+			<paragraph>Huawei has made the necessary steps in that department and fitted the Mali-T880 GPU in MP4 configuration. Coupled with the conservative 1080p resolution, the Mate 8 should have no issues on the graphics front.</paragraph>
+			<paragraph>That's definitely not where all the effort has gone, though. The Kirin 950 chipset comes with a dual quad-core CPU setup, utilizing four of the latest Cortex-A72 cores in its performance cluster and that makes it the first processor with such cores that we get to test. Neither member of the Snapdragon 65x line has shown up on our doorstep just yet, and Mediatek's Helio X20 is yet to make it to a production device.</paragraph>
+			<paragraph>Additionally, the chip is built on a 16nm production line, as opposed to the 28nm of older generations with the resulting benefits in power efficiency.</paragraph>
+			<paragraph>One aspect of the Mate8's hardware, which we're no fans of, is the fact that 3GB of RAM are paired with 32GB of storage, and 4GB come with 64GB. If you insist on the larger operating memory, but don't have heaps of multimedia to store, you'd still need to pay for those 64GB. For the record, our review unit is the 32GB variety so it has 3GB RAM.</paragraph>
+			<paragraph>The Mate 8 stormed through GeekBench, its score miles ahead of anything before it. Our previous champ in the multi-core test, the Meizu Pro 5 with an Exynos 7420 inside, couldn't keep up with the Kirin's powerful A72 cores. The Nexus 6P is among the highest-ranked Snapdragon 810 models, and its score is about two-thirds of the Mate's.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GeekBench 3<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The assorted Antutu benchmarks also put the Mate 8 in a leading position. In Antutu 5 it's only slightly ahead of the Meizu Pro 5, but comfortably outpacing the Galaxy Note5. Here, the Snapdragon 810 does best inside the Xperia Z5 Premium, and the Nexus 6P is further down, on par with the iPhone 6s Plus.</paragraph>
+			<paragraph>In Antutu 6 Huawei's flagship pair scores similarly though the Mate 8 has the upper hand again. The Galaxy Note5 is little behind, but not as much as the Snapdragon 808-powered LG V10. Oddly, in this benchmark, the significantly more powerful chip of the Pro 5 posts an identical result to Qualcomm's second-best of the year.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 5<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>AnTuTu 6<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Mate 8 surrenders the benchmark lead in Basemark OS II 2.0, another compound benchmark. An inch behind the Nexus 6P, the Mate 8 is outpaced by the iPhone 6s Plus in the overall score. The Exynos-powered Note5 and Pro 5 are still not a match for Huawei's 6-incher.</paragraph>
+			<paragraph>However, the Mate's processor shows its strength in the CPU-specific parts of the benchmark. Its single-core result is the highest of the bunch, with only the Note5 coming close. There's absolutely no contest in the multi-core test, where the Mate 8 wipes the floor with the current crop of high-end phablets.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (single-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0 (multi-core)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Which brings us to graphics performance. While the Mate 8 is no slouch here either, it's also not in the leading position. Its Basemark X results are only slightly ahead of the LG V10, BlackBerry Priv, and Moto X Style (a.k.a. Pure Edition). Those all come with an S808 chipset, which features a rather modest Adreno 418 GPU.</paragraph>
+			<paragraph>The Note5's score is some 70% higher though the Pro 5 isn't as convincing. It's the Xperia Z5 Premium that leads the way for S810, with the Nexus 6P behind, but still much better than the Mate.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>In GFXBench, the Mate 8 posts some respectable scores, but is again no chart-topper. In the offscreen tests, which are run at a standard 1080p resolution regardless of the specific smartphone's actual display setup, the Mate 8 achieves higher frame rates than the S808 bunch, but not quite on par with the S810 or Exynos 7420.</paragraph>
+			<paragraph>In the onscreen tests, at actual display resolution, the Mate 8 is favored by the lower number of pixels it needs to render, compared to most of its rivals and climbs up the chart. That doesn't help it against the iPhone 6s Plus, Pro 5 and Xperia Z5 Premium, which run the test in FullHD, too. The Nexus 6P, however, gives the Mate 8 a solid run for its money, despite having a QHD screen - owing to the S810's Adreno 430.</paragraph>
+			<paragraph>It's probably worth noting that the Mate 8 runs the onscreen tests at a slightly lower 1,740 x 1,080-pixel resolution (1,920 x 1,080 pixels, minus the strip of onscreen buttons). This small difference made for slightly better scores in the Mate's onscreen tests compared to the 1080p ones, but the difference is marginal at best.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.0 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (1080p offscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>GFX 3.1 Manhattan (onscreen)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The bottom line is that the Huawei Mate 8 has tons of raw processing power in both single- and multi-core applications. Its GPU performs adequately (unlike the Mate7 before it), but is not quite up to par with the CPU's performance.</paragraph>
+			<paragraph>We'd say Huawei made some very well-calculated choices on this one. On the one hand, the Mali-T880 MP4 would have definitely choked with a higher-res screen. However, a QHD display with a GPU to match would have meant a much more serious strain on the battery, and that wasn't a compromise the company was willing to make.</paragraph>
+			<paragraph>That said, Samsung's Exynos 8890 has a Mali-T880 MP12 GPU with three times as many cores, so the Mate 8 won't have it easy once the Galaxy S7 bunch and the Note 6 come next.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The Mate 8 handles voice calls with ease and sound quality doesn't disappoint on either end of the line. A nice touch is the ability to tell the device only to pick up sounds from a 120-degree arc around the primary mic when on speakerphone, useful in loud environments.</paragraph>
+			<paragraph>Being a dual-SIM device, the Mate 8 provides options for handling the two cards. You can select which one enjoys high-speed cellular package while the other would remain on 2G only, and you can tell which one the smartphone will use for mobile data. Dual-SIM calling isn't exactly what it sounds like, in fact, it tries to learn from previous use and recommends which SIM card to handle the next call.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Loudspeaker<subsectionTitle>
+			<paragraph>The Mate 8 was only good for a Below average rating in our standardized loudspeaker test. The Mate S we had for review a couple of months ago scored similarly, but the Mate7 was two notches up at Good. The Galaxy Note5 and the LG V10 are only slightly louder, but the Lumia 950 XL excels in this respect.</paragraph>
+			<paragraph>You get a choice of two keyboards on the Mate 8 - one is courtesy of Swype while the other is the stock Android one. It's as nice as it is unexpected, given Huawei's full skinning practices. The Swype version has secondary symbols upon a long press, a feature valued by some while others couldn't care less. You can't have it all, though, as it lacks a separate number row, present in the AOSP solution.</paragraph>
+			<paragraph>The Mate 8 ships with WPS office, which can be used for some basic document editing on the go. It can handle text documents, spreadsheets and presentations as well as PDF files. It can also export to PDF.</paragraph>
+			<paragraph>Phone Manager is Huawei's do-it-all app for keeping control over your phone. It lets you control all sorts of features from call/message privacy and Do Not Disturb settings, to phone optimization and app permissions, to network and battery usage.</paragraph>
+			<paragraph>The app features a one-touch optimization feature that frees up memory space and gives you settings recommendations for maximum battery performance. It's a hell of a slick feature that few manufacturers offer.</paragraph>
+			<paragraph>Battery Manager is part of Phone Manager and includes a selection of three power plans with varying degrees of feature limitations. From here you can also control which apps can remain active after you send the phone to sleep.</paragraph>
+			<paragraph>Huawei has bundled the Mate 8 with its Health app, which tracks steps and calculates calories burnt, but can also supposedly count the number of floors you've climbed. A file manager is also present, and it supports batch actions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Simple gallery<subsectionTitle>
+			<paragraph>The Mate 8's gallery app offers a Timeline view, which sorts your images by the date you've taken them. Alternatively, you can opt for the standard Album view with all of your images sorted in different albums.</paragraph>
+			<paragraph>Opening a single image lets you quickly delete or rotate it, as well as gives you some basic sharing options (including streaming it over DLNA).</paragraph>
+			<paragraph>The info icon up top gives some pretty detailed information about the image, including a histogram. Pulling down from anywhere on the screen lets you take a quick photo without leaving the gallery. The image comes out in a square 1:1 ratio at 3,456 x 3,456.</paragraph>
+			<paragraph>You can also go into a more capable editor with options for light and exposure adjustments (so you can bring out the shadows or the highlights), filters and beauty enhancements. You can adjust levels and add individual watermarks for time, location, weather, food and mood. We're not sure most of these gimmicks have a place in a smartphone like the Mate 8, but hey, you can easily not use them.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>When it comes to playing videos, the Huawei Mate 8 default player is pretty basic. Its sole option is playback speed. It lacks a floating window mode, but on this device, in particular, that's no big deal, as the video player is one of the 8 apps that can go into a split-screen multi-window setup.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The Huawei Mate 8 comes with Huawei's custom music player app. It offers four default playlists - songs, artists, albums, folders. You can create your playlists, too. The background of the app changes dynamically to match the album art, which is a nice little touch.</paragraph>
+			<paragraph>The Now Playing screen is pretty standard, it offers album art and lyrics. There are no equalizers to speak off, but the app does have a few extra features. It would try to pull album art, song info and lyrics automatically for you.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>FM radio<subsectionTitle>
+			<paragraph>The Huawei Mate 8 has a built-in FM receiver. It can play through the headset or the loudspeaker, but you'll need to have the headset plugged in as it serves as an antenna. We were disappointed not to find RDS support, so you'll have to name your radio stations by hand.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Amazing audio output<subsectionTitle>
+			<paragraph>The Huawei Mate 8 got perfect scores in the active external amplifier part of our audio quality test. The smartphone's output was clean, while its loudness was well above average, making up for one of the best showings out there.</paragraph>
+			<paragraph>Even more impressively, plugging in a pair of headphones causes next to no distortion - even the hike in stereo crosstalk we've come to expect is very minor and the end result is excellent. None of the other readings are affected either and volume levels stay high for an impressive showing. Huawei didn't do a particularly good job with the Nexus 6P when it comes to audio output, but this time, the company has really brought its A-game.</paragraph>
+			<paragraph>Here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great on paper, but troubled 16MP shooter<subsectionTitle>
+			<paragraph>The Huawei Mate 8 relies on a 16MP primary camera. The sensor is a Type 1/2.8" IMX298, courtesy of Sony, and is capable of phase detection autofocus. It has a 4:3 native aspect ratio and is capable of outputting images up to 4,608 x 3,456 pixels in resolution.</paragraph>
+			<paragraph>It's paired with a f/2.0 lens. There's optical image stabilization too, and if the two working together still can't cut it, the dual LED flash can help out in the dark. It's also a dual-tone setup allowing it to adapt to the existing light sources in the surroundings.</paragraph>
+			<paragraph>The interface of the camera app is straightforward if a little scattered. Swiping left or right in the virtual viewfinder lets you switch between still/video, and the all-important Light painting, Beauty and Time-lapse modes.</paragraph>
+			<paragraph>From the shooting modes you can select HDR, Watermark (also available post-shot from the image editor), Document readjustment (for scanning paper documents), Panorama and Professional, among others.</paragraph>
+			<paragraph>The Professional mode gives you control over metering, ISO, shutter speed, exposure compensation, focusing mode and white balance, including manual color temperature setting - basically, everything.</paragraph>
+			<paragraph>For all its fine specs and plenty of features, the Mate 8 doesn't quite deliver in real life. It's not bad, it's just not great, and great is what it should have been.</paragraph>
+			<paragraph>Our first impression was disastrous. It consistently refused to focus properly and ruined the Mate 8's participation in our recent snow shootout. The condition was so bad it made us wonder if we had received a faulty unit. Apparently, it was one of these things that are fixable in software, as the camera improved after an OTA update arrived the day after.</paragraph>
+			<paragraph>That said, the update didn't work miracles. The camera outputs noticeably soft images, which lack the detail and texture we've grown accustomed to seeing from high-end smartphones. There also was an awful lot of noise in all but the brightest portions of the images.</paragraph>
+			<paragraph>Colors are rendered on the conservative side - punchy is not what they are. In broad daylight, the Mate 8 exposes consistently accurately, without variations from shot to shot. Dynamic range is decent, with only a slight tendency to clip the highlights.</paragraph>
+			<paragraph>The HDR mode on the Mate 8 introduces minor, nearly invisible changes to the shots and as such it's bordering on pointless. It could potentially be addressed in a future update.</paragraph>
+			<paragraph>At night the Mate 8's output is good if fit-to-screen magnifications are assumed, but pixel peeping does it no favors. Bright light sources are somewhat defined, but everything else is (a lot) less than stellar.</paragraph>
+			<paragraph>The panorama mode is one of the better implementations on the market, switching automatically between portrait and landscape. When shooting in portrait, panoramic images turn out a bit taller than 3,000 pixels and the sample below is more than 22MP, while being far from an 180-degree sweep. Stitching is good, exposure is even, it's just that the detail isn't there, as with the regular still photos.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Still camera comparison<subsectionTitle>
+			<paragraph>You can check out how the Huawei Mate 8's primary camera stacks up against the competition in our Photo compare tool. We've chosen a couple of direct rivals, but you can explore the tool and select other devices from the ones we've tested.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Capable 8MP selfie camera<subsectionTitle>
+			<paragraph>The front camera of the Mate 8 is an 8MP unit shooting images at 3,264 x 2,448 pixels. It's paired with a relatively dim by today's standards f/2.4 lens. There is the obligatory beautification feature, which attempts to mask skin blemishes. A nice feature is a small thumbnail that appears in the upper right corner of the screen once you hit the shutter button, prompting you to look at the camera, and not the center of the display.</paragraph>
+			<paragraph>The photos taken by the front camera have a good level of detail, little noise, good dynamic range and pleasing colors. There is also a nice-looking background blurring.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording capped at 1080p<subsectionTitle>
+			<paragraph>One of the major flaws of the Mate 8 is that it doesn't support 2160p video recording, when it has become the de facto standard resolution for high-end smartphone camcorders. A lot of users will live just fine without it, but they shouldn't have to. The smartphone does support 1080p@60fps, so at least, there's that. Additionally, you get a slow motion mode, where video is recorded at 120fps, but the resolution is just 720p.</paragraph>
+			<paragraph>The 1080p@60fps videos come out with a bit rate of 48Mbps while the 30fps ones are exactly half that. In either case, audio is recorded in stereo at 96kbps.</paragraph>
+			<paragraph>There isn't much room for praise in the video department either. They lack the detail you'd expect from that resolution and have pretty limited dynamic range. At least, there isn't an annoying focus hunting.</paragraph>
+			<paragraph>When shooting handheld on the Mate 8, the OIS system does an okay job at compensating for hand shake. That said it's not quite up to par with the best implementations on the market.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>As usual, we've provided unedited samples straight out of the camera for you to download (1080p@60fps, 1080p@30fps).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video camera comparison<subsectionTitle>
+			<paragraph>Be sure to head over to our video compare tool to check where the Mate 8 stands against the rest.</paragraph>
+			<paragraph>  </paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Huawei Mate 8 key test findings<subsectionTitle>
+			<paragraph>Impressive build quality, premium look and feel;</paragraph>
+			<paragraph>High-contrast display, which works well in the sun; maximum brightness could have been higher;</paragraph>
+			<paragraph>Worldwide LTE support, dual-SIM slots (second one shared with the microSD), solid overall connectivity package;</paragraph>
+			<paragraph>Exemplary battery life, 103h endurance rating, record-breaking longevity in our web-browsing test;</paragraph>
+			<paragraph>EmotionUI v4.0 is rich in features and strong on customization, but knuckle gestures may be too quirky to actually use. Multi-window feature doesn't support a browser;</paragraph>
+			<paragraph>Fingerprint sensor is one the best implementations on the market, always on, blazing fast, and rarely erring;</paragraph>
+			<paragraph>Chart-topping CPU performance; GPU isn't quite in the same league, but does the job;</paragraph>
+			<paragraph>Built-in multimedia package doesn't leave you wanting, the custom tools look and work well, there's a pre-installed document editor and no bloatware;</paragraph>
+			<paragraph>Loudspeaker scored a Below Average mark in our test;</paragraph>
+			<paragraph>Excellent audio quality, with both headphones and external amp; loud, too;</paragraph>
+			<paragraph>The primary camera produces images which are on the soft side, and can't match the best in terms of detail. It packs plenty of features, though, and shoots very good panoramas;</paragraph>
+			<paragraph>The lack of 2160p video recording is made even worse by the only average 1080p output.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>The Huawei Mate 8 may very well be the best 6-inch smartphone you can pick up today. But it is the specific stipulations in that wording that hide a few caveats.</paragraph>
+			<paragraph>For one, Huawei's largest phablet this season is among a select few flagships that venture past the 5.7-inch mark. And that's another way of saying there aren't any others. So if you want that particular pairing of largest diagonal with current, powerful hardware, the Mate 8 simply is the one phone to get.</paragraph>
+			<paragraph>However, don't let that make you think that the only reason to get it is lack of options - the Mate 8 makes a very compelling case for itself. It starts with the display, which boasts high contrast and exceptional sunlight legibility for an LCD panel.</paragraph>
+			<paragraph>Battery life is nothing short of amazing either. The Mate 8 trumps its predecessor's already excellent battery endurance, despite having a vastly more powerful chipset and (marginally) smaller battery capacity. What's more important is that no current competitor in the high-end segment can come anywhere close to its longevity when surfing the web, even if there are those that outlast it in video playback.</paragraph>
+			<paragraph>We mentioned the chipset, and it is what you would call a beast. Its processor packs all the punch you need and then a lot more. The Cortex-A72 cores are benchmark-toppers, and they also shine in real life, never forcing you to wait for the Mate to catch up with your input.</paragraph>
+			<paragraph>Not entirely so with the GPU, which is only good enough, but not quite spectacular. Huawei did well to balance things out between display resolution, GPU power and battery efficiency, and we understand it. It's just that in a perfect world the Mate 8 would have had a bit more graphics oomph.</paragraph>
+			<paragraph>Another aspect of the Mate 8's where we were rooting for "great" and it only managed "okay" was its camera. It started off really bad, but a firmware update during our review brought it to an acceptable state. However, its output is still softer and noisier than we would have liked, and not up to the standard of the segment. It gets worse in video recording, where the lack of 2160p mode is unforgivable and the 1080p videos do little to make up for it, 60fps or otherwise.</paragraph>
+			<paragraph>Not everyone will love EmotionUI either. Knuckle gestures are fun and could potentially be useful if you take the time to learn what does what, but is it necessary? It's also nice to have a multi-window feature, but what good is it when it only supports a total of 8 built-in apps and no browser?</paragraph>
+			<paragraph>We already established that you can't get an actual flagship with a 6-inch display other than the Mate 8. Once you drop the diagonal to 5.7 inches, the list of options gets pretty long.</paragraph>
+			<paragraph>The current generation of the phablet that made phablets a thing, the Samsung Galaxy Note5 sits on top of that list. It's got a better camera than the Mate 8, but while it does have high endurance numbers, it can't quite match Huawei's offering. It also has an AMOLED screen vs. the Mate's LCD and to some that settles it right there.</paragraph>
+			<paragraph>The Note5 scores a lot more points for productivity, thanks to the S-Pen and infinitely better implementation of multi-window. It's also made of glass on both sides, and that's a no-no for some users, who reckon it makes it more fragile. The Mate is also the choice for those with big multimedia collections, as it has a microSD slot, which the Note5 lacks.</paragraph>
+			<paragraph>The LG V10 has a 5.7-inch primary display, but also a ticker on top, so you could consider it larger than the Note5. So, secondary display, tougher build, superior camera, and a removable battery are all in its favor, but actual battery life is a lot shorter, and its chipset isn't nearly a match for the Mate's.</paragraph>
+			<paragraph>Huawei's Nexus 6P is the better phablet by the Chinese company if you're not a fan of custom OS overlays and like your Android stock. It also has a superior camera and a higher-res display (as the other two above, for that matter). The Mate 8 trumps it in battery endurance.</paragraph>
+			<paragraph>The Microsoft Lumia 950 XL is another high-end option, albeit outside the Android realm. You may find a pattern here, but the Lumia's camera shoots better images than the Mate's, while Huawei's phablet outlasts it in every single battery test. The Lumia's power pack is removable though, unlike the Mate's. Microsoft's flagship has Continuum going for it (if you can find a use case), but Windows on a mobile phone still remains mostly a fans-only market, deservedly or not.</paragraph>
+			<paragraph>Now, if you insist on the 6 inches, but you are willing to concede some raw processing power, you could go for the Oppo R7. AMOLED display, comparable battery life, and the same form factor - all for substantially less cash - might just settle it for some. Alternatively, you could wait for the Galaxy A9 (2016) to arrive (we are). Again, a 6-inch AMOLED, 4,000mAh battery and a CPU with the same cores, but clocked lower, sounds promising, even before you know that it's about $200 cheaper than the Mate 8. TouchWiz and glass build could deter a few potential buyers, but then lure others.</paragraph>
+			<paragraph>Great as it may be, Huawei's high-end phablet is not perfect, and you'd better be aware of its flaws, even if you choose to ignore them. The camera could use plenty of improvement, and the Android overlay is a love-it-or-hate-it affair. However, the Mate 8 is an exquisitely built smartphone with killer looks, superior battery life, and a powerful chipset. If only we could have it all.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,337 @@
+<review>
+	<title>Microsoft Lumia 950 review</title>
+	<description>Legendary edition</description>
+	<link>http://www.gsmarena.com/microsoft_lumia_950-review-1347.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Windows 10 Mobile with Continuum support (via dock), Display Dock included in some markets</paragraph>
+			<paragraph>5.2" Quad HD AMOLED display of 564ppi, ClearBlack technology, Glance Screen; Gorilla Glass 3</paragraph>
+			<paragraph>Snapdragon 808: hexa-core processor with 2x 1.82GHz Cortex-A57 and 4x 1.44GHz Cortex -A53, Adreno 418 GPU, 3GB of RAM</paragraph>
+			<paragraph>20MP BSI PureView camera sensor, ZEISS optics, optical image stabilization, tri-LED RGB flash, Rich Capture, RAW capture, Dynamic Flash, lossless zoom in the 8MP snaps, 50MP panoramic shots</paragraph>
+			<paragraph>2160p video recording @30, 25 and 24 fps, 1080p video recording @ 60, 30, 25 and 24 fps; slow-mo capturing; Rich Audio Recording with four-directional microphones, lossless zoom in 1080p (3x) and 720p (4x) videos.</paragraph>
+			<paragraph>5MP front-facing camera with 1080p@30fps video recording</paragraph>
+			<paragraph>32GB of built-in storage; expandable via a microSD slot</paragraph>
+			<paragraph>Cat. 6 LTE (300/50Mbps); Dual SIM; Wi-Fi a/b/g/n/ac; Bluetooth 4.1; GPS/GLONASS/Beidou; FM radio; USB Type-C port</paragraph>
+			<paragraph>Windows Hello user recognition with iris scanner</paragraph>
+			<paragraph>Active noise cancellation via dedicated mics</paragraph>
+			<paragraph>3,000mAh battery with wireless charging (market-dependent)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>No liquid cooling as initially advertised</paragraph>
+			<paragraph>Expensive at launch</paragraph>
+			<paragraph>No fingerprint reader (the lack is offset by the iris recognition)</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Microsoft Lumia 950 is the firstborn of the new Lumia series, following the company's strategy shift. It's a precisely designed smartphone with clear ideas for its future, sharp hardware choices and groundbreaking software innovations. It's an epic device based on Nokia's legacy and reborn under Microsoft's custody.</paragraph>
+			<paragraph>The Lumia 950 bets on business looks, powerful hardware, jaw-dropping screen quality, and innovative software approach. It's able to offer one of a kind software features such as Windows Hello iris authentication and also Windows Continuum, which allows the phone to offer PC-grade experience when hooked to a TV screen.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Lumia 950 also brings back a few iconic Nokia features, part of the fans' checklist - an iconic PureView camera with optical stabilization and enviable quality and four-mic recording in its 4K videos, user-replaceable beefy 3,000 mAh battery, and a microSD card slot.</paragraph>
+			<paragraph>Windows OS for Phones also leveled up with a brand new system core, universally shared across all Windows 10 versions - Mobile, Desktop and Xbox. It supports a plethora of new functions, it refines the interface and brings improved multimedia and office apps.</paragraph>
+			<paragraph>There are so many things to cover, but before that here is what you can expect.</paragraph>
+			<paragraph>The future of the entire Lumia series and Windows 10 Mobile hangs in the balance and it depends on the success of the new Lumia trio - Lumia 950 and 950 XL, plus the budget Lumia 550. And even before we get started exploring the Lumia 950 and all of its new features, Microsoft seems to be on the right track with this one. The Lumia 950 lacks nothing we can think of, Microsoft literally thought of everything.</paragraph>
+			<paragraph>Are those carefully chosen features going to be enough for the Lumia 950 to make it through the overcrowded market out there? Let's find out.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Lumia 950<subsectionTitle>
+			<paragraph>The Lumia 950 comes in a quite big paper box, but covers just the basics - you get a 1.5A USB Type-C charger with a cable, and a separate USB Type-C cable. Some retailers are throwing the Microsoft's Display Dock worth ?109 with the pre-orders, which is needed for Continuum to work.</paragraph>
+			<paragraph>There are no headphones bundled with the Lumia 950.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Microsoft Lumia 950 360-degree spin<subsectionTitle>
+			<paragraph>Microsoft Lumia 950 spreads at 145 x 73.2 x 8.2 mm and weighs 150 g. That's about the same as an Xperia Z5, just a millimeter thicker.</paragraph>
+			<paragraph>You would need an Adobe Flash-capable web browser to visualize the interactive 360-degree view above.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>Microsoft took the safest approach with the Lumia 950 series, and particularly the Lumia 950 - it went for a familiar, clean and durable design in favor of trendy looks and shiny elements. The result is a grippy smartphone with pleasurable handling and modern business looks. It isn't a fashion accessory, but it's something many of us can appreciate.</paragraph>
+			<paragraph>The Lumia 950 keeps some of the established Lumia traditions, but makes a departure from others. It is made entirely of durable matte plastic and the screen is protected by a perfectly flat Gorilla Glass. But the Lumia 950 now allows swapping the battery anytime, which is somewhat of a rarity among the older siblings.</paragraph>
+			<paragraph>Handling the phone is nothing short of a pleasure, as the matte plastic provides excellent grip. The 5.2" screen isn't considered big anymore and the Lumia 950 is in fact quite comfy for one-handed operations. We had no problems using the phone - even with just one hand, even when shooting images and videos, and we didn't feel afraid we'd drop it. Indeed - Lumia 950 usability level - just great.</paragraph>
+			<paragraph>Finally, the Lumia 950 is of a great and sturdy build, a signature among the entire Lumia lineup, and we appreciate Microsoft keeping the build quality consistent through the years.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>While the primary mic is the only thing of interest below the 5.2"AMOLED screen, above is pretty crowded. At first the earpiece and the 5MP selfie shooters seem to be all of it, but further exploring reveals the almost invisible iris scanner next to the selfie snapper. A bunch of sensors are also hidden close to the earpiece, the second of four microphone is here too, while a special emitting red light thingy is at the far right.</paragraph>
+			<paragraph>This red light works the same way the speed cameras do - it lights up and helps the iris sensor work no matter the conditions - your iris will be recognized even in pitch dark room. We'll talk about Windows Hello in a minute.</paragraph>
+			<paragraph>There is nothing on the left, while the right side has the volume rocker, the power/lock key and the camera shutter.</paragraph>
+			<paragraph>The top of the Lumia 950 houses the audio jack, while the bottom has the USB Type-C port.</paragraph>
+			<paragraph>Finally, the clean back is not so clean after all. Here is the 20MP PureView camera with ZEISS optics, circled by a textured metallic piece. The loudspeaker grille and the tri-LED RGB flash are close by, as is the metal Windows logo used for wireless charging pin. The third and four microphones used for rich audio recording are also around.</paragraph>
+			<paragraph>Popping the battery cover reveals the microSD slot, the SIM bed and the removable Li-Ion battery.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The display of the Microsoft Lumia 950 is one of the highlight features, alongside the chipset and new operating system. The diagonal is quite reasonable at 5.2", but the resolution got a massive boost to QHD - 2560 x 1440 pixels. This means that despite its ample screen real estate, the AMOLED panel offers a superb 564ppi.</paragraph>
+			<paragraph>The Lumia 950 has only modest maximum brightness (328nits) if you have the brightness control set to manual, but as soon as you switch to Auto, the phone will push the brightness all the way up to 628nits given the environment is bright enough.</paragraph>
+			<paragraph>Another positive remark we have about the screen is excellent color rendering. The average DeltaE is only 1.9, which is perhaps the lowest average we've seen on a mobile phone. You have got to remember that anything below 3 is considered calibration-level color accuracy so we're really happy with the fact that Microsoft provides such color accuracy out of the box.</paragraph>
+			<paragraph>Under direct sunlight, the Lumia 950 retains excellent contrast and stays legible even in brightly lit environments.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>Microsoft has put a beefy 3,000mAh battery inside the Lumia 950, a solid capacity for a 5.2" device. The phone supports fast charging and can recharge up to 50% of the battery capacity in just 30 minutes. Wireless charging is available, too.</paragraph>
+			<paragraph>In our battery test the Lumia 950 scored a 48h rating, which means you can count on two days if you do an hour each of calling, browsing and video playback a day. The phone does average across all of the separate tests and in the standby endurance (about a week).</paragraph>
+			<paragraph>Such usage pattern is of course entirely artificial, but we've established it so our battery results are comparable across devices.</paragraph>
+			<paragraph>Our proprietary score also includes a standby battery draw test, which is not featured in our battery test scorecard but is calculated in the total endurance rating. Our battery testing procedure is described in detail in case you want to learn more about it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity<subsectionTitle>
+			<paragraph>The Lumia 950 supports 13 or 14 LTE bands (market dependent), there is rich 3G and quad-band GSM support, too. The phone uses a nano-SIM card to tap to cellular networks.</paragraph>
+			<paragraph>The rest of the wireless connectivity features include dual-band Wi-Fi a/b/g/n/ac support. There is also support for Bluetooth 4.1, GPS and GLONASS, plus an FM radio. Wireless screen mirroring is available via the Miracast protocol.</paragraph>
+			<paragraph>The Lumia 950 is Microsoft's very first device to support USB Type-C - it's a new reversible connector for USB that builds on top of USB 3.1.</paragraph>
+			<paragraph>If you like to use USB OTG or USB Host, you should either get the Microsoft's Display Dock or other compatible accessory or adapter.</paragraph>
+			<paragraph>The dock also allows you to connect the phone to an external monitor and is the backbone for enabling the full-blown Windows Continuum experience. Make note that you can also use Continuum over the standard wireless Miracast protocol or connect the phone directly to the display via a USB-C to HDMI adapter.</paragraph>
+			<paragraph>In these cases however, you would not be able to use a wired mouse and keyboard or enjoy the USB host functionality the dock provides. You could use a wireless mouse and keyboard that connect over Bluetooth. There is also the concern about charging.</paragraph>
+			<paragraph>We'll discuss Continuum more in our dedicated section.</paragraph>
+			<paragraph>Windows 10, by the way, offers a very handy app called Gadgets, which is very similar to Sony's Smart Connect app. It allows you to set your device to do a variety of things - like launch an app - whenever you connect an accessory like a headset, dock or a charger.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows 10 Mobile replaces Windows Phone<subsectionTitle>
+			<paragraph>Microsoft Lumia 950 is the first smartphone to run on Windows 10 Mobile out of the box. It builds upon the established principles of Windows Phone 8, but comes with an entirely new OS core, very similar to the one inside the full-blown desktop Windows 10 and the Xbox One's Windows 10. This is part of Microsoft's strategy of unification among its device lineup and should help developers easily deploy apps across the different devices.</paragraph>
+			<paragraph>The user interface of Windows 10 Mobile is fairly familiar, though refined and polished to very likable levels. There is the Live Tile homescreen, the all apps list, the action center with toggles, and a tightly organized settings menu. All seems the same and yet once you begin using it you'll know it's better.</paragraph>
+			<paragraph>There are a few components of the Windows 10 Mobile UI we'd like to mention, and those are in the order you'll encounter them. We kick off with the Glance Screen.</paragraph>
+			<paragraph>Yes, the Glance Screen is an important feature in Windows 10 Mobile and it looks just great on Lumia 950's AMOLED screen. It display a monochrome clock, the date and number of missed notifications. You can opt for night mode (warmer colors), display intervals or always on.</paragraph>
+			<paragraph>Next, the lockscreen. It's also business as usual - notifications can appear here, you choose the background or let Facebook do it for you. What's new though is the support for Windows Hello.</paragraph>
+			<paragraph>Windows Hello with iris recognition</paragraph>
+			<paragraph>Windows Hello is the name uses Microsoft's biometric authentication framework on Windows. To make use of the framework, the device needs to have either iris recognition, or face recognition hardware, or a fingerprint scanner. It's not only phones that we are talking here, Windows Hello is also available on computers.</paragraph>
+			<paragraph>The Windows Hello implementation on the Lumia 950 supports iris recognition thanks to a dedicated specialty camera sensor on top of the display.</paragraph>
+			<paragraph>Once the phone remembers your eyes, you are advised to repeat the procedure at least one more time in different lightning conditions for better recognition.</paragraph>
+			<paragraph>We found iris recognition to work great even in dimly lit rooms or outside at night. You just click the Lock key to wake up the screen and the phone is quick to unlock at your stare. It takes about a second and there is a very neat greeting and animation. Sure, you have to hold the phone close enough in order to detect your eyes, and no - we are not talking nose-close. Granted, we didn't try it with glasses on and some users report that the experience with glasses has some issues.</paragraph>
+			<paragraph>The iris recognition feature doesn't allow for different user logins but we managed to fool it by scanning another person's eyes via the offered Improve recognition procedure, which was originally meant to take a second scan of your eyes. With that hack the phone happily unlocked upon facing either one of the reviewers - granted they both have one and the same eye color and your own mileage may vary.</paragraph>
+			<paragraph>Tiled homescreen as usual</paragraph>
+			<paragraph>Windows 10 Mobile supports only two homescreen, just like Windows Phone 7 and 8. The main screen has all your live tiles, static icons and folders, while the second screen has a scrollable list of apps. You can resize the tiles as usual, pinning a tile is very easy.</paragraph>
+			<paragraph>The Tile screen supports two types of backgrounds - behind the tiles (full screen) or on-tiles, which reminds us of a jigsaw puzzle or an image made up of oh, well... tiles. Naturally you can choose the tile grid from settings (big or small) and there is a new option for tile transparency, which is really cool if you are using a full-screen wallpaper.</paragraph>
+			<paragraph>The Action Center is your place for four customizable toggles and all notifications in Windows. It works just like on Android OS - you access it by pulling down from the top of the screen, dismiss all notifications key is available. You can expand all toggles as well.</paragraph>
+			<paragraph>Microsoft likes Apple's way of handling apps running in background - most of the apps are suspended upon hitting the Windows key and will be resumed once you bring them back. There are others, of course, such as Navigation, Cortana and Battery apps, which will continue to run in background unless you specifically kill them. So, any app, which needs to run in background, will do so, while the rest would get suspended.</paragraph>
+			<paragraph>And while we are on the Apple's similarities, it seems Microsoft like the way Apple handles the one-handed mode, too. There is an easier way to reach what's on top of your screen, including the status bar for notification access - all you need to do is tap and hold on the Win key and your entire UI will drop down at your fingertips. Yes - that's exactly what the iPhones do.</paragraph>
+			<paragraph>Microsoft Cortana digital assistant</paragraph>
+			<paragraph>Microsoft's Cortana does what Apple's Siri and Google Now do - it recognizes your voice commands and questions in natural human language and gives you spoken replies and feedback. It shows a very nice summary of your day upon launch (the weather, events and meeting, important news, sports scores), based on your location, search history and predefined interests (in your Notebook, which you can edit any time).</paragraph>
+			<paragraph>Cortana can fully interact with your phone and carry out all kind or commands related to it. Cortana can also track various news topics, makes suggestions for cooking and dinner, plan trips, find places and make reservations, make jokes, among other things.</paragraph>
+			<paragraph>We like where Microsoft is heading with Cortana - it may have been around for a short time, but it has already catch up quite impressively.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows Continuum<subsectionTitle>
+			<paragraph>When it first unveiled Windows 10 last year, Microsoft briefly talked about a new feature called Continuum, but back then it was in the context of switching UIs on convertible devices based on whether you have the keyboard connected or not. And Continuum can still do that, but in the final version of Windows 10 Mobile it can do so much more.</paragraph>
+			<paragraph>Continuum kicks in when you connect your Lumia 950 to a monitor, keyboard and/or mouse via the proprietary Microsoft Display Dock. The UI you'll see on the monitor won't just be a 1:1 representation of the handset's screen. Instead, the phone is basically turned into a makeshift PC, which will even work with a mouse and keyboard for interaction. Wireless Bluetooth peripherals work too, but of course, you connect them to the phone, not the dock.</paragraph>
+			<paragraph>Yes, it's a Windows Desktop, the same one you see every day on your Windows 10 PC but without the icons and without a right click action on the mouse. Upon connection you see your phone's Start screen on the left side of the monitor, but if you open a universal app that will take over the whole width of the monitor, as you can see from the screengrabs above. So you'll have no wasted space, and you'll be able to do some work in a much easier way than if you were to simply glance at a representation of your phone's screen.</paragraph>
+			<paragraph>The task bar is there, Cortana, Task View, and the Start Menu making much more sense now as it's actually your phone's screen. Oh, and you can continue to use your Lumia 950, while it's connected to the dock, it doesn't lock the screen at all. How cool is that?</paragraph>
+			<paragraph>Furthermore, all the usual PC keyboard commands work in this mode, so you can use Ctrl+C for copying, Ctrl+V for pasting, and so on. Microsoft says it wants to let smartphones scale up to a full PC-like experience and they've done a great job out of it.</paragraph>
+			<paragraph>You may remember that Ubuntu came up with a similar concept a few years ago, but the Ubuntu for Android project flopped eventually - perhaps because it was trying to do more (run 'full' Ubuntu when the phone was docked), but also because it wanted to pair two different operating systems from two different companies on the same device. In Microsoft's case, it's all Windows, so Continuum actually makes sense.</paragraph>
+			<paragraph>Microsoft's proprietary Display Dock is recommended for Wired or Wireless connection with the Lumia 950. From there it's all wired - you need to hook up your display with an HDMI cable, and connect a keyboard and a mouse. You can use wireless peripherals, most of the USB dongles for connecting accessories worked just fine.</paragraph>
+			<paragraph>The dock is small and beautifully designed - besides the USB type-C ports for charging and connecting the phone, it offers 3 USB 2.0 ports, an HDMI output and even a DisplayPort. There is even a microUSB. The accessory doesn't come cheap ($99, ?109), but many retailers are offering the Lumia 950 with a free dock, which is nice.</paragraph>
+			<paragraph>If you don't want to spend a small fortune on the Display Dock, there are alternatives. You can use the Miracast protocol to connect to an external display, which will enable Continuum. But for the input you can either connect Bluetooth keyboard and/or a mouse, or use the virtual touchpad and keyboard on your Lumia 950's display.</paragraph>
+			<paragraph>You can do the same with a proper USB-C to HDMI adapter as well, and once again rely on Bluetooth accessories for input or your phone's display.</paragraph>
+			<paragraph>Not using the dock saves you money and spares you an additional accessory, but if you need to connect SD cards, USB sticks, among others, you will need the dock. Don't forget the Display Dock also (fast) charges your device.</paragraph>
+			<paragraph>So, is Continuum really worth it? Sure, but there are lots of limitations you should be aware of.</paragraph>
+			<paragraph>For example you can't install Win32/Win64 desktop apps, just ARM-compatible from the Windows Store. The case is somewhat similar with the original Surface RT. We didn't expect the Lumia 950 to do so, but lots of people might have been misled to believe so during the announcement.</paragraph>
+			<paragraph>Once you hook all the necessary cables to the dock (the phone, the charger, the HDMI cable, keyboard (optional) and mice (optional), you are good to go. There are no need of drivers or additional app installations, the Continuum app launches up automatically and your screen will light up with a Windows desktop.</paragraph>
+			<paragraph>The Lumia's display acts as touchpad, and if you don't connect a keyboard, you can use it as a keyboard, too. You can opt to close the Continuum phone app and continue to use your phone. As promised, you can still use your phone, while you are using the Continuum screen. You can make calls, check emails or write messages. You can explore photos or shoot with the camera. You can't open the same app twice though, so if you have Photos open in Continuum and try to open it on your Lumia screen, it will just move to your phone display.</paragraph>
+			<paragraph>As it turned out, there is no actual desktop to put app shortcuts and files on it. It's just a static picture needed to fill the blank space. Your actual desktop is the Start menu, which doubles your phone's default Start homescreen. All apps pane is available as well.</paragraph>
+			<paragraph>Most of the default apps are Continuum-enabled, but most of the Store app aren't. They need to be updated for Continuum to work, but we hope the devs will do sooner rather than later. The incompatible with Continuum apps are grayed out.</paragraph>
+			<paragraph>When you are running in Continuum mode, most of the basic shortcuts you are used with in Windows work - copying, paste, explorer (launches the phone's file manager though), but not Show Desktop as there is no desktop to show.</paragraph>
+			<paragraph>Side by side snapping of windows is not possible, neither is multi-tasking. The apps, which are automatically minimized upon opening another, just go in suspended mode.</paragraph>
+			<paragraph>The Edge browser, Word, Excel and One Note ran smooth and looked a lot like their Desktop counterparts. You can indeed do more with Continuum and replace some of your Desktop functionality, but not all of it.</paragraph>
+			<paragraph>As promised, you can still use your phone, while you are using the Continuum screen. You can make calls, check emails or write messages. You can explore photos or shoot with the camera. You can't open the same app twice though, so if you have Photos open in Continuum and try to open it on your Lumia screen, it will just move to your phone display.</paragraph>
+			<paragraph>Windows Continuum works fine and with the expanding app portfolio it will find its loyal users and probably expand the Windows user base and market share.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>Microsoft Lumia 950 runs on the Snapdragon 808 chip, which may not be top of the shelf, but proved to be more than enough to handle 1080p screens and beyond. It's become the choice for both upper mid-range and flagship series and Microsoft chose it wisely for the Lumia 950. It's the Lumia 950XL that uses the upper-grade Snapdragon 810 chipset.</paragraph>
+			<paragraph>The Snapdragon 808 chip offers a hexa-core processor, Adreno 418 GPU and 3GB of RAM. The CPU is quite interesting with 2x 1.82 GHz Cortex-A57 &amp; 4x 1.44 GHz Cortex-A53 cores and coupled with the 3 gigs of RAM it should be perfect for multi-tasking and Windows Continuum.</paragraph>
+			<paragraph>Microsoft reportedly implemented the liquid cooling solution used in Microsoft's tablets to keep the Lumia 950 series running cool. Unfortunately the new system is applied only within the Lumia 950 XL, not the 950. And indeed it gets a little bit warm when busy, but way below the concerning levels some S810 phones are outing.</paragraph>
+			<paragraph>The only higher than usual temperature levels we detected were when using Continuum. The Lumia 950 is busy outing picture on two separate displays and working with two different apps, all of this while fast charging. The heat is understandable and the lack of premium cooling system is obvious. The phone doesn't overheat though and while the heat is unpleasant, Continuum is the only time when you are not actually holding the phone in hands.</paragraph>
+			<paragraph>The compound BaseMark OS II 2.0 gauges CPU, graphics, memory, web and system performance and the Lumia 950 does as well as the Xiaomi Mi 4c, also powered by an 808 chip. The LG G4 has identical hardware - a Quad HD screen and 808 chip, but it scores better.</paragraph>
+			<paragraph>We hoped Windows 10 Mobile would give the Lumia 950 an edge over the competition, but this is not the case.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark OS 2.0<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Adreno 418 isn't the most powerful GPU around, but it sure makes it among the all-rounders lineup. It shows some nice skills on the BaseMark X GPU test, quite like the LG G4 sibling.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Basemark X (medium)<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>Finally, it's time to put the new Edge browser to the test. While Microsoft sure improved the page load and rendering, it still isn't as capable as Chrome and Safari when the raw performance is concerned. The Edge, even backed up by the powerful S808 chip, did poorly on both the Kraken JavaScript test and the compound web bench BrowserMark 2.1.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Kraken 1.1<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2.1<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>The Lumia 950 is clearly powerful enough to handle Windows 10 Mobile and whatever you install on it. The Windows Continuum is amazingly responsible.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Telephony and contact management<subsectionTitle>
+			<paragraph>People Hub hasn't changed much since Windows Phone 8.1 It is the phonebook that you'll find on any Windows device and supports multiple accounts, including social ones, and has multiple pages like the rest of the WP interface. The first page is your contacts list with slightly update looks, the second one is What's New with all of your friends' social updates (Facebook and Twitter), and Groups.</paragraph>
+			<paragraph>Some of the complications are gone for good such as the social updates for each contact and its complete history.</paragraph>
+			<paragraph>The cell reception and call quality are very good and we had no receptions issues or unpleasant sound problems.</paragraph>
+			<paragraph>The speaker on the Lumia 950 scored Very Good in terms of loudness and indeed it's very loud even in the noisiest of environments. Its audio quality is OK, but not impressive, the sound isn't very deep.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging is all about Skype, but not exclusive<subsectionTitle>
+			<paragraph>Windows 10 Mobile now fully integrates with Skype and once you sign in, you actually don't need the Skype app at all. The Messaging hub now supports Skype IM messaging and you can sent and receive Skype messages as they were texts/MMS. Attachments are available, too.</paragraph>
+			<paragraph>Microsoft has made the QuickType keyboard even faster and smarter, plus there is a new dot, which acts as a virtual D-pad and allows you to move quickly through the text.</paragraph>
+			<paragraph>If your Skype is too active though, as ours are, your phone will keep syncing all messages and chats, and even if you mute the notifications, your battery will drain more quickly than usual. We suggest using the Skype messaging sync with caution.</paragraph>
+			<paragraph>Skype Video app comes pre-installed too, and this is the place where you can actually disable the Skype messaging and video integration. The Skype Video app is very similar to what FaceTime does in iOS - it's a native video call app, lighter than the actual Skype app, and will allow you to do video calls really quick and easy.</paragraph>
+			<paragraph>The native email client is the mobile version of Outlook Mail. It looks a lot like its desktop app and works like a charm. It supports multiple accounts, and syncs across all your Windows devices. It is available on Android and iOS as well and we often prefer it over other solutions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Multimedia<subsectionTitle>
+			<paragraph>Photos</paragraph>
+			<paragraph>The first and most notable new app is Photos. It defaults at your entire collection of pictures sans the screenshots. It is also capable of aggregating all of your OneDrive photos and listing them along with your camera snaps. You can turn on/off the OneDrive picture syncing from settings. Microsoft gives you 30GB for free plus 3GB for the each device on which you turn on the automatic OneDrive camera upload.</paragraph>
+			<paragraph>It is very easy to select, delete and share multiple images. A limited editing option is available as well with support for rotation and crop. For advanced image editing you should go for the Lumia Creative Studio.</paragraph>
+			<paragraph>The Photos app offers a new Albums view - it allows you to quickly organize, edit and share multiple pictures or albums with your friends and family vie OneDrive links.</paragraph>
+			<paragraph>Live images are available as well. If the option is enabled from within the camera interface, your image will open as an animated picture similar to Apple Live Photos, sans the 3D Touch gimmick. The live picture is stored in standard jpg container, but only the Photos app of Windows 10 (Mobile, Desktop, Xbox One) can actually display the image animated. For all others image viewers/editors - it's a static image, double the size though.</paragraph>
+			<paragraph>Groove Music</paragraph>
+			<paragraph>The Music app in Windows 10 Mobile has gone through some major changes. It is now called Groove Music, named after Microsoft's music streaming service. Groove Music service is integrated within the app and offers streaming and downloading music the same way Google Music and Apple Music does.</paragraph>
+			<paragraph>The Groove Music sorts your local music by albums, artist, songs and playlists. It covers all the usual requirements for a music player, supports editing playlists and comes with a nice and clean interface.</paragraph>
+			<paragraph>Groove Music app supports playing the music you've uploaded onto your OneDrive storage, which is quite useful sometimes.</paragraph>
+			<paragraph>Equalizers and surround enhancements are available from the phone's settings (Extras-&gt;Equalizers).</paragraph>
+			<paragraph>FM radio</paragraph>
+			<paragraph>The Lumia 950 comes FM Radio-enabled, but in most regions there is no FM radio app pre-installed. You can grab a proper app from the Windows Store and listen to FM stations using your headset as an antenna.</paragraph>
+			<paragraph>Note that this functionality may be locked entirely for some countries.</paragraph>
+			<paragraph>Films and TV</paragraph>
+			<paragraph>The Films and TV app supports Microsoft's video service, and you can buy or rent video content. Local playback is very easy thanks to the clean interface. You can browse by folders if you like.</paragraph>
+			<paragraph>The Lumia 950 is more than powerful enough to breeze through 1080p and 4K videos. It had issues with the AC-3 audio codec and failed to load sound in videos carrying it but that's mostly the norm for smartphones these days. The MKV movies went through, but without sound because pretty much all of our samples have AC-3 audio.</paragraph>
+			<paragraph>Subtitles are supported, just hit the subs virtual key and you will be able to choose a file (from the current video folder only).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output is good, but not exceptional<subsectionTitle>
+			<paragraph>The Microsoft Lumia 950 did excellently when plugged in an active external amplifier. While its volume levels were only average, it posted great clarity scores top to bottom as a true high-end smartphone should.</paragraph>
+			<paragraph>Plugging in a pair of headphones harmed the stereo crosstalk moderately and it also introduced some intermodulation distortion and frequency response fluctuations. It's still a very good performance overall, but not quite among the best out there.</paragraph>
+			<paragraph>Anyway, here go the results so you can do your comparisons.</paragraph>
+			<paragraph>You can learn more about the tested parameters and the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Feature-rich 20MP camera<subsectionTitle>
+			<paragraph>The Lumia 950 has a brand new PureView camera. It uses a 1/2.4" BSI sensor with 20MP resolution. In addition to the new sensor, it also comes with ZEISS-certified optics, an optical stabilization system and a triple-LED RGB flash (no more red-eyes). The ZEISS lens has a really wide 26mm equivalent field of view wide, as well as a really wide F/1.9 aperture.</paragraph>
+			<paragraph>DNG RAW images are available - you can opt for 8MP JPG + 19MP DNG.</paragraph>
+			<paragraph>We are also giving credit to Microsoft for keeping the hardware two-step shutter key and its iconic Lumia camera interface.</paragraph>
+			<paragraph>The new (Windows) Camera app is available across all Windows 10 Mobile devices and share identical interface - a top expandable bar with settings, plus an additional pop-up ring-based interface on the right side of the screen.</paragraph>
+			<paragraph>You can access all of the rings simultaneously by sliding the on-screen shutter button to the left. This will stack sliders for all six settings next to one another allowing you to easily fiddle with them all at the same time.</paragraph>
+			<paragraph>The settings (white balance, focus, ISO, shutter speed and exposure) you modify are kept at the values you chose, with the others adjusted accordingly by the software. We really like this interface - it's intuitive and powerful at the same time.</paragraph>
+			<paragraph>And while this interface is shared across all Lumia smartphones running on Windows 10 Mobile, the features are not. The Lumia 950 series has three exclusive features, courtesy of their powerful hardware.</paragraph>
+			<paragraph>Rich Capture</paragraph>
+			<paragraph>The first feature is Lumia Rich Capture, which is Microsoft's secret camera sauce. The capabilities of Rich Capture are amazing, but its function is not exactly transparent to the user. Sometimes it would take a few shots, stacking them to achieve a sharper detail, while other times it would act as an HDR mode, doing a great job of rescuing the blown-out highlights in high-contrast scenes. Yet other times it wouldn't make any visible change to the images we shot at all.</paragraph>
+			<paragraph>If the camera has actually used its magic on your photo, you would be given the chance of editing the tonal properties of the shot - the strength of the HDR filter, to say it simply - after the fact in the gallery.</paragraph>
+			<paragraph>But as we said, its behavior is unpredictable, as it lacks a Forced mode. If the algorithm behind the Rich Capture decides the scene does not require stacking a few shots with different exposures, it will just snap a regular picture and you won't get to adjust the enhancements, however small they may be, later on. There is no way of knowing what will happen though until you open the Photos app - if there is no Edit Rich Capture key, then the sample was not taken in Rich Capture mode.</paragraph>
+			<paragraph>If you use the Rich Capture at night with flash on/auto - the camera takes pictures with the flash, without the flash and with different flash settings. This is called Dynamic Flash and later you can tune the light (the flash strength) in the photo with a slider by your preferences.</paragraph>
+			<paragraph>Live Images</paragraph>
+			<paragraph>The title speaks for itself really. Unlike Apple though, which saves an mp4 movie and the picture, the Lumia 950 saves just the picture with additional data in the jpg file. Any Windows 10 Photos app (Mobile, Desktop, Xbox) will play your image animated before revealing the final snap. The bummer however is that on the phone you cannot play the Live Image as easily as you can on the iPhone.</paragraph>
+			<paragraph>Any other viewer image editor will treat it as a regular static jpg image.</paragraph>
+			<paragraph>Lossless zoom</paragraph>
+			<paragraph>The benefits of having a higher res sensor include the option to get lossless zoom of just under 2x for the 8MP shots.</paragraph>
+			<paragraph>The 1080p videos benefits more, as they get more than 2x lossless zoom during video and the quality stays quite good.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Panorama and HDR options aren't available in the Windows Camera app. Lumia Panorama lens is downloadable for free and allows you to snap 50MP panoramic images. As for HDR - there is Rich Capture for that.</paragraph>
+			<paragraph>The Lumia 950 camera is quick to start but auto focus is not that fast, especially as it gets darker. The shot-to-shot time is reasonably short but when shooting 4K video or one of those Rich Capture shots (or rather several of those) - saving can get slow. The same goes for the Panorama app as well.</paragraph>
+			<paragraph>Our overall impression from the camera is that it certainly takes its time to do its thing. Luckily, the image quality more than enough makes up for those.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera is not the fastest around, but image quality is excellent<subsectionTitle>
+			<paragraph>Image quality</paragraph>
+			<paragraph>The Lumia 950 snaps class-leading 20MP shots, one of the best we've seen. The resolved detail is top-notch, there is no oversharpening and the noise levels are kept amazingly low even in the shadows.</paragraph>
+			<paragraph>The samples have excellent dynamic range and the rendition of foliage is lovely. Contrast, white balance and colors are also something deserving only praise.</paragraph>
+			<paragraph>The amazing dynamic range in the Rich Capture mode (the Lumia's take on HDR) is understandable but the images come out almost equally good with the mode turned off. Here are a few samples to demonstrate our point.</paragraph>
+			<paragraph>You can almost think of Rich Capture as the Superior Auto mode of Sony Xperia phones. It's on by default, and we found ourselves keeping it like that for the most part of our time with the phone.</paragraph>
+			<paragraph>Here are a bunch of Lumia 950 samples that we shot without the Rich Capture mode on and off.</paragraph>
+			<paragraph>The Lumia 950 offers an excellent 5MP front snapper and the images are among the best we've seen from a selfie camera. There is enough detail, little noise and accurate colors.</paragraph>
+			<paragraph>The optical image stabilization lends its helping hand in snapping sharp night time photos. The image quality is great, there is lots of detail and the noise levels are kept amazingly low for such conditions. We do suggest turning Rich Capture off at night, as it often ruined the shots for us.</paragraph>
+			<paragraph>You can, of course, tweak manually the shooting settings and take even more impressive pictures with the slow shutter mode, which offers shutter speeds as long as 4sec.</paragraph>
+			<paragraph>And here is a demo of the dynamic flash option. We tweaked the flash at 70% post shooting and the result is the second picture. Thanks to the RGB triple-LED flash, the white balance and colors also change when you begin moving the slider, so you will be able to find the perfect balance for sure.</paragraph>
+			<paragraph>Finally, if you install the Lumia Panorama lens, you can snap 50MP panoramic images with impressive quality. The process is slow and requires you to follow a guideline process, but it's totally worth it. Plus, Microsoft promises to update the app and make it better.</paragraph>
+			<paragraph>You can take a look how the Lumia 950 stacks up against the competition in our Photo Compare Tool.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>4K video recording, 1080p capturing with lossless zoom<subsectionTitle>
+			<paragraph>The Camera app isn't limited to shooting still images, it can capture videos too. Tapping the video icon at the top gets you to the video part of the app. There you have access to just the relevant settings: flash, white balance, exposure and focus. The focus can be set to either manual, auto or infinity.</paragraph>
+			<paragraph>Video recording also makes use of OIS. The videos are nice and steady even when handheld.</paragraph>
+			<paragraph>The digital zoom is enabled even during video capture and it can go up to 3x in 1080p mode and up 4x in 720p mode. The 1080p videos are recorded at 30fps, but you can pick 60fps, 24fps and 25fps too.</paragraph>
+			<paragraph>The Lumia 950 has a total of four mics (two at the front, two on the back) with the company's proprietary Rich Audio Recording for distortion-free sound recording in loud environments. Basically the sound in front of the camera is recorded clearer than the rest, potentially dealing with unwanted noises in your video and enhancing a subject's voice.</paragraph>
+			<paragraph>The Lumia 950 shoots excellent 4K videos with a resolution of 3840 x 2160 pixels and a steady framerate of 30 fps. The bitrate is also quite impressive at 52 Mbps, coupled with a 48 kHz audio sampling rate - captured in stereo, of course. Resolved detail is very good, the colors and white balance are spot on, while the dynamic range is really impressive. Overall, the Lumia 950 offers 4K video fit for a flagship.</paragraph>
+			<paragraph>The same applies for the 1080p videos captured at 30fps (18Mbps bitrate) and 60fps (36Mbps bitrate). The resolved detail is even better here, the noise levels are low, the colors and contrast are superb, as is the dynamic range. Excellent job, indeed.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>You can also download the untouched video samples: 4K at 30fps (12s, 73MB), 1080p at 30fps (11s, 24MB), 1080p at 60fps (14s, 60MB).</paragraph>
+			<paragraph>Finally, you can use our Video Compare Tool to see how the Lumia 950 stacks against the competition when it comes to video capturing.</paragraph>
+			<paragraph>   Microsoft Lumia 950 in our video compare tool: 2160p resolution</paragraph>
+			<paragraph>   Microsoft Lumia 950 in our video compare tool: 1080p resolution</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Microsoft Edge explores the web<subsectionTitle>
+			<paragraph>Naturally, Microsoft brought their new web browser - Edge (previously known as Spartan) - to Windows 10 Mobile as well. It looks a lot like the IE11 we saw in the last Windows Phone 8.1 OS, but it's lighter, faster and with even simpler interface.</paragraph>
+			<paragraph>It supports bookmark sync with your Microsoft account, there is Reading list, Reading mode, incognito tabs and download manager. Find on page option is here to stay.</paragraph>
+			<paragraph>The Edge renders pages great, it's fast and we can safely say it is catching up with Chrome just in time.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>App package<subsectionTitle>
+			<paragraph>Microsoft's Windows 10 Mobile comes with a rich preinstalled set of apps.</paragraph>
+			<paragraph>First - you get the latest versions of Word, Excel, PowerPoint and OneNote. Creating, viewing or editing documents and presentation is very easy, as is taking notes and checklists. It's the best office suite out there and has tight integration with OneDrive, which means you will be getting all of your files synced across all of your devices, no matter the OS.</paragraph>
+			<paragraph>All apps from the MS office suite support Continuum and expand just awesome in full-blown desktop mode.</paragraph>
+			<paragraph>OneDrive is onboard of course, with 30GB free space for starters. Its user interface is getting friendlier by the day and many people are already preferring it over Dropbox.</paragraph>
+			<paragraph>All other organizing tools are available at first run - there are Outlook Calendar, Alarms, Calculator and Weather apps. The Calculator is one of the best apps of this kind we've encountered so far - it supports all kind of stuff - scientific and programmer calculators, various volume, length , weight, temperature, energy, speed, time, power, pressure, angle conversions, among others. And the interface is very intuitive.</paragraph>
+			<paragraph>Microsoft's Money, Sport, and News apps are available, too. The News app is particularly great and aggregates news stories from a plethora of sources. Flipboard comes pre-installed as well.</paragraph>
+			<paragraph>The updated Xbox app is here too, you can view and compare achievements, chat with your friends, invite them to game sessions, edit your avatar, among other things. You can even use your Lumia 950 screen for remote Xbox One gaming, once you connect your console to the app. You still need to play with a controller though, so you'll have to get a proper accessory to combine the wireless controller with your Lumia smartphone.</paragraph>
+			<paragraph>You can shop Xbox One and Windows 10 apps from here as well, and they will later install on your console or PC.</paragraph>
+			<paragraph>Finally, the new Windows Maps app, based on Here map data, allows you to search for places, view nearby POIs, and, of course, it can do turn-by-turn voice-guided navigation. Offline maps are available, too.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Microsoft Lumia 950 key test findings<subsectionTitle>
+			<paragraph>The Microsoft Lumia 950 offers great build-quality and clean simplistic design, but it isn't flagship or premium, as the phone's price tag.</paragraph>
+			<paragraph>The flagship AMOLED display with Quad HD resolution and ClearBlack technology delivers very high pixel density at 564ppi. Colors and contrast are gorgeous, sunlight legibility is top-notch.</paragraph>
+			<paragraph>Windows Hello works as advertised and while it's slower in unlocking the phone than the current crop of fingerprint sensors, it is still really cool to use.</paragraph>
+			<paragraph>Battery life is slightly below average at 48 hours of endurance rating, as are the scores from all the individual battery tests.</paragraph>
+			<paragraph>Windows 10 Mobile is on the right track, refining the interface and catching up with features and services. It has tight integration with Skype, Office and OneDrive, it offers an Xbox app and Offline navigation. Windows 10 Mobile is shaping up to be one of the most feature-rich mobile OS's right now.</paragraph>
+			<paragraph>Windows Continuum also works as advertised - the Dock allows you to attach USB accessories, but you don't have an actual desktop with icons, you don't have true multi-tasking or side-by-side windows, plus you can't run Win32/64 apps. While all system apps are Continuum compatible, currently there are no games that support it, and the optimized third-party apps are very scarce, too. Since it's a new feature launching for the first time, we're willing to give it the benefit of a doubt - perhaps it will really take off once developers give it proper attention.</paragraph>
+			<paragraph>Performance-wise, the Lumia 950 is a true powerhouse, equipped with the top-end Snapdragon 808 SoC. CPU performance is top-notch, GPU will do great with 1080p apps. The phone does not rely on the new liquid cooling and indeed it gets warm under heavy pressure and Continuum, but it doesn't overheat.</paragraph>
+			<paragraph>The speaker on the Lumia 950 scored Very Good in terms of loudness and indeed it's very loud even in the noisiest of environments. The speaker sound quality is okay, but not impressive, the sound isn't very deep.</paragraph>
+			<paragraph>The video player managed to play almost every video format we threw at it, except those files with AC3 audio encoding. Subtitles are supported.</paragraph>
+			<paragraph>Audio output quality is very good, but not among the best out there.</paragraph>
+			<paragraph>The still camera quality is top-notch - rich detail levels, little noise and accurate colors and contrast. Lossless zoom, rich capture and DNG support are very nice additions.</paragraph>
+			<paragraph>The captured videos offer class-leading video and audio quality, the 1080p and below videos can use lossless zoom, too.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>So far we've shared some overwhelmingly positive impressions with you throughout the review and indeed, we're quite happy with most aspects of the Lumia 950. It's got a clean and sturdy design, powerful hardware, a top-notch camera and the best mobile Windows OS yet. Windows Hello and Windows Continuum are also two unique features.</paragraph>
+			<paragraph>Granted, it's not all sunshine and roses in the Lumia 950 garden. The camera app seems rather slow in taking snaps and saving them on the flash storage. There is also the issue with the questionable battery life. Windows Continuum, innovative as it is, also didn't turn out to be as groundbreaking as the initial presentations suggested.</paragraph>
+			<paragraph>And while we may be witnessing Windows Mobile's universal apps store getting new apps by the hour, most of the users may still find it lacking their favorite app or game if they are coming from Android or iOS. At least Windows finally has the chance of catching up as the universal Mobile, Desktop and Xbox apps make their way to users.</paragraph>
+			<paragraph>One thing is certain - the Lumia 950 lives up to the hype and delivers on all advertised promises. We do not agree with Microsoft on the high price tag though, regardless whether the dock is bundled or not, as Microsoft is the underdog on the mobile market right now and the high price is not the right way to win the users' hearts.</paragraph>
+			<paragraph>After all is said and done, we remain to see the context in which the Microsoft Lumia 950 enters the market. After all, it's the available competition that puts any product into perspective.</paragraph>
+			<paragraph>For starters, the Microsoft Lumia 950 has a bigger Lumia 950 XL sibling, which bumps the screen size up to 5.7", while retaining the AMOLED panel with Quad HD pixel count. The chipset also gets an upgrade - it is the Snapdragon 810 flagship with liquid cooling. The extra screen estate and processing power punch will cost you some extra ?90.</paragraph>
+			<paragraph>The Galaxy S6 (?460) and Galaxy S6 edge (?550) are still considered as two of the mightiest droids on the market today and are a match for the Lumia 950's screen. They offer faster chips, probably the best 16MP snappers on the market and premium dual-glass design with metal frame. The TouchWiz skins the Android OS entirely, but it is now cleaner and lighter, yet still very powerful, so you might consider those instead. Samsung provides a very nice PC feature call Side Sync, where you can navigate the phone's UI from your computer - it might not be as cool as Continuum - but it is still very nice.</paragraph>
+			<paragraph>The 5.5" LG G4 is a great match for the Lumia 950 - it has a Quad HD screen, it runs on Snapdragon 808 and offers an attractive camera hardware. The phone looks great, especially with the leather covers and it has already become a top seller on various retailers due to its tempting ?430 price tag.</paragraph>
+			<paragraph>If you are after the pure Android experience, then the new Nexus 5X should serve you fine as well. It has a 5.2" 1080p screen, a Snapdragon 808 chipset and a surprisingly capable 12.3MP camera - especially in low light. It also costs ?430, but lacks the memory expansion slot.</paragraph>
+			<paragraph>The Xiaomi Mi 4c is one of the surprises of the season. It costs half the Lumia 950, but matches the compact footprint and chipset. Sure, its IPS display is 'just' of 1080p resolution and the stunning camera does 'only' 13MP stills, but we are sure most people will appreciate its value for money package.</paragraph>
+			<paragraph>Meizu MX5 is an alternative with an AMOLED screen, equal performance and very capable 20MP camera. It's made of metal and comes with the appealing Flyme launcher on top of Android Lollipop OS.</paragraph>
+			<paragraph>Finally, if none of these work for you, there is the Apple iPhone 6s with a very popular, though closed, iOS ecosystem and the richest Apps Store in the mobile world. The performance is better, the screen and camera are inferior, but none of these really matters that much in Apple's universe. It comes at a hefty price premium over the Lumia 950 so there's that as well.</paragraph>
+			<paragraph>Microsoft has done an amazing job with the Lumia 950, keeping up every promise made around the announcement and that's a rare sight. It's an eagerly anticipated phone and after having used it for a while, we can certainly admit it deserves every bit of praise it gets. Except perhaps for the price, which could hopefully see go down to more reasonable levels soon enough.</paragraph>
+			<paragraph>The way Microsoft runs its mobile business is another matter entirely and we are yet to see whether the moves and decisions they've taken lately will help turn their fortunes around. We sure hope they do, as the potential is immense - it's only a matter of approaching it the right way and we hope they get it right. True competition is a good thing and it always benefits the end user.</paragraph>
+		</subsection>
+	</page>
+</review>

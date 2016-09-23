@@ -1,0 +1,49 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Shangri-la</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Shangri_la/13066560</link>
+	<generalScore>7.7</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>16</numberOfVoters>
+		<numberOfVoters>9</numberOfVoters>
+		<numberOfVoters>1</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Shangri-la</title>
+		<author>Gendar</author>
+		<date>2016-09-19</date>
+		<score>0.8</score>
+		<content>Avant d'attaquer le contenu, je tiens déjà à saluer l'effort d'Ankama pour la forme. Moins de 20€ pour une BD couleur grand format de plus de 200 pages avec un dos tissé, c'est pas tous les jours que le lecteur fétichiste peut mettre la main sur un si bel objet. Mais bon une BD, c'est quand même et principalement, une histoire avec des dessins. Et pour le coup, le ramage est à la hauteur du plumage. Je découvre le travail de Mathieu Bablet et une chose est sûre, je crois que je vais suivre ce que fait le monsieur. Car Shangri-la est vraiment une bonne histoire de SF qui pourrait sembler manquer de subtilité dans sa première partie en s'attaquant à la société de consommation, mais la manière dont il va développer cet angle d'attaque est vraiment bien trouvée et donne toute son originalité à cette histoire assez sombre et désabusée sur la nature humaine. Graphiquement, c'est une jolie claque que ce soit au niveau du dessin avec des designs technologiques beaux et détaillés ou de la mise en couleurs qui joue beaucoup sur les ambiances et les atmosphères. Bablet est un auteur de talent qui possède une vraie patte graphique et un talent certain pour le découpage. Shangri-La de la bonne et belle SF.</content>
+	</review>
+	<review>
+		<title>Un peu plus près des étoiles</title>
+		<author>Petitcheminot</author>
+		<date>2016-09-14</date>
+		<score>0.7</score>
+		<content>En tant qu’adepte du 9 ième art et fan de SF (voir Hard SF) j'attendais avec une impatience non feinte la sortie du dernier livre de Mathieu Bablet, et cela d'autant plus que le teasing était savamment entretenu sur Twitter. Les indices me laissaient imaginer un mix entre le Planètes de Makoto Yukimura et l'Universal War de Denis Bajram, une touche d'onirisme en plus, comme Adrastée le laissait transparaitre, ça partait donc plutôt bien! Pourtant à l'issue de la lecture de Shangri-la j'étais réservé... En effet si les dessins sont particulièrement travaillés, voir léchés avec un grand niveau de détails, il existe une utilisation parfois outrancière des filtres de couleurs qui tendent à "bruler l'image". C'est certes la patte (eh eh) de l'auteur et cela contribue à l'identité visuelle de l’œuvre mais son recours constant peut conduire à une certaine lassitude et nuit justement au travail de finition minutieux qui s'en retrouve masqué. De même sur l'intrigue passionnante menée sur fonde de biotech on notera de ci de là un manque de subtilité (le revirement de Scott est spectaculaire par exemple) ainsi qu'une simplicité dans les références que l'on aurait souhaité peut être plus travaillées (je pense au tel notamment) . Enfin si l'univers dépeint est passionnant il n'en demeure pas moins quelques incohérences qui nuisent à la crédibilité de l'ensemble (Comment imaginer par exemple une station oppressante et confinée ou les gens dorment dans des cubes à la Cinquième élément quand il existe par ailleurs des secteurs entiers de la station qui sont désaffectés?) Et puis le temps permets la décantation de l’œuvre et finalement ces grains de sable restent dans le tamis pour laisser place au message principale, à l'essence du livre, le ressenti d'immensité et la position de l'Homme la dedans. Et cela transcende complètement les écueils mentionnés ci dessus pour laisser une impression définitive, aussi infinie que l'espace qui l'inspire. Un (beau) livre, de grande qualité qui sans être parfait rejoins les ambitions que l'on pouvait percevoir dans les premières pages. Assurément un grand moment de l'année.</content>
+	</review>
+	<review>
+		<title>magistral</title>
+		<author>Maxime Sp</author>
+		<date>2016-09-13</date>
+		<score>0.8</score>
+		<content>Voila un de mes nouveaux coups de coeur de la rentrée. Un album incroyablement ambitieux tant sur le plan scénaristique que graphique. Bablet est un jeune auteur issu du crew 619 chez Ankama. Son talent était déjà visible dès les premiers livres mais là cela prend une autre dimension. Le thème sur une société "parfaite" et totalitaire est dans la veine de 1984 d'Orwell, mais aussi de la Zone du dehors de Damasio. On sent aussi l'influence des récits de Christin et Bilal, il y a quelques parallèles avec la Ville qui n'existait pas. Bref de belles influences que Bablet sait réinterpréter en créant des liens avec l'actualité récente. Le tout sur fond de science fiction. Graphiquement c'est un régal. Bablet arrive à donner une ampleur très cinématographique à chaque page. Son aisance est impressionnante, lui permettant d'expérimenter tout au long de l'album. Bref pour faire simple, une putain de claque.</content>
+	</review>
+	<review>
+		<title>SF intéressante</title>
+		<author>Daniel Dupont</author>
+		<date>2016-09-12</date>
+		<score>0.8</score>
+		<content>L'histoire utilise des thèmes classiques de la SF (animaux, post-cataclysme, vie industrialisée, classe dirigeante autoritaire "bienveillante", scientifiques sans éthique, etc.) mais avec une perspective qui ravira même les amateurs blasés. Le dessin et la couleur sont agréables sans être exceptionnels: Les planches très aérées sont au service de l'histoire. Rapport "qualité/prix" exceptionnel. Le label 619 aurait pu en faire 3 tomes!</content>
+	</review>
+</sensCritiqueEntity>

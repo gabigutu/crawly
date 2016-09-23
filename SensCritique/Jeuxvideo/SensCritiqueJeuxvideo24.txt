@@ -1,0 +1,21 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>World of Warcraft : Legion</nameFr>
+	<typeEn>Game</typeEn>
+	<typeFr>Jeuxvideo</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/jeuvideo/World_of_Warcraft_Legion/16848948</link>
+	<generalScore>8.4</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>8</numberOfVoters>
+		<numberOfVoters>26</numberOfVoters>
+		<numberOfVoters>26</numberOfVoters>
+		<numberOfVoters>11</numberOfVoters>
+	</scoreDistribution>
+</sensCritiqueEntity>

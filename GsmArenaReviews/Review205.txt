@@ -1,0 +1,76 @@
+<review>
+	<title>LeTV (LeEco) Le 1s hands-on</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/letv_le_1s_hands_on-review-1373.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>LeTV Le 1s at a glance<subsectionTitle>
+			<paragraph>Dual SIM phone</paragraph>
+			<paragraph>Aluminum body with Corning Gorilla Glass 3, 7.5mm profile, 169g</paragraph>
+			<paragraph>5.5-inch, 1920x1080 IPS LCD</paragraph>
+			<paragraph>2.2GHz 8-core MediaTek Helio X10 processor</paragraph>
+			<paragraph>3GB RAM, 32GB storage (25GB available to the user)</paragraph>
+			<paragraph>Android 5.0</paragraph>
+			<paragraph>LTE, Wi-Fi 802.11ac, Bluetooth 4.1, GPS, USB Type-C</paragraph>
+			<paragraph>13MP rear camera with ISOCELL sensor, phase detect autofocus, EIS and 4K video recording, 8MP front camera</paragraph>
+			<paragraph>3000mAh battery with Quick charging</paragraph>
+			<paragraph>Fingerprint sensor</paragraph>
+			<paragraph>IR Blaster for remote controlling appliances</paragraph>
+			<paragraph>USB Type-C port, MHL 2.0</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>LeTV made the news at this year's CES where Qualcomm announced LeTV would be the maker of the first phone with the high-end Snapdragon 820 chipset.</paragraph>
+			<paragraph>The LeTV Le 1s is a mid-range smartphone from the Chinese company LeTV. The company has recently started operating internationally. The 1s is one of the two phones it's launching, the other being the flagship Le Max.</paragraph>
+			<paragraph>Both the phones have attractive price tags, but it's the 1s that takes the cake with premium design and features being packed into an extremely competitively priced package (sub$200). You will understand why, as soon as you see the main points on its spec sheet.</paragraph>
+			<paragraph>Yup, it almost looks to good to be true. Indeed, we've seen other compelling budget propositions in this screen size category - the likes of the Meizu m1 metal ($249 for 32GB) or the Xiaomi Redmi Note 3 ($235 for 32GB) - but none of them has 4K video recording. Also, both are more expensive than the Le 1s.</paragraph>
+			<paragraph>LeTV is an unusual name for a phone maker, but you have got to remember that they are originally a popular streaming video producer - something like the Netflix of China. They've already realized that the brand name may not be accepted warmly on Western markets so you can already find their products under derivative brands such as Le and LeEco.</paragraph>
+			<paragraph>Anyway, time to have a closer look at the LeTV Le 1s.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Design<subsectionTitle>
+			<paragraph>For its price, the 1s is extremely well designed and premium feeling product. The phone's body is mostly made out of aluminum, with chamfered edges and smooth, matte finish back.</paragraph>
+			<paragraph>It's the little touches that make it stand out - such as the display that seemingly goes all the way to the edge or the symmetrical position of the camera lens and light sensor next to the earpiece. There are also the perfectly invisible but backlit keys below the display, the stealthily hidden antenna bands, the mirror finished fingerprint sensor on the back and the slotted grilles for the speaker and microphone. Except for some of its rough edges (quite literally), the phone is remarkably premium in both design and feel that makes it impossible to guess the low price.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Le 1s has a 5.5-inch, 1920x1080 IPS LCD with Gorilla Glass 3. When not lit, the design gives the feeling of the display stretching going all the way to the edges with zero bezels, but that's not quite the case. Still, the bezels aren't too thick, even when the display is lit up.</paragraph>
+			<paragraph>The screen is impressive, with vivid colors, relatively accurate white point, and good sharpness. You can change the color mode through the settings to one of the four available options. The display also has decent visibility under direct sunlight and good viewing angles. It also gets dim enough for use in the dark.</paragraph>
+			<paragraph>Our only complaint regarding the display and this is becoming a common one, is the fluctuating brightness based upon content, generally referred to as dynamic contrast. The Le 1s display, in particular, makes sharp cuts to the brightness, especially noticeable while watching videos, as the display brightness goes up and down between scenes based on the screen content. Unfortunately, just like on the Lenovo Vibe X3, there is no option to disable this, and it's just something you have to live with.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Software<subsectionTitle>
+			<paragraph>The 1s runs on a MediaTek Helio X10 chipset, with 3GB RAM and 32GB storage (non-expandable). The phone is dual SIM, with support for LTE, along with Wi-Fi 802.11 a/b/g/n/ac, Bluetooth 4.1, and GPS. There is no NFC.</paragraph>
+			<paragraph>The software on the phone is Android 5.1 Lollipop, with LeTV custom UI on top. The custom UI runs pretty deep and changes pretty much every aspect of the UI. The launcher is the usual iOS style affair we see on Chinese brands, with all the app icons on the homescreen.</paragraph>
+			<paragraph>The notification screen is completely clear of any shortcut buttons. Everything has moved to the multitasking menu, which has shortcuts to apps such as the camera, calculator, flashlight, along with the usual toggles for Wi-Fi, Bluetooth, etc., music playback controls, and also the brightness slider.</paragraph>
+			<paragraph>Combined with the app windows, the task manager becomes all too crowded, and that takes a while to get used to. LeEco even went as far as changing the system font, which now looks like Helvetica, and it is consistent everywhere across all apps, even third-party ones.</paragraph>
+			<paragraph>Whether the customizations are good or bad is a personal preference at this point, with some people liking them while others are preferring stock UI. If you're in the latter camp, it's better to stay away from this phone, as there is nothing that resembles stock Android here. As for updates, it's not clear at this point whether the 1s will be updated beyond Lollipop but it's best not to hold your breath for it.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Performance<subsectionTitle>
+			<paragraph>The performance on the 1s was quite satisfactory. Scrolling and app launches are smooth and fast. The 3GB RAM also helps with multitasking significantly. Even gaming performance was quite good, with the phone handling light to moderately heavy 3D games relatively well. The 1s is by far one of the best performing phones in its price range.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Battery Life<subsectionTitle>
+			<paragraph>We didn't do our usual battery life tests on the 1s but in our usage, the 3,000mAh battery did alright, with over four hours of screen-on time with regular use.</paragraph>
+			<paragraph>The phone comes with a fast charger, charging the phone from flat to 100% in about 90 minutes.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Camera<subsectionTitle>
+			<paragraph>The 1s has a 13-megapixel camera on the back and an 8-megapixel camera on the front. Camera quality is perhaps the biggest downside to this phone, as neither of the cameras is any good.</paragraph>
+			<paragraph>The rear camera often blows out highlights and has bland washed out colors. Low light images are terribly noisy with poor detail.</paragraph>
+			<paragraph>The front camera is not much better. If you're concerned about image quality, it's best to avoid this phone. They had to cut some corners to go down to this price.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Verdict<subsectionTitle>
+			<paragraph>The LeEco 1s is priced very well, especially in India, which is one of its key international markets, where it goes for Rs. 10,999 ($165). At this price, it would be hard to be picky with its flaws.</paragraph>
+			<paragraph>Fortunately, there isn't a whole lot wrong with it. In fact, it does quite well in many areas, such as design and build quality, display, and performance. Where it falters is in camera quality, and the company may have gone a bit overboard with the UI customizations. But apart from that, there is not much to fault, and at this price, the phone is a steal.</paragraph>
+		</subsection>
+	</page>
+</review>

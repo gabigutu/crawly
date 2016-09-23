@@ -1,0 +1,42 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Big Man Plans</nameFr>
+	<typeEn>Comics</typeEn>
+	<typeFr>BD</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/bd/Big_Man_Plans/20938370</link>
+	<generalScore>7.5</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>3</numberOfVoters>
+		<numberOfVoters>12</numberOfVoters>
+		<numberOfVoters>20</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Plus c'est petit, plus c'est mignon.</title>
+		<author>Pierre Sopor</author>
+		<date>2015-07-13</date>
+		<score>0.7</score>
+		<content>Eric Powell n'est pas un mec rigolo. Enfin si, très rigolo même : The Goon, c'est souvent hilarant. Et puis parfois, sans crier gare, le ton devient particulièrement plus sombre, violent et dépressif. Sur Big Man Plans, Powell et Tim Weisch se sont lâchés dans cette voie : ultra-violent et pessimiste, cette histoire ne laisse que très peu de place à l'humour, et encore : il est si noir qu'il ne fait qu'ajouter au malaise. Dents arrachées à la pince, émasculations, viol... Big Man ne fait pas dans la dentelle. Et si le surenchère dans le sordide peut parfois lasser, on finit par s'attacher à ce Big Man, nain revanchard au cœur brisé et à l'esprit ravagé. Et ne serait-ce que pour les dessins, notamment les flash-backs crayonnés de Powell, Big Man Plans vaut le détour. Une idée cadeau parfaite pour mémé : ça et la canicule, ça devrait vous aider à hériter plus vite.</content>
+	</review>
+	<review>
+		<title>Mais pourquoi est il aussi méchant ?!</title>
+		<author>Nicolas Auproux</author>
+		<date>2016-01-30</date>
+		<score>0.9</score>
+		<content>Voila qui résume bien ce titre. Big Man Plans ( BMP pour les intimes ), se situe dans la lignée de l’œuvre de powell. Violent voir très violent, sombre et drôle. Comme à son habitude nous suivons le parcours d'un freak comme powell sait si bien les dessiner. Un passer lourd créant ainsi un anti héro tourmenté au possible dans une histoire de vengeance que Tarantino et Peckinpah pourraient lui envier. Oscillant sans cesse entre le léger et le grave, le récit arrive a nous tenir captif du début à la fin. Construit sur le principe de flashback qui nous dévoilent au fur et à mesure du récit les motivations qui poussent notre petit homme a être si violent. Le dessin évolue d'ailleurs en fonction de l'époque ou se place l'histoire, comme il l'a déjà si bien fait pour the goon dans le volume chinatown. La où Powell est très fort, c'est qu'il parvient à rendre notre héro attachant, car sa violence n'est qu'une réponse à celle qui régit le monde dans lequel il évolue le plaçant ainsi à la place du justicier. BMP c'est donc du très bon Powell. Et même si il reste dans sa zone de confort en abordant une fois de plus les mêmes thèmes, il parvient toujours à nous livrer un récit efficace et foutrement jouissif ! Foncez donc sur ce titre, et si vous n'êtes pas à l'aise avec l'anglais, ce comics ne devrait pas tarder à sortir en france.</content>
+	</review>
+	<review>
+		<title>Heu...</title>
+		<author>Comics Records</author>
+		<date>2016-04-06</date>
+		<score>0.5</score>
+		<content>D'une incroyable violence, quasi gratuite. Sans doute un défouloir pour Powell et Wiesch mais une épreuve pour le lecteur</content>
+	</review>
+</sensCritiqueEntity>

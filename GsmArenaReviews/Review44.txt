@@ -1,0 +1,259 @@
+<review>
+	<title>Acer Liquid review</title>
+	<description>Android breed</description>
+	<link>http://www.gsmarena.com/acer_liquid-review-445.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>3G with HSDPA 7.2 Mbps and HSUPA 2Mbps</paragraph>
+			<paragraph>Android OS v1.6 with Acer UI 3.0</paragraph>
+			<paragraph>3.5" capacitive touchscreen of WVGA resolution</paragraph>
+			<paragraph>Qualcomm Snapdragon 8250 768 MHz CPU, 256 MB RAM</paragraph>
+			<paragraph>5 megapixel autofocus camera with video recording</paragraph>
+			<paragraph>Wi-Fi 802.11 b/g and GPS receiver</paragraph>
+			<paragraph>Accelerometer sensor for auto-rotate and turn-to-mute</paragraph>
+			<paragraph>Digital compass</paragraph>
+			<paragraph>Standard miniUSB port for charging and data</paragraph>
+			<paragraph>Stereo Bluetooth (A2DP)</paragraph>
+			<paragraph>microSD card slot with support for up to 16GB cards (2GB one included)</paragraph>
+			<paragraph>Standard 3.5mm audio jack</paragraph>
+			<paragraph>Direct access to the official Android Market</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Camera lacks flash or lens cover, has outdated features</paragraph>
+			<paragraph>No smart dialing, no voice dialing, no video calling</paragraph>
+			<paragraph>No web Flash support</paragraph>
+			<paragraph>Acer UI 3.0 offers only minor changes to the original interface</paragraph>
+			<paragraph>Somewhat limited 3rd party software availability</paragraph>
+			<paragraph>No DivX or XviD video support or a third-party application to play that</paragraph>
+			<paragraph>Poor MP4 playback performance - any videos over QVGA res are barely watchable</paragraph>
+			<paragraph>No proper file manager out of the box</paragraph>
+			<paragraph>No TV-out port</paragraph>
+			<paragraph>No FM radio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>The Android meter is ticking. Acer want a piece of the pie. We all add two and two together. Yesterday, Acer didn't know the first thing about phones (if you can say that for a household name in notebooks), today they're betting on two horses in the mobile OS race. After their neoTouch running on Windows Mobile 6.5, Acer decided to dip their toe into another kind of water - the free and open source world of Android. This time attention goes to the Liquid - the company's second Snapdragon powered device.</paragraph>
+			<paragraph>We have to admit we weren't as impressed as we wished by the neoTouch and its almost naked Windows Mobile OS. It was less the price and more the really strong competition that drew our attention away from it.</paragraph>
+			<paragraph>We're certain it's not how Acer planned it to be and their answer was immediate - the sexy Liquid powered by Android 1.6. Just like the neoTouch, a Snapdragon core is ticking inside the Liquid and does all it can to run the OS flawlessly despite the slightly lower clock rates.</paragraph>
+			<paragraph>Both lists give us a sense of deja-vu. It was a similar case with the neoTouch, but this time the situation is a bit different. Some of the Liquid's weaknesses are inherent to the Android OS (especially its first iteration, the Donut). It's not that they won't count against, but it's at least fair to note most of those are not Acer's fault.</paragraph>
+			<paragraph>Anyway, the Liquid will be measured against the likes of HTC Magic, HTC Hero, Samsung Galaxy and Samsung Galaxy Spica and it sure has a few things to offer that they won't. WVGA resolution and sky-high processing speeds are enough of an edge against competitors. The excellent capacitive screen and all-round connectivity are perhaps no news for the Android species.</paragraph>
+			<paragraph>So, Acer are newcomers but they're keen to bring value. Let's see how their Android fits in that plan.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Liquid unpacked<subsectionTitle>
+			<paragraph>Starting with the basics, in the retail box you'll find a charger, data cable and a headset. You can use your favorite headphones of course thanks to the 3.5mm audio jack. The charger connects to the phone's miniUSB port.</paragraph>
+			<paragraph>The retail box also includes a 2GB microSD memory card, manuals and a CD with manual.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Acer Liquid 360-degree view<subsectionTitle>
+			<paragraph>The size of the Acer Liquid is quite friendly, it measures 115 x 62.5 x 12.5 mm and weighs in at 135 grams. Tiny it isn't, but the 3.5" touchscreen is a good enough excuse and the best way to prove this is putting it alongside some of the competition. The Liquid is the size of an iPhone and much smaller than the Omnia HD.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The full-touchscreen form factor can be pretty limiting for manufacturers in terms of design and devices are beginning to look more and more alike with very few aesthetic distinctions. While that may be true, Acer have tried to push the envelope more than most others and the result is one very sexy Liquid. The huge touchscreen covers most of the front, while the back is pretty plain. The rounded edges certainly earn it some bonus points.</paragraph>
+			<paragraph>The 3.5" capacitive touchscreen unit has a resolution of 800 x 480 pixels and amazing image quality. With its type, size and resolution, you can chalk this one up as 'great' in our books.</paragraph>
+			<paragraph>As with the XPERIA X10, that 65K-color limitation of the Android 1.6 Donut takes its toll on some occasions, but unless it's single-color gradients that you are looking at, it won't bother you much in day-to-day usage. The default UI graphics by the way have been carefully chosen not to expose this weakness.</paragraph>
+			<paragraph>The sensitivity of the display is great as well - just what you'd expect in a capacitive touchscreen. You don't need a push but only a slight touch for a click to be registered. The snappy Snapdragon also plays a part as the responsiveness of a device is the screen and processing power in equal measures.</paragraph>
+			<paragraph>The four keys below the display are touch-sensitive and similar to the capacitive display in that they will react only to your naked fingers. They are comfortable, but unfortunately don't provide any haptic feedback. The left button serves the Home function, next is search, followed by Back and the typical Android contextual Menu.</paragraph>
+			<paragraph>Unlike the majority of first-generation Androids, Acer's Android has no dedicated Call and End keys obviously in keeping with the latest Android styling. For that purpose you can use the virtual on-screen keys instead.</paragraph>
+			<paragraph>The right side of the handset features the camera key and the volume rocker, which also doubles as a zoom control. Those are both painted in silver, comfortable and easy to use.</paragraph>
+			<paragraph>The left side of Acer Liquid features only the Power/Lock key, also finished in silver.</paragraph>
+			<paragraph>The top of the Liquid hosts the 3.5mm audio jack and three hidden indicators - battery, messages and missed calls. From time to time, the status LED's blink with a soft white light from beneath the otherwise pitch black glossy plastic. They are very useful and give the Liquid an even more distinguished look.</paragraph>
+			<paragraph>At the bottom of the Acer Liquid we find the miniUSB port and the mouthpiece. The connectivity port is covered by a small rubber lid to keep away dust and avoid an unnecessary gap in the otherwise smooth curved surface. Acer went for a miniUSB connectivity port on the Liquid instead of a microUSB one.</paragraph>
+			<paragraph>The back of the handset features the 5 megapixel camera lens and the loudspeaker grill. In addition, there's an Acer logo and a really huge - perhaps unnecessarily - camera class description.</paragraph>
+			<paragraph>Unfortunately, there is no protection for the camera lens, so you should be particularly careful not to scratch it. It's recessed quite a bit but any sharp objects in your pocket might get dangerously close - the Liquid doesn't come with a carrying case in the box.</paragraph>
+			<paragraph>The microSD card slot is under the rear cover, but you have to remove the battery itself to access it. And that means it's not hot-swappable.</paragraph>
+			<paragraph>The Acer Liquid is well built. It's all made of plastic but still feels solid in the hand. The white paintjob is quite impressive, with contrasting black front, top and bottom. Despite all that plastic, the Liquid not only feels sturdy but is quite fingerprint resistant too. Only the front panel takes on an increasingly smudgy appearance as the day goes by, but surprisingly not as much as we expected. It seems that Acer are using better glossy plastics than some of the other manufacturers.</paragraph>
+			<paragraph>The black version will probably prove more popular (and more of a fingerprint magnet), but white is a rare paintjob for phones and it works quite well for the Acer Liquid. White certainly doesn't make the Liquid look slimmer and smaller but it does look hot. And one thing is for sure - it feels really nice to hold.</paragraph>
+			<paragraph>So, that's about it on the hardware and handling. But the Liquid goes on and we're back after the jump with the software side of the deal.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>We've already had a taste of Eclair, so the first generation Android UI should be no revelation. But for the review to be complete, we'll go through it once again.</paragraph>
+			<paragraph>The Donut in the Acer Liquid is a mature implementation that has been optimized and free of bugs. It feels extremely zippy and to be honest it should. There's a Snapdragon inside (downclocked from 1GHz to 728MHz), and the OS seems to take full advantage of it.</paragraph>
+			<paragraph>Since the Acer Liquid is the first Android-based smartphone powered by the Snapdragon CPU, we decided to do a benchmark and see how it will stack up next to the upcoming phones running the Android OS.</paragraph>
+			<paragraph>We used 4 different applications which we found in the Android Market - Benchmark, BenchmarkPi, Neocore, and MemBench. All of them can be downloaded for free.</paragraph>
+			<paragraph>Take a look at the screenshots below.</paragraph>
+			<paragraph>But enough of how quick it is, let's look at what it actually does. The focal point of the interface is the homescreen. Maybe it's because of its aspirations to be a netbook instant-on OS but it looks closer to a desktop than a mobile phone's homescreen.</paragraph>
+			<paragraph>The homescreen is three times the size of the display (side-scrollable), giving you enough room to organize all the items you want to put up front. And there are plenty of things that can go up there. The screen shows you one third of the actual homescreen and you can sweep left or right to get to the other panes.</paragraph>
+			<paragraph>On the homescreen there are three major types of items - the good old shortcuts, then folders and finally, widgets.</paragraph>
+			<paragraph>First off, shortcuts are just like the shortcuts on your desktop computer, so not much to explain here.</paragraph>
+			<paragraph>Folders can help you keep the shortcuts organized but you can't put folders within folders. Still, they can be used for a few quick tricks - like faking a quick-dial contact list. A shortcut to a contact uses that contact's photo so all you have to do is put them in a folder.</paragraph>
+			<paragraph>But this is hardly very interesting - it's when live folders come into play that it gets exciting. The main difference to ordinary folders is that the live folders are automatically filled with content.</paragraph>
+			<paragraph>All sorts of lists can go into Live folders - for example, you can have a folder that contains all the tweets from a contact, or an RSS feed, or maybe even a folder with all the good restaurants within walking distance from a given location.</paragraph>
+			<paragraph>The preinstalled Live folders are "Contacts with phone numbers" and "Starred contacts". They are filled with your Gmail contacts that either have phone numbers or are starred.</paragraph>
+			<paragraph>The other inhabitants of the Android homescreen are the widgets. Here is the list of all widgets aboard the Liquid.</paragraph>
+			<paragraph>The Media player and the Web player look alike. While the Web player widget will bring you to the webpage shown on the small thumbnail, the Media player widget starts the nemoPlayer. To find the media file you are looking for, choose the media type first (using the icons on top of the screen) and then browse the thumbnails below.</paragraph>
+			<paragraph>The search widget (or as you may know it, the Quick Search Box) has been updated. Now you can search content on your phone, including apps, contacts, and browser history, as well as content on the web, like personalized search suggestions, local business listings, stock quotes, weather, and flight status, all without opening the browser.</paragraph>
+			<paragraph>The revamped QSB uses your search history to optimize the search results (by moving the items you use the most higher on the suggestions list). However, the awaited voice searching and voice dialing are not available on the Acer Liquid.</paragraph>
+			<paragraph>As before, the calendar widget is a little limited - it only shows upcoming events. That's nice since it manages to fit even long event descriptions but it doesn't have a monthly view mode. The music player is as simple as it has ever been. It only shows the title of the currently played track as well as play/pause and skip buttons.</paragraph>
+			<paragraph>With the Power control widget you can easily turn GPS, Wi-Fi, Bluetooth, Auto sync on and off and set the display brightness. Its downside is that it provides no means to search and connect to a wireless network for example. Unless, it's an already configured network, you need to go through the Settings menu.</paragraph>
+			<paragraph>One big advantage of Android is the notification area. It's a thin bar at the top of the screen with status info about battery, signal strength and others such as Bluetooth or missed events.</paragraph>
+			<paragraph>But if you slide it down you get a list of all recent notifications - that's the so called notifications area. Tapping on one of the listed notifications takes a context relevant action - for instance, a tap on a notification of a successful installation would launch that application; a finished download notification will open the file and so on.</paragraph>
+			<paragraph>Since you can open the notification area from wherever the top bar is visible, new events won't interrupt your work. You can pull the tray down like a window blind just enough to see more details about what has happened and if it doesn't need your immediate atention you can let it roll back up and continue where you left off.</paragraph>
+			<paragraph>Sometimes you don't even have to slide - upon receiving a new SMS the first few words of it flash in the status bar, giving you a general idea what it's about.</paragraph>
+			<paragraph>The "task switcher" is only that, it's not a real task manager and it has some limitations. Android automatically opens and closes applications. When resources start to run out, it might close a currently inactive app but it will restore it back to just how you left it. It's more like the system puts the app to hibernation instead of closing it.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Phonebook has fields for everything<subsectionTitle>
+			<paragraph>The phonebook can store quite a lot of information. It lets you input numbers for work and home, and you can even create custom labels. There is of course an email field and you can assign a custom ringtone.</paragraph>
+			<paragraph>You can also add IM nickname info to the contact as well as a postal address, company and job title, several notes, you name it. Quite interesting is the option to redirect calls directly to voicemail.</paragraph>
+			<paragraph>There are many info fields that you can assign to each contact, but it still remains perfectly organized. You have all the types listed (numbers, email addresses, etc) and there's a plus sign on the right - clicking it adds another item of that type. Pressing the minus sign under it deletes the unneeded field.</paragraph>
+			<paragraph>When viewing a contact, the various details are displayed in sections. There is a Dial number and a Send SMS/MMS tab with the numbers for the contact listed. Each number fills an entire horizontal row so that it's more thumbable.</paragraph>
+			<paragraph>Email also has a dedicated tab that works just like the ones for numbers. The rest of the information (if any) is displayed underneath.</paragraph>
+			<paragraph>You can "star" a contact, which puts it in the Favorites tab. Also, in each Gmail account there's a special group called "Starred in Android" where these contacts go automatically.</paragraph>
+			<paragraph>Adding a photo to a contact is quite easy: when you select a photo, a cropping tool comes up allowing you to use any part of the photo you want. Adding a photo has another pleasing "side effect" - if you put a dialing shortcut for the contact on the screen, it uses the photo as an icon.</paragraph>
+			<paragraph>Searching for a contact in the phonebook is quite easy - just hit the search key and a search box pops up.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Still no smart dialing<subsectionTitle>
+			<paragraph>Acer Liquid's reception is quite good, as is the voice quality.</paragraph>
+			<paragraph>Alas, the telephony part of the Liquid has a slight problem - there's no smart dialing. In Android the phonebook, call log and dialer are all part of the same application. You can search the phone book but that's still not as convenient as smart dialing. The HTC Hero had it, so we guess that Acer just couldn't be bothered to make the effort.</paragraph>
+			<paragraph>The call log shows all the dialed, received and missed calls all in one.</paragraph>
+			<paragraph>As for loudspeaker performance, the Liquid scored a very good mark. Here it is alongside some of the other devices we have tested. You can find more details about the test itself as well as the full list of tested devices here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging the simple way<subsectionTitle>
+			<paragraph>The SMS and MMS department is quite straightforward and simple at first - there are no folders here, just a new message button. It doesn't stay like that for long - under that button is a list of all your messages organized into threads.</paragraph>
+			<paragraph>When viewing a thread, the newest message is placed at the bottom, just like with the iPhone. At the bottom of the display is the tap-to-compose box and the send key, of course. There is a counter on the right which shows the number of available characters as well as number of parts the message will be split into for sending.</paragraph>
+			<paragraph>Composing a message is a little frustrating since even if you hide the keyboard, the text box with the message still occupies the same small part of the screen giving you quite a small part of the text to work with.</paragraph>
+			<paragraph>To add message recipients, just start typing the corresponding name or number and choose from the contacts offered. The list of recipients is displayed by name too, which is a welcome improvement over version 1.0, which used to only add the numbers.</paragraph>
+			<paragraph>Any unsent messages and drafts are marked with a red "Draft" label. What we really like is that each thread keeps the text in the tap-to-compose box even if you exit without sending it or explicitly save it. There are no "undelivered messages" anymore.</paragraph>
+			<paragraph>If you wish to manage a specific message in the history, you can press and hold a message to bring up options such as edit, forward and delete as well as view details and copy message text.</paragraph>
+			<paragraph>When you get a new message, your whole messaging history with that person is pushed to the top of the messaging menu, no matter when your last conversation took place.</paragraph>
+			<paragraph>A press-and-hold in the tap-to-compose area gives you access to functions such as cut, copy and paste. You are free to paste the copied text into any other application like email, notes, chats, etc. and vice versa.</paragraph>
+			<paragraph>Converting an SMS to MMS is logical and easy. Once you have added multimedia content to the message, it is automatically turned into an MMS. You can just add a photo or an audio file to go with the text or you can choose to go into a full-blown MMS editor if the need arises.</paragraph>
+			<paragraph>When it comes to the Gmail functionality, we really like the batch operations, which allow multiple emails to be archived, labeled or deleted.</paragraph>
+			<paragraph>There is also a standard email app for all your other email accounts and it can handle multiple POP or IMAP inboxes. Sadly, the emails are not displayed in a threaded pattern like those in the Gmail app, but you still have access to the messages in the original folders that are created online, side by side with the standard local ones such as inbox, drafts and sent items.</paragraph>
+			<paragraph>And by the way, the folders are organized in a tree structure - one click over a specific folder reveals its contents and the second click closes it.</paragraph>
+			<paragraph>Google Talk handles the Instant Messaging department. The G-Talk network is compatible with some popular clients like Pidgin, Kopete, iChat and Ovi Contacts.</paragraph>
+			<paragraph>The user interface of both the Gmail and the generic Email apps has been slightly polished with several icons in the menus changed since the previous versions of the Android OS.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Multimedia department needs an update<subsectionTitle>
+			<paragraph>Before we enter the gallery, let's take a look at Acer's Media Server app first. With its help you can define which type of multimedia (video, photo, and music) will be shared when the device is connected to a Wi-Fi network.</paragraph>
+			<paragraph>The gallery automatically locates the images and videos, no matter where they are stored. Images and videos located in different folders appear in different sub-galleries that automatically get the name of the folder, which is very convenient - just like a file manager.</paragraph>
+			<paragraph>Right next to the name is a number indicating how many items are in that folder. Each sub-gallery has a thumbnail, which displays either the latest image (if the folder contains less than four images) or four thumbs if there are at least four files in this folder. There is no way to change these viewing options.</paragraph>
+			<paragraph>From the main Gallery two new shortcuts allow you to start recording videos or capture images. Also, the flip orientation shortcut is now gone as there is system-wide UI auto-rotation.</paragraph>
+			<paragraph>There is the option to mark multiple images for mass delete but you can't copy or cut more than one file at a time. Scrolling thumbs of images up and down is very smooth and quick. Caching images may take quite a while when you open a gallery for the first time, but once that's done they load almost instantaneously' even if a folder contains thousands of them.</paragraph>
+			<paragraph>To zoom in and out use the two dedicated buttons at the bottom.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Two video players, still no DivX support<subsectionTitle>
+			<paragraph>Liquid features two players you could use to watch videos - Videos and the nemoPlayer. There is even a third option - the gallery, which we talked about just a minute ago.</paragraph>
+			<paragraph>The Videos app has a very simple interface - all videos are displayed in a list (no option to filter them) and the ones you select are played in landscape mode. DivX files aren't supported.</paragraph>
+			<paragraph>The nemoPlayer was meant for video, music and images. It sports a cooler interface but can't play DivX either. You can access the nemoPlayer from the menu or just use the dedicated nemoPlayer widget. Strangely, the so-called Media player widget starts the nemoPlayer as well, so it's just another option to get to your videos, songs or images.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The first screen of the music player has four large buttons, which offer the four main ways to search your music collection - by artist, album, song or choose one of the playlists you've created.</paragraph>
+			<paragraph>The music player has that great feature that allows you to quickly look up a song in YouTube or through Google search by holding down a finger on a song. What's even better, the YouTube search results are loaded Straight into the YouTube client.</paragraph>
+			<paragraph>Besides gradual typing for searching a specific song, there is an alphabetical slider that appears on the right side of the track list.</paragraph>
+			<paragraph>There are still some shortcomings of the music player that need addressing though. There are still no equalizer presets, nor any alternative visualizations.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio quality is disappointing<subsectionTitle>
+			<paragraph>Unfortunately the Acer Liquid audio out disappoints with quite uneven frequency response. In addition the handset is one of the quietest we have seen as far as the volume in the earpiece is concerned.</paragraph>
+			<paragraph>The rest of the readings are pretty good so it's not all bad but with that kind of frequency response you shouldn't expect much. An error in the range of +- 1dB is nothing to worry about but when we are talking a deviation of 9 dB - you don't need any sophisticated equipment to hear that imperfection. Things are so bad that it might as well be a fault with our particular unit.</paragraph>
+			<paragraph>Here goes the results table:</paragraph>
+			<paragraph> Acer Liquid frequency response</paragraph>
+			<paragraph>You can learn more about the whole testing process here.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Camera interface isn't pretty but does the job<subsectionTitle>
+			<paragraph>The Acer Liquid has a 5MP camera with autofocus (there is no flash, though). The photos are very good but we're afraid we can't say the same for video recording or - indeed - the interface.</paragraph>
+			<paragraph>The camera interface? well, there is none to speak of, really! Start the camera and you get a viewfinder with a few icons on it along with the zoom bar at the bottom. None of the icons do anything or lead anywhere though. To get to the settings you'll have to tap on the menu button.</paragraph>
+			<paragraph>It brings up some more buttons: Switch to camcorder, Resolution, White balance, and Settings. We were glad to discover that the Settings submenu is way more extensive compared to previous Android-based devices. Now you can actually set things like ISO, brightness, contrast, etc.</paragraph>
+			<paragraph>Nevertheless, the photos that come out of the Acer Liquid are fit to compete in the 5 megapixel league. There are slight signs of oversharpening but nothing major. Despite the lack of a dedicated macro mode, making close-ups is no problem.</paragraph>
+			<paragraph>Well, there are some obvious flaws we can't skip: color balance could be better (notice the reddish skies for example), and there is much color noise.</paragraph>
+			<paragraph>Synthetic resolution</paragraph>
+			<paragraph>We also snapped our resolution chart with the Liquid. You can check out what that test is all about here.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recording<subsectionTitle>
+			<paragraph>Video recording is far from what we'd expect in a 5MP snapper. It's not the resolution (VGA is actually OK) or the frame rate (around 22fps) but the quality. The videos suffer from serious lack of detail and look as if they have been simply upsized from QVGA.</paragraph>
+			<paragraph>Here's a sample video to give you a better impression.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Connectivity all-rounder<subsectionTitle>
+			<paragraph>The Acer Liquid offers excellent all-round connectivity. The quad-band GSM/GPRS/EDGE support makes the handset capable of international roaming. From then on, tri-band 3G ensures fast network data with speeds ramped up by HSDPA and HSUPA.</paragraph>
+			<paragraph>One of the most convenient local connectivity options - Wi-Fi - is also onboard.</paragraph>
+			<paragraph>Bluetooth connectivity under Android OS is no longer as crippled as before - you can easily make file transfers but you need to download a suitable app from the Marketplace (no rooting required either).</paragraph>
+			<paragraph>The Liquid also sports a miniUSB port. The USB mass storage mode is supported, as expected. Thanks to the Acer Sync software you can easily sync your Liquid's calendar and contacts with your computer (over-the-air syncing option with your Google account is still there as well).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Excellent web browser, save for Flash support<subsectionTitle>
+			<paragraph>The Acer Liquid web browser is based on the same open source WebKit used in Chrome and Safari, and this accounts for the smooth user experience. Pages load quickly, and touch navigation is very fluid.</paragraph>
+			<paragraph>As you may suspect, the Android browser is fast and the interface clean. But unlike so many of its smartphone siblings, Flash support is not available.</paragraph>
+			<paragraph>Despite having a capacitive touchscreen, the Liquid does not support pinch zooming. You will have to rely on the two virtual zoom buttons at the bottom of the screen or on the familiar double tap routine, which works like a charm.</paragraph>
+			<paragraph>The browser also allows you to have multiple web pages open at the same time. If you hit the Windows button in the browser menu, you will see all the currently opened pages and you can choose which one of them to view. Switching from one page to another involves smooth transition effects.</paragraph>
+			<paragraph>The Android team added a rather nifty function to help you read even when you've zoomed out to the max. This is a small rectangle which acts like a magnifier and it enables you to read small portions of the microscopic web page. You can move it with your finger and sometimes it can be quite useful. But in the end, this is just another zoom option since the moment you release your finger, the magnifier disappears.</paragraph>
+			<paragraph>The web browser handled perfectly most of the pages we threw at it and we are very satisfied with the results. The capacitive screen coupled with the browser's performance makes surfing on the Liquid a real treat, Flash support is the only thing missing really.</paragraph>
+			<paragraph>There is of course a YouTube application onboard but Flash content doesn't start nor end with YouTube. At least the browser automatically suggests opening the video in the YouTube app while browsing the site. This works just for YouTube however.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Great organizing skills<subsectionTitle>
+			<paragraph>The Liquid comes with a preloaded Documents To Go viewer which handles diverse kinds of office documents (including PDF files). The editor comes for a fee, though.</paragraph>
+			<paragraph>The best part about it is that the viewer integrates with the Gmail app as well, which makes viewing attachments easy. Unfortunately, you are unable to save them on the phone memory (that only works for images, we guess). Attaching saved files (and we mean all kind of files) is possible though.</paragraph>
+			<paragraph>At any rate, not having a document viewer out of the box is a disadvantage for a high-end smartphone.</paragraph>
+			<paragraph>The calendar has four different types of view - agenda, daily, weekly and monthly. Adding a new event is quick and easy, and you can also set an alarm to act as a reminder.</paragraph>
+			<paragraph>The Tasks app does what it says: you can easily create and modify a list of tasks.</paragraph>
+			<paragraph>There is also a calculator aboard. It is nicely touch optimized - the buttons are big and comfortable.</paragraph>
+			<paragraph>The Acer Liquid features a decent alarm clock application, which allows a huge number of alarms to be set, each with its own start time and repeat pattern.</paragraph>
+			<paragraph>The Liquid also comes with a simple Voice Recorder aboard.</paragraph>
+			<paragraph>Finally, the Liquid packs the YouTube app, which partially compensates for the web browser's lack of Flash video support. Its interface is simple enough to allow you to find what you're looking for as quickly as possible.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Android Market has what you need<subsectionTitle>
+			<paragraph>The Acer Liquid comes with a few preinstalled applications - nemoPlayer, Google Maps, Google Talk, Documents To Go, RoadSync Calendar, RoadSync Mail, urFooz, Spinlets and the YouTube client are all you get (yep, there is still no preloaded file browser on board).</paragraph>
+			<paragraph>However with the Android Market open for business you can find a large number of apps (a good portion of them free by the way) which can be downloaded directly from the handset using Wi-Fi or the mobile network.</paragraph>
+			<paragraph>A nice touch is the warning shown if the application you're about to download has potentially unsafe access to personal data, connectivity settings, etc. The warning says exactly what data will be accessed so you can abort the download if you prefer.</paragraph>
+			<paragraph>When an app is being downloaded a status bar appears on the display. You can find the downloaded apps in the dedicated Downloads section.</paragraph>
+			<paragraph>The Android Market follows the logic of the pioneering Apple App Store. Everything about it - the structure, the look - is pretty familiar.</paragraph>
+			<paragraph>Applications vary from basic tools (such as the one that turns the display into a flashlight) to genuine must-haves (including file managers and video players).</paragraph>
+			<paragraph>And while we are at it, let's take a look at some of the preloaded applications.</paragraph>
+			<paragraph>The urFooz app gives you access to the urFooz service. You can design your own avatar and chat and exchange photos, videos or bookmarks with friends.</paragraph>
+			<paragraph>And the other app that caught our attention was the media-streaming capable Spinlets. With its help you can listen to music, watch images or visit your favorite artists' web sites.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>GPS navigation<subsectionTitle>
+			<paragraph>The Acer Liquid comes with a capable GPS receiver which - coupled with A-GPS technology - gets a satellite lock quite fast.</paragraph>
+			<paragraph>It comes as no surprise that the only application you can rely on for navigation right out of the box is Google Maps.</paragraph>
+			<paragraph>Quick double-tapping can be used for zooming in but not for zooming out. Luckily, the two virtual buttons at the bottom of the screen are still here so you can use them for zooming in and out. As before, they are hidden when not in use and only appear when you touch the screen. Despite the little changes, this is still the familiar Google Maps app we know and like.</paragraph>
+			<paragraph>Quite naturally, the app also sports Street View mode. In fact, this mode is probably the best part of Google Maps. If the Street View is available in the area you're interested in, you can enjoy a 360-degree view of the area. When the digital compass is turned on it feels like making a virtual tour of the surroundings!</paragraph>
+			<paragraph>Unfortunately, voice-guided turn-by-turn navigation isn't possible using Google Maps. Still, there is some kind of navigation: your route and current location appear on the screen so you'll reach your destination eventually... assuming you can read maps of course.</paragraph>
+			<paragraph>If you need a better GPS navigation solution you'd better go to the Android Market - it's just a few taps away.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>Acer did a good job of the Liquid. A novice in phones, the company deservedly stands next to makers with obviously better track record like HTC and Samsung. The Liquid surely isn't the heavily customized device HTC would usually offer, but the hot looks and reasonable price tag leave no room for complaints.</paragraph>
+			<paragraph>Android-powered devices have long made their case and they all look alike on the inside. But design is the distinctive feature and Acer did well to make the best of it. The result is quite obvious - a beautiful and stylish smartphone that will stand out among its rivals. The Android OS runs smoothly inside thanks to the powerful Snapdragon core and looks great on the excellent high-resolution display.</paragraph>
+			<paragraph>Back to what we just said though, Android phones do look and act the same. In the end, they all share a set of limitations that are inherent to the very OS. The Acer Liquid is no exception and is equally handicapped in terms of DivX / XviD incompatibility, lack of Flash support in the web browser and poor video recording.</paragraph>
+			<paragraph>While the competition has been busy addressing some of those issues, Acer perhaps could not have been expected to sort them all out in their debut. But they at least tried to offset some of those disadvantages with features never seen before in a first-gen Android phone: a Snapdragon CPU and a WVGA screen.</paragraph>
+			<paragraph>HTC Hero is perhaps the ultimate first-generation Android. Released half a year ago, the Hero now has nearly the same price tag as the Liquid. It boasts the advanced Sense UI, multi-touch gestures and native Flash support over the Liquid. But it can't match the processing speed or the screen resolution of the Acer Android. These two are probably the best lookers in the bunch too.</paragraph>
+			<paragraph> HTC Hero</paragraph>
+			<paragraph>The Samsung I7500 Galaxy, I5700 Galaxy Spica and HTC Magic come slightly cheaper. They all have similar specs, except the CPU - the Spica uses a faster 800MHz processor. The I7500 has an AMOLED capacitive touchscreen but it's nowhere near the Liquid's resolution. The Acer Liquid surely beats them in terms of performance, but if you are looking for a cheaper option within the same class - you may want to check these three out.</paragraph>
+			<paragraph>   Samsung I7500 Galaxy ? Samsung I5700 Galaxy Spica ? HTC Magic</paragraph>
+			<paragraph>The scope and timing of the Acer Liquid make it a midpoint in the Android evolution. It won't stand comparison with the likes of the Nexus One of course but having the same processor and screen resolution as the top droids must be quite a morale booster.</paragraph>
+			<paragraph> Google Nexus One</paragraph>
+			<paragraph>It's easy to say Acer had better luck with Android. But luck or whatever you would call it, we did like the Liquid. It's a pretty close match for most of the first-gen Androids out there and brings some top-tier goodies as well. It looks hot and won't charge a fortune. Sounds like a good deal.</paragraph>
+		</subsection>
+	</page>
+</review>

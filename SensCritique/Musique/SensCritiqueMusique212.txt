@@ -1,0 +1,56 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Mémoires Vives</nameFr>
+	<typeEn>Music</typeEn>
+	<typeFr>Musique</typeFr>
+	<year>2016</year>
+	<link>http://www.senscritique.com/album/Memoires_Vives/19353436</link>
+	<generalScore>6.8</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+		<numberOfVoters>4</numberOfVoters>
+		<numberOfVoters>17</numberOfVoters>
+		<numberOfVoters>36</numberOfVoters>
+		<numberOfVoters>77</numberOfVoters>
+		<numberOfVoters>59</numberOfVoters>
+		<numberOfVoters>14</numberOfVoters>
+		<numberOfVoters>5</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>Electro-rock Mordant</title>
+		<author>Matisse Delepierre</author>
+		<date>2016-03-14</date>
+		<score>0.7</score>
+		<content>Mémoires Vives c’est une musique coincée entre une énergie sulfureuse et des sons de synthés et de basse froids comme un hiver finlandais où se glisse subrepticement un texte chanté tantôt par une jeune femme faussement innocente tantôt par une voix d’homme sombre et torturé. Le résultat est plein de contradictions. A la fois dansante et désenchantée, douce et acide, difficile d’accès et pop, la musique de Grand Blanc sonne comme le manifeste d’une jeunesse paumée dans un entre-deux, forcée d’entrer dans un monde hostile pavé de désillusions. Grand Blanc c’est d’abord trois, puis quatre depuis très récemment, jeunes gens aux parcours étrangement similaires. Il s’agira pour les trois fondateurs de Grand Blanc de se défaire de manies musicales un peu trop encombrantes. Camille, chanteuse du groupe était bridée par sa formation classique du conservatoire de Metz tandis que Vincent, guitariste, l’était par sa fascination des solos des géniaux Dire Straits. En créant Grand Blanc, les trois se sont rendu compte de toutes les possibilités qu’offrait la musique. C’est ce désapprentissage qui leur permit de libérer leur potentiel créatif à grand renfort d’expériences sonores et de références musicales. Tout au long de l’album deux noms en particulier résonnent dans notre esprit : Joy Division et Alain Bashung. Et cela vient des textes des 10 chansons (plus 3 bonus tracks) de l’album. Le sens des paroles est éclipsé pour en garder une approche plus sensorielle qui ne s’intéresse presque plus qu’aux espaces et aux sons. En ressort une schizophrénie musicale qui mêle l’hermétisme des paroles à la pop douce de la voix de Camille et de la froideur punk des instruments. En ce sens les parties chantées par le sieur Benoît sont plus faibles et dispensables que celles de la chanteuse. Beaucoup moins intéressantes, sa voix sombre se fond dans le décor (on pense trop à Ian Curtis dans la façon désabusée de chanter). Ses parties ne trouvent leur intérêt que lorsque la voix de sa comparse vient contrebalancer la sienne comme dans le très beau morceau Evidence ou les couplets tendus de Benoît se retrouvent neutralisés par les refrains aériens de Camille. « Ma façon de chanter s’est construite dans une logique d’effacement, sans notes appuyées. Il y a quelque chose de post-rap dans le fait de ne jamais sacrifier un mot au profit de la mélodie » explique le jeune homme, également auteur du groupe qui, malgré son côté pédant demeure quand même largement écoutable. Dans la droite lignée de ces nouveaux artistes francophones qui se sont donnés pour mission de redorer le blason de la langue française dans le paysage de notre pop nationale, Grand Blanc se distingue par son ambiance noire comme la nuit et belle comme le jour. Les quatre messins ont su tirer leur épingle du jeu dès leur premier EP, sorti en 2014 et continue leur lancée avec ce premier album déconcertant où se mêlent la froideur industrialisée du monde et une délicieuse délicatesse que l’on retrouve aussi bien dans le tubesque Surprise Party que dans le futuriste Tendresse ou encore dans l’abrupte Verticool. Bercé d’ennui et de littérature, Grand Blanc débarque et nous embarque pour un voyage inédit dans la musique francophone.</content>
+	</review>
+	<review>
+		<title>Mémoires Vives</title>
+		<author>ArthurPik</author>
+		<date>2016-05-03</date>
+		<score>0.7</score>
+		<content>J'ai mis un certain temps à apprecier la musique de Grand blanc, le côté français électro me paraissait déjà emprunté par La Femme, et je n'avais aucune envie d'écouter un nouveau copieur tous les ans. Et puis je me suis laissé tenter pour etre sur de ne rien rater. Résultat, si La femme est le côté brûlant de la nouvelle vague française, Grand blanc sera le côté glacial. Une électro de fin de soirée, à l'ambiance tendue, presque oppressante, mais toujours mélodique. Un réel tour de force, réussir à mélanger une langue française léchée à cette ambiance froide. Un premier album réussi, qui laisse entrevoir un potentiel indéniable . A confirmer en live pendant la période des festivals.. Domaine où La femme excelle. Si c'est le cas, on assistera à l'avènement d'un groupe majeur de demain.</content>
+	</review>
+	<review>
+		<title>Pas mon style...</title>
+		<author>Cellophane</author>
+		<date>2016-03-02</date>
+		<score>0.6</score>
+		<content>J'avais entendu un morceau qui m'avait plu, par curiosité j'ai écouté l'album mais définitivement, tous ces sons électros qui noient les paroles sur une rythmique souvent répétitives, je n'accroche pas. Et si celle-ci ne me branche pas, je m'ennuie pendant le morceau - ce qui fut le cas pour les trois quart de l'album au moins. Je passe donc.</content>
+	</review>
+	<review>
+		<title>La French Cold Wave</title>
+		<author>_Djeepthejedi_</author>
+		<date>2016-03-21</date>
+		<score>0.7</score>
+		<content>Malgré les figures de styles maladroites digne d'un collégien de 5ème, je trouve ce 1er album très attachant et sincère, un romantisme de gueule cassée interprété avec conviction et qui ne triche pas.</content>
+	</review>
+	<review>
+		<title>Mémoires Vives</title>
+		<author>Victor Blutch</author>
+		<date>2016-04-22</date>
+		<score>0.5</score>
+		<content>Que Flavien Berger ai remixé Grand Blanc n'étonne pas. Ce "Mémoires Vives" a des accointances avec ses albums. En spleen cold, pop et électrique, l'album manque de lâcher-prise. Pour mieux, il faut se tourner vers Sexy Sushi.</content>
+	</review>
+</sensCritiqueEntity>

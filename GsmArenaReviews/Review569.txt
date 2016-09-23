@@ -1,0 +1,453 @@
+<review>
+	<title>Nokia Lumia 1020 review</title>
+	<description>View from the top</description>
+	<link>http://www.gsmarena.com/nokia_lumia_1020-review-989.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Key features<subsectionTitle>
+			<paragraph>Quad-band GSM/GPRS/EDGE support</paragraph>
+			<paragraph>Quad-band 3G with 42 Mbps HSDPA and 5.7 Mbps HSUPA support</paragraph>
+			<paragraph>4.5" 16M-color PureMotionHD+ AMOLED capacitive touchscreen of 1280 x 768 pixels; Corning Gorilla Glass 3; Nokia Glance</paragraph>
+			<paragraph>41MP PureView sensor (38MP effective), 1/1.5" sensor size, 1.12µm, ZEISS lens, Optical Image Stabilization, xenon and LED flashes</paragraph>
+			<paragraph>1080p@30fps video recording; 4x lossless digital zoom</paragraph>
+			<paragraph>1.3MP front-facing camera</paragraph>
+			<paragraph>Windows Phone 8 OS with Nokia Amber</paragraph>
+			<paragraph>1.5GHz dual-core Krait CPU, Adreno 225 GPU, Qualcomm MSM8960 chipset, 2GB of RAM</paragraph>
+			<paragraph>Wi-Fi 802.11 a/b/g/n, dual-band</paragraph>
+			<paragraph>GPS receiver with A-GPS and GLONASS support</paragraph>
+			<paragraph>Free lifetime voice-guided navigation</paragraph>
+			<paragraph>32GB of inbuilt storage; 64GB Telefonica/O2 exclusive version</paragraph>
+			<paragraph>Active noise cancellation with a dedicated mic</paragraph>
+			<paragraph>Wireless charging with optional accessories</paragraph>
+			<paragraph>Built-in accelerometer, gyroscope and proximity sensor</paragraph>
+			<paragraph>Standard 3.5 mm audio jack</paragraph>
+			<paragraph>microUSB port</paragraph>
+			<paragraph>Bluetooth v3.0 with A2DP and file transfers</paragraph>
+			<paragraph>SNS integration</paragraph>
+			<paragraph>Xbox Live integration and Xbox management</paragraph>
+			<paragraph>NFC support</paragraph>
+			<paragraph>Digital compass</paragraph>
+			<paragraph>Nokia Music</paragraph>
+			<paragraph>FM radio</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Main disadvantages<subsectionTitle>
+			<paragraph>Camera bump on the back</paragraph>
+			<paragraph>Shot-to-shot time of several seconds is painful</paragraph>
+			<paragraph>Screen has average sunlight legibility</paragraph>
+			<paragraph>Non-user-replaceable battery</paragraph>
+			<paragraph>Wireless charging needs an extra charging case to work</paragraph>
+			<paragraph>No microSD card slot</paragraph>
+			<paragraph>Relatively low battery capacity</paragraph>
+			<paragraph>No system-wide file manager</paragraph>
+			<paragraph>No lockscreen shortcuts</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>PureView is on its way down in history and while we loved the Nokia 808, it will be the Lumia 1020 that makes the name more than a footnote. With a modern OS and improved design of both the camera and the phone itself, the 1020 is Nokia's - make that Microsoft's - best bet at having the best mobile camera ever made.</paragraph>
+			<paragraph>This is probably what Microsoft was actually buying. Windows Phone handsets are getting lost in the high-end and it's the Lumia 1020 that can raise the platform above the rabble of Androids and successive iPhones. The basic design has been around since the Lumia 800 (the Nokia N9 even), but nothing in the world can make a more decisive difference than the PureView camera.</paragraph>
+			<paragraph>The Nokia Lumia 1020 might as well be Nokia's loudest bang on its way out (along with the to be announced Lumia 1520 phablet). And we'll probably see the history repeat itself much like with the Nokia N9, where the last product of a lineup is always the greatest.</paragraph>
+			<paragraph>With 41MP resolution, the 1020 camera has twice as many pixels as its nearest competitors. Three times as many if you want optical image stabilization. And the sensor is four times as big as most smartphone sensors and more than twice as big as the second-biggest sensor. The 808 PureView had a bigger sensor, but it has since retired and it didn't have the stabilization and bright aperture to begin with.</paragraph>
+			<paragraph>But we shouldn't let our focus on the camera detract from the smartphone experience. The Nokia Lumia 1020 equals the best of the (admittedly not very populous) Windows Phone world and the opposing BlackBerry world. And with Microsoft's tight control on the hardware allowing for optimizations not possible on Android, the 1020 shines throughout, not just in terms of camera.</paragraph>
+			<paragraph>The new Amber update from Nokia (which integrates Windows Phone GDR2) brings a number of new software features, including Lumia exclusives, some of which are reserved for the platform's top brass. We're talking about the Pro Camera app, of course, which allows manual focus (no other phone on the market has that). The Glance screen and color tuning are pretty awesome too, plus the old Nokia staple of free offline GPS navigation.</paragraph>
+			<paragraph>Still, the camera cannot completely mask the fact that the Lumia 1020 is a little boring - it's almost the exact same device that we saw late last year in the form of a Lumia 920. And Amber was more of a catchup update than anything, it's GDR3 that will bring the high-res screen and quad-core CPU support, though it won't bring these to existing products, of course.</paragraph>
+			<paragraph>Can the Nokia Lumia 1020 help Windows Phone become the viable third platform, alternative to both Apple and Google solutions, that Microsoft wants it to be? Only one way to find out - look at the hardware, then the software and then what we're really here to talk about, the camera.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Unboxing the Nokia Lumia 1020<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020's retail package is the standard blue box that the company has been using for its recent models. The upside is that it really highlights the phone, often in a bold color that has become a signature feature of the Lumia line.</paragraph>
+			<paragraph>Other than that you get the standard set of accessories - a charger with a detachable microUSB cable, a SIM ejector tool, some printed manuals and a single-piece, in-ear headset.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 1020 360-degree spin<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 has a virtually identical body to the Lumia 920 (within fractions of a millimeter), with one big exception - the hump for the camera module. Spatial dimensions weren't 920's big problem, it was the weight, but Nokia had put its flagship on a strict diet and it's now some good 27g lighter.</paragraph>
+			<paragraph>It now weighs less than 160g, which is acceptable, considering a lot of that weight has went in to secure that lauded "tough as a brick" durability that Nokias are known for. To put everything in concrete numbers, the Lumia 1020 measures 130.4 x 71.4 x 10.4 and weighs 158g.</paragraph>
+			<paragraph>More impressively, the camera hump is smaller than it was on the Nokia 808 PureView. True, the new sensor is a little over a third smaller than the old one, but various camera improvements (BSI sensor design, OIS, wider aperture) should more than make up for the reduction in sensor size. We'll decipher the acronyms and camera terminology later on.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and handling<subsectionTitle>
+			<paragraph>Looking at the front of the Lumia 1020, the smartphone is almost identical to its Lumia 920 predecessor and pretty close to the first-gen Lumia 900. The only giveaway is the fact that the bulging camera module makes it sit at an angle when placed on a table or other level surface.</paragraph>
+			<paragraph>The build and finish quality are certainly among the best in business, although we have to admit the design isn't as impressive as almost a year ago, when the Lumia 920 launched. But even if it's a little played out now, the unibody feels impressively sturdy and with the color being inherent to the material and not simply painted on, it will certainly last a for quite a while and scratches will be harder to spot.</paragraph>
+			<paragraph>At its launch, the smartphone will be available in three color versions - the yellow one is the so-called lead color, meaning that it stars in most promo materials, but there's also a black and a white version. There's a fourth version - red - but that's exclusive to AT&amp;T in the US for now.</paragraph>
+			<paragraph>Colors have become an important talking point recently - the launch of the colorful iPhone 5c must've given Nokia an extra measure of pride for having pioneered that feature.</paragraph>
+			<paragraph>All that's well and good, but a camera hump is not great for ergonomics and pocketability. The camera is in the upper half of the body, making it top-heavy. The polycarbonate is good to the touch, but not the most grippy and getting used to the weight balance may take a week or so - dropping your shiny (and pricy) phone would be heartbreaking.</paragraph>
+			<paragraph>You get used to it soon, but even after that, the camera hump will still be in your pocket. If we had to look on the bright side, we'd say that the Lumia 1020 is more pocketable than most digital cameras out there - certainly all that can challenge it in terms of image quality.</paragraph>
+			<paragraph>Even so, you have to look at the 8.5mm thick Xperia Z1 with a bit of envy - especially, knowing it has managed to sneak in a 20MP camera in this thin profile. Yes, the Z1 does have its own set of issues, too, but design-wise it's as mouth-watering as mobile tech gets these days.</paragraph>
+			<paragraph>It's a matter of balance and Nokia tipped the scales towards "Best camera" and away from "Slim" or "Compact." An understandable choice, considering the Lumia 925 and the 928 are very similar phones except without the camera hump at the cost of, well, the camera.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 comes with the same PureMotionHD+ AMOLED display as the Lumia 925. There's Gorilla Glass 3 protection on top, to keep scratches away and provide extra impact resistance. The company chose to move away from LCD panels for its flagships after the Lumia 920.</paragraph>
+			<paragraph>AMOLED panels have the advantage to be slimmer, with more vibrant colors and far superior contrast due to the naturally deep blacks. Nokia has even supplied the Lumia 1020 will a cool color profile app that lets you tune the saturation and color balance to your liking. If oversaturated colors aren't your thing you can go tune them down to more realistic levels and if you like that effect you can go all the way up.</paragraph>
+			<paragraph>The Nokia Lumia 1020's touchscreen also responds to gloves, which might come in handy when operating the flagship in the winter (Nokia is a Finnish company after all and winter in Europe doesn't come much colder than in Finland).</paragraph>
+			<paragraph>As far as image quality is concerned, the Lumia 1020 display performs excellently. It has good brightness levels for an AMOLED screen (it's on par with the Samsung Galaxy S4) not far behind the Lumia 920. Going from LCD to AMOLED was worth it, especially considering the excellent viewing angles and the deep blacks typical for the technology.</paragraph>
+			<paragraph>Sunlight legibility is where the Lumia 1020 disappoints. It's on par with the Lumia 920 (not bad for a slightly dimmer screen), but the 808 PureView is still the king in this category after all this time, but even more telling is the fact that even the old Nokia N8 has a slightly better screen in direct sunlight. Meanwhile, the Apple and Samsung flagships are crowding the top.</paragraph>
+			<paragraph>For a phone that's so heavily focused on photography, it needs to provide a great viewfinder to frame your shots. The screen is good enough, but it should have been better.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Sunlight contrast ratio<subsectionTitle>
+			<paragraph>Then there's the resolution - a hard limit set by the OS, similar to the iPhone situation. Actually, 768 x 1280 pixels still adds to 332 ppi, which qualifies for the Retina label. Except for one thing - it has a PenTile matrix.</paragraph>
+			<paragraph>This means that it has two sub-pixels per pixels, and that reduces the perceived sharpness on some occasions. Windows Phone is quite adept at hiding PenTile matrixes. It's certainly not too irritating and you probably won't even feel the difference until you put the Lumia 1020 next to an Android flagship, but it's there.</paragraph>
+			<paragraph>   Nokia Lumia 1020 screen under a microscope vs. the HTC One screen</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Hardware overview<subsectionTitle>
+			<paragraph>Microsoft keeps a pretty tight control over the hardware of Windows Phone devices, so understandably the Lumia 1020 brings little surprises here.</paragraph>
+			<paragraph>Above the screen you will find the earpiece, the ambient light and proximity sensors, as well as the 1.2MP front-facing camera.</paragraph>
+			<paragraph>Below the screen are the three touch-sensitive buttons for getting around the Windows Phone 8 UI. These are probably the most generously spaced capacitive keys in business. That and the extra space below them will be much appreciated for allowing an extra solid grip of that big and heavy handset.</paragraph>
+			<paragraph>Two-thumb typing in landscape is quite comfortable, but the uneven thickness makes getting a secure hold harder.</paragraph>
+			<paragraph>There is absolutely nothing on the phone's left side but things get a lot busier on the right. The volume rocker is there, along with the power/lock key and a dedicated camera button. The latter would launch the camera even if the phone is locked.</paragraph>
+			<paragraph>At the top you get the 3.5mm audio jack, the secondary microphone and the microSIM tray. You'll need the SIM eject tool supplied in the retail package or another suitable sharp object to release the tray, but that's often the case with microSIM-packing devices, so we won't be deducting any points here.</paragraph>
+			<paragraph>Moving on to the bottom of the phone, we find the microUSB port, which is flanked by the loudspeaker and the lanyard eyelet. There's no pinhole in sight for the primary microphone, so it must be located behind the grille, too.</paragraph>
+			<paragraph>The back of the device is where a large round plate accommodates the 6-element ZEISS lens of the 41MP camera, the xenon flash and the LED flash, which also serves as a video light. The bump is noticeable, but it's certainly subtler than those earlier leaks and the official photos made us believe.</paragraph>
+			<paragraph>Unfortunately, it's located quite low on the phone, so when you hold it one of your fingers usually ends up on the bump. Now, that doesn't add too much to the thickness of the smartphone but it means you might get the occasional fingerprint on it, so make sure you clean the lens properly before the photo shoot.</paragraph>
+			<paragraph>The Lumia 1020 doesn't have a removable battery cover, which means you can't access or replace your battery. You can extend its capacity by another 1000mAh if you get the optional grip cover, which also adds a larger shutter button and a comfortable grip.</paragraph>
+			<paragraph>The two dots at the back connect to the optional wireless charging shell. Unlike the Lumia 920, the 1020 lacks that feature out of the box and you have to get the optional cover to make it work. The combo is certainly bulkier but you only need to connect the cover when you are actually using it, so we find this the better solution.</paragraph>
+			<paragraph>Aside from the non-removable battery, the other sacrifice mandated by the unibody design is the lack of expandable storage. Now 32GB should be enough for most users, but if you need more you'll have to go with Telefonica as the carrier has exclusivity on the 64GB version.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Battery life<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 has a small (by today's standards) 2,000mAh battery, but Windows Phone 8's tight management of background processes should make a difference compared to Androids. Also, there's the Camera Grip accessory, which adds an extra 1,020mAh of battery capacity (along with a big shutter key, a great grip and a tripod mount).</paragraph>
+			<paragraph>The talk time is very respectable at over 22 hours - other phones have lasted longer, but they had larger batteries. Plus 22 hours of calls is more than you can reasonably do over several days. Web browsing is not great at just under 6 hours, but we recently saw the Sony Xperia Z1 - one of Lumia 1020's most capable opponents in the camera department - manage only as much on a 3,000mAh battery. Finally, the video playback time is pretty great at 13 hours.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>With an overall rating of 61 hours, the Nokia Lumia 1020 will easily take you through a couple of days of moderate usage. If you browse the web for more than an hour a day, you might have to charge the 1020 daily. Check out more details on the phone's battery life over at our blog.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Simple yet powerful user interface<subsectionTitle>
+			<paragraph>As usual, Nokia has taken great care to add as much additional value to the Lumia Windows Phones as possible given the constraints imposed by Microsoft. And since Microsoft doesn't really allow UI customizations, adding value translates to supplying exclusive apps and services.</paragraph>
+			<paragraph>Here is a quick video to get you started.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Nokia Lumia 1020 comes with the new Amber update preinstalled but that doesn't change the user experience dramatically. It does add a few features like Glance Screen, FM radio support and a new camera lens, but the rest is barely different from the previous WP8 iterations.</paragraph>
+			<paragraph>The Nokia Glance Screen is one of the coolest features that the Amber update brings along. It's a tribute to the MeeGo lockscreen (and Symbian smartphones of old), where you can always see a clock and get any missed events flagged right on the black standby screen. And just like on the Nokia N9, you can wake up the phone with a double tap. The Glance Screen feature leverages the properties of the AMOLED screen and doesn't come with the cost of overly increased power consumption - only the handful of pixels needed to display the clock and notifications are actually lit up.</paragraph>
+			<paragraph>There are several options to the Glance Screen feature. It can either be Timed (after a pre-set period of time it turns off the screen completely to save battery) or always on, if you want to be able to see it at all times. There's also a fourth option called Peek. It allows you to wave over the phone's face to display the clock and notifications, much like Samsung's Quick Glance.</paragraph>
+			<paragraph>A push on the unlock button reveals the lockscreen, which displays the current time and date and shows calendar events, emails and missed calls. Pushing the volume rocker in either direction will bring the sound switch and music controls on top of the screen.</paragraph>
+			<paragraph>Swiping the lockscreen up unlocks the device or you can just press and hold the camera shutter key to unlock the phone straight into the camera app.</paragraph>
+			<paragraph>There's a reasonable level of flexibility and functionality to the lockscreen - the Live Apps service allows apps to display notifications and images. You can set one app to display big notifications ("detailed status") and up to five more apps to show less ("quick status").</paragraph>
+			<paragraph>The lockscreen wallpaper can also be controlled by apps - you can let the music player replace the lockscreen image with the album art of the currently playing track, or let one of the installed apps choose the image (e.g. Bing's beautiful background images or photos from your Facebook account).</paragraph>
+			<paragraph>The Modern UI is a vertical grid of Live tiles, which can be reordered the way you like. Almost anything can be pinned to the homescreen - apps, contacts, web pages and more.</paragraph>
+			<paragraph>Windows Phone 8 lets you resize the live tiles. Upon a tap and hold, you'll get an extra resize button, next to the unpin one. You can opt between quarter, normal and double size. If you select the smallest one though, the tile will be just a static icon (as is in the regular menu).</paragraph>
+			<paragraph>Most Live tiles display relevant info such as the current date, pending calendar events, missed calls, unread emails and more (third party apps do it too). The Marketplace tile displays the number of updates available, while the Pictures tile is essentially a slideshow of your photos. It's nice to have all that info always available at-a-glance. You can look at them as homescreen widgets of sorts.</paragraph>
+			<paragraph>WP8 can do multitasking, though not with the level of user control that Android allows. Apps not in the foreground are suspended, but the OS has ways to take over and carry out the task for them (e.g. continue playing music). If an app needs to run in the background (sat-nav clients, messengers, etc.) it can. The WP offers both kind of multi-tasking and it's up to developers to choose how their apps behave.</paragraph>
+			<paragraph>To switch between apps you press and hold the Back key. You'll get thumbnail snapshots of the apps, ordered chronologically left to right.</paragraph>
+			<paragraph>You can scroll the list horizontally to select an app and a tap will bring you back to your running or suspended app. You can't "kill" any of those apps from here - to exit one you must bring it to front and use the Back key to close it.</paragraph>
+			<paragraph>If you keep on hitting the back key, you will effectively be closing all of the open apps one after the other, which is very unnatural, especially when you've got an open Internet Explorer, which has to go all the way back to the first loaded page before it closes. Overall, it's best to let the OS manage the apps and not worry about which ones are opened or closed.</paragraph>
+			<paragraph>Opening the settings menu displays two sets of options: like on the start screen, you can swipe between System and Applications. System covers all the settings you can think of like sounds, color theme, Wi-Fi, Bluetooth, Accounts, etc. The Application settings let you configure each app you have on the device.</paragraph>
+			<paragraph>We would've liked to see some kind of quick toggles in Windows Phone 8 to spare you the need to go all the way to the settings menu to enable Wi-Fi, Bluetooth, GPS and the likes.</paragraph>
+			<paragraph>Another feature we feel is missing is a place where you can see all of your notifications from various apps. Live tiles manage to show notifications from each app to some extent, but they don't really have enough room for things like e-mail subject and such, while Android and iOS notification areas do. Microsoft has confirmed that it's working on just such a feature and that we should see it in a future update.</paragraph>
+			<paragraph>Being a WP8 handset, the Nokia Lumia 1020 also supports voice commands - you can dictate or have the phone read text out, you can initiate searches and so on. Unfortunately, the Windows assistant is still far behind the competition as far as recognition speed and accuracy are concerned. Microsoft is said to be working on a new virtual assistant dubbed Cortana, which should premiere with WP8.1 in US English in early 2014 and before the end of 2014 for the rest of the world (in 44 additional languages).</paragraph>
+			<paragraph>The Lumia 1020 comes with the Data Sense app, which shows you the amount of data you've used. Both cellular and Wi-Fi traffic is accounted for. There are different data limit types: one-time, monthly and unlimited. The first two accept custom bandwidth limit values, while the latter is applicable if you have an unlimited data plan, but would still like to track your usage.</paragraph>
+			<paragraph>Data Sense can also restrict the background data usage for all apps, provided you're near a preset data limit. This will prevent some apps from functioning properly, though.</paragraph>
+			<paragraph>Naturally, Nokia Lumia 1020 comes with a special feature for kids conveniently dubbed Kids corner (HTC liked it well enough to put a similar feature on the One). You can select the apps and the types of media content that goes in and password-protect it, so you can safely share your smartphone with your kids without worrying that they will mess up your settings or access inappropriate content. When activated, the Kids corner is accessible by swiping left of the lockscreen. If you've secured it, your kids won't be able to return to your standard lock and home screen without the password.</paragraph>
+			<paragraph>Microsoft is trying to appeal to business users too - a company can create its own Hub where employees can find news, calendars and other info relevant to their work. Companies can also create their own apps that only employees can install.</paragraph>
+			<paragraph>The Nokia Lumia 1020 uses the Qualcomm MSM8960 chipset (1.5GHz dual-core CPU, 2GB RAM and Adreno 225 GPU). That's as good as it gets for WP8 devices at this stage, although Android competition has pulled quite far ahead - the LTE-Advanced Galaxy S4 already broke the 2GHz barrier and with a quad-core Krait processor at that.</paragraph>
+			<paragraph>A good thing is, the WP8 platform doesn't feel sluggish at all . Navigation is fast and animations are nicely smooth and fluid. There are places where you can feel a bit underpowered - loading heavier apps like Drive+ takes longer than it should on a flagship device and using the Camera Pro app to simultaneously capture full-res and downsampled shots simultaneously extends the shot-to-shot time significantly.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>The best phonebook on the market<subsectionTitle>
+			<paragraph>People Hub is the best phone/social book to date. The first tab shows you a list of all your contacts (phone contacts, social network friends, email contacts - everything), with a search shortcut and an Add Contact button.</paragraph>
+			<paragraph>Contacts are ordered alphabetically, indexed with colored letter tiles. You can tap any one of those letter boxes and the screen shows you the entire alphabet highlighting the letters actually in use. You can tap a letter to scroll to that part of the list.</paragraph>
+			<paragraph>Contacts can be sorted by either first name or last, and they can be displayed as "First Last" or "Last, First" (the two settings are separate). You can also filter contacts by choosing which services are used to build the list of your contacts (so you can hide Twitter contacts, for example).</paragraph>
+			<paragraph>Swiping to the side brings you to the What's new tab that shows new events from all contacts in social networks. Another swipe shows the recent contacts. Instead of favorites, you can pin a contact to the homescreen.</paragraph>
+			<paragraph>The next tab is Rooms and Groups. Groups is a handy way to organize your contacts, with "text everyone" and "email everyone" options. All the status updates from the grouped contacts are pulled in from their various social networks, and you get access to their online photo albums too. Groups can also be pinned to the homescreen for easier access.</paragraph>
+			<paragraph>Rooms is similar but more advanced - it's a private social network of sorts. Rooms allows group chats, but also sharing a private calendar, notes (including to-do lists), photos and videos. The default Room is the Family room and you can easily invite your relatives.</paragraph>
+			<paragraph>The cool thing is that they don't all need WP8 phones to get in - Windows Phone 7 handsets and iPhones can join a room too, though they only get the shared calendar. Android users are left out. Still, Rooms is a great way to keep in touch and get organized, while avoiding the clutter of Facebook and the likes where everyone has too many contacts and too many notifications.</paragraph>
+			<paragraph>The Me card is your own profile. From here you can post status updates, set chat status, check into locations. You can also change your profile picture (only for Facebook and Live though, still not Twitter).</paragraph>
+			<paragraph>Another tab in the Me card lets you view notifications (e.g. Twitter mentions) and, finally, What's new lets you view your own status updates.</paragraph>
+			<paragraph>Much of the functionality available when viewing the list of all contacts is there when viewing a single contact. Below the contact's photo and their latest SNS update, there are actions: "call mobile", "text mobile", "write on wall", "view website" and so on. Below each action, in smaller type are the target for the action (e.g. phone number, email, site URL) and where that info came from (Google, Facebook, etc.).</paragraph>
+			<paragraph>The soft keys let you pin a contact, link two (or more) contacts from the various services and edit. Swiping to the side brings out the What's new tab, which shows the latest updates and events just from that contact. Pictures is where the contact's Facebook albums are.</paragraph>
+			<paragraph>The History tab has the complete history of exchange with a contact in one place, displayed chronologically. Everything but status updates is listed here: calls, texts (actually threads from the Messaging hub) and emails.</paragraph>
+			<paragraph>When editing a contact, you can add multiple phone numbers and email addresses of different types (home, work, etc.), a custom ringtone, a note or a variety of different fields (like birthday, website, office location and so on).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Telephony<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 offered loud and clear in-call sound. Signal reception was problem-free as well.</paragraph>
+			<paragraph>The phone application shows you the call history, with shortcuts to voice mail, dialer and phonebook. The Phone live tile will show the number of missed calls, as will the lock screen.</paragraph>
+			<paragraph>The dialer itself is as simple as it gets - a phone keypad with a Call and a Save button. The lack of smart dialing is an annoyance, but the People hub is good at finding contacts.</paragraph>
+			<paragraph>You could use voice dialing instead - the Microsoft's TellMe did well in recognizing our commands.</paragraph>
+			<paragraph>Upon an incoming call, the contact's photo will appear full screen for you to slide up and reveal the call buttons. This will prevent any calls from being accidentally answered or rejected.</paragraph>
+			<paragraph>A side note - status indicators are hidden by default (except the clock) but you can bring them up with a quick tap at the very top of the screen.</paragraph>
+			<paragraph>We ran our traditional loudspeaker test and the Lumia 1020 scored a Good mark. The loudspeaker isn't the loudest around but missed calls shouldn't be a problem.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Messaging has everything<subsectionTitle>
+			<paragraph>The Messaging department is excellent in Windows Phone. Threads are the building blocks of all non-email messaging. Although a sort of conversation view, threads mash together SMS, Facebook and Windows Live messages.</paragraph>
+			<paragraph>That's the thing about Windows Phone: the Messaging hub removes the old division between texts, IMs, social messages. The other hubs do the same for the other functionality, making the whole thing simple yet powerful.</paragraph>
+			<paragraph>Messaging is separated into two tabs - threads and online. Online shows you who's online with the people you've talked to most recently on top. This makes finding someone to talk to very easy.</paragraph>
+			<paragraph>Threads is where this hub's impressive features kick in. A new thread is created for each person you start a chat with. Messages are displayed as speech bubbles and a label on the left shows the type of message - text, Facebook or Live Messenger. Labels are only displayed when the conversation moves across platforms to avoid clutter.</paragraph>
+			<paragraph>You can choose which service to use to send a reply and the text box will remind you of what you're currently using with a message like "chat on Facebook". Individual messages can be copied (only the whole message), they can be deleted or forwarded. Whole threads can be deleted too.</paragraph>
+			<paragraph>The visual voicemail functionality is also part of the OS (but its availability is dependent on your plan and the carrier). It works as expected, letting you read your voicemail messages instead of listening to them.</paragraph>
+			<paragraph>Windows Phone 8 offers a unified inbox for email, a feature introduced with 7.5. You can link multiple inboxes (and unlink them individually later), so that you have a single place to check for new messages.</paragraph>
+			<paragraph>Linking several inboxes will also automatically combine their live tiles. You can browse individual folders for each account, which lets you view messages from only one email account even if it's linked.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Emails<subsectionTitle>
+			<paragraph>Conversation view lists emails between you and a contact chronologically, grouping them by subject. It's the display style that Gmail popularized and is the best way to keep track of a conversation over email.</paragraph>
+			<paragraph>Each email conversation is listed with a subject and number of messages, plus how many of those are new. A tap on a conversation expands it to show the messages and a line from each message.</paragraph>
+			<paragraph>You can tap on an individual message to read it, as well as skip messages back and forward to navigate the conversation. You can't swipe between the messages though.</paragraph>
+			<paragraph>You can mark individual emails as read/unread, flag and unflag, etc. Finally, you can search your entire mail for individual emails - it's a very useful feature, especially for those with busy inboxes.</paragraph>
+			<paragraph>Text input on Windows Phone is limited to the default QWERTY keyboard and offers portrait and landscape modes. The layout remains the same across all WP devices and the only options you have are changing the language of the keyboard and resetting the dictionary that displays word suggestions. Luckily, Windows Phone 8 has way more supported languages than its predecessor.</paragraph>
+			<paragraph>The WP QWERTY keyboard is very comfortable to use and offers sound feedback. There's no haptic feedback and there's no way of enabling it.</paragraph>
+			<paragraph>Selecting text does take some getting used to. You hold your finger over some text for a second or two and then release. The text area gets highlighted and then you can move the beginning and end cursors to adjust how much text you want to select. A little icon pops up with the available actions and the selected text is available to paste anywhere in the OS.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Photos with automatic SkyDrive upload<subsectionTitle>
+			<paragraph>The Photos hub is also pretty much the same as we left it in Windows phone 7.5. You can set a single photo as a background for the hub (it used to be the last photo viewed) or you can set it to shuffle different photos.</paragraph>
+			<paragraph>And of course, the point of hubs is that they are the go-to place to do things, instead of apps. Apps can integrate into the Photos hub, so for example, a photo effects app can make its options available right in the hub. Devs need to enable that into apps, however.</paragraph>
+			<paragraph>The main view of the Photos hub offers four options - camera roll, albums, date and people. A swipe to the left reveals what's new, which displays your Facebook friends and liked pages' new picture galleries. Another swipe shows your favorites section, where the photos you've faved are displayed.</paragraph>
+			<paragraph>Albums feature the camera roll, the preloaded system pictures and all of your Facebook albums. A flick to the left shows all your pictures sorted by date. You can't sort individual camera roll photos into albums, though.</paragraph>
+			<paragraph>The people section is where you can select your friends and contacts so that their galleries on Facebook get displayed right there in your Photos hub. It's a nice feature for social network users but will be only an empty section for those that aren't too fond of Facebook.</paragraph>
+			<paragraph>The camera roll presents your entire collection of photos and videos captured with the device in a 4x5 grid. You cannot change the layout. Viewing a photo can be done in either portrait or landscape mode. Zooming in on a photo is done by either double tap or a pinch. We like it that the camera roll doesn't downsize pictures and you can enjoy them in full resolution.</paragraph>
+			<paragraph>Sharing options include Bluetooth file transfer, NFC-enabled tap+send, messaging, email, Facebook and the cloud-based SkyDrive.</paragraph>
+			<paragraph>While uploading photos to Facebook or Windows Live, the OS will detect any untagged faces and allow you to tag them before proceeding with the upload.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music, Videos, FM radio share one app, Noka Music still on board<subsectionTitle>
+			<paragraph>Nokia is pushing its own music service called Mix Radio ahead on the default Music + Video app. It offers free music streaming (it works out of the box) and has an extensive library of tracks. While it is mostly streaming oriented, you can make tracks available offline in Mix Radio (they remain on the device only temporarily though).</paragraph>
+			<paragraph>But Mix Radio competes with services like Pandora too - you can give it a list of artists you like and it will automatically build a playlist to your taste. Nokia takes pride in real people creating the mixes (including celebrity-made mixes) instead of computer algorithms.</paragraph>
+			<paragraph>Unlike competing services you can also browse a specific artist and even buy songs to keep if you like. There are plenty of charts (e.g. Top sellers, Best of 2013, Songs for Fall) if you're looking for something new too.</paragraph>
+			<paragraph>Nokia's app has several other advantages - it has several equalizer presets (including a custom one) and it has Dolby Headphones enhancements. Also, if you like an artist, the app will help you look for gigs close to you.</paragraph>
+			<paragraph>The default Windows Phone 8 media players are on-board too. They reside together in the Music + Videos hub, which now bears the Xbox logo or the last played media thumbnail. When you start it, it shows the History, which gives you quick access to the last two items played, or you can go to the full menu and start the music or video player, listen to or watch podcasts, or go to the Marketplace.</paragraph>
+			<paragraph>The music section is made up of albums, songs, playlists, genres and artists. Videos features all, television, music videos, films and personal - think of them like more of categories you can assign your videos to when syncing with Zune. The third section is where you can store all of your downloaded audio and video podcasts.</paragraph>
+			<paragraph>The music hub has a simple and straightforward interface. You won't have any difficulties using it. However there are some things missing, like an equalizer. Another missing feature is the ability to scrub through a song - you have to press and hold on the FF/rewind buttons to simply jump back and forth.</paragraph>
+			<paragraph>As a music player, it's pretty standard - your tracks are sorted by artist, album, playlists or you can view all songs. The interface is very similar to that of the stock music player, but under the album art it lists the next three songs to be played - really helpful if you're using shuffle. There's no way to manually reorder the upcoming songs, but you can reshuffle them if there's one you don't like.</paragraph>
+			<paragraph>The video player is integrated into the Music + Videos hub. It has a very simple interface - you have fast forward and rewind controls, a timeline and a video size button that toggles full-screen viewing.</paragraph>
+			<paragraph>The video player in Windows Phone 8 has greatly improved codec support since our last encounter. Now it supports XviD (though we had some issues with this codec), DivX and MP4 videos up to 1080p resolution. The few things it won't play are MKV files and videos using the AC3 audio codec. There is no subtitle support at this point.</paragraph>
+			<paragraph>Since Windows Phone 8 is no longer Zune dependent, you can easily upload videos from your computer via the USB mass storage mode.</paragraph>
+			<paragraph>Individual items can be pinned to the homescreen - like a song or video.</paragraph>
+			<paragraph>There's an FM radio on board the Lumia 1020, thanks to the Lumia Amber firmware. You can use the loudspeaker for the FM radio, though you still need the headset connected as it doubles as an antenna. To enable the loudspeaker playback, just tap and hold on the station and select the appropriate option.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Audio output quality<subsectionTitle>
+			<paragraph>Unfortunately our Nokia Lumia 1020 unit had some problems with the music playback and we were unable to complete our dedicated audio quality test. Once we obtain a properly working unit, we'll update the review immediately.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>41 megapixel camera - the technical details<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 headliner is its 41MP camera at the back. And while the resolution is the same, the camera module has been significantly redesigned since the Nokia 808 PureView.</paragraph>
+			<paragraph>One of the few things that the two PureView sensors have in common is that even though they technically are 41MP units, they aren't actually able to take 41MP photos. Here you can see all the different image aspects and their respective resolution. The sensor has a total active surface of 7728 x 5368 pixels, which does amount to 41MP, but depending on the aspect ratio you choose, it will capture either a 7728 x 4354 pixel image (34MP) in the 16:9 mode or a 7152 x 5368 pixel image (38MP) in the 4:3 mode.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Using the new Nokia Pro Camera app, the Lumia 1020 can save a photo in both 34MP and an oversampled 5MP variant. We'll touch more on that later on. Mind you, the default camera app is limited to shooting only 5MP photos in both 4:3 or 16:9 modes.</paragraph>
+			<paragraph>Probably in an attempt to keep the size of the module down, Nokia has decided to make the Lumia 1020 camera sensor smaller than the one in the 808 PureView. It's 1/1.5" instead of 1/1.2" and this means it has somewhat smaller pixels - 1.12 microns instead of 1.4 microns.</paragraph>
+			<paragraph>However, the new sensor has a BSI design, which improves light sensitivity. This means it offers lower noise levels in low light, so that probably makes up for the difference in size. There's also the fact that the new 6-element ZEISS lens has a wider aperture than the old one (F/2.2 instead of F/2.4) so it lets more light in.</paragraph>
+			<paragraph>Finally, there's the Optical Image Stabilization, which is still a rarity among smartphones, but an immensely useful thing to have. The Finns have naturally reworked the thing to accommodate the larger sensor and now you get to take shake-free videos and far better pictures in low light (but OIS is no good for moving subjects).</paragraph>
+			<paragraph>In case you are not familiar, Optical image stabilization compensates for the movement of your hands and lets you take longer-exposure still shots without introducing blur due to camera shake. Longer exposures, in turn, allow lower ISO setting to be selected and still get the same exposure, only with less noise.</paragraph>
+			<paragraph>The downside is that those longer shutter speeds are only good for still subjects - any moving object would surely become a blurry trail on the photo (which quite often can be a nice and desirable feature to have).</paragraph>
+			<paragraph>The Nokia Lumia 1020 camera lens is nicely wide at 26mm - here's how its field of view (in both 4:3 and 16:9 mode) compares to the Samsung Galaxy S4 and the HTC One. The advantage over the Samsung flagship is quite significant and even the 28mm One can't fit as much in the frame. The wider field of view has allowed for a slimmer camera module as well. Even though not everyone will agree, for lenses with fixed focal lengths we prefer to have a wide field of view such as this one.</paragraph>
+			<paragraph>The final improvement that Nokia made to the Lumia 1020, compared to the 808 PureView is the reduction of the minimal focus distance from 20cm to 15cm. This means that the Lumia 1020 is able to get closer to the subject and produce more detailed macro shots.</paragraph>
+			<paragraph>Now that we've got the technical stuff out of the way, we can move on to the new Pro Camera app that puts the whole thing in motion.</paragraph>
+			<paragraph>The Nokia Lumia 1020 appoints two camera apps at work - the default Windows Phone 8 camera application as well as Nokia's new Pro Camera app that's designed to allow for advanced settings fiddling.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Pro Camera app<subsectionTitle>
+			<paragraph>Nokia has created a special app for the Lumia 1020 dubbed Nokia Pro Camera and is one of the phone's key software features. It is there to compliment the 41MP camera with a simple user interface that allows users to fine tune the camera settings. It may sound intimidating, but Nokia has done a great job at making the app simple to use for both novices and professionals alike.</paragraph>
+			<paragraph>Starting the Nokia Pro Camera reveals a familiar interface, first introduced with the Smart Camera app. The important distinction is the top transparent box in the top center containing six camera adjustments. From left to right they are flash, white balance, focus, ISO, shutter speed and exposure compensation.</paragraph>
+			<paragraph>Tapping on each of them opens a ring-based interface on the right part of the screen. You can access all of them simultaneously by sliding the on-screen shutter button to the left. This will stack sliders for all six settings next to one another allowing you to easily fiddle with them at the same time. The settings you modify are kept at the values you chose, while the others are adjusted accordingly by the app.</paragraph>
+			<paragraph>We really like this interface - it's intuitive and powerful at the same time. However, there's a downside to Nokia Pro Camera and it's that it takes 4 seconds from the moment you press the shutter to the moment it's ready to shoot again. We guess having to process both a 5MP image and a 38MP image is proving a bit much for the older Snapdragon S4 Pro chipset. We tried disabling the high-res image - that is shoot only a 5MP image - but that wasn't any quicker.</paragraph>
+			<paragraph>Another thing we noticed is that the processed image does not look like the viewfinder image - we noticed when shooting one of the charts for the photo quality comparison tool (the third one, shot under fluorescent lights), the white balance on the viewfinder looked okay, while the final image is too cold. We also spotted it when shooting the low-light sample with the flash off - it may be so dark that the viewfinder shows black, but the final image actually is pretty bright.</paragraph>
+			<paragraph>This is a pretty big issue as you rely on the viewfinder to tune the image using the manual controls.</paragraph>
+			<paragraph>As we mentioned earlier, the Pro Camera lens has another cool trick up its sleeve. It snaps two photos at once - one in full resolution and another one in 5MP, which benefits from the pixel oversampling technology, while at the same time being far easier to share. You can zoom in up to 3x for the 5MP photo without serious degrading the image quality (you'll be losing the advantage of supersampling but it's still much better than the digital zoom in other phones) and you don't have to make a decision on the spot - you can zoom out and in after the fact and even reframe the photo.</paragraph>
+			<paragraph>There's no HDR mode here but there's something pro's will appreciate better - automatic bracketing. You can set the camera to snap 3 or 5 photos in ranges starting at -0.5EV to +0.5EV or -3EV to +3EV (the number of photos taken affects the available range). You can post process the images later in your app of choice and fine tune them to your exact specifications, unlike HDR modes on most phones that often do too little or too much.</paragraph>
+			<paragraph>The only problem with this is that photos are taken as usual - 5 exposures at 4 seconds each is a lot. You can rely on your app to align the images later, but you would be better off using a tripod. We do wish Nokia provided some way to combine exposures on the device itself.</paragraph>
+			<paragraph>The Nokia Pro Camera app isn't limited to shooting still images, it can also manage video capturing quite well. Tapping the video icon on the bottom gets you to the video part of the app. There you have access to just some of the settings - flash, white balance and focus. The focus can be set to either manual, auto or infinity.</paragraph>
+			<paragraph>Video recording also makes use of OIS and oversampling. Zoom is enabled even during video capture and it can go up to 4x in 1080p mode and 6x in 720p resolution. The Nokia Lumia 1020 also has two mics (one on top, one on bottom) with the company's proprietary Rich Audio Recording for distortion-free sound recording in loud environments. The 1080p videos are recorded at 30fps, of course.</paragraph>
+			<paragraph>You can start shooting videos by either tapping on the screen or pressing the dedicated hardware shutter key. Pausing video recording is still not an option on Windows Phone 8. Thanks to the dual high-quality microphone setup on the Lumia 1020, the audio quality is very crisp and boasts a lot of detail and texture.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>WP8 default Camera app and Nokia lenses<subsectionTitle>
+			<paragraph>The default Windows Phone 8 camera can only shoot 5MP photos and it only takes a couple of seconds to do it - still slow, but not as slow as the Pro Camera.</paragraph>
+			<paragraph>The UI is pretty simple - you have your viewfinder and some controls on the right. From top to bottom they are the still/video camera toggle, front/back camera toggle, a flash mode setting and the Lens button. On the left you have an arrow that takes you to the images taken with the camera, alternatively you can swipe to get there.</paragraph>
+			<paragraph>There's also a slew of settings, ranging from scenes and effects to white balance, contrast, saturation, sharpness and ISO among others. You have a dedicated Macro focus mode but no face detection. The flash can be set to auto, forced or off. A separate setting allows the LED to work as an AF assist light.</paragraph>
+			<paragraph>In the latest camera software Nokia has raised the maximum ISO setting from 800 to 3,200 and has tweaked image processing in low-light conditions.</paragraph>
+			<paragraph>SkyDrive is available for photo auto-upload (it's turned off by default), but you can install third-party apps to handle this functionality as well.</paragraph>
+			<paragraph>Lenses is an interesting feature, allowing third-party camera apps to enhance the core camera functionality without the need to access them separately and get use to their different UIs. The so-called Lenses are like plugins for your camera and they are available directly in the native camera app. They show up in the list of installed apps too in case you'd like to pin a Lens to the start screen, for instance.</paragraph>
+			<paragraph>The shutter key will wake the phone up with a single press and launch Pro Camera but you can set the native WP8 app or Nokia's exclusive Smart Camera to be launched instead.</paragraph>
+			<paragraph>So, we've mentioned Smart Camera several times already and it's time to explain what it does. It's the next generation of Smart Shoot and is based on technology developed by Scalado (now owned by Nokia).</paragraph>
+			<paragraph>It shoots a burst of 10 photos at 5MP resolution and allows you to edit those photos later. When editing a Smart Camera photo you choose one of several modes by swiping through their respective cards, each with a helpful label.</paragraph>
+			<paragraph>The basic feature here is best shot - automatically selecting the best photo out of the 10 (you can manually override the selection). You can also select the best expression for each individual face in the photo.</paragraph>
+			<paragraph>The multiple photos can be used to remove moving objects as well.</paragraph>
+			<paragraph>Then there's Action shot - a moving object is overlaid on the photo several times to create a sense of motion. You can pick which of the 10 photos are used to create the action shot and the multiple copies can either be opaque or semitransparent.</paragraph>
+			<paragraph>The other mode that enhances motion is Motion focus - it locks the moving object, but blurs the background around it. Imagine turning the camera to track a fast moving object, that's the effect that Motion focus simulates.</paragraph>
+			<paragraph>Here's a promo video done by Nokia that shows an example use of the Smart Camera.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Anyway, Nokia has other Lumia-exclusive Lenses too. There's the Panorama and Cinemagraph (creates animated GIFs), but also GlamMe (to enhance self-portrait shots) and a few more. As of July 2013, the Cinemagraph lens has been updated and now supports 720p resolution for the .GIF files. At least that's how it's supposed to work anyway, the GIF our 1020 uploaded to Nokia Memories (the only way to share the file) only had a resolution of 800 x 450 px.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Still image quality<subsectionTitle>
+			<paragraph>Of course, the large sensor and all the impressive tech surrounding it would mean little if the image quality isn't right. Rest assured though, Nokia has enough experience not to mess this up and the image quality of the Lumia 1020 is every bit as impressive as it was expected to be.</paragraph>
+			<paragraph>We'll start off with full resolution 38MP photos first as they are the basis of the 5MP shots. As expected, the images look stunning - there's a slight grain to them but the amount of fine detail is amazing. You really get all the detail that usually falls between the pixels on lower-resolution cameras.</paragraph>
+			<paragraph>Images don't look overly processed - Nokia tuned up the saturation so photos have punchier colors (it's what most people prefer) and the phone uses a light touch when sharpening the images (unlike recent 13MP shooters we've seen). We don't mind the saturated colors that much, but we wish the app had a saturation setting so we can tweak things to our liking.</paragraph>
+			<paragraph>We were also quite impressed by the dynamic range - as we said, there's no easy HDR mode but the Lumia 1020 handles bright highlights and dark shadows in the same shot noticeably better than other smartphone cameras we've tested.</paragraph>
+			<paragraph>Also, check out the macro shot - we couldn't get extremely close to our toy subject (again, the minimum focus distance is 15cm), but the shallow depth of field is very noticeable. It works great to separate the subject from the background and is something that requires a large sensor (digital trickery isn't anywhere nearly as nice).</paragraph>
+			<paragraph>Let's move on to the 5MP shots. These photos are usually a tenth in the size compared to full resolution shots in terms of MB and these are the ones you'll be sharing on Facebook or via email. They are also the best 5MP photos we've seen come out of a phone. The noise levels become very low and every pixel of the image contributes to the fine detail.</paragraph>
+			<paragraph>One of the unique features of the Lumia 1020 is use the digital lossless zoom, so we tried that too. The samples below show a 5MP image with no zoom, a 5MP image at 3x zoom and a full resolution shot. You lose the advantage of supersampling, but the image still looks great.</paragraph>
+			<paragraph>And here's a representation of what a difference 3x zoom makes.</paragraph>
+			<paragraph>We darkened a room in our office and tried the Lumia 1020's low-light performance. First, we tried with the flash off, we just kept the AF assist light on to make sure the phone gets the right focus. The noise levels went up (as can be expected) but it's just luminance noise and there's a good deal of fine detail that would be lost on other cameras. One again, the 5MP image reduces the noise and is actually very usable.</paragraph>
+			<paragraph>Then we turned on the flash and snapped the photos again. The xenon flash is much more powerful than LED flashes and it lit the scene quite evenly. The image quality shot up - not to daylight levels, but the photo packs plenty of detail, even the full resolution shot.</paragraph>
+			<paragraph>We tried something else too - we made the room even darker and put the Lumia 1020 on a tripod (we're starting to wish Nokia bundled the battery grip with the phone). Then using the manual settings we set the exposure time to the maximum 4 seconds.</paragraph>
+			<paragraph>The first photo below is on full auto, except the flash was disabled, and is pretty dark and noisy. The next shot, the long exposure one, is much brighter, with relatively little noise and a surprising amount of fine detail. It's telling that the ISO went from 2,500 to just 160.</paragraph>
+			<paragraph>One last thing we tried out was the panorama. It's the standard Nokia panorama we've used on other phones and while we were hoping for extra-high resolution, we only got around 13MP. The stitching quality is good, but the camera lost its place a few times (you have to pan back to resume) and it still has the problem of gradually guiding you up rather than keeping the phone level.</paragraph>
+			<paragraph>The Nokia Lumia 1020 is a very good introduction to advanced photography - it has a full auto mode for the times you just want a photo and you can gradually start exploring the manual settings to see what kind of an effect they have. There are also fun lenses you can try - Smart Camera has some interesting options, there's Cinemagraph and the others.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Photo quality comparison<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 shoots 38MP stills and there's only one phone in our database that manages that, the Nokia 808 PureView. The Sony Xperia Z1 is the only non-Nokia that comes close at 20.7MP. You might want to use the tool's downscaling feature to compare the 1020 against other phones more easily.</paragraph>
+			<paragraph>   Nokia Lumia 1020 in our photo quality comparison tool</paragraph>
+			<paragraph>The Lumia 1020 saves both a full resolution image and a supersampled one at 5MP. Here's how that looks compared to Xperia Z1's Superior Auto mode (which produces 8MP shots) and the HTC One (which goes for large pixels instead of many pixels).</paragraph>
+			<paragraph>   Nokia Lumia 1020 super sampled shots</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality<subsectionTitle>
+			<paragraph>Video recording also greatly benefits from the OIS and oversampling. Zoom is enabled even during video capture and it can go up to 4x in 1080p mode and 6x in 720p resolution. The 1080p videos are recorded at 30fps by default, but you can also get a more cinematic feel with the 24fps and 25fps options. These are available for 720p resolution (but there's no 60fps mode).</paragraph>
+			<paragraph>The Nokia Lumia 1020 also has two mics (one on top, one on bottom) with the company's proprietary Rich Audio Recording for distortion-free sound recording in loud environments. And unlike the Lumia 925, the Lumia 1020 records video files with stereo audio at a high 256Kbps bitrate and standard 48kHz sampling rate. There's also Audio Bass Filter, which filters out low-frequency noise. It can be set to 100Hz (the default), 200Hz (strong) and Off.</paragraph>
+			<paragraph>The Lumia 1020 features Optical Image Stabilization (OIS), which highly improves the look of a video - it dampens hand shake and makes camera movement look smooth and professional (as opposed to shaky home footage). We recorded a short sample to show how the 1020 handles walking and panning. You can "see" footsteps in the video but the shaking from them is mostly not annoying. The slow pan looks almost Hollywood like, while the faster pan is jerkier.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>OIS has become available on some Android phones too, but most of them can't do this - 4x lossless zoom. It's controlled with a pinch gesture or the one-finger Slide Zoom that was introduced on the Nokia 808 PureView (unfortunately, the volume rocker doesn't work). You can do it during video recording. With no supersampling, the image quality drops a bit, but it's still a top notch video.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Just like the still images, the videos produced by the Lumia 1020 are beyond the capabilities of any other smartphone on the market. The detail levels are excellent, the colors are extremely pleasing and the dynamic range simply cannot be matched by the competing phones, which all have smaller sensors. The 4x zoom when recording 1080p video is a more than welcome bonus, too.</paragraph>
+			<paragraph></paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video quality comparison<subsectionTitle>
+			<paragraph>Comparing the video from the Nokia Lumia 1020 is easier as it shoots standard 1080p video. Here's how it stacks up against the Lumia 925 (mostly the same phone, save for the sensor) and the LG G2 (an Android phone with OIS).</paragraph>
+			<paragraph>   Nokia Lumia 1020 in our video quality comparison tool</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Connectivity has everything<subsectionTitle>
+			<paragraph>The Nokia Lumia 1020 has quad-band GSM/GPRS/EDGE support, quad-band 3G with HSPA and penta-band 4G LTE connectivity (there are two versions of the phone with a different set of LTE bands).</paragraph>
+			<paragraph>If you're in range of an LTE network, the 1020 will do up to 100Mbps downlink and 50Mbps uplink. If not, HSDPA still offers reasonably good speeds at 42Mbps downlink and 5.76Mbps uplink.</paragraph>
+			<paragraph>The local connectivity is covered by dual-band Wi-Fi a/b/g/n with DLNA and Wi-Fi Hotspot, and stereo Bluetooth 3.0. Bluetooth is no longer limited as to what it can do - there's file transfer support now.</paragraph>
+			<paragraph>The Wallet app also uses NFC connectivity. Unfortunately, we won't know whether that has any potential to expand beyond its out-of-the-box functionality for at least a few more months.</paragraph>
+			<paragraph>NFC is still useful for file sharing and it works across other platforms with NFC support. Sending a picture with a Samsung Galaxy Nexus, for instance, wasn't a problem and the same goes for web pages.</paragraph>
+			<paragraph>NFC comes into play with some accessories too - like the JBL PowerUp speaker that automatically starts playing when you put the Lumia 1020 on top of it and will charge it too.</paragraph>
+			<paragraph>There is Mass Storage mode for the internal phone storage and you can upload files without needing to install any software. There is no requirement as to where you put your files (specific folders, etc.). If the phone has the appropriate app to handle a file, you'll have access to it. Since there is no WP file manager, you'll have to access the unrecognizable files only via a computer.</paragraph>
+			<paragraph>The phone knows music and video, as well as pictures and documents. But if you have a ZIP or a RAR file, you won't be able to attach it to emails, because there is no file manager (although a third party app is now in its beta testing stages) and there is no app to recognize this file and list it in the phone.</paragraph>
+			<paragraph>In addition to your phone storage, you also get at least 7GB of SkyDrive cloud space.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Great Internet Explorer<subsectionTitle>
+			<paragraph>The Internet Explorer on the Lumia is the classic Windows Phone 8 deal, which has hardly changed with the minor update of the OS. The Lumia 1020 has a big enough screen for comfortable browsing and the 332ppi pixel density keeps text sharp even at low zoom levels.</paragraph>
+			<paragraph>As usual, the URL bar is always visible at the bottom of the screen (but the status bar at the top of the screen auto-hides, so you don't actually lose any screen real estate) and next to it is the refresh button.</paragraph>
+			<paragraph>The URL bar also serves as a search bar - by default, anything you type that doesn't resolve to an URL will be sent over to the Bing app. You can also pick Google as a search provider, which will open the Google search results page in the browser instead.</paragraph>
+			<paragraph>You can, of course, bring up the extended settings, which offer a great deal of options - tabbed browsing, recent history, favorites, share options, pin to Start, find on page and settings. The settings menu offers the usual options like location, allow cookies, delete browsing history and it prompts choosing a global preference for mobile or desktop site versions.</paragraph>
+			<paragraph>The Share option is interesting in that you can not only send the page address in a message, but you can share it with your Xbox (if you have it set up). This way you can easily transfer a page from your phone to your TV and continue browsing there.</paragraph>
+			<paragraph>The browser makes the controls in web pages look just like their equivalents in native apps. So, a web app can look just like a native app with practically no extra effort from the designer.</paragraph>
+			<paragraph>And finally, you can open more than six tabs simultaneously, eight or ten worked just fine (WP7.x used to have a restriction on the number of tabs).</paragraph>
+			<paragraph>The Internet Explorer browser on the Nokia Lumia 1020 had the same great SunSpider and Browsermark performance as its Lumia 925 predecessor.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>SunSpider<subsectionTitle>
+			<paragraph>Lower is better</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>BrowserMark 2<subsectionTitle>
+			<paragraph>Higher is better</paragraph>
+			<paragraph>By the way, Windows Phone 8 has built-in mobile data management tools called Data Sense. Its purpose is twofold - it tracks how much data each app has used and can even help you save data by compressing web pages and images before they are sent to the browser (similar to Opera's Turbo). Data Sense depends on carrier support and doesn't work yet (not even tracking data usage).</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Bing search<subsectionTitle>
+			<paragraph>The looking glass button on the Lumia 1020 brings you to the new Bing search app. At first glance, it's the same app overall - you type in a query and you get search results from the web and there's a pretty background photo with several translucent squares you can tap to learn interesting facts about the subject.</paragraph>
+			<paragraph>With Local Scout now integrated into the places section of Nokia Maps, there are now two search features you can quickly reach from the default Bing screen. The first one is the camera scanner, which can snap a photo of text, run OCR and translate it into another language - this is the so-called Bing Vision camera lens. The second is the song recognition feature that gives you track and artist name and takes you to the music store so you can buy the track.</paragraph>
+			<paragraph>What's missing is the homepage-like additional Bing Search screen. It seems the Amber update removes this functionality.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Windows Phone Store catches up<subsectionTitle>
+			<paragraph>The Windows Store is still playing catch up with the Apple App Store and the Android Market. The number of apps available is higher than 175,000, and while that doesn't quite compare to Android and iOS, Microsoft says that 46 out of the top 50 apps on the other platforms are already available for WP8.</paragraph>
+			<paragraph>Apps written specifically for Windows Phone 8 don't work on the older versions but all of the older apps are compatible with the new WP8.</paragraph>
+			<paragraph>The Store is divided in three main sections - applications, games and music. A fourth section called Updates shows up when one of your installed apps has received an update - there's an Update all button, which will save you the hassle of updating each app individually.</paragraph>
+			<paragraph>Anyway, each app will be listed with a short description, a rating and user reviews, a few screenshots and permissions. While the list of permissions isn't as prominent as it is on Android, the Store will explicitly ask you about the important stuff (e.g. location info).</paragraph>
+			<paragraph>Big downloads (anything north of 40MB) need a Wi-Fi connection to work. Alternatively, you can download those jumbo apps using the desktop Zune software.</paragraph>
+			<paragraph>The Application section starts with a featured app, then it's on to the categories (you can list all or free apps only), followed by the top apps, a list of new ones and a longer list of featured apps.</paragraph>
+			<paragraph>Nokia App Recommendations will help you get the best apps right off the bat, including a number of Nokia Lumia-exclusives (things like Nokia Weather Channel, which you might have missed) and categories like Starter pack or Shop till you drop.</paragraph>
+			<paragraph>The Music section is actually the Xbox (previously known as Zune) Marketplace. Its structure is similar to the Application section. First, a featured artist of the week, three more featured artists, then a list of new releases, top albums and genres.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The Games section is divided into Xbox Live, New, Featured and Genres, which is the categories version. A great thing about games in the Windows Phone Marketplace is the trial option, which is available to many games and apps. You can try before you buy.</paragraph>
+			<paragraph>The new and featured sections act as what's new/hot reference.</paragraph>
+			<paragraph>The Store on Windows Phone can be accessed via your WP device, or the windowsphone.com website, from where you can push apps to your smartphone.</paragraph>
+			<paragraph>Search is available for the Store but right now it pulls together search results from all sections - games and apps alike. Microsoft have fixed the issue where songs would get mixed up in the search too, which was annoying.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Xbox LIVE tile<subsectionTitle>
+			<paragraph>Xbox Live is at the heart of the Games hub. It carries over many features from the Xbox - from your avatar to your scores and achievements. The Spotlight feature is available too (it shows info on new stuff) and also Requests - which shows you game invites from your friends.</paragraph>
+			<paragraph>Anyway, the games themselves are housed in the Collection section. Nothing much to see here, the installed games are arranged in a square grid and there's a Get more games shortcut, which launches the Windows Store.</paragraph>
+			<paragraph>Not all games support Xbox Live - the ones that do are in the corresponding section in the Store.</paragraph>
+			<paragraph>Here you can also see your friends and their profiles, achievements and avatars. There are a few shortcuts to other Xbox Live-related apps - such as remote Xbox control (like the Store) or the avatar changing app. If you don't have them installed, you'll be redirected to the Marketplace, otherwise you'll get directly to the app in question.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>HERE Maps and Drive+ get a makeover<subsectionTitle>
+			<paragraph>Being a high-end Lumia smartphone, the 1020 gets the Drive+ navigation suite for free out of box. Unlike Drive available on lower-end Lumias, Drive+ has global coverage, meaning it can easily be used abroad. And since it's available offline you don't have to worry about roaming data charges, either.</paragraph>
+			<paragraph>HERE Drive+ offers free, life-time voice-guided navigation anywhere in the world. All you have to do is download a voice in your language of choice and you're good to go. Of course, to make use of the key selling point of Drive - offline navigation - you have to download a map for a country of your choice, too.</paragraph>
+			<paragraph>With Drive+ you can easily plan routes (all offline, unlike the early iterations of this app) and you can tweak various settings for each route - fastest/shortest/economical route can be selected and you can choose whether the app will use or avoid motorways, toll roads, ferries, tunnels, unpaved roads and motor trains. There are icons to remind you of the selected settings.</paragraph>
+			<paragraph>Drive+ uses big, clear instructions on its screen in addition to the voice prompts, which is ideal for in-car use. You can switch between 2D and 3D mode and switch the color scheme (day, night, auto). There are speed alerts and real-time traffic information.</paragraph>
+			<paragraph>We do miss a few options - like setting a starting location other than your current location and downloading maps for an entire continent. Still, Nokia offer quality maps and offline voice-guided navigation out of the box, which puts them ahead of other Windows Phone makers an even other platforms (both Android and iOS require a data connection to plan the route).</paragraph>
+			<paragraph>The most recent update to the HERE suite adds an overview of traffic conditions in your area, including your drive to and from work with the My Commute app. My Commute shows you an at-a-glance look at your specified commute with a special Live Tile on your homescreen. You can setup up multiple commutes as well.</paragraph>
+			<paragraph>Nokia Maps takes on other duties - instead of navigation, it's more of a replacement for paper maps that you can take as you explore a city. It will help you discover new places, read a quick description, see photos, read reviews and check what renowned guides like Lonely Planet, Insight Guides and Qype have to say about it.</paragraph>
+			<paragraph>The Maps app also offers walking, driving and public transport navigation but it only shows a list of instructions. It shares data with Drive so you don't have to download the same maps twice.</paragraph>
+			<paragraph>With the latest release, the former Local Scout and City Lens features have been integrated into the Places section of HERE Maps, and gives you a quick view of restaurants, shops, galleries and other POIs around you, including an augmented reality view via the camera called LiveSight. Tapping the virtual signs in the camera interface pops up more info about the place, as well as directions.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Excellent Office skills<subsectionTitle>
+			<paragraph>Office is one of the key selling points of Windows Phone. Document viewing and editing is absolutely free and integrated into the OS. SkyDrive integration is available as well. Docs are automatically synced between the phone and your computer through SkyDrive.</paragraph>
+			<paragraph>The Places tab lets you browse Office docs stored on the phone, in SkyDrive, email or in Office 365 (a paid service that includes Office web apps).</paragraph>
+			<paragraph>The Office hub breaks down into three sections - Documents, Places and Notes.</paragraph>
+			<paragraph>Let's look at the two most important apps - Word and Excel. They share the Documents panel, which lists all available documents of the relevant types (in order of last used). Both viewing and editing is supported.</paragraph>
+			<paragraph>The Excel section of the Office hub has the all-time favorite Auto-sum function and you can tap and drag to select multiple cells.</paragraph>
+			<paragraph>Editing is pretty straightforward and easy to use even on a mobile device. You type in the text and you can use the Format key to change the formatting of the selected text. You can also insert comments.</paragraph>
+			<paragraph>Formatting options include the standard bold, italic and underline, as well as text size, highlighting and font color. For highlighting and font colors you have only three colors to choose from, which is a little limiting but should be enough for most cases.</paragraph>
+			<paragraph>PowerPoint files will thrive in the Documents section too - but they are for viewing only, you can't edit them or create new ones.</paragraph>
+			<paragraph>Collaboration for both Word and Excel files is enabled with SharePoint. It allows syncing, sharing and web publishing but you'd need to use the right SharePoint server. You can attach those files to emails, though you need to do that from the Office hub. You can't do it from the email editor, which caused a little confusion at first.</paragraph>
+			<paragraph>OneNote is Microsoft's collaborative note taking tool. It has great (and easy to use) support for lists of multiple levels, you can add photos and voice memos and you can send notes via email when you're done. OneNotes can be synced with your SkyDrive or Windows Live account so that they are accessible from everywhere. Pin-to-homescreen is available too and so is the To-Do feature that turns the selected line into a to-do item that can be checked off.</paragraph>
+			<paragraph>The apps support pinch zooming and work very well for viewing even complex documents. But Microsoft's fondness of simplicity may have over-simplified the editors.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Organizer and apps<subsectionTitle>
+			<paragraph>The Calendar can view sub-calendars for each account you have and can color-code to make them easier to tell apart. You can also disable sub-calendars if they're getting in the way.</paragraph>
+			<paragraph>The calendar offers day and agenda views too for more comprehensive hour-by-hour browsing of your appointments.</paragraph>
+			<paragraph>To-dos can be created too. Those can only be synced with Live accounts, and not a Gmail account for example. Each to-do can have a priority reminder, due date and notes. Later, to-do's can be sorted by priority.</paragraph>
+			<paragraph>The WP calculator is nothing extravagant - it has the simple portrait view of basically all calculators on the planet, while turning it over to landscape reveals the more complex scientific mode.</paragraph>
+			<paragraph>The alarm app is very simple to use. You get the alarm time with an on/off switch to the right. Each alarm can have its own name, sound and repeat.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Final words<subsectionTitle>
+			<paragraph>PureView may as well be Nokia's curse. It was the gun salute at Symbian's funeral, now it pans out to watch Nokia ride off into the sunset.</paragraph>
+			<paragraph>So much for the irony of it. Now, let's talk business. And we don't mean buying and selling. Though Redmond knew darn well what they were paying for.</paragraph>
+			<paragraph>Many who care about Nokia, believe Windows Phone was a mistake. Now, go ahead and call the Lumia 1020 a mistake. The best camera in business and one that probably will only be bested by its successor, whatever the logo on the tin.</paragraph>
+			<paragraph>Lumia 1020 is The One That Got Away. We didn't realize it until we were through with our review and we knew this is probably Nokia's farewell with the world. There are a few more devices to come from the Finns, but none of them will come close to the Lumia 1020. And yet, lots of people won't get this gem even though they love it.</paragraph>
+			<paragraph>It all started with the first PureView phone back in 2012 - the Nokia 808. The technology was so ground-breaking that people were whispering the name and the number of pixels with disbelief. Then we got our hands of the monstrous cameraphone and we were beyond impressed. Nokia showed the world you can pack so much camera magic in a standard-sized smartphone shell.</paragraph>
+			<paragraph>Then we turn on the phone and after a quick set up, we find the Lumia 1020 shoots amazing pictures, offers life-time voice-guided worldwide navigation, great mapping service and even Nokia's own Music streaming app. But there is more - the music player has rich equalizer options, the battery life is excellent, you can even use the screen with gloves or keys. The iconic glance screen is also here. We are sure Nokia's name once again popped up on a few occasions.</paragraph>
+			<paragraph>We all need to remember what Nokia was and that this is pretty much the same company today. And the Lumia 1020 is a great example of Nokia's dedication to its fans.</paragraph>
+			<paragraph>Samsung Galaxy S4 and LG G2 flagships offer similar fluid Android experience, great 13MP camera capabilities and top-notch video quality. Both droids costs about ?100 cheaper than Lumia 1020. The Galaxy S4 has a few more advanced camera features and is capable of shooting amazing 60MPs panoramas and excellent HDR shots. If you need an even richer and highly customizable OS experience and you are ready to sacrifice some of the camera quality in favor of a bigger application store, then the Galaxy S4 or the LG G2 might be the right alternatives for you.</paragraph>
+			<paragraph>  Samsung I9505 Galaxy S4 ? LG G2</paragraph>
+			<paragraph>HTC One is far greater in terms in build quality thanks to its aluminum unibody shell. It also comes with optical image stabilization and big camera sensor though limited up to 4MP resolution. The One flagship captures great photos even in low-light and offers one of the best Android launchers available on the market. HTC seems to be also struggling lately but it is still providing amazingly fast Android updates on its latest devices. HTC One is beautiful both on the inside and the outside and has already won lots of users on its side. It's definitely a one to look forward to.</paragraph>
+			<paragraph> HTC One</paragraph>
+			<paragraph>Sony Xperia Z1 has just hit the shelves and is priced closely to the Lumia 1020. The latest Japanese flagship also relies on a newly developed camera sensor and technology. It comes with a 20.7MP Exmor RS Sony sensor with a Superior Auto mode that produces 8MP shots from the raw 20.7MP images - Sony's answer to Nokia's PureView photos. Unfortunately, the Z1 can't keep both the full resolution shot and the downsized shot like the Lumia 1020. It also lacks optical image stabilization and a xenon flash. Not to mention that even the downsampled shots are nothing to write home about and the full resolution 20MP photos are lackluster. Despite having a 1080p display, the Xperia Z1 TFT unit is nowhere near the quality of the Lumia 1020's AMOLED screen. In fact, Sony's only advantages over the Lumia 1020 are its water-protection shell and probably, the Android OS (which is not little by all means).</paragraph>
+			<paragraph> Sony Xperia Z1</paragraph>
+			<paragraph>The Lumia 1020 is and will be probably remembered as Nokia's crown jewel. It is a great exit for once a legendary company that believe it or not, has been the same since its beginning. Most of the users out there consider the Windows Phone OS as its major flaw, while they shouldn't. The Lumia 1020 is a solid phone, with great hardware, amazing innovative camera technology and powerful messenger and office skills. It's a true Nokia destined to become a legend when it's probably too late. And that's why Lumia 1020 will be always The One That Got Away.</paragraph>
+			<paragraph>PureView took more than a year to walk the distance between Symbian to Windows Phone. Well worth the wait, the 1020's camera is an improvement on an already mind-blowing camera.</paragraph>
+			<paragraph>It's a brilliant cameraphone but the smartphone isn't without its issues. The camera shot-to-shot time is rather appalling, the screen has only average sunlight legibility, the battery is not exchangeable and you cannot expand the internal storage with a microSD card. Yet, these are things you can live with if you get something in return, something to make up for these inconveniences. And the Nokia Lumia 1020 delivers.</paragraph>
+			<paragraph>Better yet, it's Nokia that has delivered one last time. It's not the fact that they may never do it again that makes the Luma 1020 special. And it's definitely not why we're heaping praise on the phone. On their way out, Nokia are looking back at a lifetime of achievement. One last view from the top.</paragraph>
+		</subsection>
+	</page>
+</review>

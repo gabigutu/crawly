@@ -1,0 +1,130 @@
+<review>
+	<title>Nokia Lumia 925 preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/nokia_lumia_925-review-928.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>Nokia refined the design of the Lumia 920 flagship, but didn't fundamentally change it - the Lumia 925 is, in essence, the 920S. The number of changes might be small, but their magnitude isn't. With a better body, screen and software, the Nokia Lumia 925 is a more desirable device than its 920 sibling.</paragraph>
+			<paragraph>Let's break down the changes. The thick and heavy polycarbonate unibody is gone, with an exposed aluminum frame and polycarbonate back taking its place. The diet has shaved 36g and 2.2mm off the waistline of the Lumia 925.</paragraph>
+			<paragraph>Part of that is the new AMOLED screen, which is thinner than the LCD of the older phone. It has the same basic specs - a 4.5" diagonal, WXGA resolution, Gorilla Glass 2, ClearBlack and Super sensitive touch. But we believe that AMOLED is a better match for Windows Phone - LCDs just don't do the interface justice . AMOLEDs simply render colorful squares on a black background better.</paragraph>
+			<paragraph>There are some other changes too, like the added Nokia Smart Camera app and FM radio support.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 925 at a glance:<subsectionTitle>
+			<paragraph>The changes will make their way to older Lumia phones with the Amber update, but the Nokia Lumia 925 is leading the way.</paragraph>
+			<paragraph>Smart Camera is a Lens add-on for the stock camera app, though it can fully replace it. You can even set it as the default camera app to launch by long pressing the shutter key. So what is Smart Camera? It's the result of the Scalado acquisition and offers features similar to HTC's Zoe. We'll review it in more detail later on in this article.</paragraph>
+			<paragraph>The camera itself is the same as what the Lumia 920 has, which is to say pretty good. It has a Carl Zeiss lens with f/2.0 aperture, an Optical Image Stabilization mechanism and a 1/3" image sensor of 8.7MP resolution.</paragraph>
+			<paragraph>The Lumia 925 is perhaps not as big of an upgrade over the 920 as we hoped, but there's honestly little Nokia could have done differently. Not with a screen resolution and chipset locked by the OS.</paragraph>
+			<paragraph>The camera software update sure is nice, but the Lumia 920 will get it soon enough itself. So, will the new finish and new screen justify the existence of a new model? Jump to the next page to find out!</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Nokia Lumia 925 360-degree spin<subsectionTitle>
+			<paragraph>Nokia has been favoring polycarbonate unibody as the design of choice for its high-end phones lately, but the Lumia 925 is an exception - it's the first Nokia phone in a while to feature exposed aluminum. The latter, combined with the new AMOLED screen, has brought the phone's size down - not width or height, but thickness and weight.</paragraph>
+			<paragraph>The Nokia Lumia 925 is 8.5mm slim and weighs 139g, down from 10.7mm and 185g for the Lumia 920.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and build quality<subsectionTitle>
+			<paragraph>In terms of looks, the Nokia Lumia 925 is closer to he Lumia 720 than the 920. It's a rectangular phone with rounded sides and a tapered back to hide some of the thickness. The sides are made of bare aluminum, while the back is polycarbonate.</paragraph>
+			<paragraph>The metal vs. plastic debate has been heating up in Android land, but the Lumia 925 is somewhere in between. It's not a bad choice as Nokia's polycarbonate has always been top notch and the aluminum still gives a solid, premium feel.</paragraph>
+			<paragraph>The aluminum also has another function - it serves as an antenna. The external antenna design became infamous with the iPhone 4, which suffered from the so-called "death grip". That's when touching the metal bands would compromise reception.</paragraph>
+			<paragraph>Nokia has promised that the Lumia 925 is immune against it and, indeed, we didn't experience any loss of signal. We'll try harder for the review, just in case.</paragraph>
+			<paragraph>The polycarbonate on the back has a soft touch finish and will come in three different colors at launch - White, Grey and Black. Such a monochromatic color scheme is uncharacteristic of the Lumia line, which offers bright colors like Red, Yellow or Blue.</paragraph>
+			<paragraph>The Lumia 925 is wider than most phones with 4.5" or so screens - the bezel is pretty thick and the the screen has 15:9 aspect ratio, making it wider to begin with. It's also taller than usual, but at least that leaves enough room around the capacitive keys to prevent accidental touches (which are not uncommon on the Samsung Galaxy S4 and others).</paragraph>
+			<paragraph>That affects the handling - it's certainly not a deal-breaker (it's on par with the Lumia 920), but narrower phones are more comfortable to hold. Pocketability, however, has soared in part due to the reduced thickness but mostly because of the lower weight. 185g is phablet kind of weight, while 139g is virtually the same as the iPhone 4S which many people carry in their pockets without complaint.</paragraph>
+			<paragraph>We should note that the Nokia Lumia 925 lost some body fat by dropping the wireless charging support of the Lumia 920. You can add that back with a thin back cover that connects to the three pogo pins above the loudspeaker. Nokia has not announced the combined thickness or weight of phone + cover.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Display<subsectionTitle>
+			<paragraph>For its latest iteration of a Windows Phone flagship - the 925 and 928 - Nokia chose AMOLED over LCD. AMOLEDs have a number of advantages over liquid crystals - deeper blacks and better contrast, lower power usage in some scenarios (especially on WP, where most of the time the background is black) and great viewing angles.</paragraph>
+			<paragraph>The display on the Nokia Lumia 925 is a 4.5" AMOLED of WXGA resolution (768 x 1280), which is the maximum supported by the OS at the moment. The display has 332ppi pixel density and its matrix has a PenTile arrangement. That's not ideal, but the screen is slightly better in terms of sharpness than the Samsung Galaxy S III (PenTile Super AMOLED HD with 306ppi pixel density).</paragraph>
+			<paragraph>  </paragraph>
+			<paragraph>Windows Phone is the platform that suffers the least from low pixel density ? most of its interface consists of rectangles and large type. It's tiny fonts and lines at an angle that go fuzzy on PenTiles.</paragraph>
+			<paragraph>The Gorilla Glass 2 covering the screen is slightly beveled at the edges, which makes it fit better with the aluminum frame around it. This makes swipes from the side of the screen (common in WP) more comfortable.</paragraph>
+			<paragraph>The screen has excellent contrast thanks to the deep blacks. That's typical for AMOLED but what isn't is high brightness. Nokia advertises 600nits, which is slightly higher than we measured, but this is still one of the brightest AMOLED screens around.</paragraph>
+			<paragraph>Another common complaint about AMOLEDs is the colors - too saturated for some people's liking. The Nokia Lumia 925 has an extra setting allowing the user to choose one of eleven saturation levels.</paragraph>
+			<paragraph>The color temperature option is great too - it has 11 settings too and goes from cool through neutral to warm. On LCD phones you're usually stuck with either a cool screen or a warm screen, depending on your preference it's either good or bad, it's a matter of luck hitting the right one. Having control over that takes chance out of the equation.</paragraph>
+			<paragraph>The AMOLED display on the Lumia 925 is laminated to the Gorilla Glass 2 and that reduces screen glare (some of which is caused by the air gap between glass and screen). Nokia's proprietary ClearBlack tech reduces glare even further and the 925 has one of the best screens in terms of sunlight legibility.</paragraph>
+			<paragraph>The screen on the Nokia Lumia 925 uses the Super sensitive touch technology that debuted on the 920. It can respond to fingernails or car keys, and will detect touches even if you're wearing gloves. You can set the sensitivity to Normal or High and we found even the Normal setting to be capable of working through thin gloves or with nails.</paragraph>
+			<paragraph>Nokia's tweaks to the display don't end here - there's a feature called Glance, which displays a clock on the lockscreen while it's off (like on the Symbians of yore). That doesn't waste a lot of energy due to the nature of AMOLED and by default it's set to turn the screen completely off after 15 minutes.</paragraph>
+			<paragraph>There's an option to leave it always on (or turn it off completely) and to dim the clock's brightness in a certain interval (it makes it more comfortable to look at in the dark).</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Controls<subsectionTitle>
+			<paragraph>The Microsoft requirements for a Windows Phone device mean there's little variation in terms of controls across the product range.</paragraph>
+			<paragraph>The Nokia Lumia 925 is no exception. It has three capacitive keys below the display - Back, Home and Search. At the bottom of the glass covering the screen is the mic pinhole.</paragraph>
+			<paragraph>Above the screen is the 1.9MP front-facing camera, the ambient light and proximity sensors, and the earpiece.</paragraph>
+			<paragraph>It's the right side of the phone where it gets interesting. Here are the volume rocker, the Power/Lock key and the two-step camera shutter key. They are all made of aluminum and have uniform width, all of them are on the thin side but they project enough to make them easy enough to use.</paragraph>
+			<paragraph>The Power/Lock key can be used to wake up the screen, but you can also do that with a double tap a la Nokia N9 (even the new Asha 501 does this). Another way to unlock the Nokia Lumia 925 is to long press the shutter key. There's an option to either start the stock WP camera or Nokia's custom Smart Camera (which we'll cover later).</paragraph>
+			<paragraph>The top of the phone is quite busy with the microSIM card slot, the microUSB port, 3.5mm audio jack and the secondary mic pinhole. The microSIM card goes in a tray and you need an ejector to open it. There's no microSD card slot here and the Lumia 925 doesn't have a third microphone.</paragraph>
+			<paragraph>The left and bottom sides of the phone are left completely bare.</paragraph>
+			<paragraph>We leave the aluminum side of the Nokia Lumia 925 to get to the polycarbonate back. There's a round lens housing that protrudes slightly - that covers the Carl Zeiss lens with f/2.0 aperture, the Optical Image Stabilization mechanism and the 8.7MP image sensor.</paragraph>
+			<paragraph>To the side of the camera is the dual LED flash that is used as an AF assist light and video light too.</paragraph>
+			<paragraph>The positioning of the camera makes it easier to hold the phone when taking a photo - with phones that have their cameras too close to the top edge you always run the risk of your finger getting in the way.</paragraph>
+			<paragraph>Anyway, further down the back is the loudspeaker grille with a small nub to raise the phone when you place it on the table and keep the loudspeaker from getting muffled. Also around here are the three pogo pins that feed electricity to the phone when you attach the optional wireless charging cover or use certain car docks or another accessory.</paragraph>
+			<paragraph>Hidden below the polycarbonate back of the Nokia Lumia 925 is the 2,000mAh Li-Ion battery. It's the same capacity as the battery of the thicker Lumia 920, but we've seen thinner Androids pack bigger batteries.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Improved user interface<subsectionTitle>
+			<paragraph>Windows Phone 8 is Nokia's only smartphone OS (with WP7.8 almost out the door) and the Finns have taken care to add as much value to the Lumia brand as possible. That means exclusive apps and services rather than custom touches to the UI - Microsoft isn't particularly open-handed when it gets to UI customizations.</paragraph>
+			<paragraph>The Nokia Lumia 925 comes with the new Amber update preinstalled but it doesn't really change the interface itself, so it should be a familiar sight. It does add a few features like FM radio support and a new camera lens (more on that in a minute) but the rest is barely different from the previous WP8 iterations.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>A push on the unlock button reveals the lockscreen, which displays the current time and date and shows calendar events, emails and missed calls. Pushing the volume rocker in either direction will bring the sound switch and music controls on top of the screen.</paragraph>
+			<paragraph>Swiping the lockscreen up unlocks the device or you can just press and hold the camera shutter key to unlock the phone straight into the camera app.</paragraph>
+			<paragraph>There's a reasonable level of flexibility and functionality to the lockscreen - the Live Apps service allows apps to display notifications and images. You can set one app to display big notifications ("detailed status") and up to five more apps to show less ("quick status").</paragraph>
+			<paragraph>The lockscreen wallpaper can also be controlled by apps - you can let the music player change the lockscreen image to the album art of the currently playing track or let one of the installed apps choose the image (e.g. Bing's beautiful background images or photos from your Facebook account).</paragraph>
+			<paragraph>The Modern UI is a vertical grid of Live tiles, which can be reordered the way you like. Almost anything can be pinned to the homescreen - apps, contacts, web pages and more.</paragraph>
+			<paragraph>Windows Phone 8 lets you resize the live tiles. Upon a tap and hold, you'll get an extra resize button, next to the unpin one. You can opt between quarter, normal and double size. If you select the smallest one though, the tile will be just a static icon (as is in the regular menu). In our mind, the process of resizing live tiles could've been better. In order to switch from big to normal and then small you have to hit the same toggle - it would've made more sense if there were separate ones to make a tile bigger and smaller or an option to resize by dragging, like in Android.</paragraph>
+			<paragraph>Most Live tiles display relevant info such as the current date, pending calendar events, missed calls, unread emails and more (third party apps do it too). The Marketplace tile displays the number of updates available, while the Pictures tile is essentially a slideshow of your photos. It's nice to have all that info always available at-a-glance. You can look at them as homescreen widgets of sorts.</paragraph>
+			<paragraph>WP8 can do multitasking - well, not true multitasking, but more along the lines of iOS. Apps not in the foreground are suspended, but the OS has ways to take over and carry out the task for them (e.g. continue playing music). But just like iOS, if an app needs to run in the background (sat-nav clients, messengers, etc.) it can. The WP offers both kind of multi-tasking and it's up to developers to choose how their apps behave.</paragraph>
+			<paragraph>To switch between apps you press and hold the Back key. You'll get thumbnail snapshots of the apps, ordered chronologically left to right.</paragraph>
+			<paragraph>You can scroll the list horizontally to select an app and a tap will bring you back to your running or suspended app. You can't "kill" any of those apps from here - to exit one you must bring it to front and use the Back key to close it.</paragraph>
+			<paragraph>If you keep on hitting the back key, you will effectively be closing all of the open apps one by one, which is very unnatural, especially when you've got an open Internet Explorer, which has to go all the way back to the first loaded page before it closes. Overall, it's best to let the OS manage the apps and not worry about which ones are opened or closed.</paragraph>
+			<paragraph>Opening the settings menu displays two sets of options: like on the start screen, you can swipe between System and Applications. System covers all the settings you can think of like sounds, color theme, Wi-Fi, Bluetooth, Accounts, etc. The Application settings let you configure each app you have on the device.</paragraph>
+			<paragraph>We would've liked to see some kind of quick toggles in Windows Phone 8 to spare you the need to go all the way to the settings menu to enable Wi-Fi, Bluetooth, GPS and the likes.</paragraph>
+			<paragraph>Another feature we feel is missing is a place where you can see all of your notifications from various apps. Live tiles manage to show notifications from each app to some extent, but they don't really have enough room for things like e-mail subject and such, while Android and iOS notification areas do. Microsoft has confirmed that it's working on just such a feature and that we should see it in a future update to WP 8.</paragraph>
+			<paragraph>Windows Phone 8 can also be controlled by voice only - you can dictate or have the phone read text out, you can initiate searches and so on. Other OSes are doing it too - Android's got Google Voice Actions, Apple has Siri and there are a number of third party "virtual voice assistants" available. The Windows assistant though is still far behind the competition.</paragraph>
+			<paragraph>One of the new features brought by WP8 is the Kids corner (HTC liked it well enough to put a similar feature on the One). You can select the apps and the types of media content that goes in and password-protect it, so you can safely share your smartphone with your kids without worrying that they will mess up your settings or access inappropriate content. When activated, the Kids corner is accessible by swiping left of the lockscreen. If you've secured it, your kids won't be able to return to your standard lock and home screen without the password.</paragraph>
+			<paragraph>Microsoft is trying to appeal to business users too - a company can create its own Hub where employees can find news, calendars and other info relevant to their work. Companies can also create their own apps that only employees can install.</paragraph>
+			<paragraph>The Nokia Lumia 925 uses the higher-end chipset of the two used by Windows Phone 8 handsets - Qualcomm MSM8960 (1.5GHz CPU, 1GB RAM, Adreno 225). Naturally this means hiccup-free performance and smooth navigation around the UI. Loading times aren't always perfect, but are never too long to be an annoyance.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Smart Camera<subsectionTitle>
+			<paragraph>The Nokia Lumia 925 has an 8.7MP camera that shoots 8MP photos (3264 x 2448) in 4:3 mode and 7MP photos (3552 x 2000) in 16:9 mode. This is the special sensor design Nokia has used since the N9, which loses only 11% of the resolution when going from 4:3 to 16:9 mode instead of the 25% that traditional sensors lose.</paragraph>
+			<paragraph>Its primary advantage over the competition is the Optical Image Stabilization. It improves low-light performance by allowing longer exposure (the f/2.0 lens helps here too) and eliminates hand shake in videos. The Lumia 925 brings another upgrade over the 920 - its lens is has 6 elements over the 4 of its predecessor. In theory that should result in sharper images with more detail.</paragraph>
+			<paragraph>The camera UI is pretty simple - you have your viewfinder and some controls on the right. From top to bottom they are the still/video camera toggle, front/back camera toggle, a flash mode setting and the Lens button. On the left you have an arrow that takes you to the images taken with the camera, alternatively you can swipe to get there.</paragraph>
+			<paragraph>The camera app on Windows Phone has rich settings, ranging from scenes and effects to white balance, contrast, saturation, sharpness and ISO among others. You have a dedicated Macro focus mode but no face detection. The flash can be set to auto, forced or off. A separate setting allows the LED to work as an AF assist light.</paragraph>
+			<paragraph>In the latest camera software Nokia has raised the maximum ISO setting from 800 to 3,200 and has tweaked image processing in low-light conditions.</paragraph>
+			<paragraph>SkyDrive is available for photo auto-upload (it's turned off by default), but you can install third-party apps to handle this functionality as well.</paragraph>
+			<paragraph>Lenses is an interesting feature, allowing third-party camera apps to enhance the core camera functionality without the need to access them separately and get use to their different UIs. The so-called Lenses are like plugins for your camera and they are available directly in the native camera app. They show up in the list of installed apps too in case you'd like to pin a Lens to the start screen, for instance.</paragraph>
+			<paragraph>The shutter key will wake the phone up with a single press and launch the camera app. You can set Nokia's exclusive Smart Camera to be launched instead.</paragraph>
+			<paragraph>So, we've mentioned Smart Camera several times already and it's time to explain what it does. It's the next generation of Smart Shoot and is based on technology developed by Scalado (now owned by Nokia).</paragraph>
+			<paragraph>It shoots a burst of 10 photos at 5MP resolution and allows you to edit those photos later. When editing a Smart Camera photo you choose one of several modes by swiping through their respective cards, each with a helpful label.</paragraph>
+			<paragraph>The basic feature here is best shot - automatically selecting the best photo out of the 10 (you can manually override the selection). You can also select the best expression for each individual face in the photo.</paragraph>
+			<paragraph>The multiple photos can be used to remove moving objects as well.</paragraph>
+			<paragraph>Then there's Action shot - a moving object is overlaid on the photo several times to create a sense of motion. You can pick which of the 10 photos are used to create the action shot and the multiple copies can either be opaque or semitransparent.</paragraph>
+			<paragraph>The other mode that enhances motion is Motion focus - it locks the moving object, but blurs the background around it. Imagine turning the camera to track a fast moving object, that's the effect that Motion focus simulates.</paragraph>
+			<paragraph>We'll look at image quality in a later article, but we have to wonder why Nokia chose to limit Smart Camera photos to 5MP. Sure, Smart Camera shoots 16:9 photos, which eats into the resolution, but Nokia's sensor can do 7MP in this mode. We suspect the midrange chipset is the real answer. 5MP is not far ahead of HTC One's 4MP camera and without the benefit of large sensor pixels. It's also no match for the fine detail captured by high-end 13MP shooters either.</paragraph>
+			<paragraph>Anyway, Nokia has other Lumia-exclusive Lenses too. There's the Panorama and Cinemagraph (creates animated GIFs), but also GlamMe (to enhance self-portrait shots) and a few more.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>There's little doubt that the Lumia 925 is the best smartphone to come out of the Nokia R&amp;D center yet. It may lack the refined seamless design of the Lumia 920, but its much slimmer waistline certainly has the high-end vibe, which is all too crucial for a product in this price range. The far lower weight also improves portability, making the latest Nokia flagship less of a burden than its predecessor.</paragraph>
+			<paragraph> Nokia Lumia 920</paragraph>
+			<paragraph>If you have already fallen for the live tiles of the Microsoft platform, the Nokia Lumia 925 is certainly going to become the phone to get. In fact we can't help but wonder why this wasn't the flagship that Nokia released last Fall. All the technology was available back then (save maybe for the new 6-element lens) and a slim waistline would have enabled the Finns to compete with the very best on the market.</paragraph>
+			<paragraph> Nokia Lumia 925</paragraph>
+			<paragraph>Now however, others have moved to quad-core Kraits, 13 megapixel cameras and 1080p screens - hardware that is yet to be supported by Windows Phone. The limitations of the Microsoft platform might prove costly for the Nokia Lumia 925, which while packing the best specs in its own camp, looks decidedly inferior compared to the latest crop of Android powerhouses.</paragraph>
+			<paragraph>Then again, improving on an already solid shooter might be enough to make the Nokia Lumia 925 relevant. Windows Phone 8 matures quickly and as its Store gets filled with more and more apps, it's becoming a viable alternative to many users, who wouldn't have even considered it back when the Lumia 920 was released. And if you are still sitting on a fence, then the best OIS-enabled camera on the market, coupled with a great AMOLED screen might be more than enough to nudge you in the direction of the latest Finnish flagship.</paragraph>
+		</subsection>
+	</page>
+</review>

@@ -1,0 +1,35 @@
+<sensCritiqueEntity>
+	<nameEn>null</nameEn>
+	<nameFr>Blaise et le château d'Anne Hiversère</nameFr>
+	<typeEn>Book</typeEn>
+	<typeFr>Livre</typeFr>
+	<year>2004</year>
+	<link>http://www.senscritique.com/livre/Blaise_et_le_chateau_d_Anne_Hiversere/275271</link>
+	<generalScore>8.2</generalScore>
+	<scoreDistribution>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>0</numberOfVoters>
+		<numberOfVoters>2</numberOfVoters>
+		<numberOfVoters>10</numberOfVoters>
+		<numberOfVoters>38</numberOfVoters>
+		<numberOfVoters>69</numberOfVoters>
+		<numberOfVoters>59</numberOfVoters>
+		<numberOfVoters>40</numberOfVoters>
+	</scoreDistribution>
+	<review>
+		<title>120 éme lecture plus tard...</title>
+		<author>villou</author>
+		<date>2013-01-27</date>
+		<score>1.0</score>
+		<content>Ca va faire 3 ans et demi que, plusieurs fois par semaine, Blaise est demandé en histoire du soir (ou du jour d'ailleurs). Et à chaque fois, ça marche, il est toujours mort de rire. C'est bientôt l'anniversaire d'Anne Hiversère, les poussins décident de faire un château. Mais un château mangeable, avec des salons chocolats, des murs gaufrés, cougueloufé fin et rataplissé de tatouille avec des fauteuils en mousse abricots et fraises, des escaliers sucrés à la créme... Pour réaliser leur recette, les poussins vont devoir parcourir leur monde pour trouver et travailler les ingrédients, ils ont 10 jours, ni plus, ni moins. Mais les poussins sont plein de ressource, si vous les connaissez pas, attardez-vous par là: http://www.senscritique.com/livre/Mille_secrets_de_poussins/165112 Chaque page sera alors une merveille et une trouvaille. Les milliers de poussins s'affairent dans un univers magique et fascinant. Boufniouze lit son journal à chaque page, Pic et Asso écrivent des lettres et puis surtout, y'a les deux zouaves sur une petite montgolfière bateau qui se racontent sans cesse la même blague : -Pète et répète sont sur un bateau, Pète tombe à l'eau, qui est ce qui reste ? -Répète ! -Pète et répète... etc Ainsi de suite sur chaque page et c'est toujours plus drôle. La lecture est difficile la première fois, comme tout les Ponti d'ailleurs, mais l'exercice de diction est tellement agréable ! L'apothéose, c'est la fête en question puisque dans cette page aux milles secrets, vous trouverez au moins un personnage, un héros de l'enfance de quelqu'un. Ce bouquin est un des indispensables de Ponti, tous les papas du monde devraient lire ça à leurs petits chéris.</content>
+	</review>
+	<review>
+		<title>Blaise et le château d'Anne Hiversère</title>
+		<author>Poca</author>
+		<date>2010-10-15</date>
+		<score>1.0</score>
+		<content>Je ne pourrai jamais m'en lasser. Claude Ponti, c'est le poète du Cherchez Charlie, l'artiste de l'encre de chine, de la couleur, du décor... Des mots pétaradants pour des fou rires tordants. Une inventivité folle pour une escapade lyrique sous LSD.</content>
+	</review>
+</sensCritiqueEntity>

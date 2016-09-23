@@ -1,0 +1,120 @@
+<review>
+	<title>Samsung Galaxy S i9001 Plus preview</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/samsung_galaxy_s_plus_preview-review-604.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>It?s a Galaxy S facelift with just enough of a speed boost to make it 2011 ready. It has a 1.4 GHz Snapdragon processor and the latest version of Android: 2.3.3 Gingerbread. The Samsung I9001 Galaxy S Plus is heading to Russia under the name of Galaxy S 2011 Edition but will probably reach other markets too.</paragraph>
+			<paragraph>It makes sense to play this card once again, with probably enough people willing to go for a flagship without busting the piggy bank. And the Galaxy S Plus is a flagship through and through, make no mistake. It?s just not this year?s flagship.</paragraph>
+			<paragraph>This one met a couple of dual core predators and lived to tell the story. It may?ve been a near death experience alright but the Samsung I9001 Galaxy S Plus has nothing to be ashamed of.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Samsung I9001 Galaxy S Plus at a glance:<subsectionTitle>
+			<paragraph>An overclocked single-core chipset doesn?t hold a candle to dual core CPUs but the Galaxy S Plus will be held to a different standard. It was out of its depth in our latest shootout but ? as far as we?re concerned ? it did well where it matters.</paragraph>
+			<paragraph>By the way, we should note that we have on our hands a pre-release unit clocked at 1.2 GHz ? the market-ready units will have 1.4 GHz clock rates enabled. Even at the lower speed though, the new Galaxy S Plus outperformed the year-old original in most tasks we tested. The speed boost is there ? now, let?s see how much of an upgrade we can expect elsewhere.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Samsung Galaxy S Plus I9001 360-degree spin<subsectionTitle>
+			<paragraph>At 119 g, the Galaxy S Plus has the same friendly weight of the original ? to disprove initial reports, the handset has no metal on the body.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Design and construction<subsectionTitle>
+			<paragraph>The Galaxy S Plus is exactly the same dimensions as the original Galaxy S, down to the slim waistline of just 9.9 mm and the weight of 119 g. It?s not a small phone by any means but it?s really fine for a 4-incher.</paragraph>
+			<paragraph>Still, it remains perfectly manageable and pocket friendly. The handset is slim enough to allow easy single-hand operation.</paragraph>
+			<paragraph>Design-wise, it?s a flashback from last year ? a replica head to toe, save for minor details like the back panel pattern and the lighter-colored trim around the display.</paragraph>
+			<paragraph>The phone uses the same SuperAMOLED WVGA (800 x 480) display. You get to enjoy excellent viewing angles and great contrast on a 4? diagonal. The downside is it?s based on the old PenTile matrix with fewer subpixels than the updated SuperAMOLED Plus screens.</paragraph>
+			<paragraph>It?s still a SAMOLED unit we?re talking about here, so image quality and viewing angles are top-notch nonetheless.</paragraph>
+			<paragraph>The layout of controls is the same too. The Power/Lock button is on the right-hand side. On the left you?ll only find the volume rocker.</paragraph>
+			<paragraph>The top features the 3.5 mm headset jack and the MicroUSB port, protected by a sliding cover.</paragraph>
+			<paragraph>The back panel looks darker and omits the ?with Google? logo. It has the same kind of fake holographic finish: smooth on the outside but underneath the see-thru layer there?s a different pattern used. Overall, it looks better than the original.</paragraph>
+			<paragraph>The battery is a 1650 MAh Li-Ion unit ? higher capacity than in the original Galaxy S. A higher-clocked CPU uses more power and a bigger battery makes sense. We?re yet to see though whether the new model will be able to match the standby and talks times of the original Galaxy S.</paragraph>
+			<paragraph>At the back you?ll also find the 5 MP camera lens and the loudspeaker grill. There?s no camera flash much like on the original.</paragraph>
+			<paragraph>The all-plastic build is nothing to be excited about. One thing to note perhaps is that fingerprints are less of an issue in the new edition. The design allows comfortable handling and the styling is clean and uncluttered.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>User interface<subsectionTitle>
+			<paragraph>The Galaxy S Plus has version 2.3.3 of Android, called Gingerbread. It has been tweaked to feel fluid and responsive. There isn?t a whole lot of change compared to the original Galaxy S ? which by the way has already received its Gingerbread upgrade too. If you want to get an idea of the performance of the Galaxy S Plus check out the user interface video demo below.</paragraph>
+			<paragraph></paragraph>
+			<paragraph>Now let?s go quickly through the user interface. The homescreen stretches across up to 7 panes, which can be quite easily personalized. A pinch on the homescreen takes you to the edit screen where you can add or remove stuff and rearrange the panes as you see fit.</paragraph>
+			<paragraph>There are the usual four shortcuts docked at the bottom. The rightmost of them toggles homescreen and app launcher.</paragraph>
+			<paragraph>The wallpapers gallery offers both static and live ones. The Android Market can give you even more options if the preinstalled content doesn?t suite you.</paragraph>
+			<paragraph>The main menu is basically unchanged from the original Galaxy S, except that the icons have lost their color backgrounds to look a lot less iPhone-like. The menu is side-scrollable, with a 4 x 4 grid of icons on each page, the four docked icons at the bottom visible at all times. You can also opt for a list view. Rearranging apps is very easy to ? in edit mode just drag an icon where you want it placed.</paragraph>
+			<paragraph>The TouchWiz launcher features a built-in task manager complete with a homescreen widget that shows the number of currently active apps. With it, you don?t need to install a task killer on your own.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Synthetic benchmarks<subsectionTitle>
+			<paragraph>We?ve seen enough proof already that the I9001 Galaxy S Plus is faster than the original Galaxy S. But if you care to know how much faster, our benchmarks are at your disposal. In the case of our test unit, the Snapdragon processor is clocked at 1.2 GHz, which isn?t what the final result will look like. At 1.4 GHz, the market-ready Galaxy S Plus will hopefully do better.</paragraph>
+			<paragraph>But that?s not to say that the Galaxy S Plus doesn?t outclass the original Galaxy S. In this test, both phones are running the latest Android build ? 2.3.3 Gingerbread.</paragraph>
+			<paragraph>At Quadrant the Galaxy S Plus blew the original away. It was almost twice as fast at BenchmarkPi and way better on Linpack.</paragraph>
+			<paragraph>So far so good for the Galaxy S Plus, with the Galaxy S lagging far behind. And it?s a safe bet that the final version will pack even more punch.</paragraph>
+			<paragraph>Smartbench 2011 shows hands down the Galaxy S Plus superiority, while Neocore reported a virtual tie, which isn?t very surprising, considering that the GPUs on both phones aren?t too far apart.</paragraph>
+			<paragraph>That?s about it for synthetic benchmarks but you should keep in mind that the actual performance of the two isn?t drastically different. They?re both premium performers.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>Image gallery<subsectionTitle>
+			<paragraph>The Samsung I9001 Galaxy S Plus has the stock Android gallery, rather than a custom TouchWiz version. It has good functionality, cool 3D looks and nice transition effects, but only shows a downsized version of your images. .</paragraph>
+			<paragraph>Images and videos placed in different folders appear in different sub-galleries that automatically get the name of the folder, which is very convenient - just like a file manager.</paragraph>
+			<paragraph>The different albums appear as piles of photos, which fall in neat grids once selected. If you have online albums over at Picasa those show up as separate stacks as well.</paragraph>
+			<paragraph>Alternatively, you can organize photos by date with the help of a button in the top right corner, which switches between grid and timeline view.</paragraph>
+			<paragraph>In grid view, there?s a date slider, which can also be used to find photos taken on a certain date.</paragraph>
+			<paragraph>If you are checking out a photo, you can use the tabs at the top of the screen to jump back to the main gallery screen, without having to go several folders back.</paragraph>
+			<paragraph>The gallery supports finger scrolling or panning so you can skip images without having to return to the default view. Just swipe to the left or right when viewing a photo in fullscreen mode and the previous/next image will appear. Multi-touch is, of course, enabled.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video player<subsectionTitle>
+			<paragraph>The video player of the Galaxy S Plus is inherited from the original Galaxy S. It?s easy to use and offers unsurpassed codec support for basically anything you?d want. DivX and XviD are covered and you can also watch them up to 720p HD.</paragraph>
+			<paragraph>The video player app has a nice and simple interface that automatically disappears when not used to allow you to enjoy your videos in their full shine. The on-screen controls boil down to play/pause and skip buttons, as well as a draggable progress bar.</paragraph>
+			<paragraph>The Outdoor visibility setting boosts the brightness and contrast of your screen to give you better viewing quality.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music player<subsectionTitle>
+			<paragraph>The Samsung Galaxy S Plus uses the TouchWiz music player. The interface consists of several tabs for the sorting options: current playlist, all tracks, playlists and albums, artists and composers. You are free to remove those you don?t need to make the interface easier to navigate.</paragraph>
+			<paragraph>In addition, equalizer presets are enabled on the Galaxy S Plus along with Samsung?s DNSe technology.</paragraph>
+			<paragraph>And with the added eye-candy, album view and song scrolling, things are almost as good as they can get now.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Music Hub<subsectionTitle>
+			<paragraph>The Music Hub app is here too. It lets you browse music online with search, charts, new releases and featured content. You can preview songs (30 seconds each) and buy tracks or whole albums.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>5 MP still camera<subsectionTitle>
+			<paragraph>The Galaxy S Plus repeats its predecessor in the imaging department as well. It has a 5 MP camera with autofocus, touch focus, face and smile detection, and geotagging.</paragraph>
+			<paragraph>In terms of image quality, the Galaxy S Plus offers no advantage over the original Galaxy S. In short, it?s not the best 5 MP camera around. Images turn out slightly underexposed at this stage and colors are duller than we would?ve liked.</paragraph>
+			<paragraph>Here are the actual samples for you to check out.</paragraph>
+			<paragraph>We?ve also snapped two macro shots with the Galaxy S Plus camera.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Video recorder<subsectionTitle>
+			<paragraph>The Galaxy S Plus is among the HD-capable smartphones out there. It can record up to 720p videos (1280 x 720) at 30 fps.</paragraph>
+			<paragraph>The amount of resolved detail is good, noise levels are low.</paragraph>
+			<paragraph></paragraph>
+			<paragraph></paragraph>
+			<paragraph>Here?s an  untouched video sample from the Galaxy S Plus.</paragraph>
+			<paragraph>We?ll make sure we conduct a proper camera comparison to the original Galaxy S as soon as we get a hold on a retail Galaxy S Plus unit.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>A great web browser<subsectionTitle>
+			<paragraph>The browser app supports the double tap and pinch-zoom along with the new two-finger tilt zoom. There are niceties such as multiple tabs, text reflow, find on page and so on.</paragraph>
+			<paragraph>Pages look nice on the ample 4? SuperAMOLED display, although it?s not the same experience as on the bigger, superior SuperAMOLED Plus display.</paragraph>
+			<paragraph>Tabs and bookmarks are shown in a thumbnail style, while history lists your last visited sites.</paragraph>
+			<paragraph>The 1.2 GHz Snapdragon processor inside the Galaxy S Plus gives a shoulder of support to watching videos straight in the browser. It can play YouTube videos up to 720p trouble free. Flash games in the browser were no problem either. We used Kongregate as our testing playground.</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>First impressions<subsectionTitle>
+			<paragraph>If you lost track of the Samsung Galaxy S spinoffs we can?t blame you. It seems every next sequel gives credit to the original while more or less struggling to justify its own existence.</paragraph>
+			<paragraph>The Plus edition is supposed to breathe new life into the old Galaxy S. The overclocked CPU provides a gain in speed indeed ? and even more to come. On the other hand, the Plus is still stuck at the old 5MP camera, 720p video recording and the old PenTile SuperAMOLED screen.</paragraph>
+			<paragraph>You can?t look to the future with tricks from the past. In any other case ? this would?ve been the harsh verdict. The Galaxy S Plus though has one thing in its favor. It can pretend it's not a proper stand-alone model - and it won't be far from the truth.</paragraph>
+			<paragraph>If you think the Galaxy S Plus offers little over the original you may have a point. But there's a different way to look at the Samsung I9001 Galaxy S Plus. It could simply be a limited edition localized package. In Russia it?ll be called the Galaxy S 2011 Edition - that's where it will start - and may as well end.</paragraph>
+			<paragraph>On the other hand, if Samsung see potential, the Galaxy S Plus may reach other markets too. There it will fill a gap between the original Galaxy S and the current flagship Galaxy S II. As long as it?s priced reasonably below the Galaxy S II, it has every reason to hope.</paragraph>
+		</subsection>
+	</page>
+</review>

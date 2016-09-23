@@ -1,0 +1,71 @@
+<review>
+	<title>LG V10 and Watch Urbane 2nd edition</title>
+	<description>First look</description>
+	<link>http://www.gsmarena.com/lg_v10_watch_urbane_2nd_ed_handson-review-1315.php</link>
+	<page>
+		<subsection>
+			<subsectionTitle>LG V10 at a glance:<subsectionTitle>
+			<paragraph>Body: 316L stainless steel frame, MIL-STD shock resistance</paragraph>
+			<paragraph>Main display: 5.7" Quantum Display, 1,440 x 2,560px resolution (515ppi)</paragraph>
+			<paragraph>Secondary display: 2.1" 160 x 1,040px, always on (5% battery drain per day)</paragraph>
+			<paragraph>Camera: 16MP, f/1.9, OIS; 2160p video capture with manual controls and advanced audio settings</paragraph>
+			<paragraph>Audio: Dedicated 32-bit Hi-Fi DAC for high impedance headphones; Audio resampling</paragraph>
+			<paragraph>Battery: 3,000mAh</paragraph>
+			<paragraph>Misc: Fingerprint reader</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>LG Watch Urbane 2nd edition<subsectionTitle>
+			<paragraph>Case diameter: 44.5mm</paragraph>
+			<paragraph>Display: 1.38" full-circle P-OLED, 480x480 pixels, 348ppi</paragraph>
+			<paragraph>Battery: 570mAh Li-Ion</paragraph>
+			<paragraph>Chipset: Snapdragon 400 (MSM8x26), 768MB RAM, 4GB internal storage</paragraph>
+			<paragraph>Sensors: Accelerometer, Gyro, Compass, Barometer, PPG</paragraph>
+			<paragraph>SIM card: nano-SIM</paragraph>
+			<paragraph>Colors: Signature brown, Space black, Luxe white, Opal blue</paragraph>
+			<paragraph>Misc: IP67 protection</paragraph>
+		</subsection>
+		<subsection>
+			<subsectionTitle>Introduction<subsectionTitle>
+			<paragraph>LG invited us over to meet its best gadgets yet - the LG V10 flagship and the LG Watch Urbane 2nd edition. Both outshine their predecessors with unique features, like a secondary screen and Android Wear's first LTE connection.</paragraph>
+			<paragraph>The LG V10 is like a G4 on steroids. It features a rugged metal frame, a dedicated Hi-Fi audio chip, a fingerprint sensor and 4GB of RAM.</paragraph>
+			<paragraph>The unique features are a 2.1" line display above the main display, used for always-on notifications and active control of the phone. To its left are two cameras - one for selfies and one for groupies. The main camera borrows G4 hardware, but brings its own improved software.</paragraph>
+			<paragraph>The LG Watch Urbane 2nd edition features a bigger screen than its predecessor and LTE. Yes, the Urbane LTE had it too, but that was a WebOS watch. And it didn't have removable wrist straps, which this one does.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG V10 hands-on<subsectionTitle>
+			<paragraph>LG chose to unveil its new flagship away from other major events and the LG V10 is certainly strong enough to carry the show by itself (that's not to say we didn't enjoy meeting the Urbane 2nd edition). With this move the G series takes a step back, but other Androids also need to watch their back.</paragraph>
+			<paragraph>The build quality is inspiring - LG used 316L stainless steel for the frame (also used in the Vertu Bellperre Touch) and DuraSkin for the removable back cover, a high-quality, grippy silicon.</paragraph>
+			<paragraph>And you need great grip - while the phone is reasonably thick at 8.6mm it weighs a hefty 192g. The phone passes the MIL-STD requirements for shock resistance, but lacks waterproofing.</paragraph>
+			<paragraph>You must have heard about the second screen on the LG V10. Well, it turns out that's not quite true - it's a single Quantum Display, but LG cut out a portion of it to make room for the two selfie cameras.</paragraph>
+			<paragraph>The upper 2.1" 160 x 1,040px display is wired separately from the rest of screen though and it has its own backlight. This allows the "second" screen to be very efficient, even though it's always on. It costs you just 5% of battery charge per day.</paragraph>
+			<paragraph>This display can show info (time, weather, appointments, in-app controls), recent apps and app shortcuts, quick tools or simply your signature.</paragraph>
+			<paragraph>The main portion of the screen is equivalent to a 5.7" screen with 1,440 x 2,560px resolution (515ppi). This puts it on par with the Samsung Galaxy Note5 and S6 edge+. LG used "dual-layer" Gorilla Glass 4, which should improve the screen's resistance to hits.</paragraph>
+			<paragraph>The LG V10 has two selfie cameras, both with 5MP sensors. This isn't for HTC-like camera effects, it's for the different fields of view. One camera has an 80° lens, fairly narrow and perfect for snapping your pretty self alone. The other is much wider at 120° and lets you invite friends to join the shot. This eliminates the need for selfie sticks or software tricks like Samsung's Wide selfie.</paragraph>
+			<paragraph>The main camera borrows the hardware from the LG G4 - the 16MP sensor, f/1.8 lens and optical stabilization, but brings new software.</paragraph>
+			<paragraph>You get manual controls for video recording, including advanced audio controls - you can adjust the volume, enable Wind Noise Filter and adjust the directivity. This means you can tune the LG V10's microphones to capture mainly your narration or focus them at the scene.</paragraph>
+			<paragraph>Another cool feature can automatically trim your videos to 15 second clips, perfect for the short attention span generation. Perhaps 6 seconds would have been more practical for posting on Vine. By the way, G4 owners should get some of those features (hardware permitting) as an update.</paragraph>
+			<paragraph>The silicone cover on the back is removable, giving you access to the battery (3,000mAh) and SIM and microSD card slots.</paragraph>
+			<paragraph>Also here is LG's usual button setup, but with a new feature - the Power button now houses a fingerprint reader. We found the positioning quite convenient and the sensor works pretty quickly.</paragraph>
+			<paragraph>The LG V10 features what LG has dubbed "The Ultimate Hi-Fi Solution." A dedicated 32-bit DAC can be powered on to feed high-impedance headphones. The phone's software can upsample audio, going from a standard MP3 16bit/44.1kHz to 32bit/384kHz (though this is likely more of a placebo thing). You also get very fine-grained volume control - 75 steps, compared to 15 or so on most other phones.</paragraph>
+			<paragraph>Here's a quick walkthrough all the new cool features of the LG V10:</paragraph>
+			<paragraph></paragraph>
+			<paragraph>The LG V10 climbs above the G4 in the company's product range. The pricing hasn't been finalized yet, but you can expect it to be on the level of iPhone 6s Plus and Android flagships.</paragraph>
+			<paragraph>The phone is powered by the same Snapdragon 808 chipset as the LG G4, but it packs 4GB of RAM, which should improve performance. Still, S808 is a bit uninspiring for the new new flagship. The OS currently sits on 5.1.1 Lollipop, but LG plans to update to Android 6.0 Marshmallow by the end of the year or early 2016.</paragraph>
+		</subsection>
+	</page>
+	<page>
+		<subsection>
+			<subsectionTitle>LG Watch Urbane 2nd Edition hands-on<subsectionTitle>
+			<paragraph>Smartwatches have gone from geeky accessories to stylish timepieces that wouldn't be out of place on the wrists of suit-wearers. LG is largely responsible for this transition with the first generation Watch Urbane. Now, the Watch Urbane 2nd Edition is upping the ante with an improved feature set and even better looks.</paragraph>
+			<paragraph>In our opinion, the LG Watch Urbane 2nd Edition looks quite awesome with its larger 1.38" P-OLED display of 480 x 480 pixel resolution. The result is a pixel density of 348ppi, which is really sharp. This is arguably the best smartwatch display in the smartwatch race right now. The case diameter is 44.5mm, which is a nice middle ground in terms of case sizes, although those with smaller wrists might have wished for a smaller option.</paragraph>
+			<paragraph>The housing is made of stainless steel, like before, while two of the buttons on the right side feature rubber caps for better grip. Sadly, the wristband isn't replaceable, because there are hardware components inside it, so you'll have to carefully choose yours when buying one. Available color options are Signature Brown, Space Black, Luxe White, Opal Blue.</paragraph>
+			<paragraph>This is the first Android Wear smartwatch with built-in 4G LTE. The watch uses a nano-SIM card, which is removable. LG is working with carriers to enable the smartwatch to receive calls from the same number as your phone, regardless of having a separate SIM. The feature would allow you to leave your phone behind while running quick errands, going to the gym or the bar, for instance.</paragraph>
+			<paragraph>Under the hood, the second edition Watch Urbane uses the same Snapdragon 400 chipset as its predecessors, albeit with more RAM at 768MB compared to 512MB. Internal storage remains 4GB if you want to throw music on it.</paragraph>
+			<paragraph>LG is quite proud of the smartwatch's battery. It boasts two days of usage before needing a recharge. It's an innovative 570mAh Li-Ion hexagon unit, which has been made by LG Chem. Despite the shape though, the smartwatch is rather thick at 14.2mm. We don't have official word on weight just yet, but the watch does feel quite solid.</paragraph>
+			<paragraph>Finally, LG has pre-loaded a personal coaching app into the smartwatch to guide users through their workouts. It can tell you to speed up or slow down depending on your requirements and even track your sprint and lap times. The company has added new watchfaces, too.</paragraph>
+			<paragraph>Overall, the LG Watch Urbane 2nd Edition is a nice evolutionary step over its predecessor. With classier looks and better hardware, LG is refusing to give in to the competition from Samsung, Huawei and Motorola, which have all stepped up their wearables game immensely. If only LG could offer more customization options, this could've been the perfect Android Wear smartwatch. For now though, it's just one of the best.</paragraph>
+		</subsection>
+	</page>
+</review>
