@@ -1,4 +1,4 @@
-package helpers;
+package main.java.helpers;
 
 /**
  * @author Gabriel Gutu

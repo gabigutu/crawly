@@ -1,17 +1,16 @@
-package tests;
+package test.java.crawlers.metacritic;
 
 import java.io.IOException;
+import main.java.crawlers.Metacritic;
+
 
 import org.junit.Test;
-
-import crawlers.*;
-
 
 /**
  * @author Gabriel Gutu
  *
  */
-public class Tests {
+public class MetacriticTest {
 
 	@Test
 	public void metacriticParser() {

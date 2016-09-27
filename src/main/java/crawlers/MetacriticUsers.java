@@ -1,4 +1,4 @@
-package crawlers;
+package main.java.crawlers;
 
 import main.java.crawlers.Review;
 import java.io.IOException;
@@ -36,7 +36,7 @@ public class MetacriticUsers extends AbstractCrawler {
 	}
 
 	@Override
-	public Review parse(String url) throws IOException {		
+	public ArrayList<Review> parse(String url) throws IOException {		
 		if (url == null || url.length() == 0) return null;
 		
 		Document doc = Jsoup.connect(url)
@@ -169,18 +169,14 @@ public class MetacriticUsers extends AbstractCrawler {
 					System.out.println("Text: "+description);
 					review.setFullReview(description);
 				}
-			
 			}
 			
-			review.setOfficial(false);
-			
-			
+			review.setOfficial(false);			
 			
 			reviews.add(review);
-			//break;
 		}
 		
-		return null;
+		return reviews;
 	}
 	
 	public static void main(String[] args){
@@ -191,5 +187,14 @@ public class MetacriticUsers extends AbstractCrawler {
 			e.printStackTrace();
 		}
 	}
+
+    @Override
+    public void setName(String metacritic) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    private void setMaxScore(double d) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 
 }

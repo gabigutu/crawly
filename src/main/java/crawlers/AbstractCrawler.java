@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 import helpers.*;
-import main.java.crawlers.Review;
 
 /**
  * @author Gabriel Gutu
