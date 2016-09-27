@@ -1,4 +1,4 @@
-package main.java.crawlers;
+package main.java.crawlers.metacritic;
 
 import main.java.crawlers.Review;
 import java.io.IOException;
@@ -9,6 +9,8 @@ import java.util.GregorianCalendar;
 import java.util.StringTokenizer;
 
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.MaximizeAction;
+import main.java.crawlers.AbstractCrawler;
+import main.java.crawlers.Review;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -30,7 +32,7 @@ public class MetacriticUsers extends AbstractCrawler {
 	}
 
 	@Override
-	public ArrayList<Review> crawl() {
+	public ArrayList<String> crawl(String url) {
 		// TODO Auto-generated method stub
 		return null;
 	}
@@ -194,6 +196,11 @@ public class MetacriticUsers extends AbstractCrawler {
     }
 
     private void setMaxScore(double d) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    @Override
+    public ArrayList<Review> parseIndexedLinks() throws IOException {
         throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 

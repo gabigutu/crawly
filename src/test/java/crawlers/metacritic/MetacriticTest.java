@@ -1,7 +1,7 @@
 package test.java.crawlers.metacritic;
 
 import java.io.IOException;
-import main.java.crawlers.Metacritic;
+import main.java.crawlers.metacritic.Metacritic;
 
 
 import org.junit.Test;

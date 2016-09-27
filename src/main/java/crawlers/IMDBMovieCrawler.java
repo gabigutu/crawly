@@ -40,7 +40,7 @@ public class IMDBMovieCrawler extends AbstractCrawler{
 	}
 	
 	@Override
-	public ArrayList<Review> crawl() {
+	public ArrayList<String> crawl(String url) {
 		return null;
 	}
 
@@ -465,5 +465,10 @@ public class IMDBMovieCrawler extends AbstractCrawler{
                 }
                 err.close();  
 	}
+
+    @Override
+    public ArrayList<Review> parseIndexedLinks() throws IOException {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 	
 }

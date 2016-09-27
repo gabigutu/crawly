@@ -1,7 +1,9 @@
-package main.java.crawlers;
+package main.java.crawlers.metacritic;
 
 import java.io.IOException;
 import java.util.ArrayList;
+import main.java.crawlers.AbstractCrawler;
+import main.java.crawlers.Review;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -22,7 +24,7 @@ public class Metacritic extends AbstractCrawler {
     }
 
     @Override
-    public ArrayList<Review> crawl() {
+    public ArrayList<String> crawl(String url) {
         // TODO Auto-generated method stub
         return null;
     }
@@ -69,5 +71,10 @@ public class Metacritic extends AbstractCrawler {
         }
 
         return reviews;
+    }
+
+    @Override
+    public ArrayList<Review> parseIndexedLinks() throws IOException {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
