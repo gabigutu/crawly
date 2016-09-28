@@ -103,7 +103,7 @@ public class GrenobleCrawler extends AbstractCrawler {
 
             // other meta information are ignored (stored in <p> elements)
             // sections
-            Elements sections = content.select("div.section");
+            Elements sections = content.select("> div.section");
 
             LOGGER.info("Adding title of document: " + h1.text());
             LOGGER.info("Adding author of document: " + author);
@@ -115,9 +115,11 @@ public class GrenobleCrawler extends AbstractCrawler {
                     .add("authors").add("author").set(author).up().up();
 
             //Xembler xmlBuilder = new Xembler();
-            LOGGER.info("There are " + sections.size() + " main sections.");
+            buildSection(content, directivesDocument);
+            LOGGER.info("There are " + sections.size() + " sections.");
             for (Element section : sections) {
                 buildSection(section, directivesDocument);
+                directivesDocument.up();
             }
 
             Xembler xmlBuilder = new Xembler(directivesDocument);
@@ -139,7 +141,10 @@ public class GrenobleCrawler extends AbstractCrawler {
         directivesDocument = directivesDocument.add("section")
                 .attr("type", "document");
         String sectionTitle = "";
-        if (!element.select("h2").isEmpty()) {
+        if (!element.select("h1").isEmpty()) {
+            sectionTitle = element.select("h1").get(0).text();
+        }
+        else if (!element.select("h2").isEmpty()) {
             sectionTitle = element.select("h2").get(0).text();
         }
         directivesDocument
@@ -162,7 +167,6 @@ public class GrenobleCrawler extends AbstractCrawler {
                 directivesDocument.add(innerElement.tag()).set(innerElement.text()).up();
             }
         }
-        directivesDocument.up();
     }
 
     private static void printXmlFile(String fileName, Xembler xmlBuilder) {
