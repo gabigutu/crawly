@@ -115,10 +115,10 @@ public class GrenobleCrawler extends AbstractCrawler {
                     .add("authors").add("author").set(author).up().up();
 
             //Xembler xmlBuilder = new Xembler();
-            buildSection(content, directivesDocument);
+            buildSection(content, directivesDocument, false);
             LOGGER.info("There are " + sections.size() + " sections.");
             for (Element section : sections) {
-                buildSection(section, directivesDocument);
+                buildSection(section, directivesDocument, true);
                 directivesDocument.up();
             }
 
@@ -131,7 +131,7 @@ public class GrenobleCrawler extends AbstractCrawler {
 
     }
 
-    private static void buildSection(Element element, Directives directivesDocument) {
+    private static void buildSection(Element element, Directives directivesDocument, boolean includeParagraphs) {
         Elements innerElements = element.children();
         if (innerElements.isEmpty()) {
             return;
@@ -157,6 +157,7 @@ public class GrenobleCrawler extends AbstractCrawler {
 
         LOGGER.info("Inner inner elements size: " + innerElements.size());
         for (Element innerElement : innerElements) {
+            if (!includeParagraphs && innerElement.tag().toString().compareTo("p") == 0) continue;
             LOGGER.info("Inner element: " + innerElement.text());
             if (innerElement.tag().toString().compareTo("div") == 0
                     && innerElement.attr("class").compareTo("section") == 0) {
