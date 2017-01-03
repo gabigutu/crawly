@@ -17,10 +17,10 @@ import java.util.logging.Logger;
 import main.java.crawlers.AbstractCrawler;
 import main.java.crawlers.Review;
 import org.jsoup.Connection;
+import org.jsoup.Connection.Response;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
-import org.jsoup.safety.Whitelist;
 import org.jsoup.select.Elements;
 import org.xembly.Directives;
 import org.xembly.ImpossibleModificationException;
@@ -47,7 +47,7 @@ public class GrenobleCrawler extends AbstractCrawler {
             return null;
         }
 
-        LOGGER.info("Crawling " + url + ".");
+        LOGGER.log(Level.INFO, "Crawling {0}.", url);
 
         Connection connection = Jsoup.connect(url);
         connection = setMozillaHeaders(connection);
@@ -78,16 +78,24 @@ public class GrenobleCrawler extends AbstractCrawler {
 
     @Override
     public ArrayList<Review> parseIndexedLinks() throws IOException {
-
-        LOGGER.info("There are " + indexedLinks.size() + " links to be processed.");
-
+        PrintWriter writer;
+                
+        LOGGER.log(Level.INFO, "There are {0} links to be processed.", indexedLinks.size());
         for (String link : indexedLinks) {
-
-            LOGGER.info("Processing link: " + link);
+            LOGGER.log(Level.INFO, "Processing link: {0}", link);
 
             Connection connection = Jsoup.connect(link);
             connection = setMozillaHeaders(connection);
             Document doc = connection.get();
+            Response response = connection.execute();
+            // TODO: Didn't find any way to get text from Document
+            // Two requests are sent. Needs improvement!
+            String urlLink = new URL(link).getPath();
+            File file = new File(Constants.GRENOBLE_OUTPUT_PATH + urlLink);
+            writer = new PrintWriter(file);
+            writer.write(response.body());
+            writer.close();
+            LOGGER.log(Level.INFO, "Printed HTML file to: {0}{1}.html", new Object[]{Constants.GRENOBLE_OUTPUT_PATH, urlLink});
 
             Element content = doc.select("div.body > div.section").get(0);
 
@@ -105,8 +113,8 @@ public class GrenobleCrawler extends AbstractCrawler {
             // sections
             Elements sections = content.select("> div.section");
 
-            LOGGER.info("Adding title of document: " + h1.text());
-            LOGGER.info("Adding author of document: " + author);
+            LOGGER.log(Level.INFO, "Adding title of document: {0}", h1.text());
+            LOGGER.log(Level.INFO, "Adding author of document: {0}", author);
             Directives directivesDocument = new Directives();
             directivesDocument
                     .add("document")
@@ -116,14 +124,13 @@ public class GrenobleCrawler extends AbstractCrawler {
 
             //Xembler xmlBuilder = new Xembler();
             buildSection(content, directivesDocument, false);
-            LOGGER.info("There are " + sections.size() + " sections.");
+            LOGGER.log(Level.INFO, "There are {0} sections.", sections.size());
             for (Element section : sections) {
                 buildSection(section, directivesDocument, true);
                 directivesDocument.up();
             }
 
             Xembler xmlBuilder = new Xembler(directivesDocument);
-            String urlLink = new URL(link).getPath();
             printXmlFile(urlLink, xmlBuilder);
         }
 
@@ -136,7 +143,7 @@ public class GrenobleCrawler extends AbstractCrawler {
         if (innerElements.isEmpty()) {
             return;
         }
-        LOGGER.info("There are " + innerElements.size() + " inner elements.");
+        LOGGER.log(Level.INFO, "There are {0} inner elements.", innerElements.size());
 
         directivesDocument = directivesDocument.add("section")
                 .attr("type", "document");
@@ -149,22 +156,22 @@ public class GrenobleCrawler extends AbstractCrawler {
         }
         directivesDocument
                 .attr("title", sectionTitle);
-        LOGGER.info("Discovered new section: " + sectionTitle);
+        LOGGER.log(Level.INFO, "Discovered new section: {0}", sectionTitle);
 
         if (innerElements.get(0).tag().toString().compareTo("h2") == 0) {
             innerElements.remove(0);
         }
 
-        LOGGER.info("Inner inner elements size: " + innerElements.size());
+        LOGGER.log(Level.INFO, "Inner inner elements size: {0}", innerElements.size());
         for (Element innerElement : innerElements) {
             if (!includeParagraphs && innerElement.tag().toString().compareTo("p") == 0) continue;
-            LOGGER.info("Inner element: " + innerElement.text());
+            LOGGER.log(Level.INFO, "Inner element: {0}", innerElement.text());
             if (innerElement.tag().toString().compareTo("div") == 0
                     && innerElement.attr("class").compareTo("section") == 0) {
                 //LOGGER.info("Will call again build section for " + innerElement);
                 //sectionDirective = buildSection(innerElement, sectionDirective);
             } else {
-                LOGGER.info("Found inner elements: " + innerElement.tag());
+                LOGGER.log(Level.INFO, "Found inner elements: {0}", innerElement.tag());
                 directivesDocument.add(innerElement.tag()).set(innerElement.text()).up();
             }
         }
@@ -177,7 +184,7 @@ public class GrenobleCrawler extends AbstractCrawler {
             file.getParentFile().mkdirs();
             file.createNewFile();
             writer = new PrintWriter(file);
-            LOGGER.info("Printing to file " + file.getName() + ":");
+            LOGGER.log(Level.INFO, "Printing to file {0}:", file.getName());
             LOGGER.info(xmlBuilder.toString());
             writer.print(xmlBuilder.xml());
             writer.close();
@@ -186,7 +193,7 @@ public class GrenobleCrawler extends AbstractCrawler {
         } catch (UnsupportedEncodingException ex) {
             Logger.getLogger(GrenobleCrawler.class.getName()).log(Level.SEVERE, null, ex);
         } catch (IOException ex) {
-            LOGGER.info("Couldn't print print to: " + file.getAbsolutePath());
+            LOGGER.log(Level.INFO, "Couldn''t print print to: {0}", file.getAbsolutePath());
             Logger.getLogger(GrenobleCrawler.class.getName()).log(Level.SEVERE, null, ex);
         } catch (ImpossibleModificationException ex) {
             Logger.getLogger(GrenobleCrawler.class.getName()).log(Level.SEVERE, null, ex);
