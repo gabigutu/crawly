@@ -4,7 +4,16 @@ import java.io.IOException;
 import java.util.ArrayList;
 
 import helpers.*;
+import java.io.StringWriter;
+import javax.xml.transform.OutputKeys;
+import javax.xml.transform.Transformer;
+import javax.xml.transform.TransformerException;
+import javax.xml.transform.TransformerFactory;
+import javax.xml.transform.dom.DOMSource;
+import javax.xml.transform.stream.StreamResult;
 import org.jsoup.Connection;
+import org.jsoup.nodes.Document;
+import org.w3c.dom.Node;
 
 /**
  * @author Gabriel Gutu
@@ -12,26 +21,26 @@ import org.jsoup.Connection;
  */
 public abstract class AbstractCrawler {
 
-	private String name;
-	protected ArrayList<Review> reviews;
+    private String name;
+    protected ArrayList<Review> reviews;
     protected ArrayList<String> indexedLinks;
-	protected Double maxScore;
-	
-	public String getName() {
-		return name;
-	}
+    protected Double maxScore;
 
-	public void setName(String name) {
-		this.name = name;
-	}
+    public String getName() {
+        return name;
+    }
 
-	public ArrayList<Review> getReviews() {
-		return reviews;
-	}
+    public void setName(String name) {
+        this.name = name;
+    }
 
-	public void setReviews(ArrayList<Review> reviews) {
-		this.reviews = reviews;
-	}
+    public ArrayList<Review> getReviews() {
+        return reviews;
+    }
+
+    public void setReviews(ArrayList<Review> reviews) {
+        this.reviews = reviews;
+    }
 
     public ArrayList<String> getLinks() {
         return indexedLinks;
@@ -40,31 +49,31 @@ public abstract class AbstractCrawler {
     public void setLinks(ArrayList<String> links) {
         this.indexedLinks = links;
     }
-    
+
     public Double getMaxScore() {
-		return maxScore;
-	}
+        return maxScore;
+    }
 
-	public void setMaxScore(Double maxScore) {
-		this.maxScore = maxScore;
-	}
+    public void setMaxScore(Double maxScore) {
+        this.maxScore = maxScore;
+    }
 
-	/**
-	 * @param name
-	 */
-	public AbstractCrawler(String name) {
-		this.name = name;
-		reviews = new ArrayList<>();
+    /**
+     * @param name
+     */
+    public AbstractCrawler(String name) {
+        this.name = name;
+        reviews = new ArrayList<>();
         indexedLinks = new ArrayList<>();
-	}
-	
-	/**
-	 * 
-	 */
-	public AbstractCrawler() {
-		this(Constants.CRAWLER_NAME_NULL);
-	}
-    
+    }
+
+    /**
+     *
+     */
+    public AbstractCrawler() {
+        this(Constants.CRAWLER_NAME_NULL);
+    }
+
     public Connection setMozillaHeaders(Connection connection) {
         connection
                 .userAgent("Mozilla/5.0 (Windows; U; WindowsNT 5.1; en-US; "
@@ -72,13 +81,13 @@ public abstract class AbstractCrawler {
                 .referrer("http://www.google.com");
         return connection;
     }
-	
-	public abstract ArrayList<String> crawl(String url) throws IOException;
-	
-	public abstract ArrayList<Review> parse(String url) throws IOException;
-    
+
+    public abstract ArrayList<String> crawl(String url) throws IOException;
+
+    public abstract ArrayList<Review> parse(String url) throws IOException;
+
     public abstract ArrayList<Review> parseIndexedLinks() throws IOException;
-	
+
 //	public String toString() {
 //		StringBuilder sb = new StringBuilder();
 //		sb.append("Crawler " + name + "\n");
@@ -95,5 +104,4 @@ public abstract class AbstractCrawler {
 //		}
 //		return sb.toString();
 //	}
-	
 }
