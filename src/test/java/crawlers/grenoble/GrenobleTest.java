@@ -20,6 +20,7 @@ public class GrenobleTest {
         
         LOGGER.info("Starting Grenoble test");
         GrenobleCrawler crawler = new GrenobleCrawler();
+        crawler.setSaveTxtFiles(true);
         try {
             crawler.crawl(Constants.GRENOBLE_CRAWL_START);
             crawler.parseIndexedLinks();

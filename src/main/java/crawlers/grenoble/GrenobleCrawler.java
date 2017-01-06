@@ -34,6 +34,8 @@ import org.xembly.Xembler;
 public class GrenobleCrawler extends AbstractCrawler {
 
     private static final Logger LOGGER = Logger.getLogger(GrenobleCrawler.class.getName());
+    
+    private boolean saveTxtFiles;
 
     public GrenobleCrawler() {
         super();
@@ -41,6 +43,10 @@ public class GrenobleCrawler extends AbstractCrawler {
         setMaxScore(100.0);
     }
 
+    public void setSaveTxtFiles(boolean saveTxtFiles) {
+        this.saveTxtFiles = saveTxtFiles;
+    }
+    
     @Override
     public ArrayList<String> crawl(String url) throws IOException {
         if (url == null || url.length() == 0) {
@@ -78,7 +84,7 @@ public class GrenobleCrawler extends AbstractCrawler {
 
     @Override
     public ArrayList<Review> parseIndexedLinks() throws IOException {
-        PrintWriter writer;
+        PrintWriter writer, writerTxt;
                 
         LOGGER.log(Level.INFO, "There are {0} links to be processed.", indexedLinks.size());
         for (String link : indexedLinks) {
@@ -95,6 +101,15 @@ public class GrenobleCrawler extends AbstractCrawler {
             writer = new PrintWriter(file);
             writer.write(response.body());
             writer.close();
+            
+            if (saveTxtFiles) {
+                LOGGER.log(Level.INFO, "Creating Txt file: {0}{1}.txt", new Object[]{Constants.GRENOBLE_OUTPUT_PATH, urlLink});
+                File fileTxt = new File(Constants.GRENOBLE_OUTPUT_PATH + urlLink + ".txt");
+                writerTxt = new PrintWriter(fileTxt);
+            }
+            else {
+                writerTxt = null;
+            }
             LOGGER.log(Level.INFO, "Printed HTML file to: {0}{1}.html", new Object[]{Constants.GRENOBLE_OUTPUT_PATH, urlLink});
 
             Element content = doc.select("div.body > div.section").get(0);
@@ -121,14 +136,19 @@ public class GrenobleCrawler extends AbstractCrawler {
                     .attr("language", "en")
                     .add("title").set(h1.text()).up()
                     .add("authors").add("author").set(author).up().up();
-
+            if (saveTxtFiles && writerTxt != null && h1 != null) writerTxt.write(h1.text() + "\n");
+            if (saveTxtFiles && writerTxt != null && author != "") writerTxt.write(author + "\n");
+            
             //Xembler xmlBuilder = new Xembler();
-            buildSection(content, directivesDocument, false);
+            String htmlToTxt = buildSection(content, directivesDocument, false);
+            if (saveTxtFiles && writerTxt != null) writerTxt.write(htmlToTxt);
             LOGGER.log(Level.INFO, "There are {0} sections.", sections.size());
             for (Element section : sections) {
-                buildSection(section, directivesDocument, true);
+                htmlToTxt = buildSection(section, directivesDocument, true);
+                if (saveTxtFiles && writerTxt != null) writerTxt.write(htmlToTxt);
                 directivesDocument.up();
             }
+            if (saveTxtFiles && writerTxt != null)  writerTxt.close();
 
             Xembler xmlBuilder = new Xembler(directivesDocument);
             printXmlFile(urlLink, xmlBuilder);
@@ -138,11 +158,12 @@ public class GrenobleCrawler extends AbstractCrawler {
 
     }
 
-    private static void buildSection(Element element, Directives directivesDocument, boolean includeParagraphs) {
+    private static String buildSection(Element element, Directives directivesDocument, boolean includeParagraphs) {
         Elements innerElements = element.children();
         if (innerElements.isEmpty()) {
-            return;
+            return "";
         }
+        StringBuilder sb = new StringBuilder();
         LOGGER.log(Level.INFO, "There are {0} inner elements.", innerElements.size());
 
         directivesDocument = directivesDocument.add("section")
@@ -157,6 +178,7 @@ public class GrenobleCrawler extends AbstractCrawler {
         directivesDocument
                 .attr("title", sectionTitle);
         LOGGER.log(Level.INFO, "Discovered new section: {0}", sectionTitle);
+        //sb.append(sectionTitle).append("\n");
 
         if (innerElements.get(0).tag().toString().compareTo("h2") == 0) {
             innerElements.remove(0);
@@ -173,8 +195,10 @@ public class GrenobleCrawler extends AbstractCrawler {
             } else {
                 LOGGER.log(Level.INFO, "Found inner elements: {0}", innerElement.tag());
                 directivesDocument.add(innerElement.tag()).set(innerElement.text()).up();
+                sb.append(innerElement.text()).append("\n");
             }
         }
+        return sb.toString();
     }
 
     private static void printXmlFile(String fileName, Xembler xmlBuilder) {
